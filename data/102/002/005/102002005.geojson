@@ -1,0 +1,81 @@
+{
+  "id": 102002005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000007,
+    "geom:area_square_m":40593.672807,
+    "geom:bbox":"42.9169998169,62.5740013123,42.9249458313,62.5758056641",
+    "geom:latitude":62.575185,
+    "geom:longitude":42.919652,
+    "iso:country":"RU",
+    "lbl:latitude":62.575116,
+    "lbl:longitude":42.918989,
+    "mps:latitude":62.575116,
+    "mps:longitude":42.918989,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
+    "qs:a1":"*\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "qs:a1_lc":"2900500001700",
+    "qs:a1r":"*",
+    "qs:a2":"\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u0441\u043a\u0438\u0439",
+    "qs:adm0":"Russia",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"localadmin",
+    "qs:loc":"GORLICHEVSKAYA",
+    "qs:loc_alt":"\u0413\u043e\u0440\u043b\u044b\u0448\u0435\u0432\u0441\u043a\u0430\u044f",
+    "qs:pop":0,
+    "qs:source":"SUnknown",
+    "qs:type":"\u0434",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85687971,
+        102191581,
+        85632685,
+        874393555,
+        890483287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":559824,
+        "gp:id":90585440
+    },
+    "wof:country":"RU",
+    "wof:geomhash":"f0cf694185d807b48ba40e68e06c4fc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":890483287,
+            "empire_id":874393555,
+            "locality_id":102002005,
+            "region_id":85687971
+        }
+    ],
+    "wof:id":102002005,
+    "wof:lastmodified":1534985978,
+    "wof:name":"Gorlichevskaya",
+    "wof:parent_id":890483287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ru",
+    "wof:superseded_by":[
+        1175613465
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.91699981689453,
+    62.57400131225586,
+    42.92494583129883,
+    62.5758056640625
+],
+  "geometry": {"coordinates":[[[42.92494583129883,62.57574844360352],[42.92341613769531,62.57541656494141],[42.91699981689453,62.57400131225586],[42.91702651977539,62.5758056640625],[42.92494583129883,62.57574844360352]]],"type":"Polygon"}
+}

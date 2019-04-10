@@ -1,0 +1,88 @@
+{
+  "id": 102010369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000139,
+    "geom:area_square_m":1020808.483719,
+    "geom:bbox":"50.8303337097,53.5975837708,50.8492507935,53.6069984436",
+    "geom:latitude":53.602108,
+    "geom:longitude":50.8398,
+    "gn:latitude":53.59822,
+    "gn:longitude":50.84661,
+    "iso:country":"RU",
+    "lbl:latitude":53.601833,
+    "lbl:longitude":50.839801,
+    "mps:latitude":53.601833,
+    "mps:longitude":50.839801,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Krakovo"
+    ],
+    "name:nor_x_preferred":[
+        "Krakovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
+    "qs:a1":"*\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "qs:a1_lc":"6301600003600",
+    "qs:a1r":"*",
+    "qs:a2":"\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439",
+    "qs:adm0":"Russia",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"localadmin",
+    "qs:loc":"KRAKOVO",
+    "qs:loc_alt":"\u041a\u0440\u0430\u043a\u043e\u0432\u043e",
+    "qs:pop":0,
+    "qs:source":"SUnknown",
+    "qs:type":"\u0441",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85687781,
+        102191581,
+        85632685,
+        874393555,
+        1108734709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":542972,
+        "gp:id":90573311
+    },
+    "wof:country":"RU",
+    "wof:geomhash":"72e922c6c09c254e045470ee529afbae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108734709,
+            "empire_id":874393555,
+            "locality_id":102010369,
+            "region_id":85687781
+        }
+    ],
+    "wof:id":102010369,
+    "wof:lastmodified":1501214667,
+    "wof:name":"Krakovo",
+    "wof:parent_id":1108734709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ru",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.8303337097168,
+    53.59758377075195,
+    50.84925079345703,
+    53.60699844360352
+],
+  "geometry": {"coordinates":[[[50.83180618286133,53.59844589233398],[50.8303337097168,53.60505676269531],[50.84491729736328,53.6065559387207],[50.84925079345703,53.60699844360352],[50.84814071655273,53.60108184814453],[50.84438705444336,53.5976676940918],[50.83200073242188,53.59758377075195],[50.83180618286133,53.59844589233398]]],"type":"Polygon"}
+}

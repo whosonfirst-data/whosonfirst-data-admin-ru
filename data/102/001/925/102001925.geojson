@@ -1,0 +1,121 @@
+{
+  "id": 102001925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000856,
+    "geom:area_square_m":4324757.597364,
+    "geom:bbox":"44.0934104919,65.8769760132,44.1368789673,65.9157943726",
+    "geom:latitude":65.893709,
+    "geom:longitude":44.115487,
+    "gn:latitude":65.8835,
+    "gn:longitude":44.1272,
+    "gn:population":3258,
+    "iso:country":"RU",
+    "lbl:latitude":65.889638,
+    "lbl:longitude":44.116968,
+    "mps:latitude":65.889638,
+    "mps:longitude":44.116968,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:arm_x_preferred":[
+        "\u053f\u0561\u0574\u0565\u0576\u056f\u0561"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u043a\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Kamenka"
+    ],
+    "name:eng_x_preferred":[
+        "Kamenka"
+    ],
+    "name:fin_x_preferred":[
+        "Kamenka"
+    ],
+    "name:ger_x_preferred":[
+        "Kamenka"
+    ],
+    "name:nor_x_preferred":[
+        "Kamenka"
+    ],
+    "name:pol_x_preferred":[
+        "Kamienka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kamenka"
+    ],
+    "name:unk_x_variant":[
+        "\u041a\u0430\u043c\u0435\u043d\u043a\u0430"
+    ],
+    "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
+    "qs:a1":"*\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "qs:a1_lc":"2901200001800",
+    "qs:a1r":"*",
+    "qs:a2":"\u041c\u0435\u0437\u0435\u043d\u0441\u043a\u0438\u0439",
+    "qs:adm0":"Russia",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"localadmin",
+    "qs:loc":"KAMENKA",
+    "qs:loc_alt":"\u041a\u0430\u043c\u0435\u043d\u043a\u0430",
+    "qs:pop":0,
+    "qs:source":"SUnknown",
+    "qs:type":"\u0440\u043f",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":157,
+    "wof:belongsto":[
+        102191581,
+        85632685,
+        85687971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":553609,
+        "gp:id":2121156,
+        "qs_pg:id":80889,
+        "wd:id":"Q1004180"
+    },
+    "wof:country":"RU",
+    "wof:geomhash":"58a6b5c83a0fe2b7e0e095c69c442ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "locality_id":102001925,
+            "region_id":85687971
+        }
+    ],
+    "wof:id":102001925,
+    "wof:lastmodified":1553815708,
+    "wof:name":"Kamenka",
+    "wof:parent_id":1108735113,
+    "wof:placetype":"locality",
+    "wof:population":3258,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ru",
+    "wof:superseded_by":[
+        1175613619
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.09341049194336,
+    65.8769760131836,
+    44.13687896728516,
+    65.9157943725586
+],
+  "geometry": {"coordinates":[[[44.13211059570312,65.885498046875],[44.13687896728516,65.87962341308594],[44.12552642822266,65.87842559814453],[44.12117385864258,65.87796783447266],[44.11163711547852,65.87697601318359],[44.10868453979492,65.87944030761719],[44.10774993896484,65.88021850585938],[44.10289764404297,65.88428497314453],[44.0980110168457,65.88837432861328],[44.09341049194336,65.8941650390625],[44.09516525268555,65.89460754394531],[44.10675430297852,65.89752197265625],[44.10828018188477,65.89790344238281],[44.10972213745117,65.90161895751953],[44.10467147827148,65.91471099853516],[44.1115837097168,65.91519927978516],[44.12007522583008,65.91579437255859],[44.12321853637695,65.90341186523438],[44.12677383422852,65.89625549316406],[44.13208376619143,65.88555212780636],[44.13211056,65.88549810338378],[44.13211056767638,65.88549810336923],[44.13211059570312,65.885498046875]]],"type":"Polygon"}
+}

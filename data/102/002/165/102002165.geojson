@@ -1,0 +1,102 @@
+{
+  "id": 102002165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-03",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001117,
+    "geom:area_square_m":6880134.709878,
+    "geom:bbox":"30.1219863892,60.0989074707,30.2310905457,60.1322669983",
+    "geom:latitude":60.119283,
+    "geom:longitude":30.181171,
+    "gn:population":8130,
+    "iso:country":"RU",
+    "lbl:latitude":60.12436,
+    "lbl:longitude":30.177452,
+    "mps:latitude":60.12436,
+    "mps:longitude":30.177452,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Pesochnyy"
+    ],
+    "name:fin_x_preferred":[
+        "Hiekka"
+    ],
+    "name:krl_x_preferred":[
+        "Ruavski"
+    ],
+    "name:nor_x_preferred":[
+        "Pesotsjnyj"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0441\u043e\u0447\u043d\u044b\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Pesochnoye"
+    ],
+    "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
+    "qs:a1":"*\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "qs:a1_lc":"4700500052500",
+    "qs:a1r":"*",
+    "qs:a2":"\u0412\u0441\u0435\u0432\u043e\u043b\u043e\u0436\u0441\u043a\u0438\u0439",
+    "qs:adm0":"Russia",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"localadmin",
+    "qs:loc":"PESOCHNYY",
+    "qs:loc_alt":"\u041f\u0435\u0441\u043e\u0447\u043d\u044b\u0439 (\u0421\u0435\u0440\u0442\u043e\u043b\u043e\u0432\u043e)",
+    "qs:pop":0,
+    "qs:source":"SUnknown",
+    "qs:type":"\u043f\u0433\u0442",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632685,
+        874393555,
+        85688069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":510410,
+        "gp:id":2122846,
+        "qs:id":746758,
+        "qs_pg:id":746758
+    },
+    "wof:country":"RU",
+    "wof:geomhash":"dc7564fef5dd8b7caa616377151ea9b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "empire_id":874393555,
+            "locality_id":102002165,
+            "region_id":85688069
+        }
+    ],
+    "wof:id":102002165,
+    "wof:lastmodified":1510785012,
+    "wof:name":"Pesochnyy",
+    "wof:parent_id":85688069,
+    "wof:placetype":"locality",
+    "wof:population":8130,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ru",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.12198638916016,
+    60.09890747070312,
+    30.2310905456543,
+    60.13226699829102
+],
+  "geometry": {"coordinates":[[[30.18634033203125,60.12286376953125],[30.19620895385742,60.12173080444336],[30.19626045227051,60.12172317504883],[30.21313285827637,60.11978530883789],[30.21745300292969,60.11210632324219],[30.22871780395508,60.10868835449219],[30.22971343994141,60.10602569580078],[30.2310905456543,60.10234069824219],[30.22041511535645,60.09890747070312],[30.20709037780762,60.10502243041992],[30.20193481445312,60.11177062988281],[30.19882774353027,60.11219024658203],[30.18435668945312,60.1141357421875],[30.17939376831055,60.11859893798828],[30.12500953674316,60.12334823608398],[30.12198638916016,60.12648010253906],[30.13228034973145,60.12876892089844],[30.14710998535156,60.1320686340332],[30.15624237060547,60.13226699829102],[30.18765068054199,60.12883758544922],[30.1843147277832,60.12510681152344],[30.18634033203125,60.12286376953125]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 102009401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000516,
+    "geom:area_square_m":3647966.555041,
+    "geom:bbox":"45.8074188232,55.0852355957,45.8464622498,55.1106948853",
+    "geom:latitude":55.097588,
+    "geom:longitude":45.825332,
+    "iso:country":"RU",
+    "lbl:latitude":55.09779,
+    "lbl:longitude":45.825037,
+    "mps:latitude":55.09779,
+    "mps:longitude":45.825037,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
+    "qs:a1":"*\u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "qs:a1r":"*",
+    "qs:adm0":"Russia",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"localadmin",
+    "qs:loc":"STAROYE SELISHCHE",
+    "qs:pop":0,
+    "qs:source":"SUnknown",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85688057,
+        102191581,
+        85632685,
+        874393555,
+        1108736409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2123672
+    },
+    "wof:country":"RU",
+    "wof:geomhash":"f029810940c6d623caa6030b67643eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108736409,
+            "empire_id":874393555,
+            "locality_id":102009401,
+            "region_id":85688057
+        }
+    ],
+    "wof:id":102009401,
+    "wof:lastmodified":1500066054,
+    "wof:name":"Staroye Selishche",
+    "wof:parent_id":1108736409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ru",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.80741882324219,
+    55.08523559570312,
+    45.84646224975586,
+    55.11069488525391
+],
+  "geometry": {"coordinates":[[[45.82081985473633,55.08523559570312],[45.81391143798828,55.08860778808594],[45.80741882324219,55.09745025634766],[45.82594299316406,55.11069488525391],[45.84646224975586,55.09783935546875],[45.82081985473633,55.08523559570312]]],"type":"Polygon"}
+}
