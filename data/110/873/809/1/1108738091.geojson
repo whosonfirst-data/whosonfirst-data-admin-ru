@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010447,
-    "geom:area_square_m":92744903.62978,
+    "geom:area_square_m":92744903.629792,
     "geom:bbox":"42.9803263822,44.0620493911,43.1812153416,44.1699153175",
     "geom:latitude":44.113775,
     "geom:longitude":43.076588,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Zheleznovodsk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":44.108183,
     "lbl:longitude":43.069708,
     "meso:admin1_en":"Stavropol'skij kraj",
@@ -48,7 +60,11 @@
         "District Predgorni"
     ],
     "name:eng_x_preferred":[
-        "Predgornyy"
+        "Zheleznovodsk"
+    ],
+    "name:eng_x_variant":[
+        "ZHeleznovodsk",
+        "Zheleznovodsk"
     ],
     "name:ger_x_preferred":[
         "Predgorny rajon"
@@ -108,11 +124,11 @@
         }
     ],
     "wof:id":1108738091,
-    "wof:lastmodified":1514504075,
-    "wof:name":"ZHeleznovodsk",
+    "wof:lastmodified":1555047717,
+    "wof:name":"Zheleznovodsk",
     "wof:parent_id":85687825,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":100000,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ru",

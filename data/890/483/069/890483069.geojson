@@ -11,6 +11,18 @@
     "geom:longitude":33.823321,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Tikhvinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":59.816285,
     "lbl:longitude":33.41922,
     "meso:admin1_en":"Leningradskaja oblast'",
@@ -47,6 +59,9 @@
     ],
     "name:eng_x_preferred":[
         "Tikhvinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Tikhvinskij"
     ],
     "name:est_x_preferred":[
         "Tihvini rajoon"
@@ -145,11 +160,11 @@
         }
     ],
     "wof:id":890483069,
-    "wof:lastmodified":1536617437,
-    "wof:name":"Tikhvinskij",
+    "wof:lastmodified":1555047544,
+    "wof:name":"Tikhvinskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":15700,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

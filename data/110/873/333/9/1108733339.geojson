@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.337433,
-    "geom:area_square_m":2203602339.216247,
+    "geom:area_square_m":2203602339.216108,
     "geom:bbox":"39.5116401263,57.8713561696,40.6798508752,58.4013412389",
     "geom:latitude":58.120441,
     "geom:longitude":40.114964,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Danilovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":58.097519,
     "lbl:longitude":40.203574,
     "meso:admin1_en":"JAroslavskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Danilovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Danilovskij"
     ],
     "name:ger_x_preferred":[
         "Danilowski rajon"
@@ -99,11 +114,11 @@
         }
     ],
     "wof:id":1108733339,
-    "wof:lastmodified":1514501162,
-    "wof:name":"Danilovskij",
+    "wof:lastmodified":1555047586,
+    "wof:name":"Danilovskiy",
     "wof:parent_id":85687959,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":32000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

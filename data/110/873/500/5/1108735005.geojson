@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.302929,
-    "geom:area_square_m":2336732557.329838,
+    "geom:area_square_m":2336732557.329947,
     "geom:bbox":"44.5242747283,51.0819275056,45.4329177714,51.7115916687",
     "geom:latitude":51.403375,
     "geom:longitude":45.003477,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Lysogorskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.385352,
     "lbl:longitude":44.996578,
     "meso:admin1_en":"Saratovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Lysogorskiy"
+    ],
+    "name:eng_x_variant":[
+        "Lysogorskij"
     ],
     "name:ger_x_preferred":[
         "Lysogorski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108735005,
-    "wof:lastmodified":1514502058,
-    "wof:name":"Lysogorskij",
+    "wof:lastmodified":1555047636,
+    "wof:name":"Lysogorskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":21800,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

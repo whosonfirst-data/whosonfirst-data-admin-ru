@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.106924,
-    "geom:area_square_m":38829528160.136894,
+    "geom:area_square_m":38829528160.136917,
     "geom:bbox":"137.445494732,50.819030333,141.163619962,53.5732991608",
     "geom:latitude":52.052941,
     "geom:longitude":139.495943,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ul'chskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.784517,
     "lbl:longitude":139.622363,
     "meso:admin1_en":"KHabarovskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Ul'chskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ul'chskij"
     ],
     "name:est_x_preferred":[
         "Ult\u0161i rajoon"
@@ -114,11 +129,11 @@
         }
     ],
     "wof:id":1108737161,
-    "wof:lastmodified":1514503762,
-    "wof:name":"Ul'chskij",
+    "wof:lastmodified":1555047704,
+    "wof:name":"Ul'chskiy",
     "wof:parent_id":85687937,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":27300,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

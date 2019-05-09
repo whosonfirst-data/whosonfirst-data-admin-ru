@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.179304,
-    "geom:area_square_m":27006267825.179779,
+    "geom:area_square_m":27006267825.185913,
     "geom:bbox":"135.815709848,44.5222050313,139.027622995,48.4653260701",
     "geom:latitude":46.600811,
     "geom:longitude":137.575886,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ternejskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":47.059052,
     "lbl:longitude":138.133941,
     "meso:admin1_en":"Primorskij kraj",
@@ -45,7 +57,11 @@
         "District Ternejski"
     ],
     "name:eng_x_preferred":[
-        "Terneyskiy"
+        "Ternejskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ternejskij",
+        "Ternejskiy"
     ],
     "name:est_x_preferred":[
         "Ternei rajoon"
@@ -114,11 +130,11 @@
         }
     ],
     "wof:id":1108736993,
-    "wof:lastmodified":1514503597,
-    "wof:name":"Ternejskij",
+    "wof:lastmodified":1555047697,
+    "wof:name":"Ternejskiy",
     "wof:parent_id":85688023,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14800,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

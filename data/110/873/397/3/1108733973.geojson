@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.339769,
-    "geom:area_square_m":2256662103.983415,
+    "geom:area_square_m":2256662103.983339,
     "geom:bbox":"52.3407900302,57.2897162995,53.646868417,57.7692304028",
     "geom:latitude":57.511264,
     "geom:longitude":53.069496,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Igrinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.501772,
     "lbl:longitude":53.059194,
     "meso:admin1_en":"Udmurtskaja respublika",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Igrinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Igrinskij"
     ],
     "name:est_x_preferred":[
         "Igra rajoon"
@@ -114,11 +129,11 @@
         }
     ],
     "wof:id":1108733973,
-    "wof:lastmodified":1514501358,
-    "wof:name":"Igrinskij",
+    "wof:lastmodified":1555047603,
+    "wof:name":"Igrinskiy",
     "wof:parent_id":85687787,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":47700,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

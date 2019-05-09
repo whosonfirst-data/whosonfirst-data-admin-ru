@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.203989,
-    "geom:area_square_m":24990121651.212368,
+    "geom:area_square_m":24990121651.210903,
     "geom:bbox":"124.430333422,60.5401559382,130.299640977,62.0012864444",
     "geom:latitude":61.266183,
     "geom:longitude":127.631698,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Khangalasskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":61.475454,
     "lbl:longitude":128.074612,
     "meso:admin1_en":"Respublika Sakha (JAkutija)",
@@ -48,7 +60,11 @@
         "Hangalasskiy oeloes"
     ],
     "name:eng_x_preferred":[
-        "Khangalasskiy (Ordzhonikidzkiy)"
+        "Khangalasskiy"
+    ],
+    "name:eng_x_variant":[
+        "KHangalasskij ulus",
+        "Khangalasskiy"
     ],
     "name:est_x_preferred":[
         "Hangalass\u00f5 uluss"
@@ -123,11 +139,11 @@
         }
     ],
     "wof:id":1108734343,
-    "wof:lastmodified":1514501426,
-    "wof:name":"KHangalasskij ulus",
+    "wof:lastmodified":1555047616,
+    "wof:name":"Khangalasskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":27400,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

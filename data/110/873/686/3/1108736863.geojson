@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.652648,
-    "geom:area_square_m":4749082224.05584,
+    "geom:area_square_m":4749082224.056131,
     "geom:bbox":"81.701906141,53.4923199186,83.0459141378,54.4112526091",
     "geom:latitude":53.950687,
     "geom:longitude":82.337379,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Suzunskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.964268,
     "lbl:longitude":82.347589,
     "meso:admin1_en":"Novosibirskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Suzunskiy"
+    ],
+    "name:eng_x_variant":[
+        "Suzunskij"
     ],
     "name:ger_x_preferred":[
         "Susunski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108736863,
-    "wof:lastmodified":1514503440,
-    "wof:name":"Suzunskij",
+    "wof:lastmodified":1555047690,
+    "wof:name":"Suzunskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":37300,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

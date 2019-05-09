@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.561069,
-    "geom:area_square_m":8084721825.718628,
+    "geom:area_square_m":8084721825.718455,
     "geom:bbox":"32.4204033797,64.7709913701,35.277889252,66.047531128",
     "geom:latitude":65.238699,
     "geom:longitude":33.807923,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kemskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":65.182035,
     "lbl:longitude":33.988355,
     "meso:admin1_en":"Respublika Karelija",
@@ -46,7 +58,11 @@
         "Kemskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Kemsky District"
+        "Kemskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kemskij",
+        "Kemskiy"
     ],
     "name:est_x_preferred":[
         "Kemi rajoon"
@@ -135,10 +151,11 @@
         }
     ],
     "wof:id":890482143,
-    "wof:lastmodified":1527727140,
-    "wof:name":"Kemskij",
+    "wof:lastmodified":1555047541,
+    "wof:name":"Kemskiy",
     "wof:parent_id":85688193,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

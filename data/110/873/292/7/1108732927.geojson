@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.260089,
-    "geom:area_square_m":1884355377.024366,
+    "geom:area_square_m":1884355377.024401,
     "geom:bbox":"53.7780803293,53.9056111571,54.6239393583,54.4271846294",
     "geom:latitude":54.131845,
     "geom:longitude":54.198598,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Belebeevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.144231,
     "lbl:longitude":54.233615,
     "meso:admin1_en":"Bashkortostan",
@@ -55,6 +67,9 @@
     ],
     "name:eng_x_preferred":[
         "Belebeevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Belebeevskij"
     ],
     "name:est_x_preferred":[
         "Belebei rajoon"
@@ -132,11 +147,11 @@
         }
     ],
     "wof:id":1108732927,
-    "wof:lastmodified":1514500697,
-    "wof:name":"Belebeevskij",
+    "wof:lastmodified":1555047571,
+    "wof:name":"Belebeevskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":16500,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

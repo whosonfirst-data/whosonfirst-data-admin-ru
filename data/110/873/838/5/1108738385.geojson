@@ -10,6 +10,18 @@
     "geom:latitude":58.36092,
     "geom:longitude":51.081788,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Zuevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":58.384429,
     "lbl:longitude":51.088578,
     "meso:admin1_en":"Kirovskaja oblast'",
@@ -52,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Zuevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Zuevskij"
     ],
     "name:ger_x_preferred":[
         "Sujewski rajon"
@@ -114,11 +129,11 @@
         }
     ],
     "wof:id":1108738385,
-    "wof:lastmodified":1514504154,
-    "wof:name":"Zuevskij",
+    "wof:lastmodified":1555047719,
+    "wof:name":"Zuevskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":32200,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

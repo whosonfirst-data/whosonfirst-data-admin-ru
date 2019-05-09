@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.209091,
-    "geom:area_square_m":1471262038.87483,
+    "geom:area_square_m":1471262038.874788,
     "geom:bbox":"52.8660358867,55.1129315743,53.8010237165,55.5089451832",
     "geom:latitude":55.315689,
     "geom:longitude":53.283069,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Musljumovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.313014,
     "lbl:longitude":53.198169,
     "meso:admin1_en":"Tatarstan",
@@ -45,7 +57,11 @@
         "Moesljumovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Muslyumovskiy"
+        "Musljumovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Musljumovskij",
+        "Musljumovskiy"
     ],
     "name:est_x_preferred":[
         "Musljumovo rajoon"
@@ -114,11 +130,11 @@
         }
     ],
     "wof:id":1108735285,
-    "wof:lastmodified":1514502308,
-    "wof:name":"Musljumovskij",
+    "wof:lastmodified":1555047644,
+    "wof:name":"Musljumovskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":23000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

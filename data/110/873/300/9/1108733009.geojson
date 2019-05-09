@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.291614,
-    "geom:area_square_m":2136432797.815383,
+    "geom:area_square_m":2136432797.815156,
     "geom:bbox":"53.7864429791,53.3608623327,54.6285868896,53.9905362971",
     "geom:latitude":53.666058,
     "geom:longitude":54.212286,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Bizhbuljakskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.686649,
     "lbl:longitude":54.177193,
     "meso:admin1_en":"Bashkortostan",
@@ -51,7 +63,11 @@
         "Bizjboeljakskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Bizhbulyakskiy"
+        "Bizhbuljakskiy"
+    ],
+    "name:eng_x_variant":[
+        "Bizhbuljakskij",
+        "Bizhbuljakskiy"
     ],
     "name:est_x_preferred":[
         "Bi\u017ebuljaki rajoon"
@@ -132,11 +148,11 @@
         }
     ],
     "wof:id":1108733009,
-    "wof:lastmodified":1514500744,
-    "wof:name":"Bizhbuljakskij",
+    "wof:lastmodified":1555047574,
+    "wof:name":"Bizhbuljakskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":27400,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

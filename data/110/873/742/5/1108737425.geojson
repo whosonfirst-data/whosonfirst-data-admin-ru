@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.149997,
-    "geom:area_square_m":1003317569.220305,
+    "geom:area_square_m":1003317569.220351,
     "geom:bbox":"41.5424413739,57.0432976483,42.3717438473,57.4405727014",
     "geom:latitude":57.251817,
     "geom:longitude":41.933163,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Vichugskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.297574,
     "lbl:longitude":41.794583,
     "meso:admin1_en":"Ivanovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Vichugskiy"
+    ],
+    "name:eng_x_variant":[
+        "Vichugskij"
     ],
     "name:ger_x_preferred":[
         "Witschugski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108737425,
-    "wof:lastmodified":1514503862,
-    "wof:name":"Vichugskij",
+    "wof:lastmodified":1555047712,
+    "wof:name":"Vichugskiy",
     "wof:parent_id":85688153,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":24500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

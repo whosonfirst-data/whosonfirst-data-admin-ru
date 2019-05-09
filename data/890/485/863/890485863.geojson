@@ -11,6 +11,18 @@
     "geom:longitude":28.423257,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Pskovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":58.054649,
     "lbl:longitude":28.22181,
     "meso:admin1_en":"Pskovskaja oblast'",
@@ -53,6 +65,9 @@
     ],
     "name:eng_x_preferred":[
         "Pskovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Pskovskij"
     ],
     "name:est_x_preferred":[
         "Pihkva rajoon"
@@ -145,11 +160,11 @@
         }
     ],
     "wof:id":890485863,
-    "wof:lastmodified":1536617443,
-    "wof:name":"Pskovskij",
+    "wof:lastmodified":1555047554,
+    "wof:name":"Pskovskiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":37000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

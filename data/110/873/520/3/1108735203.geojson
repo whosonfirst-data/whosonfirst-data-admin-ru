@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.381222,
-    "geom:area_square_m":2800454816.675507,
+    "geom:area_square_m":2800454816.675363,
     "geom:bbox":"41.1825450126,53.1949535198,42.3010313908,53.8223797688",
     "geom:latitude":53.552356,
     "geom:longitude":41.759323,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Morshanskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.603947,
     "lbl:longitude":41.666647,
     "meso:admin1_en":"Tambovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Morshanskiy"
+    ],
+    "name:eng_x_variant":[
+        "Morshanskij"
     ],
     "name:ger_x_preferred":[
         "Morschanski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108735203,
-    "wof:lastmodified":1514502194,
-    "wof:name":"Morshanskij",
+    "wof:lastmodified":1555047642,
+    "wof:name":"Morshanskiy",
     "wof:parent_id":85687829,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":41900,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

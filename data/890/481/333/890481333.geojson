@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.327157,
-    "geom:area_square_m":2925083868.72071,
+    "geom:area_square_m":2925083868.720298,
     "geom:bbox":"41.0283265096,43.2778419817,41.8199706369,44.1881922943",
     "geom:latitude":43.690879,
     "geom:longitude":41.473799,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Zelenchukskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":43.759297,
     "lbl:longitude":41.545797,
     "meso:admin1_en":"Karachaevo-CHerkesskaja respublika",
@@ -47,6 +59,9 @@
     ],
     "name:eng_x_preferred":[
         "Zelenchukskiy"
+    ],
+    "name:eng_x_variant":[
+        "Zelenchukskij"
     ],
     "name:est_x_preferred":[
         "Zelent\u0161ukskaja rajoon"
@@ -95,6 +110,7 @@
     "qs:photos_sr":3,
     "qs:placetype":"County",
     "qs:pop_sr":"0",
+    "src:geom":"unknown",
     "src:geom_alt":[
         "quattroshapes"
     ],
@@ -139,11 +155,11 @@
         }
     ],
     "wof:id":890481333,
-    "wof:lastmodified":1553816413,
-    "wof:name":"Zelenchukskij",
+    "wof:lastmodified":1555047539,
+    "wof:name":"Zelenchukskiy",
     "wof:parent_id":85687913,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":53600,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

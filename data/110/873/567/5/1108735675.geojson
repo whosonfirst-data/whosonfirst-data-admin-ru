@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.643551,
-    "geom:area_square_m":60208336729.019966,
+    "geom:area_square_m":60208336729.013458,
     "geom:bbox":"153.201317641,60.9263052168,158.60653165,65.0694802323",
     "geom:latitude":62.770688,
     "geom:longitude":156.074873,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Omsukchanskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":63.057561,
     "lbl:longitude":156.338249,
     "meso:admin1_en":"Magadanskaja oblast'",
@@ -37,6 +49,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Omsukchanskiy"
+    ],
+    "name:eng_x_variant":[
+        "Omsukchanskij"
     ],
     "name:und_x_variant":[
         "\u041e\u043c\u0441\u0443\u043a\u0447\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108735675,
-    "wof:lastmodified":1505431744,
-    "wof:name":"Omsukchanskij",
+    "wof:lastmodified":1555047660,
+    "wof:name":"Omsukchanskiy",
     "wof:parent_id":85687881,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":8800,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",

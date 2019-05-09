@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.258635,
-    "geom:area_square_m":1953285060.330215,
+    "geom:area_square_m":1953285060.330124,
     "geom:bbox":"55.6007798174,52.1119535054,56.488680299,52.651925508",
     "geom:latitude":52.354793,
     "geom:longitude":56.080342,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Tjul'ganskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.356257,
     "lbl:longitude":56.087451,
     "meso:admin1_en":"Orenburgskaja oblast'",
@@ -48,7 +60,11 @@
         "Tjulganskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Tyul'ganskiy"
+        "Tjul'ganskiy"
+    ],
+    "name:eng_x_variant":[
+        "Tjul'ganskij",
+        "Tjul'ganskiy"
     ],
     "name:ger_x_preferred":[
         "Tjulganski rajon"
@@ -111,11 +127,11 @@
         }
     ],
     "wof:id":1108737031,
-    "wof:lastmodified":1514503611,
-    "wof:name":"Tjul'ganskij",
+    "wof:lastmodified":1555047699,
+    "wof:name":"Tjul'ganskiy",
     "wof:parent_id":85688081,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":25700,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

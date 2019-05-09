@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.0102,
-    "geom:area_square_m":6588823459.64595,
+    "geom:area_square_m":6588823459.645919,
     "geom:bbox":"64.5525308161,57.6617418074,66.1863046031,58.6712048593",
     "geom:latitude":58.164904,
     "geom:longitude":65.364395,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Tavdinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":58.210365,
     "lbl:longitude":65.445859,
     "meso:admin1_en":"Sverdlovskaja oblast'",
@@ -37,6 +49,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Tavdinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Tavdinskij"
     ],
     "name:und_x_variant":[
         "\u0422\u0430\u0432\u0434\u0438\u043d\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433"
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108736957,
-    "wof:lastmodified":1505431762,
-    "wof:name":"Tavdinskij",
+    "wof:lastmodified":1555047696,
+    "wof:name":"Tavdinskiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":10100,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

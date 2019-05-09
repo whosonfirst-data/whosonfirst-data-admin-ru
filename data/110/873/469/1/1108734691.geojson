@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.406585,
-    "geom:area_square_m":3073264845.036237,
+    "geom:area_square_m":3073264845.03644,
     "geom:bbox":"85.7730232013,52.0074601577,86.8095954021,52.6304375355",
     "geom:latitude":52.317021,
     "geom:longitude":86.282601,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Krasnogorskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.263796,
     "lbl:longitude":86.272776,
     "meso:admin1_en":"Altajskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Krasnogorskiy"
+    ],
+    "name:eng_x_variant":[
+        "Krasnogorskij"
     ],
     "name:ger_x_preferred":[
         "Krasnogorski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108734691,
-    "wof:lastmodified":1514501920,
-    "wof:name":"Krasnogorskij",
+    "wof:lastmodified":1555047626,
+    "wof:name":"Krasnogorskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":15500,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

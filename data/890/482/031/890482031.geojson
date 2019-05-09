@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.525314,
-    "geom:area_square_m":11537250378.984684,
+    "geom:area_square_m":11537250378.984766,
     "geom:bbox":"103.828622665,51.6646047051,106.171235381,53.051433413",
     "geom:latitude":52.286494,
     "geom:longitude":104.916468,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Irkutskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.071245,
     "lbl:longitude":105.129628,
     "meso:admin1_en":"Irkutskaja oblast'",
@@ -48,7 +54,11 @@
         "Irkoetskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Irkutsky District"
+        "Irkutskiy"
+    ],
+    "name:eng_x_variant":[
+        "Irkutskij",
+        "Irkutskiy"
     ],
     "name:ger_x_preferred":[
         "Irkutski rajon"
@@ -109,8 +119,8 @@
         }
     ],
     "wof:id":890482031,
-    "wof:lastmodified":1514501376,
-    "wof:name":"Irkutskij",
+    "wof:lastmodified":1555047541,
+    "wof:name":"Irkutskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",
     "wof:population":0,

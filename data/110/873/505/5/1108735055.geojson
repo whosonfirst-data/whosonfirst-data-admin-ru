@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129504,
-    "geom:area_square_m":997904577.649909,
+    "geom:area_square_m":997904577.649902,
     "geom:bbox":"36.9282398619,51.285672443,37.6077210456,51.6076795289",
     "geom:latitude":51.452176,
     "geom:longitude":37.259304,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Manturovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.451874,
     "lbl:longitude":37.259151,
     "meso:admin1_en":"Kurskaja oblast'",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Manturovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Manturovskij"
     ],
     "name:ger_x_preferred":[
         "Manturowski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108735055,
-    "wof:lastmodified":1514502099,
-    "wof:name":"Manturovskij",
+    "wof:lastmodified":1555047638,
+    "wof:name":"Manturovskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":18100,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

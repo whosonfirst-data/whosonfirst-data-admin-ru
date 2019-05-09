@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.669143,
-    "geom:area_square_m":5044849980.345451,
+    "geom:area_square_m":5044849980.34562,
     "geom:bbox":"59.3471064008,51.990638,61.067523,52.7803054697",
     "geom:latitude":52.430702,
     "geom:longitude":60.308243,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Bredinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.440549,
     "lbl:longitude":60.438389,
     "meso:admin1_en":"CHeljabinskaja oblast'",
@@ -48,7 +60,11 @@
         "Bredinskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Kvarkenskiy"
+        "Bredinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Bredinskij",
+        "Bredinskiy"
     ],
     "name:fre_x_preferred":[
         "Ra\u00efon de Bredy"
@@ -114,11 +130,11 @@
         }
     ],
     "wof:id":1108733101,
-    "wof:lastmodified":1514500791,
-    "wof:name":"Bredinskij",
+    "wof:lastmodified":1555047577,
+    "wof:name":"Bredinskiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":24000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

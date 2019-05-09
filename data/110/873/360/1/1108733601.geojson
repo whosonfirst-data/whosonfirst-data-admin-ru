@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.42615,
-    "geom:area_square_m":2987233214.418653,
+    "geom:area_square_m":2987233214.418775,
     "geom:bbox":"73.3868720863,55.1626609741,74.6328889133,55.7698115296",
     "geom:latitude":55.465644,
     "geom:longitude":74.098123,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Gor'kovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.485523,
     "lbl:longitude":74.140852,
     "meso:admin1_en":"Omskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Gor'kovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Gor'kovskij"
     ],
     "name:ger_x_preferred":[
         "Gorkowski rajon"
@@ -99,11 +114,11 @@
         }
     ],
     "wof:id":1108733601,
-    "wof:lastmodified":1514501264,
-    "wof:name":"Gor'kovskij",
+    "wof:lastmodified":1555047595,
+    "wof:name":"Gor'kovskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":27400,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

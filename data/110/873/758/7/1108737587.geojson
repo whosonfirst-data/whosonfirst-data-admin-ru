@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023332,
-    "geom:area_square_m":194754085.484021,
+    "geom:area_square_m":194754085.483993,
     "geom:bbox":"42.0294591134,47.4607391797,42.3860788112,47.6272331114",
     "geom:latitude":47.541675,
     "geom:longitude":42.209063,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Volgodonsk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":47.524886,
     "lbl:longitude":42.221258,
     "meso:admin1_en":"Rostovskaja oblast'",
@@ -36,6 +48,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
+        "Volgodonsk"
+    ],
+    "name:eng_x_variant":[
         "Volgodonskiy"
     ],
     "name:und_x_variant":[
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108737587,
-    "wof:lastmodified":1505431770,
+    "wof:lastmodified":1555047713,
     "wof:name":"Volgodonsk",
     "wof:parent_id":85688033,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":29200,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

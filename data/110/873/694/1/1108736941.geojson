@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.373271,
-    "geom:area_square_m":15760041449.14167,
+    "geom:area_square_m":15760041449.141401,
     "geom:bbox":"73.5364091172,56.5014152859,75.8485590482,58.6063040501",
     "geom:latitude":57.516138,
     "geom:longitude":74.644936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Tarskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.675208,
     "lbl:longitude":74.566559,
     "meso:admin1_en":"Omskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Tarskiy"
+    ],
+    "name:eng_x_variant":[
+        "Tarskij"
     ],
     "name:ger_x_preferred":[
         "Tarski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108736941,
-    "wof:lastmodified":1514503523,
-    "wof:name":"Tarskij",
+    "wof:lastmodified":1555047695,
+    "wof:name":"Tarskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":24200,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

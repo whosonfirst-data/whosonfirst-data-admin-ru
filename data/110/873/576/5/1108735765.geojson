@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.382909,
-    "geom:area_square_m":2468096006.671953,
+    "geom:area_square_m":2468096006.67204,
     "geom:bbox":"43.0091304998,58.188403716,43.9894813392,58.8641169277",
     "geom:latitude":58.58217,
     "geom:longitude":43.500123,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Parfen'evskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":58.611975,
     "lbl:longitude":43.466689,
     "meso:admin1_en":"Kostromskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Parfen'evskiy"
+    ],
+    "name:eng_x_variant":[
+        "Parfen'evskij"
     ],
     "name:ger_x_preferred":[
         "Parfenjewski rajon"
@@ -96,11 +111,11 @@
         }
     ],
     "wof:id":1108735765,
-    "wof:lastmodified":1514502612,
-    "wof:name":"Parfen'evskij",
+    "wof:lastmodified":1555047663,
+    "wof:name":"Parfen'evskiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":15600,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

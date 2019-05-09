@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.152663,
-    "geom:area_square_m":7224922243.124656,
+    "geom:area_square_m":7224922243.124629,
     "geom:bbox":"33.5826545512,59.0870508466,35.6224234465,60.1800890287",
     "geom:latitude":59.541623,
     "geom:longitude":34.616308,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Boksitogorskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":59.532253,
     "lbl:longitude":34.800753,
     "meso:admin1_en":"Leningradskaja oblast'",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Boksitogorskiy"
+    ],
+    "name:eng_x_variant":[
+        "Boksitogorskij"
     ],
     "name:est_x_preferred":[
         "Boksitogorski rajoon"
@@ -138,11 +153,11 @@
         }
     ],
     "wof:id":1108733053,
-    "wof:lastmodified":1514500762,
-    "wof:name":"Boksitogorskij",
+    "wof:lastmodified":1555047575,
+    "wof:name":"Boksitogorskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":20800,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

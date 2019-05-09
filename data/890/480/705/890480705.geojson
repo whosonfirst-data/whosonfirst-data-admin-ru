@@ -13,6 +13,18 @@
     "gn:fcode":"ADM2",
     "gn:pop":14950,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Pavlovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.72456,
     "lbl:longitude":47.100268,
     "meso:admin1_en":"Ul'janovskaja oblast'",
@@ -52,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Pavlovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Pavlovskij"
     ],
     "name:ger_x_preferred":[
         "Pawlowski rajon"
@@ -127,11 +142,11 @@
         }
     ],
     "wof:id":890480705,
-    "wof:lastmodified":1536617435,
-    "wof:name":"Pavlovskij",
+    "wof:lastmodified":1555047538,
+    "wof:name":"Pavlovskiy",
     "wof:parent_id":85687907,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":17500,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

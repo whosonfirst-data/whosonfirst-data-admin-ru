@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111998,
-    "geom:area_square_m":871272423.173624,
+    "geom:area_square_m":871272423.173691,
     "geom:bbox":"35.923164518,50.8726257398,36.5320076127,51.1640019231",
     "geom:latitude":51.013903,
     "geom:longitude":36.230961,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ivnjanskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.008544,
     "lbl:longitude":36.230979,
     "meso:admin1_en":"Belskaja oblast'",
@@ -48,7 +60,11 @@
         "Ivnjanskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Ivnyanskiy"
+        "Ivnjanskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ivnjanskij",
+        "Ivnjanskiy"
     ],
     "name:ger_x_preferred":[
         "Iwnjanski rajon"
@@ -108,11 +124,11 @@
         }
     ],
     "wof:id":1108734049,
-    "wof:lastmodified":1514501395,
-    "wof:name":"Ivnjanskij",
+    "wof:lastmodified":1555047606,
+    "wof:name":"Ivnjanskiy",
     "wof:parent_id":85687813,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":24000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

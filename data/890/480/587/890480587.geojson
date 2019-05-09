@@ -11,6 +11,18 @@
     "geom:longitude":56.944831,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Karaidel'skiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.739957,
     "lbl:longitude":56.832761,
     "meso:admin1_en":"Bashkortostan",
@@ -50,6 +62,9 @@
     ],
     "name:eng_x_preferred":[
         "Karaidel'skiy"
+    ],
+    "name:eng_x_variant":[
+        "Karaidel'skij"
     ],
     "name:est_x_preferred":[
         "Karaideli rajoon"
@@ -139,11 +154,11 @@
         }
     ],
     "wof:id":890480587,
-    "wof:lastmodified":1536617434,
-    "wof:name":"Karaidel'skij",
+    "wof:lastmodified":1555047538,
+    "wof:name":"Karaidel'skiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":29700,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

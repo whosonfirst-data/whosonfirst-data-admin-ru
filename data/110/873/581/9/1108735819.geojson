@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.358909,
-    "geom:area_square_m":15572447931.726469,
+    "geom:area_square_m":15572447931.726011,
     "geom:bbox":"85.4657280325,56.8821335964,87.9020772823,58.4625304871",
     "geom:latitude":57.731189,
     "geom:longitude":86.71397,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Pervomajskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.770166,
     "lbl:longitude":86.694669,
     "meso:admin1_en":"Tomskaja oblast'",
@@ -45,7 +57,11 @@
         "Pervomayskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Pervomayskiy"
+        "Pervomajskiy"
+    ],
+    "name:eng_x_variant":[
+        "Pervomajskij",
+        "Pervomajskiy"
     ],
     "name:fin_x_preferred":[
         "Pervomaiskojen piiri"
@@ -102,11 +118,11 @@
         }
     ],
     "wof:id":1108735819,
-    "wof:lastmodified":1514502641,
-    "wof:name":"Pervomajskij",
+    "wof:lastmodified":1555047665,
+    "wof:name":"Pervomajskiy",
     "wof:parent_id":85687809,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":23100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

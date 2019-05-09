@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.216627,
-    "geom:area_square_m":7369429931.76603,
+    "geom:area_square_m":7369429931.765595,
     "geom:bbox":"26.675806046,59.92786026,30.1032722039,61.3287170216",
     "geom:latitude":60.667974,
     "geom:longitude":29.063054,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Vyborgskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":60.595682,
     "lbl:longitude":29.163761,
     "meso:admin1_en":"Leningradskaja oblast'",
@@ -49,7 +61,11 @@
         "Viborgskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Vyborgsky District"
+        "Vyborgskiy"
+    ],
+    "name:eng_x_variant":[
+        "Vyborgskij",
+        "Vyborgskiy"
     ],
     "name:est_x_preferred":[
         "Viiburi rajoon"
@@ -110,6 +126,7 @@
     "qs:photos_sr":8,
     "qs:placetype":"County",
     "qs:pop_sr":"0",
+    "src:geom":"unknown",
     "src:geom_alt":[
         "quattroshapes"
     ],
@@ -141,10 +158,11 @@
         }
     ],
     "wof:id":890485873,
-    "wof:lastmodified":1553816417,
-    "wof:name":"Vyborgskij",
+    "wof:lastmodified":1555047554,
+    "wof:name":"Vyborgskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

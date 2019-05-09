@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.336171,
-    "geom:area_square_m":2275060052.31515,
+    "geom:area_square_m":2275060052.315217,
     "geom:bbox":"29.6584916967,56.5666101914,30.9866206551,57.1770938862",
     "geom:latitude":56.817381,
     "geom:longitude":30.329066,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Loknjanskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.77426,
     "lbl:longitude":30.339079,
     "meso:admin1_en":"Pskovskaja oblast'",
@@ -48,7 +60,11 @@
         "Loknyansky District"
     ],
     "name:eng_x_preferred":[
-        "Loknyanskiy"
+        "Loknjanskiy"
+    ],
+    "name:eng_x_variant":[
+        "Loknjanskij",
+        "Loknjanskiy"
     ],
     "name:est_x_preferred":[
         "Loknja rajoon"
@@ -120,11 +136,11 @@
         }
     ],
     "wof:id":1108734973,
-    "wof:lastmodified":1514502037,
-    "wof:name":"Loknjanskij",
+    "wof:lastmodified":1555047635,
+    "wof:name":"Loknjanskiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14900,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.505259,
-    "geom:area_square_m":4399427872.029352,
+    "geom:area_square_m":4399427872.029428,
     "geom:bbox":"46.6286099524,44.758493629,47.5598119464,45.6747425459",
     "geom:latitude":45.23653,
     "geom:longitude":47.086191,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Laganskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":45.254433,
     "lbl:longitude":47.053896,
     "meso:admin1_en":"Respublika Kalmykija",
@@ -45,7 +57,11 @@
         "Lagansky District"
     ],
     "name:eng_x_preferred":[
-        "Laganskiy (Kaspiyskiy)"
+        "Laganskiy"
+    ],
+    "name:eng_x_variant":[
+        "Laganskij",
+        "Laganskiy"
     ],
     "name:est_x_preferred":[
         "Lagani rajoon"
@@ -123,11 +139,11 @@
         }
     ],
     "wof:id":1108734883,
-    "wof:lastmodified":1514502001,
-    "wof:name":"Laganskij",
+    "wof:lastmodified":1555047633,
+    "wof:name":"Laganskiy",
     "wof:parent_id":85687953,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":22100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

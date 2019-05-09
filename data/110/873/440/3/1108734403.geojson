@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.244819,
-    "geom:area_square_m":1835742472.251864,
+    "geom:area_square_m":1835742472.251827,
     "geom:bbox":"48.5335647614,52.4045903477,49.4873448313,52.8746707742",
     "geom:latitude":52.6697,
     "geom:longitude":49.041724,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Khvorostjanskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.676788,
     "lbl:longitude":49.081672,
     "meso:admin1_en":"Samarskaja oblast'",
@@ -45,7 +57,11 @@
         "Hvorostjanskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Khvorostyanskiy"
+        "Khvorostjanskiy"
+    ],
+    "name:eng_x_variant":[
+        "KHvorostjanskij",
+        "Khvorostjanskiy"
     ],
     "name:ger_x_preferred":[
         "Chworostjanski rajon"
@@ -108,11 +124,11 @@
         }
     ],
     "wof:id":1108734403,
-    "wof:lastmodified":1514501443,
-    "wof:name":"KHvorostjanskij",
+    "wof:lastmodified":1555047618,
+    "wof:name":"Khvorostjanskiy",
     "wof:parent_id":85687781,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":16000,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

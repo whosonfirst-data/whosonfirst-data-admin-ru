@@ -11,6 +11,18 @@
     "geom:longitude":98.34298,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Nizhneudinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.997709,
     "lbl:longitude":98.498095,
     "meso:admin1_en":"Irkutskaja oblast'",
@@ -49,7 +61,11 @@
         "Nizjneoedinskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Nizhneudinsky District"
+        "Nizhneudinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Nizhneudinskij",
+        "Nizhneudinskiy"
     ],
     "name:fin_x_preferred":[
         "Ni\u017eneudinskin piiri"
@@ -120,10 +136,11 @@
         }
     ],
     "wof:id":890483471,
-    "wof:lastmodified":1527727190,
-    "wof:name":"Nizhneudinskij",
+    "wof:lastmodified":1555047545,
+    "wof:name":"Nizhneudinskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.445603,
-    "geom:area_square_m":2995475651.20243,
+    "geom:area_square_m":2995475651.202395,
     "geom:bbox":"49.3698914304,56.7613347267,50.6442971173,57.4084547961",
     "geom:latitude":57.067706,
     "geom:longitude":50.085776,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Urzhumskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.024953,
     "lbl:longitude":50.182139,
     "meso:admin1_en":"Kirovskaja oblast'",
@@ -52,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Urzhumskiy"
+    ],
+    "name:eng_x_variant":[
+        "Urzhumskij"
     ],
     "name:ger_x_preferred":[
         "Urschumski rajon"
@@ -120,11 +135,11 @@
         }
     ],
     "wof:id":1108737201,
-    "wof:lastmodified":1514503779,
-    "wof:name":"Urzhumskij",
+    "wof:lastmodified":1555047705,
+    "wof:name":"Urzhumskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":37400,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

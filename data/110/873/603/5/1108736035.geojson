@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.302658,
-    "geom:area_square_m":1932535888.413774,
+    "geom:area_square_m":1932535888.414058,
     "geom:bbox":"45.2912851592,58.6270399241,46.1456375085,59.2260188222",
     "geom:latitude":58.909776,
     "geom:longitude":45.619529,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Pyshhugskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":58.905808,
     "lbl:longitude":45.543947,
     "meso:admin1_en":"Kostromskaja oblast'",
@@ -48,7 +60,11 @@
         "Pisjtsjoegskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Pyshchugskiy"
+        "Pyshhugskiy"
+    ],
+    "name:eng_x_variant":[
+        "Pyshhugskij",
+        "Pyshhugskiy"
     ],
     "name:ger_x_preferred":[
         "Pyschtschugski rajon"
@@ -105,11 +121,11 @@
         }
     ],
     "wof:id":1108736035,
-    "wof:lastmodified":1514502751,
-    "wof:name":"Pyshhugskij",
+    "wof:lastmodified":1555047671,
+    "wof:name":"Pyshhugskiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":12300,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

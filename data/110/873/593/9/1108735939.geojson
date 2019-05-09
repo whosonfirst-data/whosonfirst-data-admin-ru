@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089579,
-    "geom:area_square_m":678194957.907341,
+    "geom:area_square_m":678194957.907353,
     "geom:bbox":"35.971142136,52.105635992,36.5751381756,52.386030815",
     "geom:latitude":52.245568,
     "geom:longitude":36.271991,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ponyrovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.254125,
     "lbl:longitude":36.271971,
     "meso:admin1_en":"Kurskaja oblast'",
@@ -52,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Ponyrovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ponyrovskij"
     ],
     "name:ger_x_preferred":[
         "Ponyrowski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108735939,
-    "wof:lastmodified":1514502692,
-    "wof:name":"Ponyrovskij",
+    "wof:lastmodified":1555047668,
+    "wof:name":"Ponyrovskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14200,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

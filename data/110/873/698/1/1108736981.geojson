@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.990335,
-    "geom:area_square_m":35361316656.878952,
+    "geom:area_square_m":35361316656.879677,
     "geom:bbox":"146.100521073,60.3956493658,151.221096557,62.5105040795",
     "geom:latitude":61.483557,
     "geom:longitude":148.648762,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ten'kinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":61.677825,
     "lbl:longitude":148.649911,
     "meso:admin1_en":"Magadanskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Ten'kinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ten'kinskij"
     ],
     "name:ger_x_preferred":[
         "Tenkinski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108736981,
-    "wof:lastmodified":1514503593,
-    "wof:name":"Ten'kinskij",
+    "wof:lastmodified":1555047697,
+    "wof:name":"Ten'kinskiy",
     "wof:parent_id":85687881,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":10800,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

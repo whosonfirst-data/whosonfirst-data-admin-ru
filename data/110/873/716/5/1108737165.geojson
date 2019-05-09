@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.17969,
-    "geom:area_square_m":1294891433.062033,
+    "geom:area_square_m":1294891433.062124,
     "geom:bbox":"47.8919939656,53.9984103439,48.4660882346,54.7027531434",
     "geom:latitude":54.35322,
     "geom:longitude":48.179349,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ul'janovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.161593,
     "lbl:longitude":48.079366,
     "meso:admin1_en":"Ul'janovskaja oblast'",
@@ -48,7 +60,11 @@
         "Ulyanovsky District"
     ],
     "name:eng_x_preferred":[
-        "Ul'yanovskiy"
+        "Ul'janovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ul'janovskij",
+        "Ul'janovskiy"
     ],
     "name:ger_x_preferred":[
         "Uljanowski rajon"
@@ -111,11 +127,11 @@
         }
     ],
     "wof:id":1108737165,
-    "wof:lastmodified":1514503763,
-    "wof:name":"Ul'janovskij",
+    "wof:lastmodified":1555047704,
+    "wof:name":"Ul'janovskiy",
     "wof:parent_id":85687907,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":58900,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.185123,
-    "geom:area_square_m":1622352379.127932,
+    "geom:area_square_m":1622352379.128015,
     "geom:bbox":"37.9867784962,44.5811036089,38.5911333377,45.1905445926",
     "geom:latitude":44.867684,
     "geom:longitude":38.283528,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Abinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":44.851669,
     "lbl:longitude":38.288096,
     "meso:admin1_en":"Krasnodarskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Abinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Abinskij"
     ],
     "name:ger_x_preferred":[
         "Abinski rajon"
@@ -117,11 +132,11 @@
         }
     ],
     "wof:id":1108732603,
-    "wof:lastmodified":1514500420,
-    "wof:name":"Abinskij",
+    "wof:lastmodified":1555047560,
+    "wof:name":"Abinskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":92200,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

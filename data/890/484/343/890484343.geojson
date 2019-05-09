@@ -11,6 +11,18 @@
     "geom:longitude":44.85343,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Penzenskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.952821,
     "lbl:longitude":44.894654,
     "meso:admin1_en":"Penzenskaja oblast'",
@@ -46,7 +58,11 @@
         "Penzenskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Kondol'skiy"
+        "Penzenskiy"
+    ],
+    "name:eng_x_variant":[
+        "Penzenskij",
+        "Penzenskiy"
     ],
     "name:ger_x_preferred":[
         "Pensenski rajon"
@@ -124,11 +140,11 @@
         }
     ],
     "wof:id":890484343,
-    "wof:lastmodified":1536617441,
-    "wof:name":"Penzenskij",
+    "wof:lastmodified":1555047550,
+    "wof:name":"Penzenskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":11600,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

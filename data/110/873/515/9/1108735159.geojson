@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":30.362831,
-    "geom:area_square_m":163926075723.336884,
+    "geom:area_square_m":163926075723.340881,
     "geom:bbox":"105.690226455,60.8997253862,114.816339176,66.8341828018",
     "geom:latitude":64.101619,
     "geom:longitude":110.752264,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Mirninskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":64.600209,
     "lbl:longitude":110.753579,
     "meso:admin1_en":"Respublika Sakha (JAkutija)",
@@ -37,6 +49,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Mirninskiy"
+    ],
+    "name:eng_x_variant":[
+        "Mirninskij ulus"
     ],
     "name:und_x_variant":[
         "\u041c\u0438\u0440\u043d\u0438\u043d\u0441\u043a\u0438\u0439 \u0443\u043b\u0443\u0441"
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108735159,
-    "wof:lastmodified":1505431736,
-    "wof:name":"Mirninskij ulus",
+    "wof:lastmodified":1555047641,
+    "wof:name":"Mirninskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":44100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

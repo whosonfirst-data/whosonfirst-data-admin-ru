@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121218,
-    "geom:area_square_m":831971592.207568,
+    "geom:area_square_m":831971592.207628,
     "geom:bbox":"52.9499597783,56.0618701572,53.4130920791,56.4934875593",
     "geom:latitude":56.285115,
     "geom:longitude":53.183656,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kijasovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.296496,
     "lbl:longitude":53.148506,
     "meso:admin1_en":"Udmurtskaja respublika",
@@ -45,7 +57,11 @@
         "Kijasovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Kiyasovskiy"
+        "Kijasovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kijasovskij",
+        "Kijasovskiy"
     ],
     "name:est_x_preferred":[
         "Kijassovo rajoon"
@@ -120,11 +136,11 @@
         }
     ],
     "wof:id":1108734409,
-    "wof:lastmodified":1514501758,
-    "wof:name":"Kijasovskij",
+    "wof:lastmodified":1555047618,
+    "wof:name":"Kijasovskiy",
     "wof:parent_id":85687787,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":12200,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.185364,
-    "geom:area_square_m":1323884130.685829,
+    "geom:area_square_m":1323884130.685873,
     "geom:bbox":"35.4980513446,54.520906573,36.1783882258,54.9346764266",
     "geom:latitude":54.718317,
     "geom:longitude":35.869818,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Dzerzhinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.701874,
     "lbl:longitude":35.869877,
     "meso:admin1_en":"Kaluzhskaja oblast'",
@@ -48,6 +60,9 @@
     "name:eng_x_preferred":[
         "Dzerzhinskiy"
     ],
+    "name:eng_x_variant":[
+        "Dzerzhinskij"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Kondrovo"
     ],
@@ -80,6 +95,7 @@
     "qs:photos_sr":3,
     "qs:placetype":"County",
     "qs:pop_sr":"0",
+    "src:geom":"unknown",
     "src:geom_alt":[
         "quattroshapes"
     ],
@@ -124,11 +140,11 @@
         }
     ],
     "wof:id":890484207,
-    "wof:lastmodified":1553816416,
-    "wof:name":"Dzerzhinskij",
+    "wof:lastmodified":1555047549,
+    "wof:name":"Dzerzhinskiy",
     "wof:parent_id":85688131,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":60500,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

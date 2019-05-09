@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175711,
-    "geom:area_square_m":1247482375.133788,
+    "geom:area_square_m":1247482375.133763,
     "geom:bbox":"19.950750351,54.6925888456,21.0993658997,55.2808653937",
     "geom:latitude":54.959052,
     "geom:longitude":20.503516,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Zelenogradskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":54.848283,
     "lbl:longitude":20.302979,
     "meso:admin1_en":"Kaliningradskaja oblast'",
@@ -51,7 +57,11 @@
         "Zelenogradskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Zelenogradsky District"
+        "Zelenogradskiy"
+    ],
+    "name:eng_x_variant":[
+        "Zelenogradskij",
+        "Zelenogradskiy"
     ],
     "name:epo_x_preferred":[
         "Distrikto Zelenogradsk"
@@ -130,8 +140,8 @@
         }
     ],
     "wof:id":890479441,
-    "wof:lastmodified":1514504133,
-    "wof:name":"Zelenogradskij",
+    "wof:lastmodified":1555047533,
+    "wof:name":"Zelenogradskiy",
     "wof:parent_id":85688215,
     "wof:placetype":"county",
     "wof:population":0,

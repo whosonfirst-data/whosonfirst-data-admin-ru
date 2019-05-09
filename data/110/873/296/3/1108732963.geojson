@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121899,
-    "geom:area_square_m":947250274.48049,
+    "geom:area_square_m":947250274.480504,
     "geom:bbox":"35.325692,50.9015787863,36.00335835,51.268713264",
     "geom:latitude":51.064791,
     "geom:longitude":35.677191,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Belovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.064788,
     "lbl:longitude":35.64898,
     "meso:admin1_en":"Kurskaja oblast'",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Belovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Belovskij"
     ],
     "name:ger_x_preferred":[
         "Belowski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108732963,
-    "wof:lastmodified":1514500718,
-    "wof:name":"Belovskij",
+    "wof:lastmodified":1555047572,
+    "wof:name":"Belovskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":23200,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

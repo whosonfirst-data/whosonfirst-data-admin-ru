@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.190281,
-    "geom:area_square_m":1385951659.858192,
+    "geom:area_square_m":1385951659.858251,
     "geom:bbox":"36.9855682246,53.6877394258,37.7178664593,54.0912725432",
     "geom:latitude":53.910478,
     "geom:longitude":37.386348,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Shchekinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.888391,
     "lbl:longitude":37.489236,
     "meso:admin1_en":"Tul'skaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Shchekinskiy"
+    ],
+    "name:eng_x_variant":[
+        "SHHjokinskij"
     ],
     "name:ger_x_preferred":[
         "Schtschokinski rajon"
@@ -96,11 +111,11 @@
         }
     ],
     "wof:id":1108736569,
-    "wof:lastmodified":1514502800,
-    "wof:name":"SHHjokinskij",
+    "wof:lastmodified":1554506328,
+    "wof:name":"Shchekinskiy",
     "wof:parent_id":85688203,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":43000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

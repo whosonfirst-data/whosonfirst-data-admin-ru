@@ -11,6 +11,18 @@
     "geom:longitude":52.831773,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Bugul'minskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.502521,
     "lbl:longitude":52.85937,
     "meso:admin1_en":"Tatarstan",
@@ -56,6 +68,9 @@
     ],
     "name:eng_x_preferred":[
         "Bugul'minskiy"
+    ],
+    "name:eng_x_variant":[
+        "Bugul'minskij"
     ],
     "name:est_x_preferred":[
         "Bugulma rajoon"
@@ -142,11 +157,11 @@
         }
     ],
     "wof:id":890479383,
-    "wof:lastmodified":1536617431,
-    "wof:name":"Bugul'minskij",
+    "wof:lastmodified":1555047533,
+    "wof:name":"Bugul'minskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":22900,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

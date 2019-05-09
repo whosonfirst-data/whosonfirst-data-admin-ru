@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.350063,
-    "geom:area_square_m":2292810593.432662,
+    "geom:area_square_m":2292810593.432325,
     "geom:bbox":"53.3239050647,57.7304063766,54.1401553178,58.4215148989",
     "geom:latitude":58.015417,
     "geom:longitude":53.708607,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kezskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.997436,
     "lbl:longitude":53.716385,
     "meso:admin1_en":"Udmurtskaja respublika",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Kezskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kezskij"
     ],
     "name:est_x_preferred":[
         "Kezi rajoon"
@@ -120,11 +135,11 @@
         }
     ],
     "wof:id":1108734331,
-    "wof:lastmodified":1514501707,
-    "wof:name":"Kezskij",
+    "wof:lastmodified":1555047615,
+    "wof:name":"Kezskiy",
     "wof:parent_id":85687787,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":29300,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

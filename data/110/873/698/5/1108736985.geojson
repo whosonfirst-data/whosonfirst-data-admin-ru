@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.154021,
-    "geom:area_square_m":1169216653.458394,
+    "geom:area_square_m":1169216653.458356,
     "geom:bbox":"38.0010571561,51.9623359523,38.8703865119,52.3235646785",
     "geom:latitude":52.126293,
     "geom:longitude":38.371868,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Terbunskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.118478,
     "lbl:longitude":38.306064,
     "meso:admin1_en":"Lipeckaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Terbunskiy"
+    ],
+    "name:eng_x_variant":[
+        "Terbunskij"
     ],
     "name:ger_x_preferred":[
         "Rajon Terbuny"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108736985,
-    "wof:lastmodified":1514503594,
-    "wof:name":"Terbunskij",
+    "wof:lastmodified":1555047697,
+    "wof:name":"Terbunskiy",
     "wof:parent_id":85687917,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":24800,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

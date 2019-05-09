@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.502348,
-    "geom:area_square_m":3420902061.705129,
+    "geom:area_square_m":3420902061.70536,
     "geom:bbox":"58.431049512,56.1902725248,59.8184020254,57.0695114925",
     "geom:latitude":56.582995,
     "geom:longitude":59.16489,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Nizhneserginskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.531485,
     "lbl:longitude":59.338292,
     "meso:admin1_en":"Sverdlovskaja oblast'",
@@ -37,6 +49,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Nizhneserginskiy"
+    ],
+    "name:eng_x_variant":[
+        "Nizhneserginskij municipal'nyj"
     ],
     "name:und_x_variant":[
         "\u041d\u0438\u0436\u043d\u0435\u0441\u0435\u0440\u0433\u0438\u043d\u0441\u043a\u0438\u0439 \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108735397,
-    "wof:lastmodified":1505431739,
-    "wof:name":"Nizhneserginskij municipal'nyj",
+    "wof:lastmodified":1555047647,
+    "wof:name":"Nizhneserginskiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":67000,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

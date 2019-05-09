@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.229632,
-    "geom:area_square_m":1793773994.799492,
+    "geom:area_square_m":1793773994.799386,
     "geom:bbox":"40.1012667389,50.5758864357,41.1191264662,51.0086753122",
     "geom:latitude":50.821802,
     "geom:longitude":40.605872,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Buturlinovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.780954,
     "lbl:longitude":40.513292,
     "meso:admin1_en":"Voronezhskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Buturlinovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Buturlinovskij"
     ],
     "name:ger_x_preferred":[
         "Buturlinowski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108733141,
-    "wof:lastmodified":1514500884,
-    "wof:name":"Buturlinovskij",
+    "wof:lastmodified":1555047579,
+    "wof:name":"Buturlinovskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":55500,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

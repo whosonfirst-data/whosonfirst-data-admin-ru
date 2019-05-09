@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.328495,
-    "geom:area_square_m":2389711096.091177,
+    "geom:area_square_m":2389711096.091237,
     "geom:bbox":"54.3692085603,53.7015323335,55.4889671311,54.2545430333",
     "geom:latitude":53.961881,
     "geom:longitude":54.925392,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Al'sheevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.991849,
     "lbl:longitude":54.887281,
     "meso:admin1_en":"Bashkortostan",
@@ -51,7 +63,11 @@
         "Alsjeevskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Al'sheyevskiy"
+        "Al'sheevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Al'sheevskij",
+        "Al'sheevskiy"
     ],
     "name:est_x_preferred":[
         "Al\u0161ejevski rajoon"
@@ -132,11 +148,11 @@
         }
     ],
     "wof:id":1108732661,
-    "wof:lastmodified":1514500469,
-    "wof:name":"Al'sheevskij",
+    "wof:lastmodified":1555047562,
+    "wof:name":"Al'sheevskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":47100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

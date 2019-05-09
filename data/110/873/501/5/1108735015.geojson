@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044335,
-    "geom:area_square_m":396967100.320374,
+    "geom:area_square_m":396967100.320454,
     "geom:bbox":"43.8785450825,43.3791947406,44.2754263244,43.7684496257",
     "geom:latitude":43.604896,
     "geom:longitude":44.056706,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Majskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":43.536717,
     "lbl:longitude":44.037059,
     "meso:admin1_en":"Kabardino-Balkarskaja respublika",
@@ -45,7 +57,11 @@
         "District Majski"
     ],
     "name:eng_x_preferred":[
-        "Mayskiy"
+        "Majskiy"
+    ],
+    "name:eng_x_variant":[
+        "Majskij",
+        "Majskiy"
     ],
     "name:est_x_preferred":[
         "Maiski rajoon"
@@ -120,11 +136,11 @@
         }
     ],
     "wof:id":1108735015,
-    "wof:lastmodified":1514502077,
-    "wof:name":"Majskij",
+    "wof:lastmodified":1555047636,
+    "wof:name":"Majskiy",
     "wof:parent_id":85688089,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":37300,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

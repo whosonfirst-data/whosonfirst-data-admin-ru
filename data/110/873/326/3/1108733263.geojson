@@ -10,6 +10,18 @@
     "geom:latitude":56.540912,
     "geom:longitude":56.176027,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Chernushinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.52337,
     "lbl:longitude":56.177611,
     "meso:admin1_en":"Permskij kraj",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Chernushinskiy"
+    ],
+    "name:eng_x_variant":[
+        "CHernushinskij"
     ],
     "name:fin_x_preferred":[
         "T\u0161ernu\u0161kan piiri"
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108733263,
-    "wof:lastmodified":1514500915,
-    "wof:name":"CHernushinskij",
+    "wof:lastmodified":1555047584,
+    "wof:name":"Chernushinskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":55300,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

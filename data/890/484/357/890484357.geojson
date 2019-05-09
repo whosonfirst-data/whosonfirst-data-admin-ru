@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":20.365908,
-    "geom:area_square_m":107381068813.589325,
+    "geom:area_square_m":107381068813.589005,
     "geom:bbox":"73.0623009325,62.4619155534,80.8344621537,67.7180824208",
     "geom:latitude":64.753391,
     "geom:longitude":77.366398,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Purovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":65.02616,
     "lbl:longitude":77.945972,
     "meso:admin1_en":"JAmalo-Neneckij avtonomnyj okrug",
@@ -46,7 +58,11 @@
         "District Poerovski"
     ],
     "name:eng_x_preferred":[
-        "Purovsky District"
+        "Purovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Purovskij",
+        "Purovskiy"
     ],
     "name:fin_x_preferred":[
         "Purin piiri"
@@ -111,10 +127,11 @@
         }
     ],
     "wof:id":890484357,
-    "wof:lastmodified":1527727206,
-    "wof:name":"Purovskij",
+    "wof:lastmodified":1555047551,
+    "wof:name":"Purovskiy",
     "wof:parent_id":85687931,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":17.565305,
-    "geom:area_square_m":103719409266.56546,
+    "geom:area_square_m":103719409266.561279,
     "geom:bbox":"68.7329304157,58.6636007842,76.6812670204,63.4429683049",
     "geom:latitude":61.467388,
     "geom:longitude":73.287363,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Surgutskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":62.280792,
     "lbl:longitude":72.904174,
     "meso:admin1_en":"KHanty-Mansijskij avtonomnyj okrug - JUgra",
@@ -46,7 +58,11 @@
         "Soergoetskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Surgutsky District"
+        "Surgutskiy"
+    ],
+    "name:eng_x_variant":[
+        "Surgutskij",
+        "Surgutskiy"
     ],
     "name:est_x_preferred":[
         "Surguti rajoon"
@@ -126,10 +142,11 @@
         }
     ],
     "wof:id":890480111,
-    "wof:lastmodified":1527792845,
-    "wof:name":"Surgutskij",
+    "wof:lastmodified":1555047536,
+    "wof:name":"Surgutskiy",
     "wof:parent_id":85687919,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

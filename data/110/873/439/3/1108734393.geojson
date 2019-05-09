@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060174,
-    "geom:area_square_m":547979661.58989,
+    "geom:area_square_m":547979661.589932,
     "geom:bbox":"46.4444603724,42.464615448,46.9051997155,42.6810229912",
     "geom:latitude":42.568667,
     "geom:longitude":46.661406,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Khunzakhskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":42.584359,
     "lbl:longitude":46.64273,
     "meso:admin1_en":"Dagestan",
@@ -58,6 +70,9 @@
     ],
     "name:eng_x_preferred":[
         "Khunzakhskiy"
+    ],
+    "name:eng_x_variant":[
+        "KHunzakhskij"
     ],
     "name:est_x_preferred":[
         "Hunzahhi rajoon"
@@ -147,11 +162,11 @@
         }
     ],
     "wof:id":1108734393,
-    "wof:lastmodified":1553816504,
-    "wof:name":"KHunzakhskij",
+    "wof:lastmodified":1555047617,
+    "wof:name":"Khunzakhskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":26200,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

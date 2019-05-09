@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.640273,
-    "geom:area_square_m":3953169246.00733,
+    "geom:area_square_m":3953169246.00718,
     "geom:bbox":"40.5779590228,59.7255954892,42.0605314303,60.3928351325",
     "geom:latitude":60.044842,
     "geom:longitude":41.307408,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Sjamzhenskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":60.04346,
     "lbl:longitude":41.307278,
     "meso:admin1_en":"Vologodskaja oblast'",
@@ -48,7 +60,11 @@
         "Sjamzjenskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Syamzhenskiy"
+        "Sjamzhenskiy"
+    ],
+    "name:eng_x_variant":[
+        "Sjamzhenskij",
+        "Sjamzhenskiy"
     ],
     "name:fin_x_preferred":[
         "Sjam\u017ean piiri"
@@ -114,11 +130,11 @@
         }
     ],
     "wof:id":1108736629,
-    "wof:lastmodified":1514503315,
-    "wof:name":"Sjamzhenskij",
+    "wof:lastmodified":1555047683,
+    "wof:name":"Sjamzhenskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":11500,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

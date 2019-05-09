@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.530416,
-    "geom:area_square_m":3714138291.7692,
+    "geom:area_square_m":3714138291.769367,
     "geom:bbox":"88.5746640751,55.0018822309,89.853233597,56.0214887496",
     "geom:latitude":55.507647,
     "geom:longitude":89.290049,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Tisul'skiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.594789,
     "lbl:longitude":89.38345,
     "meso:admin1_en":"Krasnojarskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Tisul'skiy"
+    ],
+    "name:eng_x_variant":[
+        "SHarypovskij"
     ],
     "name:ger_x_preferred":[
         "Scharypowski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108736521,
-    "wof:lastmodified":1514502810,
-    "wof:name":"SHarypovskij",
+    "wof:lastmodified":1554506326,
+    "wof:name":"Tisul'skiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":31400,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

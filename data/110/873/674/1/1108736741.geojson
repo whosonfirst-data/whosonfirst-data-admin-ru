@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.343899,
-    "geom:area_square_m":2547710366.381258,
+    "geom:area_square_m":2547710366.381147,
     "geom:bbox":"40.8347294741,52.846869145,41.867832466,53.5030980333",
     "geom:latitude":53.1926,
     "geom:longitude":41.290305,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Sosnovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.201285,
     "lbl:longitude":41.2399,
     "meso:admin1_en":"Tambovskaja oblast'",
@@ -37,6 +49,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Sosnovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Sosnovskij"
     ],
     "name:und_x_variant":[
         "\u0421\u043e\u0441\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108736741,
-    "wof:lastmodified":1505431758,
-    "wof:name":"Sosnovskij",
+    "wof:lastmodified":1555047686,
+    "wof:name":"Sosnovskiy",
     "wof:parent_id":85687829,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":41700,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

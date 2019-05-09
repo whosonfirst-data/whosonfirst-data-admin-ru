@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.179203,
-    "geom:area_square_m":1270988367.773605,
+    "geom:area_square_m":1270988367.77357,
     "geom:bbox":"36.5992073319,54.7824632139,37.191820027,55.2435577217",
     "geom:latitude":54.999538,
     "geom:longitude":36.890648,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Zhukovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.010556,
     "lbl:longitude":36.896199,
     "meso:admin1_en":"Kaluzhskaja oblast'",
@@ -37,6 +49,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Zhukovskiy"
+    ],
+    "name:eng_x_variant":[
+        "ZHukovskij"
     ],
     "name:und_x_variant":[
         "\u0416\u0443\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108738169,
-    "wof:lastmodified":1505431773,
-    "wof:name":"ZHukovskij",
+    "wof:lastmodified":1555047718,
+    "wof:name":"Zhukovskiy",
     "wof:parent_id":85688131,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":50800,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

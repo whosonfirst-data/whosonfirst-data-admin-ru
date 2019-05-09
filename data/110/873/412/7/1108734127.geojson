@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.18607,
-    "geom:area_square_m":1329083200.996962,
+    "geom:area_square_m":1329083200.996888,
     "geom:bbox":"34.8694969186,54.5084008651,35.6815031268,54.9282808173",
     "geom:latitude":54.713592,
     "geom:longitude":35.259438,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Jukhnovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.700351,
     "lbl:longitude":35.320972,
     "meso:admin1_en":"Kaluzhskaja oblast'",
@@ -45,7 +57,11 @@
         "Juchnovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Yukhnovskiy"
+        "Jukhnovskiy"
+    ],
+    "name:eng_x_variant":[
+        "JUkhnovskij",
+        "Jukhnovskiy"
     ],
     "name:ger_x_preferred":[
         "Juchnowski rajon"
@@ -108,11 +124,11 @@
         }
     ],
     "wof:id":1108734127,
-    "wof:lastmodified":1514501418,
-    "wof:name":"JUkhnovskij",
+    "wof:lastmodified":1555047609,
+    "wof:name":"Jukhnovskiy",
     "wof:parent_id":85688131,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14700,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

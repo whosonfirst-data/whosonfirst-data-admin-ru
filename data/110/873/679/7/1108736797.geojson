@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.171659,
-    "geom:area_square_m":1462501686.390824,
+    "geom:area_square_m":1462501686.390845,
     "geom:bbox":"38.7599500088,46.1966657194,39.3304540941,46.6882384318",
     "geom:latitude":46.447821,
     "geom:longitude":39.023944,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Starominskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":46.460923,
     "lbl:longitude":39.018568,
     "meso:admin1_en":"Krasnodarskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Starominskiy"
+    ],
+    "name:eng_x_variant":[
+        "Starominskij"
     ],
     "name:ger_x_preferred":[
         "Starominski rajon"
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108736797,
-    "wof:lastmodified":1514503408,
-    "wof:name":"Starominskij",
+    "wof:lastmodified":1555047687,
+    "wof:name":"Starominskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":41200,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

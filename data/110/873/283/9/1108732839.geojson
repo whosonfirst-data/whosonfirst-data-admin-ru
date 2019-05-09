@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.36866,
-    "geom:area_square_m":2723979433.813137,
+    "geom:area_square_m":2723979433.812946,
     "geom:bbox":"80.1187334342,53.0546419345,81.2552022307,53.5763463037",
     "geom:latitude":53.305012,
     "geom:longitude":80.649383,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Baevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.337004,
     "lbl:longitude":80.638535,
     "meso:admin1_en":"Altajskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Baevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Baevskij"
     ],
     "name:ger_x_preferred":[
         "Baewski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108732839,
-    "wof:lastmodified":1514500617,
-    "wof:name":"Baevskij",
+    "wof:lastmodified":1555047568,
+    "wof:name":"Baevskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14400,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

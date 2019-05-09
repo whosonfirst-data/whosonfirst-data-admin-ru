@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138161,
-    "geom:area_square_m":1080552283.515905,
+    "geom:area_square_m":1080552283.51596,
     "geom:bbox":"36.0410642741,50.5576880882,36.9004537379,50.9077728825",
     "geom:latitude":50.765431,
     "geom:longitude":36.388483,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Jakovlevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.760309,
     "lbl:longitude":36.27463,
     "meso:admin1_en":"Belskaja oblast'",
@@ -48,7 +60,11 @@
         "Jakovlevskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Yakovlevskiy"
+        "Jakovlevskiy"
+    ],
+    "name:eng_x_variant":[
+        "JAkovlevskij",
+        "Jakovlevskiy"
     ],
     "name:ger_x_preferred":[
         "Jakowlewski rajon"
@@ -108,11 +124,11 @@
         }
     ],
     "wof:id":1108734069,
-    "wof:lastmodified":1514501402,
-    "wof:name":"JAkovlevskij",
+    "wof:lastmodified":1555047606,
+    "wof:name":"Jakovlevskiy",
     "wof:parent_id":85687813,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":49600,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

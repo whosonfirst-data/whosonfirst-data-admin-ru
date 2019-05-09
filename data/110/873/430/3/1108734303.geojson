@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.391118,
-    "geom:area_square_m":2691840082.058677,
+    "geom:area_square_m":2691840082.058687,
     "geom:bbox":"62.0501501768,55.7677604912,62.9419848785,56.5688783803",
     "geom:latitude":56.179062,
     "geom:longitude":62.485205,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Katajskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.166737,
     "lbl:longitude":62.404544,
     "meso:admin1_en":"Kurganskaja oblast'",
@@ -45,7 +57,11 @@
         "Katayskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Katayskiy"
+        "Katajskiy"
+    ],
+    "name:eng_x_variant":[
+        "Katajskij",
+        "Katajskiy"
     ],
     "name:ger_x_preferred":[
         "Katajski rajon"
@@ -105,11 +121,11 @@
         }
     ],
     "wof:id":1108734303,
-    "wof:lastmodified":1514501682,
-    "wof:name":"Katajskij",
+    "wof:lastmodified":1555047614,
+    "wof:name":"Katajskiy",
     "wof:parent_id":85688157,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":30800,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

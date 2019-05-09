@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.104467,
-    "geom:area_square_m":794396675.858031,
+    "geom:area_square_m":794396675.85807,
     "geom:bbox":"37.7502686838,51.8832638574,38.2719356622,52.2572939245",
     "geom:latitude":52.050049,
     "geom:longitude":37.962208,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Volovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.043034,
     "lbl:longitude":37.944372,
     "meso:admin1_en":"Lipeckaja oblast'",
@@ -37,6 +49,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Volovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Volovskij"
     ],
     "name:und_x_variant":[
         "\u0412\u043e\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108737619,
-    "wof:lastmodified":1505431770,
-    "wof:name":"Volovskij",
+    "wof:lastmodified":1555047713,
+    "wof:name":"Volovskiy",
     "wof:parent_id":85687917,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":21900,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

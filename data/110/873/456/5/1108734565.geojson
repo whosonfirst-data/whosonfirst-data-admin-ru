@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.178104,
-    "geom:area_square_m":1195811837.510602,
+    "geom:area_square_m":1195811837.510586,
     "geom:bbox":"40.0068050146,56.9007986726,40.7301736337,57.3136811853",
     "geom:latitude":57.112924,
     "geom:longitude":40.379474,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Komsomol'skiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.104154,
     "lbl:longitude":40.372608,
     "meso:admin1_en":"Ivanovskaja oblast'",
@@ -48,7 +60,11 @@
         "Komsomolsky District"
     ],
     "name:eng_x_preferred":[
-        "Komsomol\u2019skiy"
+        "Komsomol'skiy"
+    ],
+    "name:eng_x_variant":[
+        "Komsomol'skij",
+        "Komsomol'skiy"
     ],
     "name:ger_x_preferred":[
         "Komsomolski rajon"
@@ -105,11 +121,11 @@
         }
     ],
     "wof:id":1108734565,
-    "wof:lastmodified":1553816504,
-    "wof:name":"Komsomol'skij",
+    "wof:lastmodified":1555047622,
+    "wof:name":"Komsomol'skiy",
     "wof:parent_id":85688153,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":24300,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

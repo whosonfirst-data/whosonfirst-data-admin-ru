@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":25.795594,
-    "geom:area_square_m":157855496810.210114,
+    "geom:area_square_m":157855496810.212433,
     "geom:bbox":"137.118209036,57.8730552672,147.219327564,62.5353260881",
     "geom:latitude":60.332263,
     "geom:longitude":142.041809,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Okhotskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":60.436032,
     "lbl:longitude":141.127488,
     "meso:admin1_en":"KHabarovskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Okhotskiy"
+    ],
+    "name:eng_x_variant":[
+        "Okhotskij"
     ],
     "name:est_x_preferred":[
         "Ohhotski rajoon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108735609,
-    "wof:lastmodified":1514502542,
-    "wof:name":"Okhotskij",
+    "wof:lastmodified":1555047657,
+    "wof:name":"Okhotskiy",
     "wof:parent_id":85687937,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14700,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.022069,
-    "geom:area_square_m":7556203621.937731,
+    "geom:area_square_m":7556203621.938181,
     "geom:bbox":"100.336572214,52.7287548308,102.738284091,53.8395789515",
     "geom:latitude":53.280597,
     "geom:longitude":101.566043,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Zalarinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.254439,
     "lbl:longitude":101.58403,
     "meso:admin1_en":"Irkutskaja oblast'",
@@ -46,7 +58,11 @@
         "Zalarinskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Zalarinsky District"
+        "Zalarinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Zalarinskij",
+        "Zalarinskiy"
     ],
     "name:ger_x_preferred":[
         "Salarinski rajon"
@@ -108,10 +124,11 @@
         }
     ],
     "wof:id":890479385,
-    "wof:lastmodified":1527727220,
-    "wof:name":"Zalarinskij",
+    "wof:lastmodified":1555047533,
+    "wof:name":"Zalarinskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

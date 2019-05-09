@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.372187,
-    "geom:area_square_m":2902505496.326109,
+    "geom:area_square_m":2902505496.325866,
     "geom:bbox":"46.5209297118,50.5162108555,47.4560436334,51.2127002668",
     "geom:latitude":50.899381,
     "geom:longitude":46.965583,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Krasnokutskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.82887,
     "lbl:longitude":46.972791,
     "meso:admin1_en":"Saratovskaja oblast'",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Krasnokutskiy"
+    ],
+    "name:eng_x_variant":[
+        "Krasnokutskij"
     ],
     "name:ger_x_preferred":[
         "Krasnokutski rajon"
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108734721,
-    "wof:lastmodified":1514501929,
-    "wof:name":"Krasnokutskij",
+    "wof:lastmodified":1555047627,
+    "wof:name":"Krasnokutskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":38900,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

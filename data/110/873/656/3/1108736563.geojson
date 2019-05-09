@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.181431,
-    "geom:area_square_m":1541101986.749719,
+    "geom:area_square_m":1541101986.749684,
     "geom:bbox":"38.2903105645,46.2004391842,38.9356318996,46.879581451",
     "geom:latitude":46.611329,
     "geom:longitude":38.666619,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Shcherbinovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":46.554335,
     "lbl:longitude":38.644469,
     "meso:admin1_en":"Krasnodarskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Shcherbinovskiy"
+    ],
+    "name:eng_x_variant":[
+        "SHHerbinovskij"
     ],
     "name:ger_x_preferred":[
         "Schtscherbinowski rajon"
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108736563,
-    "wof:lastmodified":1514502799,
-    "wof:name":"SHHerbinovskij",
+    "wof:lastmodified":1554506328,
+    "wof:name":"Shcherbinovskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":39300,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

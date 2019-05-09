@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110056,
-    "geom:area_square_m":865049586.772595,
+    "geom:area_square_m":865049586.772562,
     "geom:bbox":"35.392712,50.349449,35.9200938523,50.7127932504",
     "geom:latitude":50.530724,
     "geom:longitude":35.655089,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Grajvoronskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.534046,
     "lbl:longitude":35.673226,
     "meso:admin1_en":"Belskaja oblast'",
@@ -48,7 +60,11 @@
         "Grayvoronskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Grayvoronskiy"
+        "Grajvoronskiy"
+    ],
+    "name:eng_x_variant":[
+        "Grajvoronskij",
+        "Grajvoronskiy"
     ],
     "name:ger_x_preferred":[
         "Graiworonski rajon"
@@ -108,11 +124,11 @@
         }
     ],
     "wof:id":1108733923,
-    "wof:lastmodified":1514501329,
-    "wof:name":"Grajvoronskij",
+    "wof:lastmodified":1555047601,
+    "wof:name":"Grajvoronskiy",
     "wof:parent_id":85687813,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":27700,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

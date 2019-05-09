@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.307108,
-    "geom:area_square_m":2164538672.180412,
+    "geom:area_square_m":2164538672.180477,
     "geom:bbox":"57.4689538601,54.9054975675,58.8257278366,55.5310675792",
     "geom:latitude":55.249784,
     "geom:longitude":58.15574,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Salavatskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.339485,
     "lbl:longitude":58.109369,
     "meso:admin1_en":"Bashkortostan",
@@ -37,6 +49,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Salavatskiy"
+    ],
+    "name:eng_x_variant":[
+        "Salavatskij"
     ],
     "name:und_x_variant":[
         "\u0421\u0430\u043b\u0430\u0432\u0430\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108736369,
-    "wof:lastmodified":1505431752,
-    "wof:name":"Salavatskij",
+    "wof:lastmodified":1555047678,
+    "wof:name":"Salavatskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":28100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

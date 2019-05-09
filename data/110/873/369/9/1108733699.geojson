@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129955,
-    "geom:area_square_m":1114077197.279412,
+    "geom:area_square_m":1114077197.279489,
     "geom:bbox":"41.6361609112,45.9262885019,42.1965456415,46.3026390639",
     "geom:latitude":46.10821,
     "geom:longitude":41.955172,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ovikovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":46.07578,
     "lbl:longitude":41.949781,
     "meso:admin1_en":"Respublika Kalmykija",
@@ -45,7 +57,11 @@
         "Gorodovikovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Gorodovikovskiy"
+        "Ovikovskiy"
+    ],
+    "name:eng_x_variant":[
+        "ovikovskij",
+        "Ovikovskiy"
     ],
     "name:est_x_preferred":[
         "Gorodovikovski rajoon"
@@ -120,11 +136,11 @@
         }
     ],
     "wof:id":1108733699,
-    "wof:lastmodified":1514504159,
-    "wof:name":"ovikovskij",
+    "wof:lastmodified":1555047597,
+    "wof:name":"Ovikovskiy",
     "wof:parent_id":85687953,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":19500,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

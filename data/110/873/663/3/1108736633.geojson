@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.271778,
-    "geom:area_square_m":1822070707.176266,
+    "geom:area_square_m":1822070707.176152,
     "geom:bbox":"51.1253155742,56.8589286946,51.9162013105,57.4730512843",
     "geom:latitude":57.167135,
     "geom:longitude":51.481196,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Sjumsinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.110614,
     "lbl:longitude":51.454147,
     "meso:admin1_en":"Udmurtskaja respublika",
@@ -48,7 +60,11 @@
         "Sjumsinskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Syumsinskiy"
+        "Sjumsinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Sjumsinskij",
+        "Sjumsinskiy"
     ],
     "name:est_x_preferred":[
         "Sjumsi rajoon"
@@ -117,11 +133,11 @@
         }
     ],
     "wof:id":1108736633,
-    "wof:lastmodified":1514503316,
-    "wof:name":"Sjumsinskij",
+    "wof:lastmodified":1555047683,
+    "wof:name":"Sjumsinskiy",
     "wof:parent_id":85687787,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":18000,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

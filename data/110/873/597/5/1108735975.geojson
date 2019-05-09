@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.367839,
-    "geom:area_square_m":3152197737.873626,
+    "geom:area_square_m":3152197737.873693,
     "geom:bbox":"42.7705553879,45.7870157206,44.2822014688,46.4485954779",
     "geom:latitude":46.129124,
     "geom:longitude":43.682802,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Prijutnenskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":46.074677,
     "lbl:longitude":44.008065,
     "meso:admin1_en":"Respublika Kalmykija",
@@ -45,7 +57,11 @@
         "Prijutnenskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Priyutnenskiy"
+        "Prijutnenskiy"
+    ],
+    "name:eng_x_variant":[
+        "Prijutnenskij",
+        "Prijutnenskiy"
     ],
     "name:est_x_preferred":[
         "Prijutnoje rajoon"
@@ -117,11 +133,11 @@
         }
     ],
     "wof:id":1108735975,
-    "wof:lastmodified":1514502705,
-    "wof:name":"Prijutnenskij",
+    "wof:lastmodified":1555047669,
+    "wof:name":"Prijutnenskiy",
     "wof:parent_id":85687953,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14400,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

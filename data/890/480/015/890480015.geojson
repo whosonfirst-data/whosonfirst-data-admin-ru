@@ -11,6 +11,18 @@
     "geom:longitude":52.50535,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Tukaevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.553803,
     "lbl:longitude":52.548639,
     "meso:admin1_en":"Tatarstan",
@@ -49,7 +61,11 @@
         "\u0422\u0443\u0442\u0430\u0440\u0441\u0442\u0430\u043d\u0103\u043d \u0422\u0443\u043a\u0430\u0439 \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
     "name:eng_x_preferred":[
-        "Tukayevskiy"
+        "Tukaevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Tukaevskij",
+        "Tukaevskiy"
     ],
     "name:est_x_preferred":[
         "Tukajevi rajoon"
@@ -139,11 +155,11 @@
         }
     ],
     "wof:id":890480015,
-    "wof:lastmodified":1536617432,
-    "wof:name":"Tukaevskij",
+    "wof:lastmodified":1555047535,
+    "wof:name":"Tukaevskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":28900,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

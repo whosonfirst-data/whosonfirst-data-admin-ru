@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140061,
-    "geom:area_square_m":1050275924.08973,
+    "geom:area_square_m":1050275924.089729,
     "geom:bbox":"35.9544445037,52.505388869,36.6539384647,52.8460849042",
     "geom:latitude":52.667639,
     "geom:longitude":36.330662,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Sverdlovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.694334,
     "lbl:longitude":36.365049,
     "meso:admin1_en":"Orlovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Sverdlovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Sverdlovskij"
     ],
     "name:ger_x_preferred":[
         "Swerdlowski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108736869,
-    "wof:lastmodified":1514503442,
-    "wof:name":"Sverdlovskij",
+    "wof:lastmodified":1555047690,
+    "wof:name":"Sverdlovskiy",
     "wof:parent_id":85687849,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":19100,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098229,
-    "geom:area_square_m":684644407.019153,
+    "geom:area_square_m":684644407.019115,
     "geom:bbox":"45.9102228831,55.5134074297,46.5216330918,55.8229113762",
     "geom:latitude":55.690247,
     "geom:longitude":46.200532,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Krasnochetajskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.686376,
     "lbl:longitude":46.179742,
     "meso:admin1_en":"CHuvashija",
@@ -45,7 +57,11 @@
         "\u0425\u0115\u0440\u043b\u0115 \u0427\u0443\u0442\u0430\u0439 \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
     "name:eng_x_preferred":[
-        "Krasnochetayskiy"
+        "Krasnochetajskiy"
+    ],
+    "name:eng_x_variant":[
+        "Krasnochetajskij",
+        "Krasnochetajskiy"
     ],
     "name:est_x_preferred":[
         "Krasn\u00f5je T\u0161etai rajoon"
@@ -114,11 +130,11 @@
         }
     ],
     "wof:id":1108734681,
-    "wof:lastmodified":1514501912,
-    "wof:name":"Krasnochetajskij",
+    "wof:lastmodified":1555047626,
+    "wof:name":"Krasnochetajskiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":22500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

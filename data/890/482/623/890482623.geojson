@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.325599,
-    "geom:area_square_m":17501600734.182903,
+    "geom:area_square_m":17501600734.182388,
     "geom:bbox":"91.0762957152,51.7723360209,94.1590651969,53.4418469406",
     "geom:latitude":52.509491,
     "geom:longitude":92.730249,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ermakovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.469639,
     "lbl:longitude":92.881084,
     "meso:admin1_en":"Krasnojarskij kraj",
@@ -49,7 +61,11 @@
         "Ermakovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Yermakovsky District"
+        "Ermakovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ermakovskij",
+        "Ermakovskiy"
     ],
     "name:ger_x_preferred":[
         "Jermakowski rajon"
@@ -117,10 +133,11 @@
         }
     ],
     "wof:id":890482623,
-    "wof:lastmodified":1527727143,
-    "wof:name":"Ermakovskij",
+    "wof:lastmodified":1555047542,
+    "wof:name":"Ermakovskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

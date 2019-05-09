@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.509131,
-    "geom:area_square_m":3880003127.258605,
+    "geom:area_square_m":3880003127.258653,
     "geom:bbox":"48.3006894509,51.5322743773,49.7872862046,52.3980517434",
     "geom:latitude":51.952342,
     "geom:longitude":49.046482,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Pugachjovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.999026,
     "lbl:longitude":49.047132,
     "meso:admin1_en":"Saratovskaja oblast'",
@@ -48,7 +60,11 @@
         "Poegatsjjovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Pugachevskiy"
+        "Pugachjovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Pugachjovskij",
+        "Pugachjovskiy"
     ],
     "name:ger_x_preferred":[
         "Pugatschowski rajon"
@@ -108,11 +124,11 @@
         }
     ],
     "wof:id":1108736025,
-    "wof:lastmodified":1514502742,
-    "wof:name":"Pugachjovskij",
+    "wof:lastmodified":1555047671,
+    "wof:name":"Pugachjovskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":25200,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

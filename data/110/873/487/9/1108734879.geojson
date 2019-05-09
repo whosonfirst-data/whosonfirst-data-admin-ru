@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.210834,
-    "geom:area_square_m":1860227563.628506,
+    "geom:area_square_m":1860227563.628473,
     "geom:bbox":"40.6696320951,44.0920496681,41.2097569819,44.7925918311",
     "geom:latitude":44.475376,
     "geom:longitude":40.962869,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Labinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":44.489558,
     "lbl:longitude":40.981271,
     "meso:admin1_en":"Krasnodarskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Labinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Labinskij"
     ],
     "name:ger_x_preferred":[
         "Labinski rajon"
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108734879,
-    "wof:lastmodified":1514502000,
-    "wof:name":"Labinskij",
+    "wof:lastmodified":1555047633,
+    "wof:name":"Labinskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":39500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

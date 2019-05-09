@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.159176,
-    "geom:area_square_m":1195868240.162385,
+    "geom:area_square_m":1195868240.162386,
     "geom:bbox":"38.1346952427,52.3879978904,38.9381984302,52.7866981802",
     "geom:latitude":52.584972,
     "geom:longitude":38.548276,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Eleckij District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.642723,
     "lbl:longitude":38.708556,
     "meso:admin1_en":"Lipeckaja oblast'",
@@ -45,6 +57,9 @@
         "Eletskiy rayon"
     ],
     "name:eng_x_preferred":[
+        "Eleckij"
+    ],
+    "name:eng_x_variant":[
         "Eletskiy"
     ],
     "name:fre_x_preferred":[
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108733485,
-    "wof:lastmodified":1514501219,
+    "wof:lastmodified":1555047591,
     "wof:name":"Eleckij",
     "wof:parent_id":85687917,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":22200,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

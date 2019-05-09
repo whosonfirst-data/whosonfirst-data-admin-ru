@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.338425,
-    "geom:area_square_m":25752520000.62529,
+    "geom:area_square_m":25752520000.625145,
     "geom:bbox":"94.6454800638,50.4708464364,98.9871562218,52.2976166504",
     "geom:latitude":51.401498,
     "geom:longitude":96.57041,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kaa-Khemskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.224414,
     "lbl:longitude":96.244244,
     "meso:admin1_en":"Tyva",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Kaa-Khemskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kaa-KHemskij kozhuun"
     ],
     "name:est_x_preferred":[
         "Kaa-Hemi ko\u017euun"
@@ -120,11 +135,11 @@
         }
     ],
     "wof:id":1108734169,
-    "wof:lastmodified":1514501445,
-    "wof:name":"Kaa-KHemskij kozhuun",
+    "wof:lastmodified":1555047610,
+    "wof:name":"Kaa-Khemskiy",
     "wof:parent_id":85688039,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14400,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

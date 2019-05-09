@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.2586,
-    "geom:area_square_m":1821427367.436774,
+    "geom:area_square_m":1821427367.436691,
     "geom:bbox":"50.284770772,55.0319791029,51.2486464594,55.4988092201",
     "geom:latitude":55.276397,
     "geom:longitude":50.719863,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Chistopol'skiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":55.244105,
     "lbl:longitude":50.726442,
     "meso:admin1_en":"Tatarstan",
@@ -48,7 +54,11 @@
         "\u0422\u0443\u0442\u0430\u0440\u0441\u0442\u0430\u043d\u0103\u043d \u0427\u0438\u0441\u0442\u0430\u0439 \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
     "name:eng_x_preferred":[
-        "Chistopolsky District"
+        "Chistopol'skiy"
+    ],
+    "name:eng_x_variant":[
+        "CHistopol'skij",
+        "Chistopol'skiy"
     ],
     "name:est_x_preferred":[
         "T\u0161istopoli rajoon"
@@ -105,8 +115,8 @@
         }
     ],
     "wof:id":1108733279,
-    "wof:lastmodified":1514500919,
-    "wof:name":"CHistopol'skij",
+    "wof:lastmodified":1555047584,
+    "wof:name":"Chistopol'skiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ru",

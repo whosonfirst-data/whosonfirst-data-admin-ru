@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.394897,
-    "geom:area_square_m":8115416614.796165,
+    "geom:area_square_m":8115416614.796138,
     "geom:bbox":"39.7432110316,61.3801122722,41.6373474693,62.5652037575",
     "geom:latitude":61.932265,
     "geom:longitude":40.578034,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Njandomskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":61.939039,
     "lbl:longitude":40.591627,
     "meso:admin1_en":"Arkhangel'skaja oblast'",
@@ -45,7 +57,11 @@
         "Njandomskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Nyandomskiy"
+        "Njandomskiy"
+    ],
+    "name:eng_x_variant":[
+        "Njandomskij",
+        "Njandomskiy"
     ],
     "name:est_x_preferred":[
         "Njandoma rajoon"
@@ -123,11 +139,11 @@
         }
     ],
     "wof:id":1108735405,
-    "wof:lastmodified":1514502447,
-    "wof:name":"Njandomskij",
+    "wof:lastmodified":1555047648,
+    "wof:name":"Njandomskiy",
     "wof:parent_id":85687971,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":39800,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

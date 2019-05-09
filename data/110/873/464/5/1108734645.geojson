@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.529507,
-    "geom:area_square_m":3649473547.542281,
+    "geom:area_square_m":3649473547.542171,
     "geom:bbox":"83.0666477602,55.6606432567,84.2746242221,56.4605098231",
     "geom:latitude":56.124397,
     "geom:longitude":83.612591,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kozhevnikovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.12798,
     "lbl:longitude":83.60319,
     "meso:admin1_en":"Tomskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Kozhevnikovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kozhevnikovskij"
     ],
     "name:fin_x_preferred":[
         "Ko\u017eevnikovon piiri"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108734645,
-    "wof:lastmodified":1514501898,
-    "wof:name":"Kozhevnikovskij",
+    "wof:lastmodified":1555047625,
+    "wof:name":"Kozhevnikovskiy",
     "wof:parent_id":85687809,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":24500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

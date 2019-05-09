@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.717273,
-    "geom:area_square_m":5077618546.554037,
+    "geom:area_square_m":5077618546.553535,
     "geom:bbox":"81.335000459,54.6470326681,82.8263553576,55.5140570826",
     "geom:latitude":55.075127,
     "geom:longitude":81.974375,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kochenjovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.099361,
     "lbl:longitude":81.923704,
     "meso:admin1_en":"Novosibirskaja oblast'",
@@ -45,7 +57,11 @@
         "Kotsjenjovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Kochenevskiy"
+        "Kochenjovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kochenjovskij",
+        "Kochenjovskiy"
     ],
     "name:ger_x_preferred":[
         "Kotschenjowski rajon"
@@ -108,11 +124,11 @@
         }
     ],
     "wof:id":1108734509,
-    "wof:lastmodified":1514501810,
-    "wof:name":"Kochenjovskij",
+    "wof:lastmodified":1555047621,
+    "wof:name":"Kochenjovskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":48600,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

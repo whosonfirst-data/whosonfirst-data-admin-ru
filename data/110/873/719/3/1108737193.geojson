@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005448,
-    "geom:area_square_m":42583893.019275,
+    "geom:area_square_m":42583893.019271,
     "geom:bbox":"41.9689866637,50.7572551075,42.0949377743,50.823496827",
     "geom:latitude":50.792978,
     "geom:longitude":42.027512,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Urjupinsk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.789596,
     "lbl:longitude":42.009816,
     "meso:admin1_en":"Volgogradskaja oblast'",
@@ -36,6 +48,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
+        "Urjupinsk"
+    ],
+    "name:eng_x_variant":[
         "Uryupinskiy"
     ],
     "name:und_x_variant":[
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108737193,
-    "wof:lastmodified":1505431766,
+    "wof:lastmodified":1555047705,
     "wof:name":"Urjupinsk",
     "wof:parent_id":85688101,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":32300,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

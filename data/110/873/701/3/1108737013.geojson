@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.211242,
-    "geom:area_square_m":1820500112.651254,
+    "geom:area_square_m":1820500112.651262,
     "geom:bbox":"39.8169695311,45.5679529991,40.5676121453,46.0925345227",
     "geom:latitude":45.815976,
     "geom:longitude":40.228188,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Tikhoreckij District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":45.791984,
     "lbl:longitude":40.321262,
     "meso:admin1_en":"Krasnodarskij kraj",
@@ -45,6 +57,9 @@
         "District Tichoretski"
     ],
     "name:eng_x_preferred":[
+        "Tikhoreckij"
+    ],
+    "name:eng_x_variant":[
         "Tikhoretskiy"
     ],
     "name:ger_x_preferred":[
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108737013,
-    "wof:lastmodified":1514503605,
+    "wof:lastmodified":1555047698,
     "wof:name":"Tikhoreckij",
     "wof:parent_id":85688029,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":60000,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

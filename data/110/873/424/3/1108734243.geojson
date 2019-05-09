@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11366,
-    "geom:area_square_m":825012546.381169,
+    "geom:area_square_m":825012546.38109,
     "geom:bbox":"51.8560047259,53.888283283,52.4905562234,54.2371929251",
     "geom:latitude":54.054065,
     "geom:longitude":52.184591,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kamyshlinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.068963,
     "lbl:longitude":52.189801,
     "meso:admin1_en":"Samarskaja oblast'",
@@ -48,7 +60,11 @@
         "Kamyshlinsky District"
     ],
     "name:eng_x_preferred":[
-        "Isaklinskiy"
+        "Kamyshlinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kamyshlinskij",
+        "Kamyshlinskiy"
     ],
     "name:est_x_preferred":[
         "Kam\u00f5\u0161la rajoon"
@@ -114,11 +130,11 @@
         }
     ],
     "wof:id":1108734243,
-    "wof:lastmodified":1514501523,
-    "wof:name":"Kamyshlinskij",
+    "wof:lastmodified":1555047612,
+    "wof:name":"Kamyshlinskiy",
     "wof:parent_id":85687781,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":16100,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

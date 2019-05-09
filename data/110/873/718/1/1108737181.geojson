@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.435542,
-    "geom:area_square_m":2995509704.135607,
+    "geom:area_square_m":2995509704.13569,
     "geom:bbox":"65.6530929315,55.9555957904,67.0731846849,56.4874681597",
     "geom:latitude":56.20575,
     "geom:longitude":66.28503,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Uporovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.238461,
     "lbl:longitude":65.989761,
     "meso:admin1_en":"Tjumenskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Uporovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Uporovskij"
     ],
     "name:ger_x_preferred":[
         "Uporowski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108737181,
-    "wof:lastmodified":1514503772,
-    "wof:name":"Uporovskij",
+    "wof:lastmodified":1555047705,
+    "wof:name":"Uporovskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":22100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

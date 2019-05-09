@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.377048,
-    "geom:area_square_m":13627183879.047371,
+    "geom:area_square_m":13627183879.047535,
     "geom:bbox":"30.7876522428,61.6018430208,33.361320091,63.0686411917",
     "geom:latitude":62.378129,
     "geom:longitude":32.112398,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Suojarvskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":62.430079,
     "lbl:longitude":32.088107,
     "meso:admin1_en":"Respublika Karelija",
@@ -48,7 +60,11 @@
         "Soeojarvskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Suoyarvskiy"
+        "Suojarvskiy"
+    ],
+    "name:eng_x_variant":[
+        "Suojarvskij",
+        "Suojarvskiy"
     ],
     "name:est_x_preferred":[
         "Suoj\u00e4rvi rajoon"
@@ -129,11 +145,11 @@
         }
     ],
     "wof:id":1108736843,
-    "wof:lastmodified":1514503430,
-    "wof:name":"Suojarvskij",
+    "wof:lastmodified":1555047689,
+    "wof:name":"Suojarvskiy",
     "wof:parent_id":85688193,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":25000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

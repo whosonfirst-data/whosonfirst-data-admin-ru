@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.445513,
-    "geom:area_square_m":3082432386.542146,
+    "geom:area_square_m":3082432386.542099,
     "geom:bbox":"66.9855198629,55.6549013081,68.1694124209,56.2734683765",
     "geom:latitude":55.975829,
     "geom:longitude":67.626661,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Armizonskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.913259,
     "lbl:longitude":67.637586,
     "meso:admin1_en":"Tjumenskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Armizonskiy"
+    ],
+    "name:eng_x_variant":[
+        "Armizonskij"
     ],
     "name:ger_x_preferred":[
         "Armisonski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108732775,
-    "wof:lastmodified":1514500586,
-    "wof:name":"Armizonskij",
+    "wof:lastmodified":1555047567,
+    "wof:name":"Armizonskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":12900,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

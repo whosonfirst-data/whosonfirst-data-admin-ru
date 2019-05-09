@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.591553,
-    "geom:area_square_m":4009025040.224348,
+    "geom:area_square_m":4009025040.224327,
     "geom:bbox":"86.1288416093,56.5286928999,88.0660991001,57.0863253847",
     "geom:latitude":56.764538,
     "geom:longitude":87.040161,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Zyrjanskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.781053,
     "lbl:longitude":86.944639,
     "meso:admin1_en":"Tomskaja oblast'",
@@ -45,7 +57,11 @@
         "Zirjanskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Zyryanskiy"
+        "Zyrjanskiy"
+    ],
+    "name:eng_x_variant":[
+        "Zyrjanskij",
+        "Zyrjanskiy"
     ],
     "name:fin_x_preferred":[
         "Zyrjanskojen piiri"
@@ -105,11 +121,11 @@
         }
     ],
     "wof:id":1108738473,
-    "wof:lastmodified":1514504157,
-    "wof:name":"Zyrjanskij",
+    "wof:lastmodified":1555047719,
+    "wof:name":"Zyrjanskiy",
     "wof:parent_id":85687809,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":17200,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

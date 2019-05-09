@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.420337,
-    "geom:area_square_m":2732476924.242431,
+    "geom:area_square_m":2732476924.242464,
     "geom:bbox":"31.6822138444,58.0151233886,33.0870560361,58.5489096143",
     "geom:latitude":58.282929,
     "geom:longitude":32.409146,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kresteckij District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":58.270386,
     "lbl:longitude":32.478084,
     "meso:admin1_en":"Novskaja oblast'",
@@ -45,6 +57,9 @@
         "Krestetskiy rayon"
     ],
     "name:eng_x_preferred":[
+        "Kresteckij"
+    ],
+    "name:eng_x_variant":[
         "Krestetskiy"
     ],
     "name:est_x_preferred":[
@@ -114,11 +129,11 @@
         }
     ],
     "wof:id":1108734751,
-    "wof:lastmodified":1514501947,
+    "wof:lastmodified":1555047628,
     "wof:name":"Kresteckij",
     "wof:parent_id":85688095,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":16200,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

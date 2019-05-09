@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.343093,
-    "geom:area_square_m":2483096684.93779,
+    "geom:area_square_m":2483096684.937833,
     "geom:bbox":"73.1152437431,53.939199,74.3908680785,54.4667983983",
     "geom:latitude":54.175515,
     "geom:longitude":73.710689,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Pavlogradskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.214836,
     "lbl:longitude":73.754273,
     "meso:admin1_en":"Omskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Pavlogradskiy"
+    ],
+    "name:eng_x_variant":[
+        "Pavlogradskij"
     ],
     "name:ger_x_preferred":[
         "Pawlogradski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108735781,
-    "wof:lastmodified":1514502616,
-    "wof:name":"Pavlogradskij",
+    "wof:lastmodified":1555047663,
+    "wof:name":"Pavlogradskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":22500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

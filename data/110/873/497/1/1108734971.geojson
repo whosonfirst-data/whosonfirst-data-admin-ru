@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.13051,
-    "geom:area_square_m":950568303.961224,
+    "geom:area_square_m":950568303.961209,
     "geom:bbox":"34.1028614126,53.7289960541,34.8288706839,54.0584582952",
     "geom:latitude":53.911652,
     "geom:longitude":34.487595,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ljudinovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.894736,
     "lbl:longitude":34.487669,
     "meso:admin1_en":"Kaluzhskaja oblast'",
@@ -45,7 +57,11 @@
         "Ljudinovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Lyudinovskiy"
+        "Ljudinovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ljudinovskij",
+        "Ljudinovskiy"
     ],
     "name:ger_x_preferred":[
         "Ljudinowski rajon"
@@ -102,11 +118,11 @@
         }
     ],
     "wof:id":1108734971,
-    "wof:lastmodified":1514502035,
-    "wof:name":"Ljudinovskij",
+    "wof:lastmodified":1555047635,
+    "wof:name":"Ljudinovskiy",
     "wof:parent_id":85688131,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":5600,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",

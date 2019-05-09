@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.247987,
-    "geom:area_square_m":1755676951.762824,
+    "geom:area_square_m":1755676951.762912,
     "geom:bbox":"59.6200126264,54.757516413,60.3115382947,55.4295899365",
     "geom:latitude":55.071557,
     "geom:longitude":60.022926,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Miasskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.069251,
     "lbl:longitude":60.046266,
     "meso:admin1_en":"CHeljabinskaja oblast'",
@@ -36,7 +48,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Miass"
+        "Miasskiy"
+    ],
+    "name:eng_x_variant":[
+        "Miasskij",
+        "Miasskiy"
     ],
     "name:und_x_variant":[
         "\u041c\u0438\u0430\u0441\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433"
@@ -76,11 +92,11 @@
         }
     ],
     "wof:id":1108735125,
-    "wof:lastmodified":1505431735,
-    "wof:name":"Miasskij",
+    "wof:lastmodified":1555047640,
+    "wof:name":"Miasskiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",
-    "wof:placetype_local":"gorsovet",
+    "wof:placetype_local":"district",
     "wof:population":166200,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ru",

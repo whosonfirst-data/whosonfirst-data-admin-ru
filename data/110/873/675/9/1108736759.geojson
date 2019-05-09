@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.161136,
-    "geom:area_square_m":1308112183.549367,
+    "geom:area_square_m":1308112183.549416,
     "geom:bbox":"41.862269996,48.7733087431,42.687421395,49.1418714415",
     "geom:latitude":48.964484,
     "geom:longitude":42.207521,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Sovetskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":48.970903,
     "lbl:longitude":42.207537,
     "meso:admin1_en":"Rostovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Sovetskiy"
+    ],
+    "name:eng_x_variant":[
+        "Sovetskij"
     ],
     "name:ger_x_preferred":[
         "Sowetski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108736759,
-    "wof:lastmodified":1553816507,
-    "wof:name":"Sovetskij",
+    "wof:lastmodified":1555047686,
+    "wof:name":"Sovetskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":8600,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",

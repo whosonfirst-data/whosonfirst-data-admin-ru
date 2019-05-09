@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0532,
-    "geom:area_square_m":406886803.328858,
+    "geom:area_square_m":406886803.328808,
     "geom:bbox":"55.0164648002,51.6643802432,55.6050844908,51.905887437",
     "geom:latitude":51.791402,
     "geom:longitude":55.239669,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Orenburg District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.818491,
     "lbl:longitude":55.165153,
     "meso:admin1_en":"Orenburgskaja oblast'",
@@ -68,6 +80,7 @@
     "qs:photos_sr":2,
     "qs:placetype":"County",
     "qs:pop_sr":"0",
+    "src:geom":"unknown",
     "src:geom_alt":[
         "quattroshapes"
     ],
@@ -112,11 +125,11 @@
         }
     ],
     "wof:id":890480489,
-    "wof:lastmodified":1553816412,
+    "wof:lastmodified":1555036988,
     "wof:name":"Orenburg",
     "wof:parent_id":85688081,
     "wof:placetype":"county",
-    "wof:placetype_local":"gorsovet",
+    "wof:placetype_local":"district",
     "wof:population":523600,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-ru",

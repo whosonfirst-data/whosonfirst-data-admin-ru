@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.275979,
-    "geom:area_square_m":2042688349.199821,
+    "geom:area_square_m":2042688349.1998,
     "geom:bbox":"45.3987049194,52.9282622646,46.1991702875,53.5491278061",
     "geom:latitude":53.231365,
     "geom:longitude":45.745885,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ishhenskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.204973,
     "lbl:longitude":45.751646,
     "meso:admin1_en":"Penzenskaja oblast'",
@@ -45,7 +57,11 @@
         "Gorodishchensky District"
     ],
     "name:eng_x_preferred":[
-        "Gorodishchenskiy"
+        "Ishhenskiy"
+    ],
+    "name:eng_x_variant":[
+        "ishhenskij",
+        "Ishhenskiy"
     ],
     "name:ger_x_preferred":[
         "Gorodischtschenski rajon"
@@ -102,11 +118,11 @@
         }
     ],
     "wof:id":1108733693,
-    "wof:lastmodified":1514504159,
-    "wof:name":"ishhenskij",
+    "wof:lastmodified":1555047597,
+    "wof:name":"Ishhenskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":57000,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

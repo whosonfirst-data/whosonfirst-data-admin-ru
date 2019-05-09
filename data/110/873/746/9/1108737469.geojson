@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.277935,
-    "geom:area_square_m":54968588700.16069,
+    "geom:area_square_m":54968588700.158318,
     "geom:bbox":"118.790552163,62.40628223,125.765587527,66.9545741522",
     "geom:latitude":64.367766,
     "geom:longitude":122.1377,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Viljujskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":64.094407,
     "lbl:longitude":122.373444,
     "meso:admin1_en":"Respublika Sakha (JAkutija)",
@@ -48,7 +60,11 @@
         "Viljuyskiy oeloes"
     ],
     "name:eng_x_preferred":[
-        "Vilyuyskiy"
+        "Viljujskiy"
+    ],
+    "name:eng_x_variant":[
+        "Viljujskij ulus",
+        "Viljujskiy"
     ],
     "name:est_x_preferred":[
         "Viljuiski uluss"
@@ -123,11 +139,11 @@
         }
     ],
     "wof:id":1108737469,
-    "wof:lastmodified":1514503866,
-    "wof:name":"Viljujskij ulus",
+    "wof:lastmodified":1555047712,
+    "wof:name":"Viljujskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":19500,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

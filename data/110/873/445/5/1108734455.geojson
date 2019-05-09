@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157852,
-    "geom:area_square_m":1404305806.042008,
+    "geom:area_square_m":1404305806.041999,
     "geom:bbox":"43.2399760304,43.8003880197,44.2210518342,44.1606682286",
     "geom:latitude":43.989382,
     "geom:longitude":43.714994,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kirovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":43.957217,
     "lbl:longitude":43.633435,
     "meso:admin1_en":"Stavropol'skij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Kirovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kirovskij"
     ],
     "name:epo_x_preferred":[
         "distrikto Kirov"
@@ -123,11 +138,11 @@
         }
     ],
     "wof:id":1108734455,
-    "wof:lastmodified":1553816504,
-    "wof:name":"Kirovskij",
+    "wof:lastmodified":1555047619,
+    "wof:name":"Kirovskiy",
     "wof:parent_id":85687825,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":66300,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

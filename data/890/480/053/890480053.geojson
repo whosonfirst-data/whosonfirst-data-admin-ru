@@ -11,6 +11,18 @@
     "geom:longitude":32.748701,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Nelidovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.225106,
     "lbl:longitude":32.748617,
     "meso:admin1_en":"Tverskaja oblast'",
@@ -50,6 +62,9 @@
     ],
     "name:eng_x_preferred":[
         "Nelidovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Nelidovskij"
     ],
     "name:fin_x_preferred":[
         "Nelidovon piiri"
@@ -130,11 +145,11 @@
         }
     ],
     "wof:id":890480053,
-    "wof:lastmodified":1536617432,
-    "wof:name":"Nelidovskij",
+    "wof:lastmodified":1555047535,
+    "wof:name":"Nelidovskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":9100,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",

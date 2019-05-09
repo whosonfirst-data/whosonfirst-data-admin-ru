@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142328,
-    "geom:area_square_m":1043708715.3131,
+    "geom:area_square_m":1043708715.313156,
     "geom:bbox":"32.413934,53.4136919393,33.0733221723,53.8013629752",
     "geom:latitude":53.626654,
     "geom:longitude":32.731805,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ershichskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.627865,
     "lbl:longitude":32.737007,
     "meso:admin1_en":"Smolenskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Ershichskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ershichskij"
     ],
     "name:ger_x_preferred":[
         "Jerschitschski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108733513,
-    "wof:lastmodified":1514501236,
-    "wof:name":"Ershichskij",
+    "wof:lastmodified":1555047592,
+    "wof:name":"Ershichskiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":10000,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

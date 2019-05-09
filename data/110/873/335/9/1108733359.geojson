@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.481669,
-    "geom:area_square_m":3183185057.273013,
+    "geom:area_square_m":3183185057.273028,
     "geom:bbox":"31.9450940759,57.3896405327,33.3271318997,58.1138008669",
     "geom:latitude":57.692794,
     "geom:longitude":32.563967,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Demjanskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.741297,
     "lbl:longitude":32.401543,
     "meso:admin1_en":"Novskaja oblast'",
@@ -45,7 +57,11 @@
         "Demyansky District"
     ],
     "name:eng_x_preferred":[
-        "Demyanskiy"
+        "Demjanskiy"
+    ],
+    "name:eng_x_variant":[
+        "Demjanskij",
+        "Demjanskiy"
     ],
     "name:est_x_preferred":[
         "Demjanski rajoon"
@@ -111,11 +127,11 @@
         }
     ],
     "wof:id":1108733359,
-    "wof:lastmodified":1514501169,
-    "wof:name":"Demjanskij",
+    "wof:lastmodified":1555047587,
+    "wof:name":"Demjanskiy",
     "wof:parent_id":85688095,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":17000,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

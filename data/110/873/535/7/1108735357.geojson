@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.382327,
-    "geom:area_square_m":2643203297.300347,
+    "geom:area_square_m":2643203297.300164,
     "geom:bbox":"29.1806898049,55.701438,30.4744695772,56.2876096924",
     "geom:latitude":56.005858,
     "geom:longitude":29.800437,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Nevel'skiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.037387,
     "lbl:longitude":29.746867,
     "meso:admin1_en":"Pskovskaja oblast'",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Nevel'skiy"
+    ],
+    "name:eng_x_variant":[
+        "Nevel'skij"
     ],
     "name:est_x_preferred":[
         "Neveli rajoon"
@@ -114,11 +129,11 @@
         }
     ],
     "wof:id":1108735357,
-    "wof:lastmodified":1514502420,
-    "wof:name":"Nevel'skij",
+    "wof:lastmodified":1555047646,
+    "wof:name":"Nevel'skiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":34200,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.31844,
-    "geom:area_square_m":2155071854.674784,
+    "geom:area_square_m":2155071854.675088,
     "geom:bbox":"52.6328406074,56.540420734,53.9262333065,57.066729812",
     "geom:latitude":56.817247,
     "geom:longitude":53.205629,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Zav'jalovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.740563,
     "lbl:longitude":53.4584,
     "meso:admin1_en":"Udmurtskaja respublika",
@@ -45,7 +57,11 @@
         "Zavjalovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Zav'yalovskiy"
+        "Zav'jalovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Zav'jalovskij",
+        "Zav'jalovskiy"
     ],
     "name:est_x_preferred":[
         "Zavjalovo rajoon"
@@ -114,11 +130,11 @@
         }
     ],
     "wof:id":1108737961,
-    "wof:lastmodified":1514504122,
-    "wof:name":"Zav'jalovskij",
+    "wof:lastmodified":1555047716,
+    "wof:name":"Zav'jalovskiy",
     "wof:parent_id":85687787,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":54700,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086626,
-    "geom:area_square_m":593306777.394753,
+    "geom:area_square_m":593306777.394687,
     "geom:bbox":"53.8463162957,56.1962253174,54.4108563424,56.4987299041",
     "geom:latitude":56.365004,
     "geom:longitude":54.16154,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kambarskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.324189,
     "lbl:longitude":54.22783,
     "meso:admin1_en":"Udmurtskaja respublika",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Kambarskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kambarskij"
     ],
     "name:est_x_preferred":[
         "Kambarka rajoon"
@@ -120,11 +135,11 @@
         }
     ],
     "wof:id":1108734215,
-    "wof:lastmodified":1514501513,
-    "wof:name":"Kambarskij",
+    "wof:lastmodified":1555047611,
+    "wof:name":"Kambarskiy",
     "wof:parent_id":85687787,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":23000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125698,
-    "geom:area_square_m":884737251.86083,
+    "geom:area_square_m":884737251.860822,
     "geom:bbox":"45.2235666207,55.0803669703,45.8579999616,55.4826349254",
     "geom:latitude":55.303801,
     "geom:longitude":45.535882,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Krasnooktjabr'skiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.313012,
     "lbl:longitude":45.531071,
     "meso:admin1_en":"Nizheskaja oblast'",
@@ -36,7 +48,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Krasnooktyabr'skiy"
+        "Krasnooktjabr'skiy"
+    ],
+    "name:eng_x_variant":[
+        "Krasnooktjabr'skij",
+        "Krasnooktjabr'skiy"
     ],
     "name:und_x_variant":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u043e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -76,11 +92,11 @@
         }
     ],
     "wof:id":1108734725,
-    "wof:lastmodified":1505431729,
-    "wof:name":"Krasnooktjabr'skij",
+    "wof:lastmodified":1555047627,
+    "wof:name":"Krasnooktjabr'skiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":13900,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

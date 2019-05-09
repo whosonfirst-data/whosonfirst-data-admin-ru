@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.023033,
-    "geom:area_square_m":7950857090.877783,
+    "geom:area_square_m":7950857090.878935,
     "geom:bbox":"88.7968945136,50.4929595209,90.5629709436,51.6601732038",
     "geom:latitude":51.057971,
     "geom:longitude":89.68127,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Baj-Tajginskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.971904,
     "lbl:longitude":89.668157,
     "meso:admin1_en":"Tyva",
@@ -45,7 +57,11 @@
         "Bay-Tayginskiy kozjoeoen"
     ],
     "name:eng_x_preferred":[
-        "Bay-Tayginskiy"
+        "Baj-Tajginskiy"
+    ],
+    "name:eng_x_variant":[
+        "Baj-Tajginskij kozhuun",
+        "Baj-Tajginskiy"
     ],
     "name:est_x_preferred":[
         "Bai-Taiga ko\u017euun"
@@ -123,11 +139,11 @@
         }
     ],
     "wof:id":1108732845,
-    "wof:lastmodified":1514500620,
-    "wof:name":"Baj-Tajginskij kozhuun",
+    "wof:lastmodified":1555047569,
+    "wof:name":"Baj-Tajginskiy",
     "wof:parent_id":85688039,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":13200,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

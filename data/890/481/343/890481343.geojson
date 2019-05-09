@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.438573,
-    "geom:area_square_m":2842604844.145111,
+    "geom:area_square_m":2842604844.145337,
     "geom:bbox":"41.674113498,58.0728373791,42.7826587957,58.7265585598",
     "geom:latitude":58.387379,
     "geom:longitude":42.257916,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Galichskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":58.390526,
     "lbl:longitude":42.119743,
     "meso:admin1_en":"Kostromskaja oblast'",
@@ -46,7 +58,11 @@
         "Galitsjskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Galichsky District"
+        "Galichskiy"
+    ],
+    "name:eng_x_variant":[
+        "Galichskij",
+        "Galichskiy"
     ],
     "name:ger_x_preferred":[
         "Galitschski rajon"
@@ -108,10 +124,11 @@
         }
     ],
     "wof:id":890481343,
-    "wof:lastmodified":1527787090,
-    "wof:name":"Galichskij",
+    "wof:lastmodified":1555047540,
+    "wof:name":"Galichskiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

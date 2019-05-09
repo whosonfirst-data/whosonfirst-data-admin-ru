@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.131074,
-    "geom:area_square_m":956573606.841802,
+    "geom:area_square_m":956573606.841761,
     "geom:bbox":"43.3998993899,53.6671883302,43.9790796658,54.0149123622",
     "geom:latitude":53.828646,
     "geom:longitude":43.66473,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Narovchatskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.815507,
     "lbl:longitude":43.670076,
     "meso:admin1_en":"Penzenskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Narovchatskiy"
+    ],
+    "name:eng_x_variant":[
+        "Narovchatskij"
     ],
     "name:ger_x_preferred":[
         "Narowtschatski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108735313,
-    "wof:lastmodified":1514502327,
-    "wof:name":"Narovchatskij",
+    "wof:lastmodified":1555047644,
+    "wof:name":"Narovchatskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14700,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

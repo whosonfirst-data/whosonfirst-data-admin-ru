@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.782342,
-    "geom:area_square_m":13607844397.694057,
+    "geom:area_square_m":13607844397.693382,
     "geom:bbox":"104.422067437,50.9498091924,107.431922976,52.8671697582",
     "geom:latitude":51.869047,
     "geom:longitude":106.021948,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kabanskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.052437,
     "lbl:longitude":106.39789,
     "meso:admin1_en":"Burjatija",
@@ -46,7 +58,11 @@
         "Kabanskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Kabansky District"
+        "Kabanskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kabanskij",
+        "Kabanskiy"
     ],
     "name:est_x_preferred":[
         "Kabanski rajoon"
@@ -92,6 +108,7 @@
     "qs:photos_sr":6,
     "qs:placetype":"County",
     "qs:pop_sr":"0",
+    "src:geom":"unknown",
     "src:geom_alt":[
         "quattroshapes"
     ],
@@ -123,10 +140,11 @@
         }
     ],
     "wof:id":890487025,
-    "wof:lastmodified":1553816418,
-    "wof:name":"Kabanskij",
+    "wof:lastmodified":1555047557,
+    "wof:name":"Kabanskiy",
     "wof:parent_id":85688207,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

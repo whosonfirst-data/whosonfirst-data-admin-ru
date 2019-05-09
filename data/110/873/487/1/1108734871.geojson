@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.345101,
-    "geom:area_square_m":2539741768.863255,
+    "geom:area_square_m":2539741768.863222,
     "geom:bbox":"84.8682702181,53.1744911983,85.8544015026,53.801392377",
     "geom:latitude":53.474947,
     "geom:longitude":85.396241,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kytmanovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.453949,
     "lbl:longitude":85.388722,
     "meso:admin1_en":"Altajskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Kytmanovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kytmanovskij"
     ],
     "name:ger_x_preferred":[
         "Kytmanowski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108734871,
-    "wof:lastmodified":1514501994,
-    "wof:name":"Kytmanovskij",
+    "wof:lastmodified":1555047632,
+    "wof:name":"Kytmanovskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":23700,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

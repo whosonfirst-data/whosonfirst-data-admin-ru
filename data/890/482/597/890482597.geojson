@@ -11,6 +11,18 @@
     "geom:longitude":30.179905,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Lakhdenpokhskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":61.423983,
     "lbl:longitude":30.043335,
     "meso:admin1_en":"Respublika Karelija",
@@ -47,6 +59,9 @@
     ],
     "name:eng_x_preferred":[
         "Lakhdenpokhskiy"
+    ],
+    "name:eng_x_variant":[
+        "Lakhdenpokhskij"
     ],
     "name:est_x_preferred":[
         "Lahdenpohja rajoon"
@@ -151,11 +166,11 @@
         }
     ],
     "wof:id":890482597,
-    "wof:lastmodified":1536617436,
-    "wof:name":"Lakhdenpokhskij",
+    "wof:lastmodified":1555047542,
+    "wof:name":"Lakhdenpokhskiy",
     "wof:parent_id":85688193,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":18600,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

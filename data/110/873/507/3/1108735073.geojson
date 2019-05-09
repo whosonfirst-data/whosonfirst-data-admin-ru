@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.490631,
-    "geom:area_square_m":3528767998.859421,
+    "geom:area_square_m":3528767998.8594,
     "geom:bbox":"83.7534859463,54.0765937137,85.1143329375,54.7539943341",
     "geom:latitude":54.432654,
     "geom:longitude":84.391649,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Masljaninskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.425673,
     "lbl:longitude":84.381316,
     "meso:admin1_en":"Novosibirskaja oblast'",
@@ -48,7 +60,11 @@
         "Masljaninskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Maslyaninskiy"
+        "Masljaninskiy"
+    ],
+    "name:eng_x_variant":[
+        "Masljaninskij",
+        "Masljaninskiy"
     ],
     "name:ger_x_preferred":[
         "Masljaninski rajon"
@@ -111,11 +127,11 @@
         }
     ],
     "wof:id":1108735073,
-    "wof:lastmodified":1514502125,
-    "wof:name":"Masljaninskij",
+    "wof:lastmodified":1555047638,
+    "wof:name":"Masljaninskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":28100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.327577,
-    "geom:area_square_m":2119118951.701077,
+    "geom:area_square_m":2119118951.701035,
     "geom:bbox":"45.8138234543,58.0506532755,47.078709027,58.7606362895",
     "geom:latitude":58.454847,
     "geom:longitude":46.356944,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ponazyrevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":58.529311,
     "lbl:longitude":46.408623,
     "meso:admin1_en":"Kostromskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Ponazyrevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ponazyrevskij"
     ],
     "name:ger_x_preferred":[
         "Ponasyrewski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108735933,
-    "wof:lastmodified":1514502691,
-    "wof:name":"Ponazyrevskij",
+    "wof:lastmodified":1555047668,
+    "wof:name":"Ponazyrevskiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":8700,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",

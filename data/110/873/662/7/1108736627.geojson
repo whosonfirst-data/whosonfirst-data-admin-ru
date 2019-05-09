@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.389081,
-    "geom:area_square_m":2515286636.941236,
+    "geom:area_square_m":2515286636.941172,
     "geom:bbox":"53.7021898312,58.1717351998,54.7173005678,58.7698271469",
     "geom:latitude":58.478775,
     "geom:longitude":54.204794,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Sivinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":58.478357,
     "lbl:longitude":54.214469,
     "meso:admin1_en":"Permskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Sivinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Sivinskij"
     ],
     "name:fin_x_preferred":[
         "Sivan piiri"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108736627,
-    "wof:lastmodified":1514503315,
-    "wof:name":"Sivinskij",
+    "wof:lastmodified":1555047682,
+    "wof:name":"Sivinskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":18700,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

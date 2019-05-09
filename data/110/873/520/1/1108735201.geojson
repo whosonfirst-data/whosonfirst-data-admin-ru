@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.308019,
-    "geom:area_square_m":2537960429.106496,
+    "geom:area_square_m":2537960429.106409,
     "geom:bbox":"41.4605785322,47.7990934707,42.1786679456,48.5557861082",
     "geom:latitude":48.213206,
     "geom:longitude":41.842712,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Morozovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":48.269783,
     "lbl:longitude":41.848066,
     "meso:admin1_en":"Rostovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Morozovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Morozovskij"
     ],
     "name:ger_x_preferred":[
         "Morosowski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108735201,
-    "wof:lastmodified":1514502193,
-    "wof:name":"Morozovskij",
+    "wof:lastmodified":1555047642,
+    "wof:name":"Morozovskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":47100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

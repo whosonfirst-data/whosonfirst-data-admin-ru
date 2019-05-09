@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.392714,
-    "geom:area_square_m":2697965951.909179,
+    "geom:area_square_m":2697965951.909277,
     "geom:bbox":"47.242449834,55.9113849405,48.6037099781,56.4805626248",
     "geom:latitude":56.248092,
     "geom:longitude":47.953002,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Zvenigovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.166063,
     "lbl:longitude":48.07642,
     "meso:admin1_en":"Marij EHl",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Zvenigovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Zvenigovskij"
     ],
     "name:est_x_preferred":[
         "Zvenigovo rajoon"
@@ -120,11 +135,11 @@
         }
     ],
     "wof:id":1108738415,
-    "wof:lastmodified":1514504156,
-    "wof:name":"Zvenigovskij",
+    "wof:lastmodified":1555047719,
+    "wof:name":"Zvenigovskiy",
     "wof:parent_id":85688043,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":50200,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

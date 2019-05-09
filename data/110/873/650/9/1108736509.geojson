@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.2376,
-    "geom:area_square_m":1595677283.086537,
+    "geom:area_square_m":1595677283.086606,
     "geom:bbox":"46.0390836972,56.8631609227,46.8512339038,57.3630631484",
     "geom:latitude":57.103444,
     "geom:longitude":46.461138,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Sharangskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.125043,
     "lbl:longitude":46.534562,
     "meso:admin1_en":"Nizheskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Sharangskiy"
+    ],
+    "name:eng_x_variant":[
+        "SHarangskij"
     ],
     "name:ger_x_preferred":[
         "Scharangski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108736509,
-    "wof:lastmodified":1514502806,
-    "wof:name":"SHarangskij",
+    "wof:lastmodified":1554506326,
+    "wof:name":"Sharangskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14600,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

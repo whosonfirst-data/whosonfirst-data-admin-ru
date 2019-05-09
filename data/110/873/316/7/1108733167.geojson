@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.249919,
-    "geom:area_square_m":2123906727.75611,
+    "geom:area_square_m":2123906727.756115,
     "geom:bbox":"40.7005738384,46.2257517306,41.3352250949,46.9142102634",
     "geom:latitude":46.584463,
     "geom:longitude":40.993432,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Celinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":46.635994,
     "lbl:longitude":41.024826,
     "meso:admin1_en":"Rostovskaja oblast'",
@@ -45,7 +57,11 @@
         "Tselinskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Tselinskiy"
+        "Celinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Celinskij",
+        "Celinskiy"
     ],
     "name:fre_x_preferred":[
         "Ra\u00efon de Tselina"
@@ -108,11 +124,11 @@
         }
     ],
     "wof:id":1108733167,
-    "wof:lastmodified":1514500930,
-    "wof:name":"Celinskij",
+    "wof:lastmodified":1555047580,
+    "wof:name":"Celinskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":37700,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

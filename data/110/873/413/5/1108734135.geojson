@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.148356,
-    "geom:area_square_m":991439677.371143,
+    "geom:area_square_m":991439677.371182,
     "geom:bbox":"42.6023789907,57.1132255217,43.3238617043,57.5283989493",
     "geom:latitude":57.285375,
     "geom:longitude":42.925445,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Jur'eveckij District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.250545,
     "lbl:longitude":42.960951,
     "meso:admin1_en":"Ivanovskaja oblast'",
@@ -48,7 +60,11 @@
         "Jurevetskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Yur\u2019evskiy"
+        "Jur'eveckij"
+    ],
+    "name:eng_x_variant":[
+        "JUr'eveckij",
+        "Jur'eveckij"
     ],
     "name:ger_x_preferred":[
         "Jurjewezki rajon"
@@ -105,11 +121,11 @@
         }
     ],
     "wof:id":1108734135,
-    "wof:lastmodified":1514501419,
-    "wof:name":"JUr'eveckij",
+    "wof:lastmodified":1555047609,
+    "wof:name":"Jur'eveckij",
     "wof:parent_id":85688153,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":21500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

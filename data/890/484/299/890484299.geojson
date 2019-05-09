@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.152232,
-    "geom:area_square_m":1149077621.16853,
+    "geom:area_square_m":1149077621.168655,
     "geom:bbox":"103.196074621,52.180004552,104.101523886,52.6401674413",
     "geom:latitude":52.378578,
     "geom:longitude":103.721567,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Angarskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.361415,
     "lbl:longitude":103.748201,
     "meso:admin1_en":"Irkutskaja oblast'",
@@ -36,6 +48,12 @@
     "mps:longitude":103.748201,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Angarskiy"
+    ],
+    "name:eng_x_variant":[
+        "Angarskij"
+    ],
     "name:und_x_variant":[
         "\u0410\u043d\u0433\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -81,10 +99,11 @@
         }
     ],
     "wof:id":890484299,
-    "wof:lastmodified":1527727209,
-    "wof:name":"Angarskij",
+    "wof:lastmodified":1555047550,
+    "wof:name":"Angarskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

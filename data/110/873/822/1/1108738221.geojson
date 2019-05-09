@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.753481,
-    "geom:area_square_m":5678651574.555243,
+    "geom:area_square_m":5678651574.554771,
     "geom:bbox":"56.8906544469,51.9631527635,58.1910941993,52.9939906082",
     "geom:latitude":52.446329,
     "geom:longitude":57.467024,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Zilairskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.335751,
     "lbl:longitude":57.304089,
     "meso:admin1_en":"Bashkortostan",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Zilairskiy"
+    ],
+    "name:eng_x_variant":[
+        "Zilairskij"
     ],
     "name:est_x_preferred":[
         "Zilairi rajoon"
@@ -120,11 +135,11 @@
         }
     ],
     "wof:id":1108738221,
-    "wof:lastmodified":1514504143,
-    "wof:name":"Zilairskij",
+    "wof:lastmodified":1555047718,
+    "wof:name":"Zilairskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":18500,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

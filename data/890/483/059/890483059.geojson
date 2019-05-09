@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.366873,
-    "geom:area_square_m":2518022431.873767,
+    "geom:area_square_m":2518022431.873675,
     "geom:bbox":"89.9764750506,55.9964693718,91.2506015007,56.5465302265",
     "geom:latitude":56.284797,
     "geom:longitude":90.618511,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Achinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.210678,
     "lbl:longitude":90.727054,
     "meso:admin1_en":"Krasnojarskij kraj",
@@ -46,7 +58,11 @@
         "Atsjinskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Achinsky District"
+        "Achinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Achinskij",
+        "Achinskiy"
     ],
     "name:ger_x_preferred":[
         "Atschinski rajon"
@@ -120,10 +136,11 @@
         }
     ],
     "wof:id":890483059,
-    "wof:lastmodified":1527727196,
-    "wof:name":"Achinskij",
+    "wof:lastmodified":1555047544,
+    "wof:name":"Achinskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

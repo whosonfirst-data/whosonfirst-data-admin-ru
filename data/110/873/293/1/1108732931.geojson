@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.183818,
-    "geom:area_square_m":1445421589.368162,
+    "geom:area_square_m":1445421589.368222,
     "geom:bbox":"36.0924972567,50.2764161377,36.8511408617,50.7676369113",
     "geom:latitude":50.511437,
     "geom:longitude":36.473389,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Belskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.449901,
     "lbl:longitude":36.362859,
     "meso:admin1_en":"Belskaja oblast'",
@@ -51,7 +63,11 @@
         "Belgorodskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Belgorodskiy"
+        "Belskiy"
+    ],
+    "name:eng_x_variant":[
+        "Belskij",
+        "Belskiy"
     ],
     "name:fre_x_preferred":[
         "ra\u00efon de Belgorod"
@@ -114,11 +130,11 @@
         }
     ],
     "wof:id":1108732931,
-    "wof:lastmodified":1514500720,
-    "wof:name":"Belskij",
+    "wof:lastmodified":1555047571,
+    "wof:name":"Belskiy",
     "wof:parent_id":85687813,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":80800,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

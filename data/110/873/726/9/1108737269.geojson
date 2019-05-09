@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.161179,
-    "geom:area_square_m":1119821021.699295,
+    "geom:area_square_m":1119821021.699327,
     "geom:bbox":"30.405411488,55.589602,31.0635048526,56.0058103423",
     "geom:latitude":55.814382,
     "geom:longitude":30.755444,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Usvjatskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.793,
     "lbl:longitude":30.821284,
     "meso:admin1_en":"Pskovskaja oblast'",
@@ -51,7 +63,11 @@
         "Usvyatsky District"
     ],
     "name:eng_x_preferred":[
-        "Usvyatskiy"
+        "Usvjatskiy"
+    ],
+    "name:eng_x_variant":[
+        "Usvjatskij",
+        "Usvjatskiy"
     ],
     "name:est_x_preferred":[
         "Usvjat\u00f5 rajoon"
@@ -120,11 +136,11 @@
         }
     ],
     "wof:id":1108737269,
-    "wof:lastmodified":1514503818,
-    "wof:name":"Usvjatskij",
+    "wof:lastmodified":1555047708,
+    "wof:name":"Usvjatskiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":7100,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",

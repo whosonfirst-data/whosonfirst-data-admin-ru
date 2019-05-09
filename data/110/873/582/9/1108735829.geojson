@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.327037,
-    "geom:area_square_m":2106156682.821895,
+    "geom:area_square_m":2106156682.821927,
     "geom:bbox":"35.1629874182,58.4054379199,36.2278703458,58.8608136794",
     "geom:latitude":58.61223,
     "geom:longitude":35.64424,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Pestovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":58.636395,
     "lbl:longitude":35.634017,
     "meso:admin1_en":"Novskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Pestovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Pestovskij"
     ],
     "name:est_x_preferred":[
         "Pestovo rajoon"
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108735829,
-    "wof:lastmodified":1514502646,
-    "wof:name":"Pestovskij",
+    "wof:lastmodified":1555047665,
+    "wof:name":"Pestovskiy",
     "wof:parent_id":85688095,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":4200,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ru",

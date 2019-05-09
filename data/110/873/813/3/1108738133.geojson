@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.375963,
-    "geom:area_square_m":2931939261.59901,
+    "geom:area_square_m":2931939261.599027,
     "geom:bbox":"44.2049357644,50.5606061765,45.3271379796,51.2149641418",
     "geom:latitude":50.899519,
     "geom:longitude":44.867474,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Zhirnovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.859149,
     "lbl:longitude":44.96919,
     "meso:admin1_en":"Volgogradskaja oblast'",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Zhirnovskiy"
+    ],
+    "name:eng_x_variant":[
+        "ZHirnovskij"
     ],
     "name:ger_x_preferred":[
         "Schirnowski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108738133,
-    "wof:lastmodified":1514504077,
-    "wof:name":"ZHirnovskij",
+    "wof:lastmodified":1555047718,
+    "wof:name":"Zhirnovskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":50900,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

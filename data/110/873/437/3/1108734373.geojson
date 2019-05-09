@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.290542,
-    "geom:area_square_m":2032880955.056961,
+    "geom:area_square_m":2032880955.05705,
     "geom:bbox":"32.6581022956,55.3577875545,33.8993581176,55.7561651953",
     "geom:latitude":55.538541,
     "geom:longitude":33.283004,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kholm-ZHirkovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.550039,
     "lbl:longitude":33.386617,
     "meso:admin1_en":"Smolenskaja oblast'",
@@ -45,7 +57,11 @@
         "Holm-Zjirkovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Kholm-Zhirkovskiy"
+        "Kholm-ZHirkovskiy"
+    ],
+    "name:eng_x_variant":[
+        "KHolm-ZHirkovskij",
+        "Kholm-ZHirkovskiy"
     ],
     "name:ger_x_preferred":[
         "Cholm-Schirkowski rajon"
@@ -108,11 +124,11 @@
         }
     ],
     "wof:id":1108734373,
-    "wof:lastmodified":1514501437,
-    "wof:name":"KHolm-ZHirkovskij",
+    "wof:lastmodified":1555047617,
+    "wof:name":"Kholm-ZHirkovskiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":13800,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

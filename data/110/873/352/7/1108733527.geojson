@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.227534,
-    "geom:area_square_m":1689392039.340917,
+    "geom:area_square_m":1689392039.340972,
     "geom:bbox":"54.8742326054,52.8085704118,55.6776773655,53.3522883073",
     "geom:latitude":53.097174,
     "geom:longitude":55.27442,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Fedorovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.094652,
     "lbl:longitude":55.248573,
     "meso:admin1_en":"Bashkortostan",
@@ -37,6 +49,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Fedorovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Fedorovskij"
     ],
     "name:und_x_variant":[
         "\u0424\u0435\u0434\u043e\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108733527,
-    "wof:lastmodified":1505431713,
-    "wof:name":"Fedorovskij",
+    "wof:lastmodified":1555047593,
+    "wof:name":"Fedorovskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":19900,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

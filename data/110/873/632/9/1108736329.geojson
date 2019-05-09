@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.249549,
-    "geom:area_square_m":1950193341.812061,
+    "geom:area_square_m":1950193341.812056,
     "geom:bbox":"44.0261040196,50.523866,44.7239311156,51.1052836916",
     "geom:latitude":50.8017,
     "geom:longitude":44.360345,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Rudnjanskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.799125,
     "lbl:longitude":44.353768,
     "meso:admin1_en":"Volgogradskaja oblast'",
@@ -51,7 +63,11 @@
         "Rudnyansky District"
     ],
     "name:eng_x_preferred":[
-        "Rudnyanskiy"
+        "Rudnjanskiy"
+    ],
+    "name:eng_x_variant":[
+        "Rudnjanskij",
+        "Rudnjanskiy"
     ],
     "name:ger_x_preferred":[
         "Rudnjanski rajon"
@@ -108,11 +124,11 @@
         }
     ],
     "wof:id":1108736329,
-    "wof:lastmodified":1514502780,
-    "wof:name":"Rudnjanskij",
+    "wof:lastmodified":1555047677,
+    "wof:name":"Rudnjanskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":20800,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

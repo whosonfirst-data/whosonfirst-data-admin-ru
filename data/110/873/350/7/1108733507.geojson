@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.16582,
-    "geom:area_square_m":31095421764.643349,
+    "geom:area_square_m":31095421764.644012,
     "geom:bbox":"110.286016511,51.9649957022,114.36440974,53.8024361596",
     "geom:latitude":52.866192,
     "geom:longitude":112.353202,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Eravninskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.887839,
     "lbl:longitude":112.354281,
     "meso:admin1_en":"Burjatija",
@@ -45,7 +57,11 @@
         "Eravninskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Yeravninskiy"
+        "Eravninskiy"
+    ],
+    "name:eng_x_variant":[
+        "Eravninskij",
+        "Eravninskiy"
     ],
     "name:est_x_preferred":[
         "Jeravna rajoon"
@@ -117,11 +133,11 @@
         }
     ],
     "wof:id":1108733507,
-    "wof:lastmodified":1514501234,
-    "wof:name":"Eravninskij",
+    "wof:lastmodified":1555047592,
+    "wof:name":"Eravninskiy",
     "wof:parent_id":85688207,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":19500,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

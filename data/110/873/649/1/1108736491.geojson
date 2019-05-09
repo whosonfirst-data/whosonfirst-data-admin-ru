@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.329736,
-    "geom:area_square_m":2397593396.411305,
+    "geom:area_square_m":2397593396.411377,
     "geom:bbox":"41.2648525137,53.7701459987,42.4455936215,54.2428464313",
     "geom:latitude":53.981752,
     "geom:longitude":41.859114,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Shatskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.007302,
     "lbl:longitude":41.753357,
     "meso:admin1_en":"Rjazanskaja oblast'",
@@ -52,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Shatskiy"
+    ],
+    "name:eng_x_variant":[
+        "SHackij"
     ],
     "name:ger_x_preferred":[
         "Schazki rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108736491,
-    "wof:lastmodified":1514502802,
-    "wof:name":"SHackij",
+    "wof:lastmodified":1554506325,
+    "wof:name":"Shatskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":32000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

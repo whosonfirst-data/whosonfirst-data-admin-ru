@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112782,
-    "geom:area_square_m":783192244.45271,
+    "geom:area_square_m":783192244.452659,
     "geom:bbox":"47.1877159174,55.664188616,47.7980688667,55.9698037328",
     "geom:latitude":55.833563,
     "geom:longitude":47.487937,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Civil'skiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.833016,
     "lbl:longitude":47.512741,
     "meso:admin1_en":"CHuvashija",
@@ -45,7 +57,11 @@
         "\u00c7\u0115\u0440\u043f\u04f3 \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
     "name:eng_x_preferred":[
-        "Tsivil'skiy"
+        "Civil'skiy"
+    ],
+    "name:eng_x_variant":[
+        "Civil'skij",
+        "Civil'skiy"
     ],
     "name:est_x_preferred":[
         "Tsivilski rajoon"
@@ -117,11 +133,11 @@
         }
     ],
     "wof:id":1108733315,
-    "wof:lastmodified":1514501114,
-    "wof:name":"Civil'skij",
+    "wof:lastmodified":1555047586,
+    "wof:name":"Civil'skiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":37000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

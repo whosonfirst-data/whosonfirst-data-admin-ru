@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.559532,
-    "geom:area_square_m":3747897834.5176,
+    "geom:area_square_m":3747897834.517322,
     "geom:bbox":"73.1032483512,56.7414744974,74.1884912757,57.7432422441",
     "geom:latitude":57.200015,
     "geom:longitude":73.612942,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Znamenskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.238272,
     "lbl:longitude":73.604371,
     "meso:admin1_en":"Omskaja oblast'",
@@ -43,6 +55,9 @@
     ],
     "name:eng_x_preferred":[
         "Znamenskiy"
+    ],
+    "name:eng_x_variant":[
+        "Znamenskij"
     ],
     "name:ger_x_preferred":[
         "Snamenski rajon"
@@ -96,11 +111,11 @@
         }
     ],
     "wof:id":1108738293,
-    "wof:lastmodified":1514504149,
-    "wof:name":"Znamenskij",
+    "wof:lastmodified":1555047718,
+    "wof:name":"Znamenskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14600,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

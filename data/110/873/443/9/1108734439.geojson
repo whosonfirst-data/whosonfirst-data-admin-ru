@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101224,
-    "geom:area_square_m":672848957.612314,
+    "geom:area_square_m":672848957.612197,
     "geom:bbox":"59.6534117845,57.3059845947,60.2548712041,57.6642391138",
     "geom:latitude":57.481713,
     "geom:longitude":59.933983,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kirovgradskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.527721,
     "lbl:longitude":59.913832,
     "meso:admin1_en":"Sverdlovskaja oblast'",
@@ -39,7 +51,11 @@
         "\u041a\u0438\u0440\u043e\u0432\u0433\u0440\u0430\u0434\u0430\u043d \u0433\u04c0\u0430\u043b\u0438\u043d \u0433\u0443\u043e"
     ],
     "name:eng_x_preferred":[
-        "Kirovgrad"
+        "Kirovgradskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kirovgradskij",
+        "Kirovgradskiy"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433"
@@ -87,11 +103,11 @@
         }
     ],
     "wof:id":1108734439,
-    "wof:lastmodified":1514501776,
-    "wof:name":"Kirovgradskij",
+    "wof:lastmodified":1555047619,
+    "wof:name":"Kirovgradskiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",
-    "wof:placetype_local":"gorsovet",
+    "wof:placetype_local":"district",
     "wof:population":24400,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

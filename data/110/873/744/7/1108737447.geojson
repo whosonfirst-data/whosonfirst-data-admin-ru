@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.788068,
-    "geom:area_square_m":4690323113.7905,
+    "geom:area_square_m":4690323113.790519,
     "geom:bbox":"47.1944019677,60.8347985187,49.4069386317,61.5318357391",
     "geom:latitude":61.227954,
     "geom:longitude":48.329615,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Vilegodskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":61.172509,
     "lbl:longitude":48.220432,
     "meso:admin1_en":"Arkhangel'skaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Vilegodskiy"
+    ],
+    "name:eng_x_variant":[
+        "Vilegodskij"
     ],
     "name:fin_x_preferred":[
         "Viledin piiri"
@@ -120,11 +135,11 @@
         }
     ],
     "wof:id":1108737447,
-    "wof:lastmodified":1514503865,
-    "wof:name":"Vilegodskij",
+    "wof:lastmodified":1555047712,
+    "wof:name":"Vilegodskiy",
     "wof:parent_id":85687971,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14500,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

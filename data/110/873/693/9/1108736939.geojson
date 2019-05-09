@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.839079,
-    "geom:area_square_m":5096087940.029586,
+    "geom:area_square_m":5096087940.029809,
     "geom:bbox":"42.6035867612,60.1505611281,44.4535031011,61.0725369982",
     "geom:latitude":60.582178,
     "geom:longitude":43.56016,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Tarnogskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":60.521696,
     "lbl:longitude":43.651056,
     "meso:admin1_en":"Vologodskaja oblast'",
@@ -52,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Tarnogskiy"
+    ],
+    "name:eng_x_variant":[
+        "Tarnogskij"
     ],
     "name:est_x_preferred":[
         "Tarnogski rajoon"
@@ -120,11 +135,11 @@
         }
     ],
     "wof:id":1108736939,
-    "wof:lastmodified":1514503523,
-    "wof:name":"Tarnogskij",
+    "wof:lastmodified":1555047695,
+    "wof:name":"Tarnogskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":15900,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.536541,
-    "geom:area_square_m":3730388401.311183,
+    "geom:area_square_m":3730388401.311465,
     "geom:bbox":"86.8315349322,55.4221224679,88.2216501728,56.1496360447",
     "geom:latitude":55.786438,
     "geom:longitude":87.522046,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Chebulinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.814397,
     "lbl:longitude":87.569547,
     "meso:admin1_en":"Kemerovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Chebulinskiy"
+    ],
+    "name:eng_x_variant":[
+        "CHebulinskij"
     ],
     "name:ger_x_preferred":[
         "Tschebulinski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108733205,
-    "wof:lastmodified":1514500902,
-    "wof:name":"CHebulinskij",
+    "wof:lastmodified":1555047582,
+    "wof:name":"Chebulinskiy",
     "wof:parent_id":85688105,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":18400,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

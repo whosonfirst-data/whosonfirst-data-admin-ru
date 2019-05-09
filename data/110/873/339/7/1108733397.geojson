@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.13375,
-    "geom:area_square_m":1010472701.57312,
+    "geom:area_square_m":1010472701.573081,
     "geom:bbox":"37.9870841659,52.1819572947,38.7091023632,52.5033539206",
     "geom:latitude":52.339131,
     "geom:longitude":38.355152,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Dolgorukovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.347673,
     "lbl:longitude":38.330607,
     "meso:admin1_en":"Lipeckaja oblast'",
@@ -37,6 +49,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Dolgorukovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Dolgorukovskij"
     ],
     "name:und_x_variant":[
         "\u0414\u043e\u043b\u0433\u043e\u0440\u0443\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108733397,
-    "wof:lastmodified":1505431711,
-    "wof:name":"Dolgorukovskij",
+    "wof:lastmodified":1555047588,
+    "wof:name":"Dolgorukovskiy",
     "wof:parent_id":85687917,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":24500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

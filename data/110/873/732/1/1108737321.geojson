@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.275586,
-    "geom:area_square_m":7725124921.838698,
+    "geom:area_square_m":7725124921.838891,
     "geom:bbox":"45.1279163156,60.2296377088,47.0747727223,61.196656792",
     "geom:latitude":60.674101,
     "geom:longitude":46.042595,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Velikoustjugskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":60.648527,
     "lbl:longitude":46.042983,
     "meso:admin1_en":"Vologodskaja oblast'",
@@ -45,7 +57,11 @@
         "Velikooestjugskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Velikoustyugskiy"
+        "Velikoustjugskiy"
+    ],
+    "name:eng_x_variant":[
+        "Velikoustjugskij",
+        "Velikoustjugskiy"
     ],
     "name:ger_x_preferred":[
         "Welikoustjugski rajon"
@@ -111,11 +127,11 @@
         }
     ],
     "wof:id":1108737321,
-    "wof:lastmodified":1514503840,
-    "wof:name":"Velikoustjugskij",
+    "wof:lastmodified":1555047710,
+    "wof:name":"Velikoustjugskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":24300,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.226723,
-    "geom:area_square_m":1606011004.150481,
+    "geom:area_square_m":1606011004.150418,
     "geom:bbox":"21.0222606345,54.7339373619,21.841058115,55.294252",
     "geom:latitude":55.049641,
     "geom:longitude":21.458031,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Slavskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.040279,
     "lbl:longitude":21.49215,
     "meso:admin1_en":"Kaliningradskaja oblast'",
@@ -37,6 +49,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Slavskiy"
+    ],
+    "name:eng_x_variant":[
+        "Slavskij"
     ],
     "name:und_x_variant":[
         "\u0421\u043b\u0430\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108736653,
-    "wof:lastmodified":1505431757,
-    "wof:name":"Slavskij",
+    "wof:lastmodified":1555047683,
+    "wof:name":"Slavskiy",
     "wof:parent_id":85688215,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":22500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

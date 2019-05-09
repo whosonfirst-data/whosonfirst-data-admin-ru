@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142394,
-    "geom:area_square_m":1102062673.609278,
+    "geom:area_square_m":1102062673.609236,
     "geom:bbox":"41.812001774,51.1333856691,42.9478210989,51.4403862833",
     "geom:latitude":51.250672,
     "geom:longitude":42.424408,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Povorinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.227769,
     "lbl:longitude":42.518877,
     "meso:admin1_en":"Voronezhskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Povorinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Povorinskij"
     ],
     "name:ger_x_preferred":[
         "Poworinski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108735955,
-    "wof:lastmodified":1514502698,
-    "wof:name":"Povorinskij",
+    "wof:lastmodified":1555047669,
+    "wof:name":"Povorinskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":18300,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

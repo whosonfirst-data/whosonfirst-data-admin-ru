@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.234916,
-    "geom:area_square_m":1958286740.057233,
+    "geom:area_square_m":1958286740.057379,
     "geom:bbox":"39.8254240958,47.259051684,40.6740676434,47.8701845875",
     "geom:latitude":47.61089,
     "geom:longitude":40.26686,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Oktjabr'skiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":47.536078,
     "lbl:longitude":40.238163,
     "meso:admin1_en":"Rostovskaja oblast'",
@@ -36,7 +48,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Oktyabr'skiy"
+        "Oktjabr'skiy"
+    ],
+    "name:eng_x_variant":[
+        "Oktjabr'skij",
+        "Oktjabr'skiy"
     ],
     "name:und_x_variant":[
         "\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -76,11 +92,11 @@
         }
     ],
     "wof:id":1108735643,
-    "wof:lastmodified":1505431743,
-    "wof:name":"Oktjabr'skij",
+    "wof:lastmodified":1555047658,
+    "wof:name":"Oktjabr'skiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":70400,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

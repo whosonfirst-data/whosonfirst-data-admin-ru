@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.205774,
-    "geom:area_square_m":1361255653.037163,
+    "geom:area_square_m":1361255653.037237,
     "geom:bbox":"40.0548561311,57.3140415648,40.7169174353,57.9228225089",
     "geom:latitude":57.656366,
     "geom:longitude":40.386618,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Nekrasovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.734777,
     "lbl:longitude":40.46421,
     "meso:admin1_en":"JAroslavskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Nekrasovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Nekrasovskij"
     ],
     "name:ger_x_preferred":[
         "Nekrasowski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108735333,
-    "wof:lastmodified":1514502341,
-    "wof:name":"Nekrasovskij",
+    "wof:lastmodified":1555047645,
+    "wof:name":"Nekrasovskiy",
     "wof:parent_id":85687959,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":26600,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

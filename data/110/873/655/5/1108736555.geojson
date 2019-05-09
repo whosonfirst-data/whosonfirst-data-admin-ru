@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.945778,
-    "geom:area_square_m":11250011467.520319,
+    "geom:area_square_m":11250011467.520176,
     "geom:bbox":"41.2726585788,61.5902878383,44.0960397081,62.7179674767",
     "geom:latitude":62.122175,
     "geom:longitude":42.595538,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Shenkurskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":62.143178,
     "lbl:longitude":42.426509,
     "meso:admin1_en":"Arkhangel'skaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Shenkurskiy"
+    ],
+    "name:eng_x_variant":[
+        "SHenkurskij"
     ],
     "name:fin_x_preferred":[
         "\u0160enkurskin piiri"
@@ -117,11 +132,11 @@
         }
     ],
     "wof:id":1108736555,
-    "wof:lastmodified":1514502818,
-    "wof:name":"SHenkurskij",
+    "wof:lastmodified":1554506327,
+    "wof:name":"Shenkurskiy",
     "wof:parent_id":85687971,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":20500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

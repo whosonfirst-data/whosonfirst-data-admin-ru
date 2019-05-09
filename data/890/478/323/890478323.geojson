@@ -13,6 +13,18 @@
     "gn:fcode":"ADM2",
     "gn:pop":54822,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Tabasaranskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":41.936825,
     "lbl:longitude":48.013117,
     "meso:admin1_en":"Dagestan",
@@ -58,6 +70,9 @@
     ],
     "name:eng_x_preferred":[
         "Tabasaranskiy"
+    ],
+    "name:eng_x_variant":[
+        "Tabasaranskij"
     ],
     "name:est_x_preferred":[
         "Tabassaraani rajoon"
@@ -148,11 +163,11 @@
         }
     ],
     "wof:id":890478323,
-    "wof:lastmodified":1536617430,
-    "wof:name":"Tabasaranskij",
+    "wof:lastmodified":1555047532,
+    "wof:name":"Tabasaranskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":50700,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.398099,
-    "geom:area_square_m":2824504728.860394,
+    "geom:area_square_m":2824504728.860371,
     "geom:bbox":"74.2395294063,54.5146229491,75.4079667456,55.3423295423",
     "geom:latitude":54.985053,
     "geom:longitude":74.747575,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kalachinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.097945,
     "lbl:longitude":74.738586,
     "meso:admin1_en":"Omskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Kalachinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kalachinskij"
     ],
     "name:ger_x_preferred":[
         "Kalatschinski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108734195,
-    "wof:lastmodified":1514501474,
-    "wof:name":"Kalachinskij",
+    "wof:lastmodified":1555047611,
+    "wof:name":"Kalachinskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":24800,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

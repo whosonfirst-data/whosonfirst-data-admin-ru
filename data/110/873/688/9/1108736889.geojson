@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030377,
-    "geom:area_square_m":234456873.382949,
+    "geom:area_square_m":234456873.382977,
     "geom:bbox":"127.919125312,51.2859739262,128.246468694,51.4710372112",
     "geom:latitude":51.37699,
     "geom:longitude":128.093421,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Svobodnyj District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.380038,
     "lbl:longitude":128.104617,
     "meso:admin1_en":"Amurskaja oblast'",
@@ -36,6 +48,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
+        "Svobodnyj"
+    ],
+    "name:eng_x_variant":[
         "Svobodnyy"
     ],
     "name:und_x_variant":[
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108736889,
-    "wof:lastmodified":1505431761,
+    "wof:lastmodified":1555047690,
     "wof:name":"Svobodnyj",
     "wof:parent_id":85687951,
     "wof:placetype":"county",
-    "wof:placetype_local":"gorsovet",
+    "wof:placetype_local":"district",
     "wof:population":71000,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

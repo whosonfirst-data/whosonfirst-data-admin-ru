@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.160454,
-    "geom:area_square_m":1091981451.481586,
+    "geom:area_square_m":1091981451.48147,
     "geom:bbox":"42.2420878291,56.399027153,42.9272749942,56.811707266",
     "geom:latitude":56.60684,
     "geom:longitude":42.60761,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Pestjakovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.602744,
     "lbl:longitude":42.602247,
     "meso:admin1_en":"Ivanovskaja oblast'",
@@ -45,7 +57,11 @@
         "Pestjakovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Pestyakovskiy"
+        "Pestjakovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Pestjakovskij",
+        "Pestjakovskiy"
     ],
     "name:ger_x_preferred":[
         "Pestjakowski rajon"
@@ -102,11 +118,11 @@
         }
     ],
     "wof:id":1108735827,
-    "wof:lastmodified":1514502645,
-    "wof:name":"Pestjakovskij",
+    "wof:lastmodified":1555047665,
+    "wof:name":"Pestjakovskiy",
     "wof:parent_id":85688153,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":9800,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",

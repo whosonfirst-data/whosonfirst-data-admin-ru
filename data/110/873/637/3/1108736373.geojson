@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.333707,
-    "geom:area_square_m":2583239952.834898,
+    "geom:area_square_m":2583239952.834934,
     "geom:bbox":"43.0831375457,50.9986402783,44.2191799584,51.4926363747",
     "geom:latitude":51.241813,
     "geom:longitude":43.627746,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Samojlovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.274456,
     "lbl:longitude":43.571056,
     "meso:admin1_en":"Saratovskaja oblast'",
@@ -45,7 +57,11 @@
         "Samoylovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Samoylovskiy"
+        "Samojlovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Samojlovskij",
+        "Samojlovskiy"
     ],
     "name:ger_x_preferred":[
         "Samoilowski rajon"
@@ -108,11 +124,11 @@
         }
     ],
     "wof:id":1108736373,
-    "wof:lastmodified":1514503236,
-    "wof:name":"Samojlovskij",
+    "wof:lastmodified":1555047678,
+    "wof:name":"Samojlovskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":26400,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00698,
-    "geom:area_square_m":52153051.098817,
+    "geom:area_square_m":52153051.098815,
     "geom:bbox":"36.0399094555,52.3933874393,37.6527948359,53.3120184357",
     "geom:latitude":52.825038,
     "geom:longitude":37.051539,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "OrlovskiyDistrict"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":52.422016,
     "lbl:longitude":37.591656,
     "meso:admin1_en":"Orlovskaja oblast'",
@@ -35,6 +41,10 @@
     "mps:longitude":37.591656,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "OrlovskiyDistrict"
+    ],
+    "name:eng_x_variant":[],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":1108735441,
-    "wof:lastmodified":1512516992,
-    "wof:name":"",
+    "wof:lastmodified":1555047650,
+    "wof:name":"OrlovskiyDistrict",
     "wof:parent_id":85687849,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ru",

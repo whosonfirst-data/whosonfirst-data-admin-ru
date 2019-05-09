@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.441484,
-    "geom:area_square_m":10142326814.198418,
+    "geom:area_square_m":10142326814.198383,
     "geom:bbox":"90.5864012578,54.7592461703,93.2821837962,55.7690854288",
     "geom:latitude":55.317856,
     "geom:longitude":92.020963,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Balakhtinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.289815,
     "lbl:longitude":92.225097,
     "meso:admin1_en":"Krasnojarskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Balakhtinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Balakhtinskij"
     ],
     "name:ger_x_preferred":[
         "Balachtinski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108732865,
-    "wof:lastmodified":1514500627,
-    "wof:name":"Balakhtinskij",
+    "wof:lastmodified":1555047569,
+    "wof:name":"Balakhtinskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":5900,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",

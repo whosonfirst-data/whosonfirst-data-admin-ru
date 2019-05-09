@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.308372,
-    "geom:area_square_m":28411683946.885166,
+    "geom:area_square_m":28411683946.885826,
     "geom:bbox":"28.433988,67.6726765936,36.4337009535,69.591247559",
     "geom:latitude":68.639105,
     "geom:longitude":31.979227,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kol'skiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":68.760904,
     "lbl:longitude":31.905084,
     "meso:admin1_en":"Murmanskaja oblast'",
@@ -49,7 +61,11 @@
         "Kolsky District"
     ],
     "name:eng_x_preferred":[
-        "Kolsky District"
+        "Kol'skiy"
+    ],
+    "name:eng_x_variant":[
+        "Kol'skij",
+        "Kol'skiy"
     ],
     "name:est_x_preferred":[
         "Kola rajoon"
@@ -129,10 +145,11 @@
         }
     ],
     "wof:id":890482741,
-    "wof:lastmodified":1527727141,
-    "wof:name":"Kol'skij",
+    "wof:lastmodified":1555047543,
+    "wof:name":"Kol'skiy",
     "wof:parent_id":85687869,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

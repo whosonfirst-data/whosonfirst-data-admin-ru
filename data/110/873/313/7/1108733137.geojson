@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.595804,
-    "geom:area_square_m":4412534858.896059,
+    "geom:area_square_m":4412534858.896012,
     "geom:bbox":"56.8374887125,52.8578998866,58.2018002504,53.5646313283",
     "geom:latitude":53.205785,
     "geom:longitude":57.457184,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Burzjanskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.131433,
     "lbl:longitude":57.402002,
     "meso:admin1_en":"Bashkortostan",
@@ -48,7 +60,11 @@
         "Boerzjanskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Burzyanskiy"
+        "Burzjanskiy"
+    ],
+    "name:eng_x_variant":[
+        "Burzjanskij",
+        "Burzjanskiy"
     ],
     "name:est_x_preferred":[
         "Burzjanski rajoon"
@@ -120,11 +136,11 @@
         }
     ],
     "wof:id":1108733137,
-    "wof:lastmodified":1553816503,
-    "wof:name":"Burzjanskij",
+    "wof:lastmodified":1555047579,
+    "wof:name":"Burzjanskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":15400,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.148724,
-    "geom:area_square_m":1042378375.383957,
+    "geom:area_square_m":1042378375.383752,
     "geom:bbox":"46.2077825587,55.2629342399,46.7264624402,55.6778213265",
     "geom:latitude":55.471252,
     "geom:longitude":46.49584,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Shumerlinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.398065,
     "lbl:longitude":46.533962,
     "meso:admin1_en":"CHuvashija",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Shumerlinskiy"
+    ],
+    "name:eng_x_variant":[
+        "SHumerlinskij"
     ],
     "name:est_x_preferred":[
         "\u0160umerlja rajoon"
@@ -114,11 +129,11 @@
         }
     ],
     "wof:id":1108736609,
-    "wof:lastmodified":1514502827,
-    "wof:name":"SHumerlinskij",
+    "wof:lastmodified":1554506329,
+    "wof:name":"Shumerlinskiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14800,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

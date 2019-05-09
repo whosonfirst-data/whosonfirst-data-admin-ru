@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.146242,
-    "geom:area_square_m":1321288644.337382,
+    "geom:area_square_m":1321288644.337222,
     "geom:bbox":"45.0671778867,42.8156774945,45.5243882361,43.384540313",
     "geom:latitude":43.056889,
     "geom:longitude":45.291819,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Achkhoj-Martanovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":42.993121,
     "lbl:longitude":45.231244,
     "meso:admin1_en":"CHechenskaja respublika",
@@ -51,7 +63,11 @@
         "District Atsjchoj-Martanovski"
     ],
     "name:eng_x_preferred":[
-        "Achkhoy-Martanovskiy"
+        "Achkhoj-Martanovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Achkhoj-Martanovskij",
+        "Achkhoj-Martanovskiy"
     ],
     "name:est_x_preferred":[
         "At\u0161hoi-Martani rajoon"
@@ -132,11 +148,11 @@
         }
     ],
     "wof:id":1108732611,
-    "wof:lastmodified":1553816501,
-    "wof:name":"Achkhoj-Martanovskij",
+    "wof:lastmodified":1555047561,
+    "wof:name":"Achkhoj-Martanovskiy",
     "wof:parent_id":85688015,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":66300,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.571226,
-    "geom:area_square_m":3993565904.037182,
+    "geom:area_square_m":3993565904.037213,
     "geom:bbox":"69.6517955075,55.145467,70.8191853058,55.9691853758",
     "geom:latitude":55.570051,
     "geom:longitude":70.162752,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Sladkovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.553516,
     "lbl:longitude":70.115618,
     "meso:admin1_en":"Tjumenskaja oblast'",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Sladkovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Sladkovskij"
     ],
     "name:ger_x_preferred":[
         "Sladkowski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108736639,
-    "wof:lastmodified":1514503320,
-    "wof:name":"Sladkovskij",
+    "wof:lastmodified":1555047683,
+    "wof:name":"Sladkovskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":17000,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140416,
-    "geom:area_square_m":975966072.610127,
+    "geom:area_square_m":975966072.610129,
     "geom:bbox":"42.3763111201,55.623272251,42.989712386,55.9867076104",
     "geom:latitude":55.798553,
     "geom:longitude":42.684326,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Vachskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.816462,
     "lbl:longitude":42.709105,
     "meso:admin1_en":"Nizheskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Vachskiy"
+    ],
+    "name:eng_x_variant":[
+        "Vachskij"
     ],
     "name:ger_x_preferred":[
         "Watschski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108737283,
-    "wof:lastmodified":1514503824,
-    "wof:name":"Vachskij",
+    "wof:lastmodified":1555047708,
+    "wof:name":"Vachskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":24700,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

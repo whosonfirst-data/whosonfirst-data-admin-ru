@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046248,
-    "geom:area_square_m":415874868.707777,
+    "geom:area_square_m":415874868.707748,
     "geom:bbox":"44.0384360782,43.2410479364,44.4867557824,43.4498673327",
     "geom:latitude":43.345982,
     "geom:longitude":44.253723,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kirovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":43.339115,
     "lbl:longitude":44.275791,
     "meso:admin1_en":"Severnaja Osetija - Alanija",
@@ -45,7 +57,11 @@
         "District Kirovski"
     ],
     "name:eng_x_preferred":[
-        "Terskiy"
+        "Kirovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kirovskij",
+        "Kirovskiy"
     ],
     "name:epo_x_preferred":[
         "distrikto Kirov"
@@ -123,11 +139,11 @@
         }
     ],
     "wof:id":1108734451,
-    "wof:lastmodified":1553816504,
-    "wof:name":"Kirovskij",
+    "wof:lastmodified":1555047619,
+    "wof:name":"Kirovskiy",
     "wof:parent_id":85687865,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":50300,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

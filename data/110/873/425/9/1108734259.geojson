@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.292806,
-    "geom:area_square_m":2337671608.072578,
+    "geom:area_square_m":2337671608.07253,
     "geom:bbox":"39.2041355302,49.556056,40.3740456881,50.0378008301",
     "geom:latitude":49.784949,
     "geom:longitude":39.841733,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kantemirovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":49.745619,
     "lbl:longitude":39.850578,
     "meso:admin1_en":"Voronezhskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Kantemirovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kantemirovskij"
     ],
     "name:ger_x_preferred":[
         "Kantemirowski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108734259,
-    "wof:lastmodified":1514501532,
-    "wof:name":"Kantemirovskij",
+    "wof:lastmodified":1555047613,
+    "wof:name":"Kantemirovskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":43500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

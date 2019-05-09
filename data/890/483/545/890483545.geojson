@@ -11,6 +11,18 @@
     "geom:longitude":40.440635,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Klepikovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.082358,
     "lbl:longitude":40.430367,
     "meso:admin1_en":"Rjazanskaja oblast'",
@@ -50,6 +62,9 @@
     ],
     "name:eng_x_preferred":[
         "Klepikovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Klepikovskij"
     ],
     "name:ger_x_preferred":[
         "Klepikowski rajon"
@@ -124,11 +139,11 @@
         }
     ],
     "wof:id":890483545,
-    "wof:lastmodified":1536617439,
-    "wof:name":"Klepikovskij",
+    "wof:lastmodified":1555047547,
+    "wof:name":"Klepikovskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":31100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

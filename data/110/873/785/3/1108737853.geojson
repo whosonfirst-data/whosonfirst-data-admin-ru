@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.452287,
-    "geom:area_square_m":3279365770.622046,
+    "geom:area_square_m":3279365770.622207,
     "geom:bbox":"83.9592977573,53.7900689475,85.3906994244,54.4533293293",
     "geom:latitude":54.099725,
     "geom:longitude":84.696293,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Zalesovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.107211,
     "lbl:longitude":84.745076,
     "meso:admin1_en":"Altajskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Zalesovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Zalesovskij"
     ],
     "name:ger_x_preferred":[
         "Salesowski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108737853,
-    "wof:lastmodified":1514504107,
-    "wof:name":"Zalesovskij",
+    "wof:lastmodified":1555047715,
+    "wof:name":"Zalesovskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":21400,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

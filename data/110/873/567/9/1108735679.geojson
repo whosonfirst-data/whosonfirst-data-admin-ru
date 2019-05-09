@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.415101,
-    "geom:area_square_m":2837311677.459613,
+    "geom:area_square_m":2837311677.459768,
     "geom:bbox":"67.1198315761,56.0716048767,68.1468364188,56.8529032287",
     "geom:latitude":56.441881,
     "geom:longitude":67.627656,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Omutinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.418861,
     "lbl:longitude":67.705106,
     "meso:admin1_en":"Tjumenskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Omutinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Omutinskij"
     ],
     "name:ger_x_preferred":[
         "Omutinski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108735679,
-    "wof:lastmodified":1514502569,
-    "wof:name":"Omutinskij",
+    "wof:lastmodified":1555047660,
+    "wof:name":"Omutinskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":23300,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

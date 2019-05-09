@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.348347,
-    "geom:area_square_m":2659607643.888645,
+    "geom:area_square_m":2659607643.888808,
     "geom:bbox":"44.4877471706,51.5651325186,45.5252529083,52.2390725201",
     "geom:latitude":51.869439,
     "geom:longitude":44.964886,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Atkarskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.853103,
     "lbl:longitude":44.999734,
     "meso:admin1_en":"Saratovskaja oblast'",
@@ -48,7 +60,11 @@
         "Atkarskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Atkarsk"
+        "Atkarskiy"
+    ],
+    "name:eng_x_variant":[
+        "Atkarskij",
+        "Atkarskiy"
     ],
     "name:ger_x_preferred":[
         "Atkarski rajon"
@@ -111,11 +127,11 @@
         }
     ],
     "wof:id":1108732811,
-    "wof:lastmodified":1514500607,
-    "wof:name":"Atkarskij",
+    "wof:lastmodified":1555047568,
+    "wof:name":"Atkarskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",
-    "wof:placetype_local":"gorod",
+    "wof:placetype_local":"district",
     "wof:population":14600,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

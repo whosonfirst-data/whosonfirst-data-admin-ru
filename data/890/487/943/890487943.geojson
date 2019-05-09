@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.216547,
-    "geom:area_square_m":1538196199.646985,
+    "geom:area_square_m":1538196199.646957,
     "geom:bbox":"47.7639285032,54.7181144029,48.5915472678,55.227379462",
     "geom:latitude":54.938205,
     "geom:longitude":48.189858,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":26904,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Buinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":54.921701,
     "lbl:longitude":48.251362,
     "meso:admin1_en":"Tatarstan",
@@ -48,7 +54,11 @@
         "\u041f\u0103\u0432\u0430 \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
     "name:eng_x_preferred":[
-        "Buinsky District"
+        "Buinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Buinskij",
+        "Buinskiy"
     ],
     "name:est_x_preferred":[
         "Buinski rajoon"
@@ -115,8 +125,8 @@
         }
     ],
     "wof:id":890487943,
-    "wof:lastmodified":1514500801,
-    "wof:name":"Buinskij",
+    "wof:lastmodified":1555047560,
+    "wof:name":"Buinskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",
     "wof:population":26904,

@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.414556,
-    "geom:area_square_m":2944556494.521408,
+    "geom:area_square_m":2944556494.521526,
     "geom:bbox":"40.6797510747,54.6015662037,42.0664951652,55.236688492",
     "geom:latitude":54.940307,
     "geom:longitude":41.406401,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kasimovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.94506,
     "lbl:longitude":41.694348,
     "meso:admin1_en":"Rjazanskaja oblast'",
@@ -52,7 +64,11 @@
         "District Kasimovski"
     ],
     "name:eng_x_preferred":[
-        "Kasimovsky District"
+        "Kasimovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kasimovskij",
+        "Kasimovskiy"
     ],
     "name:ger_x_preferred":[
         "Kasimowski rajon"
@@ -114,10 +130,11 @@
         }
     ],
     "wof:id":890483071,
-    "wof:lastmodified":1527727190,
-    "wof:name":"Kasimovskij",
+    "wof:lastmodified":1555047544,
+    "wof:name":"Kasimovskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

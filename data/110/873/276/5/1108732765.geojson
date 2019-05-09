@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041835,
-    "geom:area_square_m":377345703.966969,
+    "geom:area_square_m":377345703.966929,
     "geom:bbox":"44.1723133739,43.0375101089,44.4801684053,43.2759287214",
     "geom:latitude":43.158694,
     "geom:longitude":44.341444,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ardonskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":43.159151,
     "lbl:longitude":44.369457,
     "meso:admin1_en":"Severnaja Osetija - Alanija",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Ardonskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ardonskij"
     ],
     "name:epo_x_preferred":[
         "distrikto Ardon"
@@ -126,11 +141,11 @@
         }
     ],
     "wof:id":1108732765,
-    "wof:lastmodified":1514500573,
-    "wof:name":"Ardonskij",
+    "wof:lastmodified":1555047566,
+    "wof:name":"Ardonskiy",
     "wof:parent_id":85687865,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":26600,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

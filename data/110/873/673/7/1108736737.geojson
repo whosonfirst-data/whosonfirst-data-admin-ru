@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.167062,
-    "geom:area_square_m":1162973794.65984,
+    "geom:area_square_m":1162973794.659941,
     "geom:bbox":"42.8793104258,55.5464929208,43.6325869724,55.9388699846",
     "geom:latitude":55.737903,
     "geom:longitude":43.221583,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Sosnovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.753461,
     "lbl:longitude":43.278683,
     "meso:admin1_en":"Nizheskaja oblast'",
@@ -37,6 +49,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Sosnovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Sosnovskij"
     ],
     "name:und_x_variant":[
         "\u0421\u043e\u0441\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108736737,
-    "wof:lastmodified":1505431758,
-    "wof:name":"Sosnovskij",
+    "wof:lastmodified":1555047685,
+    "wof:name":"Sosnovskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":23200,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

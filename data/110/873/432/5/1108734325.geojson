@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.469459,
-    "geom:area_square_m":3296639717.711257,
+    "geom:area_square_m":3296639717.711205,
     "geom:bbox":"64.6725596274,55.0563319422,65.8165993305,55.775891898",
     "geom:latitude":55.395819,
     "geom:longitude":65.208453,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ketovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.305921,
     "lbl:longitude":64.979282,
     "meso:admin1_en":"Kurganskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Ketovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ketovskij"
     ],
     "name:ger_x_preferred":[
         "Ketowski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108734325,
-    "wof:lastmodified":1514501706,
-    "wof:name":"Ketovskij",
+    "wof:lastmodified":1555047615,
+    "wof:name":"Ketovskiy",
     "wof:parent_id":85688157,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":54900,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

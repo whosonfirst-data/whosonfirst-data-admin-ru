@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.370478,
-    "geom:area_square_m":27266559666.16758,
+    "geom:area_square_m":27266559666.166656,
     "geom:bbox":"135.143028849,48.1981313691,138.820244873,50.0035831923",
     "geom:latitude":49.136679,
     "geom:longitude":137.079559,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Nanajskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":49.336833,
     "lbl:longitude":136.77267,
     "meso:admin1_en":"KHabarovskij kraj",
@@ -51,7 +63,11 @@
         "Nanayskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Nanayskiy"
+        "Nanajskiy"
+    ],
+    "name:eng_x_variant":[
+        "Nanajskij",
+        "Nanajskiy"
     ],
     "name:est_x_preferred":[
         "Nanai rajoon"
@@ -123,11 +139,11 @@
         }
     ],
     "wof:id":1108735307,
-    "wof:lastmodified":1514502322,
-    "wof:name":"Nanajskij",
+    "wof:lastmodified":1555047644,
+    "wof:name":"Nanajskiy",
     "wof:parent_id":85687937,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":21600,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

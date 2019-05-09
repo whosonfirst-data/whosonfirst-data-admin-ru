@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.295046,
-    "geom:area_square_m":2181284776.111119,
+    "geom:area_square_m":2181284776.11096,
     "geom:bbox":"82.5289990742,52.9800214636,83.4626222752,53.5428226562",
     "geom:latitude":53.2809,
     "geom:longitude":82.998517,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Pavlovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.289417,
     "lbl:longitude":82.998497,
     "meso:admin1_en":"Altajskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Pavlovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Pavlovskij"
     ],
     "name:ger_x_preferred":[
         "Pawlowski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108735783,
-    "wof:lastmodified":1514502620,
-    "wof:name":"Pavlovskij",
+    "wof:lastmodified":1555047663,
+    "wof:name":"Pavlovskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":24300,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

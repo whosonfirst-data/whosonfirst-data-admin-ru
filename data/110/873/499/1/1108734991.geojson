@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.178632,
-    "geom:area_square_m":1268401307.385437,
+    "geom:area_square_m":1268401307.385399,
     "geom:bbox":"38.7566661952,54.7219497661,39.6063643119,55.1406339829",
     "geom:latitude":54.953317,
     "geom:longitude":39.206771,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Lukhovickij District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.943673,
     "lbl:longitude":39.235668,
     "meso:admin1_en":"Moskovskaja oblast'",
@@ -51,6 +63,9 @@
         "Lukhovitsky District"
     ],
     "name:eng_x_preferred":[
+        "Lukhovickij"
+    ],
+    "name:eng_x_variant":[
         "Lukhovitskiy"
     ],
     "name:ger_x_preferred":[
@@ -114,11 +129,11 @@
         }
     ],
     "wof:id":1108734991,
-    "wof:lastmodified":1514502050,
+    "wof:lastmodified":1555047636,
     "wof:name":"Lukhovickij",
     "wof:parent_id":85688161,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":63400,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

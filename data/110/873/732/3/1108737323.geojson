@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.212571,
-    "geom:area_square_m":1485559797.298156,
+    "geom:area_square_m":1485559797.29815,
     "geom:bbox":"30.890792,55.3720444902,31.7765178433,55.7621083115",
     "geom:latitude":55.58523,
     "geom:longitude":31.279751,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Velizhskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.578959,
     "lbl:longitude":31.271482,
     "meso:admin1_en":"Smolenskaja oblast'",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Velizhskiy"
+    ],
+    "name:eng_x_variant":[
+        "Velizhskij"
     ],
     "name:ger_x_preferred":[
         "Welischski rajon"
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108737323,
-    "wof:lastmodified":1514503841,
-    "wof:name":"Velizhskij",
+    "wof:lastmodified":1555047710,
+    "wof:name":"Velizhskiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":15800,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

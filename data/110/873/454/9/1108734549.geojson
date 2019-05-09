@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.532952,
-    "geom:area_square_m":10630364456.306946,
+    "geom:area_square_m":10630364456.30636,
     "geom:bbox":"81.6094915968,55.157260659,83.6307310425,56.5515925277",
     "geom:latitude":55.88731,
     "geom:longitude":82.605125,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kolyvanskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.894383,
     "lbl:longitude":82.604558,
     "meso:admin1_en":"Novosibirskaja oblast'",
@@ -45,7 +57,11 @@
         "Kolivanskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Kolyvanovskiy"
+        "Kolyvanskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kolyvanskij",
+        "Kolyvanskiy"
     ],
     "name:ger_x_preferred":[
         "Kolywanski rajon"
@@ -108,11 +124,11 @@
         }
     ],
     "wof:id":1108734549,
-    "wof:lastmodified":1514501825,
-    "wof:name":"Kolyvanskij",
+    "wof:lastmodified":1555047622,
+    "wof:name":"Kolyvanskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":28600,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

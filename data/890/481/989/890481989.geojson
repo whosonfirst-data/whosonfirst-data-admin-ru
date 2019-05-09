@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120909,
-    "geom:area_square_m":1121961668.386585,
+    "geom:area_square_m":1121961668.386496,
     "geom:bbox":"47.256719,41.1950888231,47.8629191642,41.5946905058",
     "geom:latitude":41.370966,
     "geom:longitude":47.611253,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":31598,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Akhtynskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.360378,
     "lbl:longitude":47.666356,
     "meso:admin1_en":"Dagestan",
@@ -60,7 +66,11 @@
         "District Achtynski"
     ],
     "name:eng_x_preferred":[
-        "Akhtynsky District"
+        "Akhtynskiy"
+    ],
+    "name:eng_x_variant":[
+        "Akhtynskij",
+        "Akhtynskiy"
     ],
     "name:est_x_preferred":[
         "Aht\u00f5 rajoon"
@@ -142,8 +152,8 @@
         }
     ],
     "wof:id":890481989,
-    "wof:lastmodified":1514500459,
-    "wof:name":"Akhtynskij",
+    "wof:lastmodified":1555047541,
+    "wof:name":"Akhtynskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",
     "wof:population":31598,

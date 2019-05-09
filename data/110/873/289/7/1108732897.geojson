@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.30754,
-    "geom:area_square_m":2256293328.912456,
+    "geom:area_square_m":2256293328.912573,
     "geom:bbox":"46.6882930364,53.3216554217,47.7168320433,53.8849901352",
     "geom:latitude":53.606516,
     "geom:longitude":47.130571,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Baryshskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.630931,
     "lbl:longitude":47.13066,
     "meso:admin1_en":"Ul'janovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Baryshskiy"
+    ],
+    "name:eng_x_variant":[
+        "Baryshskij"
     ],
     "name:ger_x_preferred":[
         "Baryschski rajon"
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108732897,
-    "wof:lastmodified":1514500642,
-    "wof:name":"Baryshskij",
+    "wof:lastmodified":1555047570,
+    "wof:name":"Baryshskiy",
     "wof:parent_id":85687907,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":34000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

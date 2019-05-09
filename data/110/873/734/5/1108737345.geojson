@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.169607,
-    "geom:area_square_m":1342354003.953615,
+    "geom:area_square_m":1342354003.953598,
     "geom:bbox":"40.004866769,50.0075461275,40.703643962,50.4530543573",
     "geom:latitude":50.203418,
     "geom:longitude":40.377502,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Verkhnemamonskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.208325,
     "lbl:longitude":40.401179,
     "meso:admin1_en":"Voronezhskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Verkhnemamonskiy"
+    ],
+    "name:eng_x_variant":[
+        "Verkhnemamonskij"
     ],
     "name:ger_x_preferred":[
         "Werchnemamonski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108737345,
-    "wof:lastmodified":1514503848,
-    "wof:name":"Verkhnemamonskij",
+    "wof:lastmodified":1555047710,
+    "wof:name":"Verkhnemamonskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":23000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

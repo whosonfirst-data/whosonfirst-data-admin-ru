@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.768712,
-    "geom:area_square_m":6468240697.197229,
+    "geom:area_square_m":6468240697.197278,
     "geom:bbox":"44.2555169477,46.7403310156,45.7961141829,47.5733972952",
     "geom:latitude":47.117816,
     "geom:longitude":44.96126,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ketchenerovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":47.153836,
     "lbl:longitude":44.898773,
     "meso:admin1_en":"Respublika Kalmykija",
@@ -45,7 +57,11 @@
         "Kettsjenerovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Ketchenerovskiy (Priozeroskiy)"
+        "Ketchenerovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ketchenerovskij",
+        "Ketchenerovskiy"
     ],
     "name:est_x_preferred":[
         "Kett\u0161ener\u00f5 rajoon"
@@ -120,11 +136,11 @@
         }
     ],
     "wof:id":1108734323,
-    "wof:lastmodified":1514501705,
-    "wof:name":"Ketchenerovskij",
+    "wof:lastmodified":1555047615,
+    "wof:name":"Ketchenerovskiy",
     "wof:parent_id":85687953,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":13000,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

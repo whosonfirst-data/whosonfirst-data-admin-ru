@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.064883,
-    "geom:area_square_m":57517889205.511971,
+    "geom:area_square_m":57517889205.512901,
     "geom:bbox":"113.439026952,60.818795132,120.522704425,64.2046335427",
     "geom:latitude":62.471296,
     "geom:longitude":116.762237,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Suntarskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":62.36802,
     "lbl:longitude":116.762331,
     "meso:admin1_en":"Respublika Sakha (JAkutija)",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Suntarskiy"
+    ],
+    "name:eng_x_variant":[
+        "Suntarskij ulus"
     ],
     "name:est_x_preferred":[
         "Suntari uluss"
@@ -123,11 +138,11 @@
         }
     ],
     "wof:id":1108736839,
-    "wof:lastmodified":1514503429,
-    "wof:name":"Suntarskij ulus",
+    "wof:lastmodified":1555047689,
+    "wof:name":"Suntarskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":4200,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ru",

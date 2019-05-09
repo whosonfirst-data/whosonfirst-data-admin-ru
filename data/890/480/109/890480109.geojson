@@ -11,6 +11,18 @@
     "geom:longitude":40.000285,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Sobinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.981999,
     "lbl:longitude":40.025615,
     "meso:admin1_en":"Vladimirskaja oblast'",
@@ -53,6 +65,9 @@
     ],
     "name:eng_x_preferred":[
         "Sobinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Sobinskij"
     ],
     "name:ger_x_preferred":[
         "Sobinski rajon"
@@ -127,11 +142,11 @@
         }
     ],
     "wof:id":890480109,
-    "wof:lastmodified":1536617433,
-    "wof:name":"Sobinskij",
+    "wof:lastmodified":1555047536,
+    "wof:name":"Sobinskiy",
     "wof:parent_id":85687981,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":25100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.382344,
-    "geom:area_square_m":2721852958.664555,
+    "geom:area_square_m":2721852958.665044,
     "geom:bbox":"65.4897797216,54.607189,66.7611798957,55.1432771496",
     "geom:latitude":54.849981,
     "geom:longitude":66.053893,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Polovinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.844376,
     "lbl:longitude":66.097014,
     "meso:admin1_en":"Kurganskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Polovinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Polovinskij"
     ],
     "name:ger_x_preferred":[
         "Polowinski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108735925,
-    "wof:lastmodified":1514502689,
-    "wof:name":"Polovinskij",
+    "wof:lastmodified":1555047668,
+    "wof:name":"Polovinskiy",
     "wof:parent_id":85688157,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":17500,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

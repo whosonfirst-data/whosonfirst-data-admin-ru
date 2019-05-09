@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.424996,
-    "geom:area_square_m":2972193449.414112,
+    "geom:area_square_m":2972193449.414015,
     "geom:bbox":"65.6092988604,55.0175932459,66.5170020487,56.0723357971",
     "geom:latitude":55.557175,
     "geom:longitude":66.039467,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Vargashinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.411978,
     "lbl:longitude":65.956928,
     "meso:admin1_en":"Kurganskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Vargashinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Vargashinskij"
     ],
     "name:ger_x_preferred":[
         "Wargaschinski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108737299,
-    "wof:lastmodified":1514503829,
-    "wof:name":"Vargashinskij",
+    "wof:lastmodified":1555047709,
+    "wof:name":"Vargashinskiy",
     "wof:parent_id":85688157,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":24600,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

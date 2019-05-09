@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.132119,
-    "geom:area_square_m":946365508.637411,
+    "geom:area_square_m":946365508.637405,
     "geom:bbox":"41.4669632091,54.4306418248,42.0155445876,54.785491894",
     "geom:latitude":54.599592,
     "geom:longitude":41.726812,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Pitelinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.621161,
     "lbl:longitude":41.776327,
     "meso:admin1_en":"Rjazanskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Pitelinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Pitelinskij"
     ],
     "name:ger_x_preferred":[
         "Pitelinski rajon"
@@ -99,11 +114,11 @@
         }
     ],
     "wof:id":1108735873,
-    "wof:lastmodified":1514502666,
-    "wof:name":"Pitelinskij",
+    "wof:lastmodified":1555047666,
+    "wof:name":"Pitelinskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":7900,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -13,6 +13,18 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Skovorodinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.912718,
     "lbl:longitude":123.021599,
     "meso:admin1_en":"Amurskaja oblast'",
@@ -52,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Skovorodinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Skovorodinskij"
     ],
     "name:ger_x_preferred":[
         "Skoworodinski rajon"
@@ -127,11 +142,11 @@
         }
     ],
     "wof:id":890480417,
-    "wof:lastmodified":1536617433,
-    "wof:name":"Skovorodinskij",
+    "wof:lastmodified":1555047537,
+    "wof:name":"Skovorodinskiy",
     "wof:parent_id":85687951,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":39300,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

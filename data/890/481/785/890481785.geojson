@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142454,
-    "geom:area_square_m":1012474807.910683,
+    "geom:area_square_m":1012474807.910615,
     "geom:bbox":"37.0880097755,54.715522828,37.8994967379,55.0660864893",
     "geom:latitude":54.91496,
     "geom:longitude":37.506402,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":33906,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Serpukhovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":54.915706,
     "lbl:longitude":37.566638,
     "meso:admin1_en":"Moskovskaja oblast'",
@@ -51,7 +57,11 @@
         "Serpukhovsky District"
     ],
     "name:eng_x_preferred":[
-        "Serpukhovsky District"
+        "Serpukhovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Serpukhovskij",
+        "Serpukhovskiy"
     ],
     "name:ger_x_preferred":[
         "Serpuchowski rajon"
@@ -118,8 +128,8 @@
         }
     ],
     "wof:id":890481785,
-    "wof:lastmodified":1514503277,
-    "wof:name":"Serpukhovskij",
+    "wof:lastmodified":1555047541,
+    "wof:name":"Serpukhovskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",
     "wof:population":33906,

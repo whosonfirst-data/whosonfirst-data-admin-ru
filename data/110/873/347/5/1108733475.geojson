@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147686,
-    "geom:area_square_m":1056492618.550039,
+    "geom:area_square_m":1056492618.550034,
     "geom:bbox":"43.5278110023,54.4446586155,44.2871239679,54.8604215513",
     "geom:latitude":54.652592,
     "geom:longitude":43.861111,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "El'nikovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.67265,
     "lbl:longitude":43.792105,
     "meso:admin1_en":"Respublika Mordovija",
@@ -45,7 +57,11 @@
         "Elnikovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Yel'nikovskiy"
+        "El'nikovskiy"
+    ],
+    "name:eng_x_variant":[
+        "El'nikovskij",
+        "El'nikovskiy"
     ],
     "name:est_x_preferred":[
         "Jelniki rajoon"
@@ -117,11 +133,11 @@
         }
     ],
     "wof:id":1108733475,
-    "wof:lastmodified":1514501216,
-    "wof:name":"El'nikovskij",
+    "wof:lastmodified":1555047591,
+    "wof:name":"El'nikovskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14900,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

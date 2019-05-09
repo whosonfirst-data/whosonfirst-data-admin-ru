@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.148413,
-    "geom:area_square_m":1113505112.554193,
+    "geom:area_square_m":1113505112.554207,
     "geom:bbox":"37.7367374396,52.3904828945,38.2899536137,52.930259438",
     "geom:latitude":52.644069,
     "geom:longitude":37.999312,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Izmalkovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.620433,
     "lbl:longitude":37.980355,
     "meso:admin1_en":"Lipeckaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Izmalkovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Izmalkovskij"
     ],
     "name:ger_x_preferred":[
         "Ismalkowski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108734055,
-    "wof:lastmodified":1514501400,
-    "wof:name":"Izmalkovskij",
+    "wof:lastmodified":1555047606,
+    "wof:name":"Izmalkovskiy",
     "wof:parent_id":85687917,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":38800,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

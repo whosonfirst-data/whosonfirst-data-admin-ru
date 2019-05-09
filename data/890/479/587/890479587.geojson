@@ -13,6 +13,18 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Noginskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.887119,
     "lbl:longitude":38.354165,
     "meso:admin1_en":"Moskovskaja oblast'",
@@ -54,7 +66,11 @@
         "Noginskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Noginsk"
+        "Noginskiy"
+    ],
+    "name:eng_x_variant":[
+        "Noginskij",
+        "Noginskiy"
     ],
     "name:ger_x_preferred":[
         "Noginski rajon"
@@ -130,11 +146,11 @@
         }
     ],
     "wof:id":890479587,
-    "wof:lastmodified":1536617431,
-    "wof:name":"Noginskij",
+    "wof:lastmodified":1555047534,
+    "wof:name":"Noginskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",
-    "wof:placetype_local":"gorod",
+    "wof:placetype_local":"district",
     "wof:population":117200,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.127749,
-    "geom:area_square_m":928718882.204674,
+    "geom:area_square_m":928718882.204673,
     "geom:bbox":"37.6472834933,53.7813672161,38.1046864708,54.255095447",
     "geom:latitude":53.989732,
     "geom:longitude":37.873233,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kireevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.966985,
     "lbl:longitude":37.854684,
     "meso:admin1_en":"Tul'skaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Kireevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kireevskij"
     ],
     "name:ger_x_preferred":[
         "Kirejewski rajon"
@@ -99,11 +114,11 @@
         }
     ],
     "wof:id":1108734431,
-    "wof:lastmodified":1514501769,
-    "wof:name":"Kireevskij",
+    "wof:lastmodified":1555047619,
+    "wof:name":"Kireevskiy",
     "wof:parent_id":85688203,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":85500,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

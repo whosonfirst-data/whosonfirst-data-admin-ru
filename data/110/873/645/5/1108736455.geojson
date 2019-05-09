@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.088397,
-    "geom:area_square_m":6786612088.768765,
+    "geom:area_square_m":6786612088.768541,
     "geom:bbox":"60.1869806661,59.1495708005,61.7908617387,60.2483203852",
     "geom:latitude":59.716627,
     "geom:longitude":60.975074,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Serovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":59.713777,
     "lbl:longitude":60.910618,
     "meso:admin1_en":"Sverdlovskaja oblast'",
@@ -39,7 +45,11 @@
         "\u0421\u0435\u0440\u043e\u0432\u0430\u043d \u0433\u04c0\u0430\u043b\u0438\u043d \u0433\u0443\u043e"
     ],
     "name:eng_x_preferred":[
-        "Serov okrug"
+        "Serovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Serovskij",
+        "Serovskiy"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433"
@@ -75,8 +85,8 @@
         }
     ],
     "wof:id":1108736455,
-    "wof:lastmodified":1514503276,
-    "wof:name":"Serovskij",
+    "wof:lastmodified":1555047680,
+    "wof:name":"Serovskiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ru",

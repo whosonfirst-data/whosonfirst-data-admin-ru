@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.916393,
-    "geom:area_square_m":6342400356.436925,
+    "geom:area_square_m":6342400356.437163,
     "geom:bbox":"71.7254350886,55.4587850092,73.2689367264,56.486991805",
     "geom:latitude":55.963169,
     "geom:longitude":72.401847,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Tjukalinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.950829,
     "lbl:longitude":72.390319,
     "meso:admin1_en":"Omskaja oblast'",
@@ -45,7 +57,11 @@
         "Tjukalinskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Tyukalinskiy"
+        "Tjukalinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Tjukalinskij",
+        "Tjukalinskiy"
     ],
     "name:ger_x_preferred":[
         "Tjukalinski rajon"
@@ -102,11 +118,11 @@
         }
     ],
     "wof:id":1108737025,
-    "wof:lastmodified":1514503610,
-    "wof:name":"Tjukalinskij",
+    "wof:lastmodified":1555047699,
+    "wof:name":"Tjukalinskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":21600,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

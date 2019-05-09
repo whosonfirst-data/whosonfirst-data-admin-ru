@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.726148,
-    "geom:area_square_m":4679000042.710922,
+    "geom:area_square_m":4679000042.710943,
     "geom:bbox":"30.7061633613,58.2057898022,32.1018882417,59.0939052679",
     "geom:latitude":58.593256,
     "geom:longitude":31.373584,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Novskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":58.521838,
     "lbl:longitude":31.67113,
     "meso:admin1_en":"Novskaja oblast'",
@@ -45,7 +57,11 @@
         "Novgorodsky District"
     ],
     "name:eng_x_preferred":[
-        "Novgorodskiy"
+        "Novskiy"
+    ],
+    "name:eng_x_variant":[
+        "Novskij",
+        "Novskiy"
     ],
     "name:est_x_preferred":[
         "Novgorodi rajoon"
@@ -111,11 +127,11 @@
         }
     ],
     "wof:id":1108735475,
-    "wof:lastmodified":1514502518,
-    "wof:name":"Novskij",
+    "wof:lastmodified":1555047653,
+    "wof:name":"Novskiy",
     "wof:parent_id":85688095,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":55800,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.174748,
-    "geom:area_square_m":1254171630.9425,
+    "geom:area_square_m":1254171630.942601,
     "geom:bbox":"36.3293320618,54.2692401457,36.9828377336,54.7400578636",
     "geom:latitude":54.519621,
     "geom:longitude":36.677253,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ferzikovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.556473,
     "lbl:longitude":36.682181,
     "meso:admin1_en":"Kaluzhskaja oblast'",
@@ -51,6 +63,9 @@
     "name:eng_x_preferred":[
         "Ferzikovskiy"
     ],
+    "name:eng_x_variant":[
+        "Ferzikovskij"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Ferzikovo"
     ],
@@ -83,6 +98,7 @@
     "qs:photos_sr":1,
     "qs:placetype":"County",
     "qs:pop_sr":"0",
+    "src:geom":"unknown",
     "src:geom_alt":[
         "quattroshapes"
     ],
@@ -127,11 +143,11 @@
         }
     ],
     "wof:id":890483063,
-    "wof:lastmodified":1553816414,
-    "wof:name":"Ferzikovskij",
+    "wof:lastmodified":1555047544,
+    "wof:name":"Ferzikovskiy",
     "wof:parent_id":85688131,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":16700,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

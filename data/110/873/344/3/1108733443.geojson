@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.32148,
-    "geom:area_square_m":2460260453.471221,
+    "geom:area_square_m":2460260453.471374,
     "geom:bbox":"80.5328660196,51.3296173811,81.3185612698,52.105615774",
     "geom:latitude":51.763377,
     "geom:longitude":80.929911,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Egor'evskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.817823,
     "lbl:longitude":80.936116,
     "meso:admin1_en":"Altajskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Egor'evskiy"
+    ],
+    "name:eng_x_variant":[
+        "Egor'evskij"
     ],
     "name:ger_x_preferred":[
         "Jegorjewski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108733443,
-    "wof:lastmodified":1514501214,
-    "wof:name":"Egor'evskij",
+    "wof:lastmodified":1555047589,
+    "wof:name":"Egor'evskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":16500,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

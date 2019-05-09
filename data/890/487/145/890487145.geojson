@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119002,
-    "geom:area_square_m":766792919.345655,
+    "geom:area_square_m":766792919.345714,
     "geom:bbox":"49.1164894678,58.4390175871,49.8174393866,58.7327320315",
     "geom:latitude":58.593785,
     "geom:longitude":49.490459,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kirov District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":58.620468,
     "lbl:longitude":49.490392,
     "meso:admin1_en":"Kirovskaja oblast'",
@@ -36,6 +48,9 @@
     "mps:longitude":49.490392,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kirov"
+    ],
     "name:und_x_variant":[
         "\u041a\u0438\u0440\u043e\u0432"
     ],
@@ -80,10 +95,11 @@
         }
     ],
     "wof:id":890487145,
-    "wof:lastmodified":1527792824,
+    "wof:lastmodified":1555047558,
     "wof:name":"Kirov",
     "wof:parent_id":85687903,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.182446,
-    "geom:area_square_m":1189905946.306209,
+    "geom:area_square_m":1189905946.306179,
     "geom:bbox":"36.1688595823,57.9746000106,37.0475882956,58.3551465677",
     "geom:latitude":58.167022,
     "geom:longitude":36.646308,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Molokovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":58.131568,
     "lbl:longitude":36.652944,
     "meso:admin1_en":"Tverskaja oblast'",
@@ -52,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Molokovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Molokovskij"
     ],
     "name:est_x_preferred":[
         "Molokovo rajoon"
@@ -120,11 +135,11 @@
         }
     ],
     "wof:id":1108735183,
-    "wof:lastmodified":1514502167,
-    "wof:name":"Molokovskij",
+    "wof:lastmodified":1555047642,
+    "wof:name":"Molokovskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":7600,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",

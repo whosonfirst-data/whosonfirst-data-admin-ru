@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.515188,
-    "geom:area_square_m":3242497077.626946,
+    "geom:area_square_m":3242497077.627012,
     "geom:bbox":"36.2784455389,59.0492483665,37.4829892341,59.7683408699",
     "geom:latitude":59.403002,
     "geom:longitude":36.907273,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kadujskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":59.415947,
     "lbl:longitude":36.895549,
     "meso:admin1_en":"Vologodskaja oblast'",
@@ -54,7 +66,11 @@
         "Kadoeyskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Kaduyskiy"
+        "Kadujskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kadujskij",
+        "Kadujskiy"
     ],
     "name:fin_x_preferred":[
         "Kaduin piiri"
@@ -120,11 +136,11 @@
         }
     ],
     "wof:id":1108734179,
-    "wof:lastmodified":1514501469,
-    "wof:name":"Kadujskij",
+    "wof:lastmodified":1555047610,
+    "wof:name":"Kadujskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":19100,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

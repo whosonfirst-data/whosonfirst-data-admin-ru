@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.425657,
-    "geom:area_square_m":2810219101.030379,
+    "geom:area_square_m":2810219101.030412,
     "geom:bbox":"36.1116405783,57.3863040875,37.0117287845,58.1401222828",
     "geom:latitude":57.728828,
     "geom:longitude":36.555805,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Bezheckij District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.70475,
     "lbl:longitude":36.556038,
     "meso:admin1_en":"Tverskaja oblast'",
@@ -48,6 +60,9 @@
         "Bezhetsky District"
     ],
     "name:eng_x_preferred":[
+        "Bezheckij"
+    ],
+    "name:eng_x_variant":[
         "Bezhetskiy"
     ],
     "name:est_x_preferred":[
@@ -120,11 +135,11 @@
         }
     ],
     "wof:id":1108732989,
-    "wof:lastmodified":1514500730,
+    "wof:lastmodified":1555047573,
     "wof:name":"Bezheckij",
     "wof:parent_id":85688047,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":15700,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108255,
-    "geom:area_square_m":764265673.469379,
+    "geom:area_square_m":764265673.4694,
     "geom:bbox":"36.0222949625,55.0612460707,36.8101676585,55.3500533233",
     "geom:latitude":55.18355,
     "geom:longitude":36.423313,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Borovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.184401,
     "lbl:longitude":36.455832,
     "meso:admin1_en":"Kaluzhskaja oblast'",
@@ -46,7 +58,11 @@
         "\u0411\u043e\u0440\u043e\u0432\u0441\u043a \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
     "name:eng_x_preferred":[
-        "Borovsky District"
+        "Borovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Borovskij",
+        "Borovskiy"
     ],
     "name:epo_x_preferred":[
         "Distrikto Borovsk"
@@ -80,6 +96,7 @@
     "qs:photos_sr":2,
     "qs:placetype":"County",
     "qs:pop_sr":"0",
+    "src:geom":"unknown",
     "src:geom_alt":[
         "quattroshapes"
     ],
@@ -111,10 +128,11 @@
         }
     ],
     "wof:id":890484205,
-    "wof:lastmodified":1553816415,
-    "wof:name":"Borovskij",
+    "wof:lastmodified":1555047549,
+    "wof:name":"Borovskiy",
     "wof:parent_id":85688131,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

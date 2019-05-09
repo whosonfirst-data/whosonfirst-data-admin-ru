@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.622178,
-    "geom:area_square_m":4270705118.528841,
+    "geom:area_square_m":4270705118.5281,
     "geom:bbox":"94.5234626148,55.7593396635,95.930339687,56.6429950066",
     "geom:latitude":56.28105,
     "geom:longitude":95.320705,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kanskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.335314,
     "lbl:longitude":95.368688,
     "meso:admin1_en":"Krasnojarskij kraj",
@@ -46,7 +58,11 @@
         "Kanskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Kansky District"
+        "Kanskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kanskij",
+        "Kanskiy"
     ],
     "name:ger_x_preferred":[
         "Kanski rajon"
@@ -114,10 +130,11 @@
         }
     ],
     "wof:id":890483061,
-    "wof:lastmodified":1527727196,
-    "wof:name":"Kanskij",
+    "wof:lastmodified":1555047544,
+    "wof:name":"Kanskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10614,
-    "geom:area_square_m":785257734.426654,
+    "geom:area_square_m":785257734.426641,
     "geom:bbox":"37.4562332677,53.0765495277,37.9808676254,53.4003393921",
     "geom:latitude":53.250385,
     "geom:longitude":37.732121,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kamenskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.242669,
     "lbl:longitude":37.732168,
     "meso:admin1_en":"Tul'skaja oblast'",
@@ -37,6 +49,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Kamenskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kamenskij"
     ],
     "name:und_x_variant":[
         "\u041a\u0430\u043c\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108734229,
-    "wof:lastmodified":1505431721,
-    "wof:name":"Kamenskij",
+    "wof:lastmodified":1555047612,
+    "wof:name":"Kamenskiy",
     "wof:parent_id":85688203,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":10900,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

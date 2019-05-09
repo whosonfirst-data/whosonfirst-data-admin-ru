@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.168828,
-    "geom:area_square_m":1260878833.180699,
+    "geom:area_square_m":1260878833.180805,
     "geom:bbox":"40.5568756972,52.5442256319,41.0814985578,53.1792222364",
     "geom:latitude":52.843707,
     "geom:longitude":40.834276,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Nikiforovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.871438,
     "lbl:longitude":40.856091,
     "meso:admin1_en":"Tambovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Nikiforovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Nikiforovskij"
     ],
     "name:fre_x_preferred":[
         "Nikiforovsky"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108735367,
-    "wof:lastmodified":1514502424,
-    "wof:name":"Nikiforovskij",
+    "wof:lastmodified":1555047646,
+    "wof:name":"Nikiforovskiy",
     "wof:parent_id":85687829,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":25100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

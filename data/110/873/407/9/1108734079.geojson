@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082943,
-    "geom:area_square_m":586116849.759549,
+    "geom:area_square_m":586116849.759454,
     "geom:bbox":"47.7029551403,54.9404278146,48.1192696236,55.3264202202",
     "geom:latitude":55.146252,
     "geom:longitude":47.910069,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Jal'chikskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.177905,
     "lbl:longitude":47.903552,
     "meso:admin1_en":"CHuvashija",
@@ -45,7 +57,11 @@
         "\u0415\u043b\u0447\u0115\u043a \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
     "name:eng_x_preferred":[
-        "Yal'chikskiy"
+        "Jal'chikskiy"
+    ],
+    "name:eng_x_variant":[
+        "JAl'chikskij",
+        "Jal'chikskiy"
     ],
     "name:est_x_preferred":[
         "Jalt\u0161iki rajoon"
@@ -117,11 +133,11 @@
         }
     ],
     "wof:id":1108734079,
-    "wof:lastmodified":1514501403,
-    "wof:name":"JAl'chikskij",
+    "wof:lastmodified":1555047607,
+    "wof:name":"Jal'chikskiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":25600,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

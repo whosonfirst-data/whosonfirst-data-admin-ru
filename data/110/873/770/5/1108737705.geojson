@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.521808,
-    "geom:area_square_m":3530625151.213616,
+    "geom:area_square_m":3530625151.213744,
     "geom:bbox":"44.8968970943,56.4459064361,46.1134893826,57.1935021978",
     "geom:latitude":56.825222,
     "geom:longitude":45.544706,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Voskresenskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.835714,
     "lbl:longitude":45.535497,
     "meso:admin1_en":"Nizheskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Voskresenskiy"
+    ],
+    "name:eng_x_variant":[
+        "Voskresenskij"
     ],
     "name:ger_x_preferred":[
         "Woskressenski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108737705,
-    "wof:lastmodified":1514503901,
-    "wof:name":"Voskresenskij",
+    "wof:lastmodified":1555047714,
+    "wof:name":"Voskresenskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":26700,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

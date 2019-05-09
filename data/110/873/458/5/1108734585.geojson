@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111806,
-    "geom:area_square_m":862487138.652035,
+    "geom:area_square_m":862487138.652061,
     "geom:bbox":"34.7362584944,51.169205,35.2487669573,51.5708511054",
     "geom:latitude":51.401452,
     "geom:longitude":34.963637,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Korenevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.411009,
     "lbl:longitude":34.967481,
     "meso:admin1_en":"Kurskaja oblast'",
@@ -52,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Korenevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Korenevskij"
     ],
     "name:ger_x_preferred":[
         "Korenewski rajon"
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108734585,
-    "wof:lastmodified":1514501870,
-    "wof:name":"Korenevskij",
+    "wof:lastmodified":1555047623,
+    "wof:name":"Korenevskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":22500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

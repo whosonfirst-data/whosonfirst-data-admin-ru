@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.360425,
-    "geom:area_square_m":2679635822.601995,
+    "geom:area_square_m":2679635822.602058,
     "geom:bbox":"81.8206085937,52.695190712,82.7743575851,53.3241548936",
     "geom:latitude":53.03998,
     "geom:longitude":82.273043,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Rebrikhinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.019703,
     "lbl:longitude":82.225591,
     "meso:admin1_en":"Altajskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Rebrikhinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Rebrikhinskij"
     ],
     "name:ger_x_preferred":[
         "Rebrichinski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108736275,
-    "wof:lastmodified":1514502761,
-    "wof:name":"Rebrikhinskij",
+    "wof:lastmodified":1555047675,
+    "wof:name":"Rebrikhinskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":17500,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

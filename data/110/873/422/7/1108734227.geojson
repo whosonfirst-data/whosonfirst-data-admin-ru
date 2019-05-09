@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.294728,
-    "geom:area_square_m":2187968194.749764,
+    "geom:area_square_m":2187968194.749815,
     "geom:bbox":"43.5292431477,52.7814076684,44.3724612237,53.4141878161",
     "geom:latitude":53.10348,
     "geom:longitude":44.013769,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kamenskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.133329,
     "lbl:longitude":44.042467,
     "meso:admin1_en":"Penzenskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Kamenskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kamenskij"
     ],
     "name:ger_x_preferred":[
         "Kamenski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108734227,
-    "wof:lastmodified":1514501517,
-    "wof:name":"Kamenskij",
+    "wof:lastmodified":1555047612,
+    "wof:name":"Kamenskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":25700,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

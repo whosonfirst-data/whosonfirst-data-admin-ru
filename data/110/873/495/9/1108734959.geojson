@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.237683,
-    "geom:area_square_m":1793659059.03155,
+    "geom:area_square_m":1793659059.031562,
     "geom:bbox":"37.2127843843,52.169732194,38.0628525592,52.6586171245",
     "geom:latitude":52.388993,
     "geom:longitude":37.630673,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Livenskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.34238,
     "lbl:longitude":37.771871,
     "meso:admin1_en":"Orlovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Livenskiy"
+    ],
+    "name:eng_x_variant":[
+        "Livenskij"
     ],
     "name:ger_x_preferred":[
         "Liwenski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108734959,
-    "wof:lastmodified":1514502031,
-    "wof:name":"Livenskij",
+    "wof:lastmodified":1555047635,
+    "wof:name":"Livenskiy",
     "wof:parent_id":85687849,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":36200,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

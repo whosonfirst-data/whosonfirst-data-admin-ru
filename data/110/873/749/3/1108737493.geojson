@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.521806,
-    "geom:area_square_m":4361111287.015188,
+    "geom:area_square_m":4361111287.015493,
     "geom:bbox":"134.146861001,47.1110166309,135.464662827,47.8373151",
     "geom:latitude":47.475143,
     "geom:longitude":134.9446,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Vjazemskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":47.485241,
     "lbl:longitude":135.054171,
     "meso:admin1_en":"KHabarovskij kraj",
@@ -45,7 +57,11 @@
         "Vjazemskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Vyazemskiy"
+        "Vjazemskiy"
+    ],
+    "name:eng_x_variant":[
+        "Vjazemskij",
+        "Vjazemskiy"
     ],
     "name:ger_x_preferred":[
         "Wjasemski rajon"
@@ -102,11 +118,11 @@
         }
     ],
     "wof:id":1108737493,
-    "wof:lastmodified":1514503870,
-    "wof:name":"Vjazemskij",
+    "wof:lastmodified":1555047712,
+    "wof:name":"Vjazemskiy",
     "wof:parent_id":85687937,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":29500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

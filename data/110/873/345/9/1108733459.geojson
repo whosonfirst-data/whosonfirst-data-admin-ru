@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.394163,
-    "geom:area_square_m":11032544799.146881,
+    "geom:area_square_m":11032544799.145466,
     "geom:bbox":"94.5290190861,49.741716,97.586556,50.6512811577",
     "geom:latitude":50.209956,
     "geom:longitude":95.994724,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "EHrzinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.301301,
     "lbl:longitude":95.994807,
     "meso:admin1_en":"Tyva",
@@ -45,7 +57,11 @@
         "Erzinskiy kozjoeoen"
     ],
     "name:eng_x_preferred":[
-        "Erzinskiy"
+        "EHrzinskiy"
+    ],
+    "name:eng_x_variant":[
+        "EHrzinskij kozhuun",
+        "EHrzinskiy"
     ],
     "name:est_x_preferred":[
         "Erzini ko\u017euun"
@@ -117,11 +133,11 @@
         }
     ],
     "wof:id":1108733459,
-    "wof:lastmodified":1514501209,
-    "wof:name":"EHrzinskij kozhuun",
+    "wof:lastmodified":1555047590,
+    "wof:name":"EHrzinskiy",
     "wof:parent_id":85688039,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":9200,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",

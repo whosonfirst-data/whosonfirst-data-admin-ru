@@ -11,6 +11,18 @@
     "geom:longitude":34.618053,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Medvezh'egorskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":62.68862,
     "lbl:longitude":35.272282,
     "meso:admin1_en":"Respublika Karelija",
@@ -50,6 +62,9 @@
     ],
     "name:eng_x_preferred":[
         "Medvezh'egorskiy"
+    ],
+    "name:eng_x_variant":[
+        "Medvezh'egorskij"
     ],
     "name:est_x_preferred":[
         "Karhum\u00e4e rajoon"
@@ -145,11 +160,11 @@
         }
     ],
     "wof:id":890487561,
-    "wof:lastmodified":1536617446,
-    "wof:name":"Medvezh'egorskij",
+    "wof:lastmodified":1555047559,
+    "wof:name":"Medvezh'egorskiy",
     "wof:parent_id":85688193,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":42400,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.200397,
-    "geom:area_square_m":1576484033.007294,
+    "geom:area_square_m":1576484033.007223,
     "geom:bbox":"39.2752236376,50.2700153831,40.1053151024,50.7478017068",
     "geom:latitude":50.490421,
     "geom:longitude":39.716939,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Podgorenskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.524325,
     "lbl:longitude":39.723317,
     "meso:admin1_en":"Voronezhskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Podgorenskiy"
+    ],
+    "name:eng_x_variant":[
+        "Podgorenskij"
     ],
     "name:ger_x_preferred":[
         "Podgorenski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108735903,
-    "wof:lastmodified":1514502677,
-    "wof:name":"Podgorenskij",
+    "wof:lastmodified":1555047667,
+    "wof:name":"Podgorenskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":31400,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

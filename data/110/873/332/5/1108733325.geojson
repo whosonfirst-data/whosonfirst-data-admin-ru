@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08301,
-    "geom:area_square_m":761913995.716567,
+    "geom:area_square_m":761913995.716659,
     "geom:bbox":"47.3742014843,41.8531372532,47.7831696741,42.2530708996",
     "geom:latitude":42.073246,
     "geom:longitude":47.557974,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Dakhadaevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":42.076847,
     "lbl:longitude":47.55486,
     "meso:admin1_en":"Dagestan",
@@ -54,7 +66,11 @@
         "District Dachadajevski"
     ],
     "name:eng_x_preferred":[
-        "Dakhadayevskiy"
+        "Dakhadaevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Dakhadaevskij",
+        "Dakhadaevskiy"
     ],
     "name:est_x_preferred":[
         "Dahhadajevi rajoon"
@@ -135,11 +151,11 @@
         }
     ],
     "wof:id":1108733325,
-    "wof:lastmodified":1514501157,
-    "wof:name":"Dakhadaevskij",
+    "wof:lastmodified":1555047586,
+    "wof:name":"Dakhadaevskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":32400,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

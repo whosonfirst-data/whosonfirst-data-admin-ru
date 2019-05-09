@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.341779,
-    "geom:area_square_m":2707972007.825595,
+    "geom:area_square_m":2707972007.825772,
     "geom:bbox":"48.106414279,49.800981,48.903576,50.5440468021",
     "geom:latitude":50.150927,
     "geom:longitude":48.487628,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Aleksandrovo-Gajskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.125416,
     "lbl:longitude":48.514641,
     "meso:admin1_en":"Saratovskaja oblast'",
@@ -45,7 +57,11 @@
         "Alexandrovo-Gaysky District"
     ],
     "name:eng_x_preferred":[
-        "Aleksandrovo-Gayskiy"
+        "Aleksandrovo-Gajskiy"
+    ],
+    "name:eng_x_variant":[
+        "Aleksandrovo-Gajskij",
+        "Aleksandrovo-Gajskiy"
     ],
     "name:ger_x_preferred":[
         "Aleksandrowo-Gajski rajon"
@@ -105,11 +121,11 @@
         }
     ],
     "wof:id":1108732677,
-    "wof:lastmodified":1514500478,
-    "wof:name":"Aleksandrovo-Gajskij",
+    "wof:lastmodified":1555047563,
+    "wof:name":"Aleksandrovo-Gajskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":18200,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

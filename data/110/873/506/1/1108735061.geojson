@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.813435,
-    "geom:area_square_m":5566763232.047155,
+    "geom:area_square_m":5566763232.046684,
     "geom:bbox":"86.9543704824,55.9394821004,88.7399197526,56.8367854276",
     "geom:latitude":56.395724,
     "geom:longitude":87.798985,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Mariinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.366552,
     "lbl:longitude":87.961392,
     "meso:admin1_en":"Kemerovskaja oblast'",
@@ -48,7 +60,11 @@
         "Mariinskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Mariynskiy"
+        "Mariinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Mariinskij",
+        "Mariinskiy"
     ],
     "name:ger_x_preferred":[
         "Mariinski rajon"
@@ -105,11 +121,11 @@
         }
     ],
     "wof:id":1108735061,
-    "wof:lastmodified":1514502101,
-    "wof:name":"Mariinskij",
+    "wof:lastmodified":1555047638,
+    "wof:name":"Mariinskiy",
     "wof:parent_id":85688105,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":20800,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

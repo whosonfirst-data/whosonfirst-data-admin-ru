@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.274874,
-    "geom:area_square_m":2169502455.088919,
+    "geom:area_square_m":2169502455.088858,
     "geom:bbox":"41.3840574918,49.9514024891,42.0305170707,50.6908014918",
     "geom:latitude":50.334595,
     "geom:longitude":41.697501,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Nekhaevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.31854,
     "lbl:longitude":41.729133,
     "meso:admin1_en":"Volgogradskaja oblast'",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Nekhaevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Nekhaevskij"
     ],
     "name:ger_x_preferred":[
         "Nechaewski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108735331,
-    "wof:lastmodified":1514502339,
-    "wof:name":"Nekhaevskij",
+    "wof:lastmodified":1555047645,
+    "wof:name":"Nekhaevskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":18900,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

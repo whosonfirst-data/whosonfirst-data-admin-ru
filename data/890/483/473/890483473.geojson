@@ -11,6 +11,18 @@
     "geom:longitude":33.176494,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Okulovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":58.433549,
     "lbl:longitude":33.185563,
     "meso:admin1_en":"Novskaja oblast'",
@@ -47,6 +59,9 @@
     ],
     "name:eng_x_preferred":[
         "Okulovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Okulovskij"
     ],
     "name:est_x_preferred":[
         "Okulovka rajoon"
@@ -133,11 +148,11 @@
         }
     ],
     "wof:id":890483473,
-    "wof:lastmodified":1536617439,
-    "wof:name":"Okulovskij",
+    "wof:lastmodified":1555047545,
+    "wof:name":"Okulovskiy",
     "wof:parent_id":85688095,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":33200,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

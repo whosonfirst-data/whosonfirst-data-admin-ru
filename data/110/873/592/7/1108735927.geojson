@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.388091,
-    "geom:area_square_m":2796214065.301944,
+    "geom:area_square_m":2796214065.301555,
     "geom:bbox":"70.996185,54.094746,72.218396001,54.6905732064",
     "geom:latitude":54.360091,
     "geom:longitude":71.584962,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Poltavskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.371555,
     "lbl:longitude":71.575871,
     "meso:admin1_en":"Omskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Poltavskiy"
+    ],
+    "name:eng_x_variant":[
+        "Poltavskij"
     ],
     "name:ger_x_preferred":[
         "Poltawski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108735927,
-    "wof:lastmodified":1514502689,
-    "wof:name":"Poltavskij",
+    "wof:lastmodified":1555047668,
+    "wof:name":"Poltavskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":27000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.019125,
-    "geom:area_square_m":21112271864.569996,
+    "geom:area_square_m":21112271864.57003,
     "geom:bbox":"35.502223969,63.848534811,42.1353137412,65.961336834",
     "geom:latitude":64.860071,
     "geom:longitude":39.874306,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Primorskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":65.289919,
     "lbl:longitude":40.68562,
     "meso:admin1_en":"Arkhangel'skaja oblast'",
@@ -46,7 +58,11 @@
         "Primorsky District"
     ],
     "name:eng_x_preferred":[
-        "Primorsky District"
+        "Primorskiy"
+    ],
+    "name:eng_x_variant":[
+        "Primorskij",
+        "Primorskiy"
     ],
     "name:est_x_preferred":[
         "Primorski rajoon"
@@ -95,6 +111,7 @@
     "qs:photos_sr":4,
     "qs:placetype":"County",
     "qs:pop_sr":"0",
+    "src:geom":"unknown",
     "src:geom_alt":[
         "quattroshapes"
     ],
@@ -126,10 +143,11 @@
         }
     ],
     "wof:id":890484197,
-    "wof:lastmodified":1553816415,
-    "wof:name":"Primorskij",
+    "wof:lastmodified":1555047549,
+    "wof:name":"Primorskiy",
     "wof:parent_id":85687971,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

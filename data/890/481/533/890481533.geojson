@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.306213,
-    "geom:area_square_m":1905632501.733312,
+    "geom:area_square_m":1905632501.73331,
     "geom:bbox":"28.847154579,59.6195755259,30.2973709458,59.99458313",
     "geom:latitude":59.782363,
     "geom:longitude":29.503801,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":37420,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Lomonosovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":59.812709,
     "lbl:longitude":29.36898,
     "meso:admin1_en":"Leningradskaja oblast'",
@@ -54,7 +60,11 @@
         "Lomonosovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Lomonosovsky District"
+        "Lomonosovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Lomonosovskij",
+        "Lomonosovskiy"
     ],
     "name:est_x_preferred":[
         "Lomonossovi rajoon"
@@ -151,8 +161,8 @@
         }
     ],
     "wof:id":890481533,
-    "wof:lastmodified":1553816413,
-    "wof:name":"Lomonosovskij",
+    "wof:lastmodified":1555047540,
+    "wof:name":"Lomonosovskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",
     "wof:population":37420,

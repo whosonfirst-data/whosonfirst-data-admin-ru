@@ -10,6 +10,18 @@
     "geom:latitude":45.671845,
     "geom:longitude":39.795684,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Vyselkovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":45.666084,
     "lbl:longitude":39.763196,
     "meso:admin1_en":"Krasnodarskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Vyselkovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Vyselkovskij"
     ],
     "name:ger_x_preferred":[
         "Wysselkowski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108737763,
-    "wof:lastmodified":1514503920,
-    "wof:name":"Vyselkovskij",
+    "wof:lastmodified":1555047714,
+    "wof:name":"Vyselkovskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":63800,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

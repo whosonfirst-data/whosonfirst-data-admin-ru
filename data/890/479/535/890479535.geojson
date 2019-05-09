@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.272834,
-    "geom:area_square_m":2100190249.623534,
+    "geom:area_square_m":2100190249.62348,
     "geom:bbox":"45.3098465542,51.18458549,46.3728928344,51.8967448435",
     "geom:latitude":51.498793,
     "geom:longitude":45.808801,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":46257,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Saratovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":51.361462,
     "lbl:longitude":45.675813,
     "meso:admin1_en":"Saratovskaja oblast'",
@@ -48,7 +54,11 @@
         "Saratovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Saratovsky District"
+        "Saratovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Saratovskij",
+        "Saratovskiy"
     ],
     "name:ger_x_preferred":[
         "Saratowski rajon"
@@ -116,8 +126,8 @@
         }
     ],
     "wof:id":890479535,
-    "wof:lastmodified":1514503248,
-    "wof:name":"Saratovskij",
+    "wof:lastmodified":1555047534,
+    "wof:name":"Saratovskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",
     "wof:population":46257,

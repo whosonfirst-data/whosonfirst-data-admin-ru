@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.587791,
-    "geom:area_square_m":4597254329.908267,
+    "geom:area_square_m":4597254329.907973,
     "geom:bbox":"90.6562514769,50.3039737592,93.4118952509,51.1240852955",
     "geom:latitude":50.76345,
     "geom:longitude":92.193072,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ovjurskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.96015,
     "lbl:longitude":92.554468,
     "meso:admin1_en":"Tyva",
@@ -48,7 +60,11 @@
         "Ovjurskiy kozjoeoen"
     ],
     "name:eng_x_preferred":[
-        "Ovyurskiy"
+        "Ovjurskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ovjurskij kozhuun",
+        "Ovjurskiy"
     ],
     "name:est_x_preferred":[
         "Ovjuri ko\u017euun"
@@ -120,11 +136,11 @@
         }
     ],
     "wof:id":1108735735,
-    "wof:lastmodified":1514502601,
-    "wof:name":"Ovjurskij kozhuun",
+    "wof:lastmodified":1555047662,
+    "wof:name":"Ovjurskiy",
     "wof:parent_id":85688039,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":9300,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",

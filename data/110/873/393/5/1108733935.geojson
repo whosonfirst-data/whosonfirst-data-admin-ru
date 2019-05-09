@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.181199,
-    "geom:area_square_m":1364821867.958155,
+    "geom:area_square_m":1364821867.958152,
     "geom:bbox":"39.4228036699,52.2872468581,40.229879634,52.7308718599",
     "geom:latitude":52.472396,
     "geom:longitude":39.867892,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Grjazinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.460091,
     "lbl:longitude":39.928993,
     "meso:admin1_en":"Lipeckaja oblast'",
@@ -48,7 +60,11 @@
         "Grjazinskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Gryazinskiy"
+        "Grjazinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Grjazinskij",
+        "Grjazinskiy"
     ],
     "name:ger_x_preferred":[
         "Grjasinski rajon"
@@ -105,11 +121,11 @@
         }
     ],
     "wof:id":1108733935,
-    "wof:lastmodified":1514501332,
-    "wof:name":"Grjazinskij",
+    "wof:lastmodified":1555047601,
+    "wof:name":"Grjazinskiy",
     "wof:parent_id":85687917,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":31500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

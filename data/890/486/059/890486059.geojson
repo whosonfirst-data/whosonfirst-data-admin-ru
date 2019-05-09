@@ -11,6 +11,18 @@
     "geom:longitude":42.45036,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Malokarachaevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":43.788576,
     "lbl:longitude":42.474046,
     "meso:admin1_en":"Karachaevo-CHerkesskaja respublika",
@@ -46,7 +58,11 @@
         "District Malokarachayevski"
     ],
     "name:eng_x_preferred":[
-        "Malokarachayevskiy"
+        "Malokarachaevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Malokarachaevskij",
+        "Malokarachaevskiy"
     ],
     "name:est_x_preferred":[
         "Malokarat\u0161ajevski rajoon"
@@ -139,11 +155,11 @@
         }
     ],
     "wof:id":890486059,
-    "wof:lastmodified":1536617443,
-    "wof:name":"Malokarachaevskij",
+    "wof:lastmodified":1555047554,
+    "wof:name":"Malokarachaevskiy",
     "wof:parent_id":85687913,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":37900,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

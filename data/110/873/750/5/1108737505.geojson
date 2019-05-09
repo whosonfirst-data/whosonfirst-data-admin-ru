@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.323656,
-    "geom:area_square_m":2225246882.158845,
+    "geom:area_square_m":2225246882.15892,
     "geom:bbox":"41.552801212,55.9039606565,42.5789565639,56.4501070036",
     "geom:latitude":56.218603,
     "geom:longitude":42.040191,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Vjaznikovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.177624,
     "lbl:longitude":42.005345,
     "meso:admin1_en":"Vladimirskaja oblast'",
@@ -48,7 +60,11 @@
         "Vjaznikovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Vyaznikovskiy"
+        "Vjaznikovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Vjaznikovskij",
+        "Vjaznikovskiy"
     ],
     "name:ger_x_preferred":[
         "Wjasnikowski rajon"
@@ -111,11 +127,11 @@
         }
     ],
     "wof:id":1108737505,
-    "wof:lastmodified":1514503870,
-    "wof:name":"Vjaznikovskij",
+    "wof:lastmodified":1555047712,
+    "wof:name":"Vjaznikovskiy",
     "wof:parent_id":85687981,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":56000,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

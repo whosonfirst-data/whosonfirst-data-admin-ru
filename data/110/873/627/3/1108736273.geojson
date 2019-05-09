@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.373548,
-    "geom:area_square_m":2498521605.031898,
+    "geom:area_square_m":2498521605.031835,
     "geom:bbox":"35.765280989,56.9642000681,36.7908678811,57.5461574011",
     "geom:latitude":57.253429,
     "geom:longitude":36.275293,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Rameshkovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.261717,
     "lbl:longitude":36.265382,
     "meso:admin1_en":"Tverskaja oblast'",
@@ -52,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Rameshkovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Rameshkovskij"
     ],
     "name:fin_x_preferred":[
         "Rame\u0161kin piiri"
@@ -114,11 +129,11 @@
         }
     ],
     "wof:id":1108736273,
-    "wof:lastmodified":1514502758,
-    "wof:name":"Rameshkovskij",
+    "wof:lastmodified":1555047675,
+    "wof:name":"Rameshkovskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":16600,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

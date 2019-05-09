@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.29608,
-    "geom:area_square_m":1959916435.749118,
+    "geom:area_square_m":1959916435.748969,
     "geom:bbox":"56.9958990873,57.416576044,58.1195984242,57.8810643307",
     "geom:latitude":57.633139,
     "geom:longitude":57.542533,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Berezovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.619369,
     "lbl:longitude":57.597577,
     "meso:admin1_en":"Permskij kraj",
@@ -37,6 +49,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Berezovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Berezovskij"
     ],
     "name:und_x_variant":[
         "\u0411\u0435\u0440\u0435\u0437\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108732973,
-    "wof:lastmodified":1505431704,
-    "wof:name":"Berezovskij",
+    "wof:lastmodified":1555047573,
+    "wof:name":"Berezovskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":19800,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

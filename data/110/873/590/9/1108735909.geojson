@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.424173,
-    "geom:area_square_m":3734980037.271837,
+    "geom:area_square_m":3734980037.271171,
     "geom:bbox":"130.956771,44.2053680579,131.928927473,44.987801",
     "geom:latitude":44.593162,
     "geom:longitude":131.437335,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Pogranichnyj District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":44.535263,
     "lbl:longitude":131.44455,
     "meso:admin1_en":"Primorskij kraj",
@@ -51,6 +63,9 @@
         "Pogranitsjniy rayon"
     ],
     "name:eng_x_preferred":[
+        "Pogranichnyj"
+    ],
+    "name:eng_x_variant":[
         "Pogranichnyy"
     ],
     "name:est_x_preferred":[
@@ -120,11 +135,11 @@
         }
     ],
     "wof:id":1108735909,
-    "wof:lastmodified":1514502684,
+    "wof:lastmodified":1555047668,
     "wof:name":"Pogranichnyj",
     "wof:parent_id":85688023,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":24500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

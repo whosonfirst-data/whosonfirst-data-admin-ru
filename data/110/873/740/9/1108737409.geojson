@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.450815,
-    "geom:area_square_m":2965577997.943127,
+    "geom:area_square_m":2965577997.943159,
     "geom:bbox":"44.8029952719,57.5556399055,46.2184064604,58.0950964426",
     "geom:latitude":57.859344,
     "geom:longitude":45.4886,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Vetluzhskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.827812,
     "lbl:longitude":45.404745,
     "meso:admin1_en":"Nizheskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Vetluzhskiy"
+    ],
+    "name:eng_x_variant":[
+        "Vetluzhskij"
     ],
     "name:ger_x_preferred":[
         "Wetluschski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108737409,
-    "wof:lastmodified":1514503861,
-    "wof:name":"Vetluzhskij",
+    "wof:lastmodified":1555047711,
+    "wof:name":"Vetluzhskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":20600,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

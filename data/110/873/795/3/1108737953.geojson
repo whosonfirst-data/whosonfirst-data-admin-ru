@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.297888,
-    "geom:area_square_m":2221795674.706066,
+    "geom:area_square_m":2221795674.706113,
     "geom:bbox":"80.4423900313,52.6076650967,81.4886495192,53.1350215546",
     "geom:latitude":52.901593,
     "geom:longitude":80.908796,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Zav'jalovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.896623,
     "lbl:longitude":80.785939,
     "meso:admin1_en":"Altajskij kraj",
@@ -45,7 +57,11 @@
         "Zavjalovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Zav'yalovskiy"
+        "Zav'jalovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Zav'jalovskij",
+        "Zav'jalovskiy"
     ],
     "name:ger_x_preferred":[
         "Sawjalowski rajon"
@@ -99,11 +115,11 @@
         }
     ],
     "wof:id":1108737953,
-    "wof:lastmodified":1514504122,
-    "wof:name":"Zav'jalovskij",
+    "wof:lastmodified":1555047716,
+    "wof:name":"Zav'jalovskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":15500,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

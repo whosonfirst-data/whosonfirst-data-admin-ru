@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.641869,
-    "geom:area_square_m":17142164713.194237,
+    "geom:area_square_m":17142164713.194792,
     "geom:bbox":"65.949650821,57.5486061966,69.1701741421,59.1659359896",
     "geom:latitude":58.347868,
     "geom:longitude":67.642281,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Tobol'skiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":58.47121,
     "lbl:longitude":67.67733,
     "meso:admin1_en":"Tjumenskaja oblast'",
@@ -49,7 +61,11 @@
         "Tobolskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Tobolsky District"
+        "Tobol'skiy"
+    ],
+    "name:eng_x_variant":[
+        "Tobol'skij",
+        "Tobol'skiy"
     ],
     "name:ger_x_preferred":[
         "Tobolski rajon"
@@ -114,10 +130,11 @@
         }
     ],
     "wof:id":890485663,
-    "wof:lastmodified":1527727134,
-    "wof:name":"Tobol'skij",
+    "wof:lastmodified":1555047553,
+    "wof:name":"Tobol'skiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

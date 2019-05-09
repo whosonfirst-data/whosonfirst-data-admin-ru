@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.412464,
-    "geom:area_square_m":3105629247.281814,
+    "geom:area_square_m":3105629247.28186,
     "geom:bbox":"79.6361221521,52.2116645456,80.8528742884,52.8771393299",
     "geom:latitude":52.488221,
     "geom:longitude":80.257265,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Rodinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.486995,
     "lbl:longitude":80.266398,
     "meso:admin1_en":"Altajskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Rodinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Rodinskij"
     ],
     "name:ger_x_preferred":[
         "Rodinski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108736295,
-    "wof:lastmodified":1514502765,
-    "wof:name":"Rodinskij",
+    "wof:lastmodified":1555047676,
+    "wof:name":"Rodinskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":46000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.50471,
-    "geom:area_square_m":4163604520.592602,
+    "geom:area_square_m":4163604520.592459,
     "geom:bbox":"44.9628438869,47.7142551547,46.2994176975,48.5159735464",
     "geom:latitude":48.151904,
     "geom:longitude":45.68076,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Chernojarskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":48.010854,
     "lbl:longitude":45.9695,
     "meso:admin1_en":"Astrakhanskaja oblast'",
@@ -48,7 +60,11 @@
         "Tsjernojarskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Chernoyarskiy"
+        "Chernojarskiy"
+    ],
+    "name:eng_x_variant":[
+        "CHernojarskij",
+        "Chernojarskiy"
     ],
     "name:ger_x_preferred":[
         "Tschernojarski rajon"
@@ -111,11 +127,11 @@
         }
     ],
     "wof:id":1108733257,
-    "wof:lastmodified":1514500913,
-    "wof:name":"CHernojarskij",
+    "wof:lastmodified":1555047583,
+    "wof:name":"Chernojarskiy",
     "wof:parent_id":85687985,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":21600,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

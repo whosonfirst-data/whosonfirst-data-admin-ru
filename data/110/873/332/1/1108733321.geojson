@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.136919,
-    "geom:area_square_m":1254476392.618206,
+    "geom:area_square_m":1254476392.618007,
     "geom:bbox":"45.606124,41.985324,46.2760878427,42.4045239678",
     "geom:latitude":42.186309,
     "geom:longitude":45.956107,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Cuntinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":42.197461,
     "lbl:longitude":45.956191,
     "meso:admin1_en":"Dagestan",
@@ -54,7 +66,11 @@
         "District Tsoentinski"
     ],
     "name:eng_x_preferred":[
-        "Tsuntinskiy"
+        "Cuntinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Cuntinskij",
+        "Cuntinskiy"
     ],
     "name:est_x_preferred":[
         "Tsunta rajoon"
@@ -135,11 +151,11 @@
         }
     ],
     "wof:id":1108733321,
-    "wof:lastmodified":1514501117,
-    "wof:name":"Cuntinskij",
+    "wof:lastmodified":1555047586,
+    "wof:name":"Cuntinskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":16500,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

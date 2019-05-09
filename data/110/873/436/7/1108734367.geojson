@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05424,
-    "geom:area_square_m":500191814.108886,
+    "geom:area_square_m":500191814.108821,
     "geom:bbox":"47.7276352693,41.6478507366,48.1790398763,41.8923793465",
     "geom:latitude":41.773618,
     "geom:longitude":47.93177,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Khivskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":41.76131,
     "lbl:longitude":47.924729,
     "meso:admin1_en":"Dagestan",
@@ -55,6 +67,9 @@
     ],
     "name:eng_x_preferred":[
         "Khivskiy"
+    ],
+    "name:eng_x_variant":[
+        "KHivskij"
     ],
     "name:est_x_preferred":[
         "Hivi rajoon"
@@ -132,11 +147,11 @@
         }
     ],
     "wof:id":1108734367,
-    "wof:lastmodified":1514501436,
-    "wof:name":"KHivskij",
+    "wof:lastmodified":1555047617,
+    "wof:name":"Khivskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":19600,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

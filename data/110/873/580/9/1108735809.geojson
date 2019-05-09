@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.482747,
-    "geom:area_square_m":3553412421.202894,
+    "geom:area_square_m":3553412421.202552,
     "geom:bbox":"83.6578503723,52.8617164268,84.530017181,53.976897296",
     "geom:latitude":53.466511,
     "geom:longitude":84.068963,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Pervomajskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":53.496634,
     "lbl:longitude":84.14727,
     "meso:admin1_en":"Altajskij kraj",
@@ -45,7 +51,11 @@
         "Pervomayskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Pervomaysky District"
+        "Pervomajskiy"
+    ],
+    "name:eng_x_variant":[
+        "Pervomajskij",
+        "Pervomajskiy"
     ],
     "name:ger_x_preferred":[
         "Perwomajski rajon"
@@ -90,8 +100,8 @@
         }
     ],
     "wof:id":1108735809,
-    "wof:lastmodified":1514502640,
-    "wof:name":"Pervomajskij",
+    "wof:lastmodified":1555047664,
+    "wof:name":"Pervomajskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ru",

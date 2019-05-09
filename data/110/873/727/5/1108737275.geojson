@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.359206,
-    "geom:area_square_m":2420940159.397033,
+    "geom:area_square_m":2420940159.396882,
     "geom:bbox":"51.8577318939,56.623438824,52.7561521369,57.3088461751",
     "geom:latitude":56.971493,
     "geom:longitude":52.361907,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Uvinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.994039,
     "lbl:longitude":52.4301,
     "meso:admin1_en":"Udmurtskaja respublika",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Uvinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Uvinskij"
     ],
     "name:est_x_preferred":[
         "Uva rajoon"
@@ -117,11 +132,11 @@
         }
     ],
     "wof:id":1108737275,
-    "wof:lastmodified":1514503821,
-    "wof:name":"Uvinskij",
+    "wof:lastmodified":1555047708,
+    "wof:name":"Uvinskiy",
     "wof:parent_id":85687787,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":42100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

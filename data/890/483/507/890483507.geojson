@@ -11,6 +11,18 @@
     "geom:longitude":42.50351,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Navashinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.613393,
     "lbl:longitude":42.29967,
     "meso:admin1_en":"Nizheskaja oblast'",
@@ -38,6 +50,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Navashinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Navashinskij"
     ],
     "name:und_x_variant":[
         "\u041d\u0430\u0432\u0430\u0448\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -97,11 +112,11 @@
         }
     ],
     "wof:id":890483507,
-    "wof:lastmodified":1536617439,
-    "wof:name":"Navashinskij",
+    "wof:lastmodified":1555047546,
+    "wof:name":"Navashinskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":29300,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

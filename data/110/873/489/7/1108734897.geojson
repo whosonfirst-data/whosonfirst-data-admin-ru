@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.202235,
-    "geom:area_square_m":1350773383.466088,
+    "geom:area_square_m":1350773383.466003,
     "geom:bbox":"49.1398731477,57.0079932364,49.8760501117,57.5495426389",
     "geom:latitude":57.305177,
     "geom:longitude":49.468409,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Lebjazhskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.372047,
     "lbl:longitude":49.524069,
     "meso:admin1_en":"Kirovskaja oblast'",
@@ -45,7 +57,11 @@
         "Lebjazjskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Lebyazhskiy"
+        "Lebjazhskiy"
+    ],
+    "name:eng_x_variant":[
+        "Lebjazhskij",
+        "Lebjazhskiy"
     ],
     "name:ger_x_preferred":[
         "Lebjaschski rajon"
@@ -105,11 +121,11 @@
         }
     ],
     "wof:id":1108734897,
-    "wof:lastmodified":1514502009,
-    "wof:name":"Lebjazhskij",
+    "wof:lastmodified":1555047633,
+    "wof:name":"Lebjazhskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":11900,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

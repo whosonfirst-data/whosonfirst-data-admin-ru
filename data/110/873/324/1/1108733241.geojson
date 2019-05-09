@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.189113,
-    "geom:area_square_m":7555397437.16224,
+    "geom:area_square_m":7555397437.162504,
     "geom:bbox":"36.9323462404,58.479568473,39.0270907974,59.7536370203",
     "geom:latitude":59.079181,
     "geom:longitude":37.868389,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Cherepoveckij District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":58.89433,
     "lbl:longitude":37.622998,
     "meso:admin1_en":"Vologodskaja oblast'",
@@ -51,7 +63,11 @@
         "Tsjerepovetskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Cherepovets"
+        "Cherepoveckij"
+    ],
+    "name:eng_x_variant":[
+        "CHerepoveckij",
+        "Cherepoveckij"
     ],
     "name:ger_x_preferred":[
         "Tscherepowezki rajon"
@@ -111,11 +127,11 @@
         }
     ],
     "wof:id":1108733241,
-    "wof:lastmodified":1514500911,
-    "wof:name":"CHerepoveckij",
+    "wof:lastmodified":1555047583,
+    "wof:name":"Cherepoveckij",
     "wof:parent_id":85687853,
     "wof:placetype":"county",
-    "wof:placetype_local":"gorod",
+    "wof:placetype_local":"district",
     "wof:population":324400,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ru",

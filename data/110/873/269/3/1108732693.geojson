@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.266693,
-    "geom:area_square_m":1823374250.762047,
+    "geom:area_square_m":1823374250.762034,
     "geom:bbox":"38.2749823861,56.1743000363,39.2659752503,56.7095617112",
     "geom:latitude":56.432234,
     "geom:longitude":38.723272,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Aleksandrovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.425922,
     "lbl:longitude":38.689947,
     "meso:admin1_en":"Vladimirskaja oblast'",
@@ -48,7 +60,11 @@
         "Aleksandrovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Aleksandrov"
+        "Aleksandrovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Aleksandrovskij",
+        "Aleksandrovskiy"
     ],
     "name:ger_x_preferred":[
         "Aleksandrowski rajon"
@@ -108,11 +124,11 @@
         }
     ],
     "wof:id":1108732693,
-    "wof:lastmodified":1514500484,
-    "wof:name":"Aleksandrovskij",
+    "wof:lastmodified":1555047563,
+    "wof:name":"Aleksandrovskiy",
     "wof:parent_id":85687981,
     "wof:placetype":"county",
-    "wof:placetype_local":"gorod",
+    "wof:placetype_local":"district",
     "wof:population":67600,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

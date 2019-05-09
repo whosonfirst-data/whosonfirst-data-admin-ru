@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.122134,
-    "geom:area_square_m":844460247.074431,
+    "geom:area_square_m":844460247.074426,
     "geom:bbox":"46.490893512,55.8168583177,46.983208457,56.2306745286",
     "geom:latitude":56.001588,
     "geom:longitude":46.759493,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Morgaushskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.983821,
     "lbl:longitude":46.754837,
     "meso:admin1_en":"CHuvashija",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Morgaushskiy"
+    ],
+    "name:eng_x_variant":[
+        "Morgaushskij"
     ],
     "name:est_x_preferred":[
         "Morgau\u0161i rajoon"
@@ -126,11 +141,11 @@
         }
     ],
     "wof:id":1108735197,
-    "wof:lastmodified":1514502192,
-    "wof:name":"Morgaushskij",
+    "wof:lastmodified":1555047642,
+    "wof:name":"Morgaushskiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":37200,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

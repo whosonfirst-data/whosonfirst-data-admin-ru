@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.254663,
-    "geom:area_square_m":2190977327.857985,
+    "geom:area_square_m":2190977327.857815,
     "geom:bbox":"38.6064444464,45.7063984456,39.5310457814,46.1989459071",
     "geom:latitude":45.91018,
     "geom:longitude":39.024516,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Brjukhoveckij District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":45.951521,
     "lbl:longitude":38.916236,
     "meso:admin1_en":"Krasnodarskij kraj",
@@ -48,6 +60,9 @@
         "District Brjoekchovetski"
     ],
     "name:eng_x_preferred":[
+        "Brjukhoveckij"
+    ],
+    "name:eng_x_variant":[
         "Bryukhovetskiy"
     ],
     "name:ger_x_preferred":[
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108733111,
-    "wof:lastmodified":1514500793,
+    "wof:lastmodified":1555047577,
     "wof:name":"Brjukhoveckij",
     "wof:parent_id":85688029,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":52500,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

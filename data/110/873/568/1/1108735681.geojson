@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.79813,
-    "geom:area_square_m":5110919769.130515,
+    "geom:area_square_m":5110919769.130386,
     "geom:bbox":"51.4752437871,58.3929155195,53.0831906396,59.2193156623",
     "geom:latitude":58.809986,
     "geom:longitude":52.304686,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Omutninskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":58.811266,
     "lbl:longitude":52.289295,
     "meso:admin1_en":"Kirovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Omutninskiy"
+    ],
+    "name:eng_x_variant":[
+        "Omutninskij"
     ],
     "name:ger_x_preferred":[
         "Omutninski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108735681,
-    "wof:lastmodified":1514502570,
-    "wof:name":"Omutninskij",
+    "wof:lastmodified":1555047660,
+    "wof:name":"Omutninskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":56600,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

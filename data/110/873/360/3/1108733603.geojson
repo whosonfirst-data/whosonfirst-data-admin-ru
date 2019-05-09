@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11456,
-    "geom:area_square_m":853550708.272488,
+    "geom:area_square_m":853550708.272445,
     "geom:bbox":"31.6820882412,52.7051548119,32.1645881106,53.126329378",
     "geom:latitude":52.947075,
     "geom:longitude":31.895162,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Gordeevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.960919,
     "lbl:longitude":31.871436,
     "meso:admin1_en":"Brjanskaja oblast'",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Gordeevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Gordeevskij"
     ],
     "name:ger_x_preferred":[
         "Gordejewski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108733603,
-    "wof:lastmodified":1514501265,
-    "wof:name":"Gordeevskij",
+    "wof:lastmodified":1555047595,
+    "wof:name":"Gordeevskiy",
     "wof:parent_id":85688121,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14200,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

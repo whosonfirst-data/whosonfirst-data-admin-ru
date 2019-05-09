@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005029,
-    "geom:area_square_m":32508570.766671,
+    "geom:area_square_m":32508570.766666,
     "geom:bbox":"41.4749631425,58.4428029266,41.5769427139,58.5179391254",
     "geom:latitude":58.483623,
     "geom:longitude":41.53136,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Buj District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":58.483152,
     "lbl:longitude":41.542519,
     "meso:admin1_en":"Kostromskaja oblast'",
@@ -36,6 +48,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
+        "Buj"
+    ],
+    "name:eng_x_variant":[
         "Buyskiy"
     ],
     "name:und_x_variant":[
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108733711,
-    "wof:lastmodified":1505431715,
+    "wof:lastmodified":1555047597,
     "wof:name":"Buj",
     "wof:parent_id":85688115,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":10800,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

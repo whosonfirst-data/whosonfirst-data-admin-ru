@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.998555,
-    "geom:area_square_m":7297467281.774266,
+    "geom:area_square_m":7297467281.774378,
     "geom:bbox":"89.1669100424,53.3743839202,91.5067587669,54.0846096127",
     "geom:latitude":53.770738,
     "geom:longitude":90.380543,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ust'-Abakanskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.72085,
     "lbl:longitude":90.111845,
     "meso:admin1_en":"Respublika KHakasija",
@@ -46,7 +58,11 @@
         "Oest-Abakanskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Ust-Abakansky District"
+        "Ust'-Abakanskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ust'-Abakanskij",
+        "Ust'-Abakanskiy"
     ],
     "name:est_x_preferred":[
         "Ust-Abakani rajoon"
@@ -120,10 +136,11 @@
         }
     ],
     "wof:id":890482621,
-    "wof:lastmodified":1527727138,
-    "wof:name":"Ust'-Abakanskij",
+    "wof:lastmodified":1555047542,
+    "wof:name":"Ust'-Abakanskiy",
     "wof:parent_id":85688061,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

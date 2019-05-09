@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.553735,
-    "geom:area_square_m":4660663119.525043,
+    "geom:area_square_m":4660663119.524968,
     "geom:bbox":"43.2569759404,46.7184079673,44.3295126317,47.5544076692",
     "geom:latitude":47.10266,
     "geom:longitude":43.8564,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Zavetinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":47.011922,
     "lbl:longitude":43.803048,
     "meso:admin1_en":"Rostovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Zavetinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Zavetinskij"
     ],
     "name:ger_x_preferred":[
         "Sawetinski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108737977,
-    "wof:lastmodified":1514504122,
-    "wof:name":"Zavetinskij",
+    "wof:lastmodified":1555047716,
+    "wof:name":"Zavetinskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":18800,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

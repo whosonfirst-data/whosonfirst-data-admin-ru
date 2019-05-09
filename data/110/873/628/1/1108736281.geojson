@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119761,
-    "geom:area_square_m":928812416.294905,
+    "geom:area_square_m":928812416.294956,
     "geom:bbox":"38.3779723018,50.9993346277,38.9801676537,51.3320812795",
     "geom:latitude":51.15534,
     "geom:longitude":38.701655,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Rep'jovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.176072,
     "lbl:longitude":38.707473,
     "meso:admin1_en":"Voronezhskaja oblast'",
@@ -45,7 +57,11 @@
         "Repyovsky District"
     ],
     "name:eng_x_preferred":[
-        "Rep'evskiy"
+        "Rep'jovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Rep'jovskij",
+        "Rep'jovskiy"
     ],
     "name:ger_x_preferred":[
         "Repjowski rajon"
@@ -99,11 +115,11 @@
         }
     ],
     "wof:id":1108736281,
-    "wof:lastmodified":1514502762,
-    "wof:name":"Rep'jovskij",
+    "wof:lastmodified":1555047675,
+    "wof:name":"Rep'jovskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":18200,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135479,
-    "geom:area_square_m":967246031.735188,
+    "geom:area_square_m":967246031.73518,
     "geom:bbox":"38.535706286,54.5916332589,39.2556938838,54.9065144764",
     "geom:latitude":54.733236,
     "geom:longitude":38.899666,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Zarajskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.740789,
     "lbl:longitude":38.870566,
     "meso:admin1_en":"Moskovskaja oblast'",
@@ -48,7 +60,11 @@
         "Zaraysky District"
     ],
     "name:eng_x_preferred":[
-        "Zarayskiy"
+        "Zarajskiy"
+    ],
+    "name:eng_x_variant":[
+        "Zarajskij",
+        "Zarajskiy"
     ],
     "name:fin_x_preferred":[
         "Zaraiskin piiri"
@@ -114,11 +130,11 @@
         }
     ],
     "wof:id":1108737883,
-    "wof:lastmodified":1514504119,
-    "wof:name":"Zarajskij",
+    "wof:lastmodified":1555047716,
+    "wof:name":"Zarajskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":17600,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.135777,
-    "geom:area_square_m":13118471716.748783,
+    "geom:area_square_m":13118471716.74802,
     "geom:bbox":"48.4188262045,59.1970591084,50.4631713887,61.1356453131",
     "geom:latitude":60.214711,
     "geom:longitude":49.28776,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Priluzskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":60.190595,
     "lbl:longitude":49.302681,
     "meso:admin1_en":"Respublika Komi",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Priluzskiy"
+    ],
+    "name:eng_x_variant":[
+        "Priluzskij"
     ],
     "name:est_x_preferred":[
         "Priluzski rajoon"
@@ -117,11 +132,11 @@
         }
     ],
     "wof:id":1108735979,
-    "wof:lastmodified":1514502707,
-    "wof:name":"Priluzskij",
+    "wof:lastmodified":1555047670,
+    "wof:name":"Priluzskiy",
     "wof:parent_id":85688077,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":28000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15721,
-    "geom:area_square_m":1201927171.424355,
+    "geom:area_square_m":1201927171.424282,
     "geom:bbox":"37.3318817892,51.5555347772,37.9240830687,52.0202465103",
     "geom:latitude":51.80819,
     "geom:longitude":37.623084,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Sovetskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.833799,
     "lbl:longitude":37.618574,
     "meso:admin1_en":"Kurskaja oblast'",
@@ -52,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Sovetskiy"
+    ],
+    "name:eng_x_variant":[
+        "Sovetskij"
     ],
     "name:ger_x_preferred":[
         "Sowetski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108736753,
-    "wof:lastmodified":1553816507,
-    "wof:name":"Sovetskij",
+    "wof:lastmodified":1555047686,
+    "wof:name":"Sovetskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":24900,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

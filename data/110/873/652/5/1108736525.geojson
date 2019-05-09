@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.202506,
-    "geom:area_square_m":1428864964.594136,
+    "geom:area_square_m":1428864964.594149,
     "geom:bbox":"43.7752600258,55.0195246615,44.8243084543,55.3772199055",
     "geom:latitude":55.206027,
     "geom:longitude":44.241845,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Shatkovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.178075,
     "lbl:longitude":44.206091,
     "meso:admin1_en":"Nizheskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Shatkovskiy"
+    ],
+    "name:eng_x_variant":[
+        "SHatkovskij"
     ],
     "name:ger_x_preferred":[
         "Schatkowski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108736525,
-    "wof:lastmodified":1514502811,
-    "wof:name":"SHatkovskij",
+    "wof:lastmodified":1554506326,
+    "wof:name":"Shatkovskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":29700,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

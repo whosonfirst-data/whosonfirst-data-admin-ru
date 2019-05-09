@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.306146,
-    "geom:area_square_m":2318851852.732882,
+    "geom:area_square_m":2318851852.732715,
     "geom:bbox":"44.8505528539,51.9370358799,45.8470454024,52.5081576748",
     "geom:latitude":52.225634,
     "geom:longitude":45.357443,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Petrovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.194526,
     "lbl:longitude":45.365157,
     "meso:admin1_en":"Saratovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Petrovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Petrovskij"
     ],
     "name:ger_x_preferred":[
         "Petrowski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108735849,
-    "wof:lastmodified":1514502655,
-    "wof:name":"Petrovskij",
+    "wof:lastmodified":1555047666,
+    "wof:name":"Petrovskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":16000,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

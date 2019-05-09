@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.394619,
-    "geom:area_square_m":2802532936.461652,
+    "geom:area_square_m":2802532936.461314,
     "geom:bbox":"82.1976583948,54.5589504854,83.5228224984,55.4431823353",
     "geom:latitude":54.946109,
     "geom:longitude":82.872862,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Novosibirskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":54.83288,
     "lbl:longitude":82.751398,
     "meso:admin1_en":"Novosibirskaja oblast'",
@@ -48,7 +54,11 @@
         "Novosibirskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Novosibirsky District"
+        "Novosibirskiy"
+    ],
+    "name:eng_x_variant":[
+        "Novosibirskij",
+        "Novosibirskiy"
     ],
     "name:ger_x_preferred":[
         "Nowosibirski rajon"
@@ -112,8 +122,8 @@
         }
     ],
     "wof:id":890478807,
-    "wof:lastmodified":1514502509,
-    "wof:name":"Novosibirskij",
+    "wof:lastmodified":1555047532,
+    "wof:name":"Novosibirskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",
     "wof:population":0,

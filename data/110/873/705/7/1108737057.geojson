@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.387942,
-    "geom:area_square_m":3197870588.965772,
+    "geom:area_square_m":3197870588.965256,
     "geom:bbox":"141.93466356,47.4921162617,142.498008422,48.7883603283",
     "geom:latitude":48.190511,
     "geom:longitude":142.239988,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Tomarinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":48.510134,
     "lbl:longitude":142.25906,
     "meso:admin1_en":"Sakhalinskaja oblast'",
@@ -37,6 +49,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Tomarinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Tomarinskij"
     ],
     "name:und_x_variant":[
         "\u0422\u043e\u043c\u0430\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108737057,
-    "wof:lastmodified":1505431764,
-    "wof:name":"Tomarinskij",
+    "wof:lastmodified":1555047700,
+    "wof:name":"Tomarinskiy",
     "wof:parent_id":85688125,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14300,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

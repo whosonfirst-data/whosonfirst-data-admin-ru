@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":19.700118,
-    "geom:area_square_m":115881177622.791946,
+    "geom:area_square_m":115881177622.791565,
     "geom:bbox":"74.4974276076,59.6587673534,85.9873284273,63.1689809162",
     "geom:latitude":61.592311,
     "geom:longitude":79.741581,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Nizhnevartovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":61.885183,
     "lbl:longitude":80.582965,
     "meso:admin1_en":"KHanty-Mansijskij avtonomnyj okrug - JUgra",
@@ -45,7 +57,11 @@
         "Nizjnevartovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Nizhnevartovsk"
+        "Nizhnevartovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Nizhnevartovskij",
+        "Nizhnevartovskiy"
     ],
     "name:est_x_preferred":[
         "Ni\u017enevartovski rajoon"
@@ -117,11 +133,11 @@
         }
     ],
     "wof:id":1108735403,
-    "wof:lastmodified":1514502439,
-    "wof:name":"Nizhnevartovskij",
+    "wof:lastmodified":1555047648,
+    "wof:name":"Nizhnevartovskiy",
     "wof:parent_id":85687919,
     "wof:placetype":"county",
-    "wof:placetype_local":"gorod",
+    "wof:placetype_local":"district",
     "wof:population":233900,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ru",

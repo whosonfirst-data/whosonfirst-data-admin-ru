@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066864,
-    "geom:area_square_m":608614616.435795,
+    "geom:area_square_m":608614616.435779,
     "geom:bbox":"45.5159983715,42.475619,46.0308186074,42.7202714622",
     "geom:latitude":42.597689,
     "geom:longitude":45.780182,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Sovetskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":42.580738,
     "lbl:longitude":45.776262,
     "meso:admin1_en":"CHechenskaja respublika",
@@ -51,7 +63,12 @@
         "District Sjarojski"
     ],
     "name:eng_x_preferred":[
-        "Shatoyskiy (Sovetskiy)"
+        "Sovetskiy"
+    ],
+    "name:eng_x_variant":[
+        "SHarojskij",
+        "Shatoyskiy (Sovetskiy)",
+        "Sovetskiy"
     ],
     "name:ger_x_preferred":[
         "Scharoiski rajon"
@@ -120,11 +137,11 @@
         }
     ],
     "wof:id":1108736517,
-    "wof:lastmodified":1514502809,
-    "wof:name":"SHarojskij",
+    "wof:lastmodified":1555047681,
+    "wof:name":"Sovetskiy",
     "wof:parent_id":85688015,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":9000,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",

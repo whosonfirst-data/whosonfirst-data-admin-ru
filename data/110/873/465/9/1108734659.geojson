@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.208432,
-    "geom:area_square_m":1494210108.597385,
+    "geom:area_square_m":1494210108.597349,
     "geom:bbox":"30.9578140444,54.316798678,31.8730085196,54.7971192173",
     "geom:latitude":54.566363,
     "geom:longitude":31.4255,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Krasninskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.511238,
     "lbl:longitude":31.41838,
     "meso:admin1_en":"Smolenskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Krasninskiy"
+    ],
+    "name:eng_x_variant":[
+        "Krasninskij"
     ],
     "name:ger_x_preferred":[
         "Krasninski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108734659,
-    "wof:lastmodified":1553816504,
-    "wof:name":"Krasninskij",
+    "wof:lastmodified":1555047625,
+    "wof:name":"Krasninskiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":18000,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138691,
-    "geom:area_square_m":1005459143.926522,
+    "geom:area_square_m":1005459143.926509,
     "geom:bbox":"40.6744731793,53.9444210856,41.5247195179,54.2806993862",
     "geom:latitude":54.105412,
     "geom:longitude":41.103336,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Putjatinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.131706,
     "lbl:longitude":41.109744,
     "meso:admin1_en":"Rjazanskaja oblast'",
@@ -48,7 +60,11 @@
         "District Putjatinski"
     ],
     "name:eng_x_preferred":[
-        "Putyatinskiy"
+        "Putjatinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Putjatinskij",
+        "Putjatinskiy"
     ],
     "name:ger_x_preferred":[
         "Putjatinski rajon"
@@ -102,11 +118,11 @@
         }
     ],
     "wof:id":1108736033,
-    "wof:lastmodified":1514502749,
-    "wof:name":"Putjatinskij",
+    "wof:lastmodified":1555047671,
+    "wof:name":"Putjatinskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":10200,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073808,
-    "geom:area_square_m":663824679.851105,
+    "geom:area_square_m":663824679.851086,
     "geom:bbox":"45.9197550754,43.1733296238,46.4228718874,43.4664905032",
     "geom:latitude":43.334657,
     "geom:longitude":46.20602,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":72881,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Gudermesskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":43.33463,
     "lbl:longitude":46.265094,
     "meso:admin1_en":"CHechenskaja respublika",
@@ -51,7 +57,11 @@
         "District Goedermesski"
     ],
     "name:eng_x_preferred":[
-        "Gudermessky District"
+        "Gudermesskiy"
+    ],
+    "name:eng_x_variant":[
+        "Gudermesskij",
+        "Gudermesskiy"
     ],
     "name:est_x_preferred":[
         "Gudermessi rajoon"
@@ -130,8 +140,8 @@
         }
     ],
     "wof:id":890480749,
-    "wof:lastmodified":1514501345,
-    "wof:name":"Gudermesskij",
+    "wof:lastmodified":1555047539,
+    "wof:name":"Gudermesskiy",
     "wof:parent_id":85688015,
     "wof:placetype":"county",
     "wof:population":72881,

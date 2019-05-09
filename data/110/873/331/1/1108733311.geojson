@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.180165,
-    "geom:area_square_m":1292173733.941037,
+    "geom:area_square_m":1292173733.941032,
     "geom:bbox":"47.5206747264,54.3372962359,48.2730085946,54.7728518312",
     "geom:latitude":54.547452,
     "geom:longitude":47.885593,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Cil'ninskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.503777,
     "lbl:longitude":47.760548,
     "meso:admin1_en":"Ul'janovskaja oblast'",
@@ -48,7 +60,11 @@
         "Tsilninskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Tsil'ninskiy"
+        "Cil'ninskiy"
+    ],
+    "name:eng_x_variant":[
+        "Cil'ninskij",
+        "Cil'ninskiy"
     ],
     "name:est_x_preferred":[
         "Tsilna rajoon"
@@ -117,11 +133,11 @@
         }
     ],
     "wof:id":1108733311,
-    "wof:lastmodified":1514501113,
-    "wof:name":"Cil'ninskij",
+    "wof:lastmodified":1555047585,
+    "wof:name":"Cil'ninskiy",
     "wof:parent_id":85687907,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":30600,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

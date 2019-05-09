@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06699,
-    "geom:area_square_m":612253885.274804,
+    "geom:area_square_m":612253885.274739,
     "geom:bbox":"46.7374278947,42.1704370365,47.1106981582,42.4846424695",
     "geom:latitude":42.342363,
     "geom:longitude":46.926656,
@@ -13,6 +13,18 @@
     "gn:fcode":"ADM2",
     "gn:pop":25040,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Gunibskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":42.309791,
     "lbl:longitude":46.957804,
     "meso:admin1_en":"Dagestan",
@@ -58,6 +70,9 @@
     ],
     "name:eng_x_preferred":[
         "Gunibskiy"
+    ],
+    "name:eng_x_variant":[
+        "Gunibskij"
     ],
     "name:est_x_preferred":[
         "Gunibi rajoon"
@@ -154,11 +169,11 @@
         }
     ],
     "wof:id":890480743,
-    "wof:lastmodified":1553816413,
-    "wof:name":"Gunibskij",
+    "wof:lastmodified":1555047539,
+    "wof:name":"Gunibskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":16800,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

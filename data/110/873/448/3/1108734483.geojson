@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.437587,
-    "geom:area_square_m":3537910204.144278,
+    "geom:area_square_m":3537910204.144269,
     "geom:bbox":"42.3523643936,48.8504123764,43.609785282,49.5199573308",
     "geom:latitude":49.166923,
     "geom:longitude":42.960889,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kletskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":49.157034,
     "lbl:longitude":42.960823,
     "meso:admin1_en":"Volgogradskaja oblast'",
@@ -52,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Kletskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kletskij"
     ],
     "name:ger_x_preferred":[
         "Kletski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108734483,
-    "wof:lastmodified":1514501798,
-    "wof:name":"Kletskij",
+    "wof:lastmodified":1555047620,
+    "wof:name":"Kletskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":19700,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

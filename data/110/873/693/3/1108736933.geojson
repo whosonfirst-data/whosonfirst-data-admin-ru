@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.638439,
-    "geom:area_square_m":4952325399.833187,
+    "geom:area_square_m":4952325399.832708,
     "geom:bbox":"93.6159442914,50.7179344617,95.4609261214,51.5923985954",
     "geom:latitude":51.147059,
     "geom:longitude":94.616436,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Tandinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.17038,
     "lbl:longitude":94.525681,
     "meso:admin1_en":"Tyva",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Tandinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Tandinskij kozhuun"
     ],
     "name:est_x_preferred":[
         "Tandinski ko\u017euun"
@@ -120,11 +135,11 @@
         }
     ],
     "wof:id":1108736933,
-    "wof:lastmodified":1514503520,
-    "wof:name":"Tandinskij kozhuun",
+    "wof:lastmodified":1555047695,
+    "wof:name":"Tandinskiy",
     "wof:parent_id":85688039,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14200,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

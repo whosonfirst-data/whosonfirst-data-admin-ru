@@ -11,6 +11,18 @@
     "geom:longitude":57.501564,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Suksunskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.067374,
     "lbl:longitude":57.546688,
     "meso:admin1_en":"Permskij kraj",
@@ -47,6 +59,9 @@
     ],
     "name:eng_x_preferred":[
         "Suksunskiy"
+    ],
+    "name:eng_x_variant":[
+        "Suksunskij"
     ],
     "name:est_x_preferred":[
         "Suksuni rajoon"
@@ -130,11 +145,11 @@
         }
     ],
     "wof:id":890485555,
-    "wof:lastmodified":1536617443,
-    "wof:name":"Suksunskij",
+    "wof:lastmodified":1555047553,
+    "wof:name":"Suksunskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":24100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

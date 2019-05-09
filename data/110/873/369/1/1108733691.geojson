@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.213933,
-    "geom:area_square_m":1451906269.166831,
+    "geom:area_square_m":1451906269.166929,
     "geom:bbox":"43.2701396631,56.4110958479,43.9779897966,57.0176982476",
     "geom:latitude":56.711227,
     "geom:longitude":43.624653,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Gorodetskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.761583,
     "lbl:longitude":43.600651,
     "meso:admin1_en":"Nizheskaja oblast'",
@@ -45,6 +57,10 @@
         "Gorodetskiy rayon"
     ],
     "name:eng_x_preferred":[
+        "Gorodetskiy"
+    ],
+    "name:eng_x_variant":[
+        "eckij",
         "Gorodetskiy"
     ],
     "name:epo_x_preferred":[
@@ -111,11 +127,11 @@
         }
     ],
     "wof:id":1108733691,
-    "wof:lastmodified":1514504158,
+    "wof:lastmodified":1555092049,
     "wof:name":"eckij",
     "wof:parent_id":85688057,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":69900,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.087496,
-    "geom:area_square_m":7186989034.008547,
+    "geom:area_square_m":7186989034.008834,
     "geom:bbox":"81.2253563486,57.2528835681,83.5781285977,58.0760496366",
     "geom:latitude":57.692266,
     "geom:longitude":82.364139,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Chainskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.694313,
     "lbl:longitude":82.381342,
     "meso:admin1_en":"Tomskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Chainskiy"
+    ],
+    "name:eng_x_variant":[
+        "CHainskij"
     ],
     "name:ger_x_preferred":[
         "Tschainski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108733173,
-    "wof:lastmodified":1514500893,
-    "wof:name":"CHainskij",
+    "wof:lastmodified":1555047580,
+    "wof:name":"Chainskiy",
     "wof:parent_id":85687809,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":15800,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

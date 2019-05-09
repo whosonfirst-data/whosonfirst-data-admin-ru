@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.313972,
-    "geom:area_square_m":2163269434.339279,
+    "geom:area_square_m":2163269434.339192,
     "geom:bbox":"34.3172716856,55.9026980328,35.4996492751,56.3459204311",
     "geom:latitude":56.136917,
     "geom:longitude":34.872244,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Zubcovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.138236,
     "lbl:longitude":34.920032,
     "meso:admin1_en":"Tverskaja oblast'",
@@ -45,7 +57,11 @@
         "Zoebtsovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Zubtsovskiy"
+        "Zubcovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Zubcovskij",
+        "Zubcovskiy"
     ],
     "name:est_x_preferred":[
         "Zubtsovi rajoon"
@@ -114,11 +130,11 @@
         }
     ],
     "wof:id":1108738345,
-    "wof:lastmodified":1514504152,
-    "wof:name":"Zubcovskij",
+    "wof:lastmodified":1555047719,
+    "wof:name":"Zubcovskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":21200,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

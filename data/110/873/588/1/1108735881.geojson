@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.174841,
-    "geom:area_square_m":1164760620.786458,
+    "geom:area_square_m":1164760620.786459,
     "geom:bbox":"48.1941843929,57.1496082724,48.8107350727,57.6313740731",
     "geom:latitude":57.400854,
     "geom:longitude":48.517475,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Pizhanskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.428441,
     "lbl:longitude":48.51137,
     "meso:admin1_en":"Kirovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Pizhanskiy"
+    ],
+    "name:eng_x_variant":[
+        "Pizhanskij"
     ],
     "name:ger_x_preferred":[
         "Pischanski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108735881,
-    "wof:lastmodified":1514502669,
-    "wof:name":"Pizhanskij",
+    "wof:lastmodified":1555047667,
+    "wof:name":"Pizhanskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14500,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

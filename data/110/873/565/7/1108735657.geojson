@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.449541,
-    "geom:area_square_m":2075419231.376475,
+    "geom:area_square_m":2075419231.376407,
     "geom:bbox":"32.900465361,67.7392693118,34.0846300674,68.3456729665",
     "geom:latitude":68.076544,
     "geom:longitude":33.476239,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Olenegorskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":68.054297,
     "lbl:longitude":33.465346,
     "meso:admin1_en":"Murmanskaja oblast'",
@@ -36,7 +48,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Olenegorsk"
+        "Olenegorskiy"
+    ],
+    "name:eng_x_variant":[
+        "Olenegorskij",
+        "Olenegorskiy"
     ],
     "name:und_x_variant":[
         "\u041e\u043b\u0435\u043d\u0435\u0433\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -76,11 +92,11 @@
         }
     ],
     "wof:id":1108735657,
-    "wof:lastmodified":1505431743,
-    "wof:name":"Olenegorskij",
+    "wof:lastmodified":1555047659,
+    "wof:name":"Olenegorskiy",
     "wof:parent_id":85687869,
     "wof:placetype":"county",
-    "wof:placetype_local":"gorsovet",
+    "wof:placetype_local":"district",
     "wof:population":27200,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

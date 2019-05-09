@@ -11,6 +11,18 @@
     "geom:longitude":39.554281,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Liskinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.0401,
     "lbl:longitude":39.546266,
     "meso:admin1_en":"Voronezhskaja oblast'",
@@ -46,7 +58,11 @@
         "Liskinskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Liski"
+        "Liskinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Liskinskij",
+        "Liskinskiy"
     ],
     "name:ger_x_preferred":[
         "Liskinski rajon"
@@ -124,11 +140,11 @@
         }
     ],
     "wof:id":890483693,
-    "wof:lastmodified":1536617440,
-    "wof:name":"Liskinskij",
+    "wof:lastmodified":1555047548,
+    "wof:name":"Liskinskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",
-    "wof:placetype_local":"gorsovet",
+    "wof:placetype_local":"district",
     "wof:population":55700,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040798,
-    "geom:area_square_m":371881113.218239,
+    "geom:area_square_m":371881113.218218,
     "geom:bbox":"46.8293017638,42.3916680889,47.1942457163,42.6113865696",
     "geom:latitude":42.508867,
     "geom:longitude":47.006868,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Gergebil'skiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":42.512607,
     "lbl:longitude":47.006992,
     "meso:admin1_en":"Dagestan",
@@ -55,6 +67,9 @@
     ],
     "name:eng_x_preferred":[
         "Gergebil'skiy"
+    ],
+    "name:eng_x_variant":[
+        "Gergebil'skij"
     ],
     "name:est_x_preferred":[
         "Gergebili rajoon"
@@ -132,11 +147,11 @@
         }
     ],
     "wof:id":1108733583,
-    "wof:lastmodified":1553816504,
-    "wof:name":"Gergebil'skij",
+    "wof:lastmodified":1555047594,
+    "wof:name":"Gergebil'skiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14100,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

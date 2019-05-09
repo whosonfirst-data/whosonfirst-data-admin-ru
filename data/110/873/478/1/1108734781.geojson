@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.104942,
-    "geom:area_square_m":872204389.824307,
+    "geom:area_square_m":872204389.824269,
     "geom:bbox":"38.785416,47.621800824,39.3980273503,47.87645",
     "geom:latitude":47.766454,
     "geom:longitude":39.11329,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kujbyshevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":47.748659,
     "lbl:longitude":39.205289,
     "meso:admin1_en":"Rostovskaja oblast'",
@@ -48,7 +60,11 @@
         "Koeybisjevskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Kuybyshevskiy"
+        "Kujbyshevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kujbyshevskij",
+        "Kujbyshevskiy"
     ],
     "name:ger_x_preferred":[
         "Kuibyschewski rajon"
@@ -111,11 +127,11 @@
         }
     ],
     "wof:id":1108734781,
-    "wof:lastmodified":1553816505,
-    "wof:name":"Kujbyshevskij",
+    "wof:lastmodified":1555047629,
+    "wof:name":"Kujbyshevskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":15400,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

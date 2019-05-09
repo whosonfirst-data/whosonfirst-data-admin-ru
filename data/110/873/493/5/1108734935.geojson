@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088236,
-    "geom:area_square_m":805226701.345036,
+    "geom:area_square_m":805226701.345081,
     "geom:bbox":"47.0563509181,42.2938972655,47.5717579217,42.6060258782",
     "geom:latitude":42.436353,
     "geom:longitude":47.293075,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Levashinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":42.438703,
     "lbl:longitude":47.297029,
     "meso:admin1_en":"Dagestan",
@@ -55,6 +67,9 @@
     ],
     "name:eng_x_preferred":[
         "Levashinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Levashinskij"
     ],
     "name:est_x_preferred":[
         "Leva\u0161i rajoon"
@@ -129,11 +144,11 @@
         }
     ],
     "wof:id":1108734935,
-    "wof:lastmodified":1514502022,
-    "wof:name":"Levashinskij",
+    "wof:lastmodified":1555047634,
+    "wof:name":"Levashinskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":57800,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

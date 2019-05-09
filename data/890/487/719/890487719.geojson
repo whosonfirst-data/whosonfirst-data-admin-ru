@@ -5,13 +5,25 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.411816,
-    "geom:area_square_m":10791341225.953037,
+    "geom:area_square_m":10791341225.951054,
     "geom:bbox":"142.222971698,50.72674468,143.680831909,52.9651511057",
     "geom:latitude":51.816658,
     "geom:longitude":142.914299,
     "gn:country":"RU",
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Noglikskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.854285,
     "lbl:longitude":142.77371,
     "meso:admin1_en":"Sakhalinskaja oblast'",
@@ -37,6 +49,12 @@
     "mps:longitude":142.77371,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Noglikskiy"
+    ],
+    "name:eng_x_variant":[
+        "Noglikskij"
+    ],
     "name:und_x_variant":[
         "\u041d\u043e\u0433\u043b\u0438\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -82,10 +100,11 @@
         }
     ],
     "wof:id":890487719,
-    "wof:lastmodified":1527792829,
-    "wof:name":"Noglikskij",
+    "wof:lastmodified":1555047559,
+    "wof:name":"Noglikskiy",
     "wof:parent_id":85688125,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

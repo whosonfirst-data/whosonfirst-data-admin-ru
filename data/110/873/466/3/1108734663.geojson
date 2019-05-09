@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065733,
-    "geom:area_square_m":457205935.735797,
+    "geom:area_square_m":457205935.735809,
     "geom:bbox":"46.915794629,55.6444239475,47.3879481284,55.9020913389",
     "geom:latitude":55.770685,
     "geom:longitude":47.153792,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Krasnoarmejskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.76013,
     "lbl:longitude":47.157357,
     "meso:admin1_en":"CHuvashija",
@@ -48,7 +60,11 @@
         "Krasnoarmeysky District"
     ],
     "name:eng_x_preferred":[
-        "Krasnoarmeyskiy"
+        "Krasnoarmejskiy"
+    ],
+    "name:eng_x_variant":[
+        "Krasnoarmejskij",
+        "Krasnoarmejskiy"
     ],
     "name:est_x_preferred":[
         "Krasnoarmeiskoje rajoon"
@@ -117,11 +133,11 @@
         }
     ],
     "wof:id":1108734663,
-    "wof:lastmodified":1553816505,
-    "wof:name":"Krasnoarmejskij",
+    "wof:lastmodified":1555047625,
+    "wof:name":"Krasnoarmejskiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":18300,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

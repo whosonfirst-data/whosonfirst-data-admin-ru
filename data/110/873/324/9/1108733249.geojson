@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.211676,
-    "geom:area_square_m":1874123123.551778,
+    "geom:area_square_m":1874123123.55134,
     "geom:bbox":"132.285465185,44.0061496799,132.908577324,44.5563075513",
     "geom:latitude":44.273009,
     "geom:longitude":132.582046,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Chernigovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":44.284853,
     "lbl:longitude":132.575948,
     "meso:admin1_en":"Primorskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Chernigovskiy"
+    ],
+    "name:eng_x_variant":[
+        "CHernigovskij"
     ],
     "name:ger_x_preferred":[
         "Tschernigowski rajon"
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108733249,
-    "wof:lastmodified":1514500912,
-    "wof:name":"CHernigovskij",
+    "wof:lastmodified":1555047583,
+    "wof:name":"Chernigovskiy",
     "wof:parent_id":85688023,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":46000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

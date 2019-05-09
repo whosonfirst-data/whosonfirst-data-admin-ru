@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.360324,
-    "geom:area_square_m":2744535160.107676,
+    "geom:area_square_m":2744535160.107673,
     "geom:bbox":"53.9157556738,51.631517692,54.696274247,52.3821413196",
     "geom:latitude":51.975792,
     "geom:longitude":54.32592,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Perevolockij District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.914281,
     "lbl:longitude":54.294538,
     "meso:admin1_en":"Orenburgskaja oblast'",
@@ -48,6 +60,9 @@
         "Perevolotskiy rayon"
     ],
     "name:eng_x_preferred":[
+        "Perevolockij"
+    ],
+    "name:eng_x_variant":[
         "Perevolotskiy"
     ],
     "name:ger_x_preferred":[
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108735805,
-    "wof:lastmodified":1514502636,
+    "wof:lastmodified":1555047664,
     "wof:name":"Perevolockij",
     "wof:parent_id":85688081,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":32400,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

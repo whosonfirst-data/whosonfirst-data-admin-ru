@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.185497,
-    "geom:area_square_m":1545436016.974739,
+    "geom:area_square_m":1545436016.974616,
     "geom:bbox":"39.1844430247,47.4146687996,39.9061242785,47.872304",
     "geom:latitude":47.641055,
     "geom:longitude":39.581953,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Rodionovo-Nesvetajskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":47.679898,
     "lbl:longitude":39.587184,
     "meso:admin1_en":"Rostovskaja oblast'",
@@ -45,7 +57,11 @@
         "Rodionovo-Nesvetayskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Rodionovo-Nesvetayskiy"
+        "Rodionovo-Nesvetajskiy"
+    ],
+    "name:eng_x_variant":[
+        "Rodionovo-Nesvetajskij",
+        "Rodionovo-Nesvetajskiy"
     ],
     "name:fre_x_preferred":[
         "ra\u00efon de Rodionovo-Nesveta\u00efska\u00efa"
@@ -105,11 +121,11 @@
         }
     ],
     "wof:id":1108736297,
-    "wof:lastmodified":1514502765,
-    "wof:name":"Rodionovo-Nesvetajskij",
+    "wof:lastmodified":1555047676,
+    "wof:name":"Rodionovo-Nesvetajskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":23000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

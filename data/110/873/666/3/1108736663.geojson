@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.303102,
-    "geom:area_square_m":10342914615.349518,
+    "geom:area_square_m":10342914615.348713,
     "geom:bbox":"142.130386353,49.4622065688,143.998718262,50.8162451527",
     "geom:latitude":50.066223,
     "geom:longitude":143.083758,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Smirnykhovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.026021,
     "lbl:longitude":143.160842,
     "meso:admin1_en":"Sakhalinskaja oblast'",
@@ -37,6 +49,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Smirnykhovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Smirnykhovskij"
     ],
     "name:und_x_variant":[
         "\u0421\u043c\u0438\u0440\u043d\u044b\u0445\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108736663,
-    "wof:lastmodified":1505431757,
-    "wof:name":"Smirnykhovskij",
+    "wof:lastmodified":1555047684,
+    "wof:name":"Smirnykhovskiy",
     "wof:parent_id":85688125,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":17000,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

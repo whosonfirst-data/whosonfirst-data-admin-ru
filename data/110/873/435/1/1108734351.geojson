@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.922091,
-    "geom:area_square_m":7716337983.964894,
+    "geom:area_square_m":7716337983.964885,
     "geom:bbox":"46.7416821623,46.839155625,48.3458761871,47.837152",
     "geom:latitude":47.408409,
     "geom:longitude":47.652813,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kharabalinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":47.409039,
     "lbl:longitude":47.6529,
     "meso:admin1_en":"Astrakhanskaja oblast'",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Kharabalinskiy"
+    ],
+    "name:eng_x_variant":[
+        "KHarabalinskij"
     ],
     "name:ger_x_preferred":[
         "Charabalinski rajon"
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108734351,
-    "wof:lastmodified":1514501429,
-    "wof:name":"KHarabalinskij",
+    "wof:lastmodified":1555047616,
+    "wof:name":"Kharabalinskiy",
     "wof:parent_id":85687985,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":43100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

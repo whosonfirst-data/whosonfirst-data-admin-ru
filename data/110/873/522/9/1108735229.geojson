@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.291945,
-    "geom:area_square_m":1994820718.683633,
+    "geom:area_square_m":1994820718.683516,
     "geom:bbox":"51.847056432,56.1839668734,52.7318236369,56.7164401841",
     "geom:latitude":56.455152,
     "geom:longitude":52.24935,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Mozhginskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.469216,
     "lbl:longitude":52.433522,
     "meso:admin1_en":"Udmurtskaja respublika",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Mozhginskiy"
+    ],
+    "name:eng_x_variant":[
+        "Mozhginskij"
     ],
     "name:est_x_preferred":[
         "Mo\u017ega rajoon"
@@ -114,11 +129,11 @@
         }
     ],
     "wof:id":1108735229,
-    "wof:lastmodified":1514502296,
-    "wof:name":"Mozhginskij",
+    "wof:lastmodified":1555047643,
+    "wof:name":"Mozhginskiy",
     "wof:parent_id":85687787,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":29000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

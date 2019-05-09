@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157686,
-    "geom:area_square_m":1227655885.297511,
+    "geom:area_square_m":1227655885.297534,
     "geom:bbox":"37.4441782142,50.8303598361,38.310439755,51.1292322221",
     "geom:latitude":50.977454,
     "geom:longitude":37.832161,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Chernjanskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.96326,
     "lbl:longitude":37.832138,
     "meso:admin1_en":"Belskaja oblast'",
@@ -48,7 +60,11 @@
         "Tsjernjanskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Chernyanskiy"
+        "Chernjanskiy"
+    ],
+    "name:eng_x_variant":[
+        "CHernjanskij",
+        "Chernjanskiy"
     ],
     "name:ger_x_preferred":[
         "Tschernjanski rajon"
@@ -108,11 +124,11 @@
         }
     ],
     "wof:id":1108733253,
-    "wof:lastmodified":1514500913,
-    "wof:name":"CHernjanskij",
+    "wof:lastmodified":1555047583,
+    "wof:name":"Chernjanskiy",
     "wof:parent_id":85687813,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":34200,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

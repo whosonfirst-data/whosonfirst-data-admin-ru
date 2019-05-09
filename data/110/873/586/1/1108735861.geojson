@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.080071,
-    "geom:area_square_m":8168014664.057194,
+    "geom:area_square_m":8168014664.057978,
     "geom:bbox":"92.8906939989,51.7051378481,95.0917351113,52.9154423871",
     "geom:latitude":52.294507,
     "geom:longitude":94.13152,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Pij-Khemskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.214184,
     "lbl:longitude":94.056904,
     "meso:admin1_en":"Tyva",
@@ -45,7 +57,11 @@
         "Piy-Hemskiy kozjoeoen"
     ],
     "name:eng_x_preferred":[
-        "Piy-Khemskiy"
+        "Pij-Khemskiy"
+    ],
+    "name:eng_x_variant":[
+        "Pij-KHemskij kozhuun",
+        "Pij-Khemskiy"
     ],
     "name:est_x_preferred":[
         "Pii-Hemi ko\u017euun"
@@ -123,11 +139,11 @@
         }
     ],
     "wof:id":1108735861,
-    "wof:lastmodified":1514502662,
-    "wof:name":"Pij-KHemskij kozhuun",
+    "wof:lastmodified":1555047666,
+    "wof:name":"Pij-Khemskiy",
     "wof:parent_id":85688039,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":12100,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

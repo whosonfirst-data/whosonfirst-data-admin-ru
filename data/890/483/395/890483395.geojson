@@ -11,6 +11,18 @@
     "geom:longitude":31.705702,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Muezerskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":63.736947,
     "lbl:longitude":31.705774,
     "meso:admin1_en":"Respublika Karelija",
@@ -46,7 +58,11 @@
         "Moeezerskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Muyezerskiy"
+        "Muezerskiy"
+    ],
+    "name:eng_x_variant":[
+        "Muezerskij",
+        "Muezerskiy"
     ],
     "name:est_x_preferred":[
         "Mujej\u00e4rvi rajoon"
@@ -145,11 +161,11 @@
         }
     ],
     "wof:id":890483395,
-    "wof:lastmodified":1536617438,
-    "wof:name":"Muezerskij",
+    "wof:lastmodified":1555047545,
+    "wof:name":"Muezerskiy",
     "wof:parent_id":85688193,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":17900,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

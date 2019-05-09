@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138272,
-    "geom:area_square_m":963235528.558938,
+    "geom:area_square_m":963235528.558968,
     "geom:bbox":"41.7016275842,55.4658750436,42.4716694247,55.9567604207",
     "geom:latitude":55.710499,
     "geom:longitude":42.009644,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Muromskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.729569,
     "lbl:longitude":42.003988,
     "meso:admin1_en":"Vladimirskaja oblast'",
@@ -52,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Muromskiy"
+    ],
+    "name:eng_x_variant":[
+        "Muromskij"
     ],
     "name:ger_x_preferred":[
         "Muromski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108735279,
-    "wof:lastmodified":1514502307,
-    "wof:name":"Muromskij",
+    "wof:lastmodified":1555047643,
+    "wof:name":"Muromskiy",
     "wof:parent_id":85687981,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":26500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

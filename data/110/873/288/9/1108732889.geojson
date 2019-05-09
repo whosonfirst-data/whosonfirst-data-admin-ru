@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.738772,
-    "geom:area_square_m":5227838036.856915,
+    "geom:area_square_m":5227838036.856634,
     "geom:bbox":"77.4043549038,54.6545088393,78.9988703304,55.4334879383",
     "geom:latitude":55.090273,
     "geom:longitude":78.151247,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Barabinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.06642,
     "lbl:longitude":78.086894,
     "meso:admin1_en":"Novosibirskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Barabinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Barabinskij"
     ],
     "name:ger_x_preferred":[
         "Barabinski rajon"
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108732889,
-    "wof:lastmodified":1514500637,
-    "wof:name":"Barabinskij",
+    "wof:lastmodified":1555047570,
+    "wof:name":"Barabinskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":18700,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.329533,
-    "geom:area_square_m":2256308442.794844,
+    "geom:area_square_m":2256308442.794917,
     "geom:bbox":"51.1335022394,55.9250028622,52.0060711753,56.6852266367",
     "geom:latitude":56.376533,
     "geom:longitude":51.558835,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kiznerskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.397226,
     "lbl:longitude":51.552003,
     "meso:admin1_en":"Udmurtskaja respublika",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Kiznerskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kiznerskij"
     ],
     "name:est_x_preferred":[
         "Kizneri rajoon"
@@ -114,11 +129,11 @@
         }
     ],
     "wof:id":1108734477,
-    "wof:lastmodified":1514501795,
-    "wof:name":"Kiznerskij",
+    "wof:lastmodified":1555047620,
+    "wof:name":"Kiznerskiy",
     "wof:parent_id":85687787,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":25900,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

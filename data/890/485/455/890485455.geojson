@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.398441,
-    "geom:area_square_m":2729716260.675717,
+    "geom:area_square_m":2729716260.675764,
     "geom:bbox":"33.6255586108,55.993865244,34.8369659048,56.6658350559",
     "geom:latitude":56.354224,
     "geom:longitude":34.153202,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Rzhevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.387595,
     "lbl:longitude":34.056481,
     "meso:admin1_en":"Tverskaja oblast'",
@@ -49,7 +61,11 @@
         "Rzjevskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Rzhevsky District"
+        "Rzhevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Rzhevskij",
+        "Rzhevskiy"
     ],
     "name:est_x_preferred":[
         "R\u017eevi rajoon"
@@ -120,10 +136,11 @@
         }
     ],
     "wof:id":890485455,
-    "wof:lastmodified":1527727130,
-    "wof:name":"Rzhevskij",
+    "wof:lastmodified":1555047553,
+    "wof:name":"Rzhevskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

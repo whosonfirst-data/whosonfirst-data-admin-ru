@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.315389,
-    "geom:area_square_m":2160287095.733612,
+    "geom:area_square_m":2160287095.733625,
     "geom:bbox":"36.980185681,56.0369002889,37.872334136,56.6965090079",
     "geom:latitude":56.36201,
     "geom:longitude":37.423069,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Dmitrovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.322219,
     "lbl:longitude":37.423085,
     "meso:admin1_en":"Moskovskaja oblast'",
@@ -55,7 +67,11 @@
         "Dmitrovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Dmitrovsky District"
+        "Dmitrovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Dmitrovskij",
+        "Dmitrovskiy"
     ],
     "name:epo_x_preferred":[
         "Distrikto Dmitrov"
@@ -98,6 +114,7 @@
     "qs:photos_sr":2,
     "qs:placetype":"County",
     "qs:pop_sr":"0",
+    "src:geom":"unknown",
     "src:geom_alt":[
         "quattroshapes"
     ],
@@ -129,10 +146,11 @@
         }
     ],
     "wof:id":890485971,
-    "wof:lastmodified":1553816417,
-    "wof:name":"Dmitrovskij",
+    "wof:lastmodified":1555047554,
+    "wof:name":"Dmitrovskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

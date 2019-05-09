@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.45775,
-    "geom:area_square_m":3043406602.225259,
+    "geom:area_square_m":3043406602.225353,
     "geom:bbox":"30.4156987133,57.2076401221,31.6955762432,57.7700615078",
     "geom:latitude":57.473486,
     "geom:longitude":31.06746,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Poddorskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.550642,
     "lbl:longitude":31.067387,
     "meso:admin1_en":"Novskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Poddorskiy"
+    ],
+    "name:eng_x_variant":[
+        "Poddorskij"
     ],
     "name:est_x_preferred":[
         "Poddorje rajoon"
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108735901,
-    "wof:lastmodified":1514502676,
-    "wof:name":"Poddorskij",
+    "wof:lastmodified":1555047667,
+    "wof:name":"Poddorskiy",
     "wof:parent_id":85688095,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":6100,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",

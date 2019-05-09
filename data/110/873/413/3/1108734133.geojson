@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.28008,
-    "geom:area_square_m":1909682988.562381,
+    "geom:area_square_m":1909682988.562397,
     "geom:bbox":"39.235628182,56.2440288277,40.2397127694,56.814047713",
     "geom:latitude":56.535791,
     "geom:longitude":39.702988,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Jur'ev-Pol'skiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.596952,
     "lbl:longitude":39.653572,
     "meso:admin1_en":"Vladimirskaja oblast'",
@@ -51,7 +63,11 @@
         "Yuryev-Polsky District"
     ],
     "name:eng_x_preferred":[
-        "Yur'ev-Pol'skiy"
+        "Jur'ev-Pol'skiy"
+    ],
+    "name:eng_x_variant":[
+        "JUr'ev-Pol'skij",
+        "Jur'ev-Pol'skiy"
     ],
     "name:ger_x_preferred":[
         "Jurjew-Polski rajon"
@@ -105,11 +121,11 @@
         }
     ],
     "wof:id":1108734133,
-    "wof:lastmodified":1514501418,
-    "wof:name":"JUr'ev-Pol'skij",
+    "wof:lastmodified":1555047609,
+    "wof:name":"Jur'ev-Pol'skiy",
     "wof:parent_id":85687981,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":40100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

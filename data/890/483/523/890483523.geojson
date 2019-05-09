@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.44526,
-    "geom:area_square_m":3521449170.268635,
+    "geom:area_square_m":3521449170.268358,
     "geom:bbox":"44.7891103589,49.7503232779,45.901677603,50.6165804796",
     "geom:latitude":50.237864,
     "geom:longitude":45.336148,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kamyshinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.347311,
     "lbl:longitude":45.419778,
     "meso:admin1_en":"Volgogradskaja oblast'",
@@ -46,7 +58,11 @@
         "Kamisjinskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Kamyshinsky District"
+        "Kamyshinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kamyshinskij",
+        "Kamyshinskiy"
     ],
     "name:ger_x_preferred":[
         "Kamyschinski rajon"
@@ -117,10 +133,11 @@
         }
     ],
     "wof:id":890483523,
-    "wof:lastmodified":1527727198,
-    "wof:name":"Kamyshinskij",
+    "wof:lastmodified":1555047546,
+    "wof:name":"Kamyshinskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

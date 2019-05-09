@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.793386,
-    "geom:area_square_m":10650371976.318893,
+    "geom:area_square_m":10650371976.318741,
     "geom:bbox":"42.7917407696,60.7223255805,45.3719067165,61.8842449807",
     "geom:latitude":61.296331,
     "geom:longitude":44.104106,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ust'janskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":61.454907,
     "lbl:longitude":43.951291,
     "meso:admin1_en":"Arkhangel'skaja oblast'",
@@ -48,7 +60,11 @@
         "Ustyansky District"
     ],
     "name:eng_x_preferred":[
-        "Ust'yanskiy"
+        "Ust'janskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ust'janskij",
+        "Ust'janskiy"
     ],
     "name:fin_x_preferred":[
         "Ustjan piiri"
@@ -120,11 +136,11 @@
         }
     ],
     "wof:id":1108737265,
-    "wof:lastmodified":1514503810,
-    "wof:name":"Ust'janskij",
+    "wof:lastmodified":1555047708,
+    "wof:name":"Ust'janskiy",
     "wof:parent_id":85687971,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":42000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

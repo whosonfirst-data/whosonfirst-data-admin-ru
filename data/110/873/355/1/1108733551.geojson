@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.150335,
-    "geom:area_square_m":1060078105.98843,
+    "geom:area_square_m":1060078105.988469,
     "geom:bbox":"44.6129559389,55.0545942018,45.3534828329,55.4211411473",
     "geom:latitude":55.231166,
     "geom:longitude":44.987078,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Gaginskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.224906,
     "lbl:longitude":44.992514,
     "meso:admin1_en":"Nizheskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Gaginskiy"
+    ],
+    "name:eng_x_variant":[
+        "Gaginskij"
     ],
     "name:ger_x_preferred":[
         "Gaginski rajon"
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108733551,
-    "wof:lastmodified":1514501248,
-    "wof:name":"Gaginskij",
+    "wof:lastmodified":1555047593,
+    "wof:name":"Gaginskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":15400,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.418415,
-    "geom:area_square_m":24515203692.441734,
+    "geom:area_square_m":24515203692.441811,
     "geom:bbox":"49.7515487982,62.1801215737,53.2715216323,64.5423092345",
     "geom:latitude":63.337611,
     "geom:longitude":51.333365,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Knjazhpogostskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":63.525021,
     "lbl:longitude":51.452001,
     "meso:admin1_en":"Respublika Komi",
@@ -48,7 +60,11 @@
         "Knjazjpogostskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Knyazhpogostskiy"
+        "Knjazhpogostskiy"
+    ],
+    "name:eng_x_variant":[
+        "Knjazhpogostskij",
+        "Knjazhpogostskiy"
     ],
     "name:est_x_preferred":[
         "Knja\u017epogosti rajoon"
@@ -120,11 +136,11 @@
         }
     ],
     "wof:id":1108734503,
-    "wof:lastmodified":1514501807,
-    "wof:name":"Knjazhpogostskij",
+    "wof:lastmodified":1555047621,
+    "wof:name":"Knjazhpogostskiy",
     "wof:parent_id":85688077,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":31900,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

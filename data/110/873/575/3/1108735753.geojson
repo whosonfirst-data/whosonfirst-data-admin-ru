@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.181452,
-    "geom:area_square_m":1205252619.204769,
+    "geom:area_square_m":1205252619.204758,
     "geom:bbox":"27.6063305802,57.3164258971,28.4246201492,57.6954033246",
     "geom:latitude":57.508483,
     "geom:longitude":28.001339,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Palkinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.503972,
     "lbl:longitude":27.961193,
     "meso:admin1_en":"Pskovskaja oblast'",
@@ -52,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Palkinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Palkinskij"
     ],
     "name:est_x_preferred":[
         "Palkino rajoon"
@@ -120,11 +135,11 @@
         }
     ],
     "wof:id":1108735753,
-    "wof:lastmodified":1514502609,
-    "wof:name":"Palkinskij",
+    "wof:lastmodified":1555047663,
+    "wof:name":"Palkinskiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":11800,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004239,
-    "geom:area_square_m":30381491.000288,
+    "geom:area_square_m":30381491.000281,
     "geom:bbox":"20.107604049,54.5503201484,20.2342875153,54.6122253249",
     "geom:latitude":54.578329,
     "geom:longitude":20.18119,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ladushkinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.583914,
     "lbl:longitude":20.185531,
     "meso:admin1_en":"Kaliningradskaja oblast'",
@@ -39,7 +51,11 @@
         "Ladoesjkinskiy gorodskoy okroeg"
     ],
     "name:eng_x_preferred":[
-        "Bagrationovskiy"
+        "Ladushkinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ladushkinskij",
+        "Ladushkinskiy"
     ],
     "name:ger_x_preferred":[
         "Stadtkreis Laduschkin"
@@ -90,11 +106,11 @@
         }
     ],
     "wof:id":1108734881,
-    "wof:lastmodified":1514502001,
-    "wof:name":"Ladushkinskij",
+    "wof:lastmodified":1555047633,
+    "wof:name":"Ladushkinskiy",
     "wof:parent_id":85688215,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":46300,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

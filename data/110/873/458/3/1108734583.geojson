@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.160832,
-    "geom:area_square_m":1169807990.066842,
+    "geom:area_square_m":1169807990.066816,
     "geom:bbox":"39.6725693798,53.8093673738,40.4338525863,54.1407316214",
     "geom:latitude":53.968983,
     "geom:longitude":40.060577,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Korablinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.963263,
     "lbl:longitude":39.984466,
     "meso:admin1_en":"Rjazanskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Korablinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Korablinskij"
     ],
     "name:ger_x_preferred":[
         "Korablinski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108734583,
-    "wof:lastmodified":1514501869,
-    "wof:name":"Korablinskij",
+    "wof:lastmodified":1555047623,
+    "wof:name":"Korablinskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":27300,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

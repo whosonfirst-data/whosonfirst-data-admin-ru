@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.266561,
-    "geom:area_square_m":1832581515.645819,
+    "geom:area_square_m":1832581515.645757,
     "geom:bbox":"49.5019962791,55.9138584182,50.3005700174,56.5374714236",
     "geom:latitude":56.221076,
     "geom:longitude":49.857031,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Arskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.158003,
     "lbl:longitude":49.863282,
     "meso:admin1_en":"Tatarstan",
@@ -52,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Arskiy"
+    ],
+    "name:eng_x_variant":[
+        "Arskij"
     ],
     "name:est_x_preferred":[
         "Arski rajoon"
@@ -132,11 +147,11 @@
         }
     ],
     "wof:id":1108732785,
-    "wof:lastmodified":1514500590,
-    "wof:name":"Arskij",
+    "wof:lastmodified":1555047567,
+    "wof:name":"Arskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":50100,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

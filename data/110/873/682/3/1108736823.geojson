@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.229977,
-    "geom:area_square_m":1510901581.90471,
+    "geom:area_square_m":1510901581.904688,
     "geom:bbox":"41.2203371968,57.6871233384,42.1980194741,58.1527328451",
     "geom:latitude":57.905704,
     "geom:longitude":41.685081,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Sudislavskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.858107,
     "lbl:longitude":41.651604,
     "meso:admin1_en":"Kostromskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Sudislavskiy"
+    ],
+    "name:eng_x_variant":[
+        "Sudislavskij"
     ],
     "name:ger_x_preferred":[
         "Sudislawski rajon"
@@ -99,11 +114,11 @@
         }
     ],
     "wof:id":1108736823,
-    "wof:lastmodified":1514503422,
-    "wof:name":"Sudislavskij",
+    "wof:lastmodified":1555047688,
+    "wof:name":"Sudislavskiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":15700,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.197934,
-    "geom:area_square_m":1437633261.329633,
+    "geom:area_square_m":1437633261.329645,
     "geom:bbox":"53.4235328649,53.7035176106,54.0465054476,54.3317620042",
     "geom:latitude":54.027781,
     "geom:longitude":53.702762,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ermekeevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.039012,
     "lbl:longitude":53.681376,
     "meso:admin1_en":"Bashkortostan",
@@ -54,7 +66,11 @@
         "Ermekeevskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Yermekeyevskiy"
+        "Ermekeevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ermekeevskij",
+        "Ermekeevskiy"
     ],
     "name:est_x_preferred":[
         "Jermekejevo rajoon"
@@ -126,11 +142,11 @@
         }
     ],
     "wof:id":1108733509,
-    "wof:lastmodified":1514501235,
-    "wof:name":"Ermekeevskij",
+    "wof:lastmodified":1555047592,
+    "wof:name":"Ermekeevskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":18000,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

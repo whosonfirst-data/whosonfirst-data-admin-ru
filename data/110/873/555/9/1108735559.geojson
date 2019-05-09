@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.519051,
-    "geom:area_square_m":4076717497.6223,
+    "geom:area_square_m":4076717497.622016,
     "geom:bbox":"47.6805288361,50.0587421313,49.1410744979,50.9022182613",
     "geom:latitude":50.566162,
     "geom:longitude":48.229931,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Novouzenskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.498308,
     "lbl:longitude":48.036296,
     "meso:admin1_en":"Saratovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Novouzenskiy"
+    ],
+    "name:eng_x_variant":[
+        "Novouzenskij"
     ],
     "name:ger_x_preferred":[
         "Nowousenski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108735559,
-    "wof:lastmodified":1514502515,
-    "wof:name":"Novouzenskij",
+    "wof:lastmodified":1555047655,
+    "wof:name":"Novouzenskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":35700,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

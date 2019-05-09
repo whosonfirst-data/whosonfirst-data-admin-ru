@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175543,
-    "geom:area_square_m":1164565997.025479,
+    "geom:area_square_m":1164565997.025519,
     "geom:bbox":"41.5714062548,57.4060065919,42.5568723487,57.7411306871",
     "geom:latitude":57.55347,
     "geom:longitude":41.988859,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Zavolzhskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.556965,
     "lbl:longitude":41.81737,
     "meso:admin1_en":"Ivanovskaja oblast'",
@@ -43,6 +55,9 @@
     ],
     "name:eng_x_preferred":[
         "Zavolzhskiy"
+    ],
+    "name:eng_x_variant":[
+        "Zavolzhskij"
     ],
     "name:ger_x_preferred":[
         "Sawolschski rajon"
@@ -99,11 +114,11 @@
         }
     ],
     "wof:id":1108737989,
-    "wof:lastmodified":1514504125,
-    "wof:name":"Zavolzhskij",
+    "wof:lastmodified":1555047717,
+    "wof:name":"Zavolzhskiy",
     "wof:parent_id":85688153,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":24500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

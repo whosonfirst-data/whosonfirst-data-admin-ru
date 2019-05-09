@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.848061,
-    "geom:area_square_m":6582251190.644195,
+    "geom:area_square_m":6582251190.644063,
     "geom:bbox":"90.839469597,50.5730648283,92.2861782934,51.8402952442",
     "geom:latitude":51.119535,
     "geom:longitude":91.521231,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Dzun-Khemchikskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.146832,
     "lbl:longitude":91.631037,
     "meso:admin1_en":"Tyva",
@@ -37,6 +49,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Dzun-Khemchikskiy"
+    ],
+    "name:eng_x_variant":[
+        "Dzun-KHemchikskij kozhuun"
     ],
     "name:und_x_variant":[
         "\u0414\u0437\u0443\u043d-\u0425\u0435\u043c\u0447\u0438\u043a\u0441\u043a\u0438\u0439 \u043a\u043e\u0436\u0443\u0443\u043d"
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108733439,
-    "wof:lastmodified":1505431712,
-    "wof:name":"Dzun-KHemchikskij kozhuun",
+    "wof:lastmodified":1555047589,
+    "wof:name":"Dzun-Khemchikskiy",
     "wof:parent_id":85688039,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":21300,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

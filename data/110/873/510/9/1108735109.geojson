@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170476,
-    "geom:area_square_m":1228839417.542917,
+    "geom:area_square_m":1228839417.542918,
     "geom:bbox":"34.862669233,54.1890833334,35.7244618514,54.5387833931",
     "geom:latitude":54.341771,
     "geom:longitude":35.303757,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Meshhovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.370631,
     "lbl:longitude":35.33314,
     "meso:admin1_en":"Kaluzhskaja oblast'",
@@ -45,7 +57,11 @@
         "Mesjtsjovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Meshchovskiy"
+        "Meshhovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Meshhovskij",
+        "Meshhovskiy"
     ],
     "name:ger_x_preferred":[
         "Meschtschowski rajon"
@@ -102,11 +118,11 @@
         }
     ],
     "wof:id":1108735109,
-    "wof:lastmodified":1514502144,
-    "wof:name":"Meshhovskij",
+    "wof:lastmodified":1555047639,
+    "wof:name":"Meshhovskiy",
     "wof:parent_id":85688131,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14200,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

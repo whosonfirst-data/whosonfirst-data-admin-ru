@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.440702,
-    "geom:area_square_m":3002543308.102983,
+    "geom:area_square_m":3002543308.10303,
     "geom:bbox":"33.9400298823,56.2776821915,35.5450766289,56.8679087845",
     "geom:latitude":56.564959,
     "geom:longitude":34.783746,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Starickij District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.530582,
     "lbl:longitude":34.728108,
     "meso:admin1_en":"Tverskaja oblast'",
@@ -48,6 +60,9 @@
         "Staritskiy rayon"
     ],
     "name:eng_x_preferred":[
+        "Starickij"
+    ],
+    "name:eng_x_variant":[
         "Staritskiy"
     ],
     "name:fin_x_preferred":[
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108736787,
-    "wof:lastmodified":1514503404,
+    "wof:lastmodified":1555047687,
     "wof:name":"Starickij",
     "wof:parent_id":85688047,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":27900,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

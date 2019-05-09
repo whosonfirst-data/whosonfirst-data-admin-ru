@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.269127,
-    "geom:area_square_m":1895797388.448218,
+    "geom:area_square_m":1895797388.448265,
     "geom:bbox":"51.6622596112,55.0306942413,52.4582175584,55.7074198083",
     "geom:latitude":55.271778,
     "geom:longitude":52.076937,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Zainskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.300563,
     "lbl:longitude":52.10391,
     "meso:admin1_en":"Tatarstan",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Zainskiy"
+    ],
+    "name:eng_x_variant":[
+        "Zainskij"
     ],
     "name:est_x_preferred":[
         "Zainski rajoon"
@@ -120,11 +135,11 @@
         }
     ],
     "wof:id":1108737813,
-    "wof:lastmodified":1514504105,
-    "wof:name":"Zainskij",
+    "wof:lastmodified":1555047714,
+    "wof:name":"Zainskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":16500,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

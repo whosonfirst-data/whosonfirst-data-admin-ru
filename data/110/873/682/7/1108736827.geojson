@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151551,
-    "geom:area_square_m":1120980326.131113,
+    "geom:area_square_m":1120980326.131135,
     "geom:bbox":"79.6238293295,53.0713298936,80.3113618566,53.485694213",
     "geom:latitude":53.259781,
     "geom:longitude":79.957509,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Suetskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.300271,
     "lbl:longitude":79.980869,
     "meso:admin1_en":"Altajskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Suetskiy"
+    ],
+    "name:eng_x_variant":[
+        "Suetskij"
     ],
     "name:ger_x_preferred":[
         "Sujetski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108736827,
-    "wof:lastmodified":1514503424,
-    "wof:name":"Suetskij",
+    "wof:lastmodified":1555047688,
+    "wof:name":"Suetskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":13500,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

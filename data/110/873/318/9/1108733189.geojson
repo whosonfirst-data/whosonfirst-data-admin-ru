@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.876117,
-    "geom:area_square_m":6783777440.061698,
+    "geom:area_square_m":6783777440.062426,
     "geom:bbox":"82.9196616772,50.6343629607,84.5874566315,51.8360923431",
     "geom:latitude":51.229612,
     "geom:longitude":83.769749,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Charyshskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.309782,
     "lbl:longitude":83.643989,
     "meso:admin1_en":"Altajskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Charyshskiy"
+    ],
+    "name:eng_x_variant":[
+        "CHaryshskij"
     ],
     "name:ger_x_preferred":[
         "Tscharyschski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108733189,
-    "wof:lastmodified":1514500896,
-    "wof:name":"CHaryshskij",
+    "wof:lastmodified":1555047581,
+    "wof:name":"Charyshskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":22700,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -11,6 +11,18 @@
     "geom:longitude":138.011285,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Komsomol'skiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.483581,
     "lbl:longitude":137.986907,
     "meso:admin1_en":"KHabarovskij kraj",
@@ -49,7 +61,11 @@
         "Komsomolskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Komsomol'sk-na-Amure"
+        "Komsomol'skiy"
+    ],
+    "name:eng_x_variant":[
+        "Komsomol'skij",
+        "Komsomol'skiy"
     ],
     "name:ger_x_preferred":[
         "Komsomolski rajon"
@@ -127,11 +143,11 @@
         }
     ],
     "wof:id":890480167,
-    "wof:lastmodified":1536617433,
-    "wof:name":"Komsomol'skij",
+    "wof:lastmodified":1555047537,
+    "wof:name":"Komsomol'skiy",
     "wof:parent_id":85687937,
     "wof:placetype":"county",
-    "wof:placetype_local":"gorod",
+    "wof:placetype_local":"district",
     "wof:population":291600,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ru",

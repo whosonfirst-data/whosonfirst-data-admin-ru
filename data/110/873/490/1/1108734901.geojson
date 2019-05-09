@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.25689,
-    "geom:area_square_m":1840653620.605414,
+    "geom:area_square_m":1840653620.605069,
     "geom:bbox":"51.6695740159,54.328618677,52.710481515,54.8438445309",
     "geom:latitude":54.587319,
     "geom:longitude":52.188088,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Leninogorskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.57524,
     "lbl:longitude":52.09405,
     "meso:admin1_en":"Tatarstan",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Leninogorskiy"
+    ],
+    "name:eng_x_variant":[
+        "Leninogorskij"
     ],
     "name:est_x_preferred":[
         "Leninogorski rajoon"
@@ -120,11 +135,11 @@
         }
     ],
     "wof:id":1108734901,
-    "wof:lastmodified":1514502012,
-    "wof:name":"Leninogorskij",
+    "wof:lastmodified":1555047633,
+    "wof:name":"Leninogorskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":24400,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

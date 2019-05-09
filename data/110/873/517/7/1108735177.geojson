@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.957284,
-    "geom:area_square_m":6319303547.406512,
+    "geom:area_square_m":6319303547.406507,
     "geom:bbox":"83.0466074074,57.3522143047,85.5903840166,58.0655820787",
     "geom:latitude":57.733162,
     "geom:longitude":84.193867,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Molchanovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.739052,
     "lbl:longitude":84.173691,
     "meso:admin1_en":"Tomskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Molchanovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Molchanovskij"
     ],
     "name:ger_x_preferred":[
         "Moltschanowski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108735177,
-    "wof:lastmodified":1514502167,
-    "wof:name":"Molchanovskij",
+    "wof:lastmodified":1555047641,
+    "wof:name":"Molchanovskiy",
     "wof:parent_id":85687809,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":17800,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077197,
-    "geom:area_square_m":708441940.708241,
+    "geom:area_square_m":708441940.708169,
     "geom:bbox":"47.6421549002,41.9155232339,48.0588586843,42.2457310034",
     "geom:latitude":42.083238,
     "geom:longitude":47.834004,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kajtagskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":42.115485,
     "lbl:longitude":47.882786,
     "meso:admin1_en":"Dagestan",
@@ -57,7 +69,11 @@
         "District Kajtagski"
     ],
     "name:eng_x_preferred":[
-        "Kaytagskiy"
+        "Kajtagskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kajtagskij",
+        "Kajtagskiy"
     ],
     "name:est_x_preferred":[
         "Kaitagi rajoon"
@@ -135,11 +151,11 @@
         }
     ],
     "wof:id":1108734191,
-    "wof:lastmodified":1514501472,
-    "wof:name":"Kajtagskij",
+    "wof:lastmodified":1555047610,
+    "wof:name":"Kajtagskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":27500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

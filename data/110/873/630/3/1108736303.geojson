@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.16889,
-    "geom:area_square_m":1292110308.788597,
+    "geom:area_square_m":1292110308.788488,
     "geom:bbox":"42.5023091805,51.5346406794,43.2539785246,52.0220036966",
     "geom:latitude":51.77725,
     "geom:longitude":42.81988,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Romanovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.767276,
     "lbl:longitude":42.813993,
     "meso:admin1_en":"Saratovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Romanovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Romanovskij"
     ],
     "name:ger_x_preferred":[
         "Romanowski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108736303,
-    "wof:lastmodified":1514502768,
-    "wof:name":"Romanovskij",
+    "wof:lastmodified":1555047676,
+    "wof:name":"Romanovskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":18800,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

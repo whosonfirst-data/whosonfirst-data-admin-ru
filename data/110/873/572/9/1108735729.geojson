@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.365776,
-    "geom:area_square_m":2443805200.154268,
+    "geom:area_square_m":2443805200.15422,
     "geom:bbox":"28.0147907592,57.0385160617,29.2368436557,57.5504293868",
     "geom:latitude":57.294562,
     "geom:longitude":28.551884,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ostrovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.277442,
     "lbl:longitude":28.450332,
     "meso:admin1_en":"Pskovskaja oblast'",
@@ -52,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Ostrovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ostrovskij"
     ],
     "name:est_x_preferred":[
         "Ostrovi rajoon"
@@ -120,11 +135,11 @@
         }
     ],
     "wof:id":1108735729,
-    "wof:lastmodified":1514502596,
-    "wof:name":"Ostrovskij",
+    "wof:lastmodified":1555047662,
+    "wof:name":"Ostrovskiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":40800,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

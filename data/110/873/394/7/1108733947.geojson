@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006005,
-    "geom:area_square_m":53977855.393146,
+    "geom:area_square_m":53977855.393154,
     "geom:bbox":"46.0518589617,43.3203956926,46.1431307178,43.4255247099",
     "geom:latitude":43.369908,
     "geom:longitude":46.105471,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Gudermesskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":43.367385,
     "lbl:longitude":46.109163,
     "meso:admin1_en":"CHechenskaja respublika",
@@ -37,6 +49,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Gudermesskiy"
+    ],
+    "name:eng_x_variant":[
+        "Gudermesskij"
     ],
     "name:und_x_variant":[
         "\u0413\u0443\u0434\u0435\u0440\u043c\u0435\u0441\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433"
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108733947,
-    "wof:lastmodified":1505431717,
-    "wof:name":"Gudermesskij",
+    "wof:lastmodified":1555047602,
+    "wof:name":"Gudermesskiy",
     "wof:parent_id":85688015,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":45100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

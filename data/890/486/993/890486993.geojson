@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039824,
-    "geom:area_square_m":279791294.801861,
+    "geom:area_square_m":279791294.801899,
     "geom:bbox":"37.3813617994,55.2554203787,37.7151298751,55.5213626572",
     "geom:latitude":55.375871,
     "geom:longitude":37.550571,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Podol'skiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.314915,
     "lbl:longitude":37.564423,
     "meso:admin1_en":"Moskovskaja oblast'",
@@ -52,7 +64,11 @@
         "Podolskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Podolsky District"
+        "Podol'skiy"
+    ],
+    "name:eng_x_variant":[
+        "Podol'skij",
+        "Podol'skiy"
     ],
     "name:est_x_preferred":[
         "Podolski rajoon"
@@ -123,10 +139,11 @@
         }
     ],
     "wof:id":890486993,
-    "wof:lastmodified":1527792782,
-    "wof:name":"Podol'skij",
+    "wof:lastmodified":1555047556,
+    "wof:name":"Podol'skiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

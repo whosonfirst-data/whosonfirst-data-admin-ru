@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.417441,
-    "geom:area_square_m":3030745488.278149,
+    "geom:area_square_m":3030745488.278141,
     "geom:bbox":"32.5659643337,53.687507929,33.6894148414,54.3977042037",
     "geom:latitude":54.044435,
     "geom:longitude":33.114046,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Roslavl'skiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.966913,
     "lbl:longitude":33.029525,
     "meso:admin1_en":"Smolenskaja oblast'",
@@ -49,7 +61,11 @@
         "Roslavlsky District"
     ],
     "name:eng_x_preferred":[
-        "Roslavlsky District"
+        "Roslavl'skiy"
+    ],
+    "name:eng_x_variant":[
+        "Roslavl'skij",
+        "Roslavl'skiy"
     ],
     "name:ger_x_preferred":[
         "Roslawlski rajon"
@@ -117,10 +133,11 @@
         }
     ],
     "wof:id":890485717,
-    "wof:lastmodified":1527727136,
-    "wof:name":"Roslavl'skij",
+    "wof:lastmodified":1555047554,
+    "wof:name":"Roslavl'skiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

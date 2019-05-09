@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.457502,
-    "geom:area_square_m":3079237583.205834,
+    "geom:area_square_m":3079237583.205596,
     "geom:bbox":"50.5140457372,56.6622344094,51.5263310257,57.5102403486",
     "geom:latitude":57.022021,
     "geom:longitude":50.971597,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kil'mezskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.040327,
     "lbl:longitude":50.929517,
     "meso:admin1_en":"Kirovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Kil'mezskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kil'mezskij"
     ],
     "name:ger_x_preferred":[
         "Kilmesski rajon"
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108734415,
-    "wof:lastmodified":1514501759,
-    "wof:name":"Kil'mezskij",
+    "wof:lastmodified":1555047618,
+    "wof:name":"Kil'mezskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":18000,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

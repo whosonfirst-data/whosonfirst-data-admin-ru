@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.248358,
-    "geom:area_square_m":25831191091.306377,
+    "geom:area_square_m":25831191091.305138,
     "geom:bbox":"138.454330437,48.8647539643,140.692504883,51.0563898316",
     "geom:latitude":49.973978,
     "geom:longitude":139.599253,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Vaninskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.252609,
     "lbl:longitude":139.912149,
     "meso:admin1_en":"KHabarovskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Vaninskiy"
+    ],
+    "name:eng_x_variant":[
+        "Vaninskij"
     ],
     "name:ger_x_preferred":[
         "Waninski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108737295,
-    "wof:lastmodified":1514503829,
-    "wof:name":"Vaninskij",
+    "wof:lastmodified":1555047709,
+    "wof:name":"Vaninskiy",
     "wof:parent_id":85687937,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":46700,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

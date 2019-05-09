@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.403962,
-    "geom:area_square_m":8413674411.242971,
+    "geom:area_square_m":8413674411.243183,
     "geom:bbox":"38.9012686989,60.6358460154,41.4287825777,61.4930873298",
     "geom:latitude":61.010174,
     "geom:longitude":40.204786,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Konoshskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":61.04642,
     "lbl:longitude":40.204397,
     "meso:admin1_en":"Arkhangel'skaja oblast'",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Konoshskiy"
+    ],
+    "name:eng_x_variant":[
+        "Konoshskij"
     ],
     "name:fin_x_preferred":[
         "Kono\u0161an piiri"
@@ -123,11 +138,11 @@
         }
     ],
     "wof:id":1108734569,
-    "wof:lastmodified":1514501867,
-    "wof:name":"Konoshskij",
+    "wof:lastmodified":1555047623,
+    "wof:name":"Konoshskiy",
     "wof:parent_id":85687971,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":38400,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

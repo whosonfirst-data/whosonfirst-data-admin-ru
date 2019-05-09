@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.219371,
-    "geom:area_square_m":1663414966.983675,
+    "geom:area_square_m":1663414966.983696,
     "geom:bbox":"40.028176295,51.9346456329,40.7603990811,52.4688852219",
     "geom:latitude":52.176874,
     "geom:longitude":40.359638,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Dobrinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.164387,
     "lbl:longitude":40.365174,
     "meso:admin1_en":"Lipeckaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Dobrinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Dobrinskij"
     ],
     "name:ger_x_preferred":[
         "Rajon Dobrinka"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108733387,
-    "wof:lastmodified":1514501182,
-    "wof:name":"Dobrinskij",
+    "wof:lastmodified":1555047588,
+    "wof:name":"Dobrinskiy",
     "wof:parent_id":85687917,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":41600,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

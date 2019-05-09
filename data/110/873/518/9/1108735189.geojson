@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.210169,
-    "geom:area_square_m":1515661705.701521,
+    "geom:area_square_m":1515661705.70145,
     "geom:bbox":"31.285526,54.1004109529,32.1323662414,54.5526193078",
     "geom:latitude":54.322652,
     "geom:longitude":31.757072,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Monastyrshhinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.327382,
     "lbl:longitude":31.792317,
     "meso:admin1_en":"Smolenskaja oblast'",
@@ -48,7 +60,11 @@
         "Monastyrshchinsky District"
     ],
     "name:eng_x_preferred":[
-        "Monastyrshchinskiy"
+        "Monastyrshhinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Monastyrshhinskij",
+        "Monastyrshhinskiy"
     ],
     "name:ger_x_preferred":[
         "Monastyrschtschinski rajon"
@@ -111,11 +127,11 @@
         }
     ],
     "wof:id":1108735189,
-    "wof:lastmodified":1514502168,
-    "wof:name":"Monastyrshhinskij",
+    "wof:lastmodified":1555047642,
+    "wof:name":"Monastyrshhinskiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14800,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

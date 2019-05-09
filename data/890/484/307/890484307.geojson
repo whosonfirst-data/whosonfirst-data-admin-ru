@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.283979,
-    "geom:area_square_m":1990601484.48099,
+    "geom:area_square_m":1990601484.480831,
     "geom:bbox":"43.2935799729,55.1599547417,44.2478206117,55.7341828367",
     "geom:latitude":55.466446,
     "geom:longitude":43.724789,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Arzamasskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.539321,
     "lbl:longitude":43.640397,
     "meso:admin1_en":"Nizheskaja oblast'",
@@ -46,7 +58,11 @@
         "Arzamasskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Arzamassky District"
+        "Arzamasskiy"
+    ],
+    "name:eng_x_variant":[
+        "Arzamasskij",
+        "Arzamasskiy"
     ],
     "name:ger_x_preferred":[
         "Arsamasski rajon"
@@ -111,10 +127,11 @@
         }
     ],
     "wof:id":890484307,
-    "wof:lastmodified":1527727200,
-    "wof:name":"Arzamasskij",
+    "wof:lastmodified":1555047550,
+    "wof:name":"Arzamasskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

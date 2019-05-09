@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.520565,
-    "geom:area_square_m":3559880788.561099,
+    "geom:area_square_m":3559880788.561207,
     "geom:bbox":"43.7364872606,56.0557998618,45.2710704298,56.9117109192",
     "geom:latitude":56.423697,
     "geom:longitude":44.434046,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Bor District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.309843,
     "lbl:longitude":44.550092,
     "meso:admin1_en":"Nizheskaja oblast'",
@@ -36,6 +48,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
+        "Bor"
+    ],
+    "name:eng_x_variant":[
         "Borskiy"
     ],
     "name:und_x_variant":[
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108733627,
-    "wof:lastmodified":1505431715,
+    "wof:lastmodified":1555047595,
     "wof:name":"Bor",
     "wof:parent_id":85688057,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":65300,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

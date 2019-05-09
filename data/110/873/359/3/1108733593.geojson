@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.171725,
-    "geom:area_square_m":1228404385.578392,
+    "geom:area_square_m":1228404385.578449,
     "geom:bbox":"32.4632520433,54.4166384407,33.130612856,54.8875408234",
     "geom:latitude":54.654547,
     "geom:longitude":32.814902,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Glinkovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.663057,
     "lbl:longitude":32.809774,
     "meso:admin1_en":"Smolenskaja oblast'",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Glinkovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Glinkovskij"
     ],
     "name:ger_x_preferred":[
         "Glinkowski rajon"
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108733593,
-    "wof:lastmodified":1514501262,
-    "wof:name":"Glinkovskij",
+    "wof:lastmodified":1555047594,
+    "wof:name":"Glinkovskiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":6700,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",

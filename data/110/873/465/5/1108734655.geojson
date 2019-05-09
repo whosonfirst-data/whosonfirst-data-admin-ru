@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109632,
-    "geom:area_square_m":854018387.037256,
+    "geom:area_square_m":854018387.037348,
     "geom:bbox":"38.2760131888,50.7770736608,38.8785801924,51.105258737",
     "geom:latitude":50.951116,
     "geom:longitude":38.570498,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Krasnenskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.916082,
     "lbl:longitude":38.565779,
     "meso:admin1_en":"Belskaja oblast'",
@@ -48,7 +60,11 @@
         "Krasnenskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Krasnogvardeyskiy"
+        "Krasnenskiy"
+    ],
+    "name:eng_x_variant":[
+        "Krasnenskij",
+        "Krasnenskiy"
     ],
     "name:ger_x_preferred":[
         "Krasnenski rajon"
@@ -108,11 +124,11 @@
         }
     ],
     "wof:id":1108734655,
-    "wof:lastmodified":1514501904,
-    "wof:name":"Krasnenskij",
+    "wof:lastmodified":1555047625,
+    "wof:name":"Krasnenskiy",
     "wof:parent_id":85687813,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":41500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

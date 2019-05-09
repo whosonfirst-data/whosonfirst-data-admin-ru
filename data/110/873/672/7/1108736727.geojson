@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081572,
-    "geom:area_square_m":610646560.57578,
+    "geom:area_square_m":610646560.575804,
     "geom:bbox":"35.1866775155,52.5729551854,35.664180231,52.9058052856",
     "geom:latitude":52.741601,
     "geom:longitude":35.426679,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Soskovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.701782,
     "lbl:longitude":35.390648,
     "meso:admin1_en":"Orlovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Soskovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Soskovskij"
     ],
     "name:ger_x_preferred":[
         "Soskowski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108736727,
-    "wof:lastmodified":1514503354,
-    "wof:name":"Soskovskij",
+    "wof:lastmodified":1555047685,
+    "wof:name":"Soskovskiy",
     "wof:parent_id":85687849,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":9200,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",

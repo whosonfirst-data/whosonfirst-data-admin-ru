@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.267408,
-    "geom:area_square_m":2016532293.158149,
+    "geom:area_square_m":2016532293.158175,
     "geom:bbox":"47.9974398977,52.1080996631,48.885686817,52.6886697731",
     "geom:latitude":52.420585,
     "geom:longitude":48.434102,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Dukhovnickij District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.446499,
     "lbl:longitude":48.390474,
     "meso:admin1_en":"Saratovskaja oblast'",
@@ -45,6 +57,9 @@
         "Doechovnitskiy rayon"
     ],
     "name:eng_x_preferred":[
+        "Dukhovnickij"
+    ],
+    "name:eng_x_variant":[
         "Dukhovnitskiy"
     ],
     "name:ger_x_preferred":[
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108733425,
-    "wof:lastmodified":1514501198,
+    "wof:lastmodified":1555047589,
     "wof:name":"Dukhovnickij",
     "wof:parent_id":85687995,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":17000,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

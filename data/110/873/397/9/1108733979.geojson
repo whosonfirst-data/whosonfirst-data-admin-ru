@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.205332,
-    "geom:area_square_m":1384707062.74426,
+    "geom:area_square_m":1384707062.744274,
     "geom:bbox":"39.3753640989,56.7420882347,40.1836212179,57.2088354077",
     "geom:latitude":56.949192,
     "geom:longitude":39.81251,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Il'inskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.937784,
     "lbl:longitude":39.784855,
     "meso:admin1_en":"Ivanovskaja oblast'",
@@ -48,7 +60,11 @@
         "Ilinskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Il\u2019inskiy"
+        "Il'inskiy"
+    ],
+    "name:eng_x_variant":[
+        "Il'inskij",
+        "Il'inskiy"
     ],
     "name:ger_x_preferred":[
         "Iljinski rajon"
@@ -105,11 +121,11 @@
         }
     ],
     "wof:id":1108733979,
-    "wof:lastmodified":1514501360,
-    "wof:name":"Il'inskij",
+    "wof:lastmodified":1555047603,
+    "wof:name":"Il'inskiy",
     "wof:parent_id":85688153,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":12600,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

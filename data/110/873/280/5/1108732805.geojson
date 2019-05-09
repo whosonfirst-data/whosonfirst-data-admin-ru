@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.091955,
-    "geom:area_square_m":8067180864.87072,
+    "geom:area_square_m":8067180864.870666,
     "geom:bbox":"88.7520641791,52.7844631652,90.9498042214,53.8154421881",
     "geom:latitude":53.310818,
     "geom:longitude":89.834758,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Askizskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.242401,
     "lbl:longitude":89.759646,
     "meso:admin1_en":"Respublika KHakasija",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Askizskiy"
+    ],
+    "name:eng_x_variant":[
+        "Askizskij"
     ],
     "name:est_x_preferred":[
         "Askizi rajoon"
@@ -117,11 +132,11 @@
         }
     ],
     "wof:id":1108732805,
-    "wof:lastmodified":1553816502,
-    "wof:name":"Askizskij",
+    "wof:lastmodified":1555047568,
+    "wof:name":"Askizskiy",
     "wof:parent_id":85688061,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":48100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

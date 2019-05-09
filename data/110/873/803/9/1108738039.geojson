@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.285962,
-    "geom:area_square_m":2099085433.592942,
+    "geom:area_square_m":2099085433.592954,
     "geom:bbox":"42.0811230288,53.3223511677,42.9159761098,53.8541065774",
     "geom:latitude":53.584389,
     "geom:longitude":42.482071,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Zemetchinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.546985,
     "lbl:longitude":42.481828,
     "meso:admin1_en":"Penzenskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Zemetchinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Zemetchinskij"
     ],
     "name:fin_x_preferred":[
         "Zemett\u0161inon piiri"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108738039,
-    "wof:lastmodified":1514504134,
-    "wof:name":"Zemetchinskij",
+    "wof:lastmodified":1555047717,
+    "wof:name":"Zemetchinskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":34300,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

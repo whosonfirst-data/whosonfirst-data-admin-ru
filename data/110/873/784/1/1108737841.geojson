@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.137378,
-    "geom:area_square_m":988363577.362648,
+    "geom:area_square_m":988363577.362642,
     "geom:bbox":"38.7824370805,54.2339645823,39.6316478672,54.5881316679",
     "geom:latitude":54.42032,
     "geom:longitude":39.237126,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Zakharovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.394113,
     "lbl:longitude":39.307713,
     "meso:admin1_en":"Rjazanskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Zakharovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Zakharovskij"
     ],
     "name:ger_x_preferred":[
         "Sacharowski rajon"
@@ -99,11 +114,11 @@
         }
     ],
     "wof:id":1108737841,
-    "wof:lastmodified":1514504105,
-    "wof:name":"Zakharovskij",
+    "wof:lastmodified":1555047715,
+    "wof:name":"Zakharovskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":11400,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

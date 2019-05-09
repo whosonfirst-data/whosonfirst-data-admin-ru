@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.579021,
-    "geom:area_square_m":3816550500.187319,
+    "geom:area_square_m":3816550500.187131,
     "geom:bbox":"55.3566510368,57.3678303319,56.8304646386,58.317395199",
     "geom:latitude":57.787423,
     "geom:longitude":56.101331,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Permskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.726352,
     "lbl:longitude":55.917117,
     "meso:admin1_en":"Permskij kraj",
@@ -36,6 +48,12 @@
     "mps:longitude":55.917117,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Permskiy"
+    ],
+    "name:eng_x_variant":[
+        "Permskij"
+    ],
     "name:und_x_variant":[
         "\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439  \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -81,10 +99,11 @@
         }
     ],
     "wof:id":890484335,
-    "wof:lastmodified":1527727206,
-    "wof:name":"Permskij",
+    "wof:lastmodified":1555047550,
+    "wof:name":"Permskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

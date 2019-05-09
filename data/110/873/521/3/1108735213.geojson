@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.347986,
-    "geom:area_square_m":2473637587.292876,
+    "geom:area_square_m":2473637587.293005,
     "geom:bbox":"71.5309819042,54.5036503732,72.2621263073,55.277063317",
     "geom:latitude":54.908972,
     "geom:longitude":71.895669,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Moskalenskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.960148,
     "lbl:longitude":71.86626,
     "meso:admin1_en":"Omskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Moskalenskiy"
+    ],
+    "name:eng_x_variant":[
+        "Moskalenskij"
     ],
     "name:ger_x_preferred":[
         "Moskalenski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108735213,
-    "wof:lastmodified":1514502219,
-    "wof:name":"Moskalenskij",
+    "wof:lastmodified":1555047642,
+    "wof:name":"Moskalenskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":35500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -13,6 +13,18 @@
     "gn:fcode":"ADM2",
     "gn:pop":19086,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Zavitinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.390671,
     "lbl:longitude":129.719099,
     "meso:admin1_en":"Amurskaja oblast'",
@@ -52,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Zavitinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Zavitinskij"
     ],
     "name:ger_x_preferred":[
         "Sawitinski rajon"
@@ -124,11 +139,11 @@
         }
     ],
     "wof:id":890479549,
-    "wof:lastmodified":1536617431,
-    "wof:name":"Zavitinskij",
+    "wof:lastmodified":1555047534,
+    "wof:name":"Zavitinskiy",
     "wof:parent_id":85687951,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":26700,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.326863,
-    "geom:area_square_m":2561496606.348219,
+    "geom:area_square_m":2561496606.3483,
     "geom:bbox":"46.9061967841,50.3660557184,47.8750794215,50.9947882927",
     "geom:latitude":50.671489,
     "geom:longitude":47.465696,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Piterskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.669081,
     "lbl:longitude":47.473044,
     "meso:admin1_en":"Saratovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Piterskiy"
+    ],
+    "name:eng_x_variant":[
+        "Piterskij"
     ],
     "name:ger_x_preferred":[
         "Piterski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108735877,
-    "wof:lastmodified":1514502667,
-    "wof:name":"Piterskij",
+    "wof:lastmodified":1555047666,
+    "wof:name":"Piterskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":19800,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -11,6 +11,18 @@
     "geom:longitude":37.895937,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Krymskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":44.982721,
     "lbl:longitude":37.922063,
     "meso:admin1_en":"Krasnodarskij kraj",
@@ -53,6 +65,9 @@
     ],
     "name:eng_x_preferred":[
         "Krymskiy"
+    ],
+    "name:eng_x_variant":[
+        "Krymskij"
     ],
     "name:fre_x_preferred":[
         "ra\u00efon de Krymsk"
@@ -136,11 +151,11 @@
         }
     ],
     "wof:id":890483377,
-    "wof:lastmodified":1536617438,
-    "wof:name":"Krymskij",
+    "wof:lastmodified":1555047545,
+    "wof:name":"Krymskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":72800,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

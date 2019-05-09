@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.407065,
-    "geom:area_square_m":3110417352.793397,
+    "geom:area_square_m":3110417352.793203,
     "geom:bbox":"79.1571454241,51.4656541522,80.0985353892,52.2076756137",
     "geom:latitude":51.833107,
     "geom:longitude":79.666316,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Mikhajlovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.807472,
     "lbl:longitude":79.71274,
     "meso:admin1_en":"Altajskij kraj",
@@ -45,7 +57,11 @@
         "Michaylovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Mikhaylovskiy"
+        "Mikhajlovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Mikhajlovskij",
+        "Mikhajlovskiy"
     ],
     "name:ger_x_preferred":[
         "Michajlowski rajon"
@@ -102,11 +118,11 @@
         }
     ],
     "wof:id":1108735133,
-    "wof:lastmodified":1514502152,
-    "wof:name":"Mikhajlovskij",
+    "wof:lastmodified":1555047640,
+    "wof:name":"Mikhajlovskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14900,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.122933,
-    "geom:area_square_m":828543112.14677,
+    "geom:area_square_m":828543112.146728,
     "geom:bbox":"42.7197154059,56.7995333415,43.3018647036,57.1361423057",
     "geom:latitude":56.970979,
     "geom:longitude":42.990265,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Puchezhskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.977103,
     "lbl:longitude":42.990186,
     "meso:admin1_en":"Ivanovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Puchezhskiy"
+    ],
+    "name:eng_x_variant":[
+        "Puchezhskij"
     ],
     "name:ger_x_preferred":[
         "Putscheschski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108736021,
-    "wof:lastmodified":1514502739,
-    "wof:name":"Puchezhskij",
+    "wof:lastmodified":1555047671,
+    "wof:name":"Puchezhskiy",
     "wof:parent_id":85688153,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":20400,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

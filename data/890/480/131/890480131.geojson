@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105978,
-    "geom:area_square_m":866045049.821132,
+    "geom:area_square_m":866045049.821082,
     "geom:bbox":"44.1138763096,48.4506473976,44.6869412395,48.8896541645",
     "geom:latitude":48.632666,
     "geom:longitude":44.440391,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Volgograd District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":48.638432,
     "lbl:longitude":44.436155,
     "meso:admin1_en":"Volgogradskaja oblast'",
@@ -36,6 +48,9 @@
     "mps:longitude":44.436155,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Volgograd"
+    ],
     "name:und_x_variant":[
         "\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434"
     ],
@@ -80,10 +95,11 @@
         }
     ],
     "wof:id":890480131,
-    "wof:lastmodified":1527792846,
+    "wof:lastmodified":1555047537,
     "wof:name":"Volgograd",
     "wof:parent_id":85688101,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.372842,
-    "geom:area_square_m":2508853658.422791,
+    "geom:area_square_m":2508853658.422866,
     "geom:bbox":"36.5978037876,56.7454333595,37.7373706623,57.3318774111",
     "geom:latitude":57.030624,
     "geom:longitude":37.137478,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kimrskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.988659,
     "lbl:longitude":37.085507,
     "meso:admin1_en":"Tverskaja oblast'",
@@ -52,7 +64,11 @@
         "Kimrskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Kimrsky District"
+        "Kimrskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kimrskij",
+        "Kimrskiy"
     ],
     "name:est_x_preferred":[
         "Kimr\u00f5 rajoon"
@@ -132,10 +148,11 @@
         }
     ],
     "wof:id":890482991,
-    "wof:lastmodified":1527727137,
-    "wof:name":"Kimrskij",
+    "wof:lastmodified":1555047543,
+    "wof:name":"Kimrskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

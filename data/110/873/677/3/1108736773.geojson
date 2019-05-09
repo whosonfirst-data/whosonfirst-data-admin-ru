@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.471883,
-    "geom:area_square_m":4146447719.543746,
+    "geom:area_square_m":4146447719.544068,
     "geom:bbox":"132.396369823,44.3467141796,133.581179013,45.1524203794",
     "geom:latitude":44.713959,
     "geom:longitude":133.030338,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Spasskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":44.718797,
     "lbl:longitude":133.068519,
     "meso:admin1_en":"Primorskij kraj",
@@ -45,7 +57,11 @@
         "Spassky District"
     ],
     "name:eng_x_preferred":[
-        "Khorol'skiy"
+        "Spasskiy"
+    ],
+    "name:eng_x_variant":[
+        "Spasskij",
+        "Spasskiy"
     ],
     "name:ger_x_preferred":[
         "Spasski rajon"
@@ -105,11 +121,11 @@
         }
     ],
     "wof:id":1108736773,
-    "wof:lastmodified":1514503369,
-    "wof:name":"Spasskij",
+    "wof:lastmodified":1555047686,
+    "wof:name":"Spasskiy",
     "wof:parent_id":85688023,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":39000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075688,
-    "geom:area_square_m":687590383.914664,
+    "geom:area_square_m":687590383.914665,
     "geom:bbox":"46.0032704962,42.5687745178,46.5053034213,42.9075264716",
     "geom:latitude":42.719626,
     "geom:longitude":46.240019,
@@ -13,6 +13,18 @@
     "gn:fcode":"ADM2",
     "gn:pop":50680,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Botlikhskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":42.728916,
     "lbl:longitude":46.264717,
     "meso:admin1_en":"Dagestan",
@@ -58,6 +70,9 @@
     ],
     "name:eng_x_preferred":[
         "Botlikhskiy"
+    ],
+    "name:eng_x_variant":[
+        "Botlikhskij"
     ],
     "name:est_x_preferred":[
         "Botlihhi rajoon"
@@ -154,11 +169,11 @@
         }
     ],
     "wof:id":890487947,
-    "wof:lastmodified":1553816419,
-    "wof:name":"Botlikhskij",
+    "wof:lastmodified":1555047560,
+    "wof:name":"Botlikhskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":34300,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

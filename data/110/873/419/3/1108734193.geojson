@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.267161,
-    "geom:area_square_m":2105059708.770076,
+    "geom:area_square_m":2105059708.770106,
     "geom:bbox":"40.4971566657,50.1776538974,41.5366279585,50.6363489832",
     "geom:latitude":50.415084,
     "geom:longitude":41.059076,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kalacheevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.400732,
     "lbl:longitude":41.094271,
     "meso:admin1_en":"Voronezhskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Kalacheevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kalacheevskij"
     ],
     "name:ger_x_preferred":[
         "Kalatschejewski rajon"
@@ -99,11 +114,11 @@
         }
     ],
     "wof:id":1108734193,
-    "wof:lastmodified":1514501474,
-    "wof:name":"Kalacheevskij",
+    "wof:lastmodified":1555047610,
+    "wof:name":"Kalacheevskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":64300,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

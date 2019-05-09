@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.126932,
-    "geom:area_square_m":926179991.403384,
+    "geom:area_square_m":926179991.403298,
     "geom:bbox":"44.5979991911,53.650877554,45.2610358712,53.9729047005",
     "geom:latitude":53.835955,
     "geom:longitude":44.912755,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Issinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.858363,
     "lbl:longitude":44.885867,
     "meso:admin1_en":"Penzenskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Issinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Issinskij"
     ],
     "name:ger_x_preferred":[
         "Issinski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108734031,
-    "wof:lastmodified":1514501381,
-    "wof:name":"Issinskij",
+    "wof:lastmodified":1555047605,
+    "wof:name":"Issinskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":15100,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

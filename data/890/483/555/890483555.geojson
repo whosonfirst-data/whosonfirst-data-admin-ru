@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.396626,
-    "geom:area_square_m":27700049944.231297,
+    "geom:area_square_m":27700049944.230141,
     "geom:bbox":"-177.255203776,64.236190796,-172.067504883,66.9162040685",
     "geom:latitude":65.472473,
     "geom:longitude":-174.68062,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Providenskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":65.154649,
     "lbl:longitude":-174.274662,
     "meso:admin1_en":"CHukotskij avtonomnyj okrug",
@@ -49,7 +61,11 @@
         "Providenskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Providensky District"
+        "Providenskiy"
+    ],
+    "name:eng_x_variant":[
+        "Providenskij",
+        "Providenskiy"
     ],
     "name:est_x_preferred":[
         "Providenija rajoon"
@@ -120,10 +136,11 @@
         }
     ],
     "wof:id":890483555,
-    "wof:lastmodified":1527727193,
-    "wof:name":"Providenskij",
+    "wof:lastmodified":1555047547,
+    "wof:name":"Providenskiy",
     "wof:parent_id":85687795,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

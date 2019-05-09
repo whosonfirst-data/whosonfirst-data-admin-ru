@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.869142,
-    "geom:area_square_m":12431027946.754122,
+    "geom:area_square_m":12431027946.754591,
     "geom:bbox":"86.9875266394,56.6846816034,89.377898635,58.2627585503",
     "geom:latitude":57.46161,
     "geom:longitude":88.226065,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Tegul'detskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.544441,
     "lbl:longitude":88.20862,
     "meso:admin1_en":"Tomskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Tegul'detskiy"
+    ],
+    "name:eng_x_variant":[
+        "Tegul'detskij"
     ],
     "name:fin_x_preferred":[
         "Teguldetin piiri"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108736967,
-    "wof:lastmodified":1514503589,
-    "wof:name":"Tegul'detskij",
+    "wof:lastmodified":1555047696,
+    "wof:name":"Tegul'detskiy",
     "wof:parent_id":85687809,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":8800,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",

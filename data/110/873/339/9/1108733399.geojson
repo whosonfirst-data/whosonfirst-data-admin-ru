@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11921,
-    "geom:area_square_m":905531343.887356,
+    "geom:area_square_m":905531343.887404,
     "geom:bbox":"37.1839986726,51.9333876621,37.7948889265,52.2565287916",
     "geom:latitude":52.097905,
     "geom:longitude":37.49812,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Dolzhanskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.084018,
     "lbl:longitude":37.412385,
     "meso:admin1_en":"Orlovskaja oblast'",
@@ -43,6 +55,9 @@
     ],
     "name:eng_x_preferred":[
         "Dolzhanskiy"
+    ],
+    "name:eng_x_variant":[
+        "Dolzhanskij"
     ],
     "name:ger_x_preferred":[
         "Dolschanski rajon"
@@ -99,11 +114,11 @@
         }
     ],
     "wof:id":1108733399,
-    "wof:lastmodified":1514501186,
-    "wof:name":"Dolzhanskij",
+    "wof:lastmodified":1555047588,
+    "wof:name":"Dolzhanskiy",
     "wof:parent_id":85687849,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14700,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

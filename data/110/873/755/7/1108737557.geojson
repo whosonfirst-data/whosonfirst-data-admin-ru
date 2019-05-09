@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.533478,
-    "geom:area_square_m":3380993378.63188,
+    "geom:area_square_m":3380993378.632047,
     "geom:bbox":"46.0232623104,58.5785876818,47.124140106,59.6306152685",
     "geom:latitude":59.166514,
     "geom:longitude":46.629714,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Vokhomskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":59.347941,
     "lbl:longitude":46.729908,
     "meso:admin1_en":"Kostromskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Vokhomskiy"
+    ],
+    "name:eng_x_variant":[
+        "Vokhomskij"
     ],
     "name:ger_x_preferred":[
         "Wochomski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108737557,
-    "wof:lastmodified":1514503877,
-    "wof:name":"Vokhomskij",
+    "wof:lastmodified":1555047713,
+    "wof:name":"Vokhomskiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14800,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

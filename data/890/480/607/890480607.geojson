@@ -11,6 +11,18 @@
     "geom:longitude":40.421566,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Millerovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":48.983452,
     "lbl:longitude":40.431767,
     "meso:admin1_en":"Rostovskaja oblast'",
@@ -47,6 +59,9 @@
     ],
     "name:eng_x_preferred":[
         "Millerovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Millerovskij"
     ],
     "name:fre_x_preferred":[
         "ra\u00efon de Millerovo"
@@ -127,11 +142,11 @@
         }
     ],
     "wof:id":890480607,
-    "wof:lastmodified":1536617434,
-    "wof:name":"Millerovskij",
+    "wof:lastmodified":1555047538,
+    "wof:name":"Millerovskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":38400,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

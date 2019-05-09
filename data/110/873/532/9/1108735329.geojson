@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.412593,
-    "geom:area_square_m":2674660907.196022,
+    "geom:area_square_m":2674660907.195971,
     "geom:bbox":"43.357681941,57.9773118975,44.5460076008,58.7604571379",
     "geom:latitude":58.381402,
     "geom:longitude":43.974948,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Nejskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":58.488236,
     "lbl:longitude":44.114646,
     "meso:admin1_en":"Kostromskaja oblast'",
@@ -45,7 +57,11 @@
         "Neyskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Neyskiy"
+        "Nejskiy"
+    ],
+    "name:eng_x_variant":[
+        "Nejskij",
+        "Nejskiy"
     ],
     "name:ger_x_preferred":[
         "Neiski rajon"
@@ -99,11 +115,11 @@
         }
     ],
     "wof:id":1108735329,
-    "wof:lastmodified":1514502339,
-    "wof:name":"Nejskij",
+    "wof:lastmodified":1555047645,
+    "wof:name":"Nejskiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":19300,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

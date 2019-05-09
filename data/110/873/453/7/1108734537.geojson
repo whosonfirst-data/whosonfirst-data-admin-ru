@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.692897,
-    "geom:area_square_m":4743516485.515584,
+    "geom:area_square_m":4743516485.515615,
     "geom:bbox":"72.7430957988,56.0447364792,74.1861888233,56.7948465676",
     "geom:latitude":56.382455,
     "geom:longitude":73.470454,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kolosovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.404182,
     "lbl:longitude":73.48401,
     "meso:admin1_en":"Omskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Kolosovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kolosovskij"
     ],
     "name:ger_x_preferred":[
         "Kolosowski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108734537,
-    "wof:lastmodified":1514501823,
-    "wof:name":"Kolosovskij",
+    "wof:lastmodified":1555047622,
+    "wof:name":"Kolosovskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":17400,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

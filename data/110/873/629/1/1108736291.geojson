@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.302715,
-    "geom:area_square_m":2166780433.227564,
+    "geom:area_square_m":2166780433.227486,
     "geom:bbox":"39.3345800907,54.3093948628,40.4348876834,54.9225285641",
     "geom:latitude":54.628928,
     "geom:longitude":39.897186,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Rjazanskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.671829,
     "lbl:longitude":39.997051,
     "meso:admin1_en":"Rjazanskaja oblast'",
@@ -48,7 +60,11 @@
         "District Rjazanski"
     ],
     "name:eng_x_preferred":[
-        "Ryazanskiy"
+        "Rjazanskiy"
+    ],
+    "name:eng_x_variant":[
+        "Rjazanskij",
+        "Rjazanskiy"
     ],
     "name:ger_x_preferred":[
         "Rjasanski rajon"
@@ -99,11 +115,11 @@
         }
     ],
     "wof:id":1108736291,
-    "wof:lastmodified":1514502764,
-    "wof:name":"Rjazanskij",
+    "wof:lastmodified":1555047675,
+    "wof:name":"Rjazanskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":57600,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

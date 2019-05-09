@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.91127,
-    "geom:area_square_m":13830525785.28875,
+    "geom:area_square_m":13830525785.289036,
     "geom:bbox":"99.2304046474,53.2360841474,101.131948615,55.0909760634",
     "geom:latitude":54.180405,
     "geom:longitude":100.274307,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Tulunskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.088144,
     "lbl:longitude":100.213871,
     "meso:admin1_en":"Irkutskaja oblast'",
@@ -46,7 +58,11 @@
         "Toeloenskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Tulunsky District"
+        "Tulunskiy"
+    ],
+    "name:eng_x_variant":[
+        "Tulunskij",
+        "Tulunskiy"
     ],
     "name:ger_x_preferred":[
         "Tulunski rajon"
@@ -108,10 +124,11 @@
         }
     ],
     "wof:id":890487453,
-    "wof:lastmodified":1527792823,
-    "wof:name":"Tulunskij",
+    "wof:lastmodified":1555047559,
+    "wof:name":"Tulunskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.348364,
-    "geom:area_square_m":2333141938.313362,
+    "geom:area_square_m":2333141938.313141,
     "geom:bbox":"43.4958834246,56.8399064225,44.5069147307,57.5222905362",
     "geom:latitude":57.204836,
     "geom:longitude":43.988694,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Koverninskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.1469,
     "lbl:longitude":43.946668,
     "meso:admin1_en":"Nizheskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Koverninskiy"
+    ],
+    "name:eng_x_variant":[
+        "Koverninskij"
     ],
     "name:epo_x_preferred":[
         "Distrikto Kovernino"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108734635,
-    "wof:lastmodified":1514501894,
-    "wof:name":"Koverninskij",
+    "wof:lastmodified":1555047624,
+    "wof:name":"Koverninskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":23300,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

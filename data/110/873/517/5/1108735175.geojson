@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.299545,
-    "geom:area_square_m":2204565537.613952,
+    "geom:area_square_m":2204565537.613921,
     "geom:bbox":"43.9807049321,53.1679283477,44.9251085176,53.7202805492",
     "geom:latitude":53.473288,
     "geom:longitude":44.484182,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Mokshanskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.452835,
     "lbl:longitude":44.437493,
     "meso:admin1_en":"Penzenskaja oblast'",
@@ -52,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Mokshanskiy"
+    ],
+    "name:eng_x_variant":[
+        "Mokshanskij"
     ],
     "name:est_x_preferred":[
         "Mok\u0161ani rajoon"
@@ -114,11 +129,11 @@
         }
     ],
     "wof:id":1108735175,
-    "wof:lastmodified":1514502166,
-    "wof:name":"Mokshanskij",
+    "wof:lastmodified":1555047641,
+    "wof:name":"Mokshanskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":32500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

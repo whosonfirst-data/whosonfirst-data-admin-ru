@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.257733,
-    "geom:area_square_m":16704795970.044601,
+    "geom:area_square_m":16704795970.0452,
     "geom:bbox":"138.730886244,51.7519026087,141.54586792,54.362915039",
     "geom:latitude":53.24474,
     "geom:longitude":140.292839,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Nikolaevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.711143,
     "lbl:longitude":139.800557,
     "meso:admin1_en":"KHabarovskij kraj",
@@ -46,7 +58,11 @@
         "Nikolaevskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Nikolayevsky District"
+        "Nikolaevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Nikolaevskij",
+        "Nikolaevskiy"
     ],
     "name:est_x_preferred":[
         "Nikolajevski rajoon"
@@ -111,10 +127,11 @@
         }
     ],
     "wof:id":890483493,
-    "wof:lastmodified":1527727195,
-    "wof:name":"Nikolaevskij",
+    "wof:lastmodified":1555047546,
+    "wof:name":"Nikolaevskiy",
     "wof:parent_id":85687937,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

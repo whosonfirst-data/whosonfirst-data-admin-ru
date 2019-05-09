@@ -11,6 +11,18 @@
     "geom:longitude":45.15745,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Lyskovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.17435,
     "lbl:longitude":45.1645,
     "meso:admin1_en":"Nizheskaja oblast'",
@@ -47,6 +59,9 @@
     ],
     "name:eng_x_preferred":[
         "Lyskovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Lyskovskij"
     ],
     "name:ger_x_preferred":[
         "Lyskowski rajon"
@@ -130,11 +145,11 @@
         }
     ],
     "wof:id":890485349,
-    "wof:lastmodified":1536617442,
-    "wof:name":"Lyskovskij",
+    "wof:lastmodified":1555047552,
+    "wof:name":"Lyskovskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":45300,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

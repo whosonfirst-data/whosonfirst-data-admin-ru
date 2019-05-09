@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":16.75736,
-    "geom:area_square_m":91818526510.356003,
+    "geom:area_square_m":91818526510.360214,
     "geom:bbox":"139.35253267,61.7225665241,146.396327264,65.6111734429",
     "geom:latitude":63.692946,
     "geom:longitude":142.705014,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ojmjakonskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":63.621494,
     "lbl:longitude":142.639153,
     "meso:admin1_en":"Respublika Sakha (JAkutija)",
@@ -48,7 +60,11 @@
         "Oymjakonskiy oeloes"
     ],
     "name:eng_x_preferred":[
-        "Oymyakonskiy"
+        "Ojmjakonskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ojmjakonskij ulus",
+        "Ojmjakonskiy"
     ],
     "name:est_x_preferred":[
         "Oimjakoni uluss"
@@ -129,11 +145,11 @@
         }
     ],
     "wof:id":1108735603,
-    "wof:lastmodified":1514502538,
-    "wof:name":"Ojmjakonskij ulus",
+    "wof:lastmodified":1555047656,
+    "wof:name":"Ojmjakonskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":16400,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

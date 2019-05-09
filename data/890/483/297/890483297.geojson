@@ -11,6 +11,18 @@
     "geom:longitude":38.967341,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Poshekhonskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":58.583435,
     "lbl:longitude":39.119918,
     "meso:admin1_en":"JAroslavskaja oblast'",
@@ -47,6 +59,9 @@
     ],
     "name:eng_x_preferred":[
         "Poshekhonskiy"
+    ],
+    "name:eng_x_variant":[
+        "Poshekhonskij"
     ],
     "name:fin_x_preferred":[
         "Po\u0161ehonjen piiri"
@@ -124,11 +139,11 @@
         }
     ],
     "wof:id":890483297,
-    "wof:lastmodified":1536617438,
-    "wof:name":"Poshekhonskij",
+    "wof:lastmodified":1555047544,
+    "wof:name":"Poshekhonskiy",
     "wof:parent_id":85687959,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":19800,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

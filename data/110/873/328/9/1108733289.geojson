@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.589206,
-    "geom:area_square_m":4516440850.336923,
+    "geom:area_square_m":4516440850.33661,
     "geom:bbox":"86.1636303778,51.151960935,87.171088322,52.1374859884",
     "geom:latitude":51.690028,
     "geom:longitude":86.701911,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Chojskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.756164,
     "lbl:longitude":86.641964,
     "meso:admin1_en":"Altaj",
@@ -48,7 +60,11 @@
         "Tsjoyskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Choyskiy"
+        "Chojskiy"
+    ],
+    "name:eng_x_variant":[
+        "CHojskij",
+        "Chojskiy"
     ],
     "name:est_x_preferred":[
         "T\u0161oja rajoon"
@@ -120,11 +136,11 @@
         }
     ],
     "wof:id":1108733289,
-    "wof:lastmodified":1514500920,
-    "wof:name":"CHojskij",
+    "wof:lastmodified":1555047584,
+    "wof:name":"Chojskiy",
     "wof:parent_id":85687949,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":9500,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",

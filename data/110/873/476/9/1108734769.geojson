@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.736516,
-    "geom:area_square_m":4685326128.895658,
+    "geom:area_square_m":4685326128.895693,
     "geom:bbox":"53.6903027436,58.6010517524,55.5841803389,59.5393322081",
     "geom:latitude":59.038024,
     "geom:longitude":54.534642,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kudymkarskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":58.945088,
     "lbl:longitude":54.312916,
     "meso:admin1_en":"Permskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Kudymkarskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kudymkarskij"
     ],
     "name:fin_x_preferred":[
         "Kudymkarin piiri"
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108734769,
-    "wof:lastmodified":1514501955,
-    "wof:name":"Kudymkarskij",
+    "wof:lastmodified":1555047629,
+    "wof:name":"Kudymkarskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":32800,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

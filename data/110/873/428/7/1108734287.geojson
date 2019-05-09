@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.63307,
-    "geom:area_square_m":4706437876.720505,
+    "geom:area_square_m":4706437876.720801,
     "geom:bbox":"59.7152300023,52.6925904323,61.0749835,53.4491283939",
     "geom:latitude":53.041891,
     "geom:longitude":60.39827,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kartalinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.031404,
     "lbl:longitude":60.286188,
     "meso:admin1_en":"CHeljabinskaja oblast'",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Kartalinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kartalinskij"
     ],
     "name:fre_x_preferred":[
         "Ra\u00efon de Kartaly"
@@ -114,11 +129,11 @@
         }
     ],
     "wof:id":1108734287,
-    "wof:lastmodified":1514501674,
-    "wof:name":"Kartalinskij",
+    "wof:lastmodified":1555047614,
+    "wof:name":"Kartalinskiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":23400,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

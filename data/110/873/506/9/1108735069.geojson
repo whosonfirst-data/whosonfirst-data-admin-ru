@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.364545,
-    "geom:area_square_m":2796581456.286061,
+    "geom:area_square_m":2796581456.285937,
     "geom:bbox":"46.5024998017,51.404770918,47.8024928634,51.9652045221",
     "geom:latitude":51.654182,
     "geom:longitude":47.138531,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Marksovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.699283,
     "lbl:longitude":47.183179,
     "meso:admin1_en":"Saratovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Marksovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Marksovskij"
     ],
     "name:ger_x_preferred":[
         "Marxowski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108735069,
-    "wof:lastmodified":1514502124,
-    "wof:name":"Marksovskij",
+    "wof:lastmodified":1555047638,
+    "wof:name":"Marksovskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":35600,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

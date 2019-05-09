@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":18.217571,
-    "geom:area_square_m":101304306994.989502,
+    "geom:area_square_m":101304306994.974838,
     "geom:bbox":"156.806758667,60.572887421,163.492199282,65.6673059953",
     "geom:latitude":63.268947,
     "geom:longitude":160.298364,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Severo-EHvenskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":63.538232,
     "lbl:longitude":160.626048,
     "meso:admin1_en":"Magadanskaja oblast'",
@@ -48,7 +60,11 @@
         "Severo-Evenskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Severo-Evenskiy"
+        "Severo-EHvenskiy"
+    ],
+    "name:eng_x_variant":[
+        "Severo-EHvenskij",
+        "Severo-EHvenskiy"
     ],
     "name:est_x_preferred":[
         "Severo-Evenski rajoon"
@@ -108,11 +124,11 @@
         }
     ],
     "wof:id":1108736467,
-    "wof:lastmodified":1514503286,
-    "wof:name":"Severo-EHvenskij",
+    "wof:lastmodified":1555047680,
+    "wof:name":"Severo-EHvenskiy",
     "wof:parent_id":85687881,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":3900,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ru",

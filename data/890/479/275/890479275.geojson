@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.913919,
-    "geom:area_square_m":6268659155.295678,
+    "geom:area_square_m":6268659155.295768,
     "geom:bbox":"96.20581062,55.7974991787,97.897310526,56.8186021454",
     "geom:latitude":56.308979,
     "geom:longitude":97.015096,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Nizhneingashskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":56.267356,
     "lbl:longitude":96.887041,
     "meso:admin1_en":"Krasnojarskij kraj",
@@ -48,7 +54,11 @@
         "Nizjneingasjskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Nizhneingashsky District"
+        "Nizhneingashskiy"
+    ],
+    "name:eng_x_variant":[
+        "Nizhneingashskij",
+        "Nizhneingashskiy"
     ],
     "name:ger_x_preferred":[
         "Nischneingaschski rajon"
@@ -112,8 +122,8 @@
         }
     ],
     "wof:id":890479275,
-    "wof:lastmodified":1514502432,
-    "wof:name":"Nizhneingashskij",
+    "wof:lastmodified":1555047533,
+    "wof:name":"Nizhneingashskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",
     "wof:population":0,

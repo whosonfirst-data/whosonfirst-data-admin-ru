@@ -13,6 +13,18 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kingiseppskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":59.508899,
     "lbl:longitude":28.646684,
     "meso:admin1_en":"Leningradskaja oblast'",
@@ -52,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Kingiseppskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kingiseppskij"
     ],
     "name:est_x_preferred":[
         "Kingissepa rajoon"
@@ -164,11 +179,11 @@
         }
     ],
     "wof:id":890481557,
-    "wof:lastmodified":1536617436,
-    "wof:name":"Kingiseppskij",
+    "wof:lastmodified":1555047540,
+    "wof:name":"Kingiseppskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":22300,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

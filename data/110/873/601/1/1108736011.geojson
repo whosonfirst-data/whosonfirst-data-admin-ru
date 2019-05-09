@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.324735,
-    "geom:area_square_m":2745446188.537865,
+    "geom:area_square_m":2745446188.537737,
     "geom:bbox":"40.9223843867,46.5084984074,42.4446292464,47.2049309253",
     "geom:latitude":46.864115,
     "geom:longitude":41.678975,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Proletarskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":46.939638,
     "lbl:longitude":41.667486,
     "meso:admin1_en":"Rostovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Proletarskiy"
+    ],
+    "name:eng_x_variant":[
+        "Proletarskij"
     ],
     "name:ger_x_preferred":[
         "Proletarski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108736011,
-    "wof:lastmodified":1553816506,
-    "wof:name":"Proletarskij",
+    "wof:lastmodified":1555047671,
+    "wof:name":"Proletarskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":37100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

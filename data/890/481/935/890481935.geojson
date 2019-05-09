@@ -13,6 +13,18 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Pushkinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.102357,
     "lbl:longitude":37.899879,
     "meso:admin1_en":"Moskovskaja oblast'",
@@ -55,6 +67,9 @@
     ],
     "name:eng_x_preferred":[
         "Pushkinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Pushkinskij"
     ],
     "name:fre_x_preferred":[
         "ra\u00efon Pouchkinski"
@@ -137,11 +152,11 @@
         }
     ],
     "wof:id":890481935,
-    "wof:lastmodified":1536617436,
-    "wof:name":"Pushkinskij",
+    "wof:lastmodified":1555047541,
+    "wof:name":"Pushkinskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":85100,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

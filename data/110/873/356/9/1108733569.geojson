@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125038,
-    "geom:area_square_m":931829690.964829,
+    "geom:area_square_m":931829690.964828,
     "geom:bbox":"42.3195510729,52.7619635568,43.005993189,53.1294841785",
     "geom:latitude":52.937258,
     "geom:longitude":42.667118,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Gavrilovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.909775,
     "lbl:longitude":42.672432,
     "meso:admin1_en":"Tambovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Gavrilovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Gavrilovskij"
     ],
     "name:ger_x_preferred":[
         "Gawrilowski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108733569,
-    "wof:lastmodified":1514501252,
-    "wof:name":"Gavrilovskij",
+    "wof:lastmodified":1555047594,
+    "wof:name":"Gavrilovskiy",
     "wof:parent_id":85687829,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14200,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

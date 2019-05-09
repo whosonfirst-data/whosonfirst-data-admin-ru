@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009395,
-    "geom:area_square_m":63196031.097729,
+    "geom:area_square_m":63196031.097728,
     "geom:bbox":"34.8816614932,57.0001369113,35.0361332159,57.1001467933",
     "geom:latitude":57.04614,
     "geom:longitude":34.96593,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Torzhok District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.048282,
     "lbl:longitude":34.973665,
     "meso:admin1_en":"Tverskaja oblast'",
@@ -36,6 +48,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
+        "Torzhok"
+    ],
+    "name:eng_x_variant":[
         "Torzhokskiy"
     ],
     "name:und_x_variant":[
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108733879,
-    "wof:lastmodified":1505431716,
+    "wof:lastmodified":1555047600,
     "wof:name":"Torzhok",
     "wof:parent_id":85688047,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":26100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

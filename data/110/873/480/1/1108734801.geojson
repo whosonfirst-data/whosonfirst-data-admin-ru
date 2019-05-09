@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.378585,
-    "geom:area_square_m":2609857951.915003,
+    "geom:area_square_m":2609857951.915029,
     "geom:bbox":"30.7371577243,55.7009126019,31.5199471486,56.5233582512",
     "geom:latitude":56.116021,
     "geom:longitude":31.143211,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kun'inskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.11275,
     "lbl:longitude":31.14824,
     "meso:admin1_en":"Pskovskaja oblast'",
@@ -52,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Kun'inskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kun'inskij"
     ],
     "name:est_x_preferred":[
         "Kunja rajoon"
@@ -120,11 +135,11 @@
         }
     ],
     "wof:id":1108734801,
-    "wof:lastmodified":1514501965,
-    "wof:name":"Kun'inskij",
+    "wof:lastmodified":1555047630,
+    "wof:name":"Kun'inskiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14200,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

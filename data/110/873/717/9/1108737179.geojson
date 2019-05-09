@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.31985,
-    "geom:area_square_m":2115045636.888246,
+    "geom:area_square_m":2115045636.88817,
     "geom:bbox":"50.8688993112,57.4101606938,51.9507825834,57.8898865749",
     "geom:latitude":57.671176,
     "geom:longitude":51.42104,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Uninskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.656955,
     "lbl:longitude":51.412495,
     "meso:admin1_en":"Kirovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Uninskiy"
+    ],
+    "name:eng_x_variant":[
+        "Uninskij"
     ],
     "name:ger_x_preferred":[
         "Uninski rajon"
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108737179,
-    "wof:lastmodified":1514503771,
-    "wof:name":"Uninskij",
+    "wof:lastmodified":1555047705,
+    "wof:name":"Uninskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":12400,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.321287,
-    "geom:area_square_m":2646783434.146414,
+    "geom:area_square_m":2646783434.146297,
     "geom:bbox":"40.5528657575,47.8380641084,41.3451875791,48.681640532",
     "geom:latitude":48.222913,
     "geom:longitude":40.897946,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Belokalitvinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":48.169607,
     "lbl:longitude":40.837808,
     "meso:admin1_en":"Rostovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Belokalitvinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Belokalitvinskij"
     ],
     "name:ger_x_preferred":[
         "Belokalitwinski rajon"
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108732947,
-    "wof:lastmodified":1514500705,
-    "wof:name":"Belokalitvinskij",
+    "wof:lastmodified":1555047572,
+    "wof:name":"Belokalitvinskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":26700,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

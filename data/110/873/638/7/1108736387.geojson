@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.287342,
-    "geom:area_square_m":2103093899.566601,
+    "geom:area_square_m":2103093899.566598,
     "geom:bbox":"40.6857524929,53.4154564208,41.451460708,54.0203611943",
     "geom:latitude":53.70694,
     "geom:longitude":41.07559,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Saraevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.714431,
     "lbl:longitude":41.075433,
     "meso:admin1_en":"Rjazanskaja oblast'",
@@ -52,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Saraevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Saraevskij"
     ],
     "name:ger_x_preferred":[
         "Saraewski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108736387,
-    "wof:lastmodified":1514503239,
-    "wof:name":"Saraevskij",
+    "wof:lastmodified":1555047678,
+    "wof:name":"Saraevskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":25500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

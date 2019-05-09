@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.220719,
-    "geom:area_square_m":1574828907.65048,
+    "geom:area_square_m":1574828907.650593,
     "geom:bbox":"55.3215143891,54.44314626,56.3890210814,54.9821369993",
     "geom:latitude":54.75852,
     "geom:longitude":55.826827,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ufimskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.798304,
     "lbl:longitude":55.718134,
     "meso:admin1_en":"Bashkortostan",
@@ -52,7 +64,11 @@
         "Oefimskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Ufimsky District"
+        "Ufimskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ufimskij",
+        "Ufimskiy"
     ],
     "name:est_x_preferred":[
         "Ufa rajoon"
@@ -135,10 +151,11 @@
         }
     ],
     "wof:id":890487019,
-    "wof:lastmodified":1527792827,
-    "wof:name":"Ufimskij",
+    "wof:lastmodified":1555047556,
+    "wof:name":"Ufimskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

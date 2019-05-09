@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.275524,
-    "geom:area_square_m":1928458448.108409,
+    "geom:area_square_m":1928458448.108488,
     "geom:bbox":"67.456277324,55.3340979507,68.492025015,55.7368348397",
     "geom:latitude":55.525141,
     "geom:longitude":67.919438,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Chastoozerskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.504166,
     "lbl:longitude":67.919384,
     "meso:admin1_en":"Kurganskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Chastoozerskiy"
+    ],
+    "name:eng_x_variant":[
+        "CHastoozerskij"
     ],
     "name:ger_x_preferred":[
         "Tschastooserski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108733195,
-    "wof:lastmodified":1514500897,
-    "wof:name":"CHastoozerskij",
+    "wof:lastmodified":1555047581,
+    "wof:name":"Chastoozerskiy",
     "wof:parent_id":85688157,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":8800,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",

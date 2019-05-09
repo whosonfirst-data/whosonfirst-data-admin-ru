@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.726278,
-    "geom:area_square_m":5279440275.435833,
+    "geom:area_square_m":5279440275.435756,
     "geom:bbox":"78.4801700528,53.6306789024,79.9448591899,54.3649731653",
     "geom:latitude":53.993573,
     "geom:longitude":79.16867,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Krasnozjorskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.972209,
     "lbl:longitude":79.182324,
     "meso:admin1_en":"Novosibirskaja oblast'",
@@ -45,7 +57,11 @@
         "Krasnozjorskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Krasnozerskiy"
+        "Krasnozjorskiy"
+    ],
+    "name:eng_x_variant":[
+        "Krasnozjorskij",
+        "Krasnozjorskiy"
     ],
     "name:ger_x_preferred":[
         "Krasnosjorski rajon"
@@ -105,11 +121,11 @@
         }
     ],
     "wof:id":1108734743,
-    "wof:lastmodified":1514501943,
-    "wof:name":"Krasnozjorskij",
+    "wof:lastmodified":1555047628,
+    "wof:name":"Krasnozjorskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":40900,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

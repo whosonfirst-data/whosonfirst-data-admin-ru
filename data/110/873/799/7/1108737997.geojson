@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.68672,
-    "geom:area_square_m":4912190629.682055,
+    "geom:area_square_m":4912190629.682144,
     "geom:bbox":"77.9399112306,54.2517987447,79.5929136146,55.0430022253",
     "geom:latitude":54.655549,
     "geom:longitude":78.660889,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Zdvinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.630507,
     "lbl:longitude":78.579769,
     "meso:admin1_en":"Novosibirskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Zdvinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Zdvinskij"
     ],
     "name:ger_x_preferred":[
         "Sdwinski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108737997,
-    "wof:lastmodified":1514504125,
-    "wof:name":"Zdvinskij",
+    "wof:lastmodified":1555047717,
+    "wof:name":"Zdvinskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":20800,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

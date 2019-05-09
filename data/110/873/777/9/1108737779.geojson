@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.228283,
-    "geom:area_square_m":1576353209.33237,
+    "geom:area_square_m":1576353209.332406,
     "geom:bbox":"48.8346868208,55.8402896758,49.7726898085,56.371111274",
     "geom:latitude":56.051759,
     "geom:longitude":49.281231,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Vysokogorskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.020842,
     "lbl:longitude":49.312921,
     "meso:admin1_en":"Tatarstan",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Vysokogorskiy"
+    ],
+    "name:eng_x_variant":[
+        "Vysokogorskij"
     ],
     "name:est_x_preferred":[
         "V\u00f5ssokaja Gora rajoon"
@@ -114,11 +129,11 @@
         }
     ],
     "wof:id":1108737779,
-    "wof:lastmodified":1514503922,
-    "wof:name":"Vysokogorskij",
+    "wof:lastmodified":1555047714,
+    "wof:name":"Vysokogorskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":45500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

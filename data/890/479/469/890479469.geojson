@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.607066,
-    "geom:area_square_m":4348522997.384412,
+    "geom:area_square_m":4348522997.384795,
     "geom:bbox":"82.3740121318,54.2473583393,84.0990147045,54.9976958131",
     "geom:latitude":54.598393,
     "geom:longitude":83.292759,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Iskitimskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":54.700032,
     "lbl:longitude":83.567507,
     "meso:admin1_en":"Novosibirskaja oblast'",
@@ -48,7 +54,11 @@
         "Iskitimskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Iskitimsky District"
+        "Iskitimskiy"
+    ],
+    "name:eng_x_variant":[
+        "Iskitimskij",
+        "Iskitimskiy"
     ],
     "name:ger_x_preferred":[
         "Iskitimski rajon"
@@ -112,8 +122,8 @@
         }
     ],
     "wof:id":890479469,
-    "wof:lastmodified":1514501380,
-    "wof:name":"Iskitimskij",
+    "wof:lastmodified":1555047533,
+    "wof:name":"Iskitimskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",
     "wof:population":0,

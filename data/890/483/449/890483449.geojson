@@ -11,6 +11,18 @@
     "geom:longitude":50.583627,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Syktyvdinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":61.706282,
     "lbl:longitude":50.389572,
     "meso:admin1_en":"Respublika Komi",
@@ -47,6 +59,9 @@
     ],
     "name:eng_x_preferred":[
         "Syktyvdinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Syktyvdinskij"
     ],
     "name:est_x_preferred":[
         "S\u00f5kt\u00f5vdini rajoon"
@@ -136,11 +151,11 @@
         }
     ],
     "wof:id":890483449,
-    "wof:lastmodified":1536617438,
-    "wof:name":"Syktyvdinskij",
+    "wof:lastmodified":1555047545,
+    "wof:name":"Syktyvdinskiy",
     "wof:parent_id":85688077,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":27600,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

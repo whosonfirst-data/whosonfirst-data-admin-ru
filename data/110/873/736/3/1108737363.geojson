@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.626397,
-    "geom:area_square_m":41851459203.271126,
+    "geom:area_square_m":41851459203.280396,
     "geom:bbox":"117.980864914,61.6149317707,122.885624563,66.5226369131",
     "geom:latitude":63.645772,
     "geom:longitude":120.387189,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Verkhneviljujskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":63.332147,
     "lbl:longitude":120.386754,
     "meso:admin1_en":"Respublika Sakha (JAkutija)",
@@ -48,7 +60,11 @@
         "Verchneviljuyskiy oeloes"
     ],
     "name:eng_x_preferred":[
-        "Verkhnevilyuyskiy"
+        "Verkhneviljujskiy"
+    ],
+    "name:eng_x_variant":[
+        "Verkhneviljujskij ulus",
+        "Verkhneviljujskiy"
     ],
     "name:est_x_preferred":[
         "Verhneviljuiski uluss"
@@ -129,11 +145,11 @@
         }
     ],
     "wof:id":1108737363,
-    "wof:lastmodified":1514503852,
-    "wof:name":"Verkhneviljujskij ulus",
+    "wof:lastmodified":1555047711,
+    "wof:name":"Verkhneviljujskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14000,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

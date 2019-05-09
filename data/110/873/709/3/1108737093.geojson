@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.243943,
-    "geom:area_square_m":1832835117.491101,
+    "geom:area_square_m":1832835117.490978,
     "geom:bbox":"33.4088058199,52.302171,34.1500673997,52.8695063072",
     "geom:latitude":52.581999,
     "geom:longitude":33.772658,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Trubchevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.62329,
     "lbl:longitude":33.889454,
     "meso:admin1_en":"Brjanskaja oblast'",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Trubchevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Trubchevskij"
     ],
     "name:ger_x_preferred":[
         "Trubtschewski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108737093,
-    "wof:lastmodified":1514503640,
-    "wof:name":"Trubchevskij",
+    "wof:lastmodified":1555047701,
+    "wof:name":"Trubchevskiy",
     "wof:parent_id":85688121,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":43200,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

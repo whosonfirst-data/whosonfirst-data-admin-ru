@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138882,
-    "geom:area_square_m":999326569.884152,
+    "geom:area_square_m":999326569.884133,
     "geom:bbox":"45.4841140906,54.2171973971,46.0903773383,54.6395138954",
     "geom:latitude":54.414531,
     "geom:longitude":45.7677,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Chamzinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.414462,
     "lbl:longitude":45.744816,
     "meso:admin1_en":"Respublika Mordovija",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Chamzinskiy"
+    ],
+    "name:eng_x_variant":[
+        "CHamzinskij"
     ],
     "name:est_x_preferred":[
         "T\u0161amzinka rajoon"
@@ -114,11 +129,11 @@
         }
     ],
     "wof:id":1108733179,
-    "wof:lastmodified":1514500893,
-    "wof:name":"CHamzinskij",
+    "wof:lastmodified":1555047581,
+    "wof:name":"Chamzinskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":36400,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

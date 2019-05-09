@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.292252,
-    "geom:area_square_m":2229898602.729773,
+    "geom:area_square_m":2229898602.729801,
     "geom:bbox":"43.1378367348,51.611694213,44.0362133475,52.1718917356",
     "geom:latitude":51.898255,
     "geom:longitude":43.64159,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Arkadakskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":51.944982,
     "lbl:longitude":43.686063,
     "meso:admin1_en":"Saratovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Arkadakskiy"
+    ],
+    "name:eng_x_variant":[
+        "Arkadakskij"
     ],
     "name:ger_x_preferred":[
         "Rajon Arkadak"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108732771,
-    "wof:lastmodified":1514500575,
-    "wof:name":"Arkadakskij",
+    "wof:lastmodified":1555047567,
+    "wof:name":"Arkadakskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":32500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

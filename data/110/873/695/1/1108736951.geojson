@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.318711,
-    "geom:area_square_m":19014024867.053146,
+    "geom:area_square_m":19014024867.055958,
     "geom:bbox":"132.448748784,61.3724579871,135.596422672,63.4325635464",
     "geom:latitude":62.395795,
     "geom:longitude":133.918022,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Tattinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":62.676961,
     "lbl:longitude":133.287814,
     "meso:admin1_en":"Respublika Sakha (JAkutija)",
@@ -48,7 +60,11 @@
         "Oeloes Tattinski"
     ],
     "name:eng_x_preferred":[
-        "Tattinskiy (Alekseyevskiy)"
+        "Tattinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Tattinskij ulus",
+        "Tattinskiy"
     ],
     "name:est_x_preferred":[
         "Tatta uluss"
@@ -126,11 +142,11 @@
         }
     ],
     "wof:id":1108736951,
-    "wof:lastmodified":1514503577,
-    "wof:name":"Tattinskij ulus",
+    "wof:lastmodified":1555047695,
+    "wof:name":"Tattinskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":9400,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",

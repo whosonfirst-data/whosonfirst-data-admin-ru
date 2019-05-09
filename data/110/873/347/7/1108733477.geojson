@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.251033,
-    "geom:area_square_m":1801440676.922302,
+    "geom:area_square_m":1801440676.92234,
     "geom:bbox":"32.8533963224,54.2790778479,33.7780320998,54.7739585065",
     "geom:latitude":54.525001,
     "geom:longitude":33.310203,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "El'ninskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.547899,
     "lbl:longitude":33.317177,
     "meso:admin1_en":"Smolenskaja oblast'",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "El'ninskiy"
+    ],
+    "name:eng_x_variant":[
+        "El'ninskij"
     ],
     "name:ger_x_preferred":[
         "Jelninski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108733477,
-    "wof:lastmodified":1514501217,
-    "wof:name":"El'ninskij",
+    "wof:lastmodified":1555047591,
+    "wof:name":"El'ninskiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":18800,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

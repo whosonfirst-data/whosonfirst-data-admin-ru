@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.220747,
-    "geom:area_square_m":1636293948.737069,
+    "geom:area_square_m":1636293948.736913,
     "geom:bbox":"37.8193185813,52.9473093678,38.6711458326,53.3854366021",
     "geom:latitude":53.168193,
     "geom:longitude":38.266598,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Efremovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.169515,
     "lbl:longitude":38.258624,
     "meso:admin1_en":"Tul'skaja oblast'",
@@ -37,6 +49,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Efremovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Efremovskij"
     ],
     "name:und_x_variant":[
         "\u0415\u0444\u0440\u0435\u043c\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108733441,
-    "wof:lastmodified":1505431712,
-    "wof:name":"Efremovskij",
+    "wof:lastmodified":1555047589,
+    "wof:name":"Efremovskiy",
     "wof:parent_id":85688203,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":24100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

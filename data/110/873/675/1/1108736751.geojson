@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.359616,
-    "geom:area_square_m":2387067243.333715,
+    "geom:area_square_m":2387067243.333479,
     "geom:bbox":"48.6090809904,57.0808754618,49.3993962679,57.8809345953",
     "geom:latitude":57.53268,
     "geom:longitude":48.975786,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Sovetskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.541577,
     "lbl:longitude":48.981769,
     "meso:admin1_en":"Kirovskaja oblast'",
@@ -37,6 +49,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Sovetskiy"
+    ],
+    "name:eng_x_variant":[
+        "Sovetskij"
     ],
     "name:und_x_variant":[
         "\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108736751,
-    "wof:lastmodified":1505431758,
-    "wof:name":"Sovetskij",
+    "wof:lastmodified":1555047686,
+    "wof:name":"Sovetskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":33500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

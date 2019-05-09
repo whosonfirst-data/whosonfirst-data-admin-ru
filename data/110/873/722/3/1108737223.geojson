@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.394733,
-    "geom:area_square_m":42524724177.407532,
+    "geom:area_square_m":42524724177.407646,
     "geom:bbox":"48.9765076151,64.3778028041,53.7869471649,67.1542314383",
     "geom:latitude":65.814284,
     "geom:longitude":51.524676,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ust'-Cilemskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":65.646565,
     "lbl:longitude":51.523545,
     "meso:admin1_en":"Respublika Komi",
@@ -45,7 +57,11 @@
         "Oest-Tsilemskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Ust'-Tsilemskiy"
+        "Ust'-Cilemskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ust'-Cilemskij",
+        "Ust'-Cilemskiy"
     ],
     "name:est_x_preferred":[
         "Ust-Tsilma rajoon"
@@ -117,11 +133,11 @@
         }
     ],
     "wof:id":1108737223,
-    "wof:lastmodified":1514503788,
-    "wof:name":"Ust'-Cilemskij",
+    "wof:lastmodified":1555047706,
+    "wof:name":"Ust'-Cilemskiy",
     "wof:parent_id":85688077,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":16900,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

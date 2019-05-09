@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.536031,
-    "geom:area_square_m":3706746101.847647,
+    "geom:area_square_m":3706746101.847351,
     "geom:bbox":"95.7189552376,55.5618443892,96.8441929396,56.519057268",
     "geom:latitude":55.996013,
     "geom:longitude":96.179541,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ilanskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":55.832073,
     "lbl:longitude":96.141151,
     "meso:admin1_en":"Krasnojarskij kraj",
@@ -45,7 +51,11 @@
         "Ilanskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Ilansky District"
+        "Ilanskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ilanskij",
+        "Ilanskiy"
     ],
     "name:ger_x_preferred":[
         "Ilanski rajon"
@@ -96,8 +106,8 @@
         }
     ],
     "wof:id":1108733983,
-    "wof:lastmodified":1514501361,
-    "wof:name":"Ilanskij",
+    "wof:lastmodified":1555047603,
+    "wof:name":"Ilanskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ru",

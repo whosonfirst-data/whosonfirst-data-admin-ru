@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.605445,
-    "geom:area_square_m":4101615263.053184,
+    "geom:area_square_m":4101615263.053156,
     "geom:bbox":"35.2023448705,56.369648164,36.7608371076,57.1211543719",
     "geom:latitude":56.778683,
     "geom:longitude":35.890948,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":52167,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kalininskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":56.617217,
     "lbl:longitude":35.814222,
     "meso:admin1_en":"Tverskaja oblast'",
@@ -51,7 +57,11 @@
         "Kalininskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Kalininsky District"
+        "Kalininskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kalininskij",
+        "Kalininskiy"
     ],
     "name:est_x_preferred":[
         "Kalinini rajoon"
@@ -117,8 +127,8 @@
         }
     ],
     "wof:id":890485217,
-    "wof:lastmodified":1553816416,
-    "wof:name":"Kalininskij",
+    "wof:lastmodified":1555047552,
+    "wof:name":"Kalininskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",
     "wof:population":52167,

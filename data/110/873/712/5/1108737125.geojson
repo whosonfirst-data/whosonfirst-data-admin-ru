@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.804346,
-    "geom:area_square_m":6281888491.746103,
+    "geom:area_square_m":6281888491.745501,
     "geom:bbox":"142.243316483,50.3025189527,143.326223001,51.5358955244",
     "geom:latitude":50.830652,
     "geom:longitude":142.7599,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Tymovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.776027,
     "lbl:longitude":142.749138,
     "meso:admin1_en":"Sakhalinskaja oblast'",
@@ -37,6 +49,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Tymovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Tymovskij"
     ],
     "name:und_x_variant":[
         "\u0422\u044b\u043c\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108737125,
-    "wof:lastmodified":1505431765,
-    "wof:name":"Tymovskij",
+    "wof:lastmodified":1555047703,
+    "wof:name":"Tymovskiy",
     "wof:parent_id":85688125,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":21500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

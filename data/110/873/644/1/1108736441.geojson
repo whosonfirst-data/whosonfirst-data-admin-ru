@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121631,
-    "geom:area_square_m":874017943.679865,
+    "geom:area_square_m":874017943.679776,
     "geom:bbox":"38.3766657994,54.2495664266,38.9379746687,54.6594427245",
     "geom:latitude":54.469594,
     "geom:longitude":38.637571,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Serebrjano-Prudskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.482803,
     "lbl:longitude":38.637663,
     "meso:admin1_en":"Moskovskaja oblast'",
@@ -36,7 +48,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Serebryano-Prudskiy"
+        "Serebrjano-Prudskiy"
+    ],
+    "name:eng_x_variant":[
+        "Serebrjano-Prudskij",
+        "Serebrjano-Prudskiy"
     ],
     "name:und_x_variant":[
         "\u0421\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u043e-\u041f\u0440\u0443\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -76,11 +92,11 @@
         }
     ],
     "wof:id":1108736441,
-    "wof:lastmodified":1505431753,
-    "wof:name":"Serebrjano-Prudskij",
+    "wof:lastmodified":1555047680,
+    "wof:name":"Serebrjano-Prudskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":24500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

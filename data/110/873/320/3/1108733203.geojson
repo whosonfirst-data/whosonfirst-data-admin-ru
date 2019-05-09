@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172691,
-    "geom:area_square_m":1191514221.999273,
+    "geom:area_square_m":1191514221.999246,
     "geom:bbox":"46.9108078265,55.8558871119,47.6173961512,56.3372706824",
     "geom:latitude":56.082805,
     "geom:longitude":47.201503,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Cheboksarskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.986094,
     "lbl:longitude":47.078834,
     "meso:admin1_en":"CHuvashija",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Cheboksarskiy"
+    ],
+    "name:eng_x_variant":[
+        "CHeboksarskij"
     ],
     "name:est_x_preferred":[
         "T\u0161eboksar\u00f5 rajoon"
@@ -120,11 +135,11 @@
         }
     ],
     "wof:id":1108733203,
-    "wof:lastmodified":1514500902,
-    "wof:name":"CHeboksarskij",
+    "wof:lastmodified":1555047582,
+    "wof:name":"Cheboksarskiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":59300,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

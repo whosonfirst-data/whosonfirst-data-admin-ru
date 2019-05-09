@@ -11,6 +11,18 @@
     "geom:longitude":31.48391,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kirovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":59.729842,
     "lbl:longitude":31.484338,
     "meso:admin1_en":"Leningradskaja oblast'",
@@ -53,6 +65,9 @@
     ],
     "name:eng_x_preferred":[
         "Kirovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kirovskij"
     ],
     "name:est_x_preferred":[
         "Kirovski rajoon"
@@ -160,11 +175,11 @@
         }
     ],
     "wof:id":890484443,
-    "wof:lastmodified":1536617441,
-    "wof:name":"Kirovskij",
+    "wof:lastmodified":1555047551,
+    "wof:name":"Kirovskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":61300,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

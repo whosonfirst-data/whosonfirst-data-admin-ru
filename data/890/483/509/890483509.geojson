@@ -11,6 +11,18 @@
     "geom:longitude":85.039061,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Tomskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.642089,
     "lbl:longitude":85.416423,
     "meso:admin1_en":"Tomskaja oblast'",
@@ -47,6 +59,9 @@
     ],
     "name:eng_x_preferred":[
         "Tomskiy"
+    ],
+    "name:eng_x_variant":[
+        "Tomskij"
     ],
     "name:geo_x_preferred":[
         "\u10e2\u10dd\u10db\u10e1\u10d9\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
@@ -130,11 +145,11 @@
         }
     ],
     "wof:id":890483509,
-    "wof:lastmodified":1536617439,
-    "wof:name":"Tomskij",
+    "wof:lastmodified":1555047546,
+    "wof:name":"Tomskiy",
     "wof:parent_id":85687809,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":84900,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129144,
-    "geom:area_square_m":1132067995.887113,
+    "geom:area_square_m":1132067995.887006,
     "geom:bbox":"41.1624296285,44.6153049021,41.6583388656,45.047912798",
     "geom:latitude":44.852955,
     "geom:longitude":41.407213,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Uspenskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":44.852614,
     "lbl:longitude":41.402449,
     "meso:admin1_en":"Krasnodarskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Uspenskiy"
+    ],
+    "name:eng_x_variant":[
+        "Uspenskij"
     ],
     "name:ger_x_preferred":[
         "Uspenski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108737215,
-    "wof:lastmodified":1514503783,
-    "wof:name":"Uspenskij",
+    "wof:lastmodified":1555047706,
+    "wof:name":"Uspenskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":41100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

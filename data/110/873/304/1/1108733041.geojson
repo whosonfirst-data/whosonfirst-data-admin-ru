@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.635045,
-    "geom:area_square_m":4576739179.343098,
+    "geom:area_square_m":4576739179.342958,
     "geom:bbox":"90.0610387889,53.9522589009,91.5826065648,54.9241508042",
     "geom:latitude":54.348991,
     "geom:longitude":90.875824,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Bogradskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.348505,
     "lbl:longitude":90.927617,
     "meso:admin1_en":"Respublika KHakasija",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Bogradskiy"
+    ],
+    "name:eng_x_variant":[
+        "Bogradskij"
     ],
     "name:est_x_preferred":[
         "Bogradi rajoon"
@@ -114,11 +129,11 @@
         }
     ],
     "wof:id":1108733041,
-    "wof:lastmodified":1514500757,
-    "wof:name":"Bogradskij",
+    "wof:lastmodified":1555047575,
+    "wof:name":"Bogradskiy",
     "wof:parent_id":85688061,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":18700,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

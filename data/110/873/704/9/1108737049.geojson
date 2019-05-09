@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.905157,
-    "geom:area_square_m":44241489763.500786,
+    "geom:area_square_m":44241489763.500694,
     "geom:bbox":"94.4818265526,51.6057588373,99.2672866808,53.7312748104",
     "geom:latitude":52.705281,
     "geom:longitude":96.802622,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Todzhinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.697549,
     "lbl:longitude":96.964864,
     "meso:admin1_en":"Tyva",
@@ -43,6 +55,9 @@
     ],
     "name:eng_x_preferred":[
         "Todzhinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Todzhinskij kozhuun"
     ],
     "name:est_x_preferred":[
         "Tod\u017ea ko\u017euun"
@@ -114,11 +129,11 @@
         }
     ],
     "wof:id":1108737049,
-    "wof:lastmodified":1514503618,
-    "wof:name":"Todzhinskij kozhuun",
+    "wof:lastmodified":1555047700,
+    "wof:name":"Todzhinskiy",
     "wof:parent_id":85688039,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":6100,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",

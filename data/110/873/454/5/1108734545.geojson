@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.154366,
-    "geom:area_square_m":1168808607.741948,
+    "geom:area_square_m":1168808607.741915,
     "geom:bbox":"36.6358585811,52.0728955767,37.3372417639,52.4152140838",
     "geom:latitude":52.241194,
     "geom:longitude":37.024954,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kolpnjanskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.237798,
     "lbl:longitude":37.101458,
     "meso:admin1_en":"Orlovskaja oblast'",
@@ -45,7 +57,11 @@
         "Kolpnjanskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Kolpnyanskiy"
+        "Kolpnjanskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kolpnjanskij",
+        "Kolpnjanskiy"
     ],
     "name:ger_x_preferred":[
         "Kolpnjanski rajon"
@@ -102,11 +118,11 @@
         }
     ],
     "wof:id":1108734545,
-    "wof:lastmodified":1514501824,
-    "wof:name":"Kolpnjanskij",
+    "wof:lastmodified":1555047622,
+    "wof:name":"Kolpnjanskiy",
     "wof:parent_id":85687849,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":20900,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

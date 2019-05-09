@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.183434,
-    "geom:area_square_m":1393214724.670238,
+    "geom:area_square_m":1393214724.670241,
     "geom:bbox":"42.7593213908,51.8772070538,43.4157821202,52.3463601481",
     "geom:latitude":52.103214,
     "geom:longitude":43.080662,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Turkovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.120038,
     "lbl:longitude":43.107159,
     "meso:admin1_en":"Saratovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Turkovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Turkovskij"
     ],
     "name:ger_x_preferred":[
         "Turkowski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108737115,
-    "wof:lastmodified":1514503658,
-    "wof:name":"Turkovskij",
+    "wof:lastmodified":1555047702,
+    "wof:name":"Turkovskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":17000,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -11,6 +11,18 @@
     "geom:longitude":36.742833,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Istrinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.962175,
     "lbl:longitude":36.750025,
     "meso:admin1_en":"Moskovskaja oblast'",
@@ -56,6 +68,9 @@
     ],
     "name:eng_x_preferred":[
         "Istrinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Istrinskij"
     ],
     "name:ger_x_preferred":[
         "Istrinski rajon"
@@ -139,11 +154,11 @@
         }
     ],
     "wof:id":890480477,
-    "wof:lastmodified":1536617434,
-    "wof:name":"Istrinskij",
+    "wof:lastmodified":1555047537,
+    "wof:name":"Istrinskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":84700,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

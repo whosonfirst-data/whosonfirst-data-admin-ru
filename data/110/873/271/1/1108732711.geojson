@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079924,
-    "geom:area_square_m":556249532.578098,
+    "geom:area_square_m":556249532.578128,
     "geom:bbox":"46.4327237753,55.6420883713,47.0146324281,55.8578718617",
     "geom:latitude":55.74706,
     "geom:longitude":46.734257,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Alikovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.742867,
     "lbl:longitude":46.728844,
     "meso:admin1_en":"CHuvashija",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Alikovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Alikovskij"
     ],
     "name:est_x_preferred":[
         "Alikovo rajoon"
@@ -132,11 +147,11 @@
         }
     ],
     "wof:id":1108732711,
-    "wof:lastmodified":1514500490,
-    "wof:name":"Alikovskij",
+    "wof:lastmodified":1555047564,
+    "wof:name":"Alikovskiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":22000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

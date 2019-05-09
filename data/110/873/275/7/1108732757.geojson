@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.21394,
-    "geom:area_square_m":1410934578.489183,
+    "geom:area_square_m":1410934578.489202,
     "geom:bbox":"47.8378833203,57.5902642567,48.7411569798,57.989263566",
     "geom:latitude":57.767731,
     "geom:longitude":48.327252,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Arbazhskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.767105,
     "lbl:longitude":48.327279,
     "meso:admin1_en":"Kirovskaja oblast'",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Arbazhskiy"
+    ],
+    "name:eng_x_variant":[
+        "Arbazhskij"
     ],
     "name:ger_x_preferred":[
         "Arbaschski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108732757,
-    "wof:lastmodified":1514500571,
-    "wof:name":"Arbazhskij",
+    "wof:lastmodified":1555047566,
+    "wof:name":"Arbazhskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":10400,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.108479,
-    "geom:area_square_m":15586130891.618063,
+    "geom:area_square_m":15586130891.617813,
     "geom:bbox":"105.327754963,52.3614758612,109.065817576,54.5484398232",
     "geom:latitude":53.284504,
     "geom:longitude":107.20697,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Ol'khonskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.042281,
     "lbl:longitude":106.871575,
     "meso:admin1_en":"Irkutskaja oblast'",
@@ -46,7 +58,11 @@
         "Olchonskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Olkhonsky District"
+        "Ol'khonskiy"
+    ],
+    "name:eng_x_variant":[
+        "Ol'khonskij",
+        "Ol'khonskiy"
     ],
     "name:ger_x_preferred":[
         "Olchonski rajon"
@@ -108,10 +124,11 @@
         }
     ],
     "wof:id":890487037,
-    "wof:lastmodified":1527792824,
-    "wof:name":"Ol'khonskij",
+    "wof:lastmodified":1555047557,
+    "wof:name":"Ol'khonskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

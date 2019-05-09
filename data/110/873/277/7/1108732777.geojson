@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.513826,
-    "geom:area_square_m":3467378701.959351,
+    "geom:area_square_m":3467378701.959148,
     "geom:bbox":"68.2786730991,56.6167578953,69.5560365494,57.2811261693",
     "geom:latitude":56.92476,
     "geom:longitude":68.969052,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Aromashevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.932549,
     "lbl:longitude":68.969375,
     "meso:admin1_en":"Tjumenskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Aromashevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Aromashevskij"
     ],
     "name:ger_x_preferred":[
         "Aromaschewski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108732777,
-    "wof:lastmodified":1514500587,
-    "wof:name":"Aromashevskij",
+    "wof:lastmodified":1555047567,
+    "wof:name":"Aromashevskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":16200,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

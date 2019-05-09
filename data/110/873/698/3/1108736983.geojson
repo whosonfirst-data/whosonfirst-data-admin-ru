@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.137514,
-    "geom:area_square_m":1009874903.708075,
+    "geom:area_square_m":1009874903.708003,
     "geom:bbox":"37.3851714037,53.3503019014,37.9041357368,53.8042384525",
     "geom:latitude":53.565172,
     "geom:longitude":37.642108,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Teplo-Ogarevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.559573,
     "lbl:longitude":37.646052,
     "meso:admin1_en":"Tul'skaja oblast'",
@@ -37,6 +49,9 @@
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Teplo-Ogarevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Teplo-Ogarevskij"
     ],
     "name:und_x_variant":[
         "\u0422\u0435\u043f\u043b\u043e-\u041e\u0433\u0430\u0440\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1108736983,
-    "wof:lastmodified":1505431762,
-    "wof:name":"Teplo-Ogarevskij",
+    "wof:lastmodified":1555047697,
+    "wof:name":"Teplo-Ogarevskiy",
     "wof:parent_id":85688203,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":14800,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

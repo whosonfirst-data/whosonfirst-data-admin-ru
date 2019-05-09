@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.271531,
-    "geom:area_square_m":1811676080.801687,
+    "geom:area_square_m":1811676080.801659,
     "geom:bbox":"31.6767375237,57.0798356212,32.669319617,57.5668027434",
     "geom:latitude":57.344544,
     "geom:longitude":32.122687,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Marjovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.350021,
     "lbl:longitude":32.115416,
     "meso:admin1_en":"Novskaja oblast'",
@@ -45,7 +57,11 @@
         "Maryovsky District"
     ],
     "name:eng_x_preferred":[
-        "Marevskiy"
+        "Marjovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Marjovskij",
+        "Marjovskiy"
     ],
     "name:est_x_preferred":[
         "Marjovo rajoon"
@@ -111,11 +127,11 @@
         }
     ],
     "wof:id":1108735067,
-    "wof:lastmodified":1514502123,
-    "wof:name":"Marjovskij",
+    "wof:lastmodified":1555047638,
+    "wof:name":"Marjovskiy",
     "wof:parent_id":85688095,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":5900,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",

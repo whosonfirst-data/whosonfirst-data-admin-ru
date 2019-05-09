@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.336206,
-    "geom:area_square_m":2839967502.637298,
+    "geom:area_square_m":2839967502.637325,
     "geom:bbox":"38.6804488391,46.5590974043,39.8017830906,47.2394208068",
     "geom:latitude":46.910748,
     "geom:longitude":39.289538,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Azovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":46.870783,
     "lbl:longitude":39.114457,
     "meso:admin1_en":"Rostovskaja oblast'",
@@ -48,7 +54,11 @@
         "Azovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Azovsky District"
+        "Azovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Azovskij",
+        "Azovskiy"
     ],
     "name:fre_x_preferred":[
         "Ra\u00efon d'Azov"
@@ -102,8 +112,8 @@
         }
     ],
     "wof:id":1108732827,
-    "wof:lastmodified":1514500612,
-    "wof:name":"Azovskij",
+    "wof:lastmodified":1555047568,
+    "wof:name":"Azovskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ru",

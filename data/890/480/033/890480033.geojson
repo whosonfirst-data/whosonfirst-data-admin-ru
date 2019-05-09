@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.457459,
-    "geom:area_square_m":3269660094.917599,
+    "geom:area_square_m":3269660094.917712,
     "geom:bbox":"57.5500869617,54.3944900298,58.9539311073,54.9929537624",
     "geom:latitude":54.687856,
     "geom:longitude":58.194161,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Katav-Ivanovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.651581,
     "lbl:longitude":58.008056,
     "meso:admin1_en":"CHeljabinskaja oblast'",
@@ -49,7 +61,11 @@
         "Katav-Ivanovskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Katav-Ivanovsky District"
+        "Katav-Ivanovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Katav-Ivanovskij",
+        "Katav-Ivanovskiy"
     ],
     "name:fre_x_preferred":[
         "Ra\u00efon de Katav-Ivanovsk"
@@ -120,10 +136,11 @@
         }
     ],
     "wof:id":890480033,
-    "wof:lastmodified":1527792849,
-    "wof:name":"Katav-Ivanovskij",
+    "wof:lastmodified":1555047535,
+    "wof:name":"Katav-Ivanovskiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

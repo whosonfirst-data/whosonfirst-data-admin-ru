@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.778853,
-    "geom:area_square_m":6073529742.771624,
+    "geom:area_square_m":6073529742.771418,
     "geom:bbox":"113.773849739,50.4670210308,115.388933003,51.427781558",
     "geom:latitude":50.901985,
     "geom:longitude":114.523209,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Aginskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.787302,
     "lbl:longitude":114.602539,
     "meso:admin1_en":"Zabajkal'skij kraj",
@@ -46,7 +58,11 @@
         "Aginskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Aginsky District"
+        "Aginskiy"
+    ],
+    "name:eng_x_variant":[
+        "Aginskij",
+        "Aginskiy"
     ],
     "name:fin_x_preferred":[
         "Aginskojen piiri"
@@ -108,10 +124,11 @@
         }
     ],
     "wof:id":890480879,
-    "wof:lastmodified":1527792847,
-    "wof:name":"Aginskij",
+    "wof:lastmodified":1555047539,
+    "wof:name":"Aginskiy",
     "wof:parent_id":85688005,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

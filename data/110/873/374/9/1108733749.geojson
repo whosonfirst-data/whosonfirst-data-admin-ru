@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007077,
-    "geom:area_square_m":49403647.665157,
+    "geom:area_square_m":49403647.665167,
     "geom:bbox":"40.4591520517,55.5787572898,40.7165394006,55.7291315905",
     "geom:latitude":55.628495,
     "geom:longitude":40.631929,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Gus'-Khrustal'nyj District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.611853,
     "lbl:longitude":40.652033,
     "meso:admin1_en":"Vladimirskaja oblast'",
@@ -51,7 +63,11 @@
         "Goes-Hroestalniy rayon"
     ],
     "name:eng_x_preferred":[
-        "Gus'-Khrustal'nyy"
+        "Gus'-Khrustal'nyj"
+    ],
+    "name:eng_x_variant":[
+        "Gus'-KHrustal'nyj",
+        "Gus'-Khrustal'nyj"
     ],
     "name:ger_x_preferred":[
         "Gus-Chrustalny rajon"
@@ -114,11 +130,11 @@
         }
     ],
     "wof:id":1108733749,
-    "wof:lastmodified":1514501350,
-    "wof:name":"Gus'-KHrustal'nyj",
+    "wof:lastmodified":1555047598,
+    "wof:name":"Gus'-Khrustal'nyj",
     "wof:parent_id":85687981,
     "wof:placetype":"county",
-    "wof:placetype_local":"gorsovet",
+    "wof:placetype_local":"district",
     "wof:population":73400,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

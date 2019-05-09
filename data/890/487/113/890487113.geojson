@@ -11,6 +11,18 @@
     "geom:longitude":78.773017,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Aleksandrovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":60.03544,
     "lbl:longitude":79.013232,
     "meso:admin1_en":"Tomskaja oblast'",
@@ -47,6 +59,9 @@
     ],
     "name:eng_x_preferred":[
         "Aleksandrovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Aleksandrovskij"
     ],
     "name:fin_x_preferred":[
         "Aleksandrovskojen piiri"
@@ -127,11 +142,11 @@
         }
     ],
     "wof:id":890487113,
-    "wof:lastmodified":1536617445,
-    "wof:name":"Aleksandrovskij",
+    "wof:lastmodified":1555047558,
+    "wof:name":"Aleksandrovskiy",
     "wof:parent_id":85687809,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":11700,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

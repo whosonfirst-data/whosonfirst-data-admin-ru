@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.222392,
-    "geom:area_square_m":1473326975.679765,
+    "geom:area_square_m":1473326975.679727,
     "geom:bbox":"47.4449643035,57.4067699084,48.3584794366,57.8881458576",
     "geom:latitude":57.603708,
     "geom:longitude":47.826485,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Tuzhinskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.620771,
     "lbl:longitude":47.750573,
     "meso:admin1_en":"Kirovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Tuzhinskiy"
+    ],
+    "name:eng_x_variant":[
+        "Tuzhinskij"
     ],
     "name:ger_x_preferred":[
         "Tuschinski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108737121,
-    "wof:lastmodified":1514503716,
-    "wof:name":"Tuzhinskij",
+    "wof:lastmodified":1555047703,
+    "wof:name":"Tuzhinskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":11000,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

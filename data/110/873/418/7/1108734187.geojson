@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07744,
-    "geom:area_square_m":707540166.683956,
+    "geom:area_square_m":707540166.683879,
     "geom:bbox":"47.6924172441,42.2065954754,48.1196244557,42.6058565267",
     "geom:latitude":42.361645,
     "geom:longitude":47.887061,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kajakentskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":42.341696,
     "lbl:longitude":47.890253,
     "meso:admin1_en":"Dagestan",
@@ -54,7 +66,11 @@
         "District Kajakentski"
     ],
     "name:eng_x_preferred":[
-        "Kayakentskiy"
+        "Kajakentskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kajakentskij",
+        "Kajakentskiy"
     ],
     "name:est_x_preferred":[
         "Kajakenti rajoon"
@@ -135,11 +151,11 @@
         }
     ],
     "wof:id":1108734187,
-    "wof:lastmodified":1514501471,
-    "wof:name":"Kajakentskij",
+    "wof:lastmodified":1555047610,
+    "wof:name":"Kajakentskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":42800,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.904216,
-    "geom:area_square_m":7101380094.911171,
+    "geom:area_square_m":7101380094.910955,
     "geom:bbox":"106.729387577,50.1835356705,108.694662926,50.9704463204",
     "geom:latitude":50.569395,
     "geom:longitude":107.609381,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Bichurskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.538526,
     "lbl:longitude":107.609968,
     "meso:admin1_en":"Burjatija",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Bichurskiy"
+    ],
+    "name:eng_x_variant":[
+        "Bichurskij"
     ],
     "name:est_x_preferred":[
         "Bit\u0161ura rajoon"
@@ -117,11 +132,11 @@
         }
     ],
     "wof:id":1108732991,
-    "wof:lastmodified":1553816502,
-    "wof:name":"Bichurskij",
+    "wof:lastmodified":1555047573,
+    "wof:name":"Bichurskiy",
     "wof:parent_id":85688207,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":30500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

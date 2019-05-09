@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.273914,
-    "geom:area_square_m":1912726843.295194,
+    "geom:area_square_m":1912726843.295174,
     "geom:bbox":"33.4471532031,55.4005175056,34.7414842827,55.8329493234",
     "geom:latitude":55.616696,
     "geom:longitude":34.083478,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Novoduginskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.573091,
     "lbl:longitude":34.083223,
     "meso:admin1_en":"Smolenskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Novoduginskiy"
+    ],
+    "name:eng_x_variant":[
+        "Novoduginskij"
     ],
     "name:ger_x_preferred":[
         "Nowoduginski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108735495,
-    "wof:lastmodified":1514502488,
-    "wof:name":"Novoduginskij",
+    "wof:lastmodified":1555047653,
+    "wof:name":"Novoduginskiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":13600,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

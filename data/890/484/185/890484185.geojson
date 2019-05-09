@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.489771,
-    "geom:area_square_m":19874103307.636467,
+    "geom:area_square_m":19874103307.636475,
     "geom:bbox":"86.5928531659,49.071318,89.723051,50.3756170205",
     "geom:latitude":49.792802,
     "geom:longitude":87.989522,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kosh-Agachskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":49.678794,
     "lbl:longitude":87.704413,
     "meso:admin1_en":"Altaj",
@@ -49,7 +61,11 @@
         "District Kosj-Agatsjski"
     ],
     "name:eng_x_preferred":[
-        "Kosh-Agachsky District"
+        "Kosh-Agachskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kosh-Agachskij",
+        "Kosh-Agachskiy"
     ],
     "name:est_x_preferred":[
         "Ko\u0161-Agat\u0161i rajoon"
@@ -126,10 +142,11 @@
         }
     ],
     "wof:id":890484185,
-    "wof:lastmodified":1527727211,
-    "wof:name":"Kosh-Agachskij",
+    "wof:lastmodified":1555047549,
+    "wof:name":"Kosh-Agachskiy",
     "wof:parent_id":85687949,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.168101,
-    "geom:area_square_m":1244603520.064592,
+    "geom:area_square_m":1244603520.064577,
     "geom:bbox":"41.8130383844,53.0222064076,42.5651156211,53.420775097",
     "geom:latitude":53.218202,
     "geom:longitude":42.196781,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Pichaevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":53.246897,
     "lbl:longitude":42.134459,
     "meso:admin1_en":"Tambovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Pichaevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Pichaevskij"
     ],
     "name:ger_x_preferred":[
         "Pitschaewski rajon"
@@ -102,11 +117,11 @@
         }
     ],
     "wof:id":1108735859,
-    "wof:lastmodified":1514502661,
-    "wof:name":"Pichaevskij",
+    "wof:lastmodified":1555047666,
+    "wof:name":"Pichaevskiy",
     "wof:parent_id":85687829,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":17700,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

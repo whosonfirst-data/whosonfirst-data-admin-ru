@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.160744,
-    "geom:area_square_m":1371272880.070271,
+    "geom:area_square_m":1371272880.07031,
     "geom:bbox":"39.6712273311,46.2024248424,40.4120019256,46.5962505025",
     "geom:latitude":46.377339,
     "geom:longitude":40.018328,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Krylovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":46.369754,
     "lbl:longitude":40.074347,
     "meso:admin1_en":"Krasnodarskij kraj",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Krylovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Krylovskij"
     ],
     "name:ger_x_preferred":[
         "Krylowski rajon"
@@ -111,11 +126,11 @@
         }
     ],
     "wof:id":1108734765,
-    "wof:lastmodified":1514501951,
-    "wof:name":"Krylovskij",
+    "wof:lastmodified":1555047629,
+    "wof:name":"Krylovskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":37600,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

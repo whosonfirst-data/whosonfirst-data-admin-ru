@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135078,
-    "geom:area_square_m":1019625391.489863,
+    "geom:area_square_m":1019625391.489888,
     "geom:bbox":"34.2533387472,52.1857643234,34.9578154522,52.5321905421",
     "geom:latitude":52.377248,
     "geom:longitude":34.661225,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Komarichskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":52.383942,
     "lbl:longitude":34.725522,
     "meso:admin1_en":"Brjanskaja oblast'",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Komarichskiy"
+    ],
+    "name:eng_x_variant":[
+        "Komarichskij"
     ],
     "name:ger_x_preferred":[
         "Komaritschski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108734551,
-    "wof:lastmodified":1514501826,
-    "wof:name":"Komarichskij",
+    "wof:lastmodified":1555047622,
+    "wof:name":"Komarichskiy",
     "wof:parent_id":85688121,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":20800,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060934,
-    "geom:area_square_m":476075647.358196,
+    "geom:area_square_m":476075647.358102,
     "geom:bbox":"35.328527001,50.6605981099,35.7390949826,50.9788073629",
     "geom:latitude":50.81283,
     "geom:longitude":35.54345,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Krasnojaruzhskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.788283,
     "lbl:longitude":35.56382,
     "meso:admin1_en":"Belskaja oblast'",
@@ -48,7 +60,11 @@
         "Krasnojaroezjskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Krasnoyaruzhskiy"
+        "Krasnojaruzhskiy"
+    ],
+    "name:eng_x_variant":[
+        "Krasnojaruzhskij",
+        "Krasnojaruzhskiy"
     ],
     "name:ger_x_preferred":[
         "Krasnojaruschski rajon"
@@ -108,11 +124,11 @@
         }
     ],
     "wof:id":1108734713,
-    "wof:lastmodified":1514501924,
-    "wof:name":"Krasnojaruzhskij",
+    "wof:lastmodified":1555047627,
+    "wof:name":"Krasnojaruzhskiy",
     "wof:parent_id":85687813,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":15200,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.158238,
-    "geom:area_square_m":1117584549.979918,
+    "geom:area_square_m":1117584549.979824,
     "geom:bbox":"46.0125308485,54.9743598558,46.771963924,55.3813587817",
     "geom:latitude":55.167781,
     "geom:longitude":46.382198,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Poreckij District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.162987,
     "lbl:longitude":46.344922,
     "meso:admin1_en":"CHuvashija",
@@ -48,6 +60,9 @@
         "Poretskiy rayon"
     ],
     "name:eng_x_preferred":[
+        "Poreckij"
+    ],
+    "name:eng_x_variant":[
         "Poretsskiy"
     ],
     "name:est_x_preferred":[
@@ -120,11 +135,11 @@
         }
     ],
     "wof:id":1108735941,
-    "wof:lastmodified":1514502693,
+    "wof:lastmodified":1555047668,
     "wof:name":"Poreckij",
     "wof:parent_id":85688111,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":18400,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

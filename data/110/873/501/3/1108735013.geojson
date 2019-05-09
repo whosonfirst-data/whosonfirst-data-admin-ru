@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.316024,
-    "geom:area_square_m":2289208397.818429,
+    "geom:area_square_m":2289208397.818469,
     "geom:bbox":"47.2755380394,53.7613722119,48.0500840252,54.5707523173",
     "geom:latitude":54.138815,
     "geom:longitude":47.63672,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Majnskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.118079,
     "lbl:longitude":47.69543,
     "meso:admin1_en":"Ul'janovskaja oblast'",
@@ -48,7 +60,11 @@
         "Maynsky District"
     ],
     "name:eng_x_preferred":[
-        "Maynskiy"
+        "Majnskiy"
+    ],
+    "name:eng_x_variant":[
+        "Majnskij",
+        "Majnskiy"
     ],
     "name:ger_x_preferred":[
         "Majnski rajon"
@@ -114,11 +130,11 @@
         }
     ],
     "wof:id":1108735013,
-    "wof:lastmodified":1514502076,
-    "wof:name":"Majnskij",
+    "wof:lastmodified":1555047636,
+    "wof:name":"Majnskiy",
     "wof:parent_id":85687907,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":33300,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

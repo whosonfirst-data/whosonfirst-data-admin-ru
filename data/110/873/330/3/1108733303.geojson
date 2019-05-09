@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.205136,
-    "geom:area_square_m":8513753789.226044,
+    "geom:area_square_m":8513753789.225412,
     "geom:bbox":"80.442771557,54.4324018707,82.1508787111,55.9727628671",
     "geom:latitude":55.156251,
     "geom:longitude":81.236977,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Chulymskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.933596,
     "lbl:longitude":80.965496,
     "meso:admin1_en":"Novosibirskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Chulymskiy"
+    ],
+    "name:eng_x_variant":[
+        "CHulymskij"
     ],
     "name:ger_x_preferred":[
         "Tschulymski rajon"
@@ -108,11 +123,11 @@
         }
     ],
     "wof:id":1108733303,
-    "wof:lastmodified":1514500928,
-    "wof:name":"CHulymskij",
+    "wof:lastmodified":1555047585,
+    "wof:name":"Chulymskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":30500,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -11,6 +11,18 @@
     "geom:longitude":43.400128,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Balakhninskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.475406,
     "lbl:longitude":43.406167,
     "meso:admin1_en":"Nizheskaja oblast'",
@@ -47,6 +59,9 @@
     ],
     "name:eng_x_preferred":[
         "Balakhninskiy"
+    ],
+    "name:eng_x_variant":[
+        "Balakhninskij"
     ],
     "name:epo_x_preferred":[
         "Distrikto Bala\u0125na"
@@ -127,11 +142,11 @@
         }
     ],
     "wof:id":890483737,
-    "wof:lastmodified":1536617440,
-    "wof:name":"Balakhninskij",
+    "wof:lastmodified":1555047548,
+    "wof:name":"Balakhninskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":26700,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

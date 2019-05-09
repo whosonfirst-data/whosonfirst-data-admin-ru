@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096464,
-    "geom:area_square_m":667921336.678316,
+    "geom:area_square_m":667921336.678321,
     "geom:bbox":"51.8773902352,55.7904498295,52.6805848696,56.0980095395",
     "geom:latitude":55.946959,
     "geom:longitude":52.340399,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Mendeleevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.945814,
     "lbl:longitude":52.38702,
     "meso:admin1_en":"Tatarstan",
@@ -45,7 +57,11 @@
         "Mendeleevskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Mendeleyevskiy"
+        "Mendeleevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Mendeleevskij",
+        "Mendeleevskiy"
     ],
     "name:est_x_preferred":[
         "Mendelejevski rajoon"
@@ -114,11 +130,11 @@
         }
     ],
     "wof:id":1108735105,
-    "wof:lastmodified":1514502141,
-    "wof:name":"Mendeleevskij",
+    "wof:lastmodified":1555047639,
+    "wof:name":"Mendeleevskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":30000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

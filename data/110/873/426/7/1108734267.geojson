@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.369467,
-    "geom:area_square_m":2388511669.101237,
+    "geom:area_square_m":2388511669.101128,
     "geom:bbox":"54.594351284,58.0801129807,55.4279549872,58.8352461008",
     "geom:latitude":58.478315,
     "geom:longitude":55.017866,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Karagajskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":58.452148,
     "lbl:longitude":55.024433,
     "meso:admin1_en":"Permskij kraj",
@@ -45,7 +57,11 @@
         "Karagayskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Karagayskiy"
+        "Karagajskiy"
+    ],
+    "name:eng_x_variant":[
+        "Karagajskij",
+        "Karagajskiy"
     ],
     "name:fin_x_preferred":[
         "Karagain piiri"
@@ -102,11 +118,11 @@
         }
     ],
     "wof:id":1108734267,
-    "wof:lastmodified":1514501563,
-    "wof:name":"Karagajskij",
+    "wof:lastmodified":1555047613,
+    "wof:name":"Karagajskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":26100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

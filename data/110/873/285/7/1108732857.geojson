@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.60092,
-    "geom:area_square_m":24248161639.38974,
+    "geom:area_square_m":24248161639.390507,
     "geom:bbox":"79.5915011614,56.2362396097,83.3027769704,57.9310498352",
     "geom:latitude":57.003067,
     "geom:longitude":81.457835,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Bakcharskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.95177,
     "lbl:longitude":81.584889,
     "meso:admin1_en":"Tomskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Bakcharskiy"
+    ],
+    "name:eng_x_variant":[
+        "Bakcharskij"
     ],
     "name:fin_x_preferred":[
         "Bakt\u0161arin piiri"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108732857,
-    "wof:lastmodified":1514500623,
-    "wof:name":"Bakcharskij",
+    "wof:lastmodified":1555047569,
+    "wof:name":"Bakcharskiy",
     "wof:parent_id":85687809,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":16600,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

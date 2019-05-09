@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.155437,
-    "geom:area_square_m":1413416079.822513,
+    "geom:area_square_m":1413416079.822601,
     "geom:bbox":"47.2485192497,42.44178571,47.8164434618,42.8902951606",
     "geom:latitude":42.660173,
     "geom:longitude":47.542917,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Karabudakhkentskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":42.657929,
     "lbl:longitude":47.54834,
     "meso:admin1_en":"Dagestan",
@@ -54,7 +66,11 @@
         "District Karaboedachkentski"
     ],
     "name:eng_x_preferred":[
-        "Karabudokhkentskiy (Leninskiy)"
+        "Karabudakhkentskiy"
+    ],
+    "name:eng_x_variant":[
+        "Karabudakhkentskij",
+        "Karabudakhkentskiy"
     ],
     "name:est_x_preferred":[
         "Karabudahkenti rajoon"
@@ -132,11 +148,11 @@
         }
     ],
     "wof:id":1108734263,
-    "wof:lastmodified":1514501534,
-    "wof:name":"Karabudakhkentskij",
+    "wof:lastmodified":1555047613,
+    "wof:name":"Karabudakhkentskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":54000,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

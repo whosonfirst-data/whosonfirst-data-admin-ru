@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.378989,
-    "geom:area_square_m":2721297722.251746,
+    "geom:area_square_m":2721297722.252122,
     "geom:bbox":"72.8818280543,54.2277597535,74.4104360843,54.8240679775",
     "geom:latitude":54.500427,
     "geom:longitude":73.690505,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Tavricheskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":54.53771,
     "lbl:longitude":73.637957,
     "meso:admin1_en":"Omskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Tavricheskiy"
+    ],
+    "name:eng_x_variant":[
+        "Tavricheskij"
     ],
     "name:ger_x_preferred":[
         "Tawritscheski rajon"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108736959,
-    "wof:lastmodified":1514503579,
-    "wof:name":"Tavricheskij",
+    "wof:lastmodified":1555047696,
+    "wof:name":"Tavricheskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":43000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

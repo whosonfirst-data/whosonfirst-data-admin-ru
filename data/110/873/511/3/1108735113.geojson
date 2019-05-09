@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.797245,
-    "geom:area_square_m":34509014268.343826,
+    "geom:area_square_m":34509014268.343765,
     "geom:bbox":"40.6877975918,65.0096537749,49.0531951568,66.778030396",
     "geom:latitude":65.75833,
     "geom:longitude":44.593513,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Mezenskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":65.797117,
     "lbl:longitude":44.600311,
     "meso:admin1_en":"Arkhangel'skaja oblast'",
@@ -49,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Mezenskiy"
+    ],
+    "name:eng_x_variant":[
+        "Mezenskij"
     ],
     "name:fin_x_preferred":[
         "Mezenin piiri"
@@ -123,11 +138,11 @@
         }
     ],
     "wof:id":1108735113,
-    "wof:lastmodified":1514502146,
-    "wof:name":"Mezenskij",
+    "wof:lastmodified":1555047640,
+    "wof:name":"Mezenskiy",
     "wof:parent_id":85687971,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":15500,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

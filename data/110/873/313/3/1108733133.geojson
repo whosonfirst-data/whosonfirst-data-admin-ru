@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.904379,
-    "geom:area_square_m":7172779729.003909,
+    "geom:area_square_m":7172779729.003744,
     "geom:bbox":"128.965321175,49.400532283,131.429045871,50.6781907447",
     "geom:latitude":50.10235,
     "geom:longitude":130.201455,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Burejskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.096688,
     "lbl:longitude":130.183505,
     "meso:admin1_en":"Amurskaja oblast'",
@@ -48,7 +60,11 @@
         "Boereyskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Bureyskiy"
+        "Burejskiy"
+    ],
+    "name:eng_x_variant":[
+        "Burejskij",
+        "Burejskiy"
     ],
     "name:ger_x_preferred":[
         "Bureiski rajon"
@@ -108,11 +124,11 @@
         }
     ],
     "wof:id":1108733133,
-    "wof:lastmodified":1514500826,
-    "wof:name":"Burejskij",
+    "wof:lastmodified":1555047579,
+    "wof:name":"Burejskiy",
     "wof:parent_id":85687951,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":30300,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

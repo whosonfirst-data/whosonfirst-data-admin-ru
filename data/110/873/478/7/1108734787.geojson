@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.215548,
-    "geom:area_square_m":1484688175.698994,
+    "geom:area_square_m":1484688175.698896,
     "geom:bbox":"50.3070253683,55.5529984876,51.6473069635,56.4128801235",
     "geom:latitude":56.148294,
     "geom:longitude":50.848416,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kukmorskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":56.075836,
     "lbl:longitude":50.849411,
     "meso:admin1_en":"Tatarstan",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Kukmorskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kukmorskij"
     ],
     "name:est_x_preferred":[
         "Kukmori rajoon"
@@ -117,11 +132,11 @@
         }
     ],
     "wof:id":1108734787,
-    "wof:lastmodified":1514501960,
-    "wof:name":"Kukmorskij",
+    "wof:lastmodified":1555047629,
+    "wof:name":"Kukmorskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":53200,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

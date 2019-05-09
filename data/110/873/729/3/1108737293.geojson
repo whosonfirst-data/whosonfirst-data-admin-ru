@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.214947,
-    "geom:area_square_m":1701778714.754101,
+    "geom:area_square_m":1701778714.754151,
     "geom:bbox":"37.615763,49.900496,38.4159360844,50.4276232345",
     "geom:latitude":50.187235,
     "geom:longitude":38.019945,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Valujskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":50.185964,
     "lbl:longitude":38.026038,
     "meso:admin1_en":"Belskaja oblast'",
@@ -48,7 +60,11 @@
         "Valoeyskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Valuyskiy"
+        "Valujskiy"
+    ],
+    "name:eng_x_variant":[
+        "Valujskij",
+        "Valujskiy"
     ],
     "name:ger_x_preferred":[
         "Waluiski rajon"
@@ -108,11 +124,11 @@
         }
     ],
     "wof:id":1108737293,
-    "wof:lastmodified":1514503827,
-    "wof:name":"Valujskij",
+    "wof:lastmodified":1555047709,
+    "wof:name":"Valujskiy",
     "wof:parent_id":85687813,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":38100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

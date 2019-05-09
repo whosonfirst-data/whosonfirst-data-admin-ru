@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038012,
-    "geom:area_square_m":335932388.536546,
+    "geom:area_square_m":335932388.536531,
     "geom:bbox":"41.5924740628,44.274808332,42.0668112866,44.4887669791",
     "geom:latitude":44.379902,
     "geom:longitude":41.79923,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Adyge-Khabl'skiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":44.397704,
     "lbl:longitude":41.75695,
     "meso:admin1_en":"Karachaevo-CHerkesskaja respublika",
@@ -45,7 +57,11 @@
         "District Adyge-Khablski"
     ],
     "name:eng_x_preferred":[
-        "Otradnenskiy"
+        "Adyge-Khabl'skiy"
+    ],
+    "name:eng_x_variant":[
+        "Adyge-KHabl'skij",
+        "Adyge-Khabl'skiy"
     ],
     "name:est_x_preferred":[
         "Ad\u00f5ge-Habli rajoon"
@@ -117,11 +133,11 @@
         }
     ],
     "wof:id":1108732619,
-    "wof:lastmodified":1553816501,
-    "wof:name":"Adyge-KHabl'skij",
+    "wof:lastmodified":1555047561,
+    "wof:name":"Adyge-Khabl'skiy",
     "wof:parent_id":85687913,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":67800,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",

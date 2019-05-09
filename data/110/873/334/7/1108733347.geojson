@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.589688,
-    "geom:area_square_m":3752891156.834405,
+    "geom:area_square_m":3752891156.834282,
     "geom:bbox":"47.2095761751,58.6314699287,48.5185878741,59.4127903783",
     "geom:latitude":59.023304,
     "geom:longitude":47.818867,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Darovskoj District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":59.053479,
     "lbl:longitude":47.883529,
     "meso:admin1_en":"Kirovskaja oblast'",
@@ -48,6 +60,9 @@
         "Darovskoy rayon"
     ],
     "name:eng_x_preferred":[
+        "Darovskoj"
+    ],
+    "name:eng_x_variant":[
         "Darovskiy"
     ],
     "name:ger_x_preferred":[
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108733347,
-    "wof:lastmodified":1514501163,
+    "wof:lastmodified":1555047587,
     "wof:name":"Darovskoj",
     "wof:parent_id":85687903,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":16400,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.71762,
-    "geom:area_square_m":17922310762.022251,
+    "geom:area_square_m":17922310762.022289,
     "geom:bbox":"67.78745747,57.0490578071,70.854519499,58.6874514573",
     "geom:latitude":57.767679,
     "geom:longitude":69.580212,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Vagajskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":57.726993,
     "lbl:longitude":69.708923,
     "meso:admin1_en":"Tjumenskaja oblast'",
@@ -45,7 +57,11 @@
         "Vagayskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Vagayskiy"
+        "Vagajskiy"
+    ],
+    "name:eng_x_variant":[
+        "Vagajskij",
+        "Vagajskiy"
     ],
     "name:ger_x_preferred":[
         "Wagajski rajon"
@@ -102,11 +118,11 @@
         }
     ],
     "wof:id":1108737289,
-    "wof:lastmodified":1514503825,
-    "wof:name":"Vagajskij",
+    "wof:lastmodified":1555047709,
+    "wof:name":"Vagajskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":26700,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.113988,
-    "geom:area_square_m":956445115.606034,
+    "geom:area_square_m":956445115.606027,
     "geom:bbox":"40.0803462027,47.0894811082,40.7392543022,47.4524163127",
     "geom:latitude":47.267489,
     "geom:longitude":40.411229,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Bagaevskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":47.246806,
     "lbl:longitude":40.388965,
     "meso:admin1_en":"Rostovskaja oblast'",
@@ -46,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Bagaevskiy"
+    ],
+    "name:eng_x_variant":[
+        "Bagaevskij"
     ],
     "name:fre_x_preferred":[
         "Ra\u00efon de Baga\u00efevska\u00efa"
@@ -105,11 +120,11 @@
         }
     ],
     "wof:id":1108732841,
-    "wof:lastmodified":1514500617,
-    "wof:name":"Bagaevskij",
+    "wof:lastmodified":1555047568,
+    "wof:name":"Bagaevskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":35100,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

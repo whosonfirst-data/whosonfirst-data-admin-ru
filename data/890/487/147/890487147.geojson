@@ -5,12 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.218697,
-    "geom:area_square_m":1537027361.715089,
+    "geom:area_square_m":1537027361.715069,
     "geom:bbox":"35.8829600657,55.1703454307,37.1416855669,55.5870669675",
     "geom:latitude":55.362724,
     "geom:longitude":36.524992,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Naro-Fominskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.383943,
     "lbl:longitude":36.69312,
     "meso:admin1_en":"Moskovskaja oblast'",
@@ -52,7 +64,11 @@
         "Naro-Fominskiy rayon"
     ],
     "name:eng_x_preferred":[
-        "Naro-Fominsky District"
+        "Naro-Fominskiy"
+    ],
+    "name:eng_x_variant":[
+        "Naro-Fominskij",
+        "Naro-Fominskiy"
     ],
     "name:ger_x_preferred":[
         "Naro-Fominski rajon"
@@ -129,10 +145,11 @@
         }
     ],
     "wof:id":890487147,
-    "wof:lastmodified":1527792830,
-    "wof:name":"Naro-Fominskij",
+    "wof:lastmodified":1555047558,
+    "wof:name":"Naro-Fominskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

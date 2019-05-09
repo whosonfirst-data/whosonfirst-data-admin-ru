@@ -11,6 +11,18 @@
     "geom:longitude":86.274757,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Kemerovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":55.576913,
     "lbl:longitude":86.504858,
     "meso:admin1_en":"Kemerovskaja oblast'",
@@ -47,6 +59,9 @@
     ],
     "name:eng_x_preferred":[
         "Kemerovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Kemerovskij"
     ],
     "name:ger_x_preferred":[
         "Kemerowski rajon"
@@ -127,11 +142,11 @@
         }
     ],
     "wof:id":890482601,
-    "wof:lastmodified":1536617437,
-    "wof:name":"Kemerovskij",
+    "wof:lastmodified":1555047542,
+    "wof:name":"Kemerovskiy",
     "wof:parent_id":85688105,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":39200,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

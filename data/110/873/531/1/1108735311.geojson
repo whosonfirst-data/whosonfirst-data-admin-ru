@@ -5,11 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.71057,
-    "geom:area_square_m":6056867919.725371,
+    "geom:area_square_m":6056867919.725467,
     "geom:bbox":"46.408936896,46.0690479332,48.1789151637,46.8681304531",
     "geom:latitude":46.42099,
     "geom:longitude":47.331265,
     "iso:country":"RU",
+    "label:eng_x_preferred_longname":[
+        "Narimanovskiy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:rus_latn_x_preferred_placetype":[
+        "raion"
+    ],
+    "label:rus_x_preferred_placetype":[
+        "\u0440\u0430\u0439\u043e\u043d"
+    ],
     "lbl:latitude":46.406825,
     "lbl:longitude":47.344575,
     "meso:admin1_en":"Astrakhanskaja oblast'",
@@ -52,6 +64,9 @@
     ],
     "name:eng_x_preferred":[
         "Narimanovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Narimanovskij"
     ],
     "name:ger_x_preferred":[
         "Narimanowski rajon"
@@ -114,11 +129,11 @@
         }
     ],
     "wof:id":1108735311,
-    "wof:lastmodified":1553816505,
-    "wof:name":"Narimanovskij",
+    "wof:lastmodified":1555047644,
+    "wof:name":"Narimanovskiy",
     "wof:parent_id":85687985,
     "wof:placetype":"county",
-    "wof:placetype_local":"raion",
+    "wof:placetype_local":"district",
     "wof:population":44800,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",
