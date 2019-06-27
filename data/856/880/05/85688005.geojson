@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "krai"
     ],
+    "label:rus_x_preferred_longname":[
+        "\u0417\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+    ],
     "label:rus_x_preferred_placetype":[
         "\u043a\u0440\u0430\u0439"
     ],
@@ -125,11 +128,12 @@
         "Transbaikal"
     ],
     "name:rus_x_preferred":[
-        "\u0417\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u041a\u0440\u0430\u0439"
+        "\u0417\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u043a\u0438\u0439"
     ],
     "name:rus_x_variant":[
         "\u0417\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
-        "\u0417\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0435"
+        "\u0417\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0435",
+        "\u0417\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u041a\u0440\u0430\u0439"
     ],
     "name:spa_x_preferred":[
         "Zabaikalie"
@@ -293,7 +297,7 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1553550996,
+    "wof:lastmodified":1561573915,
     "wof:name":"Zabaykalsky",
     "wof:parent_id":85632685,
     "wof:placetype":"region",

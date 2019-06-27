@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "krai"
     ],
+    "label:rus_x_preferred_longname":[
+        "\u041f\u0435\u0440\u043c\u0441\u043a\u0430\u044f \u043a\u0440\u0430\u0439"
+    ],
     "label:rus_x_preferred_placetype":[
         "\u043a\u0440\u0430\u0439"
     ],
@@ -181,11 +184,12 @@
         "\u021ainutul Perm"
     ],
     "name:rus_x_preferred":[
-        "\u041f\u0435\u0440\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        "\u041f\u0435\u0440\u043c\u0441\u043a\u0430\u044f"
     ],
     "name:rus_x_variant":[
         "\u041f\u0435\u0301\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
-        "\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        "\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+        "\u041f\u0435\u0440\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
     "name:slk_x_preferred":[
         "Permsk\u00fd kraj"
@@ -369,7 +373,7 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1553550957,
+    "wof:lastmodified":1561573934,
     "wof:name":"Perm",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
