@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001393,
-    "geom:area_square_m":10632729.976872,
+    "geom:area_square_m":10632729.97687,
     "geom:bbox":"36.8896369934,51.8515014648,36.9386100769,51.8897209167",
     "geom:latitude":51.871252,
     "geom:longitude":36.913623,
@@ -29,20 +29,17 @@
     "name:bul_x_preferred":[
         "\u0428\u0447\u0438\u0433\u0440\u0438"
     ],
+    "name:ces_x_preferred":[
+        "\u0160\u010digry"
+    ],
     "name:che_x_preferred":[
         "\u0429\u0438\u0433\u0440\u044b"
-    ],
-    "name:chi_x_preferred":[
-        "\u5e0c\u683c\u96f7"
-    ],
-    "name:cze_x_preferred":[
-        "\u0160\u010digry"
     ],
     "name:dan_x_preferred":[
         "Sjtjigry"
     ],
-    "name:dut_x_preferred":[
-        "Sjtsjigri"
+    "name:deu_x_preferred":[
+        "Schtschigry"
     ],
     "name:eng_x_preferred":[
         "Shchigry"
@@ -62,17 +59,14 @@
     "name:fra_x_preferred":[
         "Chtchigry"
     ],
-    "name:fre_x_preferred":[
-        "Chtchigry"
-    ],
-    "name:ger_x_preferred":[
-        "Schtschigry"
-    ],
     "name:hsb_x_preferred":[
         "\u0160\u0107igry"
     ],
     "name:ita_x_preferred":[
         "\u0160\u010digry"
+    ],
+    "name:nld_x_preferred":[
+        "Sjtsjigri"
     ],
     "name:nno_x_preferred":[
         "Sjtsjigry"
@@ -82,9 +76,6 @@
     ],
     "name:nor_x_preferred":[
         "Sjtsjigry"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0686\u06cc\u06af\u0631\u06cc"
     ],
     "name:pol_x_preferred":[
         "Szczigry"
@@ -145,7 +136,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688011
+        85688011,
+        1108736567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -167,7 +159,7 @@
         }
     ],
     "wof:id":102005257,
-    "wof:lastmodified":1514503303,
+    "wof:lastmodified":1561831723,
     "wof:name":"Shchigry",
     "wof:parent_id":1108736567,
     "wof:placetype":"locality",

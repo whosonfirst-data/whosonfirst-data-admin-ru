@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000695,
-    "geom:area_square_m":4706552.582996,
+    "geom:area_square_m":4706552.582998,
     "geom:bbox":"57.8783340454,56.7905540466,57.9244155884,56.8185539246",
     "geom:latitude":56.804131,
     "geom:longitude":57.901037,
@@ -20,17 +20,17 @@
     "name:ara_x_preferred":[
         "\u0623\u062a\u0634\u064a\u062a"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0579\u056b\u057f"
-    ],
     "name:che_x_preferred":[
         "\u0410\u0447\u0438\u0442"
+    ],
+    "name:deu_x_preferred":[
+        "Atschit"
     ],
     "name:eng_x_preferred":[
         "Achit"
     ],
-    "name:ger_x_preferred":[
-        "Atschit"
+    "name:hye_x_preferred":[
+        "\u0531\u0579\u056b\u057f"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0447\u0438\u0442"
@@ -70,7 +70,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688183
+        85688183,
+        1108732609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":102008765,
-    "wof:lastmodified":1553815713,
+    "wof:lastmodified":1561831681,
     "wof:name":"Achit",
     "wof:parent_id":1108732609,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005551,
-    "geom:area_square_m":40910699.620509,
+    "geom:area_square_m":40910699.620494,
     "geom:bbox":"59.020149231,53.3655815125,59.1170539856,53.4775848389",
     "geom:latitude":53.412908,
     "geom:longitude":59.071839,
@@ -22,17 +22,11 @@
     "name:ara_x_preferred":[
         "\u0645\u063a\u0646\u064a\u062a\u0627\u063a\u0648\u0631\u0633\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u0563\u0576\u056b\u057f\u0578\u0563\u0578\u0580\u057d\u056f"
-    ],
     "name:azb_x_preferred":[
         "\u0645\u0627\u0642\u0646\u06cc\u062a\u0648\u0642\u0648\u0631\u0633\u06a9"
     ],
     "name:bak_x_preferred":[
         "\u041c\u0430\u0433\u043d\u0438\u0442\u043e\u0433\u043e\u0440\u0441\u043a"
-    ],
-    "name:baq_x_preferred":[
-        "Magnitogorsk"
     ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u0433\u043d\u0456\u0442\u0430\u0433\u043e\u0440\u0441\u043a"
@@ -46,17 +40,17 @@
     "name:cat_x_preferred":[
         "Magnitogorsk"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u683c\u5c3c\u6258\u54e5\u5c14\u65af\u514b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Magnitogorsk"
     ],
     "name:dan_x_preferred":[
         "Magnitogorsk"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Magnitogorsk"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03b3\u03ba\u03bd\u03b9\u03c4\u03bf\u03b3\u03ba\u03cc\u03c1\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Magnitogorsk"
@@ -67,20 +61,17 @@
     "name:est_x_preferred":[
         "Magnitogorsk"
     ],
+    "name:eus_x_preferred":[
+        "Magnitogorsk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06af\u0646\u06cc\u062a\u0648\u06af\u0648\u0631\u0633\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Magnitogorsk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Magnitogorsk"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10d2\u10dc\u10d8\u10e2\u10dd\u10d2\u10dd\u10e0\u10e1\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Magnitogorsk"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03b3\u03ba\u03bd\u03b9\u03c4\u03bf\u03b3\u03ba\u03cc\u03c1\u03c3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0a97\u0acd\u0aa8\u0abf\u0a9f\u0acb\u0a97\u0acb\u0ab0\u0acd\u0ab8\u0acd\u0a95"
@@ -100,6 +91,9 @@
     "name:hun_x_preferred":[
         "Magnyitogorszk"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0563\u0576\u056b\u057f\u0578\u0563\u0578\u0580\u057d\u056f"
+    ],
     "name:ind_x_preferred":[
         "Magnitogorsk"
     ],
@@ -111,6 +105,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0ccd\u0caf\u0cbe\u0c97\u0ccd\u0ca8\u0cbf\u0c9f\u0ccb\u0c97\u0cbe\u0cb0\u0ccd\u0cb8\u0ccd\u0c95\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10d2\u10dc\u10d8\u10e2\u10dd\u10d2\u10dd\u10e0\u10e1\u10d9\u10d8"
     ],
     "name:kir_x_preferred":[
         "\u041c\u0430\u0433\u043d\u0438\u0442\u043e\u0433\u043e\u0440\u0441\u043a"
@@ -133,11 +130,14 @@
     "name:mar_x_preferred":[
         "\u092e\u0945\u0917\u0928\u0940\u091f\u094b\u0917\u094b\u0930\u0938\u094d\u0915"
     ],
-    "name:may_x_preferred":[
-        "Magnitogorsk"
-    ],
     "name:mhr_x_preferred":[
         "\u041c\u0430\u0433\u043d\u0438\u0442\u043e\u0433\u043e\u0440\u0441\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Magnitogorsk"
+    ],
+    "name:nld_x_preferred":[
+        "Magnitogorsk"
     ],
     "name:nno_x_preferred":[
         "Magnitogorsk"
@@ -151,9 +151,6 @@
     "name:oss_x_preferred":[
         "\u041c\u0430\u0433\u043d\u0438\u0442\u043e\u0433\u043e\u0440\u0441\u043a"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u06af\u0646\u06cc\u062a\u0648\u06af\u0648\u0631\u0633\u06a9"
-    ],
     "name:pnb_x_preferred":[
         "\u0645\u0627\u06af\u0646\u06cc\u0679\u0648\u06af\u0648\u0631\u0633"
     ],
@@ -163,7 +160,7 @@
     "name:por_x_preferred":[
         "Magnitogorsk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Magnitogorsk"
     ],
     "name:rus_x_preferred":[
@@ -175,7 +172,7 @@
     "name:sin_x_preferred":[
         "\u0db8\u0d9c\u0dca\u0db1\u0dd2\u0da7\u0ddd\u0d9c\u0ddc\u0dbb\u0dca\u0dc3\u0dca\u0d9a\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Magnitogorsk"
     ],
     "name:slv_x_preferred":[
@@ -229,6 +226,9 @@
     "name:war_x_preferred":[
         "Magnitogorsk"
     ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u683c\u5c3c\u6258\u54e5\u5c14\u65af\u514b"
+    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"7400000900000",
@@ -281,7 +281,7 @@
         }
     ],
     "wof:id":102010505,
-    "wof:lastmodified":1527637798,
+    "wof:lastmodified":1561831703,
     "wof:name":"Magnitogorsk",
     "wof:parent_id":890479889,
     "wof:placetype":"locality",

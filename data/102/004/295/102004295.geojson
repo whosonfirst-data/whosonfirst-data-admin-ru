@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000752,
-    "geom:area_square_m":5529484.563469,
+    "geom:area_square_m":5529484.563467,
     "geom:bbox":"33.7093048096,53.5171928406,33.7524452209,53.5442771912",
     "geom:latitude":53.529683,
     "geom:longitude":33.732932,
@@ -31,17 +31,14 @@
     "name:bul_x_preferred":[
         "\u0416\u0443\u043a\u043e\u0432\u043a\u0430"
     ],
+    "name:ces_x_preferred":[
+        "\u017dukovka"
+    ],
     "name:che_x_preferred":[
         "\u0416\u0443\u043a\u043e\u0432\u043a\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u8339\u79d1\u592b\u5361"
-    ],
-    "name:cze_x_preferred":[
-        "\u017dukovka"
-    ],
-    "name:dut_x_preferred":[
-        "Zjoekovka"
+    "name:deu_x_preferred":[
+        "Schukowka"
     ],
     "name:eng_x_preferred":[
         "Zhukovka"
@@ -52,14 +49,14 @@
     "name:est_x_preferred":[
         "\u017dukovka"
     ],
+    "name:fas_x_preferred":[
+        "\u0698\u0648\u06a9\u0648\u0641\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "\u017dukovka"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Joukovka"
-    ],
-    "name:ger_x_preferred":[
-        "Schukowka"
     ],
     "name:heb_x_preferred":[
         "\u05d6'\u05d5\u05e7\u05d5\u05d1\u05e7\u05d4"
@@ -82,6 +79,9 @@
     "name:lit_x_preferred":[
         "\u017dukovka"
     ],
+    "name:nld_x_preferred":[
+        "Zjoekovka"
+    ],
     "name:nno_x_preferred":[
         "Zjukovka"
     ],
@@ -90,9 +90,6 @@
     ],
     "name:nor_x_preferred":[
         "Zjukovka"
-    ],
-    "name:per_x_preferred":[
-        "\u0698\u0648\u06a9\u0648\u0641\u06a9\u0627"
     ],
     "name:rus_x_preferred":[
         "\u0416\u0443\u043a\u043e\u0432\u043a\u0430"
@@ -121,6 +118,9 @@
     "name:xal_x_preferred":[
         "\u0416\u0443\u043a\u043e\u0432\u043a\u0430 \u0431\u0430\u043b\u04bb\u0441\u043d"
     ],
+    "name:zho_x_preferred":[
+        "\u8339\u79d1\u592b\u5361"
+    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0411\u0440\u044f\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"3200800100000",
@@ -144,7 +144,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688121
+        85688121,
+        1108738163
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":102004295,
-    "wof:lastmodified":1553815710,
+    "wof:lastmodified":1561831719,
     "wof:name":"Zhukovka",
     "wof:parent_id":1108738163,
     "wof:placetype":"locality",

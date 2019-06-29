@@ -54,9 +54,6 @@
     "mps:longitude":52.548639,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054f\u0578\u0582\u056f\u0561\u0587\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:bak_x_preferred":[
         "\u0422\u0443\u04a1\u0430\u0439 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
@@ -65,6 +62,9 @@
     ],
     "name:chv_x_preferred":[
         "\u0422\u0443\u0442\u0430\u0440\u0441\u0442\u0430\u043d\u0103\u043d \u0422\u0443\u043a\u0430\u0439 \u0440\u0430\u0439\u043e\u043d\u0115"
+    ],
+    "name:deu_x_preferred":[
+        "Tukaewski rajon"
     ],
     "name:eng_x_preferred":[
         "Tukaevskiy"
@@ -76,11 +76,11 @@
     "name:est_x_preferred":[
         "Tukajevi rajoon"
     ],
-    "name:ger_x_preferred":[
-        "Tukaewski rajon"
-    ],
     "name:hun_x_preferred":[
         "Tukaj j\u00e1r\u00e1s"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0578\u0582\u056f\u0561\u0587\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:mhr_x_preferred":[
         "\u0422\u0443\u043a\u0430\u0439 \u043a\u0443\u043d\u0434\u0435\u043c"
@@ -161,7 +161,7 @@
         }
     ],
     "wof:id":890480015,
-    "wof:lastmodified":1561582139,
+    "wof:lastmodified":1561832795,
     "wof:name":"Tukaevskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

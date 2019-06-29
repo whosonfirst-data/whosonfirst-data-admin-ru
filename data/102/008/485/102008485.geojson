@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000798,
-    "geom:area_square_m":5252577.426509,
+    "geom:area_square_m":5252577.42651,
     "geom:bbox":"54.8048324585,57.8377227783,54.8656387329,57.8637504578",
     "geom:latitude":57.850252,
     "geom:longitude":54.839709,
@@ -17,9 +17,6 @@
     "mps:longitude":54.839709,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054a\u0561\u057e\u056c\u0578\u057e\u057d\u056f\u056b\u0575"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u045e\u043b\u043e\u045e\u0441\u043a\u0456"
     ],
@@ -35,9 +32,6 @@
     "name:deu_x_preferred":[
         "Pawlowski"
     ],
-    "name:dut_x_preferred":[
-        "Pavlovskiy"
-    ],
     "name:eng_x_preferred":[
         "Pavlovskiy"
     ],
@@ -47,8 +41,14 @@
     "name:fra_x_preferred":[
         "Pavlovski"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u057e\u056c\u0578\u057e\u057d\u056f\u056b\u0575"
+    ],
     "name:ita_x_preferred":[
         "Pavlovskij"
+    ],
+    "name:nld_x_preferred":[
+        "Pavlovskiy"
     ],
     "name:nor_x_preferred":[
         "Pavlovskij"
@@ -89,7 +89,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85687975
+        85687975,
+        1108735595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":102008485,
-    "wof:lastmodified":1553815712,
+    "wof:lastmodified":1561831682,
     "wof:name":"Pavlovskiy",
     "wof:parent_id":1108735595,
     "wof:placetype":"locality",

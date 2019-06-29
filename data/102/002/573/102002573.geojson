@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.001198,
-    "geom:area_square_m":7733501.287057,
+    "geom:area_square_m":7733501.287056,
     "geom:bbox":"31.2485561371,58.5098876953,31.2915840149,58.5741119385",
     "geom:latitude":58.538202,
     "geom:longitude":31.271659,
@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u064a\u0643\u064a \u0646\u0648\u0641\u063a\u0648\u0631\u0648\u062f"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0565\u056e \u0546\u0578\u057e\u0563\u0578\u0580\u0578\u0564"
-    ],
     "name:azb_x_preferred":[
         "\u0648\u0644\u06cc\u06a9\u06cc \u0646\u0648\u0648\u0642\u0648\u0631\u0648\u062f"
     ],
@@ -39,9 +36,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0411\u04e9\u0439\u04e9\u043a \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434"
-    ],
-    "name:baq_x_preferred":[
-        "Novgorod"
     ],
     "name:bel_x_preferred":[
         "\u0412\u044f\u043b\u0456\u043a\u0456 \u041d\u043e\u045e\u0433\u0430\u0440\u0430\u0434"
@@ -61,11 +55,11 @@
     "name:cat_x_preferred":[
         "N\u00f2vgorod"
     ],
+    "name:ces_x_preferred":[
+        "Novgorod"
+    ],
     "name:che_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0438 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434"
-    ],
-    "name:chi_x_preferred":[
-        "\u5927\u8bfa\u592b\u54e5\u7f57\u5fb7"
     ],
     "name:chu_x_preferred":[
         "\u041d\u043e\u0432\u044a \u0413\u0440\u0430\u0434\u044a"
@@ -73,11 +67,14 @@
     "name:chv_x_preferred":[
         "\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434"
     ],
-    "name:cze_x_preferred":[
-        "Novgorod"
+    "name:cym_x_preferred":[
+        "Velikiy Novgorod"
     ],
     "name:dan_x_preferred":[
         "Velikij Novgorod"
+    ],
+    "name:deu_x_preferred":[
+        "Weliki Nowgorod"
     ],
     "name:diq_x_preferred":[
         "Veliky Novgorod"
@@ -85,8 +82,8 @@
     "name:dsb_x_preferred":[
         "Wjeliki Nowgorod"
     ],
-    "name:dut_x_preferred":[
-        "Veliki Novgorod"
+    "name:ell_x_preferred":[
+        "\u039d\u03cc\u03b2\u03b3\u03ba\u03bf\u03c1\u03bf\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Veliky Novgorod"
@@ -97,23 +94,20 @@
     "name:est_x_preferred":[
         "Veliki Novgorod"
     ],
+    "name:eus_x_preferred":[
+        "Novgorod"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc\u06a9\u06cc \u0646\u0648\u0648\u06af\u0648\u0631\u0648\u062f"
+    ],
     "name:fin_x_preferred":[
         "Novgorod"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Novgorod"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d8\u10d3\u10d8 \u10dc\u10dd\u10d5\u10d2\u10dd\u10e0\u10dd\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Weliki Nowgorod"
     ],
     "name:glg_x_preferred":[
         "N\u00f3vgorod"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03cc\u03b2\u03b3\u03ba\u03bf\u03c1\u03bf\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0ab2\u0abf\u0a95\u0ac0 \u0aa8\u0acb\u0ab5\u0a97\u0acb\u0ab0\u0acb\u0aa1"
@@ -133,14 +127,17 @@
     "name:hun_x_preferred":[
         "Novgorod"
     ],
-    "name:ice_x_preferred":[
-        "H\u00f3lmgar\u00f0ur"
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u056e \u0546\u0578\u057e\u0563\u0578\u0580\u0578\u0564"
     ],
     "name:ido_x_preferred":[
         "Novgorod"
     ],
     "name:ind_x_preferred":[
         "Velikiy Novgorod"
+    ],
+    "name:isl_x_preferred":[
+        "H\u00f3lmgar\u00f0ur"
     ],
     "name:ita_x_preferred":[
         "Velikij Novgorod"
@@ -150,6 +147,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb5\u0cc6\u0cb2\u0cbf\u0c95\u0ccd\u0caf\u0ccd \u0ca8\u0ccb\u0cb5\u0cbf\u0c97\u0cca\u0cb0\u0cca\u0ca6\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d8\u10d3\u10d8 \u10dc\u10dd\u10d5\u10d2\u10dd\u10e0\u10dd\u10d3\u10d8"
     ],
     "name:kir_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434"
@@ -169,20 +169,23 @@
     "name:lit_x_preferred":[
         "Naugardas"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0435\u043b\u0438\u043a\u0438 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434"
-    ],
     "name:mar_x_preferred":[
         "\u0935\u0947\u0932\u093f\u0915\u0940 \u0928\u0949\u0935\u0917\u094b\u0930\u094b\u0926"
-    ],
-    "name:may_x_preferred":[
-        "Veliky Novgorod"
     ],
     "name:mhr_x_preferred":[
         "\u041a\u0443\u0433\u0443 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434"
     ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434"
+    ],
+    "name:msa_x_preferred":[
+        "Veliky Novgorod"
+    ],
     "name:nds_x_preferred":[
         "Naugard"
+    ],
+    "name:nld_x_preferred":[
+        "Veliki Novgorod"
     ],
     "name:nno_x_preferred":[
         "Novgorod"
@@ -192,9 +195,6 @@
     ],
     "name:oss_x_preferred":[
         "\u0421\u0442\u044b\u0440 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u06cc\u06a9\u06cc \u0646\u0648\u0648\u06af\u0648\u0631\u0648\u062f"
     ],
     "name:pnb_x_preferred":[
         "\u0648\u06cc\u0644\u06cc\u06a9\u06cc \u0646\u0648\u0648\u06af\u0648\u0631\u062f"
@@ -208,11 +208,11 @@
     "name:que_x_preferred":[
         "Velikiy Novgorod"
     ],
+    "name:ron_x_preferred":[
+        "Veliki Novgorod"
+    ],
     "name:rue_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u044b\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434"
-    ],
-    "name:rum_x_preferred":[
-        "Veliki Novgorod"
     ],
     "name:rus_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434"
@@ -223,7 +223,7 @@
     "name:sin_x_preferred":[
         "\u0dc0\u0dd9\u0dbd\u0dd2\u0d9a\u0dd2 \u0db1\u0ddc\u0dc0\u0dca\u0d9c\u0ddc\u0dbb\u0ddc\u0da9\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Velikij Novgorod"
     ],
     "name:slv_x_preferred":[
@@ -283,14 +283,14 @@
     "name:war_x_preferred":[
         "Veliky Novgorod"
     ],
-    "name:wel_x_preferred":[
-        "Velikiy Novgorod"
-    ],
     "name:wol_x_preferred":[
         "Veliky Novgorod"
     ],
     "name:yue_x_preferred":[
         "\u5927\u8afe\u592b\u54e5\u7f85\u5fb7"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u8bfa\u592b\u54e5\u7f57\u5fb7"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -338,7 +338,7 @@
         }
     ],
     "wof:id":102002573,
-    "wof:lastmodified":1534985985,
+    "wof:lastmodified":1561831731,
     "wof:name":"Novgorod",
     "wof:parent_id":1108737319,
     "wof:placetype":"locality",

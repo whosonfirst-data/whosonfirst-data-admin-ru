@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001837,
-    "geom:area_square_m":13275490.453153,
+    "geom:area_square_m":13275490.453148,
     "geom:bbox":"83.3415527344,54.2103614807,83.4138641357,54.248664856",
     "geom:latitude":54.229404,
     "geom:longitude":83.377511,
@@ -35,17 +35,14 @@
     "name:cat_x_preferred":[
         "Txerep\u00e0novo"
     ],
+    "name:ces_x_preferred":[
+        "\u010cerepanovo"
+    ],
     "name:che_x_preferred":[
         "\u0427\u0435\u0440\u0435\u043f\u0430\u043d\u043e\u0432\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u5207\u5217\u5e15\u8afe\u6c83"
-    ],
-    "name:cze_x_preferred":[
-        "\u010cerepanovo"
-    ],
-    "name:dut_x_preferred":[
-        "Tsjerepanovo"
+    "name:deu_x_preferred":[
+        "Tscherepanowo"
     ],
     "name:eng_x_preferred":[
         "Cherepanovo"
@@ -53,20 +50,23 @@
     "name:epo_x_preferred":[
         "\u0108erepanovo"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0631\u067e\u0627\u0646\u0648\u0641\u0648"
+    ],
     "name:fin_x_preferred":[
         "T\u0161erepanovo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tcherepanovo"
-    ],
-    "name:ger_x_preferred":[
-        "Tscherepanowo"
     ],
     "name:hsb_x_preferred":[
         "\u010cerjepanowo"
     ],
     "name:ita_x_preferred":[
         "\u010cerepanovo"
+    ],
+    "name:nld_x_preferred":[
+        "Tsjerepanovo"
     ],
     "name:nno_x_preferred":[
         "Tsjerepanovo"
@@ -76,9 +76,6 @@
     ],
     "name:nor_x_preferred":[
         "Tsjerepanovo"
-    ],
-    "name:per_x_preferred":[
-        "\u0686\u0631\u067e\u0627\u0646\u0648\u0641\u0648"
     ],
     "name:pol_x_preferred":[
         "Czeriepanowo"
@@ -112,6 +109,9 @@
     ],
     "name:war_x_preferred":[
         "Cherepanovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5207\u5217\u5e15\u8afe\u6c83"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -228,7 +228,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85687925
+        85687925,
+        1108733239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -250,7 +251,7 @@
         }
     ],
     "wof:id":102013127,
-    "wof:lastmodified":1514500962,
+    "wof:lastmodified":1561831658,
     "wof:name":"Cherepanovo",
     "wof:parent_id":1108733239,
     "wof:placetype":"locality",

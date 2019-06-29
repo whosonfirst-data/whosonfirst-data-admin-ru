@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001483,
-    "geom:area_square_m":13155223.352754,
+    "geom:area_square_m":13155223.352744,
     "geom:bbox":"133.249145508,44.120803833,133.305084229,44.1771659851",
     "geom:latitude":44.152723,
     "geom:longitude":133.279917,
@@ -38,10 +38,7 @@
     "name:cat_x_preferred":[
         "Ars\u00e9niev"
     ],
-    "name:chi_x_preferred":[
-        "\u9ec4\u571f\u574e\u5b50"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Arse\u0148jev"
     ],
     "name:dan_x_preferred":[
@@ -50,8 +47,8 @@
     "name:deu_x_preferred":[
         "Arsenjew"
     ],
-    "name:dut_x_preferred":[
-        "Arsenjev"
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03c3\u03ad\u03bd\u03b9\u03b5\u03b2"
     ],
     "name:eng_x_preferred":[
         "Arsen'yev"
@@ -70,15 +67,6 @@
     ],
     "name:fra_x_preferred":[
         "Arseniev"
-    ],
-    "name:fre_x_preferred":[
-        "Arseniev"
-    ],
-    "name:ger_x_preferred":[
-        "Arsenjew"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c1\u03c3\u03ad\u03bd\u03b9\u03b5\u03b2"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0ab0\u0acd\u0ab8\u0ac7\u0aa8\u0ac7\u0ab5"
@@ -122,7 +110,7 @@
     "name:mar_x_preferred":[
         "\u0906\u0930\u094d\u0938\u0947\u0928\u0947\u0935\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Arsenyev"
     ],
     "name:nld_x_preferred":[
@@ -137,9 +125,6 @@
     "name:nor_x_preferred":[
         "Arsenjev"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0631\u0633\u0646\u06cc\u0641"
-    ],
     "name:pnb_x_preferred":[
         "\u0622\u0631\u0633\u06cc\u0646\u06cc\u0641"
     ],
@@ -150,9 +135,6 @@
         "Arseniev"
     ],
     "name:ron_x_preferred":[
-        "Arseniev"
-    ],
-    "name:rum_x_preferred":[
         "Arseniev"
     ],
     "name:rus_x_preferred":[
@@ -208,6 +190,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u5c14\u8c22\u5c3c\u8036\u592b"
+    ],
+    "name:zho_x_variant":[
+        "\u9ec4\u571f\u574e\u5b50"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -351,7 +336,7 @@
         }
     ],
     "wof:id":102001709,
-    "wof:lastmodified":1527637252,
+    "wof:lastmodified":1561831687,
     "wof:name":"Arsen'Yev",
     "wof:parent_id":1108732781,
     "wof:placetype":"locality",

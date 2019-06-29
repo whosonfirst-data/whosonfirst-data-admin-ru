@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001829,
-    "geom:area_square_m":12896528.434065,
+    "geom:area_square_m":12896528.434062,
     "geom:bbox":"84.3555831909,55.216583252,84.4235839844,55.2603874207",
     "geom:latitude":55.23933,
     "geom:longitude":84.389607,
@@ -33,20 +33,14 @@
     "name:bul_x_preferred":[
         "\u0422\u043e\u0433\u0443\u0447\u0438\u043d"
     ],
+    "name:ces_x_preferred":[
+        "Togu\u010din"
+    ],
     "name:che_x_preferred":[
         "\u0422\u043e\u0433\u0443\u0447\u0438\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u53e4\u6b3d"
-    ],
-    "name:cze_x_preferred":[
-        "Togu\u010din"
-    ],
     "name:deu_x_preferred":[
         "Togutschin"
-    ],
-    "name:dut_x_preferred":[
-        "Togoetsjin"
     ],
     "name:eng_x_preferred":[
         "Toguchin"
@@ -60,12 +54,6 @@
     "name:fra_x_preferred":[
         "Togoutchine"
     ],
-    "name:fre_x_preferred":[
-        "Togoutchine"
-    ],
-    "name:ger_x_preferred":[
-        "Togutschin"
-    ],
     "name:heb_x_preferred":[
         "\u05d8\u05d5\u05d2\u05d5\u05e6'\u05d9\u05df"
     ],
@@ -75,6 +63,9 @@
     "name:ita_x_preferred":[
         "Togu\u010din"
     ],
+    "name:nld_x_preferred":[
+        "Togoetsjin"
+    ],
     "name:nno_x_preferred":[
         "Togutsjin"
     ],
@@ -83,9 +74,6 @@
     ],
     "name:nor_x_preferred":[
         "Togutsjin"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u06af\u0648\u0686\u06cc\u0646"
     ],
     "name:pol_x_preferred":[
         "Toguczin"
@@ -262,7 +250,7 @@
         }
     ],
     "wof:id":102012889,
-    "wof:lastmodified":1527636469,
+    "wof:lastmodified":1561831652,
     "wof:name":"Toguchin",
     "wof:parent_id":1108737051,
     "wof:placetype":"locality",

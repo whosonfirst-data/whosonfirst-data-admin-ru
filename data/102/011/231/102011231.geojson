@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004184,
-    "geom:area_square_m":32388274.768494,
+    "geom:area_square_m":32388274.768498,
     "geom:bbox":"58.4377708435,51.2167167664,58.5846099854,51.2729759216",
     "geom:latitude":51.246811,
     "geom:longitude":58.508862,
@@ -37,19 +37,16 @@
     "name:cat_x_preferred":[
         "Novotro\u00eftsk"
     ],
+    "name:ces_x_preferred":[
+        "Novotroick"
+    ],
     "name:che_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0442\u0440\u043e\u0438\u0446\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u65b0\u7279\u7f85\u4f0a\u8328\u514b"
-    ],
-    "name:cze_x_preferred":[
-        "Novotroick"
+    "name:deu_x_preferred":[
+        "Nowotroizk"
     ],
     "name:diq_x_preferred":[
-        "Novotroitsk"
-    ],
-    "name:dut_x_preferred":[
         "Novotroitsk"
     ],
     "name:eng_x_preferred":[
@@ -61,14 +58,14 @@
     "name:est_x_preferred":[
         "Novotroitsk"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0648\u0648\u062a\u0631\u0648\u06cc\u0633\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Novotroitsk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Novotro\u00eftsk"
-    ],
-    "name:ger_x_preferred":[
-        "Nowotroizk"
     ],
     "name:hrv_x_preferred":[
         "Novotroick"
@@ -88,6 +85,9 @@
     "name:mhr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0442\u0440\u043e\u0438\u0446\u043a"
     ],
+    "name:nld_x_preferred":[
+        "Novotroitsk"
+    ],
     "name:nno_x_preferred":[
         "Novotroitsk"
     ],
@@ -97,16 +97,13 @@
     "name:oss_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0442\u0440\u043e\u0438\u0446\u043a"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0648\u0648\u0648\u062a\u0631\u0648\u06cc\u0633\u06a9"
-    ],
     "name:pnb_x_preferred":[
         "\u0646\u0648\u0651\u0648\u062a\u0631\u0648\u0626\u06cc\u062a\u0633\u06a9"
     ],
     "name:pol_x_preferred":[
         "Nowotroick"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Novotroi\u021bk"
     ],
     "name:rus_x_preferred":[
@@ -144,6 +141,9 @@
     ],
     "name:war_x_preferred":[
         "Novotroitsk"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u7279\u7f85\u4f0a\u8328\u514b"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -190,7 +190,7 @@
         }
     ],
     "wof:id":102011231,
-    "wof:lastmodified":1527637591,
+    "wof:lastmodified":1561831698,
     "wof:name":"Novotroitsk",
     "wof:parent_id":890483303,
     "wof:placetype":"locality",

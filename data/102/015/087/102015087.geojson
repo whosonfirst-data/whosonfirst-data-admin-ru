@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005154,
-    "geom:area_square_m":40183967.667385,
+    "geom:area_square_m":40183967.667426,
     "geom:bbox":"128.399810791,50.8781204224,128.575912476,50.9381942749",
     "geom:latitude":50.91022,
     "geom:longitude":128.486854,
@@ -38,16 +38,13 @@
     "name:cat_x_preferred":[
         "Belogorsk"
     ],
+    "name:ces_x_preferred":[
+        "Belogorsk"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0435\u043b\u043e\u0433\u043e\u0440\u0441\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u522b\u6d1b\u6208\u5c14\u65af\u514b"
-    ],
-    "name:cze_x_preferred":[
-        "Belogorsk"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Belogorsk"
     ],
     "name:eng_x_preferred":[
@@ -59,13 +56,13 @@
     "name:est_x_preferred":[
         "Belogorsk"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0648\u06af\u0648\u0631\u0633\u06a9\u060c \u0627\u0633\u062a\u0627\u0646 \u0622\u0645\u0648\u0631"
+    ],
     "name:fin_x_preferred":[
         "Belogorsk"
     ],
-    "name:fre_x_preferred":[
-        "Belogorsk"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Belogorsk"
     ],
     "name:heb_x_preferred":[
@@ -92,8 +89,11 @@
     "name:ltz_x_preferred":[
         "Belogorsk"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0411\u0435\u043b\u043e\u0433\u043e\u0440\u0441\u043a"
+    ],
+    "name:nld_x_preferred":[
+        "Belogorsk"
     ],
     "name:nno_x_preferred":[
         "Belogorsk"
@@ -104,9 +104,6 @@
     "name:oci_x_preferred":[
         "Belogorsk"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0644\u0648\u06af\u0648\u0631\u0633\u06a9\u060c \u0627\u0633\u062a\u0627\u0646 \u0622\u0645\u0648\u0631"
-    ],
     "name:pnb_x_preferred":[
         "\u0628\u06cc\u0644\u0648\u06af\u0648\u0631\u0633\u06a9"
     ],
@@ -116,13 +113,13 @@
     "name:por_x_preferred":[
         "Belogorsk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Belogorsk"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043b\u043e\u0433\u043e\u0440\u0441\u043a"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Belogorsk"
     ],
     "name:spa_x_preferred":[
@@ -157,6 +154,9 @@
     ],
     "name:war_x_preferred":[
         "Belogorsk"
+    ],
+    "name:zho_x_preferred":[
+        "\u522b\u6d1b\u6208\u5c14\u65af\u514b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -299,7 +299,7 @@
         }
     ],
     "wof:id":102015087,
-    "wof:lastmodified":1514500703,
+    "wof:lastmodified":1561831648,
     "wof:name":"Belogorsk",
     "wof:parent_id":1108732939,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001186,
-    "geom:area_square_m":10690172.056047,
+    "geom:area_square_m":10690172.056051,
     "geom:bbox":"44.4881401062,43.1699714661,44.5556945801,43.2056121826",
     "geom:latitude":43.190527,
     "geom:longitude":44.530281,
@@ -27,16 +27,10 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0633\u0644\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u057d\u056c\u0561\u0576"
-    ],
     "name:azb_x_preferred":[
         "\u0628\u0633\u0644\u0627\u0646"
     ],
     "name:aze_x_preferred":[
-        "Beslan"
-    ],
-    "name:baq_x_preferred":[
         "Beslan"
     ],
     "name:bel_x_preferred":[
@@ -48,14 +42,11 @@
     "name:cat_x_preferred":[
         "Beslan"
     ],
+    "name:ces_x_preferred":[
+        "Beslan"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0435\u0441\u043b\u0430\u043d"
-    ],
-    "name:chi_x_preferred":[
-        "\u522b\u65af\u5170"
-    ],
-    "name:cze_x_preferred":[
-        "Beslan"
     ],
     "name:dan_x_preferred":[
         "Beslan"
@@ -63,8 +54,8 @@
     "name:deu_x_preferred":[
         "Beslan"
     ],
-    "name:dut_x_preferred":[
-        "Beslan"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03c3\u03bb\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Beslan"
@@ -75,23 +66,17 @@
     "name:est_x_preferred":[
         "Beslan"
     ],
+    "name:eus_x_preferred":[
+        "Beslan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0633\u0644\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Beslan"
     ],
     "name:fra_x_preferred":[
         "Beslan"
-    ],
-    "name:fre_x_preferred":[
-        "Beslan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10e1\u10da\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Beslan"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b5\u03c3\u03bb\u03ac\u03bd"
     ],
     "name:hbs_x_preferred":[
         "Beslan"
@@ -105,8 +90,8 @@
     "name:hsb_x_preferred":[
         "Beslan"
     ],
-    "name:ice_x_preferred":[
-        "Beslan"
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u057d\u056c\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Beslan"
@@ -150,9 +135,6 @@
     "name:oss_x_preferred":[
         "\u0411\u0435\u0441\u043b\u00e6\u043d"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0633\u0644\u0627\u0646"
-    ],
     "name:pol_x_preferred":[
         "Bies\u0142an"
     ],
@@ -163,9 +145,6 @@
         "\u0411\u0435\u0441\u043b\u0430\u043d"
     ],
     "name:ron_x_variant":[
-        "Beslan"
-    ],
-    "name:rum_x_preferred":[
         "Beslan"
     ],
     "name:rus_x_preferred":[
@@ -215,6 +194,9 @@
     ],
     "name:xal_x_preferred":[
         "\u0411\u0435\u0441\u043b\u0430\u043d \u0431\u0430\u043b\u04bb\u0441\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u522b\u65af\u5170"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041e\u0441\u0435\u0442\u0438\u044f - \u0410\u043b\u0430\u043d\u0438\u044f",
@@ -276,7 +258,7 @@
         }
     ],
     "wof:id":102016459,
-    "wof:lastmodified":1527637601,
+    "wof:lastmodified":1561831702,
     "wof:name":"Beslan",
     "wof:parent_id":1108735959,
     "wof:placetype":"locality",

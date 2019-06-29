@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008885,
-    "geom:area_square_m":68139166.817372,
+    "geom:area_square_m":68139166.817374,
     "geom:bbox":"39.091835022,51.6172485352,39.2371940613,51.7265014648",
     "geom:latitude":51.670038,
     "geom:longitude":39.16991,
@@ -24,9 +24,6 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0631\u0648\u0646\u064a\u062c"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u0578\u0580\u0578\u0576\u0565\u056a"
-    ],
     "name:azb_x_preferred":[
         "\u0648\u0648\u0631\u0648\u0646\u0698"
     ],
@@ -35,9 +32,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0412\u043e\u0440\u043e\u043d\u0435\u0436"
-    ],
-    "name:baq_x_preferred":[
-        "Voronezh"
     ],
     "name:bel_x_preferred":[
         "\u0412\u0430\u0440\u043e\u043d\u0435\u0436"
@@ -63,17 +57,14 @@
     "name:che_x_preferred":[
         "\u0412\u043e\u0440\u043e\u043d\u0435\u0436"
     ],
-    "name:chi_x_preferred":[
-        "\u6c83\u7f57\u6d85\u65e5"
-    ],
     "name:chu_x_preferred":[
         "\u0412\u043e\u0440\u043e\u043d\u0454\u0436\u044c"
     ],
     "name:chv_x_preferred":[
         "\u0412\u043e\u0440\u043e\u043d\u0435\u0436"
     ],
-    "name:cze_x_preferred":[
-        "Voron\u011b\u017e"
+    "name:cym_x_preferred":[
+        "Voronezh"
     ],
     "name:dan_x_preferred":[
         "Voronezj"
@@ -84,8 +75,8 @@
     "name:diq_x_preferred":[
         "Voronej"
     ],
-    "name:dut_x_preferred":[
-        "Voronezj"
+    "name:ell_x_preferred":[
+        "\u0392\u03bf\u03c1\u03cc\u03bd\u03b5\u03b6"
     ],
     "name:eng_x_colloquial":[
         ""
@@ -99,29 +90,23 @@
     "name:est_x_preferred":[
         "Vorone\u017e"
     ],
+    "name:eus_x_preferred":[
+        "Voronezh"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u0631\u0648\u0646\u0698"
+    ],
     "name:fin_x_preferred":[
         "Vorone\u017e"
     ],
     "name:fra_x_preferred":[
         "Voronej"
     ],
-    "name:fre_x_preferred":[
-        "Voronej"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10dd\u10e0\u10dd\u10dc\u10d4\u10df\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Woronesch"
-    ],
     "name:gla_x_preferred":[
         "Voronezh"
     ],
     "name:gle_x_preferred":[
         "Voronezh"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03bf\u03c1\u03cc\u03bd\u03b5\u03b6"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0acb\u0ab0\u0acb\u0aa8\u0ac7\u0a9d"
@@ -141,6 +126,9 @@
     "name:hun_x_preferred":[
         "Voronyezs"
     ],
+    "name:hye_x_preferred":[
+        "\u054e\u0578\u0580\u0578\u0576\u0565\u056a"
+    ],
     "name:ind_x_preferred":[
         "Voronezh"
     ],
@@ -155,6 +143,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb5\u0cca\u0cb0\u0cca\u0ca8\u0cc7\u0c9c\u0ccd\u0cb9\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10dd\u10e0\u10dd\u10dc\u10d4\u10df\u10d8"
     ],
     "name:kir_x_preferred":[
         "\u0412\u043e\u0440\u043e\u043d\u0435\u0436"
@@ -180,20 +171,20 @@
     "name:lug_x_preferred":[
         "Voronezh"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u043e\u0440\u043e\u043d\u0435\u0436"
-    ],
     "name:mar_x_preferred":[
         "\u0935\u094b\u0930\u094b\u0928\u0947\u091d"
-    ],
-    "name:may_x_preferred":[
-        "Voronezh"
     ],
     "name:mhr_x_preferred":[
         "\u0412\u043e\u0440\u043e\u043d\u0435\u0436"
     ],
+    "name:mkd_x_preferred":[
+        "\u0412\u043e\u0440\u043e\u043d\u0435\u0436"
+    ],
     "name:mon_x_preferred":[
         "\u0412\u043e\u0440\u043e\u043d\u0435\u0436"
+    ],
+    "name:msa_x_preferred":[
+        "Voronezh"
     ],
     "name:myv_x_preferred":[
         "\u0412\u043e\u0440\u043e\u043d\u0435\u0436 \u043e\u0448"
@@ -210,9 +201,6 @@
     "name:oss_x_preferred":[
         "\u0412\u043e\u0440\u043e\u043d\u0435\u0436"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0648\u0631\u0648\u0646\u0698"
-    ],
     "name:pnb_x_preferred":[
         "\u0648\u0648\u0631\u0648\u0646\u06cc\u0632"
     ],
@@ -222,7 +210,7 @@
     "name:por_x_preferred":[
         "Voronezh"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Voronej"
     ],
     "name:rus_x_preferred":[
@@ -237,7 +225,7 @@
     "name:sin_x_preferred":[
         "\u0dc0\u0ddc\u0dbb\u0ddd\u0db1\u0dda\u0dc2\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Vorone\u017e"
     ],
     "name:slv_x_preferred":[
@@ -303,9 +291,6 @@
     "name:war_x_preferred":[
         "Voronezh"
     ],
-    "name:wel_x_preferred":[
-        "Voronezh"
-    ],
     "name:wol_x_preferred":[
         "Voronezh"
     ],
@@ -314,6 +299,9 @@
     ],
     "name:yue_x_preferred":[
         "\u4f5b\u6d1b\u5c3c\u8332"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u7f57\u6d85\u65e5"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -460,7 +448,7 @@
         }
     ],
     "wof:id":102005387,
-    "wof:lastmodified":1527637962,
+    "wof:lastmodified":1561831726,
     "wof:megacity":1,
     "wof:name":"Voronezh",
     "wof:parent_id":890484369,

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000517,
-    "geom:area_square_m":3958656.790593,
+    "geom:area_square_m":3958656.790591,
     "geom:bbox":"105.839775085,51.7081375122,105.895835876,51.7233314514",
     "geom:latitude":51.716211,
     "geom:longitude":105.866229,
@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0628\u0648\u0634\u0643\u064a\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u0562\u0578\u0582\u0577\u056f\u056b\u0576"
-    ],
     "name:azb_x_preferred":[
         "\u0628\u0627\u0628\u0648\u0634\u06a9\u06cc\u0646"
     ],
@@ -37,20 +34,17 @@
     "name:cat_x_preferred":[
         "B\u00e0buixkin"
     ],
+    "name:ces_x_preferred":[
+        "Babu\u0161kin"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0430\u0431\u0443\u0448\u043a\u0438\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u5e03\u4ec0\u91d1"
-    ],
-    "name:cze_x_preferred":[
-        "Babu\u0161kin"
+    "name:deu_x_preferred":[
+        "Babuschkin"
     ],
     "name:diq_x_preferred":[
         "Babushkin"
-    ],
-    "name:dut_x_preferred":[
-        "Baboesjkin"
     ],
     "name:eng_x_preferred":[
         "Babushkin"
@@ -58,17 +52,20 @@
     "name:epo_x_preferred":[
         "Babu\u015dkin"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0628\u0648\u0634\u06a9\u06cc\u0646"
+    ],
     "name:fin_x_preferred":[
         "Babu\u0161kin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Babouchkine"
-    ],
-    "name:ger_x_preferred":[
-        "Babuschkin"
     ],
     "name:hsb_x_preferred":[
         "Babu\u0161kin"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0562\u0578\u0582\u0577\u056f\u056b\u0576"
     ],
     "name:ido_x_preferred":[
         "Babushkin"
@@ -91,19 +88,19 @@
     "name:mon_x_preferred":[
         "\u0411\u0430\u0431\u0443\u0448\u043a\u0438\u043d \u0431\u0430\u043b\u0433\u0430\u0441"
     ],
+    "name:nld_x_preferred":[
+        "Baboesjkin"
+    ],
     "name:nno_x_preferred":[
         "Babusjkin"
     ],
     "name:nob_x_preferred":[
         "Babusjkin"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0628\u0648\u0634\u06a9\u06cc\u0646"
-    ],
     "name:pol_x_preferred":[
         "Babuszkin"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Babu\u0219kin"
     ],
     "name:rus_x_preferred":[
@@ -138,6 +135,9 @@
     ],
     "name:xal_x_preferred":[
         "\u0411\u0430\u0431\u0443\u0448\u043a\u0438\u043d \u0431\u0430\u043b\u04bb\u0441\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5e03\u4ec0\u91d1"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0443\u0440\u044f\u0442\u0438\u044f",
@@ -188,7 +188,7 @@
         }
     ],
     "wof:id":102014673,
-    "wof:lastmodified":1553815715,
+    "wof:lastmodified":1561831665,
     "wof:name":"Babushkin",
     "wof:parent_id":890487025,
     "wof:placetype":"locality",

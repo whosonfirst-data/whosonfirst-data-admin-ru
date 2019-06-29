@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007191,
-    "geom:area_square_m":56414840.7088,
+    "geom:area_square_m":56414840.708798,
     "geom:bbox":"36.4165840149,50.5736961365,36.6650276184,50.6821098328",
     "geom:latitude":50.61918,
     "geom:longitude":36.545714,
@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u063a\u0648\u0631\u0648\u062f"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u056c\u0563\u0578\u0580\u0578\u0564"
-    ],
     "name:azb_x_preferred":[
         "\u0628\u0644\u0642\u0648\u0631\u0648\u062f"
     ],
@@ -38,9 +35,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434"
-    ],
-    "name:baq_x_preferred":[
-        "Belgorod"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0435\u043b\u0433\u0430\u0440\u0430\u0434"
@@ -60,16 +54,13 @@
     "name:ces_x_preferred":[
         "B\u011blgorod"
     ],
+    "name:ces_x_variant":[
+        "Belgorod"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434"
     ],
-    "name:chi_x_preferred":[
-        "\u522b\u5c14\u54e5\u7f57\u5fb7"
-    ],
     "name:cym_x_preferred":[
-        "Belgorod"
-    ],
-    "name:cze_x_preferred":[
         "Belgorod"
     ],
     "name:dan_x_preferred":[
@@ -79,9 +70,6 @@
         "Belgorod"
     ],
     "name:diq_x_preferred":[
-        "Belgorod"
-    ],
-    "name:dut_x_preferred":[
         "Belgorod"
     ],
     "name:ell_x_preferred":[
@@ -110,15 +98,6 @@
     ],
     "name:fra_x_variant":[
         "Bilhorod-Dnistrovskyi"
-    ],
-    "name:fre_x_preferred":[
-        "Belgorod"
-    ],
-    "name:ger_x_preferred":[
-        "Belgorod"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ad\u03bb\u03b3\u03ba\u03bf\u03c1\u03bf\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0ab2\u0acd\u0a97\u0acb\u0ab0\u0acb\u0aa6"
@@ -174,14 +153,14 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u0932\u094d\u0917\u094b\u0930\u094b\u0926"
     ],
-    "name:may_x_preferred":[
-        "Belgorod"
-    ],
     "name:mhr_x_preferred":[
         "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434"
     ],
     "name:mon_x_preferred":[
         "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434"
+    ],
+    "name:msa_x_preferred":[
+        "Belgorod"
     ],
     "name:myv_x_preferred":[
         "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434 \u043e\u0448"
@@ -204,9 +183,6 @@
     "name:oss_x_preferred":[
         "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0644\u06af\u0648\u0631\u0648\u062f"
-    ],
     "name:pnb_x_preferred":[
         "\u0628\u06cc\u0644\u06af\u0648\u0631\u0648\u0688"
     ],
@@ -219,9 +195,6 @@
     "name:ron_x_preferred":[
         "Belgorod"
     ],
-    "name:rum_x_preferred":[
-        "Belgorod"
-    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434"
     ],
@@ -232,9 +205,6 @@
         "\u0db6\u0dd9\u0dbd\u0dca\u0d9c\u0ddc\u0dbb\u0ddc\u0da9\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Belgorod"
-    ],
-    "name:slo_x_preferred":[
         "Belgorod"
     ],
     "name:slv_x_preferred":[
@@ -289,9 +259,6 @@
         "Belgorod"
     ],
     "name:war_x_preferred":[
-        "Belgorod"
-    ],
-    "name:wel_x_preferred":[
         "Belgorod"
     ],
     "name:xal_x_preferred":[
@@ -455,7 +422,7 @@
         }
     ],
     "wof:id":102006205,
-    "wof:lastmodified":1527637262,
+    "wof:lastmodified":1561831692,
     "wof:name":"Belgorod",
     "wof:parent_id":1108733707,
     "wof:placetype":"locality",

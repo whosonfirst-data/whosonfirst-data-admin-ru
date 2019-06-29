@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001303,
-    "geom:area_square_m":6954807.529411,
+    "geom:area_square_m":6954807.529415,
     "geom:bbox":"40.7836685181,64.4053039551,40.8501396179,64.4354171753",
     "geom:latitude":64.420499,
     "geom:longitude":40.818583,
@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u0641\u0648\u062f\u0641\u064a\u0646\u0633\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u0546\u0578\u057e\u0578\u0564\u057e\u056b\u0576\u057d\u056f"
-    ],
     "name:azb_x_preferred":[
         "\u0646\u0648\u0648\u0648\u062f\u0648\u06cc\u0646\u0633\u06a9"
     ],
@@ -37,14 +34,8 @@
     "name:cat_x_preferred":[
         "Novodvinsk"
     ],
-    "name:chi_x_preferred":[
-        "\u65b0\u5fb7\u6587\u65af\u514b"
-    ],
     "name:deu_x_preferred":[
         "Nowodwinsk"
-    ],
-    "name:dut_x_preferred":[
-        "Novodvinsk"
     ],
     "name:eng_x_preferred":[
         "Novodvinsk"
@@ -61,14 +52,14 @@
     "name:fin_x_preferred":[
         "Novodvinsk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Novodvinsk"
-    ],
-    "name:ger_x_preferred":[
-        "Nowodwinsk"
     ],
     "name:hsb_x_preferred":[
         "Nowodwinsk"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u057e\u0578\u0564\u057e\u056b\u0576\u057d\u056f"
     ],
     "name:ita_x_preferred":[
         "Novodvinsk"
@@ -85,8 +76,11 @@
     "name:lit_x_preferred":[
         "Novodvinskas"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0434\u0432\u0438\u043d\u0441\u043a"
+    ],
+    "name:nld_x_preferred":[
+        "Novodvinsk"
     ],
     "name:nno_x_preferred":[
         "Novodvinsk"
@@ -96,9 +90,6 @@
     ],
     "name:oss_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0434\u0432\u0438\u043d\u0441\u043a"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0648\u0648\u0648\u062f\u0648\u06cc\u0646\u0633\u06a9"
     ],
     "name:pol_x_preferred":[
         "Nowodwinsk"
@@ -188,7 +179,7 @@
         }
     ],
     "wof:id":102001969,
-    "wof:lastmodified":1514502642,
+    "wof:lastmodified":1561831689,
     "wof:name":"Pervomayskiy",
     "wof:parent_id":1108735499,
     "wof:placetype":"locality",

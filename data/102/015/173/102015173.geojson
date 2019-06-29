@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001546,
-    "geom:area_square_m":12339178.12335,
+    "geom:area_square_m":12339178.123342,
     "geom:bbox":"129.37550354,49.7724990845,129.425811768,49.829750061",
     "geom:latitude":49.798831,
     "geom:longitude":129.401263,
@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0631\u0627\u064a\u062a\u0634\u064a\u062e\u064a\u0646\u0633\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u054c\u0561\u0575\u0579\u056b\u056d\u056b\u0576\u057d\u056f"
-    ],
     "name:azb_x_preferred":[
         "\u0631\u0627\u06cc\u0686\u06cc\u062e\u06cc\u0646\u0633\u06a9"
     ],
@@ -37,14 +34,14 @@
     "name:cat_x_preferred":[
         "Raitx\u00edkhinsk"
     ],
-    "name:chi_x_preferred":[
-        "\u8d56\u5947\u6b23\u65af\u514b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Raj\u010dichinsk"
     ],
-    "name:dut_x_preferred":[
-        "Raychikhinsk"
+    "name:deu_x_preferred":[
+        "Raitschichinsk"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03ca\u03c4\u03c3\u03b9\u03c7\u03af\u03bd\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Raychikhinsk"
@@ -52,17 +49,17 @@
     "name:epo_x_preferred":[
         "Raj\u0109i\u0125insk"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u06cc\u0686\u06cc\u062e\u06cc\u0646\u0633\u06a9"
+    ],
+    "name:fra_x_preferred":[
         "Ra\u00eftchikhinsk"
-    ],
-    "name:ger_x_preferred":[
-        "Raitschichinsk"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03b1\u03ca\u03c4\u03c3\u03b9\u03c7\u03af\u03bd\u03c3\u03ba"
     ],
     "name:hsb_x_preferred":[
         "Raj\u010dichinsk"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u0561\u0575\u0579\u056b\u056d\u056b\u0576\u057d\u056f"
     ],
     "name:ita_x_preferred":[
         "Raj\u010dichinsk"
@@ -70,8 +67,11 @@
     "name:ltz_x_preferred":[
         "Raitschichinsk"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0420\u0430\u0458\u0447\u0438\u0445\u0438\u043d\u0441\u043a"
+    ],
+    "name:nld_x_preferred":[
+        "Raychikhinsk"
     ],
     "name:nno_x_preferred":[
         "Rajtsjikhinsk"
@@ -79,13 +79,10 @@
     "name:nob_x_preferred":[
         "Rajtsjikhinsk"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0627\u06cc\u0686\u06cc\u062e\u06cc\u0646\u0633\u06a9"
-    ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u0439\u0447\u0438\u0445\u0438\u043d\u0441\u043a"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Raj\u010dichinsk"
     ],
     "name:spa_x_preferred":[
@@ -117,6 +114,9 @@
     ],
     "name:war_x_preferred":[
         "Raychikhinsk"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d56\u5947\u6b23\u65af\u514b"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0410\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -163,7 +163,7 @@
         }
     ],
     "wof:id":102015173,
-    "wof:lastmodified":1527636464,
+    "wof:lastmodified":1561831646,
     "wof:name":"Rachikhinsk",
     "wof:parent_id":1108736049,
     "wof:placetype":"locality",

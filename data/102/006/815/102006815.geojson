@@ -44,23 +44,23 @@
     "name:cat_x_preferred":[
         "Voljski"
     ],
+    "name:ces_x_preferred":[
+        "Vol\u017eskij"
+    ],
     "name:che_x_preferred":[
         "\u0412\u043e\u043b\u0436\u0441\u043a\u0438\u0439"
-    ],
-    "name:chi_x_preferred":[
-        "\u4f0f\u5c14\u52a0\u65af\u57fa"
-    ],
-    "name:cze_x_preferred":[
-        "Vol\u017eskij"
     ],
     "name:dan_x_preferred":[
         "Volzjskij"
     ],
+    "name:deu_x_preferred":[
+        "Wolschski"
+    ],
     "name:diq_x_preferred":[
         "Volzhsky"
     ],
-    "name:dut_x_preferred":[
-        "Volzjski"
+    "name:ell_x_preferred":[
+        "\u0392\u03cc\u03bb\u03b6\u03c3\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
         "Volzhsky"
@@ -71,17 +71,14 @@
     "name:est_x_preferred":[
         "Vol\u017eski"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0698\u0633\u06a9\u06cc\u060c \u0627\u0633\u062a\u0627\u0646 \u0648\u0644\u06af\u0648\u06af\u0631\u0627\u062f"
+    ],
     "name:fin_x_preferred":[
         "Vol\u017eski"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Voljski"
-    ],
-    "name:ger_x_preferred":[
-        "Wolschski"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03cc\u03bb\u03b6\u03c3\u03ba\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0acb\u0ab2\u0acd\u0a9d\u0ab8\u0acd\u0a95\u0ac0"
@@ -122,11 +119,14 @@
     "name:mar_x_preferred":[
         "\u0935\u094b\u0932\u094d\u091d\u094d\u0938\u094d\u0915\u0940"
     ],
-    "name:may_x_preferred":[
-        "Volzhsky"
-    ],
     "name:mhr_x_preferred":[
         "\u0412\u043e\u043b\u0436\u0441\u043a\u0438\u0439"
+    ],
+    "name:msa_x_preferred":[
+        "Volzhsky"
+    ],
+    "name:nld_x_preferred":[
+        "Volzjski"
     ],
     "name:nno_x_preferred":[
         "Volzjskij"
@@ -137,9 +137,6 @@
     "name:oss_x_preferred":[
         "\u0412\u043e\u043b\u0436\u0441\u043a\u0438\u0439"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u0698\u0633\u06a9\u06cc\u060c \u0627\u0633\u062a\u0627\u0646 \u0648\u0644\u06af\u0648\u06af\u0631\u0627\u062f"
-    ],
     "name:pnb_x_preferred":[
         "\u0648\u0648\u0644\u0698\u0633\u06a9\u06cc"
     ],
@@ -149,7 +146,7 @@
     "name:por_x_preferred":[
         "Volzhsky"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Voljski"
     ],
     "name:rus_x_preferred":[
@@ -158,7 +155,7 @@
     "name:sin_x_preferred":[
         "\u0dc0\u0ddc\u0dbd\u0dca\u0dc3\u0dca\u0d9a\u0dd2"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Vol\u017eskij"
     ],
     "name:spa_x_preferred":[
@@ -208,6 +205,9 @@
     ],
     "name:xal_x_preferred":[
         "\u0412\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0431\u0430\u043b\u04bb\u0441\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0f\u5c14\u52a0\u65af\u57fa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -351,7 +351,7 @@
         }
     ],
     "wof:id":102006815,
-    "wof:lastmodified":1527637264,
+    "wof:lastmodified":1561831693,
     "wof:name":"",
     "wof:parent_id":1108737647,
     "wof:placetype":"locality",

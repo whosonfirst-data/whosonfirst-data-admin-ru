@@ -53,9 +53,6 @@
     "mps:longitude":125.810612,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u0582\u056c\u0578\u0582\u0576\u057d\u056f\u056b \u0578\u0582\u056c\u0578\u0582\u057d"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u0443\u043b\u0443\u043d\u0441\u043a\u0456 \u045e\u043b\u0443\u0441"
     ],
@@ -65,11 +62,8 @@
     "name:che_x_preferred":[
         "\u0411\u0443\u043b\u0443\u043d\u0430\u043d \u0443\u043b\u0443\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u502b\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Oeloes Boeloenski"
+    "name:deu_x_preferred":[
+        "Ulus Bulun"
     ],
     "name:eng_x_preferred":[
         "Bulunskiy"
@@ -84,17 +78,20 @@
     "name:fin_x_preferred":[
         "Bulunin ulus"
     ],
-    "name:ger_x_preferred":[
-        "Ulus Bulun"
-    ],
     "name:hun_x_preferred":[
         "Buluni j\u00e1r\u00e1s"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0582\u056c\u0578\u0582\u0576\u057d\u056f\u056b \u0578\u0582\u056c\u0578\u0582\u057d"
     ],
     "name:ita_x_preferred":[
         "Bulunskij ulus"
     ],
     "name:lit_x_preferred":[
         "Buluno ulusas"
+    ],
+    "name:nld_x_preferred":[
+        "Oeloes Boeloenski"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u043b\u0443\u043d\u0441\u043a\u0438\u0439 \u0443\u043b\u0443\u0441"
@@ -113,6 +110,9 @@
     ],
     "name:vie_x_preferred":[
         "Bulunsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u502b\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -139,7 +139,7 @@
         }
     ],
     "wof:id":1108733129,
-    "wof:lastmodified":1561582011,
+    "wof:lastmodified":1561832346,
     "wof:name":"Bulunskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",

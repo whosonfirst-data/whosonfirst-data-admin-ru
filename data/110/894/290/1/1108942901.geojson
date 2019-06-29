@@ -22,20 +22,14 @@
     "mz:min_zoom":14.0,
     "mz:note":"proposed development",
     "mz:tier_metro":30,
-    "name:arm_x_preferred":[
-        "\u0543\u0576\u0573\u0572\u0578\u0582\u056f\u056b \u056c\u0565\u057c\u0576\u0565\u0580"
-    ],
-    "name:chi_x_preferred":[
-        "\u9ebb\u96c0\u5c71"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Vrab\u010d\u00ed hory"
     ],
     "name:dan_x_preferred":[
         "Spurvebakkerne"
     ],
-    "name:dut_x_preferred":[
-        "Vorobjovy Gory"
+    "name:deu_x_preferred":[
+        "Sperlingsberge"
     ],
     "name:eng_x_preferred":[
         "Sparrow Hills"
@@ -43,14 +37,14 @@
     "name:est_x_preferred":[
         "Varblasem\u00e4ed"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "colline des moineaux"
-    ],
-    "name:ger_x_preferred":[
-        "Sperlingsberge"
     ],
     "name:hun_x_preferred":[
         "Ver\u00e9b-hegy"
+    ],
+    "name:hye_x_preferred":[
+        "\u0543\u0576\u0573\u0572\u0578\u0582\u056f\u056b \u056c\u0565\u057c\u0576\u0565\u0580"
     ],
     "name:ita_x_preferred":[
         "Collina dei passeri"
@@ -61,8 +55,11 @@
     "name:kor_x_preferred":[
         "\ucc38\uc0c8 \uc5b8\ub355"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0412\u0440\u0430\u043f\u0447\u0435\u0448\u043a\u0438 \u0420\u0438\u0434\u043e\u0432\u0438"
+    ],
+    "name:nld_x_preferred":[
+        "Vorobjovy Gory"
     ],
     "name:nob_x_preferred":[
         "Spurveh\u00f8yden"
@@ -90,6 +87,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0440\u043e\u0431\u0439\u043e\u0432\u0456 \u0433\u043e\u0440\u0438"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ebb\u96c0\u5c71"
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
@@ -119,7 +119,7 @@
         }
     ],
     "wof:id":1108942901,
-    "wof:lastmodified":1514503895,
+    "wof:lastmodified":1561832440,
     "wof:name":"Vorob'evy gory",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

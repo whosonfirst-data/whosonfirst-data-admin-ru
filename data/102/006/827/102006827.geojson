@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013625,
-    "geom:area_square_m":111092224.319684,
+    "geom:area_square_m":111092224.319681,
     "geom:bbox":"44.4034996033,48.6461677551,44.64661026,48.8363342285",
     "geom:latitude":48.747316,
     "geom:longitude":44.51088,
@@ -24,17 +24,11 @@
     "name:afr_x_preferred":[
         "Wolgograd"
     ],
-    "name:alb_x_preferred":[
-        "Volgograd"
-    ],
     "name:amh_x_preferred":[
         "\u126e\u120d\u130e\u130d\u122b\u12f5"
     ],
     "name:ara_x_preferred":[
         "\u0641\u0648\u0644\u063a\u0648\u063a\u0631\u0627\u062f"
-    ],
-    "name:arm_x_preferred":[
-        "\u054e\u0578\u056c\u0563\u0578\u0563\u0580\u0561\u0564"
     ],
     "name:arz_x_preferred":[
         "\u0641\u0648\u0644\u062c\u0648\u062c\u0631\u0627\u062f"
@@ -47,9 +41,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434"
-    ],
-    "name:baq_x_preferred":[
-        "Volgograd"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0430\u043b\u0433\u0430\u0433\u0440\u0430\u0434"
@@ -69,9 +60,6 @@
     "name:bul_x_preferred":[
         "\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434"
     ],
-    "name:bur_x_preferred":[
-        "\u1005\u1010\u102c\u101c\u1004\u103a\u1002\u101b\u1000\u103a\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:bxr_x_preferred":[
         "\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434"
     ],
@@ -83,9 +71,6 @@
     ],
     "name:che_x_preferred":[
         "\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434"
-    ],
-    "name:chi_x_preferred":[
-        "\u4f0f\u5c14\u52a0\u683c\u52d2"
     ],
     "name:chu_x_preferred":[
         "\u0412\u043b\u044c\u0433\u043e\u0433\u0440\u0430\u0434\u044a"
@@ -99,9 +84,6 @@
     "name:cym_x_preferred":[
         "Volgograd"
     ],
-    "name:cze_x_preferred":[
-        "Volgograd"
-    ],
     "name:dan_x_preferred":[
         "Volgograd"
     ],
@@ -110,9 +92,6 @@
     ],
     "name:diq_x_preferred":[
         "Volgograd"
-    ],
-    "name:dut_x_preferred":[
-        "Wolgograd"
     ],
     "name:ell_x_preferred":[
         "\u0392\u03cc\u03bb\u03b3\u03ba\u03bf\u03b3\u03ba\u03c1\u03b1\u03bd\u03c4"
@@ -135,22 +114,16 @@
     "name:fas_x_preferred":[
         "\u0648\u0644\u06af\u0648\u06af\u0631\u0627\u062f"
     ],
+    "name:fas_x_variant":[
+        "\u0648\u0644\u06af\u0627\u06af\u0631\u0627\u062f"
+    ],
     "name:fin_x_preferred":[
         "Volgograd"
     ],
     "name:fra_x_preferred":[
         "Volgograd"
     ],
-    "name:fre_x_preferred":[
-        "Volgograd"
-    ],
     "name:fry_x_preferred":[
-        "Wolgograd"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10dd\u10da\u10d2\u10dd\u10d2\u10e0\u10d0\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Wolgograd"
     ],
     "name:gle_x_preferred":[
@@ -158,9 +131,6 @@
     ],
     "name:glg_x_preferred":[
         "Volgogrado"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03cc\u03bb\u03b3\u03ba\u03bf\u03b3\u03ba\u03c1\u03b1\u03bd\u03c4"
     ],
     "name:grn_x_preferred":[
         "Volgogrado"
@@ -191,9 +161,6 @@
     ],
     "name:hye_x_preferred":[
         "\u054e\u0578\u056c\u0563\u0578\u0563\u0580\u0561\u0564"
-    ],
-    "name:ice_x_preferred":[
-        "Volgograd"
     ],
     "name:ile_x_preferred":[
         "Volgograd"
@@ -255,14 +222,8 @@
     "name:lzh_x_preferred":[
         "\u65af\u5927\u6797\u683c\u52d2"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434"
-    ],
     "name:mar_x_preferred":[
         "\u0935\u094b\u0932\u094d\u0917\u094b\u0917\u094d\u0930\u093e\u0926"
-    ],
-    "name:may_x_preferred":[
-        "Volgograd"
     ],
     "name:mhr_x_preferred":[
         "\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434"
@@ -272,6 +233,9 @@
     ],
     "name:mon_x_preferred":[
         "\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434"
+    ],
+    "name:msa_x_preferred":[
+        "Volgograd"
     ],
     "name:mya_x_preferred":[
         "\u1005\u1010\u102c\u101c\u1004\u103a\u1002\u101b\u1000\u103a\u1019\u103c\u102d\u102f\u1037"
@@ -306,9 +270,6 @@
     "name:pan_x_preferred":[
         "\u0a35\u0a4b\u0a32\u0a17\u0a3e\u0a17\u0a30\u0a3e\u0a24"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u06af\u0627\u06af\u0631\u0627\u062f"
-    ],
     "name:pih_x_preferred":[
         "Volgograd"
     ],
@@ -325,9 +286,6 @@
         "Volgogrado"
     ],
     "name:ron_x_preferred":[
-        "Volgograd"
-    ],
-    "name:rum_x_preferred":[
         "Volgograd"
     ],
     "name:rus_x_historical":[
@@ -354,9 +312,6 @@
         "\u0dc0\u0ddc\u0dbd\u0dca\u0d9c\u0dcf\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0daf\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Volgograd"
-    ],
-    "name:slo_x_preferred":[
         "Volgograd"
     ],
     "name:slv_x_preferred":[
@@ -440,9 +395,6 @@
         "Volgograd"
     ],
     "name:war_x_preferred":[
-        "Volgograd"
-    ],
-    "name:wel_x_preferred":[
         "Volgograd"
     ],
     "name:wol_x_preferred":[
@@ -619,7 +571,7 @@
         }
     ],
     "wof:id":102006827,
-    "wof:lastmodified":1527637261,
+    "wof:lastmodified":1561831691,
     "wof:megacity":1,
     "wof:name":"Volgograd",
     "wof:parent_id":890480131,

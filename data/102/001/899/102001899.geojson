@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00031,
-    "geom:area_square_m":1438438.485003,
+    "geom:area_square_m":1438438.485005,
     "geom:bbox":"32.9309997559,67.9191360474,32.9872207642,67.9302749634",
     "geom:latitude":67.925313,
     "geom:longitude":32.959411,
@@ -38,20 +38,17 @@
     "name:cat_x_preferred":[
         "Montxegorsk"
     ],
+    "name:ces_x_preferred":[
+        "Mon\u010degorsk"
+    ],
     "name:che_x_preferred":[
         "\u041c\u043e\u043d\u0447\u0435\u0433\u043e\u0440\u0441\u043a"
-    ],
-    "name:chi_x_preferred":[
-        "\u8499\u5207\u6208\u723e\u65af\u514b"
-    ],
-    "name:cze_x_preferred":[
-        "Mon\u010degorsk"
     ],
     "name:dan_x_preferred":[
         "Montsjegorsk"
     ],
-    "name:dut_x_preferred":[
-        "Montsjegorsk"
+    "name:deu_x_preferred":[
+        "Montschegorsk"
     ],
     "name:eng_x_preferred":[
         "Monchegorsk"
@@ -62,14 +59,14 @@
     "name:est_x_preferred":[
         "Mont\u0161egorsk"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u0686\u06af\u0648\u0631\u0633\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Mont\u0161egorsk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Montchegorsk"
-    ],
-    "name:ger_x_preferred":[
-        "Montschegorsk"
     ],
     "name:hsb_x_preferred":[
         "Mon\u010degorsk"
@@ -89,14 +86,14 @@
     "name:lit_x_preferred":[
         "Mon\u010degorskas"
     ],
+    "name:nld_x_preferred":[
+        "Montsjegorsk"
+    ],
     "name:nno_x_preferred":[
         "Montsjegorsk"
     ],
     "name:nob_x_preferred":[
         "Montsjegorsk"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0646\u0686\u06af\u0648\u0631\u0633\u06a9"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u0648\u0646\u0686\u06cc\u06af\u0648\u0631\u0633\u06a9"
@@ -107,7 +104,7 @@
     "name:por_x_preferred":[
         "Monchegorsk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Monchegorsk"
     ],
     "name:rus_x_preferred":[
@@ -142,6 +139,9 @@
     ],
     "name:war_x_preferred":[
         "Monchegorsk"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u5207\u6208\u723e\u65af\u514b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -284,7 +284,7 @@
         }
     ],
     "wof:id":102001899,
-    "wof:lastmodified":1527637259,
+    "wof:lastmodified":1561831690,
     "wof:name":"",
     "wof:parent_id":890483467,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000351,
-    "geom:area_square_m":2929963.984014,
+    "geom:area_square_m":2929963.984011,
     "geom:bbox":"42.0136375427,47.5285568237,42.0503349304,47.5468902588",
     "geom:latitude":47.537512,
     "geom:longitude":42.029026,
@@ -19,9 +19,6 @@
     "mps:longitude":42.025685,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054c\u0578\u0574\u0561\u0576\u0578\u057e\u057d\u056f\u0561\u0575\u0561"
-    ],
     "name:che_x_preferred":[
         "\u0420\u043e\u043c\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
@@ -31,8 +28,11 @@
     "name:eng_x_preferred":[
         "Romanovskaya"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Romanovska\u00efa"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u0578\u0574\u0561\u0576\u0578\u057e\u057d\u056f\u0561\u0575\u0561"
     ],
     "name:jpn_x_preferred":[
         "\u30a8\u30ec\u30fc\u30ca\u30fb\u30ed\u30de\u30ce\u30d5\u30b9\u30ab\u30e4"
@@ -70,7 +70,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688033
+        85688033,
+        1108737577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":102007173,
-    "wof:lastmodified":1553815711,
+    "wof:lastmodified":1561831674,
     "wof:name":"Romanovskaya",
     "wof:parent_id":1108737577,
     "wof:placetype":"locality",

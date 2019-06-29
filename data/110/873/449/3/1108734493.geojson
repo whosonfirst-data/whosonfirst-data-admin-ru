@@ -53,20 +53,14 @@
     "mps:longitude":32.0643,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053f\u056c\u056b\u0576\u0581\u0578\u057e\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:bel_x_preferred":[
         "\u041a\u043b\u0456\u043d\u0446\u043e\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
     "name:che_x_preferred":[
         "\u041a\u043b\u0438\u043d\u0446\u044b\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u6797\u9f50\u533a"
-    ],
-    "name:dut_x_preferred":[
-        "Klintsovsky District"
+    "name:deu_x_preferred":[
+        "Klinzowski rajon"
     ],
     "name:eng_x_preferred":[
         "Klincovskiy"
@@ -75,14 +69,17 @@
         "Klincovskij",
         "Klincovskiy"
     ],
-    "name:ger_x_preferred":[
-        "Klinzowski rajon"
+    "name:hye_x_preferred":[
+        "\u053f\u056c\u056b\u0576\u0581\u0578\u057e\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Klincovskij rajon"
     ],
     "name:lav_x_preferred":[
         "K\u013cincu rajons"
+    ],
+    "name:nld_x_preferred":[
+        "Klintsovsky District"
     ],
     "name:rus_x_preferred":[
         "\u041a\u043b\u0438\u043d\u0446\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -95,6 +92,9 @@
     ],
     "name:vie_x_preferred":[
         "Klintsovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u6797\u9f50\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":1108734493,
-    "wof:lastmodified":1561581966,
+    "wof:lastmodified":1561832306,
     "wof:name":"Klincovskiy",
     "wof:parent_id":85688121,
     "wof:placetype":"county",

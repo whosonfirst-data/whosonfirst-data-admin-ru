@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001426,
-    "geom:area_square_m":10272753.129322,
+    "geom:area_square_m":10272753.12933,
     "geom:bbox":"77.2586975098,54.3461112976,77.3351974487,54.3860549927",
     "geom:latitude":54.367529,
     "geom:longitude":77.297836,
@@ -32,16 +32,13 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u043f\u0438\u043d\u043e"
     ],
+    "name:ces_x_preferred":[
+        "Kupino"
+    ],
     "name:che_x_preferred":[
         "\u041a\u0443\u043f\u0438\u043d\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u76ae\u8afe"
-    ],
-    "name:cze_x_preferred":[
-        "Kupino"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kupino"
     ],
     "name:eng_x_preferred":[
@@ -50,16 +47,19 @@
     "name:epo_x_preferred":[
         "Kupino"
     ],
-    "name:fre_x_preferred":[
-        "Koupino"
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u067e\u06cc\u0646\u0648"
     ],
-    "name:ger_x_preferred":[
-        "Kupino"
+    "name:fra_x_preferred":[
+        "Koupino"
     ],
     "name:hsb_x_preferred":[
         "Kupino"
     ],
     "name:ita_x_preferred":[
+        "Kupino"
+    ],
+    "name:nld_x_preferred":[
         "Kupino"
     ],
     "name:nno_x_preferred":[
@@ -70,9 +70,6 @@
     ],
     "name:nor_x_preferred":[
         "Kupino"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u067e\u06cc\u0646\u0648"
     ],
     "name:pol_x_preferred":[
         "Kupino"
@@ -100,6 +97,9 @@
     ],
     "name:war_x_preferred":[
         "Kupino"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u76ae\u8afe"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -216,7 +216,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85687925
+        85687925,
+        1108734811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -238,7 +239,7 @@
         }
     ],
     "wof:id":102013091,
-    "wof:lastmodified":1553815715,
+    "wof:lastmodified":1561831657,
     "wof:name":"Kupino",
     "wof:parent_id":1108734811,
     "wof:placetype":"locality",

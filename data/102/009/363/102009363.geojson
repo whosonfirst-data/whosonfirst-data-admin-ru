@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004749,
-    "geom:area_square_m":33530377.558601,
+    "geom:area_square_m":33530377.558605,
     "geom:bbox":"59.6205825806,55.1369438171,59.7462768555,55.2161407471",
     "geom:latitude":55.181916,
     "geom:longitude":59.677872,
@@ -22,9 +22,6 @@
     "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0632\u0644\u0627\u062a\u0624\u0648\u0633\u062a"
-    ],
-    "name:arm_x_preferred":[
-        "\u0536\u056c\u0561\u057f\u0578\u0578\u0582\u057d\u057f"
     ],
     "name:azb_x_preferred":[
         "\u0632\u0644\u0627\u062a\u0648\u0633\u062a"
@@ -50,20 +47,14 @@
     "name:ces_x_preferred":[
         "Zlatoust"
     ],
-    "name:chi_x_preferred":[
-        "\u5179\u62c9\u6258\u4e4c\u65af\u7279"
-    ],
-    "name:cze_x_preferred":[
-        "Zlatoust"
-    ],
     "name:dan_x_preferred":[
         "Zlatoust"
     ],
     "name:deu_x_preferred":[
         "Slatoust"
     ],
-    "name:dut_x_preferred":[
-        "Zlato-oest"
+    "name:ell_x_preferred":[
+        "\u0396\u03bb\u03b1\u03c4\u03bf\u03cd\u03c3\u03c4"
     ],
     "name:eng_x_preferred":[
         "Zlatoust"
@@ -83,18 +74,6 @@
     "name:fra_x_preferred":[
         "Zlatooust"
     ],
-    "name:fre_x_preferred":[
-        "Zlatooust"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d6\u10da\u10d0\u10e2\u10dd\u10e3\u10e1\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Slatoust"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03bb\u03b1\u03c4\u03bf\u03cd\u03c3\u03c4"
-    ],
     "name:guj_x_preferred":[
         "\u0a9d\u0acd\u0ab2\u0abe\u0a9f\u0acc\u0ab8\u0acd\u0a9f"
     ],
@@ -110,6 +89,9 @@
     "name:hsb_x_preferred":[
         "Zlatoust"
     ],
+    "name:hye_x_preferred":[
+        "\u0536\u056c\u0561\u057f\u0578\u0578\u0582\u057d\u057f"
+    ],
     "name:ind_x_preferred":[
         "Zlatoust"
     ],
@@ -121,6 +103,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c9c\u0ccd\u0cb2\u0cbe\u0c9f\u0ccc\u0cb8\u0ccd\u0c9f\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10da\u10d0\u10e2\u10dd\u10e3\u10e1\u10e2\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc990\ub77c\ud1a0\uc6b0\uc2a4\ud2b8"
@@ -134,11 +119,11 @@
     "name:mar_x_preferred":[
         "\u091d\u094d\u0932\u093e\u091f\u0949\u0938\u094d\u091f"
     ],
-    "name:may_x_preferred":[
-        "Zlatoust"
-    ],
     "name:mhr_x_preferred":[
         "\u0417\u043b\u0430\u0442\u043e\u0443\u0441\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Zlatoust"
     ],
     "name:nld_x_preferred":[
         "Zlato-oest"
@@ -155,9 +140,6 @@
     "name:oss_x_preferred":[
         "\u0417\u043b\u0430\u0442\u043e\u0443\u0441\u0442"
     ],
-    "name:per_x_preferred":[
-        "\u0632\u0644\u0627\u062a\u0648\u0633\u062a"
-    ],
     "name:pnb_x_preferred":[
         "\u0632\u0644\u0627\u062a\u0648\u0624\u0633\u062a"
     ],
@@ -170,9 +152,6 @@
     "name:ron_x_preferred":[
         "Zlatoust"
     ],
-    "name:rum_x_preferred":[
-        "Zlatoust"
-    ],
     "name:rus_x_preferred":[
         "\u0417\u043b\u0430\u0442\u043e\u0443\u0441\u0442"
     ],
@@ -180,9 +159,6 @@
         "\u0dc3\u0dca\u0dbd\u0da7\u0dc0\u0dd4\u0dc3\u0dca\u0da7\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Zlatoust"
-    ],
-    "name:slo_x_preferred":[
         "Zlatoust"
     ],
     "name:spa_x_preferred":[
@@ -374,7 +350,7 @@
         }
     ],
     "wof:id":102009363,
-    "wof:lastmodified":1527637046,
+    "wof:lastmodified":1561831677,
     "wof:name":"Zlatoust",
     "wof:parent_id":1108738259,
     "wof:placetype":"locality",

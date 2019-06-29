@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001228,
-    "geom:area_square_m":8875671.563148,
+    "geom:area_square_m":8875671.563141,
     "geom:bbox":"85.7700805664,54.2122497559,85.8198623657,54.2525291443",
     "geom:latitude":54.23219,
     "geom:longitude":85.7948,
@@ -31,10 +31,7 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043b\u0430\u0438\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u840a\u723e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Salair"
     ],
     "name:eng_x_preferred":[
@@ -43,11 +40,11 @@
     "name:epo_x_preferred":[
         "Salair"
     ],
-    "name:fre_x_preferred":[
-        "Sala\u00efr"
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0644\u0627\u06cc\u0631"
     ],
-    "name:ger_x_preferred":[
-        "Salair"
+    "name:fra_x_preferred":[
+        "Sala\u00efr"
     ],
     "name:hsb_x_preferred":[
         "Salair"
@@ -58,6 +55,9 @@
     "name:lit_x_preferred":[
         "Salajiras"
     ],
+    "name:nld_x_preferred":[
+        "Salair"
+    ],
     "name:nno_x_preferred":[
         "Salair"
     ],
@@ -66,9 +66,6 @@
     ],
     "name:nor_x_preferred":[
         "Salair"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0644\u0627\u06cc\u0631"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043b\u0430\u0438\u0440"
@@ -87,6 +84,9 @@
     ],
     "name:war_x_preferred":[
         "Salair"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u840a\u723e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -111,7 +111,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688105
+        85688105,
+        1108733957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":102013125,
-    "wof:lastmodified":1514503228,
+    "wof:lastmodified":1561831662,
     "wof:name":"Salair",
     "wof:parent_id":1108733957,
     "wof:placetype":"locality",

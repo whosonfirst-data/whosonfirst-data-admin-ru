@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001462,
-    "geom:area_square_m":12859660.704749,
+    "geom:area_square_m":12859660.704744,
     "geom:bbox":"41.2758331299,44.6104431152,41.3508605957,44.6701660156",
     "geom:latitude":44.637849,
     "geom:longitude":41.310217,
@@ -22,26 +22,20 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0633\u0643\u0648\u0631\u0628\u0646\u0627\u064a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u057d\u056f\u0578\u0580\u0562\u0576\u0561\u0575\u0561"
-    ],
     "name:che_x_preferred":[
         "\u0411\u0435\u0441\u0441\u043a\u043e\u0440\u0431\u043d\u0430\u044f"
     ],
     "name:deu_x_preferred":[
         "Besskorbnaja"
     ],
-    "name:dut_x_preferred":[
-        "Besskorbnaja"
-    ],
     "name:eng_x_preferred":[
         "Besskorbnaya"
     ],
-    "name:ger_x_preferred":[
-        "Besskorbnaja"
-    ],
     "name:hye_x_preferred":[
         "\u0532\u0565\u057d\u056f\u0578\u0580\u0562\u0576\u0561\u0575\u0561"
+    ],
+    "name:nld_x_preferred":[
+        "Besskorbnaja"
     ],
     "name:nor_x_preferred":[
         "Besskorbnaja"
@@ -79,7 +73,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688029
+        85688029,
+        1108735505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,7 +96,7 @@
         }
     ],
     "wof:id":102015843,
-    "wof:lastmodified":1553815716,
+    "wof:lastmodified":1561831646,
     "wof:name":"Besskorbnaya",
     "wof:parent_id":1108735505,
     "wof:placetype":"locality",

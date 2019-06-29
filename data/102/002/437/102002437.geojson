@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000352,
-    "geom:area_square_m":2507688.602033,
+    "geom:area_square_m":2507688.602032,
     "geom:bbox":"20.594417572,54.7655296326,20.6262226105,54.7869720459",
     "geom:latitude":54.775814,
     "geom:longitude":20.609833,
@@ -29,17 +29,14 @@
     "name:bul_x_preferred":[
         "\u0413\u0443\u0440\u0435\u0432\u0441\u043a"
     ],
+    "name:ces_x_preferred":[
+        "Gurjevsk"
+    ],
     "name:che_x_preferred":[
         "\u0413\u0443\u0440\u044c\u0435\u0432\u0441\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u53e4\u91cc\u8036\u592b\u65af\u514b"
-    ],
     "name:chv_x_preferred":[
         "\u0413\u0443\u0440\u044c\u0435\u0432\u0441\u043a"
-    ],
-    "name:cze_x_preferred":[
-        "Gurjevsk"
     ],
     "name:deu_x_historical":[
         "Neuhausen"
@@ -47,8 +44,8 @@
     "name:deu_x_preferred":[
         "Neuhausen"
     ],
-    "name:dut_x_preferred":[
-        "Goerjevsk"
+    "name:deu_x_variant":[
+        "Gurjewsk"
     ],
     "name:eng_x_preferred":[
         "Gur'yevsk"
@@ -59,14 +56,14 @@
     "name:est_x_preferred":[
         "Gurjevsk"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631\u06cc\u0641\u0633\u06a9\u060c \u06a9\u0627\u0644\u06cc\u0646\u06cc\u0646\u06af\u0631\u0627\u062f"
+    ],
     "name:fin_x_preferred":[
         "Gurjevsk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gourievsk"
-    ],
-    "name:ger_x_preferred":[
-        "Gurjewsk"
     ],
     "name:hsb_x_preferred":[
         "Gurjewsk"
@@ -95,6 +92,9 @@
     "name:lit_x_variant":[
         "Gurjevskas"
     ],
+    "name:nld_x_preferred":[
+        "Goerjevsk"
+    ],
     "name:nno_x_preferred":[
         "Gurjevsk"
     ],
@@ -104,13 +104,10 @@
     "name:nor_x_preferred":[
         "Gurjevsk"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0648\u0631\u06cc\u0641\u0633\u06a9\u060c \u06a9\u0627\u0644\u06cc\u0646\u06cc\u0646\u06af\u0631\u0627\u062f"
-    ],
     "name:pol_x_preferred":[
         "Gurjewsk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gurevsk"
     ],
     "name:rus_x_preferred":[
@@ -133,6 +130,9 @@
     ],
     "name:war_x_preferred":[
         "Guryevsk"
+    ],
+    "name:zho_x_preferred":[
+        "\u53e4\u91cc\u8036\u592b\u65af\u514b"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -157,7 +157,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688215
+        85688215,
+        1108733955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":102002437,
-    "wof:lastmodified":1553815709,
+    "wof:lastmodified":1561831729,
     "wof:name":"Gur'Yevsk",
     "wof:parent_id":1108733955,
     "wof:placetype":"locality",

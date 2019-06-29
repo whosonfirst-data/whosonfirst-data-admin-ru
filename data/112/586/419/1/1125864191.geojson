@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0631\u0627\u064a\u0644\u0633\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u054c\u056b\u056c\u057d\u056f"
-    ],
     "name:azb_x_preferred":[
         "\u0631\u06cc\u0644\u0633\u06a9"
     ],
@@ -40,10 +37,7 @@
     "name:che_x_preferred":[
         "\u0420\u044b\u043b\u044c\u0441\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u96f7\u5229\u65af\u514b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Rylsk"
     ],
     "name:eng_x_preferred":[
@@ -52,14 +46,17 @@
     "name:epo_x_preferred":[
         "Rilsk"
     ],
-    "name:fre_x_preferred":[
-        "Rylsk"
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0644\u0633\u06a9"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Rylsk"
     ],
     "name:hsb_x_preferred":[
         "Rylsk"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u056b\u056c\u057d\u056f"
     ],
     "name:ita_x_preferred":[
         "Ryl'sk"
@@ -70,6 +67,9 @@
     "name:kor_x_preferred":[
         "\ub9b4\uc2a4\ud06c"
     ],
+    "name:nld_x_preferred":[
+        "Rylsk"
+    ],
     "name:nno_x_preferred":[
         "Rylsk"
     ],
@@ -78,9 +78,6 @@
     ],
     "name:nor_x_preferred":[
         "Rylsk"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u06cc\u0644\u0633\u06a9"
     ],
     "name:pol_x_preferred":[
         "Rylsk"
@@ -117,6 +114,9 @@
     ],
     "name:xal_x_preferred":[
         "\u0420\u044b\u043b\u044c\u0441\u043a \u0431\u0430\u043b\u04bb\u0441\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u5229\u65af\u514b"
     ],
     "qs_pg:aaroncc":"RU",
     "qs_pg:gn_country":"RU",
@@ -159,7 +159,7 @@
         }
     ],
     "wof:id":1125864191,
-    "wof:lastmodified":1514502797,
+    "wof:lastmodified":1561832805,
     "wof:name":"Ryl\u2019sk",
     "wof:parent_id":1108736345,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003959,
-    "geom:area_square_m":31039075.664328,
+    "geom:area_square_m":31039075.664321,
     "geom:bbox":"38.3491401672,50.6185264587,38.4782218933,50.6769981384",
     "geom:latitude":50.647887,
     "geom:longitude":38.40514,
@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u064a\u0648\u062e"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u056b\u0580\u0575\u0578\u0582\u0579"
-    ],
     "name:azb_x_preferred":[
         "\u0628\u06cc\u0631\u06cc\u0648\u0686"
     ],
@@ -37,16 +34,13 @@
     "name:cat_x_preferred":[
         "Biriutx"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u7559\u5947"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Birju\u010d"
     ],
-    "name:diq_x_preferred":[
-        "Biryuch"
+    "name:deu_x_preferred":[
+        "Birjutsch"
     ],
-    "name:dut_x_preferred":[
+    "name:diq_x_preferred":[
         "Biryuch"
     ],
     "name:eng_x_preferred":[
@@ -55,20 +49,26 @@
     "name:est_x_preferred":[
         "Birjut\u0161"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0631\u06cc\u0648\u0686"
+    ],
     "name:fin_x_preferred":[
         "Birjut\u0161"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Birioutch"
-    ],
-    "name:ger_x_preferred":[
-        "Birjutsch"
     ],
     "name:hsb_x_preferred":[
         "Birju\u010d"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u056b\u0580\u0575\u0578\u0582\u0579"
+    ],
     "name:ita_x_preferred":[
         "Birju\u010d"
+    ],
+    "name:nld_x_preferred":[
+        "Biryuch"
     ],
     "name:nno_x_preferred":[
         "Birjutsj"
@@ -79,16 +79,13 @@
     "name:nor_x_preferred":[
         "Krasnogvardejskoje"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u0631\u06cc\u0648\u0686"
-    ],
     "name:pol_x_preferred":[
         "Biriucz"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u0432\u0430\u0440\u0434\u0435\u0439\u0441\u043a\u043e\u0435"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Birju\u010d"
     ],
     "name:spa_x_preferred":[
@@ -121,6 +118,9 @@
     "name:xal_x_preferred":[
         "\u0411\u0438\u0440\u044e\u0447 \u0431\u0430\u043b\u04bb\u0441\u043d"
     ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u7559\u5947"
+    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"3101200000151",
@@ -144,7 +144,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85687813
+        85687813,
+        1108734699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":102006211,
-    "wof:lastmodified":1514501922,
+    "wof:lastmodified":1561831691,
     "wof:name":"Krasnogvardeyskoye",
     "wof:parent_id":1108734699,
     "wof:placetype":"locality",

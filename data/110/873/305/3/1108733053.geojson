@@ -53,17 +53,11 @@
     "mps:longitude":34.800753,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u056f\u057d\u056b\u057f\u0578\u0563\u0578\u0580\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:che_x_preferred":[
         "\u0411\u043e\u043a\u0441\u0438\u0442\u043e\u0433\u043e\u0440\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u535a\u514b\u897f\u6258\u6208\u723e\u65af\u514b\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Boksitogorskiy rayon"
+    "name:deu_x_preferred":[
+        "Boksitogorsky rajon"
     ],
     "name:eng_x_preferred":[
         "Boksitogorskiy"
@@ -77,14 +71,11 @@
     "name:fin_x_preferred":[
         "Boksitogorskin piiri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ra\u00efon de Boksitogorsk"
     ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10dd\u10e5\u10e1\u10d8\u10e2\u10dd\u10d2\u10dd\u10e0\u10e1\u10d9\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Boksitogorsky rajon"
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u056f\u057d\u056b\u057f\u0578\u0563\u0578\u0580\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Boksitogorskij rajon"
@@ -92,8 +83,14 @@
     "name:jpn_x_preferred":[
         "\u30dc\u30af\u30b7\u30c8\u30b4\u30eb\u30b9\u30af\u5730\u533a"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10e5\u10e1\u10d8\u10e2\u10dd\u10d2\u10dd\u10e0\u10e1\u10d9\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:lav_x_preferred":[
         "Boksitogorskas rajons"
+    ],
+    "name:nld_x_preferred":[
+        "Boksitogorskiy rayon"
     ],
     "name:por_x_preferred":[
         "Distrito de Boksitogorsky"
@@ -121,6 +118,9 @@
     ],
     "name:vie_x_preferred":[
         "Boksitogorsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u514b\u897f\u6258\u6208\u723e\u65af\u514b\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -159,7 +159,7 @@
         }
     ],
     "wof:id":1108733053,
-    "wof:lastmodified":1561582041,
+    "wof:lastmodified":1561832373,
     "wof:name":"Boksitogorskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",

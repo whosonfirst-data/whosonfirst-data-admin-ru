@@ -53,14 +53,11 @@
     "mps:longitude":49.312921,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054e\u056b\u057d\u0578\u056f\u0578\u0563\u0578\u0580\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:che_x_preferred":[
         "\u0412\u044b\u0441\u043e\u043a\u0430\u044f \u0413\u043e\u0440\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
-    "name:dut_x_preferred":[
-        "Visokogorskiy rayon"
+    "name:deu_x_preferred":[
+        "Wysokogorski rajon"
     ],
     "name:eng_x_preferred":[
         "Vysokogorskiy"
@@ -71,14 +68,17 @@
     "name:est_x_preferred":[
         "V\u00f5ssokaja Gora rajoon"
     ],
-    "name:ger_x_preferred":[
-        "Wysokogorski rajon"
-    ],
     "name:hun_x_preferred":[
         "Viszokaja Gora-i j\u00e1r\u00e1s"
     ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u057d\u0578\u056f\u0578\u0563\u0578\u0580\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:mhr_x_preferred":[
         "\u0412\u044b\u0441\u043e\u043a\u0430\u044f \u0413\u043e\u0440\u0430 \u043a\u0443\u043d\u0434\u0435\u043c"
+    ],
+    "name:nld_x_preferred":[
+        "Visokogorskiy rayon"
     ],
     "name:por_x_preferred":[
         "Vysokogorsky"
@@ -135,7 +135,7 @@
         }
     ],
     "wof:id":1108737779,
-    "wof:lastmodified":1561582020,
+    "wof:lastmodified":1561832353,
     "wof:name":"Vysokogorskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

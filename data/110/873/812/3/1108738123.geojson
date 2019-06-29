@@ -53,17 +53,11 @@
     "mps:longitude":33.567341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053a\u056b\u0580\u0575\u0561\u057f\u056b\u0576\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:che_x_preferred":[
         "\u0416\u0438\u0440\u044f\u0442\u0438\u043d\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u65e5\u91cc\u4e9a\u5b63\u8bfa\u533a"
-    ],
-    "name:dut_x_preferred":[
-        "Zhiryatinsky District"
+    "name:deu_x_preferred":[
+        "Schirjatinski rajon"
     ],
     "name:eng_x_preferred":[
         "Zhirjatinskiy"
@@ -72,14 +66,17 @@
         "ZHirjatinskij",
         "Zhirjatinskiy"
     ],
-    "name:ger_x_preferred":[
-        "Schirjatinski rajon"
+    "name:hye_x_preferred":[
+        "\u053a\u056b\u0580\u0575\u0561\u057f\u056b\u0576\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "\u017dirjatinskij rajon"
     ],
     "name:lav_x_preferred":[
         "\u017dirjatinas rajons"
+    ],
+    "name:nld_x_preferred":[
+        "Zhiryatinsky District"
     ],
     "name:rus_x_preferred":[
         "\u0416\u0438\u0440\u044f\u0442\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -92,6 +89,9 @@
     ],
     "name:vie_x_preferred":[
         "Zhiryatinsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u65e5\u91cc\u4e9a\u5b63\u8bfa\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1108738123,
-    "wof:lastmodified":1561582052,
+    "wof:lastmodified":1561832383,
     "wof:name":"Zhirjatinskiy",
     "wof:parent_id":85688121,
     "wof:placetype":"county",

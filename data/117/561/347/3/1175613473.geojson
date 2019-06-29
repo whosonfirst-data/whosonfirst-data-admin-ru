@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006288,
-    "geom:area_square_m":16128797.854476,
+    "geom:area_square_m":52329165.77843,
     "geom:bbox":"40.1241378784,47.6413040161,40.2891654968,47.7427787781",
     "geom:latitude":47.699073,
     "geom:longitude":40.209019,
@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0634\u0627\u062e\u062a\u0627\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0547\u0561\u056d\u057f\u056b"
-    ],
     "name:azb_x_preferred":[
         "\u0634\u0627\u062e\u062a\u06cc"
     ],
@@ -40,14 +37,11 @@
     "name:bul_x_preferred":[
         "\u0428\u0430\u0445\u0442\u0438"
     ],
+    "name:ces_x_preferred":[
+        "\u0160achty"
+    ],
     "name:che_x_preferred":[
         "\u0428\u0430\u0445\u0442\u044b"
-    ],
-    "name:chi_x_preferred":[
-        "\u6c99\u8d6b\u7279"
-    ],
-    "name:cze_x_preferred":[
-        "\u0160achty"
     ],
     "name:dan_x_preferred":[
         "Sjakhty"
@@ -55,8 +49,8 @@
     "name:deu_x_preferred":[
         "Schachty"
     ],
-    "name:dut_x_preferred":[
-        "Sjachty"
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03c7\u03c4\u03b9"
     ],
     "name:eng_x_preferred":[
         "Shakhty"
@@ -76,18 +70,6 @@
     "name:fra_x_preferred":[
         "Chakhty"
     ],
-    "name:fre_x_preferred":[
-        "Chakhty"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d0\u10ee\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Schachty"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03c7\u03c4\u03b9"
-    ],
     "name:guj_x_preferred":[
         "\u0ab6\u0abe\u0a96\u0a9f\u0ac0"
     ],
@@ -103,6 +85,9 @@
     "name:hun_x_preferred":[
         "Sakhti"
     ],
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u056d\u057f\u056b"
+    ],
     "name:ind_x_preferred":[
         "Shakhty"
     ],
@@ -114,6 +99,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb6\u0c96\u0ccd\u0ca4\u0cbf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10ee\u10e2\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc0e4\ud750\ud2f0"
@@ -127,11 +115,11 @@
     "name:mar_x_preferred":[
         "\u0936\u093e\u0916\u091f\u0940"
     ],
-    "name:may_x_preferred":[
-        "Shakhty"
-    ],
     "name:mhr_x_preferred":[
         "\u0428\u0430\u0445\u0442\u044b"
+    ],
+    "name:msa_x_preferred":[
+        "Shakhty"
     ],
     "name:nld_x_preferred":[
         "Sjachty"
@@ -148,9 +136,6 @@
     "name:oss_x_preferred":[
         "\u0428\u0430\u0445\u0442\u044b"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0627\u062e\u062a\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u0634\u0627\u062e\u062a\u06cc"
     ],
@@ -161,9 +146,6 @@
         "Shajty"
     ],
     "name:ron_x_preferred":[
-        "\u0218aht\u00ee"
-    ],
-    "name:rum_x_preferred":[
         "\u0218aht\u00ee"
     ],
     "name:rus_x_preferred":[
@@ -271,7 +253,7 @@
         }
     ],
     "wof:id":1175613473,
-    "wof:lastmodified":1534985978,
+    "wof:lastmodified":1561832442,
     "wof:name":"Shakhty",
     "wof:parent_id":1108736497,
     "wof:placetype":"locality",

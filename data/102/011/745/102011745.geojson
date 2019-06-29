@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002622,
-    "geom:area_square_m":17255688.673605,
+    "geom:area_square_m":17255688.673595,
     "geom:bbox":"61.6404724121,57.8261680603,61.7369728088,57.8773040771",
     "geom:latitude":57.850108,
     "geom:longitude":61.695982,
@@ -22,9 +22,6 @@
     "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u0627\u0628\u0627\u064a\u0641\u0633\u0643"
-    ],
-    "name:arm_x_preferred":[
-        "\u0531\u056c\u0561\u057a\u0561\u0587\u057d\u056f"
     ],
     "name:azb_x_preferred":[
         "\u0622\u0644\u0627\u067e\u06cc\u0648\u0633\u06a9"
@@ -47,23 +44,17 @@
     "name:ces_x_preferred":[
         "Alapajevsk"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u62c9\u5e15\u8036\u592b\u65af\u514b"
-    ],
-    "name:cze_x_preferred":[
-        "Alapajevsk"
-    ],
     "name:deu_x_preferred":[
         "Alapajewsk"
     ],
     "name:diq_x_preferred":[
         "Alapayevsk"
     ],
-    "name:dut_x_preferred":[
-        "Alapajevsk"
-    ],
     "name:ell_x_preferred":[
         "\u0391\u03bb\u03b1\u03c0\u03ac\u03b3\u03b5\u03c6\u03c3\u03ba"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bb\u03b1\u03c0\u03ac\u03b5\u03b2\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Alapayevsk"
@@ -82,15 +73,6 @@
     ],
     "name:fra_x_preferred":[
         "Alapa\u00efevsk"
-    ],
-    "name:fre_x_preferred":[
-        "Alapa\u00efevsk"
-    ],
-    "name:ger_x_preferred":[
-        "Alapajewsk"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bb\u03b1\u03c0\u03ac\u03b5\u03b2\u03c3\u03ba"
     ],
     "name:hbs_x_preferred":[
         "Alapajevsk"
@@ -137,9 +119,6 @@
     "name:pan_x_preferred":[
         "\u0a05\u0a32\u0a3e\u0a2a\u0a3e\u0a0f\u0a35\u0a38\u0a15"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0644\u0627\u067e\u06cc\u0648\u0633\u06a9"
-    ],
     "name:pol_x_preferred":[
         "A\u0142apajewsk"
     ],
@@ -153,9 +132,6 @@
         "\u0410\u043b\u0430\u043f\u0430\u0435\u0432\u0441\u043a"
     ],
     "name:slk_x_preferred":[
-        "Alapajevsk"
-    ],
-    "name:slo_x_preferred":[
         "Alapajevsk"
     ],
     "name:spa_x_preferred":[
@@ -338,7 +314,7 @@
         }
     ],
     "wof:id":102011745,
-    "wof:lastmodified":1527637593,
+    "wof:lastmodified":1561831699,
     "wof:name":"Alapayevsk",
     "wof:parent_id":1108735237,
     "wof:placetype":"locality",

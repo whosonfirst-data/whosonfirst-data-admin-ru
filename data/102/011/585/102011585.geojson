@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000659,
-    "geom:area_square_m":5720205.454358,
+    "geom:area_square_m":5720205.454354,
     "geom:bbox":"47.3339157104,45.3828887939,47.3856391907,45.4055557251",
     "geom:latitude":45.395565,
     "geom:longitude":47.357363,
@@ -31,16 +31,13 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u0433\u0430\u043d"
     ],
+    "name:ces_x_preferred":[
+        "Laga\u0148"
+    ],
     "name:che_x_preferred":[
         "\u041b\u0430\u0433\u0430\u043d\u044c"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u7518"
-    ],
-    "name:cze_x_preferred":[
-        "Laga\u0148"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lagan"
     ],
     "name:eng_x_preferred":[
@@ -52,13 +49,13 @@
     "name:est_x_preferred":[
         "Lagan"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u06af\u0627\u0646\u060c \u0631\u0648\u0633\u06cc\u0647"
+    ],
     "name:fin_x_preferred":[
         "Lagan"
     ],
-    "name:fre_x_preferred":[
-        "Lagan"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Lagan"
     ],
     "name:hsb_x_preferred":[
@@ -73,6 +70,9 @@
     "name:mon_x_preferred":[
         "\u041b\u0430\u0430\u0433\u0430\u043d \u0445\u043e\u0442"
     ],
+    "name:nld_x_preferred":[
+        "Lagan"
+    ],
     "name:nno_x_preferred":[
         "Lagan"
     ],
@@ -81,9 +81,6 @@
     ],
     "name:nor_x_preferred":[
         "Lagan"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u0627\u06af\u0627\u0646\u060c \u0631\u0648\u0633\u06cc\u0647"
     ],
     "name:pol_x_preferred":[
         "\u0141aga\u0144"
@@ -97,7 +94,7 @@
     "name:rus_x_variant":[
         "\u041a\u0430\u0441\u043f\u0438\u0439\u0441\u043a\u0438\u0439"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Laga\u0148"
     ],
     "name:spa_x_preferred":[
@@ -127,6 +124,9 @@
     "name:xal_x_preferred":[
         "\u041b\u0430\u0433\u0430\u043d\u044c"
     ],
+    "name:zho_x_preferred":[
+        "\u62c9\u7518"
+    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u043b\u043c\u044b\u043a\u0438\u044f",
     "qs:a1r":"*",
@@ -146,7 +146,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85687953
+        85687953,
+        1108734883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -168,7 +169,7 @@
         }
     ],
     "wof:id":102011585,
-    "wof:lastmodified":1514501681,
+    "wof:lastmodified":1561831699,
     "wof:name":"Kaspiyskiy",
     "wof:parent_id":1108734883,
     "wof:placetype":"locality",

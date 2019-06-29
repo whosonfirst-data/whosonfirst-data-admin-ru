@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002381,
-    "geom:area_square_m":17279944.355812,
+    "geom:area_square_m":17279944.355808,
     "geom:bbox":"44.8956031799,54.0522727966,45.0,54.0826835632",
     "geom:latitude":54.066173,
     "geom:longitude":44.948029,
@@ -29,20 +29,17 @@
     "name:bul_x_preferred":[
         "\u0420\u0443\u0437\u0430\u0435\u0432\u043a\u0430"
     ],
+    "name:ces_x_preferred":[
+        "Ruzajevka"
+    ],
     "name:che_x_preferred":[
         "\u0420\u0443\u0437\u0430\u0435\u0432\u043a\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u9b6f\u624e\u8036\u592b\u5361"
     ],
     "name:chv_x_preferred":[
         "\u0420\u0443\u0437\u0430\u0435\u0432\u043a\u0430"
     ],
-    "name:cze_x_preferred":[
-        "Ruzajevka"
-    ],
-    "name:dut_x_preferred":[
-        "Roezajevka"
+    "name:deu_x_preferred":[
+        "Rusajewka"
     ],
     "name:eng_x_preferred":[
         "Ruzayevka"
@@ -50,14 +47,14 @@
     "name:epo_x_preferred":[
         "Ruzajevka"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0632\u0627\u06cc\u0641\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Ruzajevka"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Rouza\u00efevka"
-    ],
-    "name:ger_x_preferred":[
-        "Rusajewka"
     ],
     "name:hsb_x_preferred":[
         "Ruzajewka"
@@ -89,6 +86,9 @@
     "name:myv_x_preferred":[
         "\u041e\u0440\u0430\u0437\u0430\u0439 \u043e\u0448"
     ],
+    "name:nld_x_preferred":[
+        "Roezajevka"
+    ],
     "name:nno_x_preferred":[
         "Ruzajevka"
     ],
@@ -98,16 +98,13 @@
     "name:nor_x_preferred":[
         "Ruzajevka"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0648\u0632\u0627\u06cc\u0641\u06a9\u0627"
-    ],
     "name:pol_x_preferred":[
         "Ruzajewka"
     ],
     "name:por_x_preferred":[
         "Ruzayevka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ruzaevka"
     ],
     "name:rus_x_preferred":[
@@ -142,6 +139,9 @@
     ],
     "name:xal_x_preferred":[
         "\u0420\u0443\u0437\u0430\u0435\u0432\u043a\u0430 \u0431\u0430\u043b\u04bb\u0441\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u9b6f\u624e\u8036\u592b\u5361"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u043e\u0440\u0434\u043e\u0432\u0438\u044f",
@@ -191,7 +191,7 @@
         }
     ],
     "wof:id":102008131,
-    "wof:lastmodified":1527637247,
+    "wof:lastmodified":1561831684,
     "wof:name":"Ruzayevka",
     "wof:parent_id":1108736335,
     "wof:placetype":"locality",

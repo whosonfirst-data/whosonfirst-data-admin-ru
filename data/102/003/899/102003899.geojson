@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001907,
-    "geom:area_square_m":13776714.084315,
+    "geom:area_square_m":13776714.084321,
     "geom:bbox":"38.9856376648,54.2180557251,39.0693893433,54.2699737549",
     "geom:latitude":54.239837,
     "geom:longitude":39.022977,
@@ -34,14 +34,11 @@
     "name:che_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u54c8\u4f0a\u6d1b\u592b"
-    ],
     "name:chv_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432"
     ],
-    "name:dut_x_preferred":[
-        "Michaylov"
+    "name:deu_x_preferred":[
+        "Michailow"
     ],
     "name:eng_x_preferred":[
         "Mikhaylov"
@@ -49,14 +46,14 @@
     "name:epo_x_preferred":[
         "Mi\u0125ajlov"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u062e\u0627\u0626\u06cc\u0644\u0648\u0641\u060c \u0627\u0648\u0628\u0644\u0627\u0633\u062a \u0631\u06cc\u0627\u0632\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Mihailov"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mikha\u00eflov"
-    ],
-    "name:ger_x_preferred":[
-        "Michailow"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d9\u05db\u05d0\u05d9\u05dc\u05d5\u05d1"
@@ -73,6 +70,9 @@
     "name:kor_x_preferred":[
         "\ubbf8\ud558\uc77c\ub85c\ud504"
     ],
+    "name:nld_x_preferred":[
+        "Michaylov"
+    ],
     "name:nno_x_preferred":[
         "Mikhajlov"
     ],
@@ -81,9 +81,6 @@
     ],
     "name:nor_x_preferred":[
         "Mikhajlov"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u062e\u0627\u0626\u06cc\u0644\u0648\u0641\u060c \u0627\u0648\u0628\u0644\u0627\u0633\u062a \u0631\u06cc\u0627\u0632\u0627\u0646"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432"
@@ -109,6 +106,9 @@
     "name:xal_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432 \u0431\u0430\u043b\u04bb\u0441\u043d"
     ],
+    "name:zho_x_preferred":[
+        "\u7c73\u54c8\u4f0a\u6d1b\u592b"
+    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"6200900100000",
@@ -132,7 +132,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85687963
+        85687963,
+        1108735141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":102003899,
-    "wof:lastmodified":1514502154,
+    "wof:lastmodified":1561831717,
     "wof:name":"Mikhaylov",
     "wof:parent_id":1108735141,
     "wof:placetype":"locality",

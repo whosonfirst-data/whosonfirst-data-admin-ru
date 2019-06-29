@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000716,
-    "geom:area_square_m":4763407.52695,
+    "geom:area_square_m":4763407.526954,
     "geom:bbox":"41.9579162598,57.4584159851,42.0121650696,57.4802780151",
     "geom:latitude":57.468942,
     "geom:longitude":41.982668,
@@ -38,11 +38,8 @@
     "name:che_x_preferred":[
         "\u041d\u0430\u0432\u043e\u043b\u043e\u043a\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u6c83\u6d1b\u57fa"
-    ],
-    "name:dut_x_preferred":[
-        "Navoloki"
+    "name:deu_x_preferred":[
+        "Nawoloki"
     ],
     "name:eng_x_preferred":[
         "Navoloki"
@@ -50,14 +47,14 @@
     "name:epo_x_preferred":[
         "Navoloki"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0648\u0648\u0644\u0648\u06a9\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Navoloki"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Navoloki"
-    ],
-    "name:ger_x_preferred":[
-        "Nawoloki"
     ],
     "name:hsb_x_preferred":[
         "Nawoloki"
@@ -65,8 +62,11 @@
     "name:ita_x_preferred":[
         "Navoloki"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041d\u0430\u0432\u043e\u043b\u043e\u043a\u0438"
+    ],
+    "name:nld_x_preferred":[
+        "Navoloki"
     ],
     "name:nno_x_preferred":[
         "Navoloki"
@@ -76,9 +76,6 @@
     ],
     "name:nor_x_preferred":[
         "Navoloki"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u0648\u0648\u0644\u0648\u06a9\u06cc"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0432\u043e\u043b\u043e\u043a\u0438"
@@ -104,6 +101,9 @@
     "name:war_x_preferred":[
         "Navoloki"
     ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u6c83\u6d1b\u57fa"
+    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"3700700200000",
@@ -127,7 +127,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688153
+        85688153,
+        1108734427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":102002703,
-    "wof:lastmodified":1514502330,
+    "wof:lastmodified":1561831732,
     "wof:name":"Navoloki",
     "wof:parent_id":1108734427,
     "wof:placetype":"locality",

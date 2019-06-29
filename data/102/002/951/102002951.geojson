@@ -35,11 +35,8 @@
     "name:che_x_preferred":[
         "\u0412\u044f\u0437\u043d\u0438\u043a\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u7dad\u4e9e\u8332\u5c3c\u57fa"
-    ],
-    "name:dut_x_preferred":[
-        "Vjazniki"
+    "name:deu_x_preferred":[
+        "Wjasniki"
     ],
     "name:eng_x_preferred":[
         "Vyazniki"
@@ -47,14 +44,14 @@
     "name:epo_x_preferred":[
         "Vjazniki"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0627\u0632\u0646\u06cc\u06a9\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Vjazniki"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Viazniki"
-    ],
-    "name:ger_x_preferred":[
-        "Wjasniki"
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05d9\u05d0\u05d6\u05e0\u05d9\u05e7\u05d9"
@@ -74,11 +71,14 @@
     "name:lit_x_preferred":[
         "Viaznikai"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0412\u0458\u0430\u0437\u043d\u0438\u043a\u0438"
     ],
     "name:myv_x_preferred":[
         "\u0412\u044f\u0437\u043d\u0438\u043a\u0438 \u043e\u0448"
+    ],
+    "name:nld_x_preferred":[
+        "Vjazniki"
     ],
     "name:nno_x_preferred":[
         "Vjazniki"
@@ -88,9 +88,6 @@
     ],
     "name:nor_x_preferred":[
         "Vjazniki"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u0627\u0632\u0646\u06cc\u06a9\u06cc"
     ],
     "name:pol_x_preferred":[
         "Wiazniki"
@@ -125,6 +122,9 @@
     "name:war_x_preferred":[
         "Vyazniki"
     ],
+    "name:zho_x_preferred":[
+        "\u7dad\u4e9e\u8332\u5c3c\u57fa"
+    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"3300300100000",
@@ -148,7 +148,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85687981
+        85687981,
+        1108737505
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":102002951,
-    "wof:lastmodified":1514503910,
+    "wof:lastmodified":1561831732,
     "wof:name":"Vyazniki",
     "wof:parent_id":1108737505,
     "wof:placetype":"locality",

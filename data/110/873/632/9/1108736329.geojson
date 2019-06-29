@@ -53,20 +53,14 @@
     "mps:longitude":44.353768,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054c\u0578\u0582\u0564\u0576\u0575\u0561\u0576\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:bel_x_preferred":[
         "\u0420\u0443\u0434\u043d\u044f\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
     "name:che_x_preferred":[
         "\u0420\u0443\u0434\u043d\u044f\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u9c81\u5fb7\u5c3c\u4e9a\u533a"
-    ],
-    "name:dut_x_preferred":[
-        "Rudnyansky District"
+    "name:deu_x_preferred":[
+        "Rudnjanski rajon"
     ],
     "name:eng_x_preferred":[
         "Rudnjanskiy"
@@ -75,14 +69,17 @@
         "Rudnjanskij",
         "Rudnjanskiy"
     ],
-    "name:ger_x_preferred":[
-        "Rudnjanski rajon"
-    ],
     "name:hun_x_preferred":[
         "Rudnyai j\u00e1r\u00e1s"
     ],
+    "name:hye_x_preferred":[
+        "\u054c\u0578\u0582\u0564\u0576\u0575\u0561\u0576\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ita_x_preferred":[
         "Rudnjanskij rajon"
+    ],
+    "name:nld_x_preferred":[
+        "Rudnyansky District"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0443\u0434\u043d\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -92,6 +89,9 @@
     ],
     "name:und_x_variant":[
         "\u0420\u0443\u0434\u043d\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u9c81\u5fb7\u5c3c\u4e9a\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1108736329,
-    "wof:lastmodified":1561581995,
+    "wof:lastmodified":1561832332,
     "wof:name":"Rudnjanskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

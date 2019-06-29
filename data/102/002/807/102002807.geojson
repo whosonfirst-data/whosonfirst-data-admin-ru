@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001794,
-    "geom:area_square_m":12148149.899808,
+    "geom:area_square_m":12148149.89981,
     "geom:bbox":"44.4478340149,56.7651939392,44.5299453735,56.8083610535",
     "geom:latitude":56.788722,
     "geom:longitude":44.488363,
@@ -29,17 +29,14 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u043c\u044c\u043e\u043d\u043e\u0432"
     ],
+    "name:ces_x_preferred":[
+        "Semjonov"
+    ],
     "name:che_x_preferred":[
         "\u0421\u0435\u043c\u0435\u043d\u043e\u0432"
     ],
-    "name:chi_x_preferred":[
-        "\u8b1d\u82d7\u8afe\u592b"
-    ],
-    "name:cze_x_preferred":[
-        "Semjonov"
-    ],
-    "name:dut_x_preferred":[
-        "Semjonov"
+    "name:deu_x_preferred":[
+        "Semjonow"
     ],
     "name:eng_x_preferred":[
         "Semyonov"
@@ -47,14 +44,14 @@
     "name:epo_x_preferred":[
         "Semjonov"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0645\u06cc\u0648\u0646\u0648\u0641"
+    ],
     "name:fin_x_preferred":[
         "Semjonov"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Semionov"
-    ],
-    "name:ger_x_preferred":[
-        "Semjonow"
     ],
     "name:hsb_x_preferred":[
         "Semjonow"
@@ -65,6 +62,9 @@
     "name:myv_x_preferred":[
         "\u0421\u0435\u043c\u0451\u043d\u043e\u0432"
     ],
+    "name:nld_x_preferred":[
+        "Semjonov"
+    ],
     "name:nno_x_preferred":[
         "Semjonov"
     ],
@@ -74,16 +74,13 @@
     "name:nor_x_preferred":[
         "Semenov"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0645\u06cc\u0648\u0646\u0648\u0641"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043c\u0435\u043d\u043e\u0432"
     ],
     "name:rus_x_variant":[
         "\u0421\u0435\u043c\u0451\u043d\u043e\u0432"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Semjonov"
     ],
     "name:spa_x_preferred":[
@@ -103,6 +100,9 @@
     ],
     "name:war_x_preferred":[
         "Semyonov"
+    ],
+    "name:zho_x_preferred":[
+        "\u8b1d\u82d7\u8afe\u592b"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -127,7 +127,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688057
+        85688057,
+        1108736427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":102002807,
-    "wof:lastmodified":1553815709,
+    "wof:lastmodified":1561831734,
     "wof:name":"Semenov",
     "wof:parent_id":1108736427,
     "wof:placetype":"locality",

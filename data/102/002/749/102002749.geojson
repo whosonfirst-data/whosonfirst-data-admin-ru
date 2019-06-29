@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000428,
-    "geom:area_square_m":2871389.195949,
+    "geom:area_square_m":2871389.195948,
     "geom:bbox":"31.1658058167,57.1366386414,31.201499939,57.1570014954",
     "geom:latitude":57.146045,
     "geom:longitude":31.184708,
@@ -32,13 +32,10 @@
     "name:che_x_preferred":[
         "\u0425\u043e\u043b\u043c"
     ],
-    "name:chi_x_preferred":[
-        "\u970d\u723e\u59c6"
-    ],
     "name:chv_x_preferred":[
         "\u0425\u043e\u043b\u043c"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cholm"
     ],
     "name:eng_x_preferred":[
@@ -56,11 +53,8 @@
     "name:fin_x_preferred":[
         "Holm"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kholm"
-    ],
-    "name:ger_x_preferred":[
-        "Cholm"
     ],
     "name:heb_x_preferred":[
         "\u05d7\u05d5\u05dc\u05dd"
@@ -83,6 +77,9 @@
     "name:lav_x_preferred":[
         "Holma"
     ],
+    "name:nld_x_preferred":[
+        "Cholm"
+    ],
     "name:nno_x_preferred":[
         "Kholm"
     ],
@@ -91,9 +88,6 @@
     ],
     "name:nor_x_preferred":[
         "Kholm"
-    ],
-    "name:per_x_preferred":[
-        "\u062e\u0648\u0644\u0645\u060c \u0628\u062e\u0634 \u062e\u0648\u0644\u0645\u0633\u06a9\u06cc\u060c \u0627\u0648\u0628\u0644\u0627\u0633\u062a \u0646\u0648\u0648\u06af\u0648\u0631\u0648\u062f"
     ],
     "name:pol_x_preferred":[
         "Cho\u0142m"
@@ -154,7 +148,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688095
+        85688095,
+        1108734377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -176,7 +171,7 @@
         }
     ],
     "wof:id":102002749,
-    "wof:lastmodified":1553815709,
+    "wof:lastmodified":1561831730,
     "wof:name":"Kholm",
     "wof:parent_id":1108734377,
     "wof:placetype":"locality",

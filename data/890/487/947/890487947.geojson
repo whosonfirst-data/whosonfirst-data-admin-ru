@@ -56,9 +56,6 @@
     "mps:longitude":46.264717,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u057f\u056c\u056b\u056d\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:ava_x_preferred":[
         "\u0411\u043e\u043b\u044a\u0438\u0445\u044a \u043c\u0443\u0445\u044a"
     ],
@@ -71,8 +68,8 @@
     "name:chv_x_preferred":[
         "\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d\u0103\u043d \u0411\u043e\u0442\u043b\u0438\u0445 \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
-    "name:dut_x_preferred":[
-        "District Botlichski"
+    "name:deu_x_preferred":[
+        "Botlichski rajon"
     ],
     "name:eng_x_preferred":[
         "Botlikhskiy"
@@ -83,17 +80,20 @@
     "name:est_x_preferred":[
         "Botlihhi rajoon"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062a\u0644\u06cc\u062e"
+    ],
     "name:fin_x_preferred":[
         "Botlihin piiri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Botlichski"
-    ],
-    "name:ger_x_preferred":[
-        "Botlichski rajon"
     ],
     "name:hun_x_preferred":[
         "Botlihi j\u00e1r\u00e1s"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u057f\u056c\u056b\u056d\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Botlichskij rajon"
@@ -101,11 +101,11 @@
     "name:lez_x_preferred":[
         "\u0411\u043e\u0442\u043b\u0438\u0445 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:nld_x_preferred":[
+        "District Botlichski"
+    ],
     "name:oss_x_preferred":[
         "\u0411\u043e\u0442\u043b\u0438\u0445\u044b \u0440\u0430\u0439\u043e\u043d"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u062a\u0644\u06cc\u062e"
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0442\u043b\u0438\u0445\u0441\u043a\u0438\u0439 \u0420\u0430\u0439\u043e\u043d"
@@ -175,7 +175,7 @@
         }
     ],
     "wof:id":890487947,
-    "wof:lastmodified":1561582136,
+    "wof:lastmodified":1561832790,
     "wof:name":"Botlikhskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

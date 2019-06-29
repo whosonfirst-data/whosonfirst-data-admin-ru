@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001707,
-    "geom:area_square_m":10745526.457829,
+    "geom:area_square_m":10745526.457828,
     "geom:bbox":"35.9115562439,59.3769989014,35.9853897095,59.4191398621",
     "geom:latitude":59.397438,
     "geom:longitude":35.944558,
@@ -38,20 +38,17 @@
     "name:cat_x_preferred":[
         "Babajevo"
     ],
+    "name:ces_x_preferred":[
+        "Babajevo"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0430\u0431\u0430\u0435\u0432\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u5df4\u8036\u6c83"
-    ],
-    "name:cze_x_preferred":[
-        "Babajevo"
+    "name:deu_x_preferred":[
+        "Babajewo"
     ],
     "name:diq_x_preferred":[
         "Babayevo"
-    ],
-    "name:dut_x_preferred":[
-        "Babajevo"
     ],
     "name:eng_x_preferred":[
         "Babayevo"
@@ -62,14 +59,14 @@
     "name:est_x_preferred":[
         "Babajevo"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0628\u0627\u06cc\u0641\u0648"
+    ],
     "name:fin_x_preferred":[
         "Babajevo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Baba\u00efevo"
-    ],
-    "name:ger_x_preferred":[
-        "Babajewo"
     ],
     "name:hsb_x_preferred":[
         "Babajewo"
@@ -89,6 +86,9 @@
     "name:lit_x_preferred":[
         "Babajevas"
     ],
+    "name:nld_x_preferred":[
+        "Babajevo"
+    ],
     "name:nno_x_preferred":[
         "Babajevo"
     ],
@@ -97,9 +97,6 @@
     ],
     "name:oss_x_preferred":[
         "\u0411\u0430\u0431\u0430\u0435\u0432\u043e"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0628\u0627\u06cc\u0641\u0648"
     ],
     "name:pol_x_preferred":[
         "Babajewo"
@@ -145,6 +142,9 @@
     ],
     "name:war_x_preferred":[
         "Babayevo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5df4\u8036\u6c83"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0412\u043e\u043b\u043e\u0433\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -197,7 +197,7 @@
         }
     ],
     "wof:id":102002529,
-    "wof:lastmodified":1553815709,
+    "wof:lastmodified":1561831730,
     "wof:name":"Babayevo",
     "wof:parent_id":1108732829,
     "wof:placetype":"locality",

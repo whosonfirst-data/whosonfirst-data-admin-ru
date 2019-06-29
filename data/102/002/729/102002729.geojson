@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001267,
-    "geom:area_square_m":8474156.883717,
+    "geom:area_square_m":8474156.883715,
     "geom:bbox":"41.0792503357,57.2378044128,41.1405296326,57.2685279846",
     "geom:latitude":57.252434,
     "geom:longitude":41.107905,
@@ -19,9 +19,6 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0631\u0645\u0627\u0646\u0648\u0641"
-    ],
-    "name:arm_x_preferred":[
-        "\u0556\u0578\u0582\u0580\u0574\u0561\u0576\u0578\u057e"
     ],
     "name:azb_x_preferred":[
         "\u0641\u0648\u0631\u0645\u0627\u0646\u0648\u0648"
@@ -41,14 +38,8 @@
     "name:che_x_preferred":[
         "\u0424\u0443\u0440\u043c\u0430\u043d\u043e\u0432"
     ],
-    "name:chi_x_preferred":[
-        "\u5bcc\u723e\u99ac\u8afe\u592b"
-    ],
     "name:deu_x_preferred":[
         "Furmanow"
-    ],
-    "name:dut_x_preferred":[
-        "Furmanov"
     ],
     "name:eng_x_preferred":[
         "Furmanov"
@@ -68,14 +59,11 @@
     "name:fra_x_preferred":[
         "Fourmanov"
     ],
-    "name:fre_x_preferred":[
-        "Fourmanov"
-    ],
-    "name:ger_x_preferred":[
-        "Furmanow"
-    ],
     "name:hsb_x_preferred":[
         "Furmanow"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0578\u0582\u0580\u0574\u0561\u0576\u0578\u057e"
     ],
     "name:ita_x_preferred":[
         "Furmanov"
@@ -86,11 +74,14 @@
     "name:kor_x_preferred":[
         "\ud478\ub974\ub9c8\ub178\ud504"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0424\u0443\u0440\u043c\u0430\u043d\u043e\u0432"
     ],
     "name:myv_x_preferred":[
         "\u0424\u0443\u0440\u043c\u0430\u043d\u043e\u0432"
+    ],
+    "name:nld_x_preferred":[
+        "Furmanov"
     ],
     "name:nno_x_preferred":[
         "Furmanov"
@@ -100,9 +91,6 @@
     ],
     "name:nor_x_preferred":[
         "Furmanov"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0648\u0631\u0645\u0627\u0646\u0648\u0641"
     ],
     "name:rus_x_preferred":[
         "\u0424\u0443\u0440\u043c\u0430\u043d\u043e\u0432"
@@ -160,7 +148,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688153
+        85688153,
+        1108733543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -182,7 +171,7 @@
         }
     ],
     "wof:id":102002729,
-    "wof:lastmodified":1514501245,
+    "wof:lastmodified":1561831736,
     "wof:name":"Furmanov",
     "wof:parent_id":1108733543,
     "wof:placetype":"locality",

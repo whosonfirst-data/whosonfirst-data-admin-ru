@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006284,
-    "geom:area_square_m":43428036.542728,
+    "geom:area_square_m":43428036.542727,
     "geom:bbox":"92.7395553589,55.9949150085,92.9738922119,56.052192688",
     "geom:latitude":56.023099,
     "geom:longitude":92.840526,
@@ -26,14 +26,8 @@
     "name:afr_x_preferred":[
         "Krasnojarsk"
     ],
-    "name:alb_x_preferred":[
-        "Krasnojarsk"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u0631\u0627\u0633\u0646\u0648\u064a\u0627\u0631\u0633\u0643"
-    ],
-    "name:arm_x_preferred":[
-        "\u053f\u0580\u0561\u057d\u0576\u0578\u0575\u0561\u0580\u057d\u056f"
     ],
     "name:azb_x_preferred":[
         "\u06a9\u0631\u0627\u0633\u0646\u0648\u06cc\u0627\u0631\u0633\u06a9"
@@ -43,9 +37,6 @@
     ],
     "name:bak_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a"
-    ],
-    "name:baq_x_preferred":[
-        "Krasnoiarsk"
     ],
     "name:bel_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0430\u044f\u0440\u0441\u043a"
@@ -68,11 +59,11 @@
     "name:cat_x_preferred":[
         "Krasnoiarsk"
     ],
+    "name:ces_x_preferred":[
+        "Krasnojarsk"
+    ],
     "name:che_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a"
-    ],
-    "name:chi_x_preferred":[
-        "\u514b\u62c9\u65af\u8afe\u4e9e\u723e\u65af\u514b"
     ],
     "name:chu_x_preferred":[
         "\u041a\u0440\u0430\u0441\u044c\u043d\u043e\ua657\u0440\u044c\u0441\u043a\u044a"
@@ -80,10 +71,13 @@
     "name:chv_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a"
     ],
-    "name:cze_x_preferred":[
-        "Krasnojarsk"
+    "name:cym_x_preferred":[
+        "Krasnoyarsk"
     ],
     "name:dan_x_preferred":[
+        "Krasnojarsk"
+    ],
+    "name:deu_x_preferred":[
         "Krasnojarsk"
     ],
     "name:diq_x_preferred":[
@@ -92,8 +86,8 @@
     "name:dsb_x_preferred":[
         "Krasnojarsk"
     ],
-    "name:dut_x_preferred":[
-        "Krasnojarsk"
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03b1\u03c3\u03bd\u03bf\u03b3\u03b9\u03ac\u03c1\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Krasnoyarsk"
@@ -104,23 +98,20 @@
     "name:est_x_preferred":[
         "Krasnojarsk"
     ],
+    "name:eus_x_preferred":[
+        "Krasnoiarsk"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0627\u0633\u0646\u0648\u06cc\u0627\u0631\u0633\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Krasnojarsk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Krasno\u00efarsk"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e0\u10d0\u10e1\u10dc\u10dd\u10d8\u10d0\u10e0\u10e1\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Krasnojarsk"
     ],
     "name:gle_x_preferred":[
         "Krasnoyarsk"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c1\u03b1\u03c3\u03bd\u03bf\u03b3\u03b9\u03ac\u03c1\u03c3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0ab0\u0abe\u0ab8\u0acd\u0aa8\u0acb\u0aaf\u0abe\u0ab0\u0acd\u0ab8\u0acd\u0a95"
@@ -140,14 +131,17 @@
     "name:hun_x_preferred":[
         "Krasznojarszk"
     ],
-    "name:ice_x_preferred":[
-        "Krasnojarsk"
+    "name:hye_x_preferred":[
+        "\u053f\u0580\u0561\u057d\u0576\u0578\u0575\u0561\u0580\u057d\u056f"
     ],
     "name:ido_x_preferred":[
         "Krasnoyarsk"
     ],
     "name:ind_x_preferred":[
         "Krasnoyarsk"
+    ],
+    "name:isl_x_preferred":[
+        "Krasnojarsk"
     ],
     "name:ita_x_preferred":[
         "Krasnojarsk"
@@ -157,6 +151,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0cb0\u0cbe\u0cb8\u0ccd\u0ca8\u0ccb\u0caf\u0cbe\u0cb0\u0ccd\u0cb8\u0ccd\u0c95\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e0\u10d0\u10e1\u10dc\u10dd\u10d8\u10d0\u10e0\u10e1\u10d9\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a"
@@ -185,26 +182,29 @@
     "name:lug_x_preferred":[
         "Krasnoyarsk"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0440\u0430\u0441\u043d\u043e\u0458\u0430\u0440\u0441\u043a"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u094d\u0930\u093e\u0938\u094d\u0928\u094b\u092f\u093e\u0930\u094d\u0938\u094d\u0915"
-    ],
-    "name:may_x_preferred":[
-        "Krasnoyarsk"
     ],
     "name:mhr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a"
     ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0458\u0430\u0440\u0441\u043a"
+    ],
     "name:mon_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Krasnoyarsk"
     ],
     "name:myv_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a \u043e\u0448"
     ],
     "name:nep_x_preferred":[
         "\u0915\u094d\u0930\u0938\u094d\u0928\u094b\u092f\u093e\u0930\u094d\u0938\u094d\u0915"
+    ],
+    "name:nld_x_preferred":[
+        "Krasnojarsk"
     ],
     "name:nno_x_preferred":[
         "Krasnojarsk"
@@ -218,9 +218,6 @@
     "name:oss_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0631\u0627\u0633\u0646\u0648\u06cc\u0627\u0631\u0633\u06a9"
-    ],
     "name:pnb_x_preferred":[
         "\u06a9\u0631\u0627\u0633\u0646\u0648\u06cc\u0627\u0631\u0633\u06a9"
     ],
@@ -230,7 +227,7 @@
     "name:por_x_preferred":[
         "Krasnoyarsk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Krasnoiarsk"
     ],
     "name:rus_x_preferred":[
@@ -245,7 +242,7 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dca\u200d\u0dbb\u0dcf\u0dc3\u0dca\u0db1\u0dcf\u0dba\u0dcf\u0dc3\u0dca\u0d9a\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Krasnojarsk"
     ],
     "name:slv_x_preferred":[
@@ -253,6 +250,9 @@
     ],
     "name:spa_x_preferred":[
         "Krasnoyarsk"
+    ],
+    "name:sqi_x_preferred":[
+        "Krasnojarsk"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0458\u0430\u0440\u0441\u043a"
@@ -317,13 +317,13 @@
     "name:war_x_preferred":[
         "Krasnoyarsk"
     ],
-    "name:wel_x_preferred":[
-        "Krasnoyarsk"
-    ],
     "name:wol_x_preferred":[
         "Krasnoyarsk"
     ],
     "name:yue_x_preferred":[
+        "\u514b\u62c9\u65af\u8afe\u4e9e\u723e\u65af\u514b"
+    ],
+    "name:zho_x_preferred":[
         "\u514b\u62c9\u65af\u8afe\u4e9e\u723e\u65af\u514b"
     ],
     "ne:ADM0CAP":0.0,
@@ -467,7 +467,7 @@
         }
     ],
     "wof:id":102013949,
-    "wof:lastmodified":1527636664,
+    "wof:lastmodified":1561831658,
     "wof:name":"Krasnoyarsk",
     "wof:parent_id":1108734711,
     "wof:placetype":"locality",

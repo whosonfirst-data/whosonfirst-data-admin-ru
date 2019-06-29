@@ -53,17 +53,11 @@
     "mps:longitude":45.029009,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0546\u0561\u0564\u057f\u0565\u0580\u0565\u0579\u0576\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:che_x_preferred":[
         "\u0422\u0435\u0440\u043a-\u0419\u0438\u0441\u0442\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u63d0\u5207\u5c3c"
-    ],
-    "name:dut_x_preferred":[
-        "District Nadterezjni"
+    "name:deu_x_preferred":[
+        "Nadteretschny rajon"
     ],
     "name:eng_x_preferred":[
         "Nadterechnyj"
@@ -74,14 +68,17 @@
     "name:est_x_preferred":[
         "Nadteret\u0161n\u00f5i rajoon"
     ],
-    "name:ger_x_preferred":[
-        "Nadteretschny rajon"
-    ],
     "name:hun_x_preferred":[
         "Tyereki j\u00e1r\u00e1s"
     ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u0564\u057f\u0565\u0580\u0565\u0579\u0576\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ita_x_preferred":[
         "Nadtere\u010dnyj rajon"
+    ],
+    "name:nld_x_preferred":[
+        "District Nadterezjni"
     ],
     "name:oss_x_preferred":[
         "\u0423\u00e6\u043b\u0442\u0435\u0440\u0447\u044b \u0440\u0430\u0439\u043e\u043d"
@@ -103,6 +100,9 @@
     ],
     "name:war_x_preferred":[
         "Nadterechny"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u63d0\u5207\u5c3c"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -141,7 +141,7 @@
         }
     ],
     "wof:id":1108735293,
-    "wof:lastmodified":1561582017,
+    "wof:lastmodified":1561832351,
     "wof:name":"Nadterechnyj",
     "wof:parent_id":85688015,
     "wof:placetype":"county",
