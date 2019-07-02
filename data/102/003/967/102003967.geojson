@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001563,
-    "geom:area_square_m":11342312.559136,
+    "geom:area_square_m":11342312.55914,
     "geom:bbox":"34.2939720154,54.0452232361,34.3534736633,54.0911407471",
     "geom:latitude":54.06776,
     "geom:longitude":34.322614,
@@ -23,9 +23,6 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0631\u0648\u0641"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u056b\u0580\u0578\u057e"
-    ],
     "name:bel_x_preferred":[
         "\u041a\u0456\u0440\u0430\u045e"
     ],
@@ -38,14 +35,8 @@
     "name:che_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u6d1b\u592b"
-    ],
     "name:deu_x_preferred":[
         "Kirow"
-    ],
-    "name:dut_x_preferred":[
-        "Kirov"
     ],
     "name:eng_x_preferred":[
         "Kirov"
@@ -59,14 +50,14 @@
     "name:fin_x_preferred":[
         "Kirov"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kirov"
-    ],
-    "name:ger_x_preferred":[
-        "Kirow"
     ],
     "name:hsb_x_preferred":[
         "Kirow"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u056b\u0580\u0578\u057e"
     ],
     "name:ita_x_preferred":[
         "Kirov"
@@ -77,6 +68,9 @@
     "name:kor_x_preferred":[
         "\ud0a4\ub85c\ud504"
     ],
+    "name:nld_x_preferred":[
+        "Kirov"
+    ],
     "name:nno_x_preferred":[
         "Kirov i Kaluga oblast"
     ],
@@ -85,9 +79,6 @@
     ],
     "name:nor_x_preferred":[
         "Kirov"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u06cc\u0631\u0648\u0641\u060c \u0627\u0648\u0628\u0644\u0627\u0633\u062a \u06a9\u0627\u0644\u0648\u06af\u0627"
     ],
     "name:pol_x_preferred":[
         "Kirow"
@@ -231,7 +222,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688131
+        85688131,
+        1108734445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -253,7 +245,7 @@
         }
     ],
     "wof:id":102003967,
-    "wof:lastmodified":1553815710,
+    "wof:lastmodified":1561831715,
     "wof:name":"Kirov",
     "wof:parent_id":1108734445,
     "wof:placetype":"locality",

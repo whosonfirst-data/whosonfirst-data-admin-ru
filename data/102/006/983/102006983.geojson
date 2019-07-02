@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002299,
-    "geom:area_square_m":18899651.316833,
+    "geom:area_square_m":18899651.316832,
     "geom:bbox":"39.8736381531,48.301334451,39.9785270691,48.3568878484",
     "geom:latitude":48.330367,
     "geom:longitude":39.930475,
@@ -19,9 +19,6 @@
     "mps:longitude":39.92968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0534\u0578\u0576\u0565\u0581\u056f"
-    ],
     "name:aze_x_preferred":[
         "Donetsk"
     ],
@@ -37,14 +34,11 @@
     "name:cat_x_preferred":[
         "Donetsk"
     ],
-    "name:chi_x_preferred":[
-        "\u9813\u6d85\u8328\u514b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Don\u011bck"
     ],
-    "name:dut_x_preferred":[
-        "Donetsk"
+    "name:deu_x_preferred":[
+        "Donezk"
     ],
     "name:eng_x_preferred":[
         "Donetsk"
@@ -52,20 +46,20 @@
     "name:est_x_preferred":[
         "Donetsk"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0646\u062a\u0633\u06a9\u060c \u0631\u0648\u0633\u06cc\u0647"
+    ],
     "name:fin_x_preferred":[
         "Donetsk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Donetsk"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10dd\u10dc\u10d4\u10ea\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Donezk"
     ],
     "name:hsb_x_preferred":[
         "Donjeck"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0576\u0565\u0581\u056f"
     ],
     "name:ita_x_preferred":[
         "Doneck"
@@ -73,11 +67,17 @@
     "name:jpn_x_preferred":[
         "\u30c9\u30cd\u30c4\u30af"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10dd\u10dc\u10d4\u10ea\u10d9\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub3c4\ub124\uce20\ud06c"
     ],
     "name:lav_x_preferred":[
         "Do\u0146ecka"
+    ],
+    "name:nld_x_preferred":[
+        "Donetsk"
     ],
     "name:nno_x_preferred":[
         "Donetsk"
@@ -88,16 +88,13 @@
     "name:oci_x_preferred":[
         "Donetsk"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u0646\u062a\u0633\u06a9\u060c \u0631\u0648\u0633\u06cc\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u062f\u0648\u0646\u062a\u0633\u06a9"
     ],
     "name:pol_x_preferred":[
         "Donieck"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Done\u021bk"
     ],
     "name:rus_x_preferred":[
@@ -126,6 +123,9 @@
     ],
     "name:xal_x_preferred":[
         "\u0414\u043e\u043d\u0435\u0446\u043a \u0431\u0430\u043b\u04bb\u0441\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u9813\u6d85\u8328\u514b"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -179,7 +179,7 @@
         }
     ],
     "wof:id":102006983,
-    "wof:lastmodified":1553815711,
+    "wof:lastmodified":1561831692,
     "wof:name":"Donetsk",
     "wof:parent_id":1108733403,
     "wof:placetype":"locality",

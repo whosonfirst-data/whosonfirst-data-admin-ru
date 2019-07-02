@@ -53,20 +53,14 @@
     "mps:longitude":43.651056,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054f\u0561\u0580\u0576\u0578\u0563\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:bel_x_preferred":[
         "\u0422\u0430\u0440\u043d\u0430\u0433\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
     "name:che_x_preferred":[
         "\u0422\u0430\u0440\u043d\u043e\u0433\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u5c14\u8bfa\u52a0\u533a"
-    ],
-    "name:dut_x_preferred":[
-        "Tarnogsky District"
+    "name:deu_x_preferred":[
+        "Tarnogski rajon"
     ],
     "name:eng_x_preferred":[
         "Tarnogskiy"
@@ -80,14 +74,17 @@
     "name:fin_x_preferred":[
         "Tarnogski Gorodokin piiri"
     ],
-    "name:ger_x_preferred":[
-        "Tarnogski rajon"
-    ],
     "name:hun_x_preferred":[
         "Tarnogszkiji j\u00e1r\u00e1s"
     ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u0580\u0576\u0578\u0563\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ita_x_preferred":[
         "Tarnogskij rajon"
+    ],
+    "name:nld_x_preferred":[
+        "Tarnogsky District"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0440\u043d\u043e\u0433\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -103,6 +100,9 @@
     ],
     "name:vie_x_preferred":[
         "Tarnogsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u5c14\u8bfa\u52a0\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -141,7 +141,7 @@
         }
     ],
     "wof:id":1108736939,
-    "wof:lastmodified":1561581990,
+    "wof:lastmodified":1561832328,
     "wof:name":"Tarnogskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000535,
-    "geom:area_square_m":4826327.261551,
+    "geom:area_square_m":4826327.261557,
     "geom:bbox":"132.377029419,43.1291656494,132.407058716,43.1575012207",
     "geom:latitude":43.143773,
     "geom:longitude":132.393314,
@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0634\u0648\u064a \u0643\u0627\u0645\u064a\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u056c\u0577\u0578\u0575 \u053f\u0561\u0574\u0565\u0576"
-    ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u0644\u0634\u0648\u06cc \u06a9\u0627\u0645\u0646"
     ],
@@ -37,20 +34,17 @@
     "name:cat_x_preferred":[
         "Bolxoi Kamen"
     ],
-    "name:chi_x_preferred":[
-        "\u5927\u5361\u7f05"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Bol\u0161oj Kame\u0148"
     ],
     "name:dan_x_preferred":[
         "Bolsjoj Kamen"
     ],
+    "name:deu_x_preferred":[
+        "Bolschoi Kamen"
+    ],
     "name:diq_x_preferred":[
         "Bolshoy Kamen"
-    ],
-    "name:dut_x_preferred":[
-        "Bolsjoj Kamen"
     ],
     "name:eng_x_preferred":[
         "Bolshoy Kamen"
@@ -58,11 +52,11 @@
     "name:epo_x_preferred":[
         "Bol\u015doj Kamen"
     ],
-    "name:fre_x_preferred":[
-        "Bolcho\u00ef Kamen"
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0644\u0634\u0648\u06cc \u06a9\u0627\u0645\u0646"
     ],
-    "name:ger_x_preferred":[
-        "Bolschoi Kamen"
+    "name:fra_x_preferred":[
+        "Bolcho\u00ef Kamen"
     ],
     "name:hrv_x_preferred":[
         "Bolj\u0161oj Kamenj"
@@ -72,6 +66,9 @@
     ],
     "name:hun_x_preferred":[
         "Bolsoj Kameny"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u056c\u0577\u0578\u0575 \u053f\u0561\u0574\u0565\u0576"
     ],
     "name:ita_x_preferred":[
         "Bol'\u0161oj Kamen'"
@@ -85,14 +82,14 @@
     "name:lit_x_preferred":[
         "Didysis Kamenis"
     ],
+    "name:nld_x_preferred":[
+        "Bolsjoj Kamen"
+    ],
     "name:nno_x_preferred":[
         "Bolsjoj Kamen"
     ],
     "name:nob_x_preferred":[
         "Bolsjoj Kamen"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u0644\u0634\u0648\u06cc \u06a9\u0627\u0645\u0646"
     ],
     "name:pol_x_preferred":[
         "Bolszoj Kamie\u0144"
@@ -126,6 +123,9 @@
     ],
     "name:war_x_preferred":[
         "Bolshoy Kamen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u5361\u7f05"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -176,7 +176,7 @@
         }
     ],
     "wof:id":102001793,
-    "wof:lastmodified":1527637256,
+    "wof:lastmodified":1561831689,
     "wof:name":"Bolshoy Kamen",
     "wof:parent_id":1108733087,
     "wof:placetype":"locality",

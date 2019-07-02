@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001384,
-    "geom:area_square_m":8949715.314006,
+    "geom:area_square_m":8949715.314004,
     "geom:bbox":"41.5277481079,58.4569740295,41.5881118774,58.4996681213",
     "geom:latitude":58.47954,
     "geom:longitude":41.557312,
@@ -36,14 +36,11 @@
     "name:cat_x_preferred":[
         "Bu\u00ef"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u4f0a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Buj"
     ],
-    "name:dut_x_preferred":[
-        "Buy"
+    "name:deu_x_preferred":[
+        "Bui"
     ],
     "name:eng_x_preferred":[
         "Buy"
@@ -54,14 +51,14 @@
     "name:est_x_preferred":[
         "Bui"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Bui"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bou\u00ef"
-    ],
-    "name:ger_x_preferred":[
-        "Bui"
     ],
     "name:hrv_x_preferred":[
         "Buj"
@@ -84,6 +81,9 @@
     "name:lit_x_preferred":[
         "Bujus"
     ],
+    "name:nld_x_preferred":[
+        "Buy"
+    ],
     "name:nno_x_preferred":[
         "Buj"
     ],
@@ -92,9 +92,6 @@
     ],
     "name:nor_x_preferred":[
         "Buj"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u06cc"
     ],
     "name:pol_x_preferred":[
         "Buj"
@@ -119,6 +116,9 @@
     ],
     "name:war_x_preferred":[
         "Buy"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u4f0a"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -235,7 +235,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688115
+        85688115,
+        1108733711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -257,7 +258,7 @@
         }
     ],
     "wof:id":102002579,
-    "wof:lastmodified":1514500885,
+    "wof:lastmodified":1561831736,
     "wof:name":"Buy",
     "wof:parent_id":1108733711,
     "wof:placetype":"locality",

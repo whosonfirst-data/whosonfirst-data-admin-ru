@@ -19,9 +19,6 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0627\u063a\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0546\u0575\u0561\u0563\u0561\u0576"
-    ],
     "name:azb_x_preferred":[
         "\u0646\u06cc\u0627\u0642\u0627\u0646"
     ],
@@ -37,14 +34,14 @@
     "name:cat_x_preferred":[
         "Ni\u00e0gan"
     ],
-    "name:chi_x_preferred":[
-        "\u5c3c\u4e9e\u7518"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u0147aga\u0148"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Njagan"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03b1\u03b3\u03ba\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Nyagan"
@@ -55,17 +52,14 @@
     "name:est_x_preferred":[
         "Njagan"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0627\u06af\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Njagan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Niagan"
-    ],
-    "name:ger_x_preferred":[
-        "Njagan"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b9\u03b1\u03b3\u03ba\u03ac\u03bd"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d9\u05d0\u05d2\u05d0\u05df"
@@ -78,6 +72,9 @@
     ],
     "name:hun_x_preferred":[
         "Nyagan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0575\u0561\u0563\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Njagan'"
@@ -94,6 +91,9 @@
     "name:lit_x_preferred":[
         "Niagan\u0117"
     ],
+    "name:nld_x_preferred":[
+        "Njagan"
+    ],
     "name:nno_x_preferred":[
         "Njagan"
     ],
@@ -102,9 +102,6 @@
     ],
     "name:nor_x_preferred":[
         "Njagan"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u06cc\u0627\u06af\u0627\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0646\u06cc\u0627\u06af\u0627\u0646"
@@ -115,7 +112,7 @@
     "name:por_x_preferred":[
         "Nyagan"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Niagan"
     ],
     "name:rus_x_preferred":[
@@ -162,6 +159,9 @@
     ],
     "name:war_x_preferred":[
         "Nyagan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u4e9e\u7518"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -288,7 +288,7 @@
         }
     ],
     "wof:id":890479303,
-    "wof:lastmodified":1514502525,
+    "wof:lastmodified":1561832761,
     "wof:name":"Nyagan\u2019",
     "wof:parent_id":1108733831,
     "wof:placetype":"locality",

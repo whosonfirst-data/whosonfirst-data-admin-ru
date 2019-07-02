@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000853,
-    "geom:area_square_m":5596005.023559,
+    "geom:area_square_m":5596005.023558,
     "geom:bbox":"33.2381668091,57.9616127014,33.2924461365,57.992389679",
     "geom:latitude":57.976205,
     "geom:longitude":33.262666,
@@ -38,14 +38,8 @@
     "name:che_x_preferred":[
         "\u0412\u0430\u043b\u0434\u0430\u0439"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u5c14\u4ee3"
-    ],
     "name:deu_x_preferred":[
         "Waldai"
-    ],
-    "name:dut_x_preferred":[
-        "Valdaj"
     ],
     "name:eng_x_preferred":[
         "Valday"
@@ -56,17 +50,17 @@
     "name:est_x_preferred":[
         "Valdai"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0644\u062f\u0627\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Valdai"
     ],
     "name:fra_x_preferred":[
         "Valday"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Valda\u00ef"
-    ],
-    "name:ger_x_preferred":[
-        "Waldai"
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05dc\u05d3\u05d0\u05d9"
@@ -92,8 +86,11 @@
     "name:lit_x_preferred":[
         "Valdajus"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0412\u0430\u043b\u0434\u0430\u0458"
+    ],
+    "name:nld_x_preferred":[
+        "Valdaj"
     ],
     "name:nno_x_preferred":[
         "Valdaj"
@@ -101,13 +98,10 @@
     "name:nob_x_preferred":[
         "Valdaj"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0627\u0644\u062f\u0627\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Wa\u0142daj"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Valdai"
     ],
     "name:rus_x_preferred":[
@@ -143,6 +137,9 @@
     "name:war_x_preferred":[
         "Valday"
     ],
+    "name:zho_x_preferred":[
+        "\u74e6\u5c14\u4ee3"
+    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"5300400100000",
@@ -166,7 +163,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688095
+        85688095,
+        1108737291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -188,7 +186,7 @@
         }
     ],
     "wof:id":102002635,
-    "wof:lastmodified":1514503826,
+    "wof:lastmodified":1561831729,
     "wof:name":"Valday",
     "wof:parent_id":1108737291,
     "wof:placetype":"locality",

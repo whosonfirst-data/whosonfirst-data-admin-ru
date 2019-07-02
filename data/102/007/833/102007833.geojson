@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001648,
-    "geom:area_square_m":14301809.694967,
+    "geom:area_square_m":14301809.694964,
     "geom:bbox":"40.5345840454,45.4124717712,40.6032485962,45.4459991455",
     "geom:latitude":45.429272,
     "geom:longitude":40.567716,
@@ -23,9 +23,6 @@
     "name:ara_x_preferred":[
         "\u0643\u0631\u0648\u0628\u0648\u062a\u0643\u064a\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0580\u0578\u057a\u0578\u057f\u056f\u056b\u0576"
-    ],
     "name:azb_x_preferred":[
         "\u067e\u062a\u0631 \u06a9\u0631\u0648\u067e\u0648\u062a\u06a9\u06cc\u0646"
     ],
@@ -38,19 +35,16 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u043e\u043f\u043e\u0442\u043a\u0438\u043d"
     ],
+    "name:ces_x_preferred":[
+        "Kropotkin"
+    ],
     "name:che_x_preferred":[
         "\u041a\u0440\u043e\u043f\u043e\u0442\u043a\u0438\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u9b6f\u6ce1\u7279\u91d1"
-    ],
-    "name:cze_x_preferred":[
+    "name:deu_x_preferred":[
         "Kropotkin"
     ],
     "name:diq_x_preferred":[
-        "Kropotkin"
-    ],
-    "name:dut_x_preferred":[
         "Kropotkin"
     ],
     "name:eng_x_preferred":[
@@ -68,20 +62,20 @@
     "name:fra_x_preferred":[
         "Kropotkine"
     ],
-    "name:fre_x_preferred":[
-        "Kropotkine"
-    ],
-    "name:ger_x_preferred":[
-        "Kropotkin"
-    ],
     "name:hsb_x_preferred":[
         "Kropotkin"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0580\u0578\u057a\u0578\u057f\u056f\u056b\u0576"
     ],
     "name:ita_x_preferred":[
         "Kropotkin"
     ],
     "name:lit_x_preferred":[
         "Kropotkinas"
+    ],
+    "name:nld_x_preferred":[
+        "Kropotkin"
     ],
     "name:nno_x_preferred":[
         "Kropotkin i Krasnodar kraj"
@@ -92,9 +86,6 @@
     "name:nor_x_preferred":[
         "Kropotkin"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0631\u0648\u067e\u062a\u06a9\u06cc\u0646\u060c \u06a9\u0631\u0627\u0633\u0646\u0648\u062f\u0627\u0631"
-    ],
     "name:pnb_x_preferred":[
         "\u06a9\u0631\u0648\u067e\u0648\u062a\u06a9\u0646"
     ],
@@ -104,7 +95,7 @@
     "name:por_x_preferred":[
         "Kropotkin"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kropotkin"
     ],
     "name:rus_x_preferred":[
@@ -261,7 +252,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688029
+        85688029,
+        1108734307
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -283,7 +275,7 @@
         }
     ],
     "wof:id":102007833,
-    "wof:lastmodified":1514501949,
+    "wof:lastmodified":1561831673,
     "wof:name":"Kropotkin",
     "wof:parent_id":1108734307,
     "wof:placetype":"locality",

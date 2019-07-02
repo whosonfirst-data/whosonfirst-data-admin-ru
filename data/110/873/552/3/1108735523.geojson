@@ -53,17 +53,14 @@
     "mps:longitude":37.835978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0546\u0578\u057e\u0578\u0585\u057d\u056f\u0578\u056c\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:che_x_preferred":[
         "\u041d\u043e\u0432\u0438 \u041e\u0441\u043a\u043e\u043b\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u65b0\u5965\u65af\u79d1\u5c14\u533a"
+    "name:cym_x_preferred":[
+        "Novooskolsky District"
     ],
-    "name:dut_x_preferred":[
-        "Novooskolskiy rayon"
+    "name:deu_x_preferred":[
+        "Nowooskolski rajon"
     ],
     "name:eng_x_preferred":[
         "Novooskol'skiy"
@@ -71,14 +68,17 @@
     "name:eng_x_variant":[
         "Novooskol'skij"
     ],
-    "name:ger_x_preferred":[
-        "Nowooskolski rajon"
-    ],
     "name:hun_x_preferred":[
         "Novij Oszkol-i j\u00e1r\u00e1s"
     ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u057e\u0578\u0585\u057d\u056f\u0578\u056c\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ita_x_preferred":[
         "Novooskol'skij rajon"
+    ],
+    "name:nld_x_preferred":[
+        "Novooskolskiy rayon"
     ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043e\u0441\u043a\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -92,8 +92,8 @@
     "name:vie_x_preferred":[
         "Novooskolsky"
     ],
-    "name:wel_x_preferred":[
-        "Novooskolsky District"
+    "name:zho_x_preferred":[
+        "\u65b0\u5965\u65af\u79d1\u5c14\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":1108735523,
-    "wof:lastmodified":1561582030,
+    "wof:lastmodified":1561832362,
     "wof:name":"Novooskol'skiy",
     "wof:parent_id":85687813,
     "wof:placetype":"county",

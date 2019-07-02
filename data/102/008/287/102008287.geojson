@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001014,
-    "geom:area_square_m":6536697.810578,
+    "geom:area_square_m":6536697.810582,
     "geom:bbox":"55.6406402588,58.5580825806,55.7301940918,58.5866661072",
     "geom:latitude":58.570076,
     "geom:longitude":55.688071,
@@ -16,9 +16,6 @@
     "mps:longitude":55.68875,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053b\u056c\u056b\u0576\u057d\u056f\u056b\u0575"
-    ],
     "name:eng_x_preferred":[
         "Il'inskiy"
     ],
@@ -27,6 +24,9 @@
     ],
     "name:hun_x_preferred":[
         "Iljinszkij"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u056c\u056b\u0576\u057d\u056f\u056b\u0575"
     ],
     "name:nor_x_preferred":[
         "Ilinskij"
@@ -59,7 +59,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85687975
+        85687975,
+        1108733981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":102008287,
-    "wof:lastmodified":1553815712,
+    "wof:lastmodified":1561831682,
     "wof:name":"Ilinskiy",
     "wof:parent_id":1108733981,
     "wof:placetype":"locality",

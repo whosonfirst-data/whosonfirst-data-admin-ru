@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.003383,
-    "geom:area_square_m":30192183.28615,
+    "geom:area_square_m":30192183.286163,
     "geom:bbox":"131.928909302,43.7728347778,132.017028809,43.84349823",
     "geom:latitude":43.806664,
     "geom:longitude":131.967239,
@@ -40,17 +40,17 @@
     "name:cat_x_preferred":[
         "Ussuri\u00efsk"
     ],
-    "name:chi_x_preferred":[
-        "\u53cc\u57ce\u5b50"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ussurijsk"
     ],
     "name:dan_x_preferred":[
         "Ussuriysk"
     ],
-    "name:dut_x_preferred":[
-        "Oessoeriejsk"
+    "name:deu_x_preferred":[
+        "Ussurijsk"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03c3\u03bf\u03c5\u03c1\u03af\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Ussuriysk"
@@ -61,17 +61,14 @@
     "name:est_x_preferred":[
         "Ussuriisk"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0633\u0648\u0631\u06cc\u06cc\u0633\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Ussurijsk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Oussouriisk"
-    ],
-    "name:ger_x_preferred":[
-        "Ussurijsk"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03c3\u03bf\u03c5\u03c1\u03af\u03c3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0ab8\u0acd\u0ab8\u0ac1\u0ab0\u0abf\u0a85\u0ab8\u0acd\u0a95"
@@ -118,14 +115,17 @@
     "name:mar_x_preferred":[
         "\u0909\u0938\u094d\u0938\u0941\u0930\u0940\u0905\u0938\u094d\u0915"
     ],
-    "name:may_x_preferred":[
-        "Ussuriysk"
-    ],
     "name:mhr_x_preferred":[
         "\u0423\u0441\u0441\u0443\u0440\u0438\u0439\u0441\u043a"
     ],
+    "name:msa_x_preferred":[
+        "Ussuriysk"
+    ],
     "name:nan_x_preferred":[
         "Ussuriysk"
+    ],
+    "name:nld_x_preferred":[
+        "Oessoeriejsk"
     ],
     "name:nno_x_preferred":[
         "Ussurijsk"
@@ -139,9 +139,6 @@
     "name:oss_x_preferred":[
         "\u0423\u0441\u0441\u0443\u0440\u0438\u0439\u0441\u043a"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0633\u0648\u0631\u06cc\u06cc\u0633\u06a9"
-    ],
     "name:pnb_x_preferred":[
         "\u0627\u0648\u0633\u0648\u0631\u06cc\u0626\u0633\u06a9"
     ],
@@ -151,7 +148,7 @@
     "name:por_x_preferred":[
         "Ussurijsk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ussuriisk"
     ],
     "name:rus_x_preferred":[
@@ -207,6 +204,9 @@
     ],
     "name:yue_x_preferred":[
         "\u96d9\u57ce\u5b50"
+    ],
+    "name:zho_x_preferred":[
+        "\u53cc\u57ce\u5b50"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -349,7 +349,7 @@
         }
     ],
     "wof:id":102001759,
-    "wof:lastmodified":1534985983,
+    "wof:lastmodified":1561831689,
     "wof:name":"Ussuriysk",
     "wof:parent_id":1108737217,
     "wof:placetype":"locality",

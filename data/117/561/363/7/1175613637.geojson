@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001098,
-    "geom:area_square_m":1503092.022114,
+    "geom:area_square_m":7773213.258607,
     "geom:bbox":"67.8523864746,55.0524711609,67.9639968872,55.1118049622",
     "geom:latitude":55.073608,
     "geom:longitude":67.897449,
@@ -38,11 +38,8 @@
     "name:che_x_preferred":[
         "\u041f\u0435\u0442\u0443\u0445\u043e\u0432\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u4f69\u5716\u970d\u6c83"
-    ],
-    "name:dut_x_preferred":[
-        "Petoechovo"
+    "name:deu_x_preferred":[
+        "Petuchowo"
     ],
     "name:eng_x_preferred":[
         "Petukhovo"
@@ -50,20 +47,23 @@
     "name:epo_x_preferred":[
         "Petu\u0125ovo"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u062a\u0648\u062e\u0648\u0641\u0648"
+    ],
     "name:fin_x_preferred":[
         "Petuhovo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Petoukhovo"
-    ],
-    "name:ger_x_preferred":[
-        "Petuchowo"
     ],
     "name:hsb_x_preferred":[
         "Petuchowo"
     ],
     "name:ita_x_preferred":[
         "Petuchovo"
+    ],
+    "name:nld_x_preferred":[
+        "Petoechovo"
     ],
     "name:nno_x_preferred":[
         "Petukhovo"
@@ -73,9 +73,6 @@
     ],
     "name:nor_x_preferred":[
         "Petukhovo"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u062a\u0648\u062e\u0648\u0641\u0648"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0442\u0443\u0445\u043e\u0432\u043e"
@@ -103,6 +100,9 @@
     ],
     "name:war_x_preferred":[
         "Petukhovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u5716\u970d\u6c83"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -152,7 +152,7 @@
         }
     ],
     "wof:id":1175613637,
-    "wof:lastmodified":1534985986,
+    "wof:lastmodified":1561832441,
     "wof:name":"Petukhovo",
     "wof:parent_id":1108735855,
     "wof:placetype":"locality",

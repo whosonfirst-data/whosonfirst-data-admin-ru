@@ -15,17 +15,8 @@
     "lbl:longitude":61.50333,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0549\u0565\u056c\u0575\u0561\u0562\u056b\u0576\u057d\u056f"
-    ],
-    "name:chi_x_preferred":[
-        "\u8eca\u91cc\u96c5\u8cd3\u65af\u514b\u6a5f\u5834"
-    ],
     "name:deu_x_preferred":[
         "Flughafen Tscheljabinsk"
-    ],
-    "name:dut_x_preferred":[
-        "Tsjeljabinsk"
     ],
     "name:eng_x_preferred":[
         "Chelyabinsk Airport"
@@ -40,14 +31,14 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Tcheliabinsk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "a\u00e9roport de Tcheliabinsk"
-    ],
-    "name:ger_x_preferred":[
-        "Flughafen Tscheljabinsk"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05e6'\u05dc\u05d9\u05d0\u05d1\u05d9\u05e0\u05e1\u05e7"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0565\u056c\u0575\u0561\u0562\u056b\u0576\u057d\u056f"
     ],
     "name:ita_x_preferred":[
         "Aeroporto di \u010celjabinsk"
@@ -58,20 +49,17 @@
     "name:kor_x_preferred":[
         "\uccbc\ub7b4\ube48\uc2a4\ud06c \uacf5\ud56d"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang Balandino"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Balandino"
+    ],
+    "name:nld_x_preferred":[
+        "Tsjeljabinsk"
     ],
     "name:nno_x_preferred":[
         "Tsjeljabinsk lufthamn"
     ],
     "name:nob_x_preferred":[
         "Tsjeljabinsk lufthavn"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0686\u0644\u06cc\u0627\u0628\u06cc\u0646\u0633\u06a9"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Czelabi\u0144sk"
@@ -139,7 +127,7 @@
         }
     ],
     "wof:id":102540151,
-    "wof:lastmodified":1527638105,
+    "wof:lastmodified":1561831736,
     "wof:name":"Chelyabinsk Balandino Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

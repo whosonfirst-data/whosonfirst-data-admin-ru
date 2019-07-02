@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000604,
-    "geom:area_square_m":4628666.80187,
+    "geom:area_square_m":4628666.801868,
     "geom:bbox":"35.2444458008,51.6819725037,35.3030281067,51.7020568848",
     "geom:latitude":51.691545,
     "geom:longitude":35.27178,
@@ -21,9 +21,6 @@
     "name:ara_x_preferred":[
         "\u0644\u063a\u0648\u0641"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u0563\u0578\u057e"
-    ],
     "name:azb_x_preferred":[
         "\u0644\u0642\u0648\u0648"
     ],
@@ -33,14 +30,11 @@
     "name:cat_x_preferred":[
         "Lgov"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u6208\u592b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Lgov"
     ],
-    "name:dut_x_preferred":[
-        "Lgov"
+    "name:deu_x_preferred":[
+        "Lgow"
     ],
     "name:eng_x_preferred":[
         "L'govskiy"
@@ -51,23 +45,29 @@
     "name:est_x_preferred":[
         "Lgov"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06af\u0648\u0641"
+    ],
     "name:fin_x_preferred":[
         "Lgov"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lgov"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d2\u10dd\u10d5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Lgow"
     ],
     "name:hsb_x_preferred":[
         "Lgow"
     ],
+    "name:hye_x_preferred":[
+        "\u053c\u0563\u0578\u057e"
+    ],
     "name:ita_x_preferred":[
         "L'gov"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d2\u10dd\u10d5\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Lgov"
     ],
     "name:nno_x_preferred":[
         "Lgov"
@@ -77,9 +77,6 @@
     ],
     "name:nor_x_preferred":[
         "Lgov"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u06af\u0648\u0641"
     ],
     "name:pol_x_preferred":[
         "Lgow"
@@ -116,6 +113,9 @@
     ],
     "name:xal_x_preferred":[
         "\u041b\u044c\u0433\u043e\u0432 \u0431\u0430\u043b\u04bb\u0441\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u6208\u592b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -232,7 +232,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688011
+        85688011,
+        1108734875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -254,7 +255,7 @@
         }
     ],
     "wof:id":102005405,
-    "wof:lastmodified":1514501998,
+    "wof:lastmodified":1561831725,
     "wof:name":"L'Gov",
     "wof:parent_id":1108734875,
     "wof:placetype":"locality",

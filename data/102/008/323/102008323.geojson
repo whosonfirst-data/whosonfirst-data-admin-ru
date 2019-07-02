@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000475,
-    "geom:area_square_m":3077520.379026,
+    "geom:area_square_m":3077520.379029,
     "geom:bbox":"54.359249115,58.368888855,54.3992500305,58.3898048401",
     "geom:latitude":58.38015,
     "geom:longitude":54.3818,
@@ -28,9 +28,6 @@
     ],
     "name:arg_x_preferred":[
         "\u015aiva"
-    ],
-    "name:arm_x_preferred":[
-        "\u054d\u056b\u057e\u0561"
     ],
     "name:asm_x_preferred":[
         "\u09b6\u09bf\u09f1"
@@ -79,9 +76,6 @@
     ],
     "name:deu_x_preferred":[
         "Shiva"
-    ],
-    "name:dut_x_preferred":[
-        "Siva"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03af\u03b2\u03b1"
@@ -136,6 +130,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0547\u056b\u057e\u0561"
+    ],
+    "name:hye_x_variant":[
+        "\u054d\u056b\u057e\u0561"
     ],
     "name:ido_x_preferred":[
         "Shiva"
@@ -202,6 +199,9 @@
     ],
     "name:nld_x_preferred":[
         "Shiva"
+    ],
+    "name:nld_x_variant":[
+        "Siva"
     ],
     "name:nno_x_preferred":[
         "Sjiva"
@@ -341,7 +341,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85687975
+        85687975,
+        1108736627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -362,7 +363,7 @@
         }
     ],
     "wof:id":102008323,
-    "wof:lastmodified":1553815712,
+    "wof:lastmodified":1561831683,
     "wof:name":"Siva",
     "wof:parent_id":1108736627,
     "wof:placetype":"locality",

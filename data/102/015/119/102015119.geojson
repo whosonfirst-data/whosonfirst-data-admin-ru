@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000159,
-    "geom:area_square_m":1257386.943705,
+    "geom:area_square_m":1257386.943707,
     "geom:bbox":"127.597045898,50.2511940002,127.616920471,50.2620162964",
     "geom:latitude":50.256688,
     "geom:longitude":127.606936,
@@ -25,14 +25,8 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u0627\u063a\u0648\u0641\u064a\u0634\u062a\u0634\u064a\u0646\u0633\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u056c\u0561\u0563\u0578\u057e\u0565\u0577\u0579\u0565\u0576\u057d\u056f"
-    ],
     "name:azb_x_preferred":[
         "\u0628\u0644\u0627\u0642\u0648\u0648\u0634\u0686\u0646\u0633\u06a9"
-    ],
-    "name:baq_x_preferred":[
-        "Blagovextxensk"
     ],
     "name:bel_x_preferred":[
         "\u0411\u043b\u0430\u0433\u0430\u0432\u0435\u0448\u0447\u0430\u043d\u0441\u043a"
@@ -49,23 +43,26 @@
     "name:cat_x_preferred":[
         "Blagov\u00e9sxensk"
     ],
+    "name:ces_x_preferred":[
+        "Blagov\u011b\u0161\u010densk"
+    ],
     "name:che_x_preferred":[
         "\u0411\u043b\u0430\u0433\u043e\u0432\u0435\u0449\u0435\u043d\u0441\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u6d77\u5170\u6ce1"
-    ],
-    "name:cze_x_preferred":[
-        "Blagov\u011b\u0161\u010densk"
+    "name:cym_x_preferred":[
+        "Blagoveshchensk"
     ],
     "name:dan_x_preferred":[
         "Blagovesjtjensk"
     ],
+    "name:deu_x_preferred":[
+        "Blagoweschtschensk"
+    ],
     "name:diq_x_preferred":[
         "Blagoveshchensk"
     ],
-    "name:dut_x_preferred":[
-        "Blagovesjtsjensk"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bb\u03b1\u03b3\u03ba\u03bf\u03b2\u03ad\u03c3\u03b5\u03bd\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Blagoveshchensk"
@@ -76,23 +73,20 @@
     "name:est_x_preferred":[
         "Blagove\u0161t\u0161ensk"
     ],
+    "name:eus_x_preferred":[
+        "Blagovextxensk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0627\u06af\u0648\u0648\u0634\u0686\u0646\u0633\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Blagove\u0161t\u0161ensk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Blagovechtchensk"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10da\u10d0\u10d2\u10dd\u10d5\u10d4\u10e8\u10e9\u10d4\u10dc\u10e1\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Blagoweschtschensk"
     ],
     "name:glg_x_preferred":[
         "Blagoveshchensk"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bb\u03b1\u03b3\u03ba\u03bf\u03b2\u03ad\u03c3\u03b5\u03bd\u03c3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab2\u0ac7\u0a97\u0acb\u0ab5\u0ac7\u0ab6\u0acd\u0a9a\u0ac7\u0aa8\u0acd\u0ab8\u0acd\u0a95"
@@ -112,6 +106,9 @@
     "name:hun_x_preferred":[
         "Blagovescsenszk"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u056c\u0561\u0563\u0578\u057e\u0565\u0577\u0579\u0565\u0576\u057d\u056f"
+    ],
     "name:ind_x_preferred":[
         "Blagoveshchensk"
     ],
@@ -123,6 +120,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0ccd\u0cb2\u0cbe\u0c97\u0cca\u0cb5\u0cc6\u0cb6\u0ccd\u0c9a\u0cc6\u0cb8\u0ccd\u0c95\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10da\u10d0\u10d2\u10dd\u10d5\u10d4\u10e8\u10e9\u10d4\u10dc\u10e1\u10d9\u10d8"
     ],
     "name:kir_x_preferred":[
         "\u0411\u043b\u0430\u0433\u043e\u0432\u0435\u0449\u0435\u043d\u0441\u043a \u0448\u0430\u0430\u0440\u044b"
@@ -142,20 +142,23 @@
     "name:ltz_x_preferred":[
         "Blagoweschtschensk"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u043b\u0430\u0433\u043e\u0432\u0435\u0448\u0447\u0435\u043d\u0441\u043a"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u094d\u0932\u0945\u0917\u094d\u0935\u0947\u0936\u0947\u0928\u094d\u0938\u094d\u0915"
-    ],
-    "name:may_x_preferred":[
-        "Blagoveshchensk"
     ],
     "name:mhr_x_preferred":[
         "\u0411\u043b\u0430\u0433\u043e\u0432\u0435\u0449\u0435\u043d\u0441\u043a"
     ],
+    "name:mkd_x_preferred":[
+        "\u0411\u043b\u0430\u0433\u043e\u0432\u0435\u0448\u0447\u0435\u043d\u0441\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Blagoveshchensk"
+    ],
     "name:nan_x_preferred":[
         "Blagoveshchensk"
+    ],
+    "name:nld_x_preferred":[
+        "Blagovesjtsjensk"
     ],
     "name:nno_x_preferred":[
         "Blagovesjtsjensk"
@@ -166,9 +169,6 @@
     "name:oss_x_preferred":[
         "\u0411\u043b\u0430\u0433\u043e\u0432\u0435\u0449\u0435\u043d\u0441\u043a"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0644\u0627\u06af\u0648\u0648\u0634\u0686\u0646\u0633\u06a9"
-    ],
     "name:pnb_x_preferred":[
         "\u0628\u0644\u0627\u06af\u0648\u0648\u06cc\u0634\u0686\u0646\u0633\u06a9"
     ],
@@ -178,7 +178,7 @@
     "name:por_x_preferred":[
         "Blagoveschensk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Blagove\u0219censk"
     ],
     "name:rus_x_preferred":[
@@ -190,7 +190,7 @@
     "name:sin_x_preferred":[
         "\u0db6\u0dca\u0dbd\u0dd0\u0d9c\u0ddc\u0dc0\u0dd9\u0dc3\u0dca\u0da0\u0dd9\u0db1\u0dca\u0dc3\u0dca\u0d9a\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Blagove\u0161\u010densk"
     ],
     "name:spa_x_preferred":[
@@ -247,14 +247,14 @@
     "name:war_x_preferred":[
         "Blagoveshchensk"
     ],
-    "name:wel_x_preferred":[
-        "Blagoveshchensk"
-    ],
     "name:xmf_x_preferred":[
         "\u10d1\u10da\u10d0\u10d2\u10dd\u10d5\u10d4\u10e8\u10e9\u10d4\u10dc\u10e1\u10d9\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u6d77\u862d\u6ce1"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u5170\u6ce1"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0410\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -305,7 +305,7 @@
         }
     ],
     "wof:id":102015119,
-    "wof:lastmodified":1553815715,
+    "wof:lastmodified":1561831647,
     "wof:name":"",
     "wof:parent_id":1108733017,
     "wof:placetype":"locality",

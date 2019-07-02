@@ -53,17 +53,11 @@
     "mps:longitude":45.415463,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0532\u056b\u056f\u0578\u057e\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:che_x_preferred":[
         "\u0411\u044b\u043a\u043e\u0432\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u8d1d\u79d1\u6c83\u533a"
-    ],
-    "name:dut_x_preferred":[
-        "Bikovskiy rayon"
+    "name:deu_x_preferred":[
+        "Bykowski rajon"
     ],
     "name:eng_x_preferred":[
         "Bykovskiy"
@@ -71,14 +65,17 @@
     "name:eng_x_variant":[
         "Bykovskij"
     ],
-    "name:ger_x_preferred":[
-        "Bykowski rajon"
-    ],
     "name:hun_x_preferred":[
         "Bikov\u00f3i j\u00e1r\u00e1s"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u056b\u056f\u0578\u057e\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ita_x_preferred":[
         "Bykovskij rajon"
+    ],
+    "name:nld_x_preferred":[
+        "Bikovskiy rayon"
     ],
     "name:rus_x_preferred":[
         "\u0411\u044b\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -91,6 +88,9 @@
     ],
     "name:vie_x_preferred":[
         "Bykovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u79d1\u6c83\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":1108733153,
-    "wof:lastmodified":1561582011,
+    "wof:lastmodified":1561832345,
     "wof:name":"Bykovskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

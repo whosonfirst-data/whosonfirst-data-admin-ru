@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.00047,
-    "geom:area_square_m":2500956.004205,
+    "geom:area_square_m":2500956.004208,
     "geom:bbox":"34.730304718,64.5270309448,34.7800827026,64.5455856323",
     "geom:latitude":64.536617,
     "geom:longitude":34.755811,
@@ -31,19 +31,16 @@
     "name:cat_x_preferred":[
         "Belomorsk"
     ],
+    "name:ces_x_preferred":[
+        "B\u011blomorsk"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0435\u043b\u043e\u043c\u043e\u0440\u0441\u043a"
-    ],
-    "name:chi_x_preferred":[
-        "\u767d\u6d77\u57ce"
-    ],
-    "name:cze_x_preferred":[
-        "B\u011blomorsk"
     ],
     "name:dan_x_preferred":[
         "Belomorsk"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Belomorsk"
     ],
     "name:eng_x_preferred":[
@@ -55,13 +52,13 @@
     "name:est_x_preferred":[
         "Belomorsk"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0648\u0645\u0648\u0631\u0633\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Belomorsk"
     ],
-    "name:fre_x_preferred":[
-        "Belomorsk"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Belomorsk"
     ],
     "name:hsb_x_preferred":[
@@ -82,6 +79,9 @@
     "name:lit_x_preferred":[
         "Belomorskas"
     ],
+    "name:nld_x_preferred":[
+        "Belomorsk"
+    ],
     "name:nno_x_preferred":[
         "Belomorsk"
     ],
@@ -93,9 +93,6 @@
     ],
     "name:olo_x_preferred":[
         "Belomorsku"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0644\u0648\u0645\u0648\u0631\u0633\u06a9"
     ],
     "name:pol_x_preferred":[
         "Bie\u0142omorsk"
@@ -135,6 +132,9 @@
     ],
     "name:war_x_preferred":[
         "Belomorsk"
+    ],
+    "name:zho_x_preferred":[
+        "\u767d\u6d77\u57ce"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -280,7 +280,7 @@
         }
     ],
     "wof:id":102001951,
-    "wof:lastmodified":1534985983,
+    "wof:lastmodified":1561831689,
     "wof:name":"Belomorsk",
     "wof:parent_id":890483561,
     "wof:placetype":"locality",

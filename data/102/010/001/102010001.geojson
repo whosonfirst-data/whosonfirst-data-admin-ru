@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000262,
-    "geom:area_square_m":1894132.512617,
+    "geom:area_square_m":1894132.512616,
     "geom:bbox":"45.1200180054,54.2240600586,45.1459083557,54.2373962402",
     "geom:latitude":54.230429,
     "geom:longitude":45.133533,
@@ -26,9 +26,6 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0631\u0627\u0646\u0633\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0580\u0561\u0576\u057d\u056f"
-    ],
     "name:azb_x_preferred":[
         "\u0633\u0627\u0631\u0627\u0646\u0633\u06a9"
     ],
@@ -37,9 +34,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043d\u0441\u043a"
-    ],
-    "name:baq_x_preferred":[
-        "Saransk"
     ],
     "name:bel_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043d\u0441\u043a"
@@ -56,26 +50,29 @@
     "name:cat_x_preferred":[
         "Saransk"
     ],
+    "name:ces_x_preferred":[
+        "Saransk"
+    ],
     "name:che_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043d\u0441\u043a"
-    ],
-    "name:chi_x_preferred":[
-        "\u8428\u5170\u65af\u514b"
     ],
     "name:chv_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043d\u0441\u043a"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Saransk"
     ],
     "name:dan_x_preferred":[
         "Saransk"
     ],
+    "name:deu_x_preferred":[
+        "Saransk"
+    ],
     "name:diq_x_preferred":[
         "Saransk"
     ],
-    "name:dut_x_preferred":[
-        "Saransk"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c1\u03ac\u03bd\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Saransk"
@@ -86,17 +83,17 @@
     "name:est_x_preferred":[
         "Saransk"
     ],
+    "name:eus_x_preferred":[
+        "Saransk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0631\u0627\u0646\u0633\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Saransk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Saransk"
-    ],
-    "name:ger_x_preferred":[
-        "Saransk"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03c1\u03ac\u03bd\u03c3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0ab0\u0abe\u0aa8\u0acd\u0ab8\u0acd\u0a95"
@@ -118,6 +115,9 @@
     ],
     "name:hun_x_preferred":[
         "Szaranszk"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0580\u0561\u0576\u057d\u056f"
     ],
     "name:ile_x_preferred":[
         "Saransk"
@@ -149,14 +149,8 @@
     "name:lit_x_preferred":[
         "Saranskas"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u0440\u0430\u043d\u0441\u043a"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u0930\u093e\u0928\u094d\u0938\u094d\u0915"
-    ],
-    "name:may_x_preferred":[
-        "Saransk"
     ],
     "name:mdf_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043d\u043e\u0448"
@@ -164,8 +158,17 @@
     "name:mhr_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043d\u0441\u043a"
     ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u043d\u0441\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Saransk"
+    ],
     "name:myv_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043d \u043e\u0448"
+    ],
+    "name:nld_x_preferred":[
+        "Saransk"
     ],
     "name:nno_x_preferred":[
         "Saransk"
@@ -179,9 +182,6 @@
     "name:oss_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043d\u0441\u043a"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0631\u0627\u0646\u0633\u06a9"
-    ],
     "name:pnb_x_preferred":[
         "\u0633\u0631\u0627\u0646\u0633\u06a9"
     ],
@@ -191,7 +191,7 @@
     "name:por_x_preferred":[
         "Saransk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Saransk"
     ],
     "name:rus_x_preferred":[
@@ -251,9 +251,6 @@
     "name:war_x_preferred":[
         "Saransk"
     ],
-    "name:wel_x_preferred":[
-        "Saransk"
-    ],
     "name:xal_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043d\u0441\u043a \u0431\u0430\u043b\u04bb\u0441\u043d"
     ],
@@ -262,6 +259,9 @@
     ],
     "name:yue_x_preferred":[
         "\u85a9\u862d\u65af\u514b"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u5170\u65af\u514b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -404,7 +404,7 @@
         }
     ],
     "wof:id":102010001,
-    "wof:lastmodified":1527637800,
+    "wof:lastmodified":1561831705,
     "wof:name":"",
     "wof:parent_id":1108733857,
     "wof:placetype":"locality",

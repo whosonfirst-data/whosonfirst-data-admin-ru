@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001035,
-    "geom:area_square_m":6573649.725017,
+    "geom:area_square_m":6573649.725015,
     "geom:bbox":"28.1303062439,59.085609436,28.1851940155,59.1208343506",
     "geom:latitude":59.103956,
     "geom:longitude":28.159152,
@@ -20,9 +20,6 @@
     "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0633\u0644\u0627\u0646\u062a\u0633\u064a"
-    ],
-    "name:arm_x_preferred":[
-        "\u054d\u056c\u0561\u0576\u0581\u056b"
     ],
     "name:azb_x_preferred":[
         "\u0633\u0644\u0627\u0646\u062a\u0633\u06cc"
@@ -39,16 +36,10 @@
     "name:che_x_preferred":[
         "\u0421\u043b\u0430\u043d\u0446\u044b"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u862d\u9f4a"
-    ],
     "name:deu_x_preferred":[
         "Slanzy"
     ],
     "name:diq_x_preferred":[
-        "Slantsy"
-    ],
-    "name:dut_x_preferred":[
         "Slantsy"
     ],
     "name:eng_x_preferred":[
@@ -66,17 +57,14 @@
     "name:fin_x_preferred":[
         "Slantsy"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Slantsy"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10da\u10d0\u10dc\u10ea\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Slanzy"
     ],
     "name:hsb_x_preferred":[
         "Slancy"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056c\u0561\u0576\u0581\u056b"
     ],
     "name:ita_x_preferred":[
         "Slancy"
@@ -96,6 +84,9 @@
     "name:lit_x_preferred":[
         "Slancai"
     ],
+    "name:nld_x_preferred":[
+        "Slantsy"
+    ],
     "name:nno_x_preferred":[
         "Slantsy"
     ],
@@ -107,9 +98,6 @@
     ],
     "name:oci_x_preferred":[
         "Slantsy"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u0644\u0627\u0646\u062a\u0633\u06cc"
     ],
     "name:pol_x_preferred":[
         "S\u0142ancy"
@@ -268,7 +256,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85687861
+        85687861,
+        1108736641
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -289,7 +278,7 @@
         }
     ],
     "wof:id":102002403,
-    "wof:lastmodified":1514503321,
+    "wof:lastmodified":1561831735,
     "wof:name":"Slantsy",
     "wof:parent_id":1108736641,
     "wof:placetype":"locality",

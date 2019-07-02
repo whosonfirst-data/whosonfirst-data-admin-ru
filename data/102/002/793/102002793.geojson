@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003014,
-    "geom:area_square_m":20378149.975121,
+    "geom:area_square_m":20378149.975122,
     "geom:bbox":"41.3287811279,56.8309516907,41.435131073,56.8764724731",
     "geom:latitude":56.852754,
     "geom:longitude":41.373594,
@@ -36,20 +36,14 @@
     "name:cat_x_preferred":[
         "X\u00faia"
     ],
+    "name:ces_x_preferred":[
+        "\u0160uja"
+    ],
     "name:che_x_preferred":[
         "\u0428\u0443\u044f"
     ],
-    "name:chi_x_preferred":[
-        "\u8212\u4e9a"
-    ],
-    "name:cze_x_preferred":[
-        "\u0160uja"
-    ],
     "name:deu_x_preferred":[
         "Schuja"
-    ],
-    "name:dut_x_preferred":[
-        "Sjoeja"
     ],
     "name:eng_x_preferred":[
         "Shuya"
@@ -68,12 +62,6 @@
     ],
     "name:fra_x_preferred":[
         "Chou\u00efa"
-    ],
-    "name:fre_x_preferred":[
-        "Chou\u00efa"
-    ],
-    "name:ger_x_preferred":[
-        "Schuja"
     ],
     "name:hrv_x_preferred":[
         "\u0160uja"
@@ -96,14 +84,14 @@
     "name:ltz_x_preferred":[
         "Schuja"
     ],
-    "name:mac_x_preferred":[
-        "\u0428\u0443\u0458\u0430"
-    ],
     "name:mkd_x_preferred":[
         "\u0428\u0443\u0458\u0430"
     ],
     "name:myv_x_preferred":[
         "\u0428\u0443\u044f"
+    ],
+    "name:nld_x_preferred":[
+        "Sjoeja"
     ],
     "name:nno_x_preferred":[
         "Sjuja"
@@ -117,9 +105,6 @@
     "name:oss_x_preferred":[
         "\u0428\u0443\u044f"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0648\u06cc\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u0634\u0648\u06cc\u0627"
     ],
@@ -129,7 +114,7 @@
     "name:ron_x_preferred":[
         "\u0218uia"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Shuya"
     ],
     "name:rus_x_preferred":[
@@ -289,7 +274,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688153
+        85688153,
+        1108736605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -311,7 +297,7 @@
         }
     ],
     "wof:id":102002793,
-    "wof:lastmodified":1514503312,
+    "wof:lastmodified":1561831732,
     "wof:name":"Shuya",
     "wof:parent_id":1108736605,
     "wof:placetype":"locality",

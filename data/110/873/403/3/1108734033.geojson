@@ -53,20 +53,14 @@
     "mps:longitude":45.393206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053b\u057f\u0578\u0582\u0574-\u053f\u0561\u056c\u056b\u0576\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
+    "name:ces_x_preferred":[
+        "Itum-Kali"
     ],
     "name:che_x_preferred":[
         "\u0418\u0442\u043e\u043d-\u041a\u0445\u0430\u044c\u043b\u043b\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u5716-\u5361\u9023\u65af\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "Itum-Kali"
-    ],
-    "name:dut_x_preferred":[
-        "District Itoem-Kalinski"
+    "name:deu_x_preferred":[
+        "Itum-Kalinski rajon"
     ],
     "name:eng_x_preferred":[
         "Itum-Kalinskiy"
@@ -75,14 +69,17 @@
         "Itum-Kalinskij",
         "Itum-Kalinskiy"
     ],
-    "name:ger_x_preferred":[
-        "Itum-Kalinski rajon"
-    ],
     "name:hun_x_preferred":[
         "Itum-kalei j\u00e1r\u00e1s"
     ],
+    "name:hye_x_preferred":[
+        "\u053b\u057f\u0578\u0582\u0574-\u053f\u0561\u056c\u056b\u0576\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ita_x_preferred":[
         "Itum-Kalinskij rajon"
+    ],
+    "name:nld_x_preferred":[
+        "District Itoem-Kalinski"
     ],
     "name:oss_x_preferred":[
         "\u0418\u0442\u0443\u043c-\u041a\u0430\u043b\u0435\u0439\u044b \u0440\u0430\u0439\u043e\u043d"
@@ -104,6 +101,9 @@
     ],
     "name:war_x_preferred":[
         "Itum-Kalinsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5716-\u5361\u9023\u65af\u5dde"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1108734033,
-    "wof:lastmodified":1561582087,
+    "wof:lastmodified":1561832417,
     "wof:name":"Itum-Kalinskiy",
     "wof:parent_id":85688015,
     "wof:placetype":"county",

@@ -53,17 +53,11 @@
     "mps:longitude":135.023882,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054a\u0578\u056a\u0561\u0580\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:che_x_preferred":[
         "\u041f\u043e\u0436\u0430\u0440\u0441\u043a\u0438\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u624e\u723e\u65af\u57fa\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Pozharsky District"
+    "name:deu_x_preferred":[
+        "Poscharski rajon"
     ],
     "name:eng_x_preferred":[
         "Pozharskiy"
@@ -71,17 +65,20 @@
     "name:eng_x_variant":[
         "Pozharskij"
     ],
-    "name:ger_x_preferred":[
-        "Poscharski rajon"
-    ],
     "name:hun_x_preferred":[
         "Pozsarszkij j\u00e1r\u00e1s"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u056a\u0561\u0580\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Po\u017earskij rajon"
     ],
     "name:kor_x_preferred":[
         "\ud3ec\uc790\ub974\uc2a4\ud0a4 \uad70"
+    ],
+    "name:nld_x_preferred":[
+        "Pozharsky District"
     ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0436\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -97,6 +94,9 @@
     ],
     "name:vie_x_preferred":[
         "Pozharsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u624e\u723e\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -135,7 +135,7 @@
         }
     ],
     "wof:id":1108735957,
-    "wof:lastmodified":1561581950,
+    "wof:lastmodified":1561832292,
     "wof:name":"Pozharskiy",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

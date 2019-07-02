@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000451,
-    "geom:area_square_m":3116920.513875,
+    "geom:area_square_m":3116920.513873,
     "geom:bbox":"50.4348602295,56.0,50.4697494507,56.0179443359",
     "geom:latitude":56.008809,
     "geom:longitude":50.452398,
@@ -19,20 +19,20 @@
     "mps:longitude":50.452398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u0563\u0561\u057f\u056b\u0565 \u054d\u0561\u0562\u056b"
-    ],
     "name:bak_x_preferred":[
         "\u0411\u0430\u0439\u043b\u0430\u0440 \u0421\u0430\u0431\u0430\u04bb\u044b"
     ],
     "name:che_x_preferred":[
         "\u0411\u043e\u0433\u0430\u0442\u044b\u0435 \u0421\u0430\u0431\u044b"
     ],
+    "name:deu_x_preferred":[
+        "Bogatyje Saby"
+    ],
     "name:eng_x_preferred":[
         "Bogatyye Saby"
     ],
-    "name:ger_x_preferred":[
-        "Bogatyje Saby"
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0563\u0561\u057f\u056b\u0565 \u054d\u0561\u0562\u056b"
     ],
     "name:nor_x_preferred":[
         "Bogatye Saby"
@@ -69,7 +69,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688065
+        85688065,
+        1108736353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":102009027,
-    "wof:lastmodified":1553815713,
+    "wof:lastmodified":1561831679,
     "wof:name":"Bogatyye Saby",
     "wof:parent_id":1108736353,
     "wof:placetype":"locality",

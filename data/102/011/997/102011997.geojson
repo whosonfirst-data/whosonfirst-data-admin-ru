@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006381,
-    "geom:area_square_m":43653512.535173,
+    "geom:area_square_m":43653512.535179,
     "geom:bbox":"61.8723335266,56.3591651917,62.0261650085,56.4725837708",
     "geom:latitude":56.410846,
     "geom:longitude":61.946045,
@@ -22,9 +22,6 @@
     "mz:min_zoom":6.7,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u064a\u0646\u0633\u0643-\u0623\u0648\u0631\u0627\u0644\u0633\u0643\u064a"
-    ],
-    "name:arm_x_preferred":[
-        "\u053f\u0561\u0574\u0565\u0576\u057d\u056f-\u0548\u0582\u0580\u0561\u056c\u057d\u056f\u056b"
     ],
     "name:azb_x_preferred":[
         "\u06a9\u0627\u0645\u0646\u0633\u06a9-\u0627\u0648\u0631\u0627\u0644\u0633\u06a9\u06cc\u06cc"
@@ -50,20 +47,11 @@
     "name:ces_x_preferred":[
         "Kamensk-Uralskij"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u62c9\u723e\u5730\u5340\u5361\u7dec\u65af\u514b"
-    ],
-    "name:cze_x_preferred":[
-        "Kamensk-Uralskij"
-    ],
     "name:dan_x_preferred":[
         "Kamensk-Uralsky"
     ],
     "name:deu_x_preferred":[
         "Kamensk-Uralski"
-    ],
-    "name:dut_x_preferred":[
-        "Kamensk-Oeralski"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03ac\u03bc\u03b5\u03bd\u03c3\u03ba \u039f\u03c5\u03c1\u03ac\u03bb\u03c3\u03ba\u03b9"
@@ -86,15 +74,6 @@
     "name:fra_x_preferred":[
         "Kamensk-Ouralski"
     ],
-    "name:fre_x_preferred":[
-        "Kamensk-Ouralski"
-    ],
-    "name:ger_x_preferred":[
-        "Kamensk-Uralski"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03bc\u03b5\u03bd\u03c3\u03ba \u039f\u03c5\u03c1\u03ac\u03bb\u03c3\u03ba\u03b9"
-    ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0aae\u0ac7\u0aa8\u0acd\u0ab8\u0acd\u0a95-\u0a89\u0ab0\u0abe\u0ab2\u0ab8\u0acd\u0a95\u0ac0"
     ],
@@ -106,6 +85,9 @@
     ],
     "name:hsb_x_preferred":[
         "Kamjensk-Uralskij"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0574\u0565\u0576\u057d\u056f-\u0548\u0582\u0580\u0561\u056c\u057d\u056f\u056b"
     ],
     "name:ind_x_preferred":[
         "Kamensk-Uralsky"
@@ -131,17 +113,17 @@
     "name:lit_x_preferred":[
         "Uralo Kamenskas"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u043c\u0435\u043d\u0441\u043a-\u0423\u0440\u0430\u0459\u0441\u043a\u0438"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u092e\u0938\u0947\u0902\u0915-\u090a\u0930\u093e\u0932\u0938\u094d\u200d\u0915\u0940"
     ],
-    "name:may_x_preferred":[
-        "Kamensk-Uralsky"
-    ],
     "name:mhr_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u0441\u043a-\u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0441\u043a-\u0423\u0440\u0430\u0459\u0441\u043a\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Kamensk-Uralsky"
     ],
     "name:nld_x_preferred":[
         "Kamensk-Oeralski"
@@ -158,9 +140,6 @@
     "name:oss_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u0441\u043a-\u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u0645\u0646\u0633\u06a9-\u0627\u0648\u0631\u0627\u0644\u0633\u06a9\u06cc\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u06a9\u0627\u0645\u0646\u0633\u06a9 \u0627\u0648\u0631\u0627\u0644\u0633\u06a9\u06cc"
     ],
@@ -171,9 +150,6 @@
         "Kamensk-Uralsky"
     ],
     "name:ron_x_preferred":[
-        "Kamensk-Uralski"
-    ],
-    "name:rum_x_preferred":[
         "Kamensk-Uralski"
     ],
     "name:rus_x_preferred":[
@@ -374,7 +350,7 @@
         }
     ],
     "wof:id":102011997,
-    "wof:lastmodified":1527637586,
+    "wof:lastmodified":1561831695,
     "wof:name":"Kamensk-Uralskiy",
     "wof:parent_id":890484361,
     "wof:placetype":"locality",

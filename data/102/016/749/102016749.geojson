@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.001305,
-    "geom:area_square_m":11803413.043858,
+    "geom:area_square_m":11803413.043864,
     "geom:bbox":"47.4694252014,42.9597511292,47.5344200134,42.9975722602",
     "geom:latitude":42.978032,
     "geom:longitude":47.499982,
@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u062c \u0642\u0644\u0639\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u056d\u0561\u0579\u056f\u0561\u056c\u0561"
-    ],
     "name:ava_x_preferred":[
         "\u041c\u0430\u0445I\u0430\u0447\u0445\u044a\u0430\u043b\u0430"
     ],
@@ -41,9 +38,6 @@
     ],
     "name:bak_x_preferred":[
         "\u041c\u0430\u0445\u0430\u0447\u04a1\u0430\u043b\u0430"
-    ],
-    "name:baq_x_preferred":[
-        "Makhatxkala"
     ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u0445\u0430\u0447\u043a\u0430\u043b\u0430"
@@ -60,11 +54,11 @@
     "name:cat_x_preferred":[
         "Makhatxkal\u00e0"
     ],
+    "name:ces_x_preferred":[
+        "Macha\u010dkala"
+    ],
     "name:che_x_preferred":[
         "\u041c\u0435\u0445\u0430\u0433I\u0430\u043b\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u99ac\u54c8\u5947\u5361\u62c9"
     ],
     "name:chv_x_preferred":[
         "\u041c\u0430\u0445\u0430\u0447\u043a\u0430\u043b\u0430"
@@ -72,17 +66,20 @@
     "name:csb_x_preferred":[
         "Machaczka\u0142a"
     ],
-    "name:cze_x_preferred":[
-        "Macha\u010dkala"
+    "name:cym_x_preferred":[
+        "Makhachkala"
     ],
     "name:dan_x_preferred":[
         "Makhatjkala"
     ],
+    "name:deu_x_preferred":[
+        "Machatschkala"
+    ],
     "name:dsb_x_preferred":[
         "Macha\u010dkala"
     ],
-    "name:dut_x_preferred":[
-        "Machatsjkala"
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c7\u03b1\u03c4\u03c3\u03ba\u03b1\u03bb\u03ac"
     ],
     "name:eng_x_preferred":[
         "Makhachkala"
@@ -93,23 +90,20 @@
     "name:est_x_preferred":[
         "Mahhat\u0161kala"
     ],
+    "name:eus_x_preferred":[
+        "Makhatxkala"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062e\u0627\u0686\u200c\u0642\u0644\u0639\u0647"
+    ],
     "name:fin_x_preferred":[
         "Mahat\u0161kala"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Makhatchkala"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10f0\u10d0\u10e9\u10e7\u10d0\u10da\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Machatschkala"
     ],
     "name:gle_x_preferred":[
         "Makhachkala"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03c7\u03b1\u03c4\u03c3\u03ba\u03b1\u03bb\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0a96\u0a9a\u0a95\u0abe\u0ab2\u0abe"
@@ -132,6 +126,9 @@
     "name:hun_x_preferred":[
         "Mahacskala"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u056d\u0561\u0579\u056f\u0561\u056c\u0561"
+    ],
     "name:ind_x_preferred":[
         "Makhachkala"
     ],
@@ -143,6 +140,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0c96\u0c9a\u0ccd\u0c95\u0cb2\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10f0\u10d0\u10e9\u10e7\u10d0\u10da\u10d0"
     ],
     "name:kbd_x_preferred":[
         "\u041c\u044d\u0445\u044c\u044d\u0447\u043a\u044a\u0430\u043b\u044d"
@@ -174,20 +174,23 @@
     "name:lmo_x_preferred":[
         "Macha\u010dkala"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u0445\u0430\u0447\u043a\u0430\u043b\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u092e\u0916\u091a\u094d\u0915\u0932\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Makhachkala"
     ],
     "name:mhr_x_preferred":[
         "\u041c\u0430\u0445\u0430\u0447\u043a\u0430\u043b\u0430"
     ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u0445\u0430\u0447\u043a\u0430\u043b\u0430"
+    ],
     "name:mon_x_preferred":[
         "\u041c\u0430\u0445\u0430\u0447\u043a\u0430\u043b\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Makhachkala"
+    ],
+    "name:nld_x_preferred":[
+        "Machatsjkala"
     ],
     "name:nno_x_preferred":[
         "Makhatsjkala"
@@ -198,9 +201,6 @@
     "name:oss_x_preferred":[
         "\u041c\u0430\u0445\u0430\u0447\u043a\u0430\u043b\u0430"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u062e\u0627\u0686\u200c\u0642\u0644\u0639\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u0645\u0627\u06a9\u06be\u0686\u06a9\u0627\u0644\u0627"
     ],
@@ -210,7 +210,7 @@
     "name:por_x_preferred":[
         "Mahackala"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mahacikala"
     ],
     "name:rus_x_preferred":[
@@ -222,7 +222,7 @@
     "name:sin_x_preferred":[
         "\u0db8\u0d9a\u0da0\u0dca\u0d9a\u0dcf\u0dbd\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Macha\u010dkala"
     ],
     "name:slv_x_preferred":[
@@ -288,9 +288,6 @@
     "name:war_x_preferred":[
         "Makhachkala"
     ],
-    "name:wel_x_preferred":[
-        "Makhachkala"
-    ],
     "name:xal_x_preferred":[
         "\u041c\u0430\u0445\u0430\u0447\u043a\u0430\u043b\u0430 \u0431\u0430\u043b\u04bb\u0441\u043d"
     ],
@@ -298,6 +295,9 @@
         "\u10db\u10d0\u10ee\u10d0\u10e9\u10e7\u10d0\u10da\u10d0"
     ],
     "name:yue_x_preferred":[
+        "\u99ac\u54c8\u5947\u5361\u62c9"
+    ],
+    "name:zho_x_preferred":[
         "\u99ac\u54c8\u5947\u5361\u62c9"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -351,7 +351,7 @@
         }
     ],
     "wof:id":102016749,
-    "wof:lastmodified":1534985981,
+    "wof:lastmodified":1561831701,
     "wof:name":"Makhachkala",
     "wof:parent_id":890484275,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010759,
-    "geom:area_square_m":74696315.509302,
+    "geom:area_square_m":74696315.509298,
     "geom:bbox":"48.9558601379,55.7902793884,49.1556930542,55.9025001526",
     "geom:latitude":55.841973,
     "geom:longitude":49.053918,
@@ -18,9 +18,6 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u0632\u064a\u0644\u064a\u0646\u0648\u062f\u0648\u0644\u0633\u0643"
-    ],
-    "name:arm_x_preferred":[
-        "\u0536\u0565\u056c\u0565\u0576\u0578\u0564\u0578\u056c\u057d\u056f"
     ],
     "name:azb_x_preferred":[
         "\u0632\u0644\u0646\u0648\u062f\u0648\u0644\u0633\u06a9"
@@ -43,20 +40,14 @@
     "name:che_x_preferred":[
         "\u0417\u0435\u043b\u0435\u043d\u043e\u0434\u043e\u043b\u044c\u0441\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u6cfd\u5217\u8bfa\u591a\u5c14\u65af\u514b"
-    ],
     "name:chv_x_preferred":[
         "\u0417\u0435\u043b\u0435\u043d\u043e\u0434\u043e\u043b\u044c\u0441\u043a"
-    ],
-    "name:cze_x_preferred":[
-        "Zelenodolsk"
     ],
     "name:dan_x_preferred":[
         "Zelenodolsk"
     ],
-    "name:dut_x_preferred":[
-        "Zelenodolsk"
+    "name:deu_x_preferred":[
+        "Selenodolsk"
     ],
     "name:eng_x_preferred":[
         "Zelenodolsk"
@@ -67,23 +58,23 @@
     "name:est_x_preferred":[
         "Zelenodolsk"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0644\u0646\u0648\u062f\u0648\u0644\u0633\u06a9\u060c \u0631\u0648\u0633\u06cc\u0647"
+    ],
     "name:fin_x_preferred":[
         "Zelenodolsk"
     ],
     "name:fra_x_preferred":[
         "Zelenodolsk"
     ],
-    "name:fre_x_preferred":[
-        "Zelenodolsk"
-    ],
-    "name:ger_x_preferred":[
-        "Selenodolsk"
-    ],
     "name:hrv_x_preferred":[
         "Zelenodoljsk"
     ],
     "name:hsb_x_preferred":[
         "Zelenodolsk"
+    ],
+    "name:hye_x_preferred":[
+        "\u0536\u0565\u056c\u0565\u0576\u0578\u0564\u0578\u056c\u057d\u056f"
     ],
     "name:ita_x_preferred":[
         "Zelenodol'sk"
@@ -115,9 +106,6 @@
     "name:oci_x_preferred":[
         "Zelenodolsk"
     ],
-    "name:per_x_preferred":[
-        "\u0632\u0644\u0646\u0648\u062f\u0648\u0644\u0633\u06a9\u060c \u0631\u0648\u0633\u06cc\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u0632\u06cc\u0644\u06cc\u0646\u0648\u062f\u0648\u0644\u0633\u06a9"
     ],
@@ -127,7 +115,7 @@
     "name:por_x_preferred":[
         "Zelenodolsk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Zelenodolsk"
     ],
     "name:rus_x_preferred":[
@@ -159,6 +147,9 @@
     ],
     "name:war_x_preferred":[
         "Zelenodolsk"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cfd\u5217\u8bfa\u591a\u5c14\u65af\u514b"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d (\u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d)",
@@ -203,7 +194,7 @@
         }
     ],
     "wof:id":102009109,
-    "wof:lastmodified":1527637048,
+    "wof:lastmodified":1561831679,
     "wof:name":"Zelenodolsk",
     "wof:parent_id":890482737,
     "wof:placetype":"locality",

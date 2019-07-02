@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000547,
-    "geom:area_square_m":4249268.616217,
+    "geom:area_square_m":4249268.616222,
     "geom:bbox":"114.505027771,51.1010818481,114.554420471,51.1212234497",
     "geom:latitude":51.109716,
     "geom:longitude":114.531283,
@@ -32,19 +32,13 @@
     "name:cat_x_preferred":[
         "Agu\u00ednskoie"
     ],
+    "name:ces_x_preferred":[
+        "Aginskoje"
+    ],
     "name:che_x_preferred":[
         "\u0410\u0433\u0438\u043d\u0441\u043a\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u91d1\u65af\u79d1\u8036"
-    ],
-    "name:cze_x_preferred":[
-        "Aginskoje"
-    ],
     "name:deu_x_preferred":[
-        "Aginskoje"
-    ],
-    "name:dut_x_preferred":[
         "Aginskoje"
     ],
     "name:eng_x_preferred":[
@@ -59,11 +53,8 @@
     "name:fin_x_variant":[
         "Aginskoje"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Aguinsko\u00efe"
-    ],
-    "name:ger_x_preferred":[
-        "Aginskoje"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d2\u05d9\u05e0\u05e1\u05e7\u05d5\u05d9\u05d4"
@@ -104,7 +95,7 @@
     "name:por_x_preferred":[
         "Aginskoye"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Aginskoie"
     ],
     "name:rus_x_preferred":[
@@ -124,6 +115,9 @@
     ],
     "name:uzb_x_preferred":[
         "Aginskoye"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u91d1\u65af\u79d1\u8036"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -240,7 +234,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688005
+        85688005,
+        1108735463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -262,7 +257,7 @@
         }
     ],
     "wof:id":102014767,
-    "wof:lastmodified":1514500449,
+    "wof:lastmodified":1561831669,
     "wof:name":"Aginskoye",
     "wof:parent_id":1108735463,
     "wof:placetype":"locality",

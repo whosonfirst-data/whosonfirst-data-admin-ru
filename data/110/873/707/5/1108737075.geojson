@@ -53,17 +53,11 @@
     "mps:longitude":42.435098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054f\u0578\u057f\u0565\u0574\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:che_x_preferred":[
         "\u0422\u043e\u0442\u044c\u043c\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u5b63\u9a6c\u533a"
-    ],
-    "name:dut_x_preferred":[
-        "Totemskiy rayon"
+    "name:deu_x_preferred":[
+        "Totemski rajon"
     ],
     "name:eng_x_preferred":[
         "Totemskiy"
@@ -71,14 +65,17 @@
     "name:eng_x_variant":[
         "Totemskij"
     ],
-    "name:ger_x_preferred":[
-        "Totemski rajon"
-    ],
     "name:hun_x_preferred":[
         "Totymai j\u00e1r\u00e1s"
     ],
+    "name:hye_x_preferred":[
+        "\u054f\u0578\u057f\u0565\u0574\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ita_x_preferred":[
         "Totemskij rajon"
+    ],
+    "name:nld_x_preferred":[
+        "Totemskiy rayon"
     ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u0442\u0435\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -94,6 +91,9 @@
     ],
     "name:vie_x_preferred":[
         "Totemsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u5b63\u9a6c\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":1108737075,
-    "wof:lastmodified":1561581959,
+    "wof:lastmodified":1561832299,
     "wof:name":"Totemskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",

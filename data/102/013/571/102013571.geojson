@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000447,
-    "geom:area_square_m":3361714.758003,
+    "geom:area_square_m":3361714.758005,
     "geom:bbox":"85.2574157715,52.549747467,85.2942657471,52.5677757263",
     "geom:latitude":52.557972,
     "geom:longitude":85.278062,
@@ -21,9 +21,6 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u0628\u064a\u064a\u0633\u0643"
-    ],
-    "name:arm_x_preferred":[
-        "\u0532\u056b\u0575\u057d\u056f"
     ],
     "name:azb_x_preferred":[
         "\u0628\u06cc\u06cc\u0633\u06a9"
@@ -43,26 +40,29 @@
     "name:cat_x_preferred":[
         "Biysk"
     ],
+    "name:ces_x_preferred":[
+        "Bijsk"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0438\u0439\u0441\u043a"
-    ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u65af\u514b"
     ],
     "name:chu_x_preferred":[
         "\u0411\u0438\u0438\u0441\u043a\u044a"
     ],
-    "name:cze_x_preferred":[
-        "Bijsk"
+    "name:cym_x_preferred":[
+        "Biysk"
     ],
     "name:dan_x_preferred":[
+        "Bijsk"
+    ],
+    "name:deu_x_preferred":[
         "Bijsk"
     ],
     "name:diq_x_preferred":[
         "Biysk"
     ],
-    "name:dut_x_preferred":[
-        "Biejsk"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Biysk"
@@ -73,17 +73,14 @@
     "name:est_x_preferred":[
         "Biisk"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u06cc\u0633\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Bijsk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bi\u00efsk"
-    ],
-    "name:ger_x_preferred":[
-        "Bijsk"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b9\u03c3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abf\u0aaf\u0ab8\u0acd\u0a95"
@@ -96,6 +93,9 @@
     ],
     "name:hun_x_preferred":[
         "Bijszk"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u056b\u0575\u057d\u056f"
     ],
     "name:ind_x_preferred":[
         "Biysk"
@@ -130,11 +130,14 @@
     "name:mar_x_preferred":[
         "\u092c\u093e\u092f\u093f\u0938\u094d\u0915"
     ],
-    "name:may_x_preferred":[
-        "Biysk"
-    ],
     "name:mhr_x_preferred":[
         "\u0411\u0438\u0439\u0441\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Biysk"
+    ],
+    "name:nld_x_preferred":[
+        "Biejsk"
     ],
     "name:nno_x_preferred":[
         "Bijsk"
@@ -148,9 +151,6 @@
     "name:oss_x_preferred":[
         "\u0411\u0438\u0439\u0441\u043a"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u06cc\u0633\u06a9"
-    ],
     "name:pnb_x_preferred":[
         "\u0628\u06cc\u0626\u0633\u06a9"
     ],
@@ -160,7 +160,7 @@
     "name:por_x_preferred":[
         "Bisk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Biisk"
     ],
     "name:rus_x_preferred":[
@@ -169,7 +169,7 @@
     "name:sin_x_preferred":[
         "\u0db6\u0dba\u0dd2\u0dc3\u0dca\u0d9a\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bijsk"
     ],
     "name:slv_x_preferred":[
@@ -220,8 +220,8 @@
     "name:war_x_preferred":[
         "Biysk"
     ],
-    "name:wel_x_preferred":[
-        "Biysk"
+    "name:zho_x_preferred":[
+        "\u6bd4\u65af\u514b"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -271,7 +271,7 @@
         }
     ],
     "wof:id":102013571,
-    "wof:lastmodified":1527636666,
+    "wof:lastmodified":1561831661,
     "wof:name":"Biysk",
     "wof:parent_id":1108732993,
     "wof:placetype":"locality",

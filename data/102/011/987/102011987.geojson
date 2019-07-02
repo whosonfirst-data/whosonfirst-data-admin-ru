@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00225,
-    "geom:area_square_m":15378378.422967,
+    "geom:area_square_m":15378378.422963,
     "geom:bbox":"60.1568336487,56.4221954346,60.2230262756,56.4806938171",
     "geom:latitude":56.451756,
     "geom:longitude":60.190272,
@@ -35,20 +35,17 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u0439"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u5217\u592b\u65af\u79d1\u4f0a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Polevskoj"
     ],
     "name:deu_x_preferred":[
         "Polewskoi"
     ],
-    "name:dut_x_preferred":[
-        "Polevskoj"
-    ],
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03bb\u03b5\u03c6\u03c3\u03ba\u03cc\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bf\u03bb\u03b5\u03b2\u03c3\u03ba\u03cc\u03b9"
     ],
     "name:eng_x_preferred":[
         "Polevskoy"
@@ -67,15 +64,6 @@
     ],
     "name:fra_x_preferred":[
         "Polevsko\u00ef"
-    ],
-    "name:fre_x_preferred":[
-        "Polevsko\u00ef"
-    ],
-    "name:ger_x_preferred":[
-        "Polewskoi"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03bb\u03b5\u03b2\u03c3\u03ba\u03cc\u03b9"
     ],
     "name:hsb_x_preferred":[
         "Polewskoj"
@@ -98,9 +86,6 @@
     "name:nor_x_preferred":[
         "Polevskoj"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0644\u0641\u0633\u06a9\u0648\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u067e\u0648\u0644\u06cc\u0648\u0633\u06a9\u0648\u0626\u06cc"
     ],
@@ -111,9 +96,6 @@
         "Polevskoi"
     ],
     "name:ron_x_preferred":[
-        "Polevskoi"
-    ],
-    "name:rum_x_preferred":[
         "Polevskoi"
     ],
     "name:rus_x_preferred":[
@@ -293,7 +275,7 @@
         }
     ],
     "wof:id":102011987,
-    "wof:lastmodified":1527637593,
+    "wof:lastmodified":1561831699,
     "wof:name":"Polevskoy",
     "wof:parent_id":1108735919,
     "wof:placetype":"locality",

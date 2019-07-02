@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000922,
-    "geom:area_square_m":6371584.774103,
+    "geom:area_square_m":6371584.774101,
     "geom:bbox":"29.9193058014,55.9998626709,29.9646949768,56.0310821533",
     "geom:latitude":56.013282,
     "geom:longitude":29.943102,
@@ -32,23 +32,20 @@
     "name:cat_x_preferred":[
         "N\u00e9vell"
     ],
+    "name:ces_x_preferred":[
+        "N\u011bvel"
+    ],
     "name:che_x_preferred":[
         "\u041d\u0435\u0432\u0435\u043b\u044c"
-    ],
-    "name:chi_x_preferred":[
-        "\u6d85\u97cb\u723e"
-    ],
-    "name:cze_x_preferred":[
-        "N\u011bvel"
     ],
     "name:dan_x_preferred":[
         "Nevel"
     ],
-    "name:dsb_x_preferred":[
+    "name:deu_x_preferred":[
         "Newel"
     ],
-    "name:dut_x_preferred":[
-        "Nevel"
+    "name:dsb_x_preferred":[
+        "Newel"
     ],
     "name:eng_x_preferred":[
         "Nevel'"
@@ -62,11 +59,8 @@
     "name:fin_x_preferred":[
         "Nevel"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nevel"
-    ],
-    "name:ger_x_preferred":[
-        "Newel"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d5\u05d5\u05dc"
@@ -94,6 +88,9 @@
     ],
     "name:lit_x_preferred":[
         "Nevelis"
+    ],
+    "name:nld_x_preferred":[
+        "Nevel"
     ],
     "name:nno_x_preferred":[
         "Nevel"
@@ -136,6 +133,9 @@
     ],
     "name:war_x_preferred":[
         "Nevel"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d85\u97cb\u723e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041f\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -183,7 +183,7 @@
         }
     ],
     "wof:id":102002423,
-    "wof:lastmodified":1514502418,
+    "wof:lastmodified":1561831728,
     "wof:name":"Nevel",
     "wof:parent_id":1108735357,
     "wof:placetype":"locality",

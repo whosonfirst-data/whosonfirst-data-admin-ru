@@ -53,17 +53,11 @@
     "mps:longitude":33.235927,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054a\u0578\u0563\u0561\u0580\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:che_x_preferred":[
         "\u041f\u043e\u0433\u0430\u0440\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u52a0\u5c14\u533a"
-    ],
-    "name:dut_x_preferred":[
-        "Pogarsky District"
+    "name:deu_x_preferred":[
+        "Pogarski rajon"
     ],
     "name:eng_x_preferred":[
         "Pogarskiy"
@@ -71,14 +65,17 @@
     "name:eng_x_variant":[
         "Pogarskij"
     ],
-    "name:ger_x_preferred":[
-        "Pogarski rajon"
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0563\u0561\u0580\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Pogarskij rajon"
     ],
     "name:lav_x_preferred":[
         "Pogaras rajons"
+    ],
+    "name:nld_x_preferred":[
+        "Pogarsky District"
     ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0433\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -91,6 +88,9 @@
     ],
     "name:vie_x_preferred":[
         "Pogarsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u52a0\u5c14\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":1108735907,
-    "wof:lastmodified":1561582031,
+    "wof:lastmodified":1561832363,
     "wof:name":"Pogarskiy",
     "wof:parent_id":85688121,
     "wof:placetype":"county",

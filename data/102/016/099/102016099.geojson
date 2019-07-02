@@ -22,14 +22,8 @@
     "name:abq_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u0414\u0436\u044c\u0433\u0432\u0430\u0442\u044b"
     ],
-    "name:alb_x_preferred":[
-        "Ust-Xheguta"
-    ],
     "name:ara_x_preferred":[
         "\u0623\u0648\u0633\u062a-\u062f\u062c\u064a\u063a\u0648\u062a\u0627"
-    ],
-    "name:arm_x_preferred":[
-        "\u0548\u0582\u057d\u057f-\u054b\u0565\u0563\u0578\u0582\u057f\u0561"
     ],
     "name:azb_x_preferred":[
         "\u0627\u0648\u0633\u062a-\u062f\u0698\u0642\u0648\u062a\u0627"
@@ -40,20 +34,17 @@
     "name:bul_x_preferred":[
         "\u0423\u0441\u0442 \u0414\u0436\u0435\u0433\u0443\u0442\u0430"
     ],
+    "name:ces_x_preferred":[
+        "Us\u0165-D\u017eeguta"
+    ],
     "name:che_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u0414\u0436\u0435\u0433\u0443\u0442\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u70cf\u65af\u5b63\u5091\u53e4\u5854"
-    ],
-    "name:cze_x_preferred":[
-        "Us\u0165-D\u017eeguta"
     ],
     "name:dan_x_preferred":[
         "Ust-Dzjeguta"
     ],
-    "name:dut_x_preferred":[
-        "Oest-Dzjegoeta"
+    "name:deu_x_preferred":[
+        "Ust-Dscheguta"
     ],
     "name:eng_x_preferred":[
         "Ust'-Dzheguta"
@@ -64,17 +55,20 @@
     "name:est_x_preferred":[
         "Ust-D\u017eeguta"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0633\u062a-\u062f\u0698\u06af\u0648\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Ust-D\u017eekuta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Oust-Djegouta"
-    ],
-    "name:ger_x_preferred":[
-        "Ust-Dscheguta"
     ],
     "name:hsb_x_preferred":[
         "Ust-D\u017eeguta"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u057d\u057f-\u054b\u0565\u0563\u0578\u0582\u057f\u0561"
     ],
     "name:ita_x_preferred":[
         "Ust'-D\u017eeguta"
@@ -88,6 +82,9 @@
     "name:lit_x_preferred":[
         "Ust D\u017eeguta"
     ],
+    "name:nld_x_preferred":[
+        "Oest-Dzjegoeta"
+    ],
     "name:nno_x_preferred":[
         "Ust-Dzjeguta"
     ],
@@ -100,9 +97,6 @@
     "name:oss_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u0414\u0436\u0435\u0433\u0443\u0442\u0430"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0633\u062a-\u062f\u0698\u06af\u0648\u062a\u0627"
-    ],
     "name:rus_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u0414\u0436\u0435\u0433\u0443\u0442\u0430"
     ],
@@ -110,7 +104,7 @@
         "Ust\u2019-Dzheguta",
         "Ust\u2019-Dzhegutinskaya"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Us\u0165-D\u017eeguta"
     ],
     "name:slv_x_preferred":[
@@ -118,6 +112,9 @@
     ],
     "name:spa_x_preferred":[
         "Ust-Dzhegut\u00e1"
+    ],
+    "name:sqi_x_preferred":[
+        "Ust-Xheguta"
     ],
     "name:srp_x_preferred":[
         "\u0423\u0441\u0442-\u040f\u0435\u0433\u0443\u0442\u0430"
@@ -145,6 +142,9 @@
     ],
     "name:xal_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u0414\u0436\u0435\u0433\u0443\u0442\u0430 \u0431\u0430\u043b\u04bb\u0441\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u65af\u5b63\u5091\u53e4\u5854"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
@@ -190,7 +190,7 @@
         }
     ],
     "wof:id":102016099,
-    "wof:lastmodified":1514503812,
+    "wof:lastmodified":1561831701,
     "wof:name":"Ustdzhegutinskaya",
     "wof:parent_id":1108732597,
     "wof:placetype":"locality",

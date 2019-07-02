@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001021,
-    "geom:area_square_m":5166221.152395,
+    "geom:area_square_m":5166221.152391,
     "geom:bbox":"44.1947479248,65.8357162476,44.2584838867,65.8769760132",
     "geom:latitude":65.85809,
     "geom:longitude":44.232104,
@@ -35,17 +35,14 @@
     "name:cat_x_preferred":[
         "Mez\u00e9n"
     ],
+    "name:ces_x_preferred":[
+        "Meze\u0148"
+    ],
     "name:che_x_preferred":[
         "\u041c\u0435\u0437\u0435\u043d\u044c"
     ],
-    "name:chi_x_preferred":[
-        "\u6885\u6d25"
-    ],
-    "name:cze_x_preferred":[
-        "Meze\u0148"
-    ],
-    "name:dut_x_preferred":[
-        "Mezen"
+    "name:deu_x_preferred":[
+        "Mesen"
     ],
     "name:eng_x_preferred":[
         "Mezen'"
@@ -53,17 +50,14 @@
     "name:epo_x_preferred":[
         "Mezenj"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0632\u0646"
+    ],
     "name:fin_x_preferred":[
         "Mezen"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mezen"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d4\u10d6\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Mesen"
     ],
     "name:hsb_x_preferred":[
         "Mjeze\u0144"
@@ -77,6 +71,9 @@
     "name:jpn_x_preferred":[
         "\u30e1\u30bc\u30cb"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10d6\u10d4\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uba54\uc820"
     ],
@@ -86,8 +83,11 @@
     "name:lav_x_preferred":[
         "Meze\u0146a"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041c\u0435\u0437\u0435\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Mezen"
     ],
     "name:nno_x_preferred":[
         "Mezen"
@@ -98,16 +98,13 @@
     "name:nor_x_preferred":[
         "Mezen"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0632\u0646"
-    ],
     "name:pol_x_preferred":[
         "Miezie\u0144"
     ],
     "name:por_x_preferred":[
         "Mezen"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mezen"
     ],
     "name:rus_x_preferred":[
@@ -142,6 +139,9 @@
     ],
     "name:war_x_preferred":[
         "Mezen"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u6d25"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -281,7 +281,7 @@
         }
     ],
     "wof:id":102001927,
-    "wof:lastmodified":1553815708,
+    "wof:lastmodified":1561831690,
     "wof:name":"Mezen",
     "wof:parent_id":1108735113,
     "wof:placetype":"locality",

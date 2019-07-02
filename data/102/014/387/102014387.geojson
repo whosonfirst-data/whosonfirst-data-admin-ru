@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000887,
-    "geom:area_square_m":6856522.858847,
+    "geom:area_square_m":6856522.858855,
     "geom:bbox":"91.5428314209,51.2727203369,91.5871353149,51.3079185486",
     "geom:latitude":51.289723,
     "geom:longitude":91.564913,
@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u062f\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0549\u0561\u0564\u0561\u0576"
-    ],
     "name:azb_x_preferred":[
         "\u0686\u0622\u062f\u0627\u0646"
     ],
@@ -34,20 +31,17 @@
     "name:bel_x_preferred":[
         "\u0427\u0430\u0434\u0430\u043d"
     ],
+    "name:ces_x_preferred":[
+        "\u010cadan"
+    ],
     "name:che_x_preferred":[
         "\u0427\u0430\u0434\u0430\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u6070\u4e39"
-    ],
-    "name:cze_x_preferred":[
-        "\u010cadan"
+    "name:deu_x_preferred":[
+        "Tschadan"
     ],
     "name:diq_x_preferred":[
         "Chadan"
-    ],
-    "name:dut_x_preferred":[
-        "Tsjadan"
     ],
     "name:eng_x_preferred":[
         "Chadan"
@@ -55,14 +49,14 @@
     "name:epo_x_preferred":[
         "\u0108adan"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u062f\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "T\u0161adanaa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tchadan"
-    ],
-    "name:ger_x_preferred":[
-        "Tschadan"
     ],
     "name:heb_x_preferred":[
         "\u05e6'\u05d0\u05d3\u05d0\u05df"
@@ -70,11 +64,17 @@
     "name:hsb_x_preferred":[
         "\u010cadan"
     ],
+    "name:hye_x_preferred":[
+        "\u0549\u0561\u0564\u0561\u0576"
+    ],
     "name:ita_x_preferred":[
         "\u010cadan"
     ],
     "name:kor_x_preferred":[
         "\ucc28\ub2e8"
+    ],
+    "name:nld_x_preferred":[
+        "Tsjadan"
     ],
     "name:nno_x_preferred":[
         "Tsjadan"
@@ -84,9 +84,6 @@
     ],
     "name:nor_x_preferred":[
         "Tsjadan"
-    ],
-    "name:per_x_preferred":[
-        "\u0686\u0627\u062f\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "Czadan"
@@ -127,6 +124,9 @@
     "name:war_x_preferred":[
         "Chadan"
     ],
+    "name:zho_x_preferred":[
+        "\u6070\u4e39"
+    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u044b\u0432\u0430",
     "qs:a1_lc":"1700400100000",
@@ -150,7 +150,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688039
+        85688039,
+        1108733439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -172,7 +173,7 @@
         }
     ],
     "wof:id":102014387,
-    "wof:lastmodified":1514500931,
+    "wof:lastmodified":1561831671,
     "wof:name":"Chadan",
     "wof:parent_id":1108733439,
     "wof:placetype":"locality",

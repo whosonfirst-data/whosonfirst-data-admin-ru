@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001687,
-    "geom:area_square_m":12358941.182006,
+    "geom:area_square_m":12358941.182002,
     "geom:bbox":"88.0536956787,53.6475830078,88.1356964111,53.6983604431",
     "geom:latitude":53.676615,
     "geom:longitude":88.093485,
@@ -37,14 +37,11 @@
     "name:cat_x_preferred":[
         "Mejdur\u00e9txensk"
     ],
+    "name:ces_x_preferred":[
+        "Me\u017edure\u010densk"
+    ],
     "name:che_x_preferred":[
         "\u041c\u0435\u0436\u0434\u0443\u0440\u0435\u0447\u0435\u043d\u0441\u043a"
-    ],
-    "name:chi_x_preferred":[
-        "\u6885\u65e5\u675c\u5217\u7434\u65af\u514b"
-    ],
-    "name:cze_x_preferred":[
-        "Me\u017edure\u010densk"
     ],
     "name:dan_x_preferred":[
         "Mezhdurechensk"
@@ -52,8 +49,8 @@
     "name:deu_x_preferred":[
         "Meschduretschensk"
     ],
-    "name:dut_x_preferred":[
-        "Mezjdoeretsjensk"
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03b6\u03bd\u03c4\u03bf\u03c5\u03c1\u03b5\u03c4\u03c3\u03ad\u03bd\u03c3\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
         "Mezhdurechensk"
@@ -72,15 +69,6 @@
     ],
     "name:fra_x_preferred":[
         "Mejdouretchensk"
-    ],
-    "name:fre_x_preferred":[
-        "Mejdouretchensk"
-    ],
-    "name:ger_x_preferred":[
-        "Meschduretschensk"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b5\u03b6\u03bd\u03c4\u03bf\u03c5\u03c1\u03b5\u03c4\u03c3\u03ad\u03bd\u03c3\u03ba\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0a9d\u0acd\u0aa1\u0ac1\u0ab0\u0a9a\u0ac7\u0aa8\u0acd\u0ab8\u0acd\u0a95"
@@ -115,11 +103,11 @@
     "name:mar_x_preferred":[
         "\u092e\u0947\u091d\u094d\u0921\u0941\u0930\u093f\u0928\u094d\u0938\u094d\u0915"
     ],
-    "name:may_x_preferred":[
-        "Mezhdurechensk"
-    ],
     "name:mhr_x_preferred":[
         "\u041c\u0435\u0436\u0434\u0443\u0440\u0435\u0447\u0435\u043d\u0441\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Mezhdurechensk"
     ],
     "name:nld_x_preferred":[
         "Mezjdoeretsjensk"
@@ -136,9 +124,6 @@
     "name:oss_x_preferred":[
         "\u041c\u0435\u0436\u0434\u0443\u0440\u0435\u0447\u0435\u043d\u0441\u043a"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0698\u062f\u0648\u0631\u0686\u0646\u0633\u06a9\u060c \u0627\u0648\u0628\u0644\u0627\u0633\u062a \u06a9\u0645\u0631\u0648\u0648"
-    ],
     "name:pms_x_preferred":[
         "Mejdouretchensk"
     ],
@@ -152,9 +137,6 @@
         "Mejdurechensk"
     ],
     "name:ron_x_preferred":[
-        "Mejdurecensk"
-    ],
-    "name:rum_x_preferred":[
         "Mejdurecensk"
     ],
     "name:rus_x_preferred":[
@@ -231,7 +213,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688105
+        85688105,
+        1108735117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -253,7 +236,7 @@
         }
     ],
     "wof:id":102013253,
-    "wof:lastmodified":1514502147,
+    "wof:lastmodified":1561831661,
     "wof:name":"Mezhdurechensk",
     "wof:parent_id":1108735117,
     "wof:placetype":"locality",

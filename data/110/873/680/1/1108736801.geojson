@@ -53,14 +53,8 @@
     "mps:longitude":46.655521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054d\u057f\u0561\u0580\u0578\u057a\u0578\u056c\u057f\u0561\u057e\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
-    "name:chi_x_preferred":[
-        "\u65e7\u6ce2\u5c14\u5854\u592b\u5361\u533a"
-    ],
-    "name:dut_x_preferred":[
-        "Staropoltavskiy rayon"
+    "name:deu_x_preferred":[
+        "Staropoltawski rajon"
     ],
     "name:eng_x_preferred":[
         "Staropoltavskiy"
@@ -68,14 +62,17 @@
     "name:eng_x_variant":[
         "Staropoltavskij"
     ],
-    "name:ger_x_preferred":[
-        "Staropoltawski rajon"
-    ],
     "name:hun_x_preferred":[
         "Sztaraja Poltavka-i j\u00e1r\u00e1s"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u057f\u0561\u0580\u0578\u057a\u0578\u056c\u057f\u0561\u057e\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ita_x_preferred":[
         "Staropoltavskij rajon"
+    ],
+    "name:nld_x_preferred":[
+        "Staropoltavskiy rayon"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e\u043f\u043e\u043b\u0442\u0430\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -88,6 +85,9 @@
     ],
     "name:vie_x_preferred":[
         "Staropoltavsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u65e7\u6ce2\u5c14\u5854\u592b\u5361\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -126,7 +126,7 @@
         }
     ],
     "wof:id":1108736801,
-    "wof:lastmodified":1561581974,
+    "wof:lastmodified":1561832313,
     "wof:name":"Staropoltavskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

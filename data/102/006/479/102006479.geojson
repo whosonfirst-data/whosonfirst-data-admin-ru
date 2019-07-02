@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002263,
-    "geom:area_square_m":17962771.28238,
+    "geom:area_square_m":17962771.282383,
     "geom:bbox":"43.2011947632,50.045249939,43.2858314514,50.1055831909",
     "geom:latitude":50.072606,
     "geom:longitude":43.239092,
@@ -32,17 +32,11 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043a\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u54c8\u4f0a\u6d1b\u592b\u5361"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Michajlovka"
     ],
     "name:deu_x_preferred":[
         "Michailowka"
-    ],
-    "name:dut_x_preferred":[
-        "Michaylovka"
     ],
     "name:eng_x_preferred":[
         "Mikhaylovka"
@@ -62,12 +56,6 @@
     "name:fra_x_preferred":[
         "Mikha\u00eflovka"
     ],
-    "name:fre_x_preferred":[
-        "Mikha\u00eflovka"
-    ],
-    "name:ger_x_preferred":[
-        "Michailowka"
-    ],
     "name:hsb_x_preferred":[
         "Michajlowka"
     ],
@@ -77,6 +65,9 @@
     "name:lit_x_preferred":[
         "Michailovkas"
     ],
+    "name:nld_x_preferred":[
+        "Michaylovka"
+    ],
     "name:nno_x_preferred":[
         "Mikhajlovka"
     ],
@@ -85,9 +76,6 @@
     ],
     "name:nor_x_preferred":[
         "Mikhajlovka"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u062e\u0627\u0626\u06cc\u0644\u0648\u0641\u06a9\u0627\u060c \u0627\u0648\u0628\u0644\u0627\u0633\u062a \u0648\u0644\u06af\u0648\u06af\u0631\u0627\u062f"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u06cc\u062e\u0627\u0626\u06cc\u0644\u0648\u06a9\u0627"
@@ -101,7 +89,7 @@
     "name:ron_x_preferred":[
         "Mihailovka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Mikhaylovka"
     ],
     "name:rus_x_preferred":[
@@ -252,7 +240,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688101
+        85688101,
+        1108735131
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -274,7 +263,7 @@
         }
     ],
     "wof:id":102006479,
-    "wof:lastmodified":1553815711,
+    "wof:lastmodified":1561831692,
     "wof:name":"Mikhaylovka",
     "wof:parent_id":1108735131,
     "wof:placetype":"locality",

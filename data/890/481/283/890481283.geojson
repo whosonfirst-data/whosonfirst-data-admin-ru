@@ -19,29 +19,26 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u0631\u0643\u064a \u0644\u064a\u0646\u064a\u0646\u0633\u0643\u064a\u064a\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0533\u0578\u0580\u056f\u056b \u053c\u0565\u0576\u056b\u0576\u057d\u056f\u056b\u0565"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u043a\u0456 \u041b\u0435\u043d\u0456\u043d\u0441\u043a\u0456\u044f"
     ],
     "name:cat_x_preferred":[
         "Gorki L\u00e8ninskie"
     ],
+    "name:ces_x_preferred":[
+        "Gorki Leninskije"
+    ],
     "name:che_x_preferred":[
         "\u0413\u043e\u0440\u043a\u0438 \u041b\u0435\u043d\u0438\u043d\u0441\u043a\u0438\u0435"
-    ],
-    "name:chi_x_preferred":[
-        "\u9ad8\u723e\u57fa\u5217\u5be7\u65af\u514b"
-    ],
-    "name:cze_x_preferred":[
-        "Gorki Leninskije"
     ],
     "name:dan_x_preferred":[
         "Gorki Leninskije"
     ],
-    "name:dut_x_preferred":[
-        "Gorki Leninskiye"
+    "name:deu_x_preferred":[
+        "Gorki Leninskije"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03cc\u03c1\u03ba\u03b9 \u039b\u03ad\u03bd\u03b9\u03bd\u03c3\u03ba\u03b9\u03b5"
     ],
     "name:eng_x_preferred":[
         "Gorki-Leninskiye"
@@ -49,17 +46,8 @@
     "name:epo_x_preferred":[
         "Gorki Leninskije"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gorki Leninskie"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10dd\u10e0\u10d9\u10d8-\u10da\u10d4\u10dc\u10d8\u10dc\u10e1\u10d9\u10d8\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Gorki Leninskije"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03cc\u03c1\u03ba\u03b9 \u039b\u03ad\u03bd\u03b9\u03bd\u03c3\u03ba\u03b9\u03b5"
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05d5\u05e8\u05e7\u05d9 \u05dc\u05e0\u05d9\u05e0\u05e1\u05e7\u05d9"
@@ -70,6 +58,9 @@
     "name:hun_x_preferred":[
         "Gorki Leninszkije"
     ],
+    "name:hye_x_preferred":[
+        "\u0533\u0578\u0580\u056f\u056b \u053c\u0565\u0576\u056b\u0576\u057d\u056f\u056b\u0565"
+    ],
     "name:ind_x_preferred":[
         "Gorki Leninskiye"
     ],
@@ -79,11 +70,17 @@
     "name:jpn_x_preferred":[
         "\u30b4\u30fc\u30eb\u30ad\u30fb\u30ec\u30fc\u30cb\u30f3\u30b9\u30ad\u30a8"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10e0\u10d9\u10d8-\u10da\u10d4\u10dc\u10d8\u10dc\u10e1\u10d9\u10d8\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\uace0\ub974\ud0a4\ub808\ub2cc\uc2a4\ud0a4\uc608"
     ],
     "name:lit_x_preferred":[
         "Gorki Leninskija"
+    ],
+    "name:nld_x_preferred":[
+        "Gorki Leninskiye"
     ],
     "name:nor_x_preferred":[
         "Gorki Leninskije"
@@ -111,6 +108,9 @@
     ],
     "name:unk_x_variant":[
         "Leninskiye Gorki"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ad8\u723e\u57fa\u5217\u5be7\u65af\u514b"
     ],
     "qs:name":"Gorki-Leninskiye",
     "qs:name_adm0":"Russia",
@@ -154,7 +154,7 @@
         }
     ],
     "wof:id":890481283,
-    "wof:lastmodified":1527787087,
+    "wof:lastmodified":1561832773,
     "wof:name":"Gorki-Leninskiye",
     "wof:parent_id":890487047,
     "wof:placetype":"locality",

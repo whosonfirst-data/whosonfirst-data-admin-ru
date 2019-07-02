@@ -31,14 +31,14 @@
     "name:che_x_preferred":[
         "\u041a\u043e\u043b\u043f\u0438\u043d\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u723e\u76ae\u8afe"
-    ],
     "name:dan_x_preferred":[
         "Kolpino"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kolpino"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bb\u03c0\u03af\u03bd\u03bf"
     ],
     "name:eng_x_preferred":[
         "Kolpino"
@@ -49,23 +49,17 @@
     "name:est_x_preferred":[
         "Kolpino"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0644\u067e\u06cc\u0646\u0648"
+    ],
     "name:fin_x_preferred":[
         "Kolpino"
     ],
-    "name:fre_x_preferred":[
-        "Kolpino"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10da\u10de\u10d8\u10dc\u10dd"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kolpino"
     ],
     "name:glg_x_preferred":[
         "Kolpino"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bb\u03c0\u03af\u03bd\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0ab2\u0aaa\u0abf\u0aa8\u0acb"
@@ -91,6 +85,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccb\u0cb2\u0ccd\u0caa\u0cbf\u0ca8\u0ccb"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10da\u10de\u10d8\u10dc\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ucf5c\ud53c\ub178"
     ],
@@ -103,7 +100,10 @@
     "name:mar_x_preferred":[
         "\u0915\u094b\u0932\u094d\u092a\u093f\u0928\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Kolpino"
+    ],
+    "name:nld_x_preferred":[
         "Kolpino"
     ],
     "name:nno_x_preferred":[
@@ -111,9 +111,6 @@
     ],
     "name:nob_x_preferred":[
         "Kolpino"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0644\u067e\u06cc\u0646\u0648"
     ],
     "name:pol_x_preferred":[
         "Ko\u0142pino"
@@ -181,6 +178,9 @@
     "name:vie_x_preferred":[
         "Kolpino"
     ],
+    "name:zho_x_preferred":[
+        "\u79d1\u723e\u76ae\u8afe"
+    ],
     "qs:name":"Kolbino",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Leningrad Oblast",
@@ -217,7 +217,7 @@
         }
     ],
     "wof:id":890486501,
-    "wof:lastmodified":1514501819,
+    "wof:lastmodified":1561832782,
     "wof:name":"Kolbino",
     "wof:parent_id":890480071,
     "wof:placetype":"locality",

@@ -53,17 +53,11 @@
     "mps:longitude":47.661534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053b\u056f\u0580\u0575\u0561\u0576\u056b\u0576\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:che_x_preferred":[
         "\u0418\u043a\u0440\u044f\u043d\u0438\u043d\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u514b\u91cc\u4e9a\u8bfa\u8036\u533a"
-    ],
-    "name:dut_x_preferred":[
-        "Ikrjaninskiy rayon"
+    "name:deu_x_preferred":[
+        "Ikrjaninski rajon"
     ],
     "name:eng_x_preferred":[
         "Ikrjaninskiy"
@@ -72,14 +66,17 @@
         "Ikrjaninskij",
         "Ikrjaninskiy"
     ],
-    "name:ger_x_preferred":[
-        "Ikrjaninski rajon"
-    ],
     "name:hun_x_preferred":[
         "Ikrjanojei j\u00e1r\u00e1s"
     ],
+    "name:hye_x_preferred":[
+        "\u053b\u056f\u0580\u0575\u0561\u0576\u056b\u0576\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ita_x_preferred":[
         "Ikrjaninskij rajon"
+    ],
+    "name:nld_x_preferred":[
+        "Ikrjaninskiy rayon"
     ],
     "name:pol_x_preferred":[
         "Rejon ikrianinski"
@@ -98,6 +95,9 @@
     ],
     "name:vie_x_preferred":[
         "Ikryaninsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u514b\u91cc\u4e9a\u8bfa\u8036\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":1108733977,
-    "wof:lastmodified":1561581958,
+    "wof:lastmodified":1561832298,
     "wof:name":"Ikrjaninskiy",
     "wof:parent_id":85687985,
     "wof:placetype":"county",

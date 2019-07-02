@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000807,
-    "geom:area_square_m":5552804.547391,
+    "geom:area_square_m":5552804.54739,
     "geom:bbox":"50.8753318787,56.1703071594,50.932220459,56.195110321",
     "geom:latitude":56.183117,
     "geom:longitude":50.905817,
@@ -17,9 +17,6 @@
     "mps:longitude":50.905817,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0582\u056f\u0574\u0578\u0580"
-    ],
     "name:bak_x_preferred":[
         "\u04a0\u0443\u04a1\u043c\u0430\u0440\u0430"
     ],
@@ -29,20 +26,23 @@
     "name:che_x_preferred":[
         "\u041a\u0443\u043a\u043c\u043e\u0440"
     ],
-    "name:dut_x_preferred":[
-        "Koekmor"
+    "name:deu_x_preferred":[
+        "Kukmor"
     ],
     "name:eng_x_preferred":[
         "Kukmor"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Koukmor"
     ],
-    "name:ger_x_preferred":[
-        "Kukmor"
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u056f\u0574\u0578\u0580"
     ],
     "name:mhr_x_preferred":[
         "\u041a\u0443\u043a\u043c\u0430\u0440\u0438\u0439"
+    ],
+    "name:nld_x_preferred":[
+        "Koekmor"
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u043b.\u041a\u0443\u043a\u043c\u043e\u0440"
@@ -76,7 +76,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688065
+        85688065,
+        1108734787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":102008959,
-    "wof:lastmodified":1553815713,
+    "wof:lastmodified":1561831684,
     "wof:name":"Kukmor",
     "wof:parent_id":1108734787,
     "wof:placetype":"locality",

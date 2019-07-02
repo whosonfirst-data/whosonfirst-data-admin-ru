@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001845,
-    "geom:area_square_m":13727666.406926,
+    "geom:area_square_m":13727666.406929,
     "geom:bbox":"39.1058883667,52.9918060303,39.176109314,53.0303344727",
     "geom:latitude":53.011763,
     "geom:longitude":39.141869,
@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0628\u062f\u064a\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u0565\u0562\u0565\u0564\u0575\u0561\u0576"
-    ],
     "name:azb_x_preferred":[
         "\u0644\u0628\u062f\u06cc\u0627\u0646"
     ],
@@ -37,20 +34,17 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0431\u0435\u0434\u044f\u043d"
     ],
+    "name:ces_x_preferred":[
+        "Lebedjan"
+    ],
     "name:che_x_preferred":[
         "\u041b\u0435\u0431\u0435\u0434\u044f\u043d\u044c"
-    ],
-    "name:chi_x_preferred":[
-        "\u5217\u5225\u59dc"
-    ],
-    "name:cze_x_preferred":[
-        "Lebedjan"
     ],
     "name:deu_x_preferred":[
         "Lebedjan"
     ],
-    "name:dut_x_preferred":[
-        "Lebedjan"
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03bc\u03c0\u03b5\u03bd\u03c4\u03b9\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Lebedyan'"
@@ -64,20 +58,8 @@
     "name:fra_x_preferred":[
         "Lebedian"
     ],
-    "name:fre_x_preferred":[
-        "Lebedian"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d4\u10d1\u10d4\u10d3\u10d8\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Lebedjan"
-    ],
     "name:glg_x_preferred":[
         "Lebedian"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b5\u03bc\u03c0\u03b5\u03bd\u03c4\u03b9\u03ac\u03bd"
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d1\u05d3\u05d9\u05d0\u05df"
@@ -85,11 +67,20 @@
     "name:hsb_x_preferred":[
         "Lebjedja\u0144"
     ],
+    "name:hye_x_preferred":[
+        "\u053c\u0565\u0562\u0565\u0564\u0575\u0561\u0576"
+    ],
     "name:ita_x_preferred":[
         "Lebedjan'"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d4\u10d1\u10d4\u10d3\u10d8\u10d0\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub808\ubca0\ub320"
+    ],
+    "name:nld_x_preferred":[
+        "Lebedjan"
     ],
     "name:nno_x_preferred":[
         "Lebedjan"
@@ -99,9 +90,6 @@
     ],
     "name:nor_x_preferred":[
         "Lebedjan"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u0628\u062f\u06cc\u0627\u0646"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u0431\u0435\u0434\u044f\u043d\u044c"
@@ -185,7 +173,7 @@
         }
     ],
     "wof:id":102004521,
-    "wof:lastmodified":1527637842,
+    "wof:lastmodified":1561831720,
     "wof:name":"Lebedyan",
     "wof:parent_id":1108734893,
     "wof:placetype":"locality",

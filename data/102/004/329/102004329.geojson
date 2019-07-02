@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001182,
-    "geom:area_square_m":8704636.105142,
+    "geom:area_square_m":8704636.105141,
     "geom:bbox":"34.4040565491,53.423248291,34.4481925964,53.4600830078",
     "geom:latitude":53.442625,
     "geom:longitude":34.422657,
@@ -36,13 +36,7 @@
     "name:che_x_preferred":[
         "\u0424\u043e\u043a\u0438\u043d\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u798f\u57fa\u8afe"
-    ],
     "name:deu_x_preferred":[
-        "Fokino"
-    ],
-    "name:dut_x_preferred":[
         "Fokino"
     ],
     "name:eng_x_preferred":[
@@ -63,10 +57,7 @@
     "name:fin_x_preferred":[
         "Fokino"
     ],
-    "name:fre_x_preferred":[
-        "Fokino"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Fokino"
     ],
     "name:hrv_x_preferred":[
@@ -105,9 +96,6 @@
     ],
     "name:nor_x_preferred":[
         "Fokino"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0648\u06a9\u06cc\u0646\u0648\u060c \u0627\u0633\u062a\u0627\u0646 \u0628\u0631\u06cc\u0627\u0646\u0633\u06a9"
     ],
     "name:pol_x_preferred":[
         "Fokino"
@@ -173,7 +161,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688121
+        85688121,
+        1108733537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -195,7 +184,7 @@
         }
     ],
     "wof:id":102004329,
-    "wof:lastmodified":1514501243,
+    "wof:lastmodified":1561831722,
     "wof:name":"Fokino",
     "wof:parent_id":1108733537,
     "wof:placetype":"locality",

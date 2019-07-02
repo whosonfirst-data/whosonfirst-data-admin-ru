@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002709,
-    "geom:area_square_m":20264720.362367,
+    "geom:area_square_m":20264720.362361,
     "geom:bbox":"52.2256126404,52.7376403809,52.3029174805,52.8105545044",
     "geom:latitude":52.778769,
     "geom:longitude":52.267514,
@@ -22,9 +22,6 @@
     "mz:min_zoom":6.7,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0632\u0648\u0644\u0648\u0643"
-    ],
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u0582\u0566\u0578\u0582\u056c\u0578\u0582\u056f"
     ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u0632\u0648\u0644\u0648\u06a9"
@@ -44,19 +41,13 @@
     "name:cat_x_preferred":[
         "Buzuluk"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u7956\u76e7\u514b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Buzuluk"
     ],
     "name:deu_x_preferred":[
         "Busuluk"
     ],
     "name:diq_x_preferred":[
-        "Buzuluk"
-    ],
-    "name:dut_x_preferred":[
         "Buzuluk"
     ],
     "name:eng_x_preferred":[
@@ -77,12 +68,6 @@
     "name:fra_x_preferred":[
         "Bouzoulouk"
     ],
-    "name:fre_x_preferred":[
-        "Bouzoulouk"
-    ],
-    "name:ger_x_preferred":[
-        "Busuluk"
-    ],
     "name:heb_x_preferred":[
         "\u05d1\u05d5\u05d6\u05d5\u05dc\u05d5\u05e7"
     ],
@@ -91,6 +76,9 @@
     ],
     "name:hsb_x_preferred":[
         "Buzuluk"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0582\u0566\u0578\u0582\u056c\u0578\u0582\u056f"
     ],
     "name:ita_x_preferred":[
         "Buzuluk"
@@ -101,14 +89,14 @@
     "name:lit_x_preferred":[
         "Buzulukas"
     ],
+    "name:nld_x_preferred":[
+        "Buzuluk"
+    ],
     "name:nno_x_preferred":[
         "Buzuluk"
     ],
     "name:nob_x_preferred":[
         "Buzuluk"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u0632\u0648\u0644\u0648\u06a9"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0648\u0632\u0648\u0644\u0648\u06a9"
@@ -119,13 +107,13 @@
     "name:por_x_preferred":[
         "Buzuluk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Buzuluk"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0437\u0443\u043b\u0443\u043a"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Buzuluk"
     ],
     "name:spa_x_preferred":[
@@ -282,7 +270,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688081
+        85688081,
+        1108733149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -304,7 +293,7 @@
         }
     ],
     "wof:id":102010785,
-    "wof:lastmodified":1514500888,
+    "wof:lastmodified":1561831705,
     "wof:name":"Buzuluk",
     "wof:parent_id":1108733149,
     "wof:placetype":"locality",

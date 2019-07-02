@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000302,
-    "geom:area_square_m":2162480.631676,
+    "geom:area_square_m":2162480.631675,
     "geom:bbox":"33.172416687,54.567943573,33.203414917,54.584526062",
     "geom:latitude":54.576157,
     "geom:longitude":33.189438,
@@ -37,20 +37,17 @@
     "name:cat_x_preferred":[
         "I\u00e9lnia"
     ],
+    "name:ces_x_preferred":[
+        "Jel\u0148a"
+    ],
     "name:che_x_preferred":[
         "\u0415\u043b\u044c\u043d\u044f"
     ],
-    "name:chi_x_preferred":[
-        "\u8449\u5229\u5c3c\u4e9e"
-    ],
-    "name:cze_x_preferred":[
-        "Jel\u0148a"
+    "name:deu_x_preferred":[
+        "Jelnja"
     ],
     "name:diq_x_preferred":[
         "Yelnya"
-    ],
-    "name:dut_x_preferred":[
-        "Jelnja"
     ],
     "name:eng_x_preferred":[
         "Yel'nya"
@@ -58,14 +55,14 @@
     "name:epo_x_preferred":[
         "Jelnja"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0644\u0646\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Jelnja"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ielnia"
-    ],
-    "name:ger_x_preferred":[
-        "Jelnja"
     ],
     "name:hsb_x_preferred":[
         "Jelnja"
@@ -79,6 +76,9 @@
     "name:kor_x_preferred":[
         "\uc610\ub0d0"
     ],
+    "name:nld_x_preferred":[
+        "Jelnja"
+    ],
     "name:nno_x_preferred":[
         "Jelnja"
     ],
@@ -87,9 +87,6 @@
     ],
     "name:nor_x_preferred":[
         "Jelnja"
-    ],
-    "name:per_x_preferred":[
-        "\u06cc\u0644\u0646\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Jelnia"
@@ -121,6 +118,9 @@
     "name:war_x_preferred":[
         "Yelnya"
     ],
+    "name:zho_x_preferred":[
+        "\u8449\u5229\u5c3c\u4e9e"
+    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0421\u043c\u043e\u043b\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"6700900100000",
@@ -144,7 +144,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85687819
+        85687819,
+        1108733477
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":102003761,
-    "wof:lastmodified":1514504052,
+    "wof:lastmodified":1561831715,
     "wof:name":"Yelnya",
     "wof:parent_id":1108733477,
     "wof:placetype":"locality",

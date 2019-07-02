@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000761,
-    "geom:area_square_m":5108160.91691,
+    "geom:area_square_m":5108160.916911,
     "geom:bbox":"49.9912796021,57.09349823,50.0199432373,57.1303596497",
     "geom:latitude":57.113149,
     "geom:longitude":50.006328,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631\u062c\u0648\u0645"
     ],
-    "name:arm_x_preferred":[
-        "\u0548\u0582\u0580\u056a\u0578\u0582\u0574"
-    ],
     "name:azb_x_preferred":[
         "\u0627\u0648\u0631\u0698\u0627\u0648\u0645"
     ],
@@ -32,20 +29,17 @@
     "name:bel_x_preferred":[
         "\u0423\u0440\u0436\u0443\u043c"
     ],
+    "name:ces_x_preferred":[
+        "Ur\u017eum"
+    ],
     "name:che_x_preferred":[
         "\u0423\u0440\u0436\u0443\u043c"
-    ],
-    "name:chi_x_preferred":[
-        "\u70cf\u723e\u8339\u59c6"
     ],
     "name:chv_x_preferred":[
         "\u0423\u0440\u0436\u0443\u043c"
     ],
-    "name:cze_x_preferred":[
-        "Ur\u017eum"
-    ],
-    "name:dut_x_preferred":[
-        "Oerzjoem"
+    "name:deu_x_preferred":[
+        "Urschum"
     ],
     "name:eng_x_preferred":[
         "Urzhum"
@@ -56,20 +50,23 @@
     "name:est_x_preferred":[
         "Ur\u017eum"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u0698\u0648\u0645"
+    ],
     "name:fin_x_preferred":[
         "Ur\u017eum"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ourjoum"
-    ],
-    "name:ger_x_preferred":[
-        "Urschum"
     ],
     "name:hsb_x_preferred":[
         "Ur\u017eum"
     ],
     "name:hun_x_preferred":[
         "Urzsum"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0580\u056a\u0578\u0582\u0574"
     ],
     "name:ita_x_preferred":[
         "Ur\u017eum"
@@ -80,6 +77,9 @@
     "name:mhr_x_preferred":[
         "\u0412\u04f1\u0440\u0437\u044b\u043c"
     ],
+    "name:nld_x_preferred":[
+        "Oerzjoem"
+    ],
     "name:nno_x_preferred":[
         "Urzjum"
     ],
@@ -89,13 +89,10 @@
     "name:nor_x_preferred":[
         "Urzjum"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0631\u0698\u0648\u0645"
-    ],
     "name:rus_x_preferred":[
         "\u0423\u0440\u0436\u0443\u043c"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ur\u017eum"
     ],
     "name:srp_x_preferred":[
@@ -115,6 +112,9 @@
     ],
     "name:war_x_preferred":[
         "Urzhum"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u723e\u8339\u59c6"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -139,7 +139,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85687903
+        85687903,
+        1108737201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":102008661,
-    "wof:lastmodified":1553815712,
+    "wof:lastmodified":1561831683,
     "wof:name":"Urzhum",
     "wof:parent_id":1108737201,
     "wof:placetype":"locality",

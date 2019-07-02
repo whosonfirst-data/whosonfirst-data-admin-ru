@@ -53,17 +53,11 @@
     "mps:longitude":45.9695,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0549\u0565\u057c\u0576\u0578\u0575\u0561\u0580\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:che_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u044f\u0440\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u4e54\u5c14\u5185\u4e9a\u5c14\u533a"
-    ],
-    "name:dut_x_preferred":[
-        "Tsjernojarskiy rayon"
+    "name:deu_x_preferred":[
+        "Tschernojarski rajon"
     ],
     "name:eng_x_preferred":[
         "Chernojarskiy"
@@ -72,14 +66,17 @@
         "CHernojarskij",
         "Chernojarskiy"
     ],
-    "name:ger_x_preferred":[
-        "Tschernojarski rajon"
-    ],
     "name:hun_x_preferred":[
         "Csornij Jar-i j\u00e1r\u00e1s"
     ],
+    "name:hye_x_preferred":[
+        "\u0549\u0565\u057c\u0576\u0578\u0575\u0561\u0580\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ita_x_preferred":[
         "\u010cernojarskij rajon"
+    ],
+    "name:nld_x_preferred":[
+        "Tsjernojarskiy rayon"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -95,6 +92,9 @@
     ],
     "name:vie_x_preferred":[
         "Chernoyarsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e54\u5c14\u5185\u4e9a\u5c14\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1108733257,
-    "wof:lastmodified":1561582023,
+    "wof:lastmodified":1561832356,
     "wof:name":"Chernojarskiy",
     "wof:parent_id":85687985,
     "wof:placetype":"county",

@@ -37,20 +37,20 @@
     "name:cat_x_preferred":[
         "Prok\u00f3pievsk"
     ],
+    "name:ces_x_preferred":[
+        "Prokopjevsk"
+    ],
     "name:che_x_preferred":[
         "\u041f\u0440\u043e\u043a\u043e\u043f\u044c\u0435\u0432\u0441\u043a"
-    ],
-    "name:chi_x_preferred":[
-        "\u666e\u7f85\u79d1\u76ae\u8036\u592b\u65af\u514b"
-    ],
-    "name:cze_x_preferred":[
-        "Prokopjevsk"
     ],
     "name:dan_x_preferred":[
         "Prokopevsk"
     ],
-    "name:dut_x_preferred":[
-        "Prokopjevsk"
+    "name:deu_x_preferred":[
+        "Prokopjewsk"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03c1\u03bf\u03ba\u03cc\u03c0\u03b9\u03c6\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Prokop'yevsk"
@@ -64,17 +64,14 @@
     "name:est_x_preferred":[
         "Prokopjevsk"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0648\u06a9\u0648\u067e\u06cc\u0641\u0633\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Prokopjevsk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Prokopievsk"
-    ],
-    "name:ger_x_preferred":[
-        "Prokopjewsk"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03c1\u03bf\u03ba\u03cc\u03c0\u03b9\u03c6\u03c3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0ab0\u0acb\u0a95\u0ac9\u0aaa\u0abf\u0ab5\u0ac7\u0a8f\u0ab8\u0acd\u0a95"
@@ -109,11 +106,14 @@
     "name:mar_x_preferred":[
         "\u092a\u094d\u0930\u0949\u0915\u094b\u092a\u0940\u090f\u0938\u094d\u0915"
     ],
-    "name:may_x_preferred":[
-        "Prokopyevsk"
-    ],
     "name:mhr_x_preferred":[
         "\u041f\u0440\u043e\u043a\u043e\u043f\u044c\u0435\u0432\u0441\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Prokopyevsk"
+    ],
+    "name:nld_x_preferred":[
+        "Prokopjevsk"
     ],
     "name:nno_x_preferred":[
         "Prokopjevsk"
@@ -127,9 +127,6 @@
     "name:oss_x_preferred":[
         "\u041f\u0440\u043e\u043a\u043e\u043f\u044c\u0435\u0432\u0441\u043a"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0631\u0648\u06a9\u0648\u067e\u06cc\u0641\u0633\u06a9"
-    ],
     "name:pnb_x_preferred":[
         "\u067e\u0631\u0648\u06a9\u0648\u067e\u06cc\u0626\u0648\u0633\u06a9"
     ],
@@ -139,7 +136,7 @@
     "name:por_x_preferred":[
         "Prokopyevsk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Prokopievsk"
     ],
     "name:rus_x_preferred":[
@@ -190,6 +187,9 @@
     "name:war_x_preferred":[
         "Prokopyevsk"
     ],
+    "name:zho_x_preferred":[
+        "\u666e\u7f85\u79d1\u76ae\u8036\u592b\u65af\u514b"
+    ],
     "qs_pg:aaroncc":"RU",
     "qs_pg:gn_country":"RU",
     "qs_pg:gn_fcode":"PPL",
@@ -231,7 +231,7 @@
         }
     ],
     "wof:id":1125880559,
-    "wof:lastmodified":1514502728,
+    "wof:lastmodified":1561832806,
     "wof:name":"Prokop\u2019yevsk",
     "wof:parent_id":1108736009,
     "wof:placetype":"locality",

@@ -49,9 +49,6 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u0627\u062a\u0634\u0627\u064a - \u062a\u0634\u064a\u0631\u0643\u064a\u0633\u064a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0561\u0580\u0561\u0579\u0561\u0575-\u0549\u0565\u0580\u0584\u0565\u0566\u056b\u0561"
-    ],
     "name:ava_x_preferred":[
         "\u041a\u044a\u0430\u0440\u0430\u0447\u0430\u0439-\u0427\u0435\u0440\u043a\u0435\u0441"
     ],
@@ -63,9 +60,6 @@
     ],
     "name:bak_x_preferred":[
         "\u04a0\u0430\u0440\u0430\u0441\u04d9\u0439-\u0427\u0435\u0440\u043a\u0435\u0441 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u04bb\u044b"
-    ],
-    "name:baq_x_preferred":[
-        "Karatxai-Txerkesia"
     ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u0430-\u0427\u0430\u0440\u043a\u0435\u0441\u0456\u044f"
@@ -88,23 +82,23 @@
     "name:cat_x_preferred":[
         "Karatxai-Txerk\u00e8ssia"
     ],
+    "name:ces_x_preferred":[
+        "Kara\u010dajevsko-\u010cerkesko"
+    ],
     "name:che_x_preferred":[
         "\u041a\u0445\u0430\u0440\u0430\u0447\u043e\u0439-\u0427\u0435\u0440\u0433\u0430\u0437\u0438\u0439\u0447\u043e\u044c"
-    ],
-    "name:chi_x_preferred":[
-        "\u5361\u62c9\u6070\u4f0a-\u5207\u5c14\u514b\u65af\u5171\u548c\u56fd"
-    ],
-    "name:cze_x_preferred":[
-        "Kara\u010dajevsko-\u010cerkesko"
     ],
     "name:dan_x_preferred":[
         "Karatjajevo-Tjerkessien"
     ],
+    "name:deu_x_preferred":[
+        "Karatschai-Tscherkessien"
+    ],
     "name:diq_x_preferred":[
         "Kara\u00e7ay-\u00c7erkezya"
     ],
-    "name:dut_x_preferred":[
-        "Karatsjaj-Tsjerkessi\u00eb"
+    "name:ell_x_preferred":[
+        "\u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03c9\u03bd \u039a\u03b1\u03c1\u03b1\u03c4\u03c3\u03ac\u03b9 - \u03a4\u03c3\u03b5\u03c1\u03ba\u03b5\u03c3\u03af\u03c9\u03bd"
     ],
     "name:eng_x_preferred":[
         "Karachay-Cherkess"
@@ -121,32 +115,29 @@
     "name:est_x_preferred":[
         "Karat\u0161ai-T\u0161erkessia"
     ],
+    "name:eus_x_preferred":[
+        "Karatxai-Txerkesia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u0647\u200c\u0686\u0627\u06cc \u0648 \u0686\u0631\u06a9\u0633"
+    ],
     "name:fin_x_preferred":[
         "Karat\u0161ai-T\u0161erkessia"
     ],
     "name:fra_x_preferred":[
         "Province de Karatcha\u00ef\u00e9vo-Tcherkessie"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Karatcha\u00ef\u00e9vo-Tcherkessie"
     ],
     "name:gag_x_preferred":[
         "Kara\u00e7aevo-\u00c7erkesiya"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e7\u10d0\u10e0\u10d0\u10e9\u10d0\u10d8-\u10e9\u10d4\u10e0\u10e5\u10d4\u10d6\u10d4\u10d7\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Karatschai-Tscherkessien"
     ],
     "name:gle_x_preferred":[
         "An Charaits\u00e9-Shiorc\u00e1is"
     ],
     "name:glg_x_preferred":[
         "Karachay-Cherkessia"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03c9\u03bd \u039a\u03b1\u03c1\u03b1\u03c4\u03c3\u03ac\u03b9 - \u03a4\u03c3\u03b5\u03c1\u03ba\u03b5\u03c3\u03af\u03c9\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ab0\u0abe\u0a9a\u0abe\u0aaf-\u0a9a\u0ac7\u0ab0\u0acd\u0a95\u0ac7\u0ab8 \u0ab0\u0abf\u0aaa\u0aac\u0acd\u0ab2\u0abf\u0a95"
@@ -169,6 +160,9 @@
     "name:hun_x_preferred":[
         "Karacs\u00e1j- \u00e9s Cserkeszf\u00f6ld"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0580\u0561\u0579\u0561\u0575-\u0549\u0565\u0580\u0584\u0565\u0566\u056b\u0561"
+    ],
     "name:ind_x_preferred":[
         "Karachay-Cherkessia"
     ],
@@ -183,6 +177,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c9a\u0cbe\u0cb0\u0ccd\u0c95\u0cc6\u0cb8\u0ccd-\u0cb0\u0cbf\u0caa\u0cac\u0ccd\u0cb2\u0cbf\u0c95\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10e0\u10d0\u10e9\u10d0\u10d8-\u10e9\u10d4\u10e0\u10e5\u10d4\u10d6\u10d4\u10d7\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u049a\u0430\u0440\u0430\u0448\u0430\u0439-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f"
@@ -214,20 +211,20 @@
     "name:lit_x_preferred":[
         "Kara\u010diaj\u0173 \u010cerkesija"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u0458\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u0930\u093e\u091a\u093e\u092f-\u091a\u0947\u0930\u094d\u0915\u0947\u0938 \u092a\u094d\u0930\u091c\u093e\u0938\u0924\u094d\u0924\u093e\u0915"
-    ],
-    "name:may_x_preferred":[
-        "Karachay-Cherkessia"
     ],
     "name:mhr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0447\u0430\u0439-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u0439"
     ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u0458\u0430"
+    ],
     "name:mon_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0447\u0430\u0439-\u0427\u0435\u0440\u043a\u0435\u0441\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Karachay-Cherkessia"
     ],
     "name:myv_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u0430\u043d\u044c-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044c"
@@ -237,6 +234,9 @@
     ],
     "name:nan_x_preferred":[
         "Karachay-Cherkessia"
+    ],
+    "name:nld_x_preferred":[
+        "Karatsjaj-Tsjerkessi\u00eb"
     ],
     "name:nno_x_preferred":[
         "Karatsjajevo-Tsjerkessia"
@@ -250,9 +250,6 @@
     "name:oss_x_preferred":[
         "\u0425\u044a\u00e6\u0440\u00e6\u0441\u0435-\u0427\u0435\u0440\u043a\u0435\u0441"
     ],
-    "name:per_x_preferred":[
-        "\u0642\u0631\u0647\u200c\u0686\u0627\u06cc \u0648 \u0686\u0631\u06a9\u0633"
-    ],
     "name:pnb_x_preferred":[
         "\u06a9\u0631\u0627\u0686\u0627\u06d3 \u0686\u0631\u06a9\u06cc\u0633\u06cc\u0627"
     ],
@@ -262,7 +259,7 @@
     "name:por_x_preferred":[
         "Carachai-Circ\u00e1ssia"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Karaciai-Cerchezia"
     ],
     "name:rus_x_preferred":[
@@ -284,7 +281,7 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dbb\u0da0\u0dda-\u0da0\u0dd9\u0dbb\u0dca\u0d9a\u0dd9\u0dc3\u0dca \u0da2\u0db1\u0dbb\u0da2\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kara\u010dajsko-\u010cerkesko"
     ],
     "name:slv_x_preferred":[
@@ -368,6 +365,9 @@
     ],
     "name:yue_x_preferred":[
         "\u5361\u62c9\u6070\u4f0a-\u5207\u723e\u514b\u65af\u5171\u548c\u570b"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u6070\u4f0a-\u5207\u5c14\u514b\u65af\u5171\u548c\u56fd"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"RUS",
@@ -503,7 +503,7 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1561573943,
+    "wof:lastmodified":1561831850,
     "wof:name":"Karachay-Cherkess",
     "wof:parent_id":85632685,
     "wof:placetype":"region",

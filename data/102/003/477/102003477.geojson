@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000369,
-    "geom:area_square_m":2601134.767491,
+    "geom:area_square_m":2601134.76749,
     "geom:bbox":"32.404335022,55.1844711304,32.4309997559,55.2027206421",
     "geom:latitude":55.192588,
     "geom:longitude":32.416796,
@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u062e\u0648\u0641\u0634\u062a\u0634\u064a\u0646\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u0578\u0582\u056d\u0578\u057e\u0577\u0579\u056b\u0576\u0561"
-    ],
     "name:azb_x_preferred":[
         "\u062f\u0648\u06a9\u0647\u0648\u0648\u0634\u0686\u0627\u06cc\u0646\u0627"
     ],
@@ -40,20 +37,17 @@
     "name:cat_x_preferred":[
         "Dukhovsxina"
     ],
+    "name:ces_x_preferred":[
+        "Duchov\u0161\u010dina"
+    ],
     "name:che_x_preferred":[
         "\u0414\u0443\u0445\u043e\u0432\u0449\u0438\u043d\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u675c\u970d\u592b\u5e0c\u7d0d"
-    ],
-    "name:cze_x_preferred":[
-        "Duchov\u0161\u010dina"
+    "name:cym_x_preferred":[
+        "Dukhovshchina"
     ],
     "name:deu_x_preferred":[
         "Duchowschtschina"
-    ],
-    "name:dut_x_preferred":[
-        "Doechovsjtsjina"
     ],
     "name:eng_x_preferred":[
         "Dukhovshchina"
@@ -70,14 +64,11 @@
     "name:fra_x_preferred":[
         "Doukhovchtchina"
     ],
-    "name:fre_x_preferred":[
-        "Doukhovchtchina"
-    ],
-    "name:ger_x_preferred":[
-        "Duchowschtschina"
-    ],
     "name:hsb_x_preferred":[
         "Duchow\u0161\u0107ina"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0582\u056d\u0578\u057e\u0577\u0579\u056b\u0576\u0561"
     ],
     "name:ita_x_preferred":[
         "Duchov\u0161\u010dina"
@@ -102,9 +93,6 @@
     ],
     "name:nor_x_preferred":[
         "Dukhovsjtsjina"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u062e\u0648\u0641\u0634\u0686\u06cc\u0646\u0627"
     ],
     "name:pol_x_preferred":[
         "Duchowszczina"
@@ -136,9 +124,6 @@
     "name:war_x_preferred":[
         "Dukhovshchina"
     ],
-    "name:wel_x_preferred":[
-        "Dukhovshchina"
-    ],
     "name:zho_x_preferred":[
         "\u675c\u970d\u592b\u5e0c\u7d0d"
     ],
@@ -165,7 +150,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85687819
+        85687819,
+        1108733429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -187,7 +173,7 @@
         }
     ],
     "wof:id":102003477,
-    "wof:lastmodified":1514501198,
+    "wof:lastmodified":1561831710,
     "wof:name":"Dukhovshchina",
     "wof:parent_id":1108733429,
     "wof:placetype":"locality",

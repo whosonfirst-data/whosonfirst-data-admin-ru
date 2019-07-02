@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.00067,
-    "geom:area_square_m":4331236.494453,
+    "geom:area_square_m":4331236.494451,
     "geom:bbox":"56.4028892517,58.4395294189,56.4550819397,58.4660568237",
     "geom:latitude":58.453615,
     "geom:longitude":56.427811,
@@ -37,10 +37,7 @@
     "name:che_x_preferred":[
         "\u0414\u043e\u0431\u0440\u044f\u043d\u043a\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u5e03\u826f\u5361"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dobrjanka"
     ],
     "name:eng_x_preferred":[
@@ -49,14 +46,14 @@
     "name:epo_x_preferred":[
         "Dobrjanka"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u06cc\u0627\u0646\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Dobrjanka"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dobrianka"
-    ],
-    "name:ger_x_preferred":[
-        "Dobrjanka"
     ],
     "name:hsb_x_preferred":[
         "Dobrjanka"
@@ -76,6 +73,9 @@
     "name:lit_x_preferred":[
         "Dobrianka"
     ],
+    "name:nld_x_preferred":[
+        "Dobrjanka"
+    ],
     "name:nno_x_preferred":[
         "Dobrjanka"
     ],
@@ -84,9 +84,6 @@
     ],
     "name:nor_x_preferred":[
         "Dobrjanka"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u0628\u0631\u06cc\u0627\u0646\u06a9\u0627"
     ],
     "name:rus_x_preferred":[
         "\u0414\u043e\u0431\u0440\u044f\u043d\u043a\u0430"
@@ -114,6 +111,9 @@
     ],
     "name:war_x_preferred":[
         "Dobryanka"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u5e03\u826f\u5361"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -160,7 +160,7 @@
         }
     ],
     "wof:id":102008307,
-    "wof:lastmodified":1553815712,
+    "wof:lastmodified":1561831681,
     "wof:name":"Dobryanka",
     "wof:parent_id":1108733389,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003164,
-    "geom:area_square_m":25047576.119192,
+    "geom:area_square_m":25047576.119194,
     "geom:bbox":"38.0825538635,50.1423339844,38.1718902588,50.2313346863",
     "geom:latitude":50.190115,
     "geom:longitude":38.12241,
@@ -38,11 +38,8 @@
     "name:che_x_preferred":[
         "\u0412\u0430\u043b\u0443\u0439\u043a\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u76e7\u4f0a\u57fa"
-    ],
-    "name:dut_x_preferred":[
-        "Valoejki"
+    "name:deu_x_preferred":[
+        "Waluiki"
     ],
     "name:eng_x_preferred":[
         "Valuyki"
@@ -50,14 +47,14 @@
     "name:epo_x_preferred":[
         "Valujki"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0644\u0648\u06cc\u06a9\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Valuiki"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Valou\u00efki"
-    ],
-    "name:ger_x_preferred":[
-        "Waluiki"
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05d0\u05dc\u05d5\u05d9\u05e7\u05d9"
@@ -74,6 +71,9 @@
     "name:lit_x_preferred":[
         "Valuikai"
     ],
+    "name:nld_x_preferred":[
+        "Valoejki"
+    ],
     "name:nno_x_preferred":[
         "Valujki"
     ],
@@ -82,9 +82,6 @@
     ],
     "name:nor_x_preferred":[
         "Valujki"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u0627\u0644\u0648\u06cc\u06a9\u06cc"
     ],
     "name:pol_x_preferred":[
         "Wa\u0142ujki"
@@ -124,6 +121,9 @@
     ],
     "name:xal_x_preferred":[
         "\u0412\u0430\u043b\u0443\u0439\u043a\u0438 \u0431\u0430\u043b\u04bb\u0441\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u76e7\u4f0a\u57fa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -240,7 +240,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85687813
+        85687813,
+        1108737293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -262,7 +263,7 @@
         }
     ],
     "wof:id":102006411,
-    "wof:lastmodified":1514503827,
+    "wof:lastmodified":1561831693,
     "wof:name":"Valuyki",
     "wof:parent_id":1108737293,
     "wof:placetype":"locality",

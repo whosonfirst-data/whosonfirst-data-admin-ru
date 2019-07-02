@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000875,
-    "geom:area_square_m":5846793.099532,
+    "geom:area_square_m":5846793.099531,
     "geom:bbox":"55.4269447327,57.2723617554,55.4794998169,57.2981681824",
     "geom:latitude":57.28485,
     "geom:longitude":55.454576,
@@ -35,14 +35,8 @@
     "name:che_x_preferred":[
         "\u041e\u0441\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u85a9"
-    ],
     "name:deu_x_preferred":[
         "Ossa"
-    ],
-    "name:dut_x_preferred":[
-        "Osa"
     ],
     "name:eng_x_preferred":[
         "Osa"
@@ -59,12 +53,6 @@
     "name:fra_x_preferred":[
         "Ossa"
     ],
-    "name:fre_x_preferred":[
-        "Ossa"
-    ],
-    "name:ger_x_preferred":[
-        "Ossa"
-    ],
     "name:hsb_x_preferred":[
         "Osa"
     ],
@@ -77,6 +65,9 @@
     "name:koi_x_preferred":[
         "\u041e\u0441\u0430"
     ],
+    "name:nld_x_preferred":[
+        "Osa"
+    ],
     "name:nno_x_preferred":[
         "Osa i Perm kraj"
     ],
@@ -85,9 +76,6 @@
     ],
     "name:nor_x_preferred":[
         "Osa"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0633\u0627\u060c \u067e\u0631\u0645"
     ],
     "name:pol_x_preferred":[
         "Osa"
@@ -139,7 +127,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85687975
+        85687975,
+        1108735719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -161,7 +150,7 @@
         }
     ],
     "wof:id":102008625,
-    "wof:lastmodified":1553815712,
+    "wof:lastmodified":1561831685,
     "wof:name":"Osa",
     "wof:parent_id":1108735719,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000863,
-    "geom:area_square_m":6207048.329017,
+    "geom:area_square_m":6207048.329019,
     "geom:bbox":"40.4900970459,54.40650177,40.5493888855,54.443359375",
     "geom:latitude":54.426358,
     "geom:longitude":40.520603,
@@ -28,14 +28,11 @@
     "name:che_x_preferred":[
         "\u0421\u043f\u0430\u0441\u0441\u043a-\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0438\u0439"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u5e15\u65af\u514b-\u6881\u8d5e\u65af\u57fa"
+    "name:deu_x_preferred":[
+        "Spassk-Rjasanski"
     ],
     "name:diq_x_preferred":[
         "Spassk-Ryazansky"
-    ],
-    "name:dut_x_preferred":[
-        "Spassk-Rjazanskiy"
     ],
     "name:eng_x_preferred":[
         "Spassk-Ryazanskiy"
@@ -43,14 +40,14 @@
     "name:epo_x_preferred":[
         "Spassk-Rjazanskij"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u067e\u0627\u0633\u06a9-\u0631\u06cc\u0627\u0632\u0627\u0646\u0633\u06a9\u06cc\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Spassk-Rjazanski"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Spassk-Riazanski"
-    ],
-    "name:ger_x_preferred":[
-        "Spassk-Rjasanski"
     ],
     "name:hsb_x_preferred":[
         "Spassk-Rjazanskij"
@@ -64,6 +61,9 @@
     "name:kor_x_preferred":[
         "\uc2a4\ud30c\uc2a4\ud06c\ub7b4\uc794\uc2a4\ud0a4"
     ],
+    "name:nld_x_preferred":[
+        "Spassk-Rjazanskiy"
+    ],
     "name:nno_x_preferred":[
         "Spassk-Rjazanskij"
     ],
@@ -72,9 +72,6 @@
     ],
     "name:nor_x_preferred":[
         "Spassk-Rjazanskij"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u067e\u0627\u0633\u06a9-\u0631\u06cc\u0627\u0632\u0627\u0646\u0633\u06a9\u06cc\u06cc"
     ],
     "name:rus_x_preferred":[
         "\u0421\u043f\u0430\u0441\u0441\u043a-\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0438\u0439"
@@ -102,6 +99,9 @@
     ],
     "name:war_x_preferred":[
         "Spassk-Ryazansky"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5e15\u65af\u514b-\u6881\u8d5e\u65af\u57fa"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -149,7 +149,7 @@
         }
     ],
     "wof:id":102003819,
-    "wof:lastmodified":1527637833,
+    "wof:lastmodified":1561831710,
     "wof:name":"Spassk Ryazanskiy",
     "wof:parent_id":1108736777,
     "wof:placetype":"locality",

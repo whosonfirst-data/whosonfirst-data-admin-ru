@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002114,
-    "geom:area_square_m":13921243.021162,
+    "geom:area_square_m":13921243.021163,
     "geom:bbox":"28.2887496948,57.7874450684,28.4085273743,57.8394737244",
     "geom:latitude":57.81516,
     "geom:longitude":28.355572,
@@ -24,9 +24,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0633\u0643\u0648\u0641"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u057d\u056f\u0578\u057e"
-    ],
     "name:azb_x_preferred":[
         "\u067e\u0633\u06a9\u0648\u0641"
     ],
@@ -35,9 +32,6 @@
     ],
     "name:bak_x_preferred":[
         "\u041f\u0441\u043a\u043e\u0432"
-    ],
-    "name:baq_x_preferred":[
-        "Pskov"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0441\u043a\u043e\u045e"
@@ -63,9 +57,6 @@
     "name:che_x_preferred":[
         "\u041f\u0441\u043a\u043e\u0432"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u65af\u79d1\u592b"
-    ],
     "name:chu_x_preferred":[
         "\u041f\u043b\u044c\u0441\u043a\u043e\u0432\u044a \u00b7 \u0420\u0461\u0441\u0457\u0438"
     ],
@@ -73,9 +64,6 @@
         "\u041f\u0441\u043a\u043e\u0432"
     ],
     "name:cym_x_preferred":[
-        "Pskov"
-    ],
-    "name:cze_x_preferred":[
         "Pskov"
     ],
     "name:dan_x_preferred":[
@@ -90,11 +78,11 @@
     "name:diq_x_preferred":[
         "Pskov"
     ],
-    "name:dut_x_preferred":[
-        "Pskov"
-    ],
     "name:ell_x_preferred":[
         "\u03a0\u03c3\u03ba\u03bf\u03c6"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03c3\u03ba\u03bf\u03b2"
     ],
     "name:eng_x_preferred":[
         "Pskov"
@@ -117,20 +105,8 @@
     "name:fra_x_preferred":[
         "Pskov"
     ],
-    "name:fre_x_preferred":[
-        "Pskov"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10e1\u10d9\u10dd\u10d5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Pskow"
-    ],
     "name:glg_x_preferred":[
         "Pskov"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03c3\u03ba\u03bf\u03b2"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0ab8\u0a95\u0acb\u0ab5"
@@ -189,20 +165,20 @@
     "name:ltz_x_preferred":[
         "Pskow"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0441\u043a\u043e\u0432"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u094d\u0938\u0915\u094b\u0935"
-    ],
-    "name:may_x_preferred":[
-        "Pskov"
     ],
     "name:mhr_x_preferred":[
         "\u041f\u0441\u043a\u043e\u0432"
     ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0441\u043a\u043e\u0432"
+    ],
     "name:mon_x_preferred":[
         "\u041f\u0441\u043a\u043e\u0432"
+    ],
+    "name:msa_x_preferred":[
+        "Pskov"
     ],
     "name:myv_x_preferred":[
         "\u041f\u0441\u043a\u043e\u0432 \u043e\u0448"
@@ -228,9 +204,6 @@
     "name:oss_x_preferred":[
         "\u041f\u0441\u043a\u043e\u0432"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0633\u06a9\u0648\u0641"
-    ],
     "name:pol_x_preferred":[
         "Psk\u00f3w"
     ],
@@ -238,9 +211,6 @@
         "Pskov"
     ],
     "name:ron_x_preferred":[
-        "Pskov"
-    ],
-    "name:rum_x_preferred":[
         "Pskov"
     ],
     "name:rus_x_preferred":[
@@ -253,9 +223,6 @@
         "\u0db4\u0dca\u0dc3\u0dca\u0d9a\u0ddc\u0dc0\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Pskov"
-    ],
-    "name:slo_x_preferred":[
         "Pskov"
     ],
     "name:slv_x_preferred":[
@@ -319,9 +286,6 @@
         "Pihkva"
     ],
     "name:war_x_preferred":[
-        "Pskov"
-    ],
-    "name:wel_x_preferred":[
         "Pskov"
     ],
     "name:wol_x_preferred":[
@@ -479,7 +443,7 @@
         }
     ],
     "wof:id":102002413,
-    "wof:lastmodified":1527637964,
+    "wof:lastmodified":1561831728,
     "wof:name":"Pskov",
     "wof:parent_id":890484337,
     "wof:placetype":"locality",

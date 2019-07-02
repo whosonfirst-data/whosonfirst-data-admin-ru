@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001297,
-    "geom:area_square_m":11014543.684156,
+    "geom:area_square_m":11014543.68416,
     "geom:bbox":"142.755722046,46.5988349915,142.803909302,46.6480560303",
     "geom:latitude":46.627243,
     "geom:longitude":142.780249,
@@ -35,20 +35,14 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0440\u0441\u0430\u043a\u043e\u0432"
     ],
+    "name:ces_x_preferred":[
+        "Korsakov"
+    ],
     "name:che_x_preferred":[
         "\u041a\u043e\u0440\u0441\u0430\u043a\u043e\u0432"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u5c14\u8428\u79d1\u592b"
-    ],
-    "name:cze_x_preferred":[
-        "Korsakov"
-    ],
     "name:deu_x_preferred":[
         "Korsakow"
-    ],
-    "name:dut_x_preferred":[
-        "Korsakov"
     ],
     "name:eng_x_preferred":[
         "Korsakov"
@@ -62,11 +56,8 @@
     "name:fin_x_preferred":[
         "Korsakov"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Korsakov"
-    ],
-    "name:ger_x_preferred":[
-        "Korsakow"
     ],
     "name:hrv_x_preferred":[
         "Korsakov"
@@ -86,6 +77,9 @@
     "name:kor_x_preferred":[
         "\ucf54\ub974\uc0ac\ucf54\ud504"
     ],
+    "name:nld_x_preferred":[
+        "Korsakov"
+    ],
     "name:nno_x_preferred":[
         "Korsakov"
     ],
@@ -94,9 +88,6 @@
     ],
     "name:nor_x_preferred":[
         "Korsakov"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0631\u0633\u0627\u06a9\u0648\u0641"
     ],
     "name:pol_x_preferred":[
         "Korsakow"
@@ -107,7 +98,7 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u0440\u0441\u0430\u043a\u043e\u0432"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Korsakov"
     ],
     "name:srp_x_preferred":[
@@ -258,7 +249,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688125
+        85688125,
+        1108734599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -280,7 +272,7 @@
         }
     ],
     "wof:id":102001595,
-    "wof:lastmodified":1553815708,
+    "wof:lastmodified":1561831687,
     "wof:name":"Korsakov",
     "wof:parent_id":1108734599,
     "wof:placetype":"locality",

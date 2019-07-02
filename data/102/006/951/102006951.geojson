@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000473,
-    "geom:area_square_m":3881699.241762,
+    "geom:area_square_m":3881699.241761,
     "geom:bbox":"42.2195014954,48.4148902893,42.2484741211,48.4404716492",
     "geom:latitude":48.427316,
     "geom:longitude":42.23505,
@@ -19,17 +19,17 @@
     "mps:longitude":42.233878,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0549\u0565\u0580\u0576\u056b\u0577\u056f\u0578\u057e\u057d\u056f\u056b\u0575"
-    ],
     "name:che_x_preferred":[
         "\u0427\u0435\u0440\u043d\u044b\u0448\u043a\u043e\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:deu_x_preferred":[
+        "Tschernyschkowski"
     ],
     "name:eng_x_preferred":[
         "Chernyshkovskiy"
     ],
-    "name:ger_x_preferred":[
-        "Tschernyschkowski"
+    "name:hye_x_preferred":[
+        "\u0549\u0565\u0580\u0576\u056b\u0577\u056f\u0578\u057e\u057d\u056f\u056b\u0575"
     ],
     "name:ita_x_preferred":[
         "\u010cerny\u0161kovskij"
@@ -69,7 +69,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688101
+        85688101,
+        1108733269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":102006951,
-    "wof:lastmodified":1553815711,
+    "wof:lastmodified":1561831693,
     "wof:name":"Chernyshkovskiy",
     "wof:parent_id":1108733269,
     "wof:placetype":"locality",

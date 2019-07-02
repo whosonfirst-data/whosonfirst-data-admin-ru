@@ -18,9 +18,6 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0648\u0644\u064a\u0648\u0641"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0580\u0578\u056c\u0575\u0578\u057e"
-    ],
     "name:azb_x_preferred":[
         "\u06a9\u0648\u0631\u0648\u0644\u06cc\u0648\u0648"
     ],
@@ -36,20 +33,20 @@
     "name:cat_x_preferred":[
         "Koroliov"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u7f85\u5ed6\u592b"
+    "name:ces_x_preferred":[
+        "Koroljov"
     ],
     "name:chv_x_preferred":[
         "\u041a\u043e\u0440\u043e\u043b\u0451\u0432"
     ],
-    "name:cze_x_preferred":[
-        "Koroljov"
-    ],
     "name:dan_x_preferred":[
         "Koroljov"
     ],
-    "name:dut_x_preferred":[
-        "Koroljov"
+    "name:deu_x_preferred":[
+        "Koroljow"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c1\u03bf\u03bb\u03b9\u03cc\u03c6"
     ],
     "name:eng_x_preferred":[
         "Korolev"
@@ -60,17 +57,14 @@
     "name:est_x_preferred":[
         "Koroljov"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0631\u0648\u0644\u06cc\u0648\u0641"
+    ],
     "name:fin_x_preferred":[
         "Koroljov"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Korolev"
-    ],
-    "name:ger_x_preferred":[
-        "Koroljow"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c1\u03bf\u03bb\u03b9\u03cc\u03c6"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0ab0\u0acb\u0ab2\u0aaf\u0acb\u0ab5"
@@ -89,6 +83,9 @@
     ],
     "name:hun_x_preferred":[
         "Koroljov"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0580\u0578\u056c\u0575\u0578\u057e"
     ],
     "name:ind_x_preferred":[
         "Korolyov"
@@ -114,11 +111,14 @@
     "name:mar_x_preferred":[
         "\u0915\u0945\u0930\u094b\u0932\u0940\u0913\u0935\u094d\u0939"
     ],
-    "name:may_x_preferred":[
-        "Korolyov"
-    ],
     "name:mhr_x_preferred":[
         "\u041a\u043e\u0440\u043e\u043b\u0451\u0432"
+    ],
+    "name:msa_x_preferred":[
+        "Korolyov"
+    ],
+    "name:nld_x_preferred":[
+        "Koroljov"
     ],
     "name:nno_x_preferred":[
         "Koroljov"
@@ -132,9 +132,6 @@
     "name:oss_x_preferred":[
         "\u041a\u043e\u0440\u043e\u043b\u0451\u0432"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0631\u0648\u0644\u06cc\u0648\u0641"
-    ],
     "name:pnb_x_preferred":[
         "\u06a9\u0627\u0631\u0648\u0644\u06cc\u0648"
     ],
@@ -144,7 +141,7 @@
     "name:por_x_preferred":[
         "Korolev"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Koroliov"
     ],
     "name:rus_x_preferred":[
@@ -207,6 +204,9 @@
     "name:xal_x_preferred":[
         "\u041a\u043e\u0440\u043e\u043b\u0451\u0432 \u0431\u0430\u043b\u04bb\u0441\u043d"
     ],
+    "name:zho_x_preferred":[
+        "\u79d1\u7f85\u5ed6\u592b"
+    ],
     "qs:name":"Korol\u00ebv",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -242,7 +242,7 @@
         }
     ],
     "wof:id":890481271,
-    "wof:lastmodified":1553816413,
+    "wof:lastmodified":1561832774,
     "wof:name":"Korol\u00ebv",
     "wof:parent_id":1108733785,
     "wof:placetype":"locality",

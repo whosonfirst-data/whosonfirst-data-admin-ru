@@ -53,17 +53,11 @@
     "mps:longitude":33.889454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054f\u0580\u0578\u0582\u0562\u0579\u0587\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:che_x_preferred":[
         "\u0422\u0440\u0443\u0431\u0447\u0435\u0432\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u9c81\u5e03\u5207\u592b\u65af\u514b\u533a"
-    ],
-    "name:dut_x_preferred":[
-        "Trubchevsky District"
+    "name:deu_x_preferred":[
+        "Trubtschewski rajon"
     ],
     "name:eng_x_preferred":[
         "Trubchevskiy"
@@ -71,14 +65,17 @@
     "name:eng_x_variant":[
         "Trubchevskij"
     ],
-    "name:ger_x_preferred":[
-        "Trubtschewski rajon"
+    "name:hye_x_preferred":[
+        "\u054f\u0580\u0578\u0582\u0562\u0579\u0587\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Trub\u010devskij rajon"
     ],
     "name:lav_x_preferred":[
         "Trub\u010devskas rajons"
+    ],
+    "name:nld_x_preferred":[
+        "Trubchevsky District"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0440\u0443\u0431\u0447\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -91,6 +88,9 @@
     ],
     "name:vie_x_preferred":[
         "Trubchevsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u9c81\u5e03\u5207\u592b\u65af\u514b\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":1108737093,
-    "wof:lastmodified":1561581955,
+    "wof:lastmodified":1561832296,
     "wof:name":"Trubchevskiy",
     "wof:parent_id":85688121,
     "wof:placetype":"county",

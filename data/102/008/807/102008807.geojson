@@ -16,9 +16,6 @@
     "mps:longitude":47.663459,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053f\u0580\u0561\u057d\u0576\u0578\u0578\u056f\u057f\u0575\u0561\u0562\u0580\u057d\u056f\u056b\u0575"
-    ],
     "name:bul_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u043e\u043a\u0442\u044f\u0431\u044a\u0440\u0441\u043a\u0438"
     ],
@@ -31,9 +28,6 @@
     "name:deu_x_preferred":[
         "Krasnooktjabrski"
     ],
-    "name:dut_x_preferred":[
-        "Krasnooktjabrskiy"
-    ],
     "name:eng_x_preferred":[
         "Krasnooktyabr'skiy"
     ],
@@ -43,11 +37,17 @@
     "name:hye_x_preferred":[
         "\u053f\u0580\u0561\u057d\u0576\u0578\u0585\u056f\u057f\u0575\u0561\u0562\u0580\u057d\u056f\u056b"
     ],
+    "name:hye_x_variant":[
+        "\u053f\u0580\u0561\u057d\u0576\u0578\u0578\u056f\u057f\u0575\u0561\u0562\u0580\u057d\u056f\u056b\u0575"
+    ],
     "name:ita_x_preferred":[
         "Krasnooktjabr'skij"
     ],
     "name:mhr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u043e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439"
+    ],
+    "name:nld_x_preferred":[
+        "Krasnooktjabrskiy"
     ],
     "name:nor_x_preferred":[
         "Krasnooktjabrskij"
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":102008807,
-    "wof:lastmodified":1553815713,
+    "wof:lastmodified":1561831685,
     "wof:name":"Krasnooktyabrskiy",
     "wof:parent_id":1108735089,
     "wof:placetype":"locality",

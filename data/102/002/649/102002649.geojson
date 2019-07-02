@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000975,
-    "geom:area_square_m":6413241.567652,
+    "geom:area_square_m":6413241.567651,
     "geom:bbox":"34.09400177,57.8586387634,34.1455574036,57.8928070068",
     "geom:latitude":57.877721,
     "geom:longitude":34.125016,
@@ -34,16 +34,13 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u043b\u043e\u0433\u043e\u0435"
     ],
+    "name:ces_x_preferred":[
+        "Bologoje"
+    ],
     "name:che_x_preferred":[
         "\u0411\u043e\u043b\u043e\u0433\u043e\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u535a\u6d1b\u6208\u8036"
-    ],
-    "name:cze_x_preferred":[
-        "Bologoje"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bologoje"
     ],
     "name:eng_x_preferred":[
@@ -55,14 +52,14 @@
     "name:est_x_preferred":[
         "Bologoje"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0644\u0648\u06af\u0648\u0626\u0647"
+    ],
     "name:fin_x_preferred":[
         "Bologoje"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bologo\u00efe"
-    ],
-    "name:ger_x_preferred":[
-        "Bologoje"
     ],
     "name:hsb_x_preferred":[
         "Bologoje"
@@ -79,6 +76,9 @@
     "name:lit_x_preferred":[
         "Bologoj\u0117"
     ],
+    "name:nld_x_preferred":[
+        "Bologoje"
+    ],
     "name:nno_x_preferred":[
         "Bologoje"
     ],
@@ -87,9 +87,6 @@
     ],
     "name:nor_x_preferred":[
         "Bologoje"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u0644\u0648\u06af\u0648\u0626\u0647"
     ],
     "name:pol_x_preferred":[
         "Bo\u0142ogoje"
@@ -132,6 +129,9 @@
     ],
     "name:war_x_preferred":[
         "Bologoye"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u6d1b\u6208\u8036"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -274,7 +274,7 @@
         }
     ],
     "wof:id":102002649,
-    "wof:lastmodified":1514500772,
+    "wof:lastmodified":1561831733,
     "wof:name":"Bologoye",
     "wof:parent_id":890486641,
     "wof:placetype":"locality",

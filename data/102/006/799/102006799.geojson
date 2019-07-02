@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001708,
-    "geom:area_square_m":13876515.450812,
+    "geom:area_square_m":13876515.450811,
     "geom:bbox":"40.3677787781,48.9104728699,40.4296951294,48.9509162903",
     "geom:latitude":48.930422,
     "geom:longitude":40.400175,
@@ -23,9 +23,6 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0644\u064a\u0631\u0648\u0641\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u056b\u056c\u056c\u0565\u0580\u0578\u057e\u0578"
-    ],
     "name:azb_x_preferred":[
         "\u0645\u06cc\u0644\u0644\u0631\u0648\u0648\u0648"
     ],
@@ -38,11 +35,11 @@
     "name:che_x_preferred":[
         "\u041c\u0438\u043b\u043b\u0435\u0440\u043e\u0432\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u5217\u7f85\u6c83"
-    ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
         "Millerovo"
+    ],
+    "name:deu_x_preferred":[
+        "Millerowo"
     ],
     "name:eng_x_preferred":[
         "Millerovo"
@@ -56,14 +53,8 @@
     "name:fas_x_preferred":[
         "\u0645\u06cc\u0644\u0631\u0648\u0641\u0648"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Millerovo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d8\u10da\u10d4\u10e0\u10dd\u10d5\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Millerowo"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d9\u05dc\u05e8\u05d5\u05d1\u05d5"
@@ -80,8 +71,14 @@
     "name:jpn_x_preferred":[
         "\u30df\u30ec\u30ed\u30dc"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10da\u10d4\u10e0\u10dd\u10d5\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ubc00\ub808\ub85c\ubcf4"
+    ],
+    "name:nld_x_preferred":[
+        "Millerovo"
     ],
     "name:nno_x_preferred":[
         "Millerovo"
@@ -91,9 +88,6 @@
     ],
     "name:nor_x_preferred":[
         "Millerovo"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u0644\u0631\u0648\u0641\u0648"
     ],
     "name:pol_x_preferred":[
         "Millerowo"
@@ -123,9 +117,6 @@
         "Millerovo"
     ],
     "name:war_x_preferred":[
-        "Millerovo"
-    ],
-    "name:wel_x_preferred":[
         "Millerovo"
     ],
     "name:xal_x_preferred":[
@@ -275,7 +266,7 @@
         }
     ],
     "wof:id":102006799,
-    "wof:lastmodified":1553815711,
+    "wof:lastmodified":1561831691,
     "wof:name":"Millerovo",
     "wof:parent_id":890480607,
     "wof:placetype":"locality",

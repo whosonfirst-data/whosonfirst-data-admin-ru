@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000423,
-    "geom:area_square_m":2731844.282764,
+    "geom:area_square_m":2731844.282763,
     "geom:bbox":"49.9824714661,58.54347229,50.0211677551,58.5628623962",
     "geom:latitude":58.554632,
     "geom:longitude":49.999369,
@@ -35,17 +35,17 @@
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09b0\u09c1\u09ad\u09cb-  \u0995\u09c7\u09aa\u09c7\u099f\u09be\u09b8\u09cd\u0995"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u6d1b\u6c83-\u5207\u4f69\u8328\u514b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kirovo-\u010cepeck"
     ],
     "name:dan_x_preferred":[
         "Kirovo-Chepetsk"
     ],
-    "name:dut_x_preferred":[
-        "Kirovo-Tsjepetsk"
+    "name:deu_x_preferred":[
+        "Kirowo-Tschepezk"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03c1\u03cc\u03b2\u03bf-\u03a4\u03c3\u03b5\u03c0\u03ad\u03c4\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Kirovo-Chepetsk"
@@ -56,17 +56,14 @@
     "name:est_x_preferred":[
         "Kirovo-T\u0161epetsk"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0631\u0648\u0641\u0648-\u0686\u067e\u062a\u0633\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Kirovo-Chepetsk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kirovo-Tchepetsk"
-    ],
-    "name:ger_x_preferred":[
-        "Kirowo-Tschepezk"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b9\u03c1\u03cc\u03b2\u03bf-\u03a4\u03c3\u03b5\u03c0\u03ad\u03c4\u03c3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0ab0\u0acb\u0ab5\u0acb-\u0a9a\u0ac7\u0aaa\u0ac7\u0a9f\u0acd\u0ab8\u0acd\u0a95"
@@ -110,11 +107,14 @@
     "name:mar_x_preferred":[
         "\u0915\u093f\u0930\u094b\u0935\u094b-\u091a\u0947\u092a\u0947\u091f\u094d\u0938\u0915"
     ],
-    "name:may_x_preferred":[
-        "Kirovo-Chepetsk"
-    ],
     "name:mhr_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432\u043e-\u0427\u0435\u043f\u0435\u0446\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Kirovo-Chepetsk"
+    ],
+    "name:nld_x_preferred":[
+        "Kirovo-Tsjepetsk"
     ],
     "name:nno_x_preferred":[
         "Kirovo-Tsjepetsk"
@@ -125,9 +125,6 @@
     "name:oci_x_preferred":[
         "Kirovo Chepetsk"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u06cc\u0631\u0648\u0641\u0648-\u0686\u067e\u062a\u0633\u06a9"
-    ],
     "name:pnb_x_preferred":[
         "\u06a9\u06cc\u0631\u0648\u0651\u0648 \u0686\u067e\u06cc\u062a\u0633\u06a9"
     ],
@@ -137,7 +134,7 @@
     "name:por_x_preferred":[
         "Kirovo-Chepetsk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kirovo-Chepetsk"
     ],
     "name:rus_x_preferred":[
@@ -187,6 +184,9 @@
     ],
     "name:war_x_preferred":[
         "Kirovo-Chepetsk"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u6d1b\u6c83-\u5207\u4f69\u8328\u514b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -329,7 +329,7 @@
         }
     ],
     "wof:id":102008289,
-    "wof:lastmodified":1534985985,
+    "wof:lastmodified":1561831682,
     "wof:name":"Kirovo-Chepetsk",
     "wof:parent_id":1108734443,
     "wof:placetype":"locality",
