@@ -19,11 +19,17 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u064a\u0646\u063a\u0648\u0641\u0633\u0643\u064a\u064a"
     ],
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u0440\u044b\u043d\u0433\u0430\u045e\u0441\u043a\u0456"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u0438\u043d\u0433\u043e\u0432\u0441\u043a\u0438"
     ],
     "name:cat_x_preferred":[
         "B\u00e9ringovski"
+    ],
+    "name:ceb_x_preferred":[
+        "Beringovskiy"
     ],
     "name:che_x_preferred":[
         "\u0411\u0435\u0440\u0438\u043d\u0433\u043e\u0432\u0441\u043a\u0438\u0439"
@@ -33,6 +39,9 @@
     ],
     "name:eng_x_preferred":[
         "Beringovskiy"
+    ],
+    "name:eng_x_variant":[
+        "Beringovsky"
     ],
     "name:fra_x_preferred":[
         "Beringovski"
@@ -46,11 +55,20 @@
     "name:nld_x_preferred":[
         "Beringovskiy"
     ],
+    "name:pol_x_preferred":[
+        "Bieringowskij"
+    ],
+    "name:por_x_preferred":[
+        "Beringovsky"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0440\u0438\u043d\u0433\u043e\u0432\u0441\u043a\u0438\u0439"
     ],
     "name:unk_x_variant":[
         "Ugolnoe"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0631\u06cc\u0646\u06af\u0648\u0648\u0633\u06a9\u06cc"
     ],
     "name:war_x_preferred":[
         "Beringovsky"
@@ -182,7 +200,7 @@
         }
     ],
     "wof:id":890482061,
-    "wof:lastmodified":1561832739,
+    "wof:lastmodified":1563262194,
     "wof:name":"Beringovskiy",
     "wof:parent_id":1108732733,
     "wof:placetype":"locality",

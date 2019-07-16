@@ -53,6 +53,9 @@
     "mps:longitude":39.307713,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Zakharovskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0417\u0430\u0445\u0430\u0440\u043e\u0432\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -63,13 +66,20 @@
         "Zakharovskiy"
     ],
     "name:eng_x_variant":[
-        "Zakharovskij"
+        "Zakharovskij",
+        "Zakharovsky District"
+    ],
+    "name:est_x_preferred":[
+        "Zahharovo rajoon"
     ],
     "name:hye_x_preferred":[
         "\u0536\u0561\u056d\u0561\u0580\u0578\u057e\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Zacharovskij rajon"
+    ],
+    "name:myv_x_preferred":[
+        "\u0417\u0430\u0445\u0430\u0440\u043e\u0432\u043e\u043d\u044c \u0431\u0443\u0435"
     ],
     "name:nld_x_preferred":[
         "District Zakharovski"
@@ -82,6 +92,9 @@
     ],
     "name:vie_x_preferred":[
         "Zakharovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u54c8\u7f85\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -120,7 +133,7 @@
         }
     ],
     "wof:id":1108737841,
-    "wof:lastmodified":1561832354,
+    "wof:lastmodified":1563256885,
     "wof:name":"Zakharovskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

@@ -53,8 +53,14 @@
     "mps:longitude":52.10391,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Zainskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0417\u0430\u0438\u043d\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
+    ],
+    "name:chv_x_preferred":[
+        "\u0417\u0435\u0439 \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
     "name:deu_x_preferred":[
         "Sainski rajon"
@@ -63,7 +69,8 @@
         "Zainskiy"
     ],
     "name:eng_x_variant":[
-        "Zainskij"
+        "Zainskij",
+        "Zainsky District"
     ],
     "name:est_x_preferred":[
         "Zainski rajoon"
@@ -79,6 +86,9 @@
     ],
     "name:mhr_x_preferred":[
         "\u0417\u0430\u0438\u043d\u0441\u043a \u043a\u0443\u043d\u0434\u0435\u043c"
+    ],
+    "name:myv_x_preferred":[
+        "\u0417\u0430\u0438\u043d\u044d\u043d\u044c \u0431\u0443\u0435"
     ],
     "name:nld_x_preferred":[
         "Zainsky District"
@@ -103,6 +113,9 @@
     ],
     "name:vie_x_preferred":[
         "Zainsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u56e0\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -141,7 +154,7 @@
         }
     ],
     "wof:id":1108737813,
-    "wof:lastmodified":1561832422,
+    "wof:lastmodified":1563257264,
     "wof:name":"Zainskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

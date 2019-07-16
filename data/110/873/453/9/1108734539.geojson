@@ -66,7 +66,8 @@
         "Kolpashevskiy"
     ],
     "name:eng_x_variant":[
-        "Kolpashevskij"
+        "Kolpashevskij",
+        "Kolpashevsky District"
     ],
     "name:fin_x_preferred":[
         "Kolpa\u0161evon piiri"
@@ -89,11 +90,17 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u043b\u043f\u0430\u0448\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u043b\u043f\u0430\u0448\u0435\u0432\u043e \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
     "name:und_x_variant":[
         "\u041a\u043e\u043b\u043f\u0430\u0448\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Kolpashevsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u723e\u62c9\u820d\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -132,7 +139,7 @@
         }
     ],
     "wof:id":1108734539,
-    "wof:lastmodified":1561832335,
+    "wof:lastmodified":1563256772,
     "wof:name":"Kolpashevskiy",
     "wof:parent_id":85687809,
     "wof:placetype":"county",

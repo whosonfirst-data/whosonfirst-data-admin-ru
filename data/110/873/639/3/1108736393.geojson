@@ -63,7 +63,8 @@
         "Sargatskiy"
     ],
     "name:eng_x_variant":[
-        "Sargatskij"
+        "Sargatskij",
+        "Sargatsky District"
     ],
     "name:hun_x_preferred":[
         "Szargatszkojei j\u00e1r\u00e1s"
@@ -80,11 +81,17 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u0440\u0433\u0430\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u0440\u0433\u0430\u0442 \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
     "name:und_x_variant":[
         "\u0421\u0430\u0440\u0433\u0430\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Sargatsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u723e\u52a0\u7279\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -123,7 +130,7 @@
         }
     ],
     "wof:id":1108736393,
-    "wof:lastmodified":1561832403,
+    "wof:lastmodified":1563257170,
     "wof:name":"Sargatskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

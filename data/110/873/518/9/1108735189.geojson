@@ -56,6 +56,12 @@
     "name:bel_x_preferred":[
         "\u041c\u0430\u043d\u0430\u0441\u0442\u044b\u0440\u0448\u0447\u0430\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u043d\u0430\u0441\u0442\u044b\u0440\u0448\u0447\u044b\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Monastyrshchinskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041c\u043e\u043d\u0430\u0441\u0442\u044b\u0440\u0449\u0438\u043d\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -67,7 +73,10 @@
     ],
     "name:eng_x_variant":[
         "Monastyrshhinskij",
-        "Monastyrshhinskiy"
+        "Monastyrshchinsky District"
+    ],
+    "name:est_x_preferred":[
+        "Monast\u00f5r\u0161t\u0161ina rajoon"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0578\u0576\u0561\u057d\u057f\u056b\u0580\u0577\u0579\u056b\u0576\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -95,6 +104,9 @@
     ],
     "name:vie_x_preferred":[
         "Monastyrshchinsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u7d0d\u65af\u7279\u723e\u8f9b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -133,7 +145,7 @@
         }
     ],
     "wof:id":1108735189,
-    "wof:lastmodified":1561832349,
+    "wof:lastmodified":1563256851,
     "wof:name":"Monastyrshhinskiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",

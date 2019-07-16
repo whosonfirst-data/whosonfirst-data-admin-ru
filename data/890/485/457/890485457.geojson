@@ -54,6 +54,12 @@
     "mps:longitude":38.976503,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u0434\u043e\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Zadonskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0417\u0430\u0434\u043e\u043d\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -64,7 +70,11 @@
         "Zadonskiy"
     ],
     "name:eng_x_variant":[
-        "Zadonskij"
+        "Zadonskij",
+        "Zadonsky District"
+    ],
+    "name:est_x_preferred":[
+        "Zadonski rajoon"
     ],
     "name:hye_x_preferred":[
         "\u0536\u0561\u0564\u0578\u0576\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -86,6 +96,9 @@
     ],
     "name:vie_x_preferred":[
         "Zadonsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u9813\u65af\u57fa\u5340"
     ],
     "qs:name":"Zadonskiy Raion",
     "qs:name_adm0":"Russia",
@@ -142,7 +155,7 @@
         }
     ],
     "wof:id":890485457,
-    "wof:lastmodified":1561832730,
+    "wof:lastmodified":1563262065,
     "wof:name":"Zadonskiy",
     "wof:parent_id":85687917,
     "wof:placetype":"county",

@@ -53,8 +53,14 @@
     "mps:longitude":55.046593,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "D\u00f6vl\u0259k\u0259n rayonu"
+    ],
     "name:bak_x_preferred":[
         "\u0414\u04d9\u04af\u043b\u04d9\u043a\u04d9\u043d \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u0430\u045e\u043b\u0435\u043a\u0430\u043d\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
     "name:che_x_preferred":[
         "\u0414\u0430\u0432\u043b\u0435\u043a\u0430\u043d\u043e\u0432\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
@@ -66,7 +72,8 @@
         "Davlekanovskiy"
     ],
     "name:eng_x_variant":[
-        "Davlekanovskij"
+        "Davlekanovskij",
+        "Davlekanovsky District"
     ],
     "name:est_x_preferred":[
         "Davlekanovo rajoon"
@@ -79,6 +86,9 @@
     ],
     "name:ita_x_preferred":[
         "Davlekanovskij rajon"
+    ],
+    "name:myv_x_preferred":[
+        "\u0414\u0430\u0432\u043b\u0435\u043a\u0430\u043d\u043e\u0432\u043e\u043d\u044c \u0431\u0443\u0435"
     ],
     "name:nld_x_preferred":[
         "Davlekanovskiy rayon"
@@ -103,6 +113,9 @@
     ],
     "name:war_x_preferred":[
         "Davlekanovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u9054\u592b\u5217\u5361\u8afe\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -141,7 +154,7 @@
         }
     ],
     "wof:id":1108733349,
-    "wof:lastmodified":1561832371,
+    "wof:lastmodified":1563256986,
     "wof:name":"Davlekanovskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

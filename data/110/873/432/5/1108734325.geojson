@@ -63,7 +63,11 @@
         "Ketovskiy"
     ],
     "name:eng_x_variant":[
-        "Ketovskij"
+        "Ketovskij",
+        "Ketovsky District"
+    ],
+    "name:hun_x_preferred":[
+        "Ketov\u00f3i j\u00e1r\u00e1s"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0565\u057f\u0578\u057e\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -80,11 +84,17 @@
     "name:tat_x_preferred":[
         "\u041a\u0435\u0442\u043e\u0432\u043e \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0442\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u041a\u0435\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Ketovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u6258\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -123,7 +133,7 @@
         }
     ],
     "wof:id":1108734325,
-    "wof:lastmodified":1561832415,
+    "wof:lastmodified":1563257221,
     "wof:name":"Ketovskiy",
     "wof:parent_id":85688157,
     "wof:placetype":"county",

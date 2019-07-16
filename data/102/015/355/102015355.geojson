@@ -29,14 +29,23 @@
     "name:aze_x_preferred":[
         "Oxa"
     ],
+    "name:bak_x_preferred":[
+        "\u041e\u0445\u0430"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0445\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u0445\u0430"
     ],
     "name:bul_x_preferred":[
         "\u041e\u0445\u0430"
     ],
     "name:cat_x_preferred":[
         "Okh\u00e0"
+    ],
+    "name:ceb_x_preferred":[
+        "Okha"
     ],
     "name:ces_x_preferred":[
         "Ocha"
@@ -46,6 +55,9 @@
     ],
     "name:deu_x_preferred":[
         "Ocha"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c7\u03ac"
     ],
     "name:eng_x_preferred":[
         "Okha"
@@ -59,11 +71,17 @@
     "name:fas_x_preferred":[
         "\u0627\u0648\u062e\u0627\u060c \u0631\u0648\u0633\u06cc\u0647"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u062e\u0627"
+    ],
     "name:fin_x_preferred":[
         "Oha"
     ],
     "name:fra_x_preferred":[
         "Okha"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d7\u05d4"
     ],
     "name:hsb_x_preferred":[
         "Ocha"
@@ -85,6 +103,9 @@
     ],
     "name:nno_x_preferred":[
         "Okha i Russland"
+    ],
+    "name:nno_x_variant":[
+        "Okha"
     ],
     "name:nob_x_preferred":[
         "Okha"
@@ -113,6 +134,9 @@
     "name:swe_x_preferred":[
         "Ocha"
     ],
+    "name:swe_x_variant":[
+        "Okha"
+    ],
     "name:tat_x_preferred":[
         "\u041e\u0445\u0430"
     ],
@@ -127,6 +151,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u062e\u0627\u060c \u0631\u0648\u0633"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u0648\u062e\u0627"
+    ],
+    "name:vep_x_preferred":[
+        "Oh"
     ],
     "name:vie_x_preferred":[
         "Okha"
@@ -278,7 +308,7 @@
         }
     ],
     "wof:id":102015355,
-    "wof:lastmodified":1561831644,
+    "wof:lastmodified":1563239715,
     "wof:name":"Okha",
     "wof:parent_id":1108735607,
     "wof:placetype":"locality",

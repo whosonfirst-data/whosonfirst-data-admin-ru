@@ -24,8 +24,14 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u0430\u0434\u0443\u0436\u043d\u044b"
     ],
+    "name:bel_x_variant":[
+        "\u0420\u0430\u0434\u0443\u0436\u043d\u044b"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0430\u0434\u0443\u0436\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Raduzhny"
     ],
     "name:deu_x_preferred":[
         "Raduschny"
@@ -43,7 +49,8 @@
         "\u0631\u0627\u062f\u0648\u0698\u0646\u06cc\u060c \u062e\u0627\u0646\u062a\u06cc-\u0645\u0627\u0646\u0633\u06cc"
     ],
     "name:fas_x_variant":[
-        "\u0631\u0627\u062f\u0648\u0698\u0646\u06cc\u060c \u0646\u0627\u062d\u06cc\u0647 \u062e\u0648\u062f\u06af\u0631\u062f\u0627\u0646 \u062e\u0627\u0646\u062a\u06cc-\u0645\u0627\u0646\u0633\u06cc"
+        "\u0631\u0627\u062f\u0648\u0698\u0646\u06cc\u060c \u0646\u0627\u062d\u06cc\u0647 \u062e\u0648\u062f\u06af\u0631\u062f\u0627\u0646 \u062e\u0627\u0646\u062a\u06cc-\u0645\u0627\u0646\u0633\u06cc",
+        "\u0631\u0627\u062f\u0648\u0698\u0646\u06cc"
     ],
     "name:fin_x_preferred":[
         "Radu\u017enyi"
@@ -72,6 +79,9 @@
     "name:nno_x_preferred":[
         "Raduzjnyj i Khanty-Mansia"
     ],
+    "name:nno_x_variant":[
+        "Raduzjnyj"
+    ],
     "name:nob_x_preferred":[
         "Raduzjnyj"
     ],
@@ -96,8 +106,14 @@
     "name:tgl_x_preferred":[
         "Raduzhny"
     ],
+    "name:tur_x_preferred":[
+        "Radujni"
+    ],
     "name:unk_x_variant":[
         "Raduzhny"
+    ],
+    "name:vep_x_preferred":[
+        "Radu\u017enii"
     ],
     "name:war_x_preferred":[
         "Raduzhny"
@@ -140,7 +156,7 @@
         }
     ],
     "wof:id":890479163,
-    "wof:lastmodified":1561832761,
+    "wof:lastmodified":1563262539,
     "wof:name":"Raduzhnyy",
     "wof:parent_id":1108733669,
     "wof:placetype":"locality",

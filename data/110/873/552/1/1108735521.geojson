@@ -56,6 +56,12 @@
     "name:bak_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043e\u0440\u0441\u043a \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u0432\u0430\u043e\u0440\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Novoorskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043e\u0440\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -66,7 +72,8 @@
         "Novoorskiy"
     ],
     "name:eng_x_variant":[
-        "Novoorskij"
+        "Novoorskij",
+        "Novoorsky District"
     ],
     "name:hun_x_preferred":[
         "Novoorszki j\u00e1r\u00e1s"
@@ -94,6 +101,9 @@
     ],
     "name:vie_x_preferred":[
         "Novoorsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5967\u723e\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -132,7 +142,7 @@
         }
     ],
     "wof:id":1108735521,
-    "wof:lastmodified":1561832362,
+    "wof:lastmodified":1563256936,
     "wof:name":"Novoorskiy",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

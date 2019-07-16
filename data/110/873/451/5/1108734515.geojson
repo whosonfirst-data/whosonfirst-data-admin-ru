@@ -63,7 +63,8 @@
         "Kochkurovskiy"
     ],
     "name:eng_x_variant":[
-        "Kochkurovskij"
+        "Kochkurovskij",
+        "Kochkurovsky District"
     ],
     "name:est_x_preferred":[
         "Kot\u0161kurovo rajoon"
@@ -83,6 +84,9 @@
     "name:nld_x_preferred":[
         "Kotsjkoerovskiy rayon"
     ],
+    "name:ron_x_preferred":[
+        "Kocikurovo"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0447\u043a\u0443\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -97,6 +101,9 @@
     ],
     "name:vie_x_preferred":[
         "Kochkurovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u5947\u5eab\u7f85\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -135,7 +142,7 @@
         }
     ],
     "wof:id":1108734515,
-    "wof:lastmodified":1561832400,
+    "wof:lastmodified":1563257147,
     "wof:name":"Kochkurovskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",

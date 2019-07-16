@@ -56,6 +56,9 @@
     "name:bel_x_preferred":[
         "\u042d\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Engel'sskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u042d\u043d\u0433\u0435\u043b\u044c\u0441\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -67,7 +70,7 @@
     ],
     "name:eng_x_variant":[
         "EHngel'sskij",
-        "EHngel'sskiy"
+        "Engelssky District"
     ],
     "name:hun_x_preferred":[
         "Engelsi j\u00e1r\u00e1s"
@@ -77,6 +80,9 @@
     ],
     "name:ita_x_preferred":[
         "\u0116ngel'sskij rajon"
+    ],
+    "name:myv_x_preferred":[
+        "\u042d\u043d\u0433\u0435\u043b\u044c\u0441\u044d\u043d\u044c \u0431\u0443\u0435"
     ],
     "name:rus_x_preferred":[
         "\u042d\u043d\u0433\u0435\u043b\u044c\u0441\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -89,6 +95,9 @@
     ],
     "name:und_x_variant":[
         "\u042d\u043d\u0433\u0435\u043b\u044c\u0441\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u683c\u5229\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":1108733455,
-    "wof:lastmodified":1561832427,
+    "wof:lastmodified":1563257282,
     "wof:name":"EHngel'sskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

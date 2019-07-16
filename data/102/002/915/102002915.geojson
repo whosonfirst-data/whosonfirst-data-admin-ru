@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001026,
-    "geom:area_square_m":7031404.417421,
+    "geom:area_square_m":7031404.417424,
     "geom:bbox":"37.4915275574,56.3224449158,37.5476112366,56.3517494202",
     "geom:latitude":56.337605,
     "geom:longitude":37.521573,
@@ -20,17 +20,32 @@
     "name:ara_x_preferred":[
         "\u062f\u0645\u064a\u062a\u0631\u0648\u0641"
     ],
+    "name:ast_x_preferred":[
+        "Dm\u00edtrov"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u06cc\u0645\u06cc\u062a\u0631\u0648\u0641"
+    ],
     "name:aze_x_preferred":[
         "Dmitrov"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0437\u043c\u0456\u0442\u0440\u0430\u045e"
     ],
+    "name:bel_x_variant":[
+        "\u0414\u0437\u043c\u0456\u0442\u0440\u0430\u045e"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u043c\u0438\u0442\u0440\u043e\u0432"
     ],
     "name:cat_x_preferred":[
         "Dm\u00edtrov"
+    ],
+    "name:cat_x_variant":[
+        "Dmitrov"
+    ],
+    "name:ceb_x_preferred":[
+        "Dmitrov"
     ],
     "name:ces_x_preferred":[
         "Dmitrov"
@@ -41,8 +56,17 @@
     "name:chv_x_preferred":[
         "\u0414\u043c\u0438\u0442\u0440\u043e\u0432"
     ],
+    "name:dan_x_preferred":[
+        "Dmitrov"
+    ],
     "name:deu_x_preferred":[
         "Dmitrow"
+    ],
+    "name:diq_x_preferred":[
+        "Dmitrov"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03bc\u03af\u03c4\u03c1\u03bf\u03c6"
     ],
     "name:eng_x_preferred":[
         "Dmitrov"
@@ -62,11 +86,17 @@
     "name:fra_x_preferred":[
         "Dmitrov"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05de\u05d9\u05d8\u05e8\u05d5\u05d1"
+    ],
     "name:hin_x_preferred":[
         "\u0926\u092e\u093f\u0924\u094d\u0930\u094b\u0935"
     ],
     "name:hsb_x_preferred":[
         "Dmitrow"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0574\u056b\u057f\u0580\u0578\u057e"
     ],
     "name:ita_x_preferred":[
         "Dmitrov"
@@ -74,11 +104,17 @@
     "name:jpn_x_preferred":[
         "\u30c9\u30df\u30c8\u30ed\u30d5"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10db\u10d8\u10e2\u10e0\u10dd\u10d5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub4dc\ubbf8\ud2b8\ub85c\ud504"
     ],
     "name:lat_x_preferred":[
         "Demitriovia"
+    ],
+    "name:lit_x_preferred":[
+        "Dmitrovas"
     ],
     "name:nld_x_preferred":[
         "Dmitrov"
@@ -86,7 +122,13 @@
     "name:nno_x_preferred":[
         "Dmitrov"
     ],
+    "name:nob_x_preferred":[
+        "Dmitrov"
+    ],
     "name:nor_x_preferred":[
+        "Dmitrov"
+    ],
+    "name:oci_x_preferred":[
         "Dmitrov"
     ],
     "name:oss_x_preferred":[
@@ -113,6 +155,9 @@
     "name:sco_x_preferred":[
         "Dmitrov"
     ],
+    "name:slv_x_preferred":[
+        "Dmitrov"
+    ],
     "name:snd_x_preferred":[
         "\u062f\u0645\u062a\u0631\u0648\u0641"
     ],
@@ -132,6 +177,9 @@
         "\u0414\u043c\u0438\u0442\u0440\u043e\u0432"
     ],
     "name:tgl_x_preferred":[
+        "Dmitrov"
+    ],
+    "name:tur_x_preferred":[
         "Dmitrov"
     ],
     "name:ukr_x_preferred":[
@@ -204,7 +252,7 @@
         }
     ],
     "wof:id":102002915,
-    "wof:lastmodified":1527637967,
+    "wof:lastmodified":1563241521,
     "wof:name":"Dmitrov",
     "wof:parent_id":890485971,
     "wof:placetype":"locality",

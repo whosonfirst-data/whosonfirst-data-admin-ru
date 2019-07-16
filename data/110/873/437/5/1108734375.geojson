@@ -56,8 +56,14 @@
     "name:bel_x_preferred":[
         "\u0425\u043e\u043b\u043c\u0430\u0433\u0430\u0440\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Kholmogorskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0425\u043e\u043b\u043c\u043e\u0433\u043e\u0440\u044b\u043d \u043a\u04c0\u043e\u0448\u0442"
+    ],
+    "name:crh_x_preferred":[
+        "Holmogor\u0131 rayon\u0131"
     ],
     "name:deu_x_preferred":[
         "Cholmogorski rajon"
@@ -66,7 +72,8 @@
         "Kholmogorskiy"
     ],
     "name:eng_x_variant":[
-        "KHolmogorskij"
+        "KHolmogorskij",
+        "Kholmogorsky District"
     ],
     "name:fin_x_preferred":[
         "Holmogoryn piiri"
@@ -95,6 +102,9 @@
     "name:rus_x_preferred":[
         "\u0425\u043e\u043b\u043c\u043e\u0433\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:tat_x_preferred":[
+        "\u0425\u043e\u043b\u043c\u043e\u0433\u043e\u0440\u044b \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
     "name:ukr_x_preferred":[
         "\u0425\u043e\u043b\u043c\u043e\u0433\u043e\u0440\u0441\u044c\u043a\u0438\u0439 \u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -103,6 +113,9 @@
     ],
     "name:vie_x_preferred":[
         "Kholmogorsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u723e\u83ab\u6208\u723e\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -141,7 +154,7 @@
         }
     ],
     "wof:id":1108734375,
-    "wof:lastmodified":1561832321,
+    "wof:lastmodified":1563256696,
     "wof:name":"Kholmogorskiy",
     "wof:parent_id":85687971,
     "wof:placetype":"county",

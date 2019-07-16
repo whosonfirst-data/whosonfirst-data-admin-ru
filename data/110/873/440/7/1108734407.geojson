@@ -59,6 +59,9 @@
     "name:che_x_preferred":[
         "\u041a\u0438\u0433\u0438\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
+    "name:chv_x_preferred":[
+        "\u041a\u0103\u0439\u0433\u0103 \u0440\u0430\u0439\u043e\u043d\u0115"
+    ],
     "name:deu_x_preferred":[
         "Kiginski rajon"
     ],
@@ -66,10 +69,14 @@
         "Kiginskiy"
     ],
     "name:eng_x_variant":[
-        "Kiginskij"
+        "Kiginskij",
+        "Kiginsky District"
     ],
     "name:est_x_preferred":[
         "Kigi rajoon"
+    ],
+    "name:fra_x_preferred":[
+        "Kiginsky"
     ],
     "name:hun_x_preferred":[
         "Kigi j\u00e1r\u00e1s"
@@ -79,6 +86,9 @@
     ],
     "name:ita_x_preferred":[
         "Kiginskij rajon"
+    ],
+    "name:myv_x_preferred":[
+        "\u041a\u0438\u0433\u0438\u043d\u044d\u043d\u044c \u0431\u0443\u0435"
     ],
     "name:nld_x_preferred":[
         "Kiginskiy rayon"
@@ -103,6 +113,9 @@
     ],
     "name:war_x_preferred":[
         "Kiginsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u91d1\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -141,7 +154,7 @@
         }
     ],
     "wof:id":1108734407,
-    "wof:lastmodified":1561832301,
+    "wof:lastmodified":1563256580,
     "wof:name":"Kiginskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

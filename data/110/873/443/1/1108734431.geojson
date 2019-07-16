@@ -63,7 +63,11 @@
         "Kireevskiy"
     ],
     "name:eng_x_variant":[
-        "Kireevskij"
+        "Kireevskij",
+        "Kireyevsky District"
+    ],
+    "name:est_x_preferred":[
+        "Kirejevski rajoon"
     ],
     "name:hye_x_preferred":[
         "\u053f\u056b\u0580\u0565\u0587\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -80,8 +84,14 @@
     "name:tat_x_preferred":[
         "\u041a\u0438\u0440\u0435\u0435\u0432\u0441\u043a \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0440\u0454\u0454\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u041a\u0438\u0440\u0435\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u5217\u8036\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -120,7 +130,7 @@
         }
     ],
     "wof:id":1108734431,
-    "wof:lastmodified":1561832381,
+    "wof:lastmodified":1563257046,
     "wof:name":"Kireevskiy",
     "wof:parent_id":85688203,
     "wof:placetype":"county",

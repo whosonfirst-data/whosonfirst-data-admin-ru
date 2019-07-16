@@ -66,7 +66,11 @@
         "Dorogobuzhskiy"
     ],
     "name:eng_x_variant":[
-        "Dorogobuzhskij"
+        "Dorogobuzhskij",
+        "Dorogobuzhsky District"
+    ],
+    "name:est_x_preferred":[
+        "Dorogobu\u017ei rajoon"
     ],
     "name:hye_x_preferred":[
         "\u0534\u0578\u0580\u0578\u0563\u0578\u0562\u0578\u0582\u056a\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -79,6 +83,9 @@
     ],
     "name:nld_x_preferred":[
         "Dorogobuzhsky District"
+    ],
+    "name:pol_x_preferred":[
+        "Rejon dorohobuski"
     ],
     "name:rus_x_preferred":[
         "\u0414\u043e\u0440\u043e\u0433\u043e\u0431\u0443\u0436\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -97,6 +104,9 @@
     ],
     "name:vie_x_preferred":[
         "Dorogobuzhsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u7f85\u6208\u5e03\u65e5\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -135,7 +145,7 @@
         }
     ],
     "wof:id":1108733411,
-    "wof:lastmodified":1561832340,
+    "wof:lastmodified":1563256799,
     "wof:name":"Dorogobuzhskiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",

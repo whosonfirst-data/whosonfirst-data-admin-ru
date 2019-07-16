@@ -43,11 +43,17 @@
     "name:afr_x_preferred":[
         "Kabardino-Balkari\u00eb"
     ],
+    "name:amh_x_preferred":[
+        "\u12ab\u1263\u122d\u12f2\u1296-\u1263\u120d\u12ab\u122a\u12eb"
+    ],
     "name:ara_x_preferred":[
         "\u0642\u0628\u0631\u062f\u064a\u0646\u0648 - \u0628\u0644\u0642\u0627\u0631\u064a\u0627"
     ],
     "name:ava_x_preferred":[
         "\u041a\u044a\u0430\u0431\u0430\u0440\u0434\u0430-\u0411\u0430\u043b\u043a\u044a\u0430\u0440"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0627\u0628\u0627\u0631\u062f\u06cc\u0646\u0648-\u0628\u0627\u0644\u06a9\u0627\u0631\u06cc\u0627"
     ],
     "name:aze_x_preferred":[
         "Kabardin-Balkariya"
@@ -75,6 +81,9 @@
     ],
     "name:cat_x_preferred":[
         "Kabardino-Balk\u00e0ria"
+    ],
+    "name:ceb_x_preferred":[
+        "Kabardino-Balkarskaya Respublika"
     ],
     "name:ces_x_preferred":[
         "Kabardsko-Balkarsko"
@@ -166,6 +175,9 @@
     "name:ind_x_preferred":[
         "Kabardino-Balkaria"
     ],
+    "name:inh_x_preferred":[
+        "\u0413I\u0430\u044c\u0431\u0430\u0440\u0442\u043e\u0439-\u041c\u0430\u043b\u043a\u0445\u0430\u0440\u043e\u0439 \u043c\u043e\u0445\u043a"
+    ],
     "name:ita_x_preferred":[
         "Cabardino-Balcaria"
     ],
@@ -187,6 +199,9 @@
     "name:kbd_x_preferred":[
         "\u041a\u044a\u044d\u0431\u044d\u0440\u0434\u0435\u0439-\u0411\u0430\u043b\u044a\u043a\u044a\u044d\u0440 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u044d"
     ],
+    "name:kbd_x_variant":[
+        "\u041a\u044a\u044d\u0431\u044d\u0440\u0434\u0435\u0439-\u0411\u0430\u043b\u044a\u043a\u044a\u044d\u0440"
+    ],
     "name:kir_x_preferred":[
         "\u041a\u0430\u0431\u0430\u0440\u0434\u0430-\u0411\u0430\u043b\u043a\u0430\u0440\u0438\u044f"
     ],
@@ -201,6 +216,9 @@
     ],
     "name:krc_x_preferred":[
         "\u041a\u044a\u0430\u0431\u0430\u0440\u0442\u044b-\u041c\u0430\u043b\u043a\u044a\u0430\u0440 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+    ],
+    "name:krc_x_variant":[
+        "\u041a\u044a\u0430\u0431\u0430\u0440\u0442\u044b-\u041c\u0430\u043b\u043a\u044a\u0430\u0440"
     ],
     "name:lat_x_preferred":[
         "Kabardino-Balkaria"
@@ -293,6 +311,9 @@
     ],
     "name:spa_x_preferred":[
         "Kabardina-Balkaria"
+    ],
+    "name:spa_x_variant":[
+        "Kabardia-Balkaria"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u0431\u0430\u0440\u0434\u0438\u043d\u043e-\u0411\u0430\u043b\u043a\u0430\u0440\u0438\u0458\u0430"
@@ -504,7 +525,7 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1561831838,
+    "wof:lastmodified":1563244519,
     "wof:name":"Kabardino-Balkar",
     "wof:parent_id":85632685,
     "wof:placetype":"region",

@@ -53,6 +53,12 @@
     "mps:longitude":35.464314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Shakhovskoy Rayon"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0430\u0445\u043e\u0432\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
+    ],
     "name:chv_x_preferred":[
         "\u0428\u0430\u0445\u043e\u0432 \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
@@ -63,7 +69,8 @@
         "Shakhovskoy"
     ],
     "name:eng_x_variant":[
-        "SHakhovskoj"
+        "SHakhovskoj",
+        "Shakhovskoy District"
     ],
     "name:hye_x_preferred":[
         "\u0547\u0561\u056d\u0578\u057e\u057d\u056f\u0578\u0575 \u0577\u0580\u057b\u0561\u0576"
@@ -94,6 +101,9 @@
     ],
     "name:vie_x_preferred":[
         "Shakhovskoy"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u970d\u592b\u65af\u79d1\u4f0a\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -132,7 +142,7 @@
         }
     ],
     "wof:id":1108736495,
-    "wof:lastmodified":1561832381,
+    "wof:lastmodified":1563257043,
     "wof:name":"Shakhovskoy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

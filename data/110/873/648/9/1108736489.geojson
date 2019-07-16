@@ -53,6 +53,12 @@
     "mps:longitude":35.132663,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0428\u0430\u0431\u043b\u044b\u043a\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Shablykinskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0428\u0430\u0431\u043b\u044b\u043a\u0438\u043d\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -63,7 +69,11 @@
         "Shablykinskiy"
     ],
     "name:eng_x_variant":[
-        "SHablykinskij"
+        "SHablykinskij",
+        "Shablykinsky District"
+    ],
+    "name:est_x_preferred":[
+        "\u0160abl\u00f5kino rajoon"
     ],
     "name:hye_x_preferred":[
         "\u0547\u0561\u0562\u056c\u056b\u056f\u056b\u0576\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -85,6 +95,9 @@
     ],
     "name:vie_x_preferred":[
         "Shablykinsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u5e03\u96f7\u91d1\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -123,7 +136,7 @@
         }
     ],
     "wof:id":1108736489,
-    "wof:lastmodified":1561832394,
+    "wof:lastmodified":1563257117,
     "wof:name":"Shablykinskiy",
     "wof:parent_id":85687849,
     "wof:placetype":"county",

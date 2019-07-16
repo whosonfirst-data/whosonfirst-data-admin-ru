@@ -66,7 +66,8 @@
         "Cheboksarskiy"
     ],
     "name:eng_x_variant":[
-        "CHeboksarskij"
+        "CHeboksarskij",
+        "Cheboksarsky District"
     ],
     "name:est_x_preferred":[
         "T\u0161eboksar\u00f5 rajoon"
@@ -86,6 +87,9 @@
     "name:mhr_x_preferred":[
         "\u0428\u0430\u0432\u0430\u0448\u0430\u0440 \u043a\u0443\u043d\u0434\u0435\u043c"
     ],
+    "name:myv_x_preferred":[
+        "\u0427\u0435\u0431\u043e\u043a\u0441\u0430\u0440\u043e\u043d\u044c \u0431\u0443\u0435"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u0431\u043e\u043a\u0441\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -103,6 +107,9 @@
     ],
     "name:war_x_preferred":[
         "Cheboksarsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5207\u535a\u514b\u85a9\u723e\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -141,7 +148,7 @@
         }
     ],
     "wof:id":1108733203,
-    "wof:lastmodified":1561832420,
+    "wof:lastmodified":1563257246,
     "wof:name":"Cheboksarskiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",

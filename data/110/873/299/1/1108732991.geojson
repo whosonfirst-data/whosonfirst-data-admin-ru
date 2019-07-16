@@ -53,6 +53,9 @@
     "mps:longitude":107.609968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0411\u0456\u0447\u0443\u0440\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:bxr_x_preferred":[
         "\u0411\u044d\u0448\u04af\u04af\u0440\u044d\u0439 \u0430\u0439\u043c\u0430\u0433"
     ],
@@ -66,7 +69,8 @@
         "Bichurskiy"
     ],
     "name:eng_x_variant":[
-        "Bichurskij"
+        "Bichurskij",
+        "Bichursky District"
     ],
     "name:est_x_preferred":[
         "Bit\u0161ura rajoon"
@@ -100,6 +104,9 @@
     ],
     "name:war_x_preferred":[
         "Bichursky"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u4e18\u723e\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -138,7 +145,7 @@
         }
     ],
     "wof:id":1108732991,
-    "wof:lastmodified":1561832419,
+    "wof:lastmodified":1563257240,
     "wof:name":"Bichurskiy",
     "wof:parent_id":85688207,
     "wof:placetype":"county",

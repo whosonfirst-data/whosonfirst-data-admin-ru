@@ -53,6 +53,9 @@
     "mps:longitude":33.17869,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Valdayskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0412\u0430\u043b\u0434\u0430\u0439\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -64,7 +67,7 @@
     ],
     "name:eng_x_variant":[
         "Valdajskij",
-        "Valdajskiy"
+        "Valdaysky District"
     ],
     "name:est_x_preferred":[
         "Valdai rajoon"
@@ -84,6 +87,9 @@
     "name:nld_x_preferred":[
         "Valdaysky District"
     ],
+    "name:nob_x_preferred":[
+        "Valdajskij rajon"
+    ],
     "name:pol_x_preferred":[
         "Rejon wa\u0142dajski"
     ],
@@ -93,11 +99,17 @@
     "name:srp_x_preferred":[
         "\u0412\u0430\u043b\u0434\u0430\u0458\u0441\u043a\u0438 \u0440\u0435\u0458\u043e\u043d"
     ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u0434\u0430\u0439\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u0412\u0430\u043b\u0434\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Valdaysky"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u723e\u4ee3\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -124,7 +136,7 @@
         }
     ],
     "wof:id":1108737291,
-    "wof:lastmodified":1561832435,
+    "wof:lastmodified":1563257340,
     "wof:name":"Valdajskiy",
     "wof:parent_id":85688095,
     "wof:placetype":"county",

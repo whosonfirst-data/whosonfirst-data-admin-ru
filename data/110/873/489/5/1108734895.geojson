@@ -64,7 +64,10 @@
     ],
     "name:eng_x_variant":[
         "Lebjazh'evskij",
-        "Lebjazh'evskiy"
+        "Lebyazhyevsky District"
+    ],
+    "name:hun_x_preferred":[
+        "Lebjazsjei j\u00e1r\u00e1s"
     ],
     "name:hye_x_preferred":[
         "\u053c\u0565\u0562\u0575\u0561\u056a\u0587\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -84,8 +87,14 @@
     "name:tat_x_preferred":[
         "\u041b\u0435\u0431\u044f\u0436\u044c\u0435 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0431'\u044f\u0436\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u041b\u0435\u0431\u044f\u0436\u044c\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5217\u6bd4\u4e9e\u65e5\u57c3\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":1108734895,
-    "wof:lastmodified":1561832393,
+    "wof:lastmodified":1563257111,
     "wof:name":"Lebjazh'evskiy",
     "wof:parent_id":85688157,
     "wof:placetype":"county",

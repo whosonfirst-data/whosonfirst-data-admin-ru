@@ -30,6 +30,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0430\u0446\u0435\u043b\u044c\u043d\u0456\u0447"
     ],
+    "name:bel_x_variant":[
+        "\u041a\u0430\u0446\u0435\u043b\u044c\u043d\u0456\u0447"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u0442\u0435\u043b\u043d\u0438\u0447"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:eng_x_preferred":[
         "Kotel'nich"
+    ],
+    "name:eng_x_variant":[
+        "Kotelnich"
     ],
     "name:epo_x_preferred":[
         "Kotelni\u0109"
@@ -74,6 +80,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30c6\u30ea\u30cb\u30c1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e2\u10d4\u10da\u10dc\u10d8\u10e9\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ucf54\ud154\ub2c8\uce58"
@@ -114,11 +123,17 @@
     "name:tat_x_preferred":[
         "\u041a\u043e\u0442\u0435\u043b\u044c\u043d\u0438\u0447"
     ],
+    "name:tat_x_variant":[
+        "\u041a\u0430\u0442\u0438\u043b\u043d\u0438\u0447"
+    ],
     "name:tgk_x_preferred":[
         "\u041a\u043e\u0442\u0435\u043b\u043d\u0438\u0447"
     ],
     "name:tgl_x_preferred":[
         "Kotelnich"
+    ],
+    "name:tur_x_preferred":[
+        "Kotelni\u00e7"
     ],
     "name:unk_x_variant":[
         "\u041a\u043e\u0442\u0435\u043b\u044c\u043d\u0438\u0447"
@@ -273,7 +288,7 @@
         }
     ],
     "wof:id":102008377,
-    "wof:lastmodified":1561831683,
+    "wof:lastmodified":1563240461,
     "wof:name":"Kotelnich",
     "wof:parent_id":1108734619,
     "wof:placetype":"locality",

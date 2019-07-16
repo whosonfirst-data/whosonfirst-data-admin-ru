@@ -53,6 +53,9 @@
     "mps:longitude":131.57007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Amginskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0410\u043c\u0433\u0430\u043d \u0443\u043b\u0443\u0441"
     ],
@@ -63,7 +66,8 @@
         "Amginskiy"
     ],
     "name:eng_x_variant":[
-        "Amginskij ulus"
+        "Amginskij ulus",
+        "Amginsky District"
     ],
     "name:est_x_preferred":[
         "Amga uluss"
@@ -107,6 +111,9 @@
     "name:vie_x_preferred":[
         "Amginsky"
     ],
+    "name:zho_x_preferred":[
+        "\u963f\u59c6\u91d1\u65af\u57fa\u5340"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -144,7 +151,7 @@
         }
     ],
     "wof:id":1108732723,
-    "wof:lastmodified":1561832317,
+    "wof:lastmodified":1563256667,
     "wof:name":"Amginskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",

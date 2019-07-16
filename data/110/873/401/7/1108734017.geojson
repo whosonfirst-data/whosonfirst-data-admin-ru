@@ -53,6 +53,9 @@
     "mps:longitude":65.4442,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Isetskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0418\u0441\u0435\u0442\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -63,7 +66,8 @@
         "Isetskiy"
     ],
     "name:eng_x_variant":[
-        "Isetskij"
+        "Isetskij",
+        "Isetsky District"
     ],
     "name:hye_x_preferred":[
         "\u053b\u057d\u0565\u057f\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -85,6 +89,9 @@
     ],
     "name:vie_x_preferred":[
         "Isetsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u8b1d\u7279\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -123,7 +130,7 @@
         }
     ],
     "wof:id":1108734017,
-    "wof:lastmodified":1561832318,
+    "wof:lastmodified":1563256675,
     "wof:name":"Isetskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",

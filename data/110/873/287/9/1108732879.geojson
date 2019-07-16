@@ -53,6 +53,9 @@
     "mps:longitude":55.999953,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Baltas rayonu"
+    ],
     "name:bak_x_preferred":[
         "\u0411\u0430\u043b\u0442\u0430\u0441 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
@@ -66,7 +69,8 @@
         "Baltachevskiy"
     ],
     "name:eng_x_variant":[
-        "Baltachevskij"
+        "Baltachevskij",
+        "Baltachevsky District"
     ],
     "name:est_x_preferred":[
         "Baltat\u0161evo rajoon"
@@ -88,6 +92,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubc1c\ud0c0\uccc5\uc2a4\ud0a4 \uad70"
+    ],
+    "name:myv_x_preferred":[
+        "\u0411\u0430\u043b\u0442\u0430\u0447\u0435\u0432\u044d\u043d\u044c \u0431\u0443\u0435"
     ],
     "name:nld_x_preferred":[
         "Baltatsjevskiy rayon"
@@ -112,6 +119,9 @@
     ],
     "name:war_x_preferred":[
         "Baltachevsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u723e\u5854\u5207\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -150,7 +160,7 @@
         }
     ],
     "wof:id":1108732879,
-    "wof:lastmodified":1561832309,
+    "wof:lastmodified":1563256620,
     "wof:name":"Baltachevskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

@@ -53,6 +53,9 @@
     "mps:longitude":43.670076,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Narovchatskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041d\u0430\u0440\u043e\u0432\u0447\u0430\u0442\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -63,7 +66,8 @@
         "Narovchatskiy"
     ],
     "name:eng_x_variant":[
-        "Narovchatskij"
+        "Narovchatskij",
+        "Narovchatsky District"
     ],
     "name:hun_x_preferred":[
         "Narovcsati j\u00e1r\u00e1s"
@@ -76,6 +80,9 @@
     ],
     "name:mdf_x_preferred":[
         "\u041d\u043e\u0440\u0437\u044f\u0434\u043e\u043d\u044c \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:myv_x_preferred":[
+        "\u041d\u0430\u0440\u043e\u0432\u0447\u0430\u0442\u043e\u043d\u044c \u0431\u0443\u0435"
     ],
     "name:nld_x_preferred":[
         "District Narovtsjatski"
@@ -91,6 +98,9 @@
     ],
     "name:vie_x_preferred":[
         "Narovchatsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u7f85\u592b\u6070\u7279\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -129,7 +139,7 @@
         }
     ],
     "wof:id":1108735313,
-    "wof:lastmodified":1561832369,
+    "wof:lastmodified":1563256969,
     "wof:name":"Narovchatskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",

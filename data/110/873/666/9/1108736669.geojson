@@ -67,7 +67,10 @@
     ],
     "name:eng_x_variant":[
         "Smolenskij",
-        "Smolenskiy"
+        "Smolensky District"
+    ],
+    "name:est_x_preferred":[
+        "Smolenski rajoon"
     ],
     "name:hye_x_preferred":[
         "\u054d\u0574\u0578\u056c\u0565\u0576\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -84,6 +87,9 @@
     "name:nld_x_preferred":[
         "Smolenskiy rayon"
     ],
+    "name:pol_x_preferred":[
+        "Rejon smole\u0144ski"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u043c\u043e\u043b\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -98,6 +104,12 @@
     ],
     "name:und_x_variant":[
         "\u0421\u043c\u043e\u043b\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Smolensky"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u83ab\u502b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -124,7 +136,7 @@
         }
     ],
     "wof:id":1108736669,
-    "wof:lastmodified":1561832334,
+    "wof:lastmodified":1563256767,
     "wof:name":"Smolenskiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",

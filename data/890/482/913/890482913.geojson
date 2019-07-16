@@ -19,8 +19,14 @@
     "name:bel_x_preferred":[
         "\u0426\u044d\u043d\u0442\u0430\u0440\u043e\u0439"
     ],
+    "name:bel_x_variant":[
+        "\u0410\u0445\u043c\u0430\u0442-\u042e\u0440\u0442"
+    ],
     "name:ces_x_preferred":[
         "\u010centoroj"
+    ],
+    "name:ces_x_variant":[
+        "Ahmat-Jurt"
     ],
     "name:che_x_preferred":[
         "Catanyh"
@@ -34,8 +40,17 @@
     "name:deu_x_preferred":[
         "Zentoroi"
     ],
+    "name:deu_x_variant":[
+        "Achmat-Jurt"
+    ],
     "name:eng_x_preferred":[
         "Tsentoroy"
+    ],
+    "name:eng_x_variant":[
+        "Akhmad-Yurt"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a\u0627\u0631\u0648\u06cc"
     ],
     "name:heb_x_preferred":[
         "\u05e6\u05e0\u05d8\u05d5\u05e8\u05d5\u05d9"
@@ -43,20 +58,41 @@
     "name:hye_x_preferred":[
         "\u0551\u0565\u0576\u057f\u0561\u0580\u0578\u0575"
     ],
+    "name:hye_x_variant":[
+        "\u0531\u056d\u0574\u0561\u057f-\u053b\u0548\u0552\u0580\u057f"
+    ],
     "name:nld_x_preferred":[
         "Tsentoroj"
+    ],
+    "name:nld_x_variant":[
+        "Achmat-Jurt"
     ],
     "name:nob_x_preferred":[
         "Tsenteroj"
     ],
+    "name:nob_x_variant":[
+        "Akhmat-Jurt"
+    ],
     "name:nor_x_preferred":[
         "Tsentoroj"
+    ],
+    "name:oss_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0430\u0440\u043e\u0439"
     ],
     "name:rus_x_preferred":[
         "\u0426\u0435\u043d\u0442\u043e\u0440\u043e\u0439"
     ],
+    "name:rus_x_variant":[
+        "\u0426\u0435\u043d\u0442\u0430\u0440\u043e\u0439"
+    ],
     "name:tur_x_preferred":[
         "Tsentoroi"
+    ],
+    "name:tur_x_variant":[
+        "Ahmat-Yurt"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0445\u043c\u0430\u0434-\u042e\u0440\u0442"
     ],
     "name:unk_x_variant":[
         "Tsontoroy"
@@ -97,7 +133,7 @@
         }
     ],
     "wof:id":890482913,
-    "wof:lastmodified":1561832736,
+    "wof:lastmodified":1563262155,
     "wof:name":"Tsentoroj",
     "wof:parent_id":1108735573,
     "wof:placetype":"locality",

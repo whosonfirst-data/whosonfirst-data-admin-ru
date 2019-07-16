@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000149,
-    "geom:area_square_m":1046895.724203,
+    "geom:area_square_m":1046895.724204,
     "geom:bbox":"101.348434448,55.4287452698,101.375099182,55.4400482178",
     "geom:latitude":55.434944,
     "geom:longitude":101.3634,
@@ -18,6 +18,12 @@
     "mps:longitude":101.36542,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0628"
+    ],
+    "name:ast_x_preferred":[
+        "Kobus kob"
+    ],
     "name:ava_x_preferred":[
         "\u041a\u043e\u0431"
     ],
@@ -30,14 +36,23 @@
     "name:bul_x_preferred":[
         "\u0411\u043b\u0430\u0442\u0435\u043d \u043a\u043e\u0437\u0435\u043b"
     ],
+    "name:bul_x_variant":[
+        "\u0431\u043b\u0430\u0442\u0435\u043d \u043a\u043e\u0437\u0435\u043b"
+    ],
     "name:cat_x_preferred":[
         "Cob"
+    ],
+    "name:cat_x_variant":[
+        "cob"
     ],
     "name:ceb_x_preferred":[
         "Kobus kob"
     ],
     "name:ces_x_preferred":[
         "Vodu\u0161ka kob"
+    ],
+    "name:ces_x_variant":[
+        "vodu\u0161ka kob"
     ],
     "name:dan_x_preferred":[
         "Kob"
@@ -47,6 +62,9 @@
     ],
     "name:eng_x_preferred":[
         "Kob'"
+    ],
+    "name:eng_x_variant":[
+        "Kob"
     ],
     "name:epo_x_preferred":[
         "Kobo"
@@ -60,11 +78,17 @@
     "name:fra_x_preferred":[
         "Cobe de Buffon"
     ],
+    "name:gle_x_preferred":[
+        "Cob"
+    ],
     "name:hbs_x_preferred":[
         "Kob antilopa"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05d1\u05d5\u05e1 \u05e9\u05d7\u05d5\u05e8 \u05e8\u05d2\u05dc"
+    ],
+    "name:heb_x_variant":[
+        "\u05e7\u05d5\u05d1\u05d5\u05e1 \u05e9\u05d7\u05d5\u05e8-\u05e8\u05d2\u05dc"
     ],
     "name:hrv_x_preferred":[
         "Kob antilopa"
@@ -72,14 +96,23 @@
     "name:hun_x_preferred":[
         "K\u00f6z\u00f6ns\u00e9ges mocs\u00e1riantilop"
     ],
+    "name:ina_x_preferred":[
+        "Kobus kob"
+    ],
     "name:ita_x_preferred":[
         "Kobus kob"
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30fc\u30d6"
     ],
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u0437 \u0442\u0435\u043a\u0435\u0441\u0438"
+    ],
     "name:kor_x_preferred":[
         "\ucf54\ube0c"
+    ],
+    "name:lat_x_preferred":[
+        "Kobus kob"
     ],
     "name:lez_x_preferred":[
         "\u041a\u043e\u0431"
@@ -90,10 +123,16 @@
     "name:mhr_x_preferred":[
         "\u041a\u043e\u0431"
     ],
+    "name:mkd_x_preferred":[
+        "\u0431\u043b\u0430\u0442\u0435\u043d \u0458\u0430\u0440\u0435\u0446"
+    ],
     "name:nds_x_preferred":[
         "Kob"
     ],
     "name:nld_x_preferred":[
+        "Kob"
+    ],
+    "name:nob_x_preferred":[
         "Kob"
     ],
     "name:nor_x_preferred":[
@@ -134,6 +173,9 @@
     ],
     "name:vie_x_preferred":[
         "Linh d\u01b0\u01a1ng Kob"
+    ],
+    "name:vie_x_variant":[
+        "Kobus kob"
     ],
     "name:war_x_preferred":[
         "Kobus kob"
@@ -185,7 +227,7 @@
         }
     ],
     "wof:id":102013997,
-    "wof:lastmodified":1527636662,
+    "wof:lastmodified":1563239969,
     "wof:name":"Kob'",
     "wof:parent_id":890484113,
     "wof:placetype":"locality",

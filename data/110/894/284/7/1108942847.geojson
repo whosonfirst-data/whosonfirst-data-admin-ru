@@ -24,14 +24,38 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Orekhovo-Borisovo Severnoye"
+    ],
+    "name:eng_x_preferred":[
+        "Orekhovo-Borisovo Severnoye District"
+    ],
     "name:eng_x_variant":[
         "Orekhovo-Borisovo North"
+    ],
+    "name:fra_x_preferred":[
+        "Orekhovo-Borissovo Severno\u00efe"
+    ],
+    "name:ita_x_preferred":[
+        "Orechovo-Borisovo Severnoe"
+    ],
+    "name:nld_x_preferred":[
+        "Orechovo-Borisovo Severnoe"
+    ],
+    "name:por_x_preferred":[
+        "Orekhovo-Borisovo Severnoye"
     ],
     "name:rus_x_preferred":[
         "\u041e\u0440\u0435\u0301\u0445\u043e\u0432\u043e-\u0411\u043e\u0440\u0438\u0301\u0441\u043e\u0432\u043e \u0421\u0435\u0301\u0432\u0435\u0440\u043d\u043e\u0435"
     ],
+    "name:rus_x_variant":[
+        "\u041e\u0440\u0435\u0445\u043e\u0432\u043e-\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u043e \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435"
+    ],
     "name:unk_x_variant":[
         "Orekhovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6838\u6843-\u535a\u91cc\u7d22\u6c83\u5317\u5340"
     ],
     "src:lbl:centroid":"mz",
     "src:population":"geonames",
@@ -66,7 +90,7 @@
         }
     ],
     "wof:id":1108942847,
-    "wof:lastmodified":1534379455,
+    "wof:lastmodified":1563257399,
     "wof:name":"Orekhovo-Borisovo Severnoye",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

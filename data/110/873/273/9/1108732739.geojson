@@ -53,6 +53,9 @@
     "mps:longitude":42.98868,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Antropovskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0410\u043d\u0442\u0440\u043e\u043f\u043e\u0432\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -63,13 +66,20 @@
         "Antropovskiy"
     ],
     "name:eng_x_variant":[
-        "Antropovskij"
+        "Antropovskij",
+        "Antropovsky District"
+    ],
+    "name:est_x_preferred":[
+        "Antropovo rajoon"
     ],
     "name:hye_x_preferred":[
         "\u0531\u0576\u057f\u0580\u0578\u057a\u0578\u057e\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Antropovskij rajon"
+    ],
+    "name:myv_x_preferred":[
+        "\u0410\u043d\u0442\u0440\u043e\u043f\u043e\u0432\u043e\u043d\u044c \u0431\u0443\u0435"
     ],
     "name:nld_x_preferred":[
         "Antropovskiy rayon"
@@ -82,6 +92,9 @@
     ],
     "name:vie_x_preferred":[
         "Antropovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u7279\u7f85\u6ce2\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -120,7 +133,7 @@
         }
     ],
     "wof:id":1108732739,
-    "wof:lastmodified":1561832307,
+    "wof:lastmodified":1563256614,
     "wof:name":"Antropovskiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",

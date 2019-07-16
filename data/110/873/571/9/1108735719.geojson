@@ -53,8 +53,14 @@
     "mps:longitude":55.64449,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Osinskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041e\u0441\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
+    ],
+    "name:chv_x_preferred":[
+        "Zarajskiy"
     ],
     "name:deu_x_preferred":[
         "Osinski rajon"
@@ -63,7 +69,8 @@
         "Osinskiy"
     ],
     "name:eng_x_variant":[
-        "Osinskij"
+        "Osinskij",
+        "Osinsky District"
     ],
     "name:fin_x_preferred":[
         "Osan piiri"
@@ -83,11 +90,17 @@
     "name:tat_x_preferred":[
         "\u041e\u0441\u0430 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:tat_x_variant":[
+        "\u0423\u0441\u0430 \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
     "name:und_x_variant":[
         "\u041e\u0441\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Osinsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u8f9b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -126,7 +139,7 @@
         }
     ],
     "wof:id":1108735719,
-    "wof:lastmodified":1561832421,
+    "wof:lastmodified":1563257251,
     "wof:name":"Osinskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

@@ -53,6 +53,9 @@
     "mps:longitude":30.396373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0446\u0435\u0446\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0430\u0442\u0435\u0446\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -63,7 +66,8 @@
         "Bateckij"
     ],
     "name:eng_x_variant":[
-        "Batetskiy"
+        "Batetskiy",
+        "Batetsky District"
     ],
     "name:est_x_preferred":[
         "Batetski rajoon"
@@ -100,6 +104,9 @@
     ],
     "name:vie_x_preferred":[
         "Batetsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u6377\u8328\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -138,7 +145,7 @@
         }
     ],
     "wof:id":1108732907,
-    "wof:lastmodified":1561832415,
+    "wof:lastmodified":1563257222,
     "wof:name":"Bateckij",
     "wof:parent_id":85688095,
     "wof:placetype":"county",

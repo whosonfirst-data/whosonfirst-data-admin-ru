@@ -53,6 +53,12 @@
     "mps:longitude":41.667486,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Proletarski rayonu"
+    ],
+    "name:ceb_x_preferred":[
+        "Proletarskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041f\u0440\u043e\u043b\u0435\u0442\u0430\u0440\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -63,7 +69,11 @@
         "Proletarskiy"
     ],
     "name:eng_x_variant":[
-        "Proletarskij"
+        "Proletarskij",
+        "Proletarsky District"
+    ],
+    "name:est_x_preferred":[
+        "Proletarski rajoon"
     ],
     "name:hye_x_preferred":[
         "\u054a\u0580\u0578\u056c\u0565\u057f\u0561\u0580\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -88,6 +98,9 @@
     ],
     "name:vie_x_preferred":[
         "Proletarsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u7f85\u5217\u5854\u723e\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -126,7 +139,7 @@
         }
     ],
     "wof:id":1108736011,
-    "wof:lastmodified":1561832404,
+    "wof:lastmodified":1563257179,
     "wof:name":"Proletarskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

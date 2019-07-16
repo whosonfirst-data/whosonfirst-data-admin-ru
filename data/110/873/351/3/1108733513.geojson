@@ -63,7 +63,11 @@
         "Ershichskiy"
     ],
     "name:eng_x_variant":[
-        "Ershichskij"
+        "Ershichskij",
+        "Yershichsky District"
+    ],
+    "name:est_x_preferred":[
+        "Jer\u0161it\u0161i rajoon"
     ],
     "name:hye_x_preferred":[
         "\u0535\u0580\u0577\u056b\u0579\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -73,6 +77,9 @@
     ],
     "name:nld_x_preferred":[
         "Ersjitsjskiy rayon"
+    ],
+    "name:pol_x_preferred":[
+        "Rejon jerszycki"
     ],
     "name:rus_x_preferred":[
         "\u0415\u0440\u0448\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -88,6 +95,9 @@
     ],
     "name:und_x_variant":[
         "\u0415\u0440\u0448\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u8449\u723e\u5e0c\u5947\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -126,7 +136,7 @@
         }
     ],
     "wof:id":1108733513,
-    "wof:lastmodified":1561832367,
+    "wof:lastmodified":1563256963,
     "wof:name":"Ershichskiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",

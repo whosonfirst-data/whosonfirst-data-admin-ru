@@ -53,6 +53,12 @@
     "mps:longitude":38.870566,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u0440\u0430\u0439\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Zarayskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0417\u0430\u0440\u0430\u0439\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -67,7 +73,7 @@
     ],
     "name:eng_x_variant":[
         "Zarajskij",
-        "Zarajskiy"
+        "Zaraysky District"
     ],
     "name:fin_x_preferred":[
         "Zaraiskin piiri"
@@ -98,6 +104,9 @@
     ],
     "name:vie_x_preferred":[
         "Zaraysky"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u8cf4\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":1108737883,
-    "wof:lastmodified":1561832420,
+    "wof:lastmodified":1563257251,
     "wof:name":"Zarajskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

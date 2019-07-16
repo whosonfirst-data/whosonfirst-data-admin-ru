@@ -56,8 +56,17 @@
     "name:bak_x_preferred":[
         "\u04d8\u0433\u0435\u0440\u0439\u04d9 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:bul_x_preferred":[
+        "\u0410\u0433\u0440\u0438\u0437\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Agryzskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0410\u0433\u0440\u044b\u0437\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
+    ],
+    "name:chv_x_preferred":[
+        "\u0410\u0433\u0440\u044b\u0437 \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
     "name:deu_x_preferred":[
         "Agrysski rajon"
@@ -67,7 +76,7 @@
     ],
     "name:eng_x_variant":[
         "Agryzskij",
-        "Agryzskiy"
+        "Agryzsky District"
     ],
     "name:est_x_preferred":[
         "Agr\u00f5zi rajoon"
@@ -87,6 +96,9 @@
     "name:mhr_x_preferred":[
         "\u0410\u0433\u0440\u044b\u0437 \u043a\u0443\u043d\u0434\u0435\u043c"
     ],
+    "name:myv_x_preferred":[
+        "\u0410\u0433\u0440\u044b\u0437\u0431\u0443\u0435"
+    ],
     "name:nld_x_preferred":[
         "Agrizskiy rayon"
     ],
@@ -102,6 +114,9 @@
     "name:tat_x_preferred":[
         "\u04d8\u0433\u0435\u0440\u0497\u0435 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:udm_x_preferred":[
+        "\u041e\u0433\u044b\u0440\u0447\u0438 \u0451\u0440\u043e\u0441"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u0433\u0440\u0438\u0437\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -110,6 +125,9 @@
     ],
     "name:vie_x_preferred":[
         "Agryzsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u683c\u96f7\u8332\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -136,7 +154,7 @@
         }
     ],
     "wof:id":1108732627,
-    "wof:lastmodified":1561832402,
+    "wof:lastmodified":1563257165,
     "wof:name":"Agryzskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

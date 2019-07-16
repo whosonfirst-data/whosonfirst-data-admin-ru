@@ -63,7 +63,8 @@
         "Chastoozerskiy"
     ],
     "name:eng_x_variant":[
-        "CHastoozerskij"
+        "CHastoozerskij",
+        "Chastoozersky District"
     ],
     "name:hun_x_preferred":[
         "Csasztoozjorjei j\u00e1r\u00e1s"
@@ -83,11 +84,17 @@
     "name:tat_x_preferred":[
         "\u0427\u0430\u0441\u0442\u043e\u043e\u0437\u0451\u0440\u044c\u0435 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u0441\u0442\u043e\u043e\u0437\u0435\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u0427\u0430\u0441\u0442\u043e\u043e\u0437\u0435\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Chastoozersky"
+    ],
+    "name:zho_x_preferred":[
+        "\u6070\u65af\u6258\u5967\u6fa4\u723e\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -126,7 +133,7 @@
         }
     ],
     "wof:id":1108733195,
-    "wof:lastmodified":1561832432,
+    "wof:lastmodified":1563257314,
     "wof:name":"Chastoozerskiy",
     "wof:parent_id":85688157,
     "wof:placetype":"county",

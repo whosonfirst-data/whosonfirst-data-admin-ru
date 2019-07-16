@@ -66,7 +66,8 @@
         "Izhmorskiy"
     ],
     "name:eng_x_variant":[
-        "Izhmorskij"
+        "Izhmorskij",
+        "Izhmorsky District"
     ],
     "name:hun_x_preferred":[
         "Izsmorszkiji j\u00e1r\u00e1s"
@@ -83,11 +84,20 @@
     "name:rus_x_preferred":[
         "\u0418\u0436\u043c\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:tat_x_preferred":[
+        "\u0418\u0436\u043c\u043e\u0440\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0436\u043c\u043e\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u0418\u0436\u043c\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Izhmorsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u65e5\u83ab\u723e\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -126,7 +136,7 @@
         }
     ],
     "wof:id":1108734053,
-    "wof:lastmodified":1561832400,
+    "wof:lastmodified":1563257150,
     "wof:name":"Izhmorskiy",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

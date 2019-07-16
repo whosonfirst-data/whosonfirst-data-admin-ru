@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0646\u0641\u062a\u0643\u0627\u0645\u0633\u0643"
     ],
+    "name:ast_x_preferred":[
+        "Neftekamsk"
+    ],
     "name:azb_x_preferred":[
         "\u0646\u0641\u062a\u06a9\u0627\u0645\u0633\u06a9"
     ],
@@ -30,8 +33,14 @@
     "name:bak_x_preferred":[
         "\u041d\u0435\u0444\u0442\u0435\u043a\u0430\u043c\u0430"
     ],
+    "name:bak_x_variant":[
+        "\u041d\u0435\u0444\u0442\u0435\u043a\u0430\u043c\u0430 \u04a1\u0430\u043b\u0430\u04bb\u044b"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041d\u0435\u0444\u0446\u044f\u043a\u0430\u043c\u0441\u043a"
+    ],
+    "name:bel_x_variant":[
+        "\u041d\u0435\u0444\u0446\u044f\u043a\u0430\u043c\u0441\u043a"
     ],
     "name:ben_x_preferred":[
         "\u09a8\u09c7\u09ab\u099f\u09c7\u0995\u09be\u09ae\u09b8\u09cd\u0995"
@@ -39,11 +48,17 @@
     "name:bul_x_preferred":[
         "\u041d\u0435\u0444\u0442\u0435\u043a\u0430\u043c\u0441\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Neftekamsk"
+    ],
     "name:ces_x_preferred":[
         "N\u011bft\u011bkamsk"
     ],
     "name:chv_x_preferred":[
         "\u041d\u0435\u0444\u0442\u0435\u043a\u0430\u043c\u0441\u043a"
+    ],
+    "name:crh_x_preferred":[
+        "Neftekamsk"
     ],
     "name:dan_x_preferred":[
         "Neftekamsk"
@@ -68,6 +83,9 @@
     ],
     "name:fin_x_preferred":[
         "Neftekama"
+    ],
+    "name:fin_x_variant":[
+        "Neftekamsk"
     ],
     "name:fra_x_preferred":[
         "Neftekamsk"
@@ -168,6 +186,9 @@
     "name:tat_x_preferred":[
         "\u041d\u0435\u0444\u0442\u0435\u043a\u0430\u043c\u0430"
     ],
+    "name:tat_x_variant":[
+        "\u041d\u0438\u0444\u0442\u0438\u043a\u0430\u043c"
+    ],
     "name:tel_x_preferred":[
         "\u0c28\u0c46\u0c2b\u0c4d\u0c1f\u0c4d\u0c15\u0c2e\u0c3e\u0c38\u0c4d\u0c15\u0c4d"
     ],
@@ -179,6 +200,9 @@
     ],
     "name:tur_x_preferred":[
         "Neftekamsk"
+    ],
+    "name:udm_x_preferred":[
+        "\u041d\u0435\u0444\u0442\u0435\u043a\u0430\u043c\u0441\u043a"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0444\u0442\u0435\u043a\u0430\u043c\u0441\u044c\u043a"
@@ -348,7 +372,7 @@
         }
     ],
     "wof:id":102008993,
-    "wof:lastmodified":1561831684,
+    "wof:lastmodified":1563240485,
     "wof:name":"Neftekamsk",
     "wof:parent_id":1108733825,
     "wof:placetype":"locality",

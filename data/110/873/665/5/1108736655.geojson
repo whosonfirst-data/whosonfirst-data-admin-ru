@@ -53,6 +53,12 @@
     "mps:longitude":104.079715,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0421\u043b\u044e\u0434\u0437\u044f\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Slyudyanskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0421\u043b\u044e\u0434\u044f\u043d\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -64,7 +70,7 @@
     ],
     "name:eng_x_variant":[
         "Sljudjanskij",
-        "Sljudjanskiy"
+        "Slyudyansky District"
     ],
     "name:hun_x_preferred":[
         "Szljugyankai j\u00e1r\u00e1s"
@@ -84,11 +90,17 @@
     "name:rus_x_preferred":[
         "\u0421\u043b\u044e\u0434\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u044e\u0434\u044f\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u0421\u043b\u044e\u0434\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Slyudyansky"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u67f3\u6c5f\u5361\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":1108736655,
-    "wof:lastmodified":1561832410,
+    "wof:lastmodified":1563257197,
     "wof:name":"Sljudjanskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

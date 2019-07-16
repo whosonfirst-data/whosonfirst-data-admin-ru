@@ -56,8 +56,14 @@
     "name:bak_x_preferred":[
         "\u04ba\u0430\u0440\u044b\u04a1\u0442\u0430\u0448 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:ceb_x_preferred":[
+        "Saraktashskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043a\u0442\u0430\u0448\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
+    ],
+    "name:dan_x_preferred":[
+        "Saraktasjskij rajon"
     ],
     "name:deu_x_preferred":[
         "Saraktaschski rajon"
@@ -66,7 +72,8 @@
         "Saraktashskiy"
     ],
     "name:eng_x_variant":[
-        "Saraktashskij"
+        "Saraktashskij",
+        "Saraktashsky District"
     ],
     "name:hun_x_preferred":[
         "Szaraktasi j\u00e1r\u00e1s"
@@ -94,6 +101,9 @@
     ],
     "name:vie_x_preferred":[
         "Saraktashsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u62c9\u514b\u5854\u4ec0\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -132,7 +142,7 @@
         }
     ],
     "wof:id":1108736389,
-    "wof:lastmodified":1561832416,
+    "wof:lastmodified":1563257228,
     "wof:name":"Saraktashskiy",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

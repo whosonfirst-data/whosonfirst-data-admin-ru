@@ -63,7 +63,11 @@
         "Sasovskiy"
     ],
     "name:eng_x_variant":[
-        "Sasovskij"
+        "Sasovskij",
+        "Sasovsky District"
+    ],
+    "name:est_x_preferred":[
+        "Sassovo rajoon"
     ],
     "name:fra_x_preferred":[
         "ra\u00efon  de Sasovsky"
@@ -73,6 +77,9 @@
     ],
     "name:ita_x_preferred":[
         "Sasovskij rajon"
+    ],
+    "name:myv_x_preferred":[
+        "\u0421\u0430\u0441\u043e\u0432\u043e\u043d\u044c \u0431\u0443\u0435"
     ],
     "name:nld_x_preferred":[
         "District Sasovski"
@@ -88,6 +95,9 @@
     ],
     "name:vie_x_preferred":[
         "Sasovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u7d22\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -126,7 +136,7 @@
         }
     ],
     "wof:id":1108736403,
-    "wof:lastmodified":1561832384,
+    "wof:lastmodified":1563257060,
     "wof:name":"Sasovskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

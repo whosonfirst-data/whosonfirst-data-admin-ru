@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000754,
-    "geom:area_square_m":5259750.650595,
+    "geom:area_square_m":5259750.650593,
     "geom:bbox":"37.6644841258,55.6589953022,37.7095213882,55.6841221629",
     "geom:latitude":55.670127,
     "geom:longitude":37.688646,
@@ -31,11 +31,17 @@
     "name:afr_x_preferred":[
         "Kolomenskoje"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043b\u043e\u043c\u0435\u043d\u0441\u043a\u0430\u0435"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u043b\u043e\u043c\u0435\u043d\u0441\u043a\u043e\u0435"
     ],
     "name:cat_x_preferred":[
         "Kol\u00f3menskoie"
+    ],
+    "name:ceb_x_preferred":[
+        "Kolomenskoye"
     ],
     "name:ces_x_preferred":[
         "Kolomenskoje"
@@ -61,8 +67,14 @@
     "name:fra_x_preferred":[
         "Kolomensko\u00efe"
     ],
+    "name:fry_x_preferred":[
+        "Kolomenskoje"
+    ],
     "name:heb_x_preferred":[
         "\u05db\u05e0\u05e1\u05d9\u05d9\u05ea \u05d4\u05e2\u05dc\u05d9\u05d9\u05d4 \u05dc\u05e9\u05de\u05d9\u05dd \u05d1\u05e7\u05d5\u05dc\u05d5\u05de\u05e0\u05e1\u05e7\u05d5\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0932\u094b\u092e\u0947\u0928\u094d\u0938\u0915\u094b\u092f"
     ],
     "name:hrv_x_preferred":[
         "Kolomenskoje"
@@ -85,7 +97,16 @@
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10da\u10dd\u10db\u10d4\u10dc\u10e1\u10d9\u10dd\u10d4"
     ],
+    "name:lit_x_preferred":[
+        "Kolomenskoj\u0117"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043c\u0435\u043d\u0441\u043a\u043e\u0435"
+    ],
     "name:nld_x_preferred":[
+        "Kolomenskoje"
+    ],
+    "name:nob_x_preferred":[
         "Kolomenskoje"
     ],
     "name:nor_x_preferred":[
@@ -97,11 +118,17 @@
     "name:por_x_preferred":[
         "Kolomenskoye"
     ],
+    "name:ron_x_preferred":[
+        "Kolomenskoe"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043b\u043e\u043c\u0435\u043d\u0441\u043a\u043e\u0435"
     ],
     "name:slk_x_preferred":[
         "Kolomenskoje"
+    ],
+    "name:slv_x_preferred":[
+        "Kolomensko"
     ],
     "name:spa_x_preferred":[
         "Kol\u00f3menskoye"
@@ -111,6 +138,12 @@
     ],
     "name:swe_x_preferred":[
         "Kolomenskoje"
+    ],
+    "name:tur_x_preferred":[
+        "Kolomenskoye"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043c\u0435\u043d\u0441\u044c\u043a\u0435"
     ],
     "name:unk_x_variant":[
         "\u041a\u043e\u043b\u043e\u043c\u0435\u043d\u0441\u043a\u043e\u0435",
@@ -185,7 +218,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639013,
+    "wof:lastmodified":1563244476,
     "wof:name":"Kolomenskoye",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

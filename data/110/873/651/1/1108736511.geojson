@@ -53,6 +53,9 @@
     "mps:longitude":53.996731,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "\u015earan rayonu"
+    ],
     "name:bak_x_preferred":[
         "\u0428\u0430\u0440\u0430\u043d \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
@@ -69,7 +72,8 @@
         "Sharanskiy"
     ],
     "name:eng_x_variant":[
-        "SHaranskij"
+        "SHaranskij",
+        "Sharansky District"
     ],
     "name:est_x_preferred":[
         "\u0160arani rajoon"
@@ -88,6 +92,9 @@
     ],
     "name:mhr_x_preferred":[
         "\u0428\u0430\u0440\u0430\u043d \u043a\u0443\u043d\u0434\u0435\u043c"
+    ],
+    "name:myv_x_preferred":[
+        "\u0428\u0430\u0440\u0430\u043d\u043e\u043d\u044c \u0431\u0443\u0435"
     ],
     "name:nld_x_preferred":[
         "Sjaranskiy rayon"
@@ -112,6 +119,9 @@
     ],
     "name:war_x_preferred":[
         "Sharansky"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u862d\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -150,7 +160,7 @@
         }
     ],
     "wof:id":1108736511,
-    "wof:lastmodified":1561832323,
+    "wof:lastmodified":1563256705,
     "wof:name":"Sharanskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

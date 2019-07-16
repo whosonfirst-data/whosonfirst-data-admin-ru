@@ -24,8 +24,32 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:bul_x_preferred":[
+        "\u0425\u043e\u0440\u043e\u0448\u043e\u0432\u043e-\u041c\u043d\u044c\u043e\u0432\u043d\u0438\u043a\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Khorosh\u00ebvo-Mnevniki"
+    ],
+    "name:eng_x_preferred":[
+        "Khoroshevo-Mnevniki District"
+    ],
     "name:eng_x_variant":[
         "Khoroshyovo-Mnyovniki"
+    ],
+    "name:est_x_preferred":[
+        "Horo\u0161ovo-Mnjovniki"
+    ],
+    "name:fra_x_preferred":[
+        "Khorochevo-Mnevniki"
+    ],
+    "name:ita_x_preferred":[
+        "Choro\u0161\u00ebvo-Mn\u00ebvniki"
+    ],
+    "name:nld_x_preferred":[
+        "Horosjjovo-Mnjovniki"
+    ],
+    "name:por_x_preferred":[
+        "Khoroshevo-Mnevniki"
     ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u0440\u043e\u0448\u0451\u0432\u043e-\u041c\u043d\u0435\u0301\u0432\u043d\u0438\u043a\u0438"
@@ -33,8 +57,14 @@
     "name:rus_x_variant":[
         "\u0425\u043e\u0440\u043e\u0448\u0451\u0432\u043e-\u041c\u043d\u0451\u0432\u043d\u0438\u043a\u0438"
     ],
+    "name:sco_x_preferred":[
+        "Khoroshevo-Mnevniki Destrict"
+    ],
     "name:unk_x_variant":[
         "Khorosh\u00ebvo"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u7f85\u7d39\u6c83-\u59c6\u5c3c\u5967\u592b\u5c3c\u57fa\u5340"
     ],
     "src:lbl:centroid":"mz",
     "src:population":"geonames",
@@ -69,7 +99,7 @@
         }
     ],
     "wof:id":1108942919,
-    "wof:lastmodified":1534379453,
+    "wof:lastmodified":1563257408,
     "wof:name":"Khoroshevo-Mnevniki",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

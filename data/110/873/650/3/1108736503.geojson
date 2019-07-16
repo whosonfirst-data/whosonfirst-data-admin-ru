@@ -59,6 +59,9 @@
     "name:aze_x_preferred":[
         "\u015eamil rayonu"
     ],
+    "name:ceb_x_preferred":[
+        "Shamil'skiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0428\u0430\u043c\u0438\u043b\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -73,7 +76,8 @@
     ],
     "name:eng_x_variant":[
         "SHamil'skij",
-        "Shamil'skiy (Sovetskiy)"
+        "Shamil'skiy (Sovetskiy)",
+        "Shamilsky District"
     ],
     "name:est_x_preferred":[
         "\u0160amili rajoon"
@@ -92,6 +96,9 @@
     ],
     "name:ita_x_preferred":[
         "\u0160amil'skij rajon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30df\u30eb\u30b9\u30ad\u30fc\u5dde"
     ],
     "name:lez_x_preferred":[
         "\u0428\u0430\u043c\u0438\u043b \u0440\u0430\u0439\u043e\u043d"
@@ -116,6 +123,9 @@
     ],
     "name:war_x_preferred":[
         "Shamilsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u7c73\u5229\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -154,7 +164,7 @@
         }
     ],
     "wof:id":1108736503,
-    "wof:lastmodified":1561832337,
+    "wof:lastmodified":1563256788,
     "wof:name":"Shamil'skiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

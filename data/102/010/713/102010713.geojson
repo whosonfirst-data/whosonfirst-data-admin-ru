@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000604,
-    "geom:area_square_m":4508991.382175,
+    "geom:area_square_m":4508991.382177,
     "geom:bbox":"45.364780426,52.875541687,45.4102897644,52.9012832642",
     "geom:latitude":52.889792,
     "geom:longitude":45.385287,
@@ -19,8 +19,17 @@
     "mps:longitude":45.385288,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u0428\u0435\u043c\u044b\u0448\u0435\u0439\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
+    ],
+    "name:deu_x_preferred":[
+        "Schemyscheiski rajon"
+    ],
     "name:eng_x_preferred":[
         "Shemysheyka"
+    ],
+    "name:eng_x_variant":[
+        "Shemysheysky District"
     ],
     "name:est_x_preferred":[
         "\u0160em\u00f5\u0161eika rajoon"
@@ -34,6 +43,12 @@
     "name:ita_x_preferred":[
         "\u0160em'\u0161ejskij rajon"
     ],
+    "name:myv_x_preferred":[
+        "\u0428\u0435\u043c\u044b\u0448\u0435\u043d\u044c \u0431\u0443\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Sjemisjeyskiy rayon"
+    ],
     "name:nor_x_preferred":[
         "Sjemysjejka"
     ],
@@ -46,11 +61,17 @@
     "name:tat_x_preferred":[
         "\u0428\u0435\u043c\u044b\u0448\u0435\u0439\u043a\u0430 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435\u043c\u0438\u0448\u0435\u0439\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:unk_x_variant":[
         "Shemyshleyka"
     ],
     "name:vie_x_preferred":[
         "Shemysheysky"
+    ],
+    "name:zho_x_preferred":[
+        "\u820d\u6885\u820d\u4f0a\u65af\u57fa\u5340"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -98,7 +119,7 @@
         }
     ],
     "wof:id":102010713,
-    "wof:lastmodified":1527637800,
+    "wof:lastmodified":1563240992,
     "wof:name":"Shemysheyka",
     "wof:parent_id":1108736553,
     "wof:placetype":"locality",

@@ -53,6 +53,12 @@
     "mps:longitude":41.167532,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0428\u044b\u043b\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Shilovskiy Rayon"
+    ],
     "name:ces_x_preferred":[
         "\u0160ilovsk\u00fd rajon"
     ],
@@ -66,13 +72,20 @@
         "Shilovskiy"
     ],
     "name:eng_x_variant":[
-        "SHilovskij"
+        "SHilovskij",
+        "Shilovsky District"
+    ],
+    "name:est_x_preferred":[
+        "\u0160ilovo rajoon"
     ],
     "name:hye_x_preferred":[
         "\u0547\u056b\u056c\u0578\u057e\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "\u0160ilovskij rajon"
+    ],
+    "name:myv_x_preferred":[
+        "\u0428\u0438\u043b\u043e\u0432\u043e\u043d\u044c \u0431\u0443\u0435"
     ],
     "name:nld_x_preferred":[
         "District Sjilovski"
@@ -85,6 +98,9 @@
     ],
     "name:vie_x_preferred":[
         "Shilovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u6d1b\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -123,7 +139,7 @@
         }
     ],
     "wof:id":1108736583,
-    "wof:lastmodified":1561832327,
+    "wof:lastmodified":1563256726,
     "wof:name":"Shilovskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

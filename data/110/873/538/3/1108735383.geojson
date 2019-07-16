@@ -53,6 +53,12 @@
     "mps:longitude":103.774412,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041d\u0456\u0436\u043d\u0435\u0456\u043b\u0456\u043c\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Nizhneilimskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041d\u0438\u0436\u043d\u0435\u0438\u043b\u0438\u043c\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -64,7 +70,7 @@
     ],
     "name:eng_x_variant":[
         "Nizhneilimskij",
-        "Nizhneilimskiy"
+        "Nizhneilimsky District"
     ],
     "name:hun_x_preferred":[
         "Nyizsnyeilimszki j\u00e1r\u00e1s"
@@ -80,6 +86,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041d\u0438\u0436\u043d\u0435\u0438\u043b\u0438\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u0435\u0438\u043b\u0438\u043c\u0441\u043a \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
     "name:und_x_variant":[
         "\u041d\u0438\u0436\u043d\u0435\u0438\u043b\u0438\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":1108735383,
-    "wof:lastmodified":1561832367,
+    "wof:lastmodified":1563256961,
     "wof:name":"Nizhneilimskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

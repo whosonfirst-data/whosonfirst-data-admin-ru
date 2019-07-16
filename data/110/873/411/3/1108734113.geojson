@@ -53,6 +53,9 @@
     "mps:longitude":85.293369,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u042f\u0448\u043a\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:bul_x_preferred":[
         "\u042f\u0448\u043a\u0438\u043d\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -67,7 +70,7 @@
     ],
     "name:eng_x_variant":[
         "JAshkinskij",
-        "Jashkinskiy"
+        "Yashkinsky District"
     ],
     "name:hun_x_preferred":[
         "Jaskin\u00f3i j\u00e1r\u00e1s"
@@ -89,6 +92,9 @@
     ],
     "name:vie_x_preferred":[
         "Yashkinsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u4ec0\u91d1\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1108734113,
-    "wof:lastmodified":1561832385,
+    "wof:lastmodified":1563257067,
     "wof:name":"Jashkinskiy",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

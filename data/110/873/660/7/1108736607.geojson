@@ -53,6 +53,9 @@
     "mps:longitude":41.512656,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Shuyskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0428\u0443\u044f\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -67,10 +70,16 @@
     ],
     "name:eng_x_variant":[
         "SHujskij",
-        "Shujskiy"
+        "Shuysky District"
+    ],
+    "name:est_x_preferred":[
+        "\u0160uja rajoon"
     ],
     "name:ita_x_preferred":[
         "\u0160ujskij rajon"
+    ],
+    "name:myv_x_preferred":[
+        "\u0428\u0443\u0439\u0441\u043a\u043e\u0439 \u0431\u0443\u0435"
     ],
     "name:nld_x_preferred":[
         "Sjoeyskiy rayon"
@@ -81,11 +90,17 @@
     "name:sco_x_preferred":[
         "Shuysky Destrict"
     ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0443\u0439\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u0428\u0443\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Shuysky"
+    ],
+    "name:zho_x_preferred":[
+        "\u8212\u4e9a\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":1108736607,
-    "wof:lastmodified":1561832327,
+    "wof:lastmodified":1563256724,
     "wof:name":"Shujskiy",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

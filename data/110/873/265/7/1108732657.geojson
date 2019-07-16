@@ -66,7 +66,8 @@
         "Al'menevskiy"
     ],
     "name:eng_x_variant":[
-        "Al'menevskij"
+        "Al'menevskij",
+        "Almenevsky District"
     ],
     "name:hun_x_preferred":[
         "Almenyev\u00f3i j\u00e1r\u00e1s"
@@ -86,11 +87,17 @@
     "name:tat_x_preferred":[
         "\u04d8\u043b\u043c\u04d9\u043d \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u044c\u043c\u0435\u043d\u0454\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u0410\u043b\u044c\u043c\u0435\u043d\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Al'menevsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5229\u6885\u6d85\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -129,7 +136,7 @@
         }
     ],
     "wof:id":1108732657,
-    "wof:lastmodified":1561832403,
+    "wof:lastmodified":1563257173,
     "wof:name":"Al'menevskiy",
     "wof:parent_id":85688157,
     "wof:placetype":"county",

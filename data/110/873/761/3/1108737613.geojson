@@ -53,6 +53,12 @@
     "mps:longitude":30.765635,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u043b\u0430\u0442\u043e\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Volotovskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0412\u043e\u043b\u043e\u0442\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -63,7 +69,8 @@
         "Volotovskiy"
     ],
     "name:eng_x_variant":[
-        "Volotovskij"
+        "Volotovskij",
+        "Volotovsky District"
     ],
     "name:est_x_preferred":[
         "Voloti rajoon"
@@ -94,6 +101,9 @@
     ],
     "name:vie_x_preferred":[
         "Volotovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u6d1b\u6258\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -132,7 +142,7 @@
         }
     ],
     "wof:id":1108737613,
-    "wof:lastmodified":1561832373,
+    "wof:lastmodified":1563256998,
     "wof:name":"Volotovskiy",
     "wof:parent_id":85688095,
     "wof:placetype":"county",

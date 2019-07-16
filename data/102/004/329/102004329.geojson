@@ -21,17 +21,26 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0643\u064a\u0646\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0648\u0643\u064a\u0646\u0648"
+    ],
     "name:azb_x_preferred":[
         "\u0641\u0648\u06a9\u06cc\u0646\u0648"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0424\u043e\u043a\u0456\u043d\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u0424\u043e\u043a\u0456\u043d\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u0424\u043e\u043a\u0438\u043d\u043e"
     ],
     "name:cat_x_preferred":[
         "F\u00f3kino"
+    ],
+    "name:ceb_x_preferred":[
+        "Fokino"
     ],
     "name:che_x_preferred":[
         "\u0424\u043e\u043a\u0438\u043d\u043e"
@@ -52,13 +61,17 @@
         "\u0641\u0648\u06a9\u06cc\u0646\u0648\u060c \u0627\u0633\u062a\u0627\u0646 \u0628\u0631\u06cc\u0627\u0646\u0633\u06a9"
     ],
     "name:fas_x_variant":[
-        "\u0641\u0648\u06a9\u06cc\u0646\u0648\u060c \u067e\u0631\u06cc\u0645\u0648\u0631\u0633\u06a9\u06cc"
+        "\u0641\u0648\u06a9\u06cc\u0646\u0648\u060c \u067e\u0631\u06cc\u0645\u0648\u0631\u0633\u06a9\u06cc",
+        "\u0641\u0648\u06a9\u06cc\u0646\u0648"
     ],
     "name:fin_x_preferred":[
         "Fokino"
     ],
     "name:fra_x_preferred":[
         "Fokino"
+    ],
+    "name:haw_x_preferred":[
+        "Hokino"
     ],
     "name:hrv_x_preferred":[
         "Fokino"
@@ -120,6 +133,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0424\u043e\u043a\u0456\u043d\u043e"
+    ],
+    "name:ukr_x_variant":[
+        "\u0424\u043e\u043a\u0438\u043d\u043e"
     ],
     "name:unk_x_variant":[
         "Tsementny"
@@ -184,7 +200,7 @@
         }
     ],
     "wof:id":102004329,
-    "wof:lastmodified":1561831722,
+    "wof:lastmodified":1563241323,
     "wof:name":"Fokino",
     "wof:parent_id":1108733537,
     "wof:placetype":"locality",

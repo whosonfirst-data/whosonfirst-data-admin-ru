@@ -53,6 +53,9 @@
     "mps:longitude":49.816335,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Nolinskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041d\u043e\u043b\u0438\u043d\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -66,7 +69,8 @@
         "Nolinskiy"
     ],
     "name:eng_x_variant":[
-        "Nolinskij"
+        "Nolinskij",
+        "Nolinsky District"
     ],
     "name:hun_x_preferred":[
         "Nolinszki j\u00e1r\u00e1s"
@@ -80,6 +84,9 @@
     "name:mhr_x_preferred":[
         "\u041d\u043e\u043b\u043e \u043a\u0443\u043d\u0434\u0435\u043c"
     ],
+    "name:myv_x_preferred":[
+        "\u041d\u043e\u043b\u0438\u043d\u044d\u043d\u044c \u0431\u0443\u0435"
+    ],
     "name:nld_x_preferred":[
         "Nolinsky District"
     ],
@@ -89,11 +96,17 @@
     "name:tat_x_preferred":[
         "\u041d\u043e\u043b\u0438\u043d\u0441\u043a \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:tat_x_variant":[
+        "\u041d\u0443\u043b\u0438\u043d \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
     "name:und_x_variant":[
         "\u041d\u043e\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Nolinsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u8afe\u6797\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -132,7 +145,7 @@
         }
     ],
     "wof:id":1108735469,
-    "wof:lastmodified":1561832431,
+    "wof:lastmodified":1563257311,
     "wof:name":"Nolinskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",

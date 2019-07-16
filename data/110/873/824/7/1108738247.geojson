@@ -63,7 +63,11 @@
         "Zimovnikovskiy"
     ],
     "name:eng_x_variant":[
-        "Zimovnikovskij"
+        "Zimovnikovskij",
+        "Zimovnikovsky District"
+    ],
+    "name:est_x_preferred":[
+        "Zimovniki rajoon"
     ],
     "name:hun_x_preferred":[
         "Zimovnyiki j\u00e1r\u00e1s"
@@ -88,6 +92,9 @@
     ],
     "name:vie_x_preferred":[
         "Zimovnikovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u6fdf\u83ab\u592b\u5c3c\u79d1\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -126,7 +133,7 @@
         }
     ],
     "wof:id":1108738247,
-    "wof:lastmodified":1561832382,
+    "wof:lastmodified":1563257051,
     "wof:name":"Zimovnikovskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

@@ -66,7 +66,11 @@
         "Arsen'evskiy"
     ],
     "name:eng_x_variant":[
-        "Arsen'evskij"
+        "Arsen'evskij",
+        "Arsenyevsky District"
+    ],
+    "name:est_x_preferred":[
+        "Arsenjevo rajoon"
     ],
     "name:hye_x_preferred":[
         "\u0531\u0580\u057d\u0565\u0576\u0587\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -80,8 +84,14 @@
     "name:rus_x_preferred":[
         "\u0410\u0440\u0441\u0435\u043d\u044c\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0441\u0435\u043d\u044c\u0454\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u0410\u0440\u0441\u0435\u043d\u044c\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u5148\u8036\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -120,7 +130,7 @@
         }
     ],
     "wof:id":1108732783,
-    "wof:lastmodified":1561832385,
+    "wof:lastmodified":1563257065,
     "wof:name":"Arsen'evskiy",
     "wof:parent_id":85688203,
     "wof:placetype":"county",

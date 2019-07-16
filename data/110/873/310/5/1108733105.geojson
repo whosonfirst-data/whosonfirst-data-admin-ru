@@ -56,6 +56,9 @@
     "name:bel_x_preferred":[
         "\u0411\u0440\u044d\u0439\u0442\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Breytovskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0440\u0435\u0439\u0442\u043e\u0432\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -67,7 +70,10 @@
     ],
     "name:eng_x_variant":[
         "Brejtovskij",
-        "Brejtovskiy"
+        "Breytovsky District"
+    ],
+    "name:est_x_preferred":[
+        "Breitovo rajoon"
     ],
     "name:fin_x_preferred":[
         "Breitovon piiri"
@@ -77,6 +83,9 @@
     ],
     "name:ita_x_preferred":[
         "Brejtovskij rajon"
+    ],
+    "name:myv_x_preferred":[
+        "\u0411\u0440\u0435\u0439\u0442\u043e\u0432\u0441\u043a\u043e\u0439 \u0431\u0443\u0435"
     ],
     "name:nld_x_preferred":[
         "Breytovsky District"
@@ -92,6 +101,9 @@
     ],
     "name:vie_x_preferred":[
         "Breytovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5217\u4f0a\u6258\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -118,7 +130,7 @@
         }
     ],
     "wof:id":1108733105,
-    "wof:lastmodified":1561832431,
+    "wof:lastmodified":1563257310,
     "wof:name":"Brejtovskiy",
     "wof:parent_id":85687959,
     "wof:placetype":"county",

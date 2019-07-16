@@ -53,6 +53,9 @@
     "mps:longitude":46.952559,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kilemarskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041a\u0438\u043b\u0435\u043c\u0430\u0440\u0438\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -66,7 +69,8 @@
         "Kilemarskiy"
     ],
     "name:eng_x_variant":[
-        "Kilemarskij"
+        "Kilemarskij",
+        "Kilemarsky District"
     ],
     "name:est_x_preferred":[
         "Kilemar\u00f5 rajoon"
@@ -82,6 +86,9 @@
     ],
     "name:mrj_x_preferred":[
         "\u041a\u04f9\u043b\u0435\u043c\u0430\u0440 \u043a\u044b\u043c\u0434\u0435\u043c"
+    ],
+    "name:myv_x_preferred":[
+        "\u041a\u0438\u043b\u0435\u043c\u0430\u0440\u043e\u043d\u044c \u0431\u0443\u0435"
     ],
     "name:nld_x_preferred":[
         "Kilemarskiy rayon"
@@ -103,6 +110,9 @@
     ],
     "name:vie_x_preferred":[
         "Kilemarsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u5217\u99ac\u723e\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -141,7 +151,7 @@
         }
     ],
     "wof:id":1108734419,
-    "wof:lastmodified":1561832314,
+    "wof:lastmodified":1563256650,
     "wof:name":"Kilemarskiy",
     "wof:parent_id":85688043,
     "wof:placetype":"county",

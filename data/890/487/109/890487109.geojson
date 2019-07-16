@@ -54,6 +54,12 @@
     "mps:longitude":37.605098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u043b\u0434\u0430\u043c\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Taldomskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0422\u0430\u043b\u0434\u043e\u043c\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -67,7 +73,8 @@
         "Taldomskiy"
     ],
     "name:eng_x_variant":[
-        "Taldomskij"
+        "Taldomskij",
+        "Taldomsky District"
     ],
     "name:epo_x_preferred":[
         "Distrikto Taldom"
@@ -90,6 +97,9 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u043b\u0434\u043e\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0414\u043e\u0441\u0447\u0430\u0442\u043e\u0435"
+    ],
     "name:sco_x_preferred":[
         "Taldomsky Destrict"
     ],
@@ -101,6 +111,9 @@
     ],
     "name:vie_x_preferred":[
         "Taldomsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u6d1b\u591a\u59c6\u65af\u57fa\u5340"
     ],
     "qs:name":"Taldomskiy Raion",
     "qs:name_adm0":"Russia",
@@ -157,7 +170,7 @@
         }
     ],
     "wof:id":890487109,
-    "wof:lastmodified":1561832790,
+    "wof:lastmodified":1563262911,
     "wof:name":"Taldomskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

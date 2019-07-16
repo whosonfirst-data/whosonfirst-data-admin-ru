@@ -66,7 +66,11 @@
         "Glushkovskiy"
     ],
     "name:eng_x_variant":[
-        "Glushkovskij"
+        "Glushkovskij",
+        "Glushkovsky District"
+    ],
+    "name:est_x_preferred":[
+        "Glu\u0161kovo rajoon"
     ],
     "name:hun_x_preferred":[
         "Gluskov\u00f3i j\u00e1r\u00e1s"
@@ -91,6 +95,9 @@
     ],
     "name:vie_x_preferred":[
         "Glushkovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u76e7\u4ec0\u79d1\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -129,7 +136,7 @@
         }
     ],
     "wof:id":1108733595,
-    "wof:lastmodified":1561832358,
+    "wof:lastmodified":1563256907,
     "wof:name":"Glushkovskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

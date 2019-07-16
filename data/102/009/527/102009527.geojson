@@ -31,8 +31,14 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0423\u0441\u0446\u044c-\u041a\u0430\u0442\u0430\u045e"
     ],
+    "name:bel_x_variant":[
+        "\u0423\u0441\u0446\u044c-\u041a\u0430\u0442\u0430\u045e"
+    ],
     "name:cat_x_preferred":[
         "Ust-Katav"
+    ],
+    "name:ceb_x_preferred":[
+        "Ust'-Katav"
     ],
     "name:che_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u041a\u0430\u0442\u0430\u0432"
@@ -42,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Ust'-Katav"
+    ],
+    "name:eng_x_variant":[
+        "Ust-Katav"
     ],
     "name:epo_x_preferred":[
         "Ustj-Katav"
@@ -82,8 +91,14 @@
     "name:srp_x_preferred":[
         "\u0423\u0441\u0442-\u041a\u0430\u0442\u0430\u0432"
     ],
+    "name:swe_x_preferred":[
+        "Ust-Katav"
+    ],
     "name:tat_x_preferred":[
         "\u041a\u044b\u0442\u0430\u0443-\u0422\u0430\u043c\u0430\u043a"
+    ],
+    "name:tat_x_variant":[
+        "\u0423\u0441\u0442\u044c-\u041a\u0430\u0442\u0430\u0432"
     ],
     "name:tgk_x_preferred":[
         "\u0423\u0441\u0442-\u041a\u0430\u0442\u0430\u0432"
@@ -91,11 +106,17 @@
     "name:tgl_x_preferred":[
         "Ust-Katav"
     ],
+    "name:tur_x_preferred":[
+        "Ust-Katav"
+    ],
     "name:ukr_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u041a\u0430\u0442\u0430\u0432"
     ],
     "name:unk_x_variant":[
         "Ust\u2019-Katavskiy"
+    ],
+    "name:vie_x_preferred":[
+        "Ust-Katav"
     ],
     "name:war_x_preferred":[
         "Ust-Katav"
@@ -152,7 +173,7 @@
         }
     ],
     "wof:id":102009527,
-    "wof:lastmodified":1561831678,
+    "wof:lastmodified":1563240349,
     "wof:name":"Ust-Katav",
     "wof:parent_id":1108737245,
     "wof:placetype":"locality",

@@ -54,6 +54,12 @@
     "mps:longitude":32.748617,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041d\u044f\u043b\u0456\u0434\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Nelidovskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041d\u0435\u043b\u0438\u0434\u043e\u0432\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -67,7 +73,11 @@
         "Nelidovskiy"
     ],
     "name:eng_x_variant":[
-        "Nelidovskij"
+        "Nelidovskij",
+        "Nelidovsky District"
+    ],
+    "name:est_x_preferred":[
+        "Nelidovo rajoon"
     ],
     "name:fin_x_preferred":[
         "Nelidovon piiri"
@@ -84,17 +94,26 @@
     "name:nld_x_preferred":[
         "Nelidovskiy rayon"
     ],
+    "name:pol_x_preferred":[
+        "Rejon nielidowski"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0435\u043b\u0438\u0434\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:srp_x_preferred":[
         "\u041d\u0435\u043b\u0438\u0434\u043e\u0432\u0441\u043a\u0438 \u0440\u0435\u0458\u043e\u043d"
     ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u043b\u0456\u0434\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u041d\u0435\u043b\u0438\u0434\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Nelidovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d85\u5229\u591a\u592b\u65af\u57fa\u5340"
     ],
     "qs:name":"Nelidovskiy Raion",
     "qs:name_adm0":"Russia",
@@ -151,7 +170,7 @@
         }
     ],
     "wof:id":890480053,
-    "wof:lastmodified":1561832797,
+    "wof:lastmodified":1563263003,
     "wof:name":"Nelidovskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

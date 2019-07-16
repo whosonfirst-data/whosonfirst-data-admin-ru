@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000613,
-    "geom:area_square_m":4349706.865735,
+    "geom:area_square_m":4349706.865736,
     "geom:bbox":"62.4953613281,54.9744987488,62.557888031,54.9954452515",
     "geom:latitude":54.986198,
     "geom:longitude":62.531908,
@@ -20,8 +20,20 @@
     "name:bak_x_preferred":[
         "\u0421\u0430\u0444\u0430\u043a\u04af\u043b \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:ceb_x_preferred":[
+        "Safakulevskiy Rayon"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u0444\u0430\u043a\u0443\u043b\u0435\u0432\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
+    ],
+    "name:deu_x_preferred":[
+        "Safakulewski rajon"
+    ],
     "name:eng_x_preferred":[
         "Safakulevo"
+    ],
+    "name:eng_x_variant":[
+        "Safakulevsky District"
     ],
     "name:hun_x_preferred":[
         "Szafakulev\u00f3i j\u00e1r\u00e1s"
@@ -31,6 +43,9 @@
     ],
     "name:ita_x_preferred":[
         "Safakulevskij rajon"
+    ],
+    "name:nld_x_preferred":[
+        "Safakoelevskiy rayon"
     ],
     "name:nor_x_preferred":[
         "Safakulevo"
@@ -44,11 +59,17 @@
     "name:tat_x_preferred":[
         "\u0421\u0430\u0444\u0430\u043a\u04af\u043b \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0444\u0430\u043a\u0443\u043b\u0435\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:unk_x_variant":[
         "Sayakulevo"
     ],
     "name:vie_x_preferred":[
         "Safakulevsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u6cd5\u5eab\u5217\u592b\u65af\u57fa\u5340"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -96,7 +117,7 @@
         }
     ],
     "wof:id":102012365,
-    "wof:lastmodified":1527636468,
+    "wof:lastmodified":1563239836,
     "wof:name":"Safakulevo",
     "wof:parent_id":1108736355,
     "wof:placetype":"locality",

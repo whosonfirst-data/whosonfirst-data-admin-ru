@@ -63,7 +63,11 @@
         "Kalacheevskiy"
     ],
     "name:eng_x_variant":[
-        "Kalacheevskij"
+        "Kalacheevskij",
+        "Kalacheyevsky District"
+    ],
+    "name:est_x_preferred":[
+        "Kalat\u0161i rajoon"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u056c\u0561\u0579\u0565\u0587\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -82,6 +86,9 @@
     ],
     "name:und_x_variant":[
         "\u041a\u0430\u043b\u0430\u0447\u0435\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u5207\u8036\u592b\u65af\u57fa\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -120,7 +127,7 @@
         }
     ],
     "wof:id":1108734193,
-    "wof:lastmodified":1561832375,
+    "wof:lastmodified":1563257010,
     "wof:name":"Kalacheevskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0622\u064a\u0632\u0648\u0628\u064a\u0644\u0646\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u064a\u0632\u0648\u0628\u064a\u0644\u0646\u064a"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u06cc\u0632\u0648\u0628\u06cc\u0644\u0646\u06cc"
     ],
@@ -34,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u0418\u0437\u043e\u0431\u0438\u043b\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Izobil'nyy"
+    ],
     "name:che_x_preferred":[
         "\u0418\u0437\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Izobil'nyy"
+    ],
+    "name:eng_x_variant":[
+        "Izobilny"
     ],
     "name:epo_x_preferred":[
         "Izobilnij"
@@ -94,11 +103,20 @@
     "name:tgl_x_preferred":[
         "Izobilny"
     ],
+    "name:tur_x_preferred":[
+        "\u0130zobilni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0437\u043e\u0431\u0456\u043b\u044c\u043d\u0438\u0439"
+    ],
     "name:unk_x_variant":[
         "Izobil\u2019noye"
     ],
     "name:vep_x_preferred":[
         "Izobil'nii"
+    ],
+    "name:vie_x_preferred":[
+        "Izobilny"
     ],
     "name:war_x_preferred":[
         "Izobilny"
@@ -155,7 +173,7 @@
         }
     ],
     "wof:id":102007871,
-    "wof:lastmodified":1561831675,
+    "wof:lastmodified":1563240265,
     "wof:name":"Izobilnyy",
     "wof:parent_id":1108734061,
     "wof:placetype":"locality",

@@ -66,7 +66,11 @@
         "Belovskiy"
     ],
     "name:eng_x_variant":[
-        "Belovskij"
+        "Belovskij",
+        "Belovsky District"
+    ],
+    "name:est_x_preferred":[
+        "Belaja rajoon"
     ],
     "name:hye_x_preferred":[
         "\u0532\u0565\u056c\u0578\u057e\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -91,6 +95,9 @@
     ],
     "name:vie_x_preferred":[
         "Belovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5225\u6d1b\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -129,7 +136,7 @@
         }
     ],
     "wof:id":1108732963,
-    "wof:lastmodified":1561832402,
+    "wof:lastmodified":1563257168,
     "wof:name":"Belovskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

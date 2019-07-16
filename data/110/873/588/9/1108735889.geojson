@@ -56,6 +56,9 @@
     "name:bel_x_preferred":[
         "\u041f\u043b\u044f\u0441\u0435\u0446\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Plesetskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041f\u043b\u0435\u0441\u0435\u0446\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -66,7 +69,8 @@
         "Pleseckij"
     ],
     "name:eng_x_variant":[
-        "Plesetskiy"
+        "Plesetskiy",
+        "Plesetsky District"
     ],
     "name:est_x_preferred":[
         "Plessetski rajoon"
@@ -110,6 +114,9 @@
     "name:vie_x_preferred":[
         "Plesetsky"
     ],
+    "name:zho_x_preferred":[
+        "\u666e\u5217\u8b1d\u8328\u57fa\u5340"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -147,7 +154,7 @@
         }
     ],
     "wof:id":1108735889,
-    "wof:lastmodified":1561832345,
+    "wof:lastmodified":1563256832,
     "wof:name":"Pleseckij",
     "wof:parent_id":85687971,
     "wof:placetype":"county",

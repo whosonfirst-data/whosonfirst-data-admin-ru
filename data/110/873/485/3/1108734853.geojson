@@ -53,6 +53,12 @@
     "mps:longitude":34.123798,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041a\u0443\u045e\u0448\u044b\u043d\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Kuvshinovskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041a\u0443\u0432\u0448\u0438\u043d\u043e\u0432\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -66,7 +72,11 @@
         "Kuvshinovskiy"
     ],
     "name:eng_x_variant":[
-        "Kuvshinovskij"
+        "Kuvshinovskij",
+        "Kuvshinovsky District"
+    ],
+    "name:est_x_preferred":[
+        "Kuv\u0161inovo rajoon"
     ],
     "name:fin_x_preferred":[
         "Kuv\u0161inovon piiri"
@@ -89,11 +99,17 @@
     "name:srp_x_preferred":[
         "\u041a\u0443\u0432\u0448\u0438\u043d\u043e\u0432\u0441\u043a\u0438 \u0440\u0435\u0458\u043e\u043d"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0432\u0448\u0438\u043d\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u041a\u0443\u0432\u0448\u0438\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Kuvshinovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u592b\u5e0c\u8afe\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -132,7 +148,7 @@
         }
     ],
     "wof:id":1108734853,
-    "wof:lastmodified":1561832304,
+    "wof:lastmodified":1563256595,
     "wof:name":"Kuvshinovskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

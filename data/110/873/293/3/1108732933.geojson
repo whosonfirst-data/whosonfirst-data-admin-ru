@@ -66,7 +66,8 @@
         "Belinskiy"
     ],
     "name:eng_x_variant":[
-        "Belinskij"
+        "Belinskij",
+        "Belinsky District"
     ],
     "name:fra_x_preferred":[
         "ra\u00efon de Belinsky"
@@ -95,11 +96,20 @@
     "name:tat_x_preferred":[
         "\u0411\u0435\u043b\u0438\u043d\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0454\u043b\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u0411\u0435\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Belinsky"
+    ],
+    "name:zho_x_preferred":[
+        "Belskiy"
+    ],
+    "name:zho_x_variant":[
+        "\u5225\u6797\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -138,7 +148,7 @@
         }
     ],
     "wof:id":1108732933,
-    "wof:lastmodified":1561832331,
+    "wof:lastmodified":1563256749,
     "wof:name":"Belinskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",

@@ -53,6 +53,9 @@
     "mps:longitude":37.259151,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Manturovskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041c\u0430\u043d\u0442\u0443\u0440\u043e\u0432\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -66,7 +69,11 @@
         "Manturovskiy"
     ],
     "name:eng_x_variant":[
-        "Manturovskij"
+        "Manturovskij",
+        "Manturovsky District"
+    ],
+    "name:est_x_preferred":[
+        "Manturovo rajoon"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u0576\u057f\u0578\u0582\u0580\u0578\u057e\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -88,6 +95,9 @@
     ],
     "name:vie_x_preferred":[
         "Manturovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u66fc\u5716\u7f85\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -126,7 +136,7 @@
         }
     ],
     "wof:id":1108735055,
-    "wof:lastmodified":1561832290,
+    "wof:lastmodified":1563256522,
     "wof:name":"Manturovskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

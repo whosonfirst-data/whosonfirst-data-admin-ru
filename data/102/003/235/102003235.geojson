@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002263,
-    "geom:area_square_m":15802468.028237,
+    "geom:area_square_m":15802468.028239,
     "geom:bbox":"40.623500824,55.5859184265,40.7023048401,55.6306114197",
     "geom:latitude":55.609312,
     "geom:longitude":40.662525,
@@ -25,11 +25,17 @@
     "name:arz_x_preferred":[
         "\u062c\u0648\u0633 \u062e\u0631\u0648\u0633\u062a\u0627\u0644\u0646\u0649"
     ],
+    "name:azb_x_preferred":[
+        "\u0642\u0648\u0633-\u06a9\u0647\u0631\u0648\u0633\u062a\u0627\u0644\u0646\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0413\u0443\u0441\u044c-\u0425\u0440\u0443\u0441\u0442\u0430\u043b\u044c\u043d\u044b"
     ],
     "name:bel_x_variant":[
         "\u0413\u0443\u0441\u044c-\u0425\u0440\u0443\u0441\u0442\u0430\u043b\u044c\u043d\u044b"
+    ],
+    "name:ceb_x_preferred":[
+        "Gus'-Khrustal'nyy"
     ],
     "name:ces_x_preferred":[
         "Gus-Chrustalnyj"
@@ -43,8 +49,14 @@
     "name:diq_x_preferred":[
         "Gus-Xrustalni"
     ],
+    "name:diq_x_variant":[
+        "Gus-Xrustaln\u0131y"
+    ],
     "name:eng_x_preferred":[
         "Gus'-Khrustal'nyy"
+    ],
+    "name:eng_x_variant":[
+        "Gus-Khrustalny"
     ],
     "name:epo_x_preferred":[
         "Gusj-\u0124rustalnij"
@@ -79,13 +91,22 @@
     "name:kor_x_preferred":[
         "\uad6c\uc2dc\ud750\ub8e8\uc2a4\ud0c8\ub2c8"
     ],
+    "name:lit_x_preferred":[
+        "Gusis Chrustalnas"
+    ],
     "name:mkd_x_preferred":[
         "\u0413\u0443\u0441-\u0425\u0440\u0443\u0441\u0442\u0430\u043b\u043d\u0438"
+    ],
+    "name:myv_x_preferred":[
+        "\u0413\u0443\u0441\u044c-\u0425\u0440\u0443\u0441\u0442\u0430\u043b\u044c\u043d\u043e\u0439"
     ],
     "name:nld_x_preferred":[
         "Goes-Chroestalny"
     ],
     "name:nno_x_preferred":[
+        "Gus-Khrustalnyj"
+    ],
+    "name:nob_x_preferred":[
         "Gus-Khrustalnyj"
     ],
     "name:nor_x_preferred":[
@@ -117,6 +138,12 @@
     ],
     "name:tgk_x_preferred":[
         "\u0413\u0443\u0441-\u0425\u0440\u0443\u0441\u0442\u0430\u043b\u043d\u0438\u0439"
+    ],
+    "name:tgl_x_preferred":[
+        "Gus-Khrustalny"
+    ],
+    "name:tur_x_preferred":[
+        "Gus-Hrustalni"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0441\u044c-\u0425\u0440\u0443\u0441\u0442\u0430\u043b\u044c\u043d\u0438\u0439"
@@ -185,7 +212,7 @@
         }
     ],
     "wof:id":102003235,
-    "wof:lastmodified":1527637834,
+    "wof:lastmodified":1563241114,
     "wof:name":"Gus-Khrustalnyy",
     "wof:parent_id":1108733749,
     "wof:placetype":"locality",

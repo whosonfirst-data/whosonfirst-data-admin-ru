@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000673,
-    "geom:area_square_m":4717600.308359,
+    "geom:area_square_m":4717600.308361,
     "geom:bbox":"37.289276123,55.4686927795,37.3298339844,55.5009727478",
     "geom:latitude":55.485997,
     "geom:longitude":37.312556,
@@ -22,6 +22,18 @@
     "name:ara_x_preferred":[
         "\u062a\u0631\u0648\u064a\u062a\u0633\u0643"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0631\u0648\u06cc\u062a\u0633\u06a9"
+    ],
+    "name:aze_x_preferred":[
+        "Troitsk"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u0440\u043e\u0456\u0446\u043a"
+    ],
+    "name:ces_x_preferred":[
+        "Troick"
+    ],
     "name:chv_x_preferred":[
         "\u0422\u0440\u043e\u0438\u0446\u043a"
     ],
@@ -34,17 +46,38 @@
     "name:epo_x_preferred":[
         "Troick"
     ],
+    "name:est_x_preferred":[
+        "Troitsk"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0631\u0648\u06cc\u062a\u0633\u06a9\u060c \u0627\u0648\u0628\u0644\u0627\u0633\u062a \u0645\u0633\u06a9\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0631\u0648\u06cc\u062a\u0633\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Troitsk"
     ],
     "name:fra_x_preferred":[
         "Tro\u00eftsk"
     ],
+    "name:hun_x_preferred":[
+        "Troick"
+    ],
     "name:ita_x_preferred":[
         "Troick"
     ],
+    "name:nld_x_preferred":[
+        "Troitsk"
+    ],
     "name:nno_x_preferred":[
         "Troitsk i Moskva oblast"
+    ],
+    "name:nno_x_variant":[
+        "Troitsk"
+    ],
+    "name:nob_x_preferred":[
+        "Troitsk"
     ],
     "name:nor_x_preferred":[
         "Troitsk"
@@ -61,11 +94,29 @@
     "name:sah_x_preferred":[
         "\u0422\u0440\u043e\u0438\u0446\u043a\u0430\u0439"
     ],
+    "name:sco_x_preferred":[
+        "Troitsk"
+    ],
+    "name:slv_x_preferred":[
+        "Trojci"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u0440\u043e\u0438\u0446\u043a"
     ],
     "name:tat_x_preferred":[
         "\u0422\u0440\u043e\u0438\u0446\u043a"
+    ],
+    "name:tgl_x_preferred":[
+        "Troitsk"
+    ],
+    "name:tur_x_preferred":[
+        "Troitsk"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u043e\u0457\u0446\u044c\u043a"
+    ],
+    "name:war_x_preferred":[
+        "Troitsk"
     ],
     "name:zho_x_preferred":[
         "\u7279\u7f85\u4f0a\u8328\u514b"
@@ -93,7 +144,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688161
+        85688161,
+        1108735435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,7 +167,7 @@
         }
     ],
     "wof:id":102003341,
-    "wof:lastmodified":1505338919,
+    "wof:lastmodified":1563241131,
     "wof:name":"Troitsk",
     "wof:parent_id":1108735435,
     "wof:placetype":"locality",

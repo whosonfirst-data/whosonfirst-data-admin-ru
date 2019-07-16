@@ -53,6 +53,9 @@
     "mps:longitude":41.776327,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Pitelinskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041f\u0438\u0442\u0435\u043b\u0438\u043d\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -63,13 +66,20 @@
         "Pitelinskiy"
     ],
     "name:eng_x_variant":[
-        "Pitelinskij"
+        "Pitelinskij",
+        "Pitelinsky District"
+    ],
+    "name:est_x_preferred":[
+        "Pitelino rajoon"
     ],
     "name:hye_x_preferred":[
         "\u054a\u056b\u057f\u0565\u056c\u056b\u0576\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Pitelinskij rajon"
+    ],
+    "name:myv_x_preferred":[
+        "\u041f\u0438\u0442\u0435\u043b\u0438\u043d\u0435\u043d\u044c \u0431\u0443\u0435"
     ],
     "name:nld_x_preferred":[
         "District Pitelinski"
@@ -82,6 +92,9 @@
     ],
     "name:vie_x_preferred":[
         "Pitelinsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u6377\u6797\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -120,7 +133,7 @@
         }
     ],
     "wof:id":1108735873,
-    "wof:lastmodified":1561832355,
+    "wof:lastmodified":1563256892,
     "wof:name":"Pitelinskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",
