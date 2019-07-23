@@ -59,6 +59,9 @@
     "name:aze_x_preferred":[
         "Q\u0131z\u0131lyar rayonu"
     ],
+    "name:bak_x_preferred":[
+        "\u041a\u0438\u0437\u043b\u044f\u0440 \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
     "name:che_x_preferred":[
         "\u041a\u0438\u0437\u043b\u044f\u0440\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -73,7 +76,7 @@
     ],
     "name:eng_x_variant":[
         "Kizljarskij",
-        "Kizljarskiy"
+        "Kizlyarsky District"
     ],
     "name:est_x_preferred":[
         "Kizljari rajoon"
@@ -93,11 +96,17 @@
     "name:ita_x_preferred":[
         "Kizljarskij rajon"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30ba\u30ea\u30e3\u30eb\u30b9\u30ad\u30fc\u5730\u533a"
+    ],
     "name:lez_x_preferred":[
         "\u041a\u0438\u0437\u043b\u044f\u0440 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:nld_x_preferred":[
         "District Kizljarski"
+    ],
+    "name:oss_x_preferred":[
+        "\u0425\u044a\u044b\u0437\u043b\u0430\u0440\u044b \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0437\u043b\u044f\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -116,6 +125,9 @@
     ],
     "name:war_x_preferred":[
         "Kizlyarsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u8332\u5229\u4e9e\u723e\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -154,7 +166,7 @@
         }
     ],
     "wof:id":1108734475,
-    "wof:lastmodified":1561832302,
+    "wof:lastmodified":1563256584,
     "wof:name":"Kizljarskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

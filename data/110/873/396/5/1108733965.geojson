@@ -53,6 +53,9 @@
     "mps:longitude":45.341644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "\u0130\u00e7alovski rayonu"
+    ],
     "name:che_x_preferred":[
         "\u0418\u0447\u0430\u043b\u043a\u0438\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -66,7 +69,8 @@
         "Ichalkovskiy"
     ],
     "name:eng_x_variant":[
-        "Ichalkovskij"
+        "Ichalkovskij",
+        "Ichalkovsky District"
     ],
     "name:est_x_preferred":[
         "It\u0161alki rajoon"
@@ -100,6 +104,9 @@
     ],
     "name:vie_x_preferred":[
         "Ichalkovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u6070\u723e\u79d1\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -138,7 +145,7 @@
         }
     ],
     "wof:id":1108733965,
-    "wof:lastmodified":1561832287,
+    "wof:lastmodified":1563256509,
     "wof:name":"Ichalkovskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",

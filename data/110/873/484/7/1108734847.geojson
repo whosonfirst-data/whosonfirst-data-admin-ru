@@ -56,6 +56,9 @@
     "name:bak_x_preferred":[
         "\u04a0\u04af\u04ab\u0430 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:bak_x_variant":[
+        "\u04a0\u0443\u04ab\u0430 \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
     "name:che_x_preferred":[
         "\u041a\u0443\u0441\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -66,7 +69,8 @@
         "Kusinskiy"
     ],
     "name:eng_x_variant":[
-        "Kusinskij"
+        "Kusinskij",
+        "Kusinsky District"
     ],
     "name:fra_x_preferred":[
         "Ra\u00efon de Koussa"
@@ -97,6 +101,9 @@
     ],
     "name:vie_x_preferred":[
         "Kusinsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u8f9b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -135,7 +142,7 @@
         }
     ],
     "wof:id":1108734847,
-    "wof:lastmodified":1561832311,
+    "wof:lastmodified":1563256636,
     "wof:name":"Kusinskiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

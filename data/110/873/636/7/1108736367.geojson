@@ -53,6 +53,12 @@
     "mps:longitude":41.45243,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Salski rayonu"
+    ],
+    "name:bak_x_preferred":[
+        "\u0421\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
     "name:che_x_preferred":[
         "\u0421\u0430\u043b\u044c\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -63,7 +69,11 @@
         "Sal'skiy"
     ],
     "name:eng_x_variant":[
-        "Sal'skij"
+        "Sal'skij",
+        "Salsky District"
+    ],
+    "name:est_x_preferred":[
+        "Salski rajoon"
     ],
     "name:fra_x_preferred":[
         "Ra\u00efon de Salsk"
@@ -83,6 +93,9 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043b\u044c\u0441\u043a \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -91,6 +104,9 @@
     ],
     "name:vie_x_preferred":[
         "Salsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u5229\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -129,7 +145,7 @@
         }
     ],
     "wof:id":1108736367,
-    "wof:lastmodified":1561832418,
+    "wof:lastmodified":1563257236,
     "wof:name":"Sal'skiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

@@ -54,8 +54,14 @@
     "mps:longitude":106.997739,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0406\u0432\u0430\u043b\u0433\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:bxr_x_preferred":[
         "\u042d\u0431\u0438\u043b\u0433\u044b\u043d \u0430\u0439\u043c\u0430\u0433"
+    ],
+    "name:ceb_x_preferred":[
+        "Ivolginskiy Rayon"
     ],
     "name:che_x_preferred":[
         "\u0418\u0432\u043e\u043b\u0433\u0438\u043d\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
@@ -67,7 +73,8 @@
         "Ivolginskiy"
     ],
     "name:eng_x_variant":[
-        "Ivolginskij"
+        "Ivolginskij",
+        "Ivolginsky District"
     ],
     "name:est_x_preferred":[
         "Ivolginski rajoon"
@@ -101,6 +108,9 @@
     ],
     "name:war_x_preferred":[
         "Ivolginsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u6c83\u723e\u91d1\u65af\u57fa\u5340"
     ],
     "qs:name":"Ivolginskiy Raion",
     "qs:name_adm0":"Russia",
@@ -157,7 +167,7 @@
         }
     ],
     "wof:id":890487023,
-    "wof:lastmodified":1561832787,
+    "wof:lastmodified":1563262857,
     "wof:name":"Ivolginskiy",
     "wof:parent_id":85688207,
     "wof:placetype":"county",

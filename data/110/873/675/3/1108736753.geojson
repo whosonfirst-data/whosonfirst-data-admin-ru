@@ -56,6 +56,9 @@
     "name:bel_x_preferred":[
         "\u0421\u0430\u0432\u0435\u0446\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Sovetskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -69,7 +72,11 @@
         "Sovetskiy"
     ],
     "name:eng_x_variant":[
-        "Sovetskij"
+        "Sovetskij",
+        "Sovetsky District"
+    ],
+    "name:est_x_preferred":[
+        "Sovetski rajoon"
     ],
     "name:hye_x_preferred":[
         "\u054d\u0578\u057e\u0565\u057f\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -88,6 +95,9 @@
     ],
     "name:und_x_variant":[
         "\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u97cb\u7279\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -126,7 +136,7 @@
         }
     ],
     "wof:id":1108736753,
-    "wof:lastmodified":1561832302,
+    "wof:lastmodified":1563256585,
     "wof:name":"Sovetskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

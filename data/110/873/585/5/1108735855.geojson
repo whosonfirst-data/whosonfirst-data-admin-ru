@@ -63,7 +63,8 @@
         "Petukhovskiy"
     ],
     "name:eng_x_variant":[
-        "Petukhovskij"
+        "Petukhovskij",
+        "Petukhovsky District"
     ],
     "name:hun_x_preferred":[
         "Petuhov\u00f3i j\u00e1r\u00e1s"
@@ -86,11 +87,17 @@
     "name:tat_x_preferred":[
         "\u041f\u0435\u0442\u0443\u0445\u043e\u0432\u043e \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0442\u0443\u0445\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u041f\u0435\u0442\u0443\u0445\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Petukhovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u5716\u970d\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -129,7 +136,7 @@
         }
     ],
     "wof:id":1108735855,
-    "wof:lastmodified":1561832421,
+    "wof:lastmodified":1563257257,
     "wof:name":"Petukhovskiy",
     "wof:parent_id":85688157,
     "wof:placetype":"county",

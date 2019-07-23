@@ -54,6 +54,12 @@
     "mps:longitude":38.784008,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0420\u044b\u0431\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Rybinskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0420\u044b\u0431\u0438\u043d\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -65,7 +71,10 @@
     ],
     "name:eng_x_variant":[
         "Rybinskij",
-        "Rybinskiy"
+        "Rybinsky District"
+    ],
+    "name:est_x_preferred":[
+        "R\u00f5binski rajoon"
     ],
     "name:hye_x_preferred":[
         "\u054c\u056b\u0562\u056b\u0576\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -82,11 +91,17 @@
     "name:slv_x_preferred":[
         "Bar\u0161inka"
     ],
+    "name:tat_x_preferred":[
+        "\u0420\u044b\u0431\u0438\u043d\u0441\u043a \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u0438\u0431\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:und_x_variant":[
         "\u0420\u044b\u0431\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u8cd3\u65af\u57fa\u5340"
     ],
     "qs:name":"Rybinskiy Raion",
     "qs:name_adm0":"Russia",
@@ -130,7 +145,7 @@
         }
     ],
     "wof:id":890480337,
-    "wof:lastmodified":1561832795,
+    "wof:lastmodified":1563262977,
     "wof:name":"Rybinskiy",
     "wof:parent_id":85687959,
     "wof:placetype":"county",

@@ -56,6 +56,9 @@
     "name:bak_x_preferred":[
         "\u0411\u0430\u043b\u044b\u04a1 \u0411\u0438\u04ab\u0442\u04d9\u04bb\u0435 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:ceb_x_preferred":[
+        "Rybno-Slobodskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0420\u044b\u0431\u043d\u0438 \u0421\u043b\u043e\u0431\u043e\u0434\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -66,7 +69,8 @@
         "Rybno-Slobodskiy"
     ],
     "name:eng_x_variant":[
-        "Rybno-Slobodskij"
+        "Rybno-Slobodskij",
+        "Rybno-Slobodsky District"
     ],
     "name:est_x_preferred":[
         "R\u00f5bnaja Sloboda rajoon"
@@ -100,6 +104,9 @@
     ],
     "name:vie_x_preferred":[
         "Rybno-Slobodsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u5e03\u8afe-\u65af\u6d1b\u535a\u5fb7\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -138,7 +145,7 @@
         }
     ],
     "wof:id":1108736341,
-    "wof:lastmodified":1561832319,
+    "wof:lastmodified":1563256682,
     "wof:name":"Rybno-Slobodskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

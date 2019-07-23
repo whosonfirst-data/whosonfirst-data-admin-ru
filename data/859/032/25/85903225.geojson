@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002105,
-    "geom:area_square_m":13079494.405319,
+    "geom:area_square_m":13079494.405321,
     "geom:bbox":"30.2242239927,59.8060116916,30.2965600586,59.8572299565",
     "geom:latitude":59.838312,
     "geom:longitude":30.264297,
@@ -30,15 +30,33 @@
     "name:eng_x_preferred":[
         "Dachnoye"
     ],
+    "name:epo_x_preferred":[
+        "Da\u0109noje"
+    ],
     "name:fin_x_preferred":[
         "Tasnoi"
+    ],
+    "name:hun_x_preferred":[
+        "Dacsnoje"
+    ],
+    "name:nld_x_preferred":[
+        "Dachnoye"
+    ],
+    "name:pol_x_preferred":[
+        "Dacznoje"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u0447\u043d\u043e\u0435"
     ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u0447\u043d\u0435"
+    ],
     "name:unk_x_variant":[
         "\u0414\u0430\u0447\u043d\u043e\u0435",
         "Dachnoye"
+    ],
+    "name:zho_x_preferred":[
+        "\u9054\u5947\u8afe\u8036\u7ad9"
     ],
     "qs:gn_adm0_cc":"RU",
     "qs:gn_fcode":"PPLX",
@@ -70,11 +88,11 @@
     "src:lbl:centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1510870355,
+    "wof:lastmodified":1563244477,
     "wof:name":"Dachnoye",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

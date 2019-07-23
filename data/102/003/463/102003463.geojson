@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002262,
-    "geom:area_square_m":15953603.459926,
+    "geom:area_square_m":15953603.459927,
     "geom:bbox":"34.2498054504,55.1892776489,34.3435821533,55.2477226257",
     "geom:latitude":55.219541,
     "geom:longitude":34.297493,
@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0627\u0632\u0645\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0648\u06cc\u0627\u0632\u0645\u0627"
+    ],
     "name:aze_x_preferred":[
         "Vyazma"
     ],
@@ -38,11 +41,17 @@
     "name:cat_x_preferred":[
         "Viazma"
     ],
+    "name:ceb_x_preferred":[
+        "Vyaz'ma"
+    ],
     "name:ces_x_preferred":[
         "Vjazma"
     ],
     "name:che_x_preferred":[
         "\u0412\u044f\u0437\u044c\u043c\u0430"
+    ],
+    "name:cym_x_preferred":[
+        "Vyazma"
     ],
     "name:dan_x_preferred":[
         "Vjazma"
@@ -52,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Vyaz'ma"
+    ],
+    "name:eng_x_variant":[
+        "Vyazma"
     ],
     "name:epo_x_preferred":[
         "Vjazma"
@@ -74,11 +86,20 @@
     "name:hsb_x_preferred":[
         "Wjazma"
     ],
+    "name:hun_x_preferred":[
+        "Vjazma"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0575\u0561\u0566\u0574\u0561"
+    ],
     "name:ita_x_preferred":[
         "Vjaz'ma"
     ],
     "name:jpn_x_preferred":[
         "\u30f4\u30e3\u30b8\u30de"
+    ],
+    "name:kir_x_preferred":[
+        "\u0412\u044f\u0437\u043c\u0430"
     ],
     "name:kor_x_preferred":[
         "\ubc4c\uc9c0\ub9c8"
@@ -86,10 +107,19 @@
     "name:lat_x_preferred":[
         "Viasma"
     ],
+    "name:lit_x_preferred":[
+        "Viazma"
+    ],
+    "name:ltz_x_preferred":[
+        "Wjasma"
+    ],
     "name:nld_x_preferred":[
         "Vjazma"
     ],
     "name:nno_x_preferred":[
+        "Vjazma"
+    ],
+    "name:nob_x_preferred":[
         "Vjazma"
     ],
     "name:nor_x_preferred":[
@@ -113,6 +143,9 @@
     "name:slk_x_preferred":[
         "Viazma"
     ],
+    "name:slv_x_preferred":[
+        "Viazma"
+    ],
     "name:spa_x_preferred":[
         "Viazma"
     ],
@@ -122,10 +155,19 @@
     "name:swe_x_preferred":[
         "Vjazma"
     ],
+    "name:szl_x_preferred":[
+        "Wja\u017ama"
+    ],
     "name:tat_x_preferred":[
         "\u0412\u044f\u0437\u044c\u043c\u0430"
     ],
+    "name:tat_x_variant":[
+        "\u0412\u04d9\u0437\u043c\u0430"
+    ],
     "name:tgl_x_preferred":[
+        "Vyazma"
+    ],
+    "name:tur_x_preferred":[
         "Vyazma"
     ],
     "name:ukr_x_preferred":[
@@ -133,6 +175,9 @@
     ],
     "name:unk_x_variant":[
         "Vyasma"
+    ],
+    "name:vie_x_preferred":[
+        "Vyazma"
     ],
     "name:war_x_preferred":[
         "Vyazma"
@@ -281,7 +326,7 @@
         }
     ],
     "wof:id":102003463,
-    "wof:lastmodified":1527637834,
+    "wof:lastmodified":1563241113,
     "wof:name":"Vyazma",
     "wof:parent_id":1108737499,
     "wof:placetype":"locality",

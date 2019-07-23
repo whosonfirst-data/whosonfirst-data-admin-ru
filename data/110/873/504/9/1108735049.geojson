@@ -53,6 +53,15 @@
     "mps:longitude":112.256066,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u043c\u0441\u043a\u0430-\u0427\u0443\u0439\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Mamsko-Chuyskiy Rayon"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u043c\u0430\u043d-\u0427\u0443\u044f\u043d \u043a\u04c0\u043e\u0448\u0442"
+    ],
     "name:deu_x_preferred":[
         "Mamsko-Tschuiski rajon"
     ],
@@ -61,7 +70,7 @@
     ],
     "name:eng_x_variant":[
         "Mamsko-CHujskij",
-        "Mamsko-Chujskiy"
+        "Mamsko-Chuysky District"
     ],
     "name:hun_x_preferred":[
         "Mama-csujai j\u00e1r\u00e1s"
@@ -83,6 +92,9 @@
     ],
     "name:vie_x_preferred":[
         "Mamsko-Chuysky"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u9a6c-\u4e18\u4e9a\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -109,7 +121,7 @@
         }
     ],
     "wof:id":1108735049,
-    "wof:lastmodified":1561832297,
+    "wof:lastmodified":1563256555,
     "wof:name":"Mamsko-Chujskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

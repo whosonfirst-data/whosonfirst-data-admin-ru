@@ -53,6 +53,9 @@
     "mps:longitude":85.391688,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:che_x_preferred":[
         "\u041f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -63,7 +66,8 @@
         "Promyshlennovskiy"
     ],
     "name:eng_x_variant":[
-        "Promyshlennovskij"
+        "Promyshlennovskij",
+        "Promyshlennovsky District"
     ],
     "name:hun_x_preferred":[
         "Promislennajai j\u00e1r\u00e1s"
@@ -85,6 +89,9 @@
     ],
     "name:vie_x_preferred":[
         "Promyshlennovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u7f85\u6885\u4ec0\u9023\u8afe\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -123,7 +130,7 @@
         }
     ],
     "wof:id":1108736015,
-    "wof:lastmodified":1561832404,
+    "wof:lastmodified":1563257179,
     "wof:name":"Promyshlennovskiy",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

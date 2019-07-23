@@ -53,6 +53,12 @@
     "mps:longitude":42.525871,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "\u0130njavinskiy rayonu"
+    ],
+    "name:bel_x_preferred":[
+        "\u0406\u043d\u0436\u0430\u0432\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:che_x_preferred":[
         "\u0418\u043d\u0436\u0430\u0432\u0438\u043d\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -63,7 +69,11 @@
         "Inzhavinskiy"
     ],
     "name:eng_x_variant":[
-        "Inzhavinskij"
+        "Inzhavinskij",
+        "Inzhavinsky District"
+    ],
+    "name:est_x_preferred":[
+        "In\u017eavino rajoon"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u06cc\u0646\u0698\u0627\u0648\u06cc\u0646\u0633\u06a9\u06cc"
@@ -88,6 +98,9 @@
     ],
     "name:vie_x_preferred":[
         "Inzhavinsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u56e0\u624e\u6eab\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -126,7 +139,7 @@
         }
     ],
     "wof:id":1108734001,
-    "wof:lastmodified":1561832332,
+    "wof:lastmodified":1563256758,
     "wof:name":"Inzhavinskiy",
     "wof:parent_id":85687829,
     "wof:placetype":"county",

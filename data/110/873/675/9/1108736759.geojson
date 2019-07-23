@@ -63,7 +63,11 @@
         "Sovetskiy"
     ],
     "name:eng_x_variant":[
-        "Sovetskij"
+        "Sovetskij",
+        "Sovetsky District"
+    ],
+    "name:est_x_preferred":[
+        "Sovetskaja rajoon"
     ],
     "name:hun_x_preferred":[
         "Szovjetszkajai j\u00e1r\u00e1s"
@@ -88,6 +92,9 @@
     ],
     "name:und_x_variant":[
         "\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u97cb\u7279\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -126,7 +133,7 @@
         }
     ],
     "wof:id":1108736759,
-    "wof:lastmodified":1561832302,
+    "wof:lastmodified":1563256585,
     "wof:name":"Sovetskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

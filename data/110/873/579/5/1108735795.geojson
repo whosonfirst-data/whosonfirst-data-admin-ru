@@ -53,11 +53,17 @@
     "mps:longitude":27.686774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Pechorskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041f\u0435\u0447\u043e\u0440\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
     "name:chv_x_preferred":[
         "\u041f\u0441\u043a\u043e\u0432 \u043e\u0431\u043b\u0430\u00e7\u0115\u043d \u041f\u0435\u0447\u043e\u0440\u0430 \u0440\u0430\u0439\u043e\u043d\u0115"
+    ],
+    "name:dan_x_preferred":[
+        "Petjorskij rajon"
     ],
     "name:deu_x_preferred":[
         "Petschorski rajon"
@@ -67,7 +73,7 @@
     ],
     "name:eng_x_variant":[
         "Pechorskij",
-        "Pechorskiy"
+        "Pechorsky District"
     ],
     "name:est_x_preferred":[
         "Petseri rajoon"
@@ -86,6 +92,9 @@
     ],
     "name:ita_x_preferred":[
         "Pe\u010dorskij rajon"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\ucd08\ub974\uc2a4\ud0a4\uad70"
     ],
     "name:lav_x_preferred":[
         "Pe\u010doru rajons"
@@ -110,6 +119,9 @@
     ],
     "name:vie_x_preferred":[
         "Pechorsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u55ac\u723e\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -136,7 +148,7 @@
         }
     ],
     "wof:id":1108735795,
-    "wof:lastmodified":1561832430,
+    "wof:lastmodified":1563257308,
     "wof:name":"Pechorskiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",

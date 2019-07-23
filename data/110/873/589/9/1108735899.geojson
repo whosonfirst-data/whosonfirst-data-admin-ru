@@ -66,7 +66,11 @@
         "Pochinkovskiy"
     ],
     "name:eng_x_variant":[
-        "Pochinkovskij"
+        "Pochinkovskij",
+        "Pochinkovsky District"
+    ],
+    "name:est_x_preferred":[
+        "Pot\u0161inoki rajoon"
     ],
     "name:hye_x_preferred":[
         "\u054a\u0578\u0579\u056b\u0576\u056f\u0578\u057e\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -91,6 +95,9 @@
     ],
     "name:und_x_variant":[
         "\u041f\u043e\u0447\u0438\u043d\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u6b3d\u79d1\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -129,7 +136,7 @@
         }
     ],
     "wof:id":1108735899,
-    "wof:lastmodified":1561832353,
+    "wof:lastmodified":1563256879,
     "wof:name":"Pochinkovskiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",

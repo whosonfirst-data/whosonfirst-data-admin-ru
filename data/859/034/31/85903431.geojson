@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00098,
-    "geom:area_square_m":6103477.132998,
+    "geom:area_square_m":6103477.132999,
     "geom:bbox":"30.2985327149,59.7560773593,30.3405053711,59.7895792108",
     "geom:latitude":59.772445,
     "geom:longitude":30.319995,
@@ -26,6 +26,9 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Pulkovo Airlines"
+    ],
     "name:eng_x_preferred":[
         "Pulkovo"
     ],
@@ -33,11 +36,26 @@
         "Bol'shoye Pulkovo",
         "Pulkovov"
     ],
+    "name:est_x_preferred":[
+        "Pulkovo Lennukompanii"
+    ],
     "name:fin_x_preferred":[
         "Pulkkala"
     ],
+    "name:fra_x_preferred":[
+        "Pulkovo Aviation"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30eb\u30b3\u30f4\u30a9\u822a\u7a7a"
+    ],
+    "name:kor_x_preferred":[
+        "\ud480\ucf54\ubcf4 \ud56d\uacf5"
+    ],
     "name:nor_x_preferred":[
         "Pulkovo"
+    ],
+    "name:pol_x_preferred":[
+        "Pulkovo Airlines"
     ],
     "name:rus_x_preferred":[
         "\u043f\u0443\u043b\u043a\u043e\u0432\u043e"
@@ -49,6 +67,9 @@
     "name:unk_x_variant":[
         "Bol\u2019shoye Pulkovo",
         "Pulkovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u723e\u79d1\u6c83\u822a\u7a7a"
     ],
     "qs:gn_adm0_cc":"RU",
     "qs:gn_fcode":"PPL",
@@ -79,11 +100,11 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1510870352,
+    "wof:lastmodified":1563244490,
     "wof:name":"Pulkovo",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

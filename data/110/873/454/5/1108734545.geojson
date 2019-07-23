@@ -64,7 +64,10 @@
     ],
     "name:eng_x_variant":[
         "Kolpnjanskij",
-        "Kolpnjanskiy"
+        "Kolpnyansky District"
+    ],
+    "name:est_x_preferred":[
+        "Kolpn\u00f5 rajoon"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u056c\u057a\u0576\u0575\u0561\u0576\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -81,11 +84,17 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u043b\u043f\u043d\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043b\u043f\u043d\u044f\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u041a\u043e\u043b\u043f\u043d\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Kolpnyansky"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u723e\u666e\u5c3c\u63da\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":1108734545,
-    "wof:lastmodified":1561832333,
+    "wof:lastmodified":1563256767,
     "wof:name":"Kolpnjanskiy",
     "wof:parent_id":85687849,
     "wof:placetype":"county",

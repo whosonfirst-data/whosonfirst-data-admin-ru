@@ -63,7 +63,8 @@
         "Ust'-Tarkskiy"
     ],
     "name:eng_x_variant":[
-        "Ust'-Tarkskij"
+        "Ust'-Tarkskij",
+        "Ust-Tarksky District"
     ],
     "name:hun_x_preferred":[
         "Uszty-Tarkai j\u00e1r\u00e1s"
@@ -83,6 +84,9 @@
     "name:rus_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u0422\u0430\u0440\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:tat_x_preferred":[
+        "\u0423\u0441\u0442\u0430\u0440\u043a\u0430 \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
     "name:ukr_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u0422\u0430\u0440\u0430\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -91,6 +95,9 @@
     ],
     "name:vie_x_preferred":[
         "Ust-Tarksky"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u65af\u5b63-\u5854\u723e\u514b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -129,7 +136,7 @@
         }
     ],
     "wof:id":1108737257,
-    "wof:lastmodified":1561832339,
+    "wof:lastmodified":1563256796,
     "wof:name":"Ust'-Tarkskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",

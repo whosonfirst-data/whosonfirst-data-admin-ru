@@ -63,7 +63,8 @@
         "Poltavskiy"
     ],
     "name:eng_x_variant":[
-        "Poltavskij"
+        "Poltavskij",
+        "Poltavsky District"
     ],
     "name:hun_x_preferred":[
         "Poltavkai j\u00e1r\u00e1s"
@@ -80,11 +81,17 @@
     "name:rus_x_preferred":[
         "\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Poltavsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u723e\u5854\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -123,7 +130,7 @@
         }
     ],
     "wof:id":1108735927,
-    "wof:lastmodified":1561832291,
+    "wof:lastmodified":1563256527,
     "wof:name":"Poltavskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

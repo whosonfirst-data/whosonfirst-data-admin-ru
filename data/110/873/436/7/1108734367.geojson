@@ -59,6 +59,9 @@
     "name:aze_x_preferred":[
         "Xiv rayonu"
     ],
+    "name:ceb_x_preferred":[
+        "Khivskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0425\u0438\u0432\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -72,7 +75,8 @@
         "Khivskiy"
     ],
     "name:eng_x_variant":[
-        "KHivskij"
+        "KHivskij",
+        "Khivsky District"
     ],
     "name:est_x_preferred":[
         "Hivi rajoon"
@@ -116,6 +120,9 @@
     "name:war_x_preferred":[
         "Khivsky"
     ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u592b\u65af\u57fa\u5340"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -153,7 +160,7 @@
         }
     ],
     "wof:id":1108734367,
-    "wof:lastmodified":1561832329,
+    "wof:lastmodified":1563256736,
     "wof:name":"Khivskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

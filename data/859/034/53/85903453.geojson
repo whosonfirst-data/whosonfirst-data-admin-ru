@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000911,
-    "geom:area_square_m":6326428.78316,
+    "geom:area_square_m":6326428.783159,
     "geom:bbox":"37.6524602173,55.8391080138,37.7068383789,55.870353766",
     "geom:latitude":55.852196,
     "geom:longitude":37.684732,
@@ -30,6 +30,9 @@
     "name:bel_x_preferred":[
         "\u0406\u0433\u0430\u0440 \u0421\u0435\u0432\u044f\u0440\u0430\u043d\u0456\u043d"
     ],
+    "name:cat_x_preferred":[
+        "\u00cdgor Severianin"
+    ],
     "name:deu_x_preferred":[
         "Igor Sewerjanin"
     ],
@@ -37,7 +40,8 @@
         "Severyanin"
     ],
     "name:eng_x_variant":[
-        "Krasnyy Severyanin"
+        "Krasnyy Severyanin",
+        "Igor Severyanin"
     ],
     "name:est_x_preferred":[
         "Igor Severjanin"
@@ -54,7 +58,16 @@
     "name:lat_x_preferred":[
         "Inguarus Severjanin"
     ],
+    "name:lav_x_preferred":[
+        "Igors Severja\u0146ins"
+    ],
     "name:nld_x_preferred":[
+        "Igor Severjanin"
+    ],
+    "name:nno_x_preferred":[
+        "Igor Severjanin"
+    ],
+    "name:nob_x_preferred":[
         "Igor Severjanin"
     ],
     "name:pol_x_preferred":[
@@ -66,12 +79,18 @@
     "name:rus_x_variant":[
         "\u0421\u0435\u0432\u0435\u0440\u044f\u043d\u0438\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Igor Severyanin"
+    ],
     "name:ukr_x_preferred":[
         "\u0406\u0433\u043e\u0440 \u0421\u0454\u0432\u0435\u0440\u044f\u043d\u0438\u043d"
     ],
     "name:unk_x_variant":[
         "Krasnyy Severyanin",
         "Severyanin"
+    ],
+    "name:uzb_x_preferred":[
+        "\u041b\u043e\u0442\u0430\u0440\u0435\u0432"
     ],
     "name:vie_x_preferred":[
         "Igor Severyanin"
@@ -138,7 +157,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639057,
+    "wof:lastmodified":1563244491,
     "wof:name":"Severyanin",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

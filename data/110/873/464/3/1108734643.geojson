@@ -53,6 +53,12 @@
     "mps:longitude":35.818596,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kozel'skiy Rayon"
+    ],
+    "name:ces_x_preferred":[
+        "Kozelsk\u00fd raj\u00f3n"
+    ],
     "name:che_x_preferred":[
         "\u041a\u043e\u0437\u0435\u043b\u044c\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -63,10 +69,14 @@
         "Kozel'skiy"
     ],
     "name:eng_x_variant":[
-        "Kozel'skij"
+        "Kozel'skij",
+        "Kozelsky District"
     ],
     "name:epo_x_preferred":[
         "Distrikto Kozelsk"
+    ],
+    "name:est_x_preferred":[
+        "Kozelski rajoon"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0566\u0565\u056c\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -91,6 +101,9 @@
     ],
     "name:vie_x_preferred":[
         "Kozelsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u6fa4\u5229\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -129,7 +142,7 @@
         }
     ],
     "wof:id":1108734643,
-    "wof:lastmodified":1561832325,
+    "wof:lastmodified":1563256715,
     "wof:name":"Kozel'skiy",
     "wof:parent_id":85688131,
     "wof:placetype":"county",

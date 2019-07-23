@@ -63,7 +63,11 @@
         "Kurkinskiy"
     ],
     "name:eng_x_variant":[
-        "Kurkinskij"
+        "Kurkinskij",
+        "Kurkinsky District"
+    ],
+    "name:est_x_preferred":[
+        "Kurkino rajoon"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0582\u0580\u056f\u056b\u0576\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -77,11 +81,17 @@
     "name:rus_x_preferred":[
         "\u041a\u0443\u0440\u043a\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0440\u043a\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u041a\u0443\u0440\u043a\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Kurkinsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u723e\u91d1\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -120,7 +130,7 @@
         }
     ],
     "wof:id":1108734829,
-    "wof:lastmodified":1561832304,
+    "wof:lastmodified":1563256597,
     "wof:name":"Kurkinskiy",
     "wof:parent_id":85688203,
     "wof:placetype":"county",

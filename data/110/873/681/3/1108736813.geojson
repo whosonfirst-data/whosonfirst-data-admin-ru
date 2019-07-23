@@ -53,11 +53,17 @@
     "mps:longitude":55.252136,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Sterliba\u015f rayonu"
+    ],
     "name:bak_x_preferred":[
         "\u0421\u0442\u04d9\u0440\u043b\u0435\u0431\u0430\u0448 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
     "name:che_x_preferred":[
         "\u0421\u0442\u0435\u0440\u043b\u0438\u0431\u0430\u0448\u0435\u0432\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
+    ],
+    "name:chv_x_preferred":[
+        "\u00c7\u0442\u0435\u0440\u043b\u0115\u043f\u0443\u00e7 \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
     "name:deu_x_preferred":[
         "Sterlibaschewski rajon"
@@ -66,7 +72,8 @@
         "Sterlibashevskiy"
     ],
     "name:eng_x_variant":[
-        "Sterlibashevskij"
+        "Sterlibashevskij",
+        "Sterlibashevsky District"
     ],
     "name:est_x_preferred":[
         "Sterliba\u0161evo rajoon"
@@ -82,6 +89,9 @@
     ],
     "name:ita_x_preferred":[
         "Sterliba\u0161evskij rajon"
+    ],
+    "name:myv_x_preferred":[
+        "\u0421\u0442\u0435\u0440\u043b\u0438\u0431\u0430\u0448\u044d\u043d\u044c \u0431\u0443\u0435"
     ],
     "name:nld_x_preferred":[
         "Sterlibasjevskiy rayon"
@@ -106,6 +116,9 @@
     ],
     "name:war_x_preferred":[
         "Sterlibashevsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u6377\u723e\u5229\u5df4\u820d\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -144,7 +157,7 @@
         }
     ],
     "wof:id":1108736813,
-    "wof:lastmodified":1561832302,
+    "wof:lastmodified":1563256586,
     "wof:name":"Sterlibashevskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

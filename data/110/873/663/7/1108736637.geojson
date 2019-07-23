@@ -56,6 +56,9 @@
     "name:bel_x_preferred":[
         "\u0421\u043a\u0430\u043f\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Skopinskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0421\u043a\u043e\u043f\u0438\u043d\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -67,13 +70,19 @@
     ],
     "name:eng_x_variant":[
         "Skopinskij",
-        "Skopinskiy"
+        "Skopinsky District"
+    ],
+    "name:est_x_preferred":[
+        "Skopini rajoon"
     ],
     "name:hye_x_preferred":[
         "\u054d\u056f\u0578\u057a\u056b\u0576\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Skopinskij rajon"
+    ],
+    "name:myv_x_preferred":[
+        "\u0421\u043a\u043e\u043f\u0438\u043d\u0435\u043d\u044c \u0431\u0443\u0435"
     ],
     "name:nld_x_preferred":[
         "District Skopinski"
@@ -86,6 +95,9 @@
     ],
     "name:vie_x_preferred":[
         "Skopinsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u79d1\u5e73\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -112,7 +124,7 @@
         }
     ],
     "wof:id":1108736637,
-    "wof:lastmodified":1561832399,
+    "wof:lastmodified":1563257145,
     "wof:name":"Skopinskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

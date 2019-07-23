@@ -53,6 +53,12 @@
     "mps:longitude":41.210943,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u043c\u0431\u043e\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Tambovskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0422\u0430\u043c\u0431\u043e\u0432\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -64,16 +70,25 @@
     ],
     "name:eng_x_variant":[
         "Tambovskij",
-        "Tambovskiy"
+        "Tambovsky District"
+    ],
+    "name:est_x_preferred":[
+        "Tambovi rajoon"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062a\u0627\u0645\u0628\u0648\u0641\u0633\u06a9\u06cc\u060c \u0627\u0633\u062a\u0627\u0646 \u062a\u0627\u0645\u0628\u0648\u0641"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062a\u0627\u0645\u0628\u0648\u0641\u0633\u06a9\u06cc"
     ],
     "name:hye_x_preferred":[
         "\u054f\u0561\u0574\u0562\u0578\u057e\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Tambovskij rajon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30f3\u30dc\u30d5\u5730\u533a"
     ],
     "name:myv_x_preferred":[
         "\u0422\u043e\u043c\u0431\u0430\u043c\u043e\u043d\u044c \u0431\u0443\u0435"
@@ -86,6 +101,9 @@
     ],
     "name:und_x_variant":[
         "\u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5766\u535a\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -112,7 +130,7 @@
         }
     ],
     "wof:id":1108736931,
-    "wof:lastmodified":1561832328,
+    "wof:lastmodified":1563256731,
     "wof:name":"Tambovskiy",
     "wof:parent_id":85687829,
     "wof:placetype":"county",

@@ -56,6 +56,9 @@
     "name:bak_x_preferred":[
         "\u0411\u0430\u043b\u0442\u0430\u0441 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:ceb_x_preferred":[
+        "Baltasinskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0430\u043b\u0442\u0430\u0441\u0438\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -66,7 +69,8 @@
         "Baltasinskiy"
     ],
     "name:eng_x_variant":[
-        "Baltasinskij"
+        "Baltasinskij",
+        "Baltasinsky District"
     ],
     "name:est_x_preferred":[
         "Baltassi rajoon"
@@ -80,6 +84,12 @@
     "name:hye_x_preferred":[
         "\u0532\u0561\u056c\u057f\u0561\u057d\u056b\u0576\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
+    "name:mhr_x_preferred":[
+        "\u0411\u0430\u043b\u0442\u0430\u0441\u0438 \u043a\u0443\u043d\u0434\u0435\u043c"
+    ],
+    "name:myv_x_preferred":[
+        "\u0411\u0430\u043b\u0442\u0430\u0441\u0438\u043d\u044c \u0431\u0443\u0435"
+    ],
     "name:por_x_preferred":[
         "Baltasinsky"
     ],
@@ -89,6 +99,9 @@
     "name:tat_x_preferred":[
         "\u0411\u0430\u043b\u0442\u0430\u0447 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:udm_x_preferred":[
+        "\u0411\u0430\u043b\u0442\u0430\u0441\u044c \u0451\u0440\u043e\u0441"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0442\u0430\u0441\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -97,6 +110,9 @@
     ],
     "name:vie_x_preferred":[
         "Baltasinsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u723e\u5854\u8f9b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -135,7 +151,7 @@
         }
     ],
     "wof:id":1108732883,
-    "wof:lastmodified":1561832315,
+    "wof:lastmodified":1563256656,
     "wof:name":"Baltasinskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

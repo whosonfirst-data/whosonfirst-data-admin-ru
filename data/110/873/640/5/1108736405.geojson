@@ -53,6 +53,9 @@
     "mps:longitude":41.294847,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Savinskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0421\u0430\u0432\u0438\u043d\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -66,10 +69,17 @@
         "Savinskiy"
     ],
     "name:eng_x_variant":[
-        "Savinskij"
+        "Savinskij",
+        "Savinsky District"
+    ],
+    "name:est_x_preferred":[
+        "Savino rajoon"
     ],
     "name:ita_x_preferred":[
         "Savinskij rajon"
+    ],
+    "name:myv_x_preferred":[
+        "\u0421\u0430\u0432\u0438\u043d\u0441\u043a\u043e\u0439 \u0431\u0443\u0435"
     ],
     "name:nld_x_preferred":[
         "Savinskiy rayon"
@@ -85,6 +95,9 @@
     ],
     "name:vie_x_preferred":[
         "Savinsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u7ef4\u8bfa\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -123,7 +136,7 @@
         }
     ],
     "wof:id":1108736405,
-    "wof:lastmodified":1561832384,
+    "wof:lastmodified":1563257061,
     "wof:name":"Savinskiy",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

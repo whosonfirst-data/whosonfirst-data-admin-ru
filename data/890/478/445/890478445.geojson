@@ -15,6 +15,9 @@
     "iso:country":"RU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0416\u0430\u0440\u043a\u043e\u045e\u0441\u043a\u0456"
+    ],
     "name:che_x_preferred":[
         "\u0416\u0430\u0440\u043a\u043e\u0432\u0441\u043a\u0438\u0439"
     ],
@@ -24,11 +27,20 @@
     "name:eng_x_preferred":[
         "Zharkovskiy"
     ],
+    "name:eng_x_variant":[
+        "Zharkovsky"
+    ],
     "name:fin_x_preferred":[
         "\u017darkovski"
     ],
+    "name:hun_x_preferred":[
+        "Zsarkovszkij"
+    ],
     "name:nor_x_preferred":[
         "Zjarkovskij"
+    ],
+    "name:pol_x_preferred":[
+        "\u017barkowskij"
     ],
     "name:rus_x_preferred":[
         "\u0416\u0430\u0440\u043a\u043e\u0432\u0441\u043a\u0438\u0439"
@@ -77,7 +89,7 @@
         }
     ],
     "wof:id":890478445,
-    "wof:lastmodified":1561832719,
+    "wof:lastmodified":1563261927,
     "wof:name":"Zharkovskiy",
     "wof:parent_id":1108738049,
     "wof:placetype":"locality",

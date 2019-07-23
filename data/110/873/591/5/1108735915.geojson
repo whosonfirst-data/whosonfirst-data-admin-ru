@@ -67,7 +67,7 @@
     ],
     "name:eng_x_variant":[
         "Pokhvistnevskij",
-        "Pokhvistnevskiy"
+        "Pokhvistnevsky District"
     ],
     "name:hun_x_preferred":[
         "Pohvisztnyev\u00f3i j\u00e1r\u00e1s"
@@ -90,11 +90,17 @@
     "name:tat_x_preferred":[
         "\u041f\u043e\u0445\u0432\u0438\u0441\u0442\u043d\u0435\u0432\u043e \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0445\u0432\u0456\u0441\u0442\u043d\u0454\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u041f\u043e\u0445\u0432\u0438\u0441\u0442\u043d\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Pokhvistnevsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u8d6b\u7dad\u65af\u7279\u6d85\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":1108735915,
-    "wof:lastmodified":1561832373,
+    "wof:lastmodified":1563256995,
     "wof:name":"Pokhvistnevskiy",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

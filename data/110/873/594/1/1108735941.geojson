@@ -53,6 +53,9 @@
     "mps:longitude":46.344922,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Pores"
+    ],
     "name:che_x_preferred":[
         "\u041f\u043e\u0440\u0435\u0446\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -69,7 +72,8 @@
         "Poreckij"
     ],
     "name:eng_x_variant":[
-        "Poretsskiy"
+        "Poretsskiy",
+        "Poretsky District"
     ],
     "name:est_x_preferred":[
         "Poretskoje rajoon"
@@ -82,6 +86,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054a\u0578\u0580\u0565\u0581\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
+    "name:myv_x_preferred":[
+        "\u041f\u043e\u0440\u0435\u0446\u0435\u043d\u044c \u0431\u0443\u0435"
     ],
     "name:nld_x_preferred":[
         "Poretskiy rayon"
@@ -103,6 +110,12 @@
     ],
     "name:war_x_preferred":[
         "Poretsky"
+    ],
+    "name:zho_x_preferred":[
+        "Poronajskiy"
+    ],
+    "name:zho_x_variant":[
+        "\u6ce2\u5217\u8328\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -141,7 +154,7 @@
         }
     ],
     "wof:id":1108735941,
-    "wof:lastmodified":1561832282,
+    "wof:lastmodified":1563256484,
     "wof:name":"Poreckij",
     "wof:parent_id":85688111,
     "wof:placetype":"county",

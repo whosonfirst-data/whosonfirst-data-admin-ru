@@ -56,6 +56,9 @@
     "name:ady_x_preferred":[
         "\u0428\u044d\u0443\u0434\u0436\u044d\u043d \u043a\u044a\u0435\u0434\u0437\u044b\u0433\u044a\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Shovgenovskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0428\u043e\u0432\u0433\u0435\u043d\u043e\u0432\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -66,7 +69,8 @@
         "Shovgenovskiy"
     ],
     "name:eng_x_variant":[
-        "SHovgenovskij"
+        "SHovgenovskij",
+        "Shovgenovsky District"
     ],
     "name:est_x_preferred":[
         "\u0160ovgenovski rajoon"
@@ -110,6 +114,9 @@
     "name:vie_x_preferred":[
         "Shovgenovsky"
     ],
+    "name:zho_x_preferred":[
+        "\u7d39\u592b\u5091\u8afe\u592b\u65af\u57fa\u5340"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -147,7 +154,7 @@
         }
     ],
     "wof:id":1108736601,
-    "wof:lastmodified":1561832327,
+    "wof:lastmodified":1563256724,
     "wof:name":"Shovgenovskiy",
     "wof:parent_id":85688135,
     "wof:placetype":"county",

@@ -53,6 +53,12 @@
     "mps:longitude":35.846452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041c\u0435\u0434\u044b\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Medynskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041c\u0435\u0434\u044b\u043d\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -64,10 +70,13 @@
     ],
     "name:eng_x_variant":[
         "Medynskij",
-        "Medynskiy"
+        "Medynsky District"
     ],
     "name:epo_x_preferred":[
         "Distrikto Medinj"
+    ],
+    "name:est_x_preferred":[
+        "Med\u00f5ni rajoon"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0565\u0564\u056b\u0576\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -92,6 +101,9 @@
     ],
     "name:vie_x_preferred":[
         "Medynsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u767b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -130,7 +142,7 @@
         }
     ],
     "wof:id":1108735093,
-    "wof:lastmodified":1561832370,
+    "wof:lastmodified":1563256977,
     "wof:name":"Medynskiy",
     "wof:parent_id":85688131,
     "wof:placetype":"county",

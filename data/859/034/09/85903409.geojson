@@ -27,17 +27,32 @@
     "mz:note":"metro station",
     "mz:tier_locality":4,
     "mz:tier_metro":30,
+    "name:bel_x_preferred":[
+        "\u041f\u044f\u0442\u0440\u043e\u045e\u0441\u043a\u0430-\u0420\u0430\u0437\u0443\u043c\u043e\u045e\u0441\u043a\u0430\u044f"
+    ],
     "name:ces_x_preferred":[
         "Petrovsko-Razumovskaja"
+    ],
+    "name:deu_x_preferred":[
+        "Petrowsko-Rasumowskaja"
     ],
     "name:eng_x_preferred":[
         "Petrovsko-Razumovskoye"
     ],
+    "name:eng_x_variant":[
+        "Petrovsko-Razumovskaya"
+    ],
     "name:epo_x_preferred":[
         "Petrovsko-Razumovskaja"
     ],
+    "name:fra_x_preferred":[
+        "Petrovsko-Razoumovska\u00efa"
+    ],
     "name:ita_x_preferred":[
         "Petrovsko-Razumovskaja"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30c8\u30ed\u30d5\u30b9\u30b3\u30fb\u30e9\u30ba\u30e2\u30d5\u30b9\u30ab\u30e4\u99c5"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10d4\u10e2\u10e0\u10dd\u10d5\u10e1\u10d9\u10dd-\u10e0\u10d0\u10d6\u10e3\u10db\u10dd\u10d5\u10e1\u10d9\u10d0\u10d8\u10d0"
@@ -59,6 +74,9 @@
     ],
     "name:rus_x_variant":[
         "\u041f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u043e-\u0420\u0430\u0437\u0443\u043c\u043e\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Petrovsko-Razumovskaja"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u043e-\u0420\u0430\u0437\u0443\u043c\u043e\u0432\u0441\u044c\u043a\u0430"
@@ -132,7 +150,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639057,
+    "wof:lastmodified":1563244490,
     "wof:name":"Petrovsko-Razumovskoye",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

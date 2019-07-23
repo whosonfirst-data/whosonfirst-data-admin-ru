@@ -53,6 +53,9 @@
     "mps:longitude":46.930861,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bak_x_preferred":[
+        "\u041a\u0430\u0440\u0441\u0443\u043d \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
     "name:che_x_preferred":[
         "\u041a\u0430\u0440\u0441\u0443\u043d\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -66,7 +69,8 @@
         "Karsunskiy"
     ],
     "name:eng_x_variant":[
-        "Karsunskij"
+        "Karsunskij",
+        "Karsunsky District"
     ],
     "name:hun_x_preferred":[
         "Karszuni j\u00e1r\u00e1s"
@@ -83,6 +87,12 @@
     "name:nld_x_preferred":[
         "Karsunsky District"
     ],
+    "name:nno_x_preferred":[
+        "Karsunskij rajon"
+    ],
+    "name:nob_x_preferred":[
+        "Karsunskij rajon"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0441\u0443\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -97,6 +107,9 @@
     ],
     "name:vie_x_preferred":[
         "Karsunsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u723e\u5b6b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -135,7 +148,7 @@
         }
     ],
     "wof:id":1108734285,
-    "wof:lastmodified":1561832378,
+    "wof:lastmodified":1563257026,
     "wof:name":"Karsunskiy",
     "wof:parent_id":85687907,
     "wof:placetype":"county",

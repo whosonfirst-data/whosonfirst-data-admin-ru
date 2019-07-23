@@ -54,6 +54,12 @@
     "mps:longitude":46.545038,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0410\u0445\u0442\u0443\u0431\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Akhtubinskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0410\u0445\u0442\u0443\u0431\u0438\u043d\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -67,7 +73,11 @@
         "Akhtubinskiy"
     ],
     "name:eng_x_variant":[
-        "Akhtubinskij"
+        "Akhtubinskij",
+        "Akhtubinsky District"
+    ],
+    "name:est_x_preferred":[
+        "Ahtubinski rajoon"
     ],
     "name:hun_x_preferred":[
         "Ahtubinszki j\u00e1r\u00e1s"
@@ -154,7 +164,7 @@
         }
     ],
     "wof:id":890483573,
-    "wof:lastmodified":1561832745,
+    "wof:lastmodified":1563262280,
     "wof:name":"Akhtubinskiy",
     "wof:parent_id":85687985,
     "wof:placetype":"county",

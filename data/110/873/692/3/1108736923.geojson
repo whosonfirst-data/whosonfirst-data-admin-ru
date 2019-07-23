@@ -53,6 +53,12 @@
     "mps:longitude":83.47036,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u043b\u044c\u043c\u0435\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Tal'menskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0422\u0430\u043b\u044c\u043c\u0435\u043d\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -63,7 +69,8 @@
         "Tal'menskiy"
     ],
     "name:eng_x_variant":[
-        "Tal'menskij"
+        "Tal'menskij",
+        "Talmensky District"
     ],
     "name:hun_x_preferred":[
         "Talmenkai j\u00e1r\u00e1s"
@@ -85,6 +92,9 @@
     ],
     "name:vie_x_preferred":[
         "Talmensky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u723e\u7dec\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -123,7 +133,7 @@
         }
     ],
     "wof:id":1108736923,
-    "wof:lastmodified":1561832333,
+    "wof:lastmodified":1563256765,
     "wof:name":"Tal'menskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

@@ -56,6 +56,9 @@
     "name:bel_x_preferred":[
         "\u0426\u044f\u0440\u043d\u043e\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Ternovskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0422\u0435\u0440\u043d\u043e\u0432\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -66,7 +69,11 @@
         "Ternovskiy"
     ],
     "name:eng_x_variant":[
-        "Ternovskij"
+        "Ternovskij",
+        "Ternovsky District"
+    ],
+    "name:est_x_preferred":[
+        "Ternovka rajoon"
     ],
     "name:hye_x_preferred":[
         "\u054f\u0565\u0580\u0576\u0578\u057e\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -88,6 +95,9 @@
     ],
     "name:vie_x_preferred":[
         "Ternovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u6377\u5c14\u8bfa\u592b\u5361\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -126,7 +136,7 @@
         }
     ],
     "wof:id":1108736995,
-    "wof:lastmodified":1561832396,
+    "wof:lastmodified":1563257128,
     "wof:name":"Ternovskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

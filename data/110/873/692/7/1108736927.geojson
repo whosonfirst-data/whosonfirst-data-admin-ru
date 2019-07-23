@@ -66,7 +66,11 @@
         "Talovskiy"
     ],
     "name:eng_x_variant":[
-        "Talovskij"
+        "Talovskij",
+        "Talovsky District"
+    ],
+    "name:est_x_preferred":[
+        "Talovaja rajoon"
     ],
     "name:hye_x_preferred":[
         "\u054f\u0561\u056c\u0578\u057e\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -83,11 +87,17 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043b\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u0422\u0430\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Talovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u6d1b\u74e6\u4e9a\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -126,7 +136,7 @@
         }
     ],
     "wof:id":1108736927,
-    "wof:lastmodified":1561832333,
+    "wof:lastmodified":1563256764,
     "wof:name":"Talovskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

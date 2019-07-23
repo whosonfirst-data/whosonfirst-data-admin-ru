@@ -56,6 +56,12 @@
     "name:bak_x_preferred":[
         "\u0427\u0438\u0442\u0430 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:bel_x_preferred":[
+        "\u0427\u044b\u0446\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Chitinskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0427\u0438\u0442\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -67,10 +73,13 @@
     ],
     "name:eng_x_variant":[
         "CHitinskij",
-        "Chitinskiy"
+        "Chitinsky District"
     ],
     "name:fin_x_preferred":[
         "T\u0161itan piiri"
+    ],
+    "name:hun_x_preferred":[
+        "Csitai j\u00e1r\u00e1s"
     ],
     "name:hye_x_preferred":[
         "\u0549\u056b\u057f\u056b\u0576\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -81,11 +90,17 @@
     "name:rus_x_preferred":[
         "\u0427\u0438\u0442\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0438\u0442\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u0427\u0438\u0442\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Chitinsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u4eac\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":1108733281,
-    "wof:lastmodified":1561832429,
+    "wof:lastmodified":1563257302,
     "wof:name":"Chitinskiy",
     "wof:parent_id":85688005,
     "wof:placetype":"county",

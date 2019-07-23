@@ -53,6 +53,12 @@
     "mps:longitude":79.372388,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0644\u0648\u0634\u064a\u0641\u0633\u0643\u064a"
+    ],
+    "name:aze_x_preferred":[
+        "Klyu\u00e7evski rayonu"
+    ],
     "name:che_x_preferred":[
         "\u041a\u043b\u044e\u0447\u0438\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -64,7 +70,7 @@
     ],
     "name:eng_x_variant":[
         "Kljuchevskij",
-        "Kljuchevskiy"
+        "Klyuchevsky District"
     ],
     "name:hun_x_preferred":[
         "Kljucsi j\u00e1r\u00e1s"
@@ -89,6 +95,9 @@
     ],
     "name:vie_x_preferred":[
         "Klyuchevsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u67f3\u5207\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":1108734499,
-    "wof:lastmodified":1561832305,
+    "wof:lastmodified":1563256603,
     "wof:name":"Kljuchevskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

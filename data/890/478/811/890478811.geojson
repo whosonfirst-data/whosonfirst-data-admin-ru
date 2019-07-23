@@ -15,8 +15,17 @@
     "iso:country":"RU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041d\u0456\u0436\u043d\u0456 \u041e\u0434\u044d\u0441"
+    ],
+    "name:deu_x_preferred":[
+        "Nischni Odes"
+    ],
     "name:eng_x_preferred":[
         "Nizhniy Odes"
+    ],
+    "name:eng_x_variant":[
+        "Ni\u017eni Odes"
     ],
     "name:fin_x_preferred":[
         "Ni\u017eni Odes"
@@ -36,11 +45,17 @@
     "name:nld_x_preferred":[
         "Nizjniy Odes"
     ],
+    "name:pol_x_preferred":[
+        "Ni\u017cnij Odies"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0438\u0436.\u041e\u0434\u0435\u0441"
     ],
     "name:rus_x_variant":[
         "\u041d\u0438\u0436\u043d\u0438\u0439 \u041e\u0434\u0435\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u0456\u0439 \u041e\u0434\u0435\u0441"
     ],
     "name:unk_x_variant":[
         "\u041d\u0438\u0436\u043d\u0438\u0439 \u041e\u0434\u0435\u0441"
@@ -78,7 +93,7 @@
         }
     ],
     "wof:id":890478811,
-    "wof:lastmodified":1561832712,
+    "wof:lastmodified":1563261842,
     "wof:name":"Nizhniy Odes",
     "wof:parent_id":1108736227,
     "wof:placetype":"locality",

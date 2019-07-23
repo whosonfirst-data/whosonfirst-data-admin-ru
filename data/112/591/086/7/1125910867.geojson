@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Matveyev Kurgan"
     ],
+    "name:eng_x_variant":[
+        "Matveev Kurgan"
+    ],
+    "name:hun_x_preferred":[
+        "Matvejev-Kurgan"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u057f\u057e\u0565\u0587-\u053f\u0578\u0582\u0580\u0563\u0561\u0576"
     ],
@@ -37,8 +43,17 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0442\u0432\u0435\u0435\u0432 \u041a\u0443\u0440\u0433\u0430\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u041c\u0430\u0442\u0432\u0435\u0435\u0432-\u041a\u0443\u0440\u0433\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0442\u0432\u0456\u0457\u0432 \u041a\u0443\u0440\u0433\u0430\u043d"
+    ],
     "name:unk_x_variant":[
         "Motveyev Kurgan"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u7279\u7ef4\u8036\u592b-\u5e93\u5c14\u7518"
     ],
     "qs_pg:aaroncc":"RU",
     "qs_pg:gn_country":"RU",
@@ -91,7 +106,7 @@
         }
     ],
     "wof:id":1125910867,
-    "wof:lastmodified":1561832808,
+    "wof:lastmodified":1563263133,
     "wof:name":"Matveyev Kurgan",
     "wof:parent_id":1108735075,
     "wof:placetype":"locality",

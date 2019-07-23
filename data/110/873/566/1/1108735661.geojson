@@ -53,6 +53,9 @@
     "mps:longitude":33.46782,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Oleninskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041e\u043b\u0435\u043d\u0438\u043d\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -66,7 +69,11 @@
         "Oleninskiy"
     ],
     "name:eng_x_variant":[
-        "Oleninskij"
+        "Oleninskij",
+        "Oleninsky District"
+    ],
+    "name:est_x_preferred":[
+        "Olenino rajoon"
     ],
     "name:fin_x_preferred":[
         "Oleninon piiri"
@@ -97,6 +104,9 @@
     ],
     "name:vie_x_preferred":[
         "Oleninsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u5217\u5be7\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -135,7 +145,7 @@
         }
     ],
     "wof:id":1108735661,
-    "wof:lastmodified":1561832290,
+    "wof:lastmodified":1563256524,
     "wof:name":"Oleninskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

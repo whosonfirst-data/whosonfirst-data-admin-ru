@@ -53,6 +53,9 @@
     "mps:longitude":49.982486,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Slobodskoy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0421\u043b\u043e\u0431\u043e\u0434\u0441\u043a\u043e\u0439\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -77,6 +80,9 @@
     "name:ita_x_preferred":[
         "Slobodskoj rajon"
     ],
+    "name:myv_x_preferred":[
+        "\u0421\u043b\u043e\u0431\u043e\u0434\u044d\u043d\u044c \u0431\u0443\u0435"
+    ],
     "name:nld_x_preferred":[
         "Slobodskoy District"
     ],
@@ -85,6 +91,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0421\u043b\u043e\u0431\u043e\u0434\u0441\u043a\u043e\u0439 \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
+    "name:tat_x_variant":[
+        "\u0421\u043b\u0430\u0431\u0443\u0442\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
     "name:udm_x_preferred":[
         "\u0421\u043b\u043e\u0431\u043e\u0434\u0441\u043a\u043e\u0439 \u0451\u0440\u043e\u0441"
@@ -97,6 +106,9 @@
     ],
     "name:vie_x_preferred":[
         "Slobodskoy"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u6d1b\u535a\u5fb7\u65af\u79d1\u4f0a\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":1108736659,
-    "wof:lastmodified":1561832410,
+    "wof:lastmodified":1563257196,
     "wof:name":"Slobodskoj",
     "wof:parent_id":85687903,
     "wof:placetype":"county",

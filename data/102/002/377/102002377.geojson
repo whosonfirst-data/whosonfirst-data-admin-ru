@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000737,
-    "geom:area_square_m":4507887.752877,
+    "geom:area_square_m":4507887.752874,
     "geom:bbox":"120.37828064,60.36302948,120.482139587,60.3773345947",
     "geom:latitude":60.369216,
     "geom:longitude":120.421558,
@@ -20,26 +20,44 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u0648\u0645\u0646\u0633\u0643"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0644\u06cc\u0648\u06a9\u0645\u06cc\u0646\u0633\u06a9"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u043b\u0451\u043a\u043c\u0456\u043d\u0441\u043a"
     ],
     "name:bel_x_variant":[
         "\u0410\u043b\u0451\u043a\u043c\u0456\u043d\u0441\u043a"
     ],
+    "name:bul_x_preferred":[
+        "\u041e\u043b\u044c\u043e\u043a\u043c\u0438\u043d\u0441\u043a"
+    ],
     "name:cat_x_preferred":[
         "Oli\u00f3kminsk"
+    ],
+    "name:ceb_x_preferred":[
+        "Olyokminsk"
     ],
     "name:ces_x_preferred":[
         "Oljokminsk"
     ],
+    "name:che_x_preferred":[
+        "\u041e\u043b\u0451\u043a\u043c\u0438\u043d\u0441\u043a"
+    ],
     "name:deu_x_preferred":[
         "Oljokminsk"
+    ],
+    "name:diq_x_preferred":[
+        "Olyokminsk"
     ],
     "name:eng_x_preferred":[
         "Olyokminsk"
     ],
     "name:epo_x_preferred":[
         "Olokminsk"
+    ],
+    "name:est_x_preferred":[
+        "Oljokminsk"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0644\u06cc\u0648\u06a9\u0645\u06cc\u0646\u0633\u06a9"
@@ -53,8 +71,17 @@
     "name:hbs_x_preferred":[
         "Oljokminsk"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05dc\u05d9\u05d5\u05e7\u05de\u05d9\u05e0\u05e1\u05e7"
+    ],
     "name:hrv_x_preferred":[
         "Oljokminsk"
+    ],
+    "name:hsb_x_preferred":[
+        "Oljokminsk"
+    ],
+    "name:hun_x_preferred":[
+        "Oljokminszk"
     ],
     "name:ind_x_preferred":[
         "Olyokminsk"
@@ -77,6 +104,9 @@
     "name:nno_x_preferred":[
         "Oljokminsk"
     ],
+    "name:nob_x_preferred":[
+        "Oljokminsk"
+    ],
     "name:nor_x_preferred":[
         "Oljokminsk"
     ],
@@ -85,6 +115,12 @@
     ],
     "name:pol_x_preferred":[
         "Olokminsk"
+    ],
+    "name:pol_x_variant":[
+        "Olokmi\u0144sk"
+    ],
+    "name:por_x_preferred":[
+        "Olyokminsk"
     ],
     "name:rus_x_preferred":[
         "\u041e\u043b\u0451\u043a\u043c\u0438\u043d\u0441\u043a"
@@ -105,6 +141,9 @@
         "\u041e\u043b\u0451\u043a\u043c\u0438\u043d\u0441\u043a"
     ],
     "name:tgl_x_preferred":[
+        "Olyokminsk"
+    ],
+    "name:tur_x_preferred":[
         "Olyokminsk"
     ],
     "name:ukr_x_preferred":[
@@ -174,7 +213,7 @@
         }
     ],
     "wof:id":102002377,
-    "wof:lastmodified":1527637966,
+    "wof:lastmodified":1563241517,
     "wof:name":"Olekminsk",
     "wof:parent_id":1108735667,
     "wof:placetype":"locality",

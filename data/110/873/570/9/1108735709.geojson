@@ -53,6 +53,9 @@
     "mps:longitude":42.095454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bak_x_preferred":[
+        "\u041e\u0440\u043b\u043e\u0432 \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
     "name:che_x_preferred":[
         "\u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -63,7 +66,11 @@
         "Orlovskiy"
     ],
     "name:eng_x_variant":[
-        "Orlovskij"
+        "Orlovskij",
+        "Orlovsky District"
+    ],
+    "name:est_x_preferred":[
+        "Orlovski rajoon"
     ],
     "name:hye_x_preferred":[
         "\u0555\u057c\u056c\u0578\u057e\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -85,6 +92,9 @@
     ],
     "name:und_x_variant":[
         "\u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u723e\u6d1b\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -123,7 +133,7 @@
         }
     ],
     "wof:id":1108735709,
-    "wof:lastmodified":1561832432,
+    "wof:lastmodified":1563257317,
     "wof:name":"Orlovskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

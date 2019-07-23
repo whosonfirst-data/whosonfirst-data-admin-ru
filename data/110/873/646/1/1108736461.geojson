@@ -56,6 +56,9 @@
     "name:bak_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:ceb_x_preferred":[
+        "Severnyy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u0438\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -66,7 +69,8 @@
         "Severnyj"
     ],
     "name:eng_x_variant":[
-        "Severnyy"
+        "Severnyy",
+        "Severny District"
     ],
     "name:hun_x_preferred":[
         "Szevernojei j\u00e1r\u00e1s"
@@ -91,6 +95,9 @@
     ],
     "name:und_x_variant":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u8b1d\u97cb\u723e\u5167\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -129,7 +136,7 @@
         }
     ],
     "wof:id":1108736461,
-    "wof:lastmodified":1561832391,
+    "wof:lastmodified":1563257096,
     "wof:name":"Severnyj",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

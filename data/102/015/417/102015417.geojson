@@ -43,6 +43,9 @@
     "name:cat_x_preferred":[
         "Komsomolsk na Amure"
     ],
+    "name:ceb_x_preferred":[
+        "Komsomolsk-on-Amur"
+    ],
     "name:ces_x_preferred":[
         "Komsomolsk na Amuru"
     ],
@@ -102,6 +105,9 @@
     ],
     "name:hun_x_preferred":[
         "Komsomolszk na Amure"
+    ],
+    "name:hun_x_variant":[
+        "Komszomolszk-na-Amure"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0574\u057d\u0578\u0574\u0578\u056c\u057d\u056f-\u0576\u0561-\u0531\u0574\u0578\u0582\u0580\u0565"
@@ -220,8 +226,14 @@
     "name:yue_x_preferred":[
         "\u74e6\u502b"
     ],
+    "name:yue_x_variant":[
+        "\u963f\u7a46\u723e\u6cb3\u7554\u5171\u9752\u57ce"
+    ],
     "name:zho_x_preferred":[
         "\u74e6\u4f26"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u7a46\u5c14\u6cb3\u7554\u5171\u9752\u57ce"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -268,7 +280,7 @@
         }
     ],
     "wof:id":102015417,
-    "wof:lastmodified":1561831648,
+    "wof:lastmodified":1563239790,
     "wof:name":"Komsomolsk",
     "wof:parent_id":1108734559,
     "wof:placetype":"locality",

@@ -63,7 +63,11 @@
         "Khokhol'skiy"
     ],
     "name:eng_x_variant":[
-        "KHokhol'skij"
+        "KHokhol'skij",
+        "Khokholsky District"
+    ],
+    "name:est_x_preferred":[
+        "Hohholski rajoon"
     ],
     "name:hye_x_preferred":[
         "\u053d\u0578\u056d\u0578\u056c\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -80,11 +84,17 @@
     "name:rus_x_preferred":[
         "\u0425\u043e\u0445\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:tat_x_preferred":[
+        "\u0425\u043e\u0445\u043e\u043b \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0445\u043e\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:und_x_variant":[
         "\u0425\u043e\u0445\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u970d\u5229\u65af\u57fa\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -123,7 +133,7 @@
         }
     ],
     "wof:id":1108734371,
-    "wof:lastmodified":1561832321,
+    "wof:lastmodified":1563256696,
     "wof:name":"Khokhol'skiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

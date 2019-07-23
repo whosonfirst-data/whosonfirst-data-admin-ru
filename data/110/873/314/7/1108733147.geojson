@@ -53,8 +53,14 @@
     "mps:longitude":54.497378,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Buzd\u0259k rayonu"
+    ],
     "name:bak_x_preferred":[
         "\u0411\u04af\u0437\u0434\u04d9\u043a \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
+    "name:ceb_x_preferred":[
+        "Buzdyakskiy Rayon"
     ],
     "name:che_x_preferred":[
         "\u0411\u0443\u0437\u0434\u044f\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
@@ -67,7 +73,7 @@
     ],
     "name:eng_x_variant":[
         "Buzdjakskij",
-        "Buzdjakskiy"
+        "Buzdyaksky District"
     ],
     "name:est_x_preferred":[
         "Buzdjaki rajoon"
@@ -83,6 +89,9 @@
     ],
     "name:ita_x_preferred":[
         "Buzdjakskij rajon"
+    ],
+    "name:myv_x_preferred":[
+        "\u0411\u0443\u0437\u0434\u044f\u043a\u043e\u043d\u044c \u0431\u0443\u0435"
     ],
     "name:nld_x_preferred":[
         "Boezdjakskiy rayon"
@@ -107,6 +116,9 @@
     ],
     "name:war_x_preferred":[
         "Buzdyaksky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u8332\u4f73\u514b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -145,7 +157,7 @@
         }
     ],
     "wof:id":1108733147,
-    "wof:lastmodified":1561832354,
+    "wof:lastmodified":1563256883,
     "wof:name":"Buzdjakskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

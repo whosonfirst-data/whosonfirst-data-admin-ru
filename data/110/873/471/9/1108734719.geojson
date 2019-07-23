@@ -53,6 +53,12 @@
     "mps:longitude":37.181683,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0430\u0445\u043e\u043b\u043c\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Krasnokholmskiy Rayon"
+    ],
     "name:ces_x_preferred":[
         "Krasnocholmsk\u00fd raj\u00f3n"
     ],
@@ -62,6 +68,9 @@
     "name:chv_x_preferred":[
         "\u0425\u0115\u0440\u043b\u0115 \u0421\u0103\u0440\u0442 \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
+    "name:dan_x_preferred":[
+        "Krasnokholmskij rajon"
+    ],
     "name:deu_x_preferred":[
         "Krasnocholmski rajon"
     ],
@@ -69,7 +78,8 @@
         "Krasnokholmskiy"
     ],
     "name:eng_x_variant":[
-        "Krasnokholmskij"
+        "Krasnokholmskij",
+        "Krasnokholmsky District"
     ],
     "name:fin_x_preferred":[
         "Krasnyi Holmin piiri"
@@ -92,11 +102,17 @@
     "name:srp_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0445\u043e\u043b\u043c\u0441\u043a\u0438 \u0440\u0435\u0458\u043e\u043d"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0445\u043e\u043b\u043c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0445\u043e\u043b\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Krasnokholmsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u62c9\u65af\u8afe\u970d\u723e\u59c6\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -135,7 +151,7 @@
         }
     ],
     "wof:id":1108734719,
-    "wof:lastmodified":1561832303,
+    "wof:lastmodified":1563256590,
     "wof:name":"Krasnokholmskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

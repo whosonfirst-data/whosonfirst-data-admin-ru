@@ -56,6 +56,12 @@
     "name:bel_x_preferred":[
         "\u042e\u0440'\u0435\u0432\u0435\u0446\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
+    "name:bel_x_variant":[
+        "\u042e\u0440\u2019\u0435\u0432\u0435\u0446\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Yur'yevetskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u042e\u0440\u044c\u0435\u0432\u0435\u0446\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -67,13 +73,19 @@
     ],
     "name:eng_x_variant":[
         "JUr'eveckij",
-        "Jur'eveckij"
+        "Yuryevetsky District"
+    ],
+    "name:est_x_preferred":[
+        "Jurjevetsi rajoon"
     ],
     "name:hye_x_preferred":[
         "\u0545\u0578\u0582\u0580\u0587\u0565\u0581\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Jur'eveckij rajon"
+    ],
+    "name:myv_x_preferred":[
+        "\u042e\u0440\u044c\u0435\u0432\u0435\u0446\u043a\u043e\u0439 \u0431\u0443\u0435"
     ],
     "name:nld_x_preferred":[
         "Jurevetskiy rayon"
@@ -84,11 +96,20 @@
     "name:sco_x_preferred":[
         "Yuryevetsky Destrict"
     ],
+    "name:ukr_x_preferred":[
+        "\u042e\u0440'\u0454\u0432\u0435\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u042e\u0440\u044c\u0435\u0432\u0435\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Yuryevetsky"
+    ],
+    "name:zho_x_preferred":[
+        "Jur'ev-Pol'skiy"
+    ],
+    "name:zho_x_variant":[
+        "\u5c24\u91cc\u8036\u97e6\u8328\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -127,7 +148,7 @@
         }
     ],
     "wof:id":1108734135,
-    "wof:lastmodified":1561832309,
+    "wof:lastmodified":1563256624,
     "wof:name":"Jur'eveckij",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

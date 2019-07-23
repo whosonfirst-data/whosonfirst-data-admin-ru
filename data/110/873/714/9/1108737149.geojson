@@ -63,7 +63,11 @@
         "Ugranskiy"
     ],
     "name:eng_x_variant":[
-        "Ugranskij"
+        "Ugranskij",
+        "Ugransky District"
+    ],
+    "name:est_x_preferred":[
+        "Ugra rajoon"
     ],
     "name:hye_x_preferred":[
         "\u0548\u0582\u0563\u0580\u0561\u0576\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -91,6 +95,9 @@
     ],
     "name:vie_x_preferred":[
         "Ugransky"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u683c\u862d\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -129,7 +136,7 @@
         }
     ],
     "wof:id":1108737149,
-    "wof:lastmodified":1561832341,
+    "wof:lastmodified":1563256812,
     "wof:name":"Ugranskiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",

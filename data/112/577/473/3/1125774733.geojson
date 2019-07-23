@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Khakurinokhabl"
     ],
+    "name:ceb_x_preferred":[
+        "Shovgenovskiy"
+    ],
     "name:che_x_preferred":[
         "\u0425\u0430\u043a\u0443\u0440\u0438\u043d\u043e\u0445\u0430\u0431\u043b\u044c"
     ],
@@ -34,14 +37,26 @@
     "name:eng_x_preferred":[
         "Shovgenovskiy"
     ],
+    "name:eng_x_variant":[
+        "Khakurinokhabl"
+    ],
+    "name:hun_x_preferred":[
+        "Hakurinohabl"
+    ],
     "name:hye_x_preferred":[
         "\u053d\u0561\u056f\u0578\u0582\u0580\u056b\u0576\u0578\u056d\u0561\u0562\u056c"
     ],
     "name:nor_x_preferred":[
         "Sjovgenovskij"
     ],
+    "name:pol_x_preferred":[
+        "Chakurinochabl"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u043e\u0432\u0433\u0435\u043d\u043e\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u0425\u0430\u043a\u0443\u0440\u0438\u043d\u043e\u0445\u0430\u0431\u043b\u044c"
     ],
     "name:spa_x_preferred":[
         "Jakurinojabl"
@@ -103,7 +118,7 @@
         }
     ],
     "wof:id":1125774733,
-    "wof:lastmodified":1561832811,
+    "wof:lastmodified":1563263171,
     "wof:name":"Shovgenovskiy",
     "wof:parent_id":1108736601,
     "wof:placetype":"locality",

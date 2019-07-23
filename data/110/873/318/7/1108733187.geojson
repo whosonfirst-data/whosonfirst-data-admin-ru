@@ -59,6 +59,9 @@
     "name:aze_x_preferred":[
         "\u00c7aroda rayonu"
     ],
+    "name:ceb_x_preferred":[
+        "Charodinskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0427\u0430\u0440\u043e\u0434\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -72,7 +75,8 @@
         "Charodinskiy"
     ],
     "name:eng_x_variant":[
-        "CHarodinskij"
+        "CHarodinskij",
+        "Charodinsky District"
     ],
     "name:est_x_preferred":[
         "T\u0161aroda rajoon"
@@ -119,6 +123,9 @@
     "name:war_x_preferred":[
         "Charodinsky"
     ],
+    "name:zho_x_preferred":[
+        "\u6070\u7f85\u91d1\u65af\u57fa\u5340"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -156,7 +163,7 @@
         }
     ],
     "wof:id":1108733187,
-    "wof:lastmodified":1561832420,
+    "wof:lastmodified":1563257249,
     "wof:name":"Charodinskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

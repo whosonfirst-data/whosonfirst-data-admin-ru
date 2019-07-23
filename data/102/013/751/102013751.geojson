@@ -48,11 +48,17 @@
     "name:cat_x_preferred":[
         "Gorno-Altaisk"
     ],
+    "name:ceb_x_preferred":[
+        "Gorno-Altaysk"
+    ],
     "name:ces_x_preferred":[
         "Gorno-Altajsk"
     ],
     "name:che_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e-\u0410\u043b\u0442\u0430\u0439\u0441\u043a"
+    ],
+    "name:crh_x_preferred":[
+        "Gorno-Altaysk"
     ],
     "name:cym_x_preferred":[
         "Gorno-Altaysk"
@@ -95,6 +101,9 @@
     ],
     "name:hun_x_preferred":[
         "Gorno-Altajszk"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0578\u057c\u0576\u0578-\u0531\u056c\u057f\u0561\u0575\u057d\u056f"
     ],
     "name:ind_x_preferred":[
         "Gorno-Altaysk"
@@ -174,6 +183,9 @@
     "name:tat_x_preferred":[
         "\u0422\u0430\u0443\u043b\u044b \u0410\u043b\u0442\u0430\u0439"
     ],
+    "name:tat_x_variant":[
+        "\u0413\u043e\u0440\u043d\u043e-\u0410\u043b\u0442\u0430\u0439\u0441\u043a"
+    ],
     "name:tgk_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e-\u0410\u043b\u0442\u0430\u0439\u0441\u043a"
     ],
@@ -207,8 +219,14 @@
     "name:war_x_preferred":[
         "Gorno-Altaysk"
     ],
+    "name:wuu_x_preferred":[
+        "\u6208\u5c14\u8bfa-\u963f\u5c14\u6cf0\u65af\u514b"
+    ],
     "name:xal_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e-\u0410\u043b\u0442\u0430\u0439\u0441\u043a \u0431\u0430\u043b\u04bb\u0441\u043d"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d2\u10dd\u10e0\u10dc\u10dd-\u10d0\u10da\u10e2\u10d0\u10d8\u10e1\u10d9\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u6208\u723e\u8afe-\u963f\u723e\u6cf0\u65af\u514b"
@@ -368,7 +386,7 @@
         }
     ],
     "wof:id":102013751,
-    "wof:lastmodified":1561831659,
+    "wof:lastmodified":1563240023,
     "wof:name":"Gorno-Altaysk",
     "wof:parent_id":1108733611,
     "wof:placetype":"locality",

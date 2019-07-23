@@ -53,6 +53,9 @@
     "mps:longitude":34.728108,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Staritskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438\u0446\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -66,7 +69,11 @@
         "Starickij"
     ],
     "name:eng_x_variant":[
-        "Staritskiy"
+        "Staritskiy",
+        "Staritsky District"
+    ],
+    "name:est_x_preferred":[
+        "Staritsa rajoon"
     ],
     "name:fin_x_preferred":[
         "Staritsan piiri"
@@ -80,6 +87,9 @@
     "name:ita_x_preferred":[
         "Starickij rajon"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30bf\u30fc\u30ea\u30c4\u30ad\u30fc\u5730\u533a"
+    ],
     "name:nld_x_preferred":[
         "Staritskiy rayon"
     ],
@@ -89,11 +99,17 @@
     "name:srp_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438\u0447\u043a\u0438 \u0440\u0435\u0458\u043e\u043d"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u0421\u0442\u0430\u0440\u0438\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Staritsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5854\u91cc\u8328\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -132,7 +148,7 @@
         }
     ],
     "wof:id":1108736787,
-    "wof:lastmodified":1561832383,
+    "wof:lastmodified":1563257058,
     "wof:name":"Starickij",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

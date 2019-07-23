@@ -31,8 +31,20 @@
     "name:eng_x_preferred":[
         "Vasil'sursk"
     ],
+    "name:eng_x_variant":[
+        "Vasilsursk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0633\u06cc\u0644\u0633\u0648\u0631\u0633\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Vasilsursk"
+    ],
+    "name:fra_x_preferred":[
+        "Vassilsoursk"
+    ],
+    "name:frc_x_preferred":[
+        "Vassilsoursk"
     ],
     "name:jpn_x_preferred":[
         "\u30f4\u30a1\u30b7\u30ea\u30b9\u30eb\u30b9\u30af"
@@ -58,8 +70,14 @@
     "name:tat_x_preferred":[
         "\u0412\u0430\u0441\u0438\u043b\u044c\u0441\u0443\u0440\u0441\u043a"
     ],
+    "name:tat_x_variant":[
+        "\u0412\u0430\u0441\u0438\u043b\u0441\u0443\u0440\u0441\u043a\u0438"
+    ],
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0441\u0438\u043b\u044c\u0441\u0443\u0440\u0441\u044c\u043a"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0430\u0441\u0456\u043b\u044c\u0441\u0443\u0440\u0441\u044c\u043a"
     ],
     "name:unk_x_variant":[
         "Vasil Soursk"
@@ -112,7 +130,7 @@
         }
     ],
     "wof:id":102008981,
-    "wof:lastmodified":1561831687,
+    "wof:lastmodified":1563240538,
     "wof:name":"Vasilsursk",
     "wof:parent_id":1108737681,
     "wof:placetype":"locality",

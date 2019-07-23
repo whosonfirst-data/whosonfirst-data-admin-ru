@@ -53,6 +53,12 @@
     "mps:longitude":81.782938,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0410\u0440\u0434\u044b\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Ordynskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041e\u0440\u0434\u044b\u043d\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -63,7 +69,8 @@
         "Ordynskiy"
     ],
     "name:eng_x_variant":[
-        "Ordynskij"
+        "Ordynskij",
+        "Ordynsky District"
     ],
     "name:hun_x_preferred":[
         "Ordinszkojei j\u00e1r\u00e1s"
@@ -94,6 +101,9 @@
     ],
     "name:vie_x_preferred":[
         "Ordynsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u723e\u767b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -132,7 +142,7 @@
         }
     ],
     "wof:id":1108735699,
-    "wof:lastmodified":1561832280,
+    "wof:lastmodified":1563256477,
     "wof:name":"Ordynskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",

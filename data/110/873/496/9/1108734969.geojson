@@ -53,6 +53,12 @@
     "mps:longitude":33.405626,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041b\u044e\u0431\u044b\u0446\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Lyubytinskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041b\u044e\u0431\u044b\u0442\u0438\u043d\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -64,7 +70,7 @@
     ],
     "name:eng_x_variant":[
         "Ljubytinskij",
-        "Ljubytinskiy"
+        "Lyubytinsky District"
     ],
     "name:est_x_preferred":[
         "Ljub\u00f5tino rajoon"
@@ -95,6 +101,9 @@
     ],
     "name:vie_x_preferred":[
         "Lyubytinsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u67f3\u8c9d\u91d1\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":1108734969,
-    "wof:lastmodified":1561832336,
+    "wof:lastmodified":1563256781,
     "wof:name":"Ljubytinskiy",
     "wof:parent_id":85688095,
     "wof:placetype":"county",

@@ -64,7 +64,10 @@
     ],
     "name:eng_x_variant":[
         "Ostrogozhskij",
-        "Ostrogozhskiy"
+        "Ostrogozhsky District"
+    ],
+    "name:est_x_preferred":[
+        "Ostrogo\u017eski rajoon"
     ],
     "name:hye_x_preferred":[
         "\u0555\u057d\u057f\u0580\u0578\u0563\u0578\u056a\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -81,11 +84,17 @@
     "name:rus_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0433\u043e\u0436\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0433\u043e\u0437\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u041e\u0441\u0442\u0440\u043e\u0433\u043e\u0436\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Ostrogozhsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u65af\u7279\u7f57\u6208\u65e5\u65af\u514b\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":1108735723,
-    "wof:lastmodified":1561832342,
+    "wof:lastmodified":1563256820,
     "wof:name":"Ostrogozhskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

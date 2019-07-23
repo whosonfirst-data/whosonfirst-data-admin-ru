@@ -59,6 +59,9 @@
     "name:aze_x_preferred":[
         "Lak rayonu"
     ],
+    "name:ceb_x_preferred":[
+        "Lakskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041b\u0430\u043a\u0441\u043a\u0438 \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -72,7 +75,8 @@
         "Lakskiy"
     ],
     "name:eng_x_variant":[
-        "Lakskij"
+        "Lakskij",
+        "Laksky District"
     ],
     "name:est_x_preferred":[
         "Laki rajoon"
@@ -119,6 +123,9 @@
     "name:war_x_preferred":[
         "Laksky"
     ],
+    "name:zho_x_preferred":[
+        "\u62c9\u514b\u65af\u57fa\u5340"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -156,7 +163,7 @@
         }
     ],
     "wof:id":1108734889,
-    "wof:lastmodified":1561832382,
+    "wof:lastmodified":1563257049,
     "wof:name":"Lakskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

@@ -56,6 +56,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0430\u043b\u043a\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Palkinskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041f\u0430\u043b\u043a\u0438\u043d\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -69,7 +72,8 @@
         "Palkinskiy"
     ],
     "name:eng_x_variant":[
-        "Palkinskij"
+        "Palkinskij",
+        "Palkinsky District"
     ],
     "name:est_x_preferred":[
         "Palkino rajoon"
@@ -103,6 +107,9 @@
     ],
     "name:vie_x_preferred":[
         "Palkinsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u723e\u91d1\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -141,7 +148,7 @@
         }
     ],
     "wof:id":1108735753,
-    "wof:lastmodified":1561832344,
+    "wof:lastmodified":1563256831,
     "wof:name":"Palkinskiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",

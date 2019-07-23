@@ -53,6 +53,12 @@
     "mps:longitude":132.135093,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041b\u0435\u043d\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Leninskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041b\u0435\u043d\u0438\u043d\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -63,7 +69,8 @@
         "Leninskiy"
     ],
     "name:eng_x_variant":[
-        "Leninskij"
+        "Leninskij",
+        "Leninsky District"
     ],
     "name:fra_x_preferred":[
         "Ra\u00efon Leninski"
@@ -89,6 +96,9 @@
     "name:sco_x_preferred":[
         "Leninsky Destrict"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0435\u043d\u0438\u043d \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0435\u043d\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -97,6 +107,9 @@
     ],
     "name:vie_x_preferred":[
         "Leninsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5217\u5b81\u65af\u79d1\u8036\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -135,7 +148,7 @@
         }
     ],
     "wof:id":1108734909,
-    "wof:lastmodified":1561832324,
+    "wof:lastmodified":1563256712,
     "wof:name":"Leninskiy",
     "wof:parent_id":85687991,
     "wof:placetype":"county",

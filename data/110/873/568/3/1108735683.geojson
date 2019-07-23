@@ -56,6 +56,9 @@
     "name:bel_x_preferred":[
         "\u0410\u043d\u0435\u0436\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Onezhskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041e\u043d\u0435\u0433\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -66,7 +69,8 @@
         "Onezhskiy"
     ],
     "name:eng_x_variant":[
-        "Onezhskij"
+        "Onezhskij",
+        "Onezhsky District"
     ],
     "name:est_x_preferred":[
         "Onega rajoon"
@@ -95,6 +99,9 @@
     "name:pol_x_preferred":[
         "Rejon oneski"
     ],
+    "name:pol_x_variant":[
+        "rejon oneski"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u043d\u0435\u0436\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -109,6 +116,9 @@
     ],
     "name:vie_x_preferred":[
         "Onezhsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u6d85\u65e5\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -147,7 +157,7 @@
         }
     ],
     "wof:id":1108735683,
-    "wof:lastmodified":1561832294,
+    "wof:lastmodified":1563256543,
     "wof:name":"Onezhskiy",
     "wof:parent_id":85687971,
     "wof:placetype":"county",

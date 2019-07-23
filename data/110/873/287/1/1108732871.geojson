@@ -66,7 +66,8 @@
         "Balashovskiy"
     ],
     "name:eng_x_variant":[
-        "Balashovskij"
+        "Balashovskij",
+        "Balashovsky District"
     ],
     "name:hun_x_preferred":[
         "Balasovi j\u00e1r\u00e1s"
@@ -77,6 +78,9 @@
     "name:ita_x_preferred":[
         "Bala\u0161ovskij rajon"
     ],
+    "name:myv_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u0448\u043e\u0432\u043e\u043d\u044c \u0431\u0443\u0435"
+    ],
     "name:nld_x_preferred":[
         "Balasjovskiy rayon"
     ],
@@ -86,6 +90,9 @@
     "name:tat_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0448\u043e\u0432 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
+    "name:tat_x_variant":[
+        "\u0411\u0430\u043b\u0430\u0448\u0443 \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0448\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -94,6 +101,9 @@
     ],
     "name:vie_x_preferred":[
         "Balashovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u62c9\u7d39\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -132,7 +142,7 @@
         }
     ],
     "wof:id":1108732871,
-    "wof:lastmodified":1561832309,
+    "wof:lastmodified":1563256621,
     "wof:name":"Balashovskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

@@ -53,8 +53,14 @@
     "mps:longitude":58.346653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Xaybulla rayonu"
+    ],
     "name:bak_x_preferred":[
         "\u0425\u04d9\u0439\u0431\u0443\u043b\u043b\u0430 \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
+    "name:ceb_x_preferred":[
+        "Khaybullinskiy Rayon"
     ],
     "name:che_x_preferred":[
         "\u0425\u0430\u0439\u0431\u0443\u043b\u043b\u0438\u043d \u043a\u04c0\u043e\u0448\u0442"
@@ -67,7 +73,7 @@
     ],
     "name:eng_x_variant":[
         "KHajbullinskij",
-        "Khajbullinskiy"
+        "Khaybullinsky District"
     ],
     "name:est_x_preferred":[
         "Haibullinski rajoon"
@@ -83,6 +89,9 @@
     ],
     "name:ita_x_preferred":[
         "Chajbullinskij rajon"
+    ],
+    "name:myv_x_preferred":[
+        "\u0425\u0430\u0439\u0431\u0443\u043b\u043b\u0430\u043d\u044c \u0431\u0443\u0435"
     ],
     "name:nld_x_preferred":[
         "Hayboellinskiy rayon"
@@ -107,6 +116,9 @@
     ],
     "name:war_x_preferred":[
         "Khaybullinsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u5e03\u723e\u6797\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -145,7 +157,7 @@
         }
     ],
     "wof:id":1108734341,
-    "wof:lastmodified":1561832402,
+    "wof:lastmodified":1563257163,
     "wof:name":"Khajbullinskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

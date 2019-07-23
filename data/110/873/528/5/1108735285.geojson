@@ -53,8 +53,17 @@
     "mps:longitude":53.198169,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bak_x_preferred":[
+        "\u041c\u04e9\u0441\u043b\u0438\u043c \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
+    "name:ceb_x_preferred":[
+        "Muslyumovskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041c\u0443\u0441\u043b\u044e\u043c\u043e\u0432\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
+    ],
+    "name:chv_x_preferred":[
+        "\u041c\u0115\u0441\u043b\u0438\u043c \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
     "name:deu_x_preferred":[
         "Musljumowski rajon"
@@ -64,7 +73,7 @@
     ],
     "name:eng_x_variant":[
         "Musljumovskij",
-        "Musljumovskiy"
+        "Muslyumovsky District"
     ],
     "name:est_x_preferred":[
         "Musljumovo rajoon"
@@ -77,6 +86,9 @@
     ],
     "name:mhr_x_preferred":[
         "\u041c\u0443\u0441\u043b\u044e\u043c\u043e\u0432\u043e \u043a\u0443\u043d\u0434\u0435\u043c"
+    ],
+    "name:myv_x_preferred":[
+        "\u041c\u0443\u0441\u043b\u044e\u043c\u043e\u0432\u043e\u043d\u044c \u0431\u0443\u0435"
     ],
     "name:nld_x_preferred":[
         "Moesljumovskiy rayon"
@@ -98,6 +110,9 @@
     ],
     "name:vie_x_preferred":[
         "Muslyumovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u65af\u67f3\u83ab\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -136,7 +151,7 @@
         }
     ],
     "wof:id":1108735285,
-    "wof:lastmodified":1561832340,
+    "wof:lastmodified":1563256802,
     "wof:name":"Musljumovskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

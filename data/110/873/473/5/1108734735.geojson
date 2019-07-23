@@ -53,17 +53,24 @@
     "mps:longitude":43.816234,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Krasnoslobodskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0441\u043b\u043e\u0431\u043e\u0434\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
     "name:deu_x_preferred":[
         "Krasnoslobodski rajon"
     ],
+    "name:ell_x_preferred":[
+        "\u03b5\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039a\u03c1\u03b1\u03c3\u03bd\u03bf\u03c3\u03bb\u03bf\u03bc\u03c0\u03cc\u03bd\u03c4\u03c3\u03ba\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Krasnoslobodskiy"
     ],
     "name:eng_x_variant":[
-        "Krasnoslobodskij"
+        "Krasnoslobodskij",
+        "Krasnoslobodsky District"
     ],
     "name:est_x_preferred":[
         "Krasnoslobodski rajoon"
@@ -97,6 +104,9 @@
     ],
     "name:vie_x_preferred":[
         "Krasnoslobodsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u62c9\u65af\u8afe\u65af\u6d1b\u535a\u5fb7\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -135,7 +145,7 @@
         }
     ],
     "wof:id":1108734735,
-    "wof:lastmodified":1561832390,
+    "wof:lastmodified":1563257093,
     "wof:name":"Krasnoslobodskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",

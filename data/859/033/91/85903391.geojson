@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000912,
-    "geom:area_square_m":6360003.298308,
+    "geom:area_square_m":6360003.298306,
     "geom:bbox":"37.434859115,55.6593276894,37.469745764,55.7067808411",
     "geom:latitude":55.682209,
     "geom:longitude":37.451169,
@@ -26,11 +26,26 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
     "mz:tier_metro":30,
+    "name:bel_x_preferred":[
+        "\u0410\u0437\u0451\u0440\u043d\u0430\u044f"
+    ],
     "name:eng_x_preferred":[
         "Ochakovo"
     ],
+    "name:eng_x_variant":[
+        "Ozyornaya"
+    ],
     "name:epo_x_preferred":[
         "O\u0109akovo"
+    ],
+    "name:epo_x_variant":[
+        "Ozjornaja"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10d6\u10d8\u10dd\u10e0\u10dc\u10d0\u10d8\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\uc870\ub974\ub098\uc57c \uc5ed"
     ],
     "name:nld_x_preferred":[
         "Otsjakovo"
@@ -38,8 +53,17 @@
     "name:rus_x_preferred":[
         "\u041e\u0447\u0430\u043a\u043e\u0432\u043e"
     ],
+    "name:rus_x_variant":[
+        "\u041e\u0437\u0451\u0440\u043d\u0430\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0437\u0435\u0440\u043d\u0430"
+    ],
     "name:unk_x_variant":[
         "Ochakovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e56\u5340\u7ad9"
     ],
     "qs:gn_adm0_cc":"RU",
     "qs:gn_fcode":"PPL",
@@ -103,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639071,
+    "wof:lastmodified":1563244499,
     "wof:name":"Ochakovo",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

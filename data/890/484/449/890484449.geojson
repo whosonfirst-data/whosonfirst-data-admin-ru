@@ -54,6 +54,9 @@
     "mps:longitude":38.675748,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Neklinovskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041d\u0435\u043a\u043b\u0438\u043d\u043e\u0432\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -65,7 +68,10 @@
     ],
     "name:eng_x_variant":[
         "Neklinovskij",
-        "Neklinovskiy"
+        "Neklinovsky District"
+    ],
+    "name:est_x_preferred":[
+        "Neklinovka rajoon"
     ],
     "name:fra_x_preferred":[
         "Ra\u00efon Neklinovski"
@@ -94,11 +100,17 @@
     "name:ukr_x_preferred":[
         "\u041d\u0435\u043a\u043b\u0456\u043d\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:ukr_x_variant":[
+        "\u041d\u0435\u043a\u043b\u0438\u043d\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u041d\u0435\u043a\u043b\u0438\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Neklinovsky"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d85\u514b\u5229\u8afe\u592b\u65af\u57fa\u5340"
     ],
     "qs:name":"Neklinovskiy Raion",
     "qs:name_adm0":"Russia",
@@ -142,7 +154,7 @@
         }
     ],
     "wof:id":890484449,
-    "wof:lastmodified":1561832750,
+    "wof:lastmodified":1563262366,
     "wof:name":"Neklinovskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",
