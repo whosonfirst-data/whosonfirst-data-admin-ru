@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00065,
-    "geom:area_square_m":5716917.533397,
+    "geom:area_square_m":5716917.533399,
     "geom:bbox":"40.2881126404,44.6537780762,40.3310012817,44.6886405945",
     "geom:latitude":44.66899,
     "geom:longitude":40.308534,
@@ -19,14 +19,32 @@
     "mps:longitude":40.299276,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kuj\u00f3rskaia"
+    ],
+    "name:ceb_x_preferred":[
+        "Kuzhorskaya"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0443\u0436\u043e\u0440\u0441\u043a\u0438"
+    ],
     "name:eng_x_preferred":[
         "Kuzhorskaya"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u056a\u0578\u0580\u057d\u056f\u0561\u0575\u0561"
     ],
     "name:nor_x_preferred":[
         "Kuzjorskaja"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0436\u043e\u0440\u0441\u043a\u0430\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Kuzhorskaya"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0436\u043e\u0440\u0441\u044c\u043a\u0430"
     ],
     "name:unk_x_variant":[
         "\u041a\u0443\u0436\u043e\u0440\u0441\u043a\u0430\u044f"
@@ -54,7 +72,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688135
+        85688135,
+        1108735007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +93,7 @@
         }
     ],
     "wof:id":102015823,
-    "wof:lastmodified":1505338947,
+    "wof:lastmodified":1564108596,
     "wof:name":"Kuzhorskaya",
     "wof:parent_id":1108735007,
     "wof:placetype":"locality",

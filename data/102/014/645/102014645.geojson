@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000287,
-    "geom:area_square_m":2189559.358698,
+    "geom:area_square_m":2189559.358696,
     "geom:bbox":"109.886528015,51.8344459534,109.925804138,51.8511962891",
     "geom:latitude":51.843078,
     "geom:longitude":109.904449,
@@ -19,14 +19,29 @@
     "mps:longitude":109.903114,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u041a\u0438\u0436\u0438\u043d\u0433\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Kischinga"
+    ],
     "name:eng_x_preferred":[
         "Kizhinga"
+    ],
+    "name:fra_x_preferred":[
+        "Kijinga"
+    ],
+    "name:mon_x_preferred":[
+        "\u0425\u044d\u0436\u044d\u043d\u0433\u044d \u0441\u0443\u0443\u0440\u0438\u043d"
     ],
     "name:nor_x_preferred":[
         "Kizjinga"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0436\u0438\u043d\u0433\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0436\u0438\u043d\u0433\u0430"
     ],
     "name:unk_x_variant":[
         "\u041a\u0438\u0436\u0438\u043d\u0433\u0430"
@@ -54,7 +69,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688207
+        85688207,
+        1108734467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +90,7 @@
         }
     ],
     "wof:id":102014645,
-    "wof:lastmodified":1505338944,
+    "wof:lastmodified":1564108748,
     "wof:name":"Kizhinga",
     "wof:parent_id":1108734467,
     "wof:placetype":"locality",

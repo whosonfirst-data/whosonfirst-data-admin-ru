@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000387,
-    "geom:area_square_m":2639295.803234,
+    "geom:area_square_m":2639295.803233,
     "geom:bbox":"38.0130271912,56.5495262146,38.0479164124,56.5630569458",
     "geom:latitude":56.55625,
     "geom:longitude":38.029707,
@@ -20,13 +20,16 @@
     "name:bel_x_preferred":[
         "\u041a\u0430\u043d\u0441\u0442\u0430\u043d\u0446\u0456\u043d\u0430\u0432\u0430"
     ],
-    "name:bel_x_variant":[
-        "\u041a\u0430\u043d\u0441\u0442\u0430\u043d\u0446\u0456\u043d\u0430\u0432\u0430"
-    ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Konstantinovo"
+    ],
     "name:eng_x_preferred":[
+        "Konstantinovo"
+    ],
+    "name:est_x_preferred":[
         "Konstantinovo"
     ],
     "name:fra_x_preferred":[
@@ -40,6 +43,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Konstantinovo"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432\u043e"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":102002857,
-    "wof:lastmodified":1527637965,
+    "wof:lastmodified":1564109371,
     "wof:name":"Konstantinovo",
     "wof:parent_id":890480075,
     "wof:placetype":"locality",

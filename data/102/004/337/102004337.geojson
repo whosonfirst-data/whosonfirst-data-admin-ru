@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000528,
-    "geom:area_square_m":3892116.27951,
+    "geom:area_square_m":3892116.279511,
     "geom:bbox":"37.36277771,53.4068870544,37.3965568542,53.4323348999",
     "geom:latitude":53.418582,
     "geom:longitude":37.379425,
@@ -18,14 +18,32 @@
     "mps:longitude":37.379747,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bak_x_preferred":[
+        "\u042f\u04a3\u044b \u041d\u0438\u043a\u043e\u043b\u044c\u0441\u043a\u0438\u0439"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043d\u0438\u043a\u043e\u043b\u044c\u0441\u043a\u0438"
+    ],
     "name:eng_x_preferred":[
         "Novonikol'skoye"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u057e\u0578\u0576\u056b\u056f\u0578\u056c\u057d\u056f\u0578\u0565"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u0430\u04a3\u0430 \u043d\u0438\u043a\u043e\u043b\u044c"
+    ],
+    "name:kir_x_preferred":[
+        "\u0416\u0430\u04a3\u044b \u043d\u0438\u043a\u043e\u043b\u044c"
     ],
     "name:nor_x_preferred":[
         "Novonikolskoje"
     ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043d\u0438\u043a\u043e\u043b\u044c\u0441\u043a\u043e\u0435"
+    ],
+    "name:tat_x_preferred":[
+        "\u042f\u04a3\u0430 \u041d\u0438\u043a\u043e\u043b\u044c\u0441\u043a\u043e\u0435"
     ],
     "name:unk_x_variant":[
         "Ol\u2019khovets"
@@ -72,7 +90,7 @@
         }
     ],
     "wof:id":102004337,
-    "wof:lastmodified":1501214582,
+    "wof:lastmodified":1564109248,
     "wof:name":"Novonikolskoye",
     "wof:parent_id":1108735887,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000619,
-    "geom:area_square_m":4336873.444902,
+    "geom:area_square_m":4336873.444899,
     "geom:bbox":"46.9223899841,55.4911117554,46.9812240601,55.5094718933",
     "geom:latitude":55.498804,
     "geom:longitude":46.95211,
@@ -19,8 +19,32 @@
     "mps:longitude":46.951662,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u0631\u0646\u0627\u0631\u064a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0443\u0440\u043d\u0430\u0440\u0438"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0443\u0440\u043d\u0430\u0440\u044b"
+    ],
+    "name:chv_x_preferred":[
+        "\u0412\u0103\u0440\u043d\u0430\u0440"
+    ],
+    "name:deu_x_preferred":[
+        "Wurnary"
+    ],
     "name:eng_x_preferred":[
         "Vurnary"
+    ],
+    "name:epo_x_preferred":[
+        "Vurnari"
+    ],
+    "name:ita_x_preferred":[
+        "Vurnary"
+    ],
+    "name:myv_x_preferred":[
+        "\u0412\u0443\u0440\u043d\u0430\u0440\u044b"
     ],
     "name:nor_x_preferred":[
         "Vurnary"
@@ -30,6 +54,9 @@
     ],
     "name:rus_x_variant":[
         "\u0412\u0443\u043d\u0430\u0440\u044b"
+    ],
+    "name:tat_x_preferred":[
+        "\u0423\u0440\u043d\u0430\u0440"
     ],
     "name:unk_x_variant":[
         "Vurnur"
@@ -57,7 +84,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688111
+        85688111,
+        1108737741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +105,7 @@
         }
     ],
     "wof:id":102009223,
-    "wof:lastmodified":1505338933,
+    "wof:lastmodified":1564108892,
     "wof:name":"Vurnary",
     "wof:parent_id":1108737741,
     "wof:placetype":"locality",

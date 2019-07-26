@@ -28,11 +28,23 @@
     "name:eng_x_preferred":[
         "Prigorodnoye"
     ],
+    "name:fin_x_preferred":[
+        "Prigorodnojen satama"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ea\u30b4\u30ed\u30c9\u30ce\u30a8"
+    ],
     "name:nor_x_preferred":[
         "Prigorodnoje"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u0438\u0433\u043e\u0440\u043e\u0434\u043d\u043e\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 \u00ab\u041f\u0440\u0438\u0433\u043e\u0440\u043e\u0434\u043d\u043e\u0435\u00bb"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0438\u0433\u043e\u0440\u043e\u0434\u043d\u043e\u0454"
     ],
     "name:und_x_variant":[
         "Merei",
@@ -41,6 +53,9 @@
         "Prigorodnyy",
         "\u041f\u0440\u0438\u0433\u043e\u0440\u043e\u0434\u043d\u043e\u0435",
         "Prigorodnoye"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u91cc\u6208\u7f57\u5fb7\u8bfa\u8036"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +83,7 @@
         }
     ],
     "wof:id":1326747791,
-    "wof:lastmodified":1537695902,
+    "wof:lastmodified":1564105940,
     "wof:name":"Prigorodnoye",
     "wof:parent_id":1108734599,
     "wof:placetype":"locality",

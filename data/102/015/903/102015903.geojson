@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000549,
-    "geom:area_square_m":4844345.698618,
+    "geom:area_square_m":4844345.698616,
     "geom:bbox":"41.1998596191,44.4740829468,41.2216682434,44.5074996948",
     "geom:latitude":44.491027,
     "geom:longitude":41.211216,
@@ -20,8 +20,17 @@
     "name:afr_x_preferred":[
         "Gay"
     ],
+    "name:ara_x_preferred":[
+        "\u0645\u062b\u0644\u064a \u0627\u0644\u062c\u0646\u0633"
+    ],
+    "name:asm_x_preferred":[
+        "\u09b8\u09ae\u0995\u09be\u09ae\u09c0 \u09aa\u09c1\u09f0\u09c1\u09b7"
+    ],
     "name:ast_x_preferred":[
         "Gai"
+    ],
+    "name:aze_x_preferred":[
+        "Gey"
     ],
     "name:bak_x_preferred":[
         "\u0413\u0435\u0439"
@@ -50,6 +59,9 @@
     "name:ces_x_preferred":[
         "Gay"
     ],
+    "name:ckb_x_preferred":[
+        "\u06af\u06d5\u06cc"
+    ],
     "name:cym_x_preferred":[
         "Hoyw"
     ],
@@ -74,6 +86,9 @@
     "name:fra_x_preferred":[
         "Gay"
     ],
+    "name:gan_x_preferred":[
+        "\u7537\u540c\u6027\u6200\u8005"
+    ],
     "name:gle_x_preferred":[
         "Aerach"
     ],
@@ -86,11 +101,17 @@
     "name:heb_x_preferred":[
         "\u05d2\u05d9\u05d9"
     ],
+    "name:hin_x_preferred":[
+        "\u0917\u0947"
+    ],
     "name:hrv_x_preferred":[
         "Gej"
     ],
     "name:iku_x_preferred":[
         "\u1455\u146f\u1466\u14f1\u148d\u14f1\u1449\u1433\u1585 \u140a\u146f\u14d0\u14c2\u1593\u14d0\u14c2 \u14aa\u14a1\u148e\u1483 \u140a\u1591\u1466"
+    ],
+    "name:ina_x_preferred":[
+        "Gay"
     ],
     "name:ind_x_preferred":[
         "Gay"
@@ -116,6 +137,9 @@
     "name:lav_x_preferred":[
         "Gejs"
     ],
+    "name:lmo_x_preferred":[
+        "Gay"
+    ],
     "name:mal_x_preferred":[
         "\u0d38\u0d4d\u0d35\u0d35\u0d7c\u0d17\u0d2a\u0d4d\u0d30\u0d23\u0d2f\u0d3f"
     ],
@@ -128,11 +152,17 @@
     "name:mon_x_preferred":[
         "\u0413\u044d\u0439"
     ],
+    "name:mon_x_variant":[
+        "\u0413\u0435\u0439"
+    ],
     "name:msa_x_preferred":[
         "Gay"
     ],
     "name:mya_x_preferred":[
         "\u1002\u1031\u1038"
+    ],
+    "name:nah_x_preferred":[
+        "Tecuilontiliztli"
     ],
     "name:nep_x_preferred":[
         "\u0938\u092e\u0932\u093f\u0919\u094d\u0917\u0940"
@@ -158,8 +188,14 @@
     "name:slk_x_preferred":[
         "Gay"
     ],
+    "name:slv_x_preferred":[
+        "Gej"
+    ],
     "name:spa_x_preferred":[
         "Gay"
+    ],
+    "name:sqi_x_preferred":[
+        "Gej"
     ],
     "name:srp_x_preferred":[
         "\u0413\u0435\u0458"
@@ -187,6 +223,9 @@
     ],
     "name:vie_x_preferred":[
         "Ng\u01b0\u1eddi \u0111\u1ed3ng t\u00ednh nam"
+    ],
+    "name:yor_x_preferred":[
+        "Gay"
     ],
     "name:zho_x_preferred":[
         "\u7537\u540c\u6027\u6200"
@@ -236,7 +275,7 @@
         }
     ],
     "wof:id":102015903,
-    "wof:lastmodified":1527636465,
+    "wof:lastmodified":1564108590,
     "wof:name":"Gay",
     "wof:parent_id":1108735733,
     "wof:placetype":"locality",
