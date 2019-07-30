@@ -21,17 +21,32 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "\u041d\u0430\u0433\u043e\u0440\u043d\u044b\u0439"
+    ],
+    "name:deu_x_preferred":[
+        "Nagorny"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u0563\u0578\u0580\u0576\u056b"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0433\u043e\u0301\u0440\u043d\u044b\u0439"
     ],
+    "name:rus_x_variant":[
+        "\u041d\u0430\u0433\u043e\u0440\u043d\u044b\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0433\u043e\u0440\u043d\u0438\u0439"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85688085,
         102191581,
         85632685,
         102003033,
         874393555,
-        1108736095
+        1108736095,
+        85688085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1108942845,
-    "wof:lastmodified":1500066509,
+    "wof:lastmodified":1564124652,
     "wof:name":"Nagorny",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

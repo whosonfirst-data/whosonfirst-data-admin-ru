@@ -21,20 +21,80 @@
     "mz:max_zoom":12.0,
     "mz:min_zoom":11.0,
     "mz:tier_metro":30,
+    "name:bel_x_preferred":[
+        "\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0430\u0434\u043c\u0456\u043d\u0456\u0441\u0442\u0440\u0430\u0446\u044b\u0439\u043d\u0430\u044f \u0430\u043a\u0440\u0443\u0433\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u0435\u043d \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u043e\u043a\u0440\u044a\u0433"
+    ],
+    "name:ceb_x_preferred":[
+        "Tsentral'nyy Administrativnyy Okrug"
+    ],
+    "name:dan_x_preferred":[
+        "Centrale administrative okrug"
+    ],
+    "name:deu_x_preferred":[
+        "Zentraler Verwaltungsbezirk"
+    ],
     "name:eng_x_variant":[
         "Tsentralny administrativny okrug"
+    ],
+    "name:epo_x_preferred":[
+        "Centra administra arondismento"
+    ],
+    "name:est_x_preferred":[
+        "Keskhaldusringkond"
+    ],
+    "name:eus_x_preferred":[
+        "Erdialdeko barrutia"
+    ],
+    "name:fra_x_preferred":[
+        "District administratif central"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05de\u05d7\u05d5\u05d6 \u05d4\u05d0\u05d3\u05de\u05d9\u05e0\u05d9\u05e1\u05d8\u05e8\u05d8\u05d9\u05d1\u05d9 \u05d4\u05de\u05e8\u05db\u05d6\u05d9"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u057d\u056f\u057e\u0561\u0575\u056b \u056f\u0565\u0576\u057f\u0580\u0578\u0576\u0561\u056f\u0561\u0576 \u057e\u0561\u0580\u0579\u0561\u056f\u0561\u0576 \u0577\u0580\u057b\u0561\u0576"
+    ],
+    "name:kor_x_preferred":[
+        "\uc911\uc559\uad6c"
+    ],
+    "name:lat_x_preferred":[
+        "Circulus administrativus medius"
+    ],
+    "name:pol_x_preferred":[
+        "Centralny okr\u0119g administracyjny Moskwy"
+    ],
+    "name:por_x_preferred":[
+        "Distrito administrativo central"
     ],
     "name:rus_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"
     ],
+    "name:sco_x_preferred":[
+        "Central Admeenistrative Okrug"
+    ],
+    "name:tat_x_preferred":[
+        "\u04ae\u0437\u04d9\u043a \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432 \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:tur_x_preferred":[
+        "Merkez \u0130dari Okrugu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0438\u0439 \u0430\u0434\u043c\u0456\u043d\u0456\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u592e\u884c\u653f\u5340"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85688085,
         102191581,
         85632685,
         102003033,
         874393555,
-        1108736095
+        1108736095,
+        85688085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,7 +113,7 @@
         }
     ],
     "wof:id":1108942689,
-    "wof:lastmodified":1500066517,
+    "wof:lastmodified":1564124625,
     "wof:name":"Central Administrative Okrug",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

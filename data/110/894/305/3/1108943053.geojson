@@ -21,16 +21,28 @@
     "mz:max_zoom":13.0,
     "mz:min_zoom":11.0,
     "mz:tier_metro":30,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043b\u0456\u043d\u0456\u043d\u0441\u043a\u0456"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0441\u043a\u0438\u0439"
     ],
+    "name:sco_x_preferred":[
+        "Kalininsky"
+    ],
+    "name:spa_x_preferred":[
+        "Kal\u00edninski"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u0456\u043d\u0456\u043d\u0441\u044c\u043a\u0438\u0439"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1108943053,
-    "wof:lastmodified":1510870332,
+    "wof:lastmodified":1564124648,
     "wof:name":"Kalininsky",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

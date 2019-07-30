@@ -21,17 +21,23 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:ita_x_preferred":[
+        "Begovaja"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0433\u043e\u0432\u043e\u0439"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u0433\u043e\u0432\u0430"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85688085,
         102191581,
         85632685,
         102003033,
         874393555,
-        1108736095
+        1108736095,
+        85688085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1108942719,
-    "wof:lastmodified":1500066519,
+    "wof:lastmodified":1564124657,
     "wof:name":"Begovoy",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

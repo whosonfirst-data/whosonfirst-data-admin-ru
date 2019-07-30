@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000454,
-    "geom:area_square_m":3443409.640386,
+    "geom:area_square_m":3443409.640384,
     "geom:bbox":"109.748023987,52.1476669312,109.779777527,52.167137146",
     "geom:latitude":52.157871,
     "geom:longitude":109.763889,
@@ -19,14 +19,29 @@
     "mps:longitude":109.764172,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0425\u043e\u0440\u044b\u043d\u0441\u043a"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u043e\u0440\u0438\u043d\u0441\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "Chorinsk"
+    ],
     "name:eng_x_preferred":[
         "Khorinsk"
+    ],
+    "name:hye_x_preferred":[
+        "\u053d\u0578\u0580\u056b\u0576\u057d\u056f"
     ],
     "name:nor_x_preferred":[
         "Khorinsk"
     ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u0440\u0438\u043d\u0441\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0440\u0438\u043d\u0441\u044c\u043a"
     ],
     "name:unk_x_variant":[
         "Khorinskoye"
@@ -54,7 +69,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85688207
+        85688207,
+        1108734385
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +90,7 @@
         }
     ],
     "wof:id":102014573,
-    "wof:lastmodified":1505338944,
+    "wof:lastmodified":1564108766,
     "wof:name":"Khorinsk",
     "wof:parent_id":1108734385,
     "wof:placetype":"locality",

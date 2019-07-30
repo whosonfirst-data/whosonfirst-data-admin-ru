@@ -21,17 +21,32 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":12.0,
     "mz:tier_metro":30,
+    "name:bel_x_preferred":[
+        "\u0410\u044d\u0440\u0430\u043f\u043e\u0440\u0442"
+    ],
+    "name:dan_x_preferred":[
+        "Aeroport"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroport"
+    ],
+    "name:pol_x_preferred":[
+        "Aeroport"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442"
     ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u043f\u043e\u0440\u0442"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85688085,
         102191581,
         85632685,
         102003033,
         874393555,
-        1108736095
+        1108736095,
+        85688085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1108942717,
-    "wof:lastmodified":1500066522,
+    "wof:lastmodified":1564124657,
     "wof:name":"Aeroport",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

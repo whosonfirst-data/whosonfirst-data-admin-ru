@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001751,
-    "geom:area_square_m":10822302.892305,
+    "geom:area_square_m":10822302.892306,
     "geom:bbox":"30.3357251869,59.9903593967,30.4032883402,60.0401601804",
     "geom:latitude":60.015357,
     "geom:longitude":30.367115,
@@ -27,11 +27,14 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "mz:tier_metro":30,
+    "name:bak_x_preferred":[
+        "\u0421\u043e\u0441\u043d\u043e\u0432\u043a\u0430"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0430\u0441\u043d\u043e\u045e\u043a\u0430"
     ],
-    "name:bel_x_variant":[
-        "\u0421\u0430\u0441\u043d\u043e\u045e\u043a\u0430"
+    "name:ceb_x_preferred":[
+        "Sosnovka"
     ],
     "name:deu_x_preferred":[
         "Sosnowka"
@@ -45,8 +48,17 @@
     "name:fra_x_preferred":[
         "Sosn\u00f3wka"
     ],
+    "name:hun_x_preferred":[
+        "Szosznovka"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u057d\u0576\u0578\u057e\u056f\u0561"
+    ],
     "name:ita_x_preferred":[
         "Sosnovka"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043e\u0441\u043d\u043e\u0432\u043a\u0430"
     ],
     "name:lit_x_preferred":[
         "Sosnuvka"
@@ -58,6 +70,12 @@
         "Sosn\u00f3wka"
     ],
     "name:rus_x_preferred":[
+        "\u0421\u043e\u0441\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Sosnovka"
+    ],
+    "name:tat_x_preferred":[
         "\u0421\u043e\u0441\u043d\u043e\u0432\u043a\u0430"
     ],
     "name:ukr_x_preferred":[
@@ -97,11 +115,11 @@
     "src:lbl:centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,7 +144,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1510870355,
+    "wof:lastmodified":1564112487,
     "wof:name":"Sosnovka",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

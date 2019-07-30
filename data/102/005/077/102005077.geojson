@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000618,
-    "geom:area_square_m":4692579.510324,
+    "geom:area_square_m":4692579.510323,
     "geom:bbox":"42.0112571716,52.1215209961,42.0486373901,52.1471977234",
     "geom:latitude":52.134452,
     "geom:longitude":42.029845,
@@ -17,8 +17,23 @@
     "mps:longitude":42.029845,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0436\u0430\u043a\u0441\u0430"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u0436\u0430\u043a\u0441\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Rschaksa"
+    ],
     "name:eng_x_preferred":[
         "Rzhaksa"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u056a\u0561\u056f\u057d\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "R\u017eaksa"
     ],
     "name:nor_x_preferred":[
         "Rzjaksa"
@@ -52,7 +67,8 @@
     "wof:belongsto":[
         102191581,
         85632685,
-        85687829
+        85687829,
+        1108736347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,7 +88,7 @@
         }
     ],
     "wof:id":102005077,
-    "wof:lastmodified":1505338923,
+    "wof:lastmodified":1564109312,
     "wof:name":"Rzhaksa",
     "wof:parent_id":1108736347,
     "wof:placetype":"locality",

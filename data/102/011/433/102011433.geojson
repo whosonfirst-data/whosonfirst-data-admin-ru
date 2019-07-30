@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000405,
-    "geom:area_square_m":3264875.28279,
+    "geom:area_square_m":3264875.282788,
     "geom:bbox":"45.0174179077,49.2602767944,45.0454177856,49.2827758789",
     "geom:latitude":49.270965,
     "geom:longitude":45.031587,
@@ -19,8 +19,14 @@
     "mps:longitude":45.03272,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u044b\u043c\u043e\u0440\u0441\u043a"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Primorsk"
     ],
     "name:ces_x_preferred":[
         "Primorsk"
@@ -34,11 +40,17 @@
     "name:epo_x_preferred":[
         "Primorsk"
     ],
+    "name:est_x_preferred":[
+        "Primorsk"
+    ],
     "name:fra_x_preferred":[
         "Primorsk"
     ],
     "name:ita_x_preferred":[
         "Primorsk"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub9ac\ubaa8\ub974\uc2a4\ud06c"
     ],
     "name:lav_x_preferred":[
         "Primorska"
@@ -69,6 +81,9 @@
     ],
     "name:unk_x_variant":[
         "Vodyanoye"
+    ],
+    "name:vep_x_preferred":[
+        "Primorsk"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -115,7 +130,7 @@
         }
     ],
     "wof:id":102011433,
-    "wof:lastmodified":1527637592,
+    "wof:lastmodified":1564109084,
     "wof:name":"Primorsk",
     "wof:parent_id":1108733153,
     "wof:placetype":"locality",

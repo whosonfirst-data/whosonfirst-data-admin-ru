@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":36278707.057561,
+    "geom:area_square_m":0.0,
     "geom:bbox":"39.888897,57.623636,39.888897,57.623636",
     "geom:latitude":57.623636,
     "geom:longitude":39.888897,
@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:che_x_preferred":[
+        "\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u043a\u0430"
+    ],
     "name:eng_x_preferred":[
         "Yaroslavka"
     ],
@@ -63,12 +66,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85687959,
         102191581,
         85632685,
         102002681,
         874393555,
-        1108733757
+        1108733757,
+        85687959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936052,
+    "wof:lastmodified":1564112484,
     "wof:name":"Yaroslavka",
     "wof:parent_id":102002681,
     "wof:placetype":"neighbourhood",

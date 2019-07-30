@@ -24,8 +24,23 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:deu_x_preferred":[
+        "Jaroslawski"
+    ],
     "name:rus_x_preferred":[
         "\u042f\u0440\u043e\u0441\u043b\u0430\u0301\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:sco_x_preferred":[
+        "Yaroslavsky"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u044c\u043a\u0438\u0439"
     ],
     "name:unk_x_variant":[
         "Malyye Mytishchi"
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":1108942771,
-    "wof:lastmodified":1534379454,
+    "wof:lastmodified":1564124653,
     "wof:name":"Yaroslavsky",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",
