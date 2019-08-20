@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002374,
-    "geom:area_square_m":14746543.718885,
+    "geom:area_square_m":14746543.71889,
     "geom:bbox":"30.2829105135,59.8040419799,30.3789575196,59.8810193502",
     "geom:latitude":59.837782,
     "geom:longitude":30.325644,
@@ -31,7 +31,8 @@
     ],
     "name:eng_x_variant":[
         "Sredne-Rogatka",
-        "Srednerogatskaya Koloniya"
+        "Srednerogatskaya Koloniya",
+        "Srednjaja Rogatka"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0440\u0435\u0434\u043d\u044f\u044f \u0420\u043e\u0433\u0430\u0442\u043a\u0430"
@@ -67,13 +68,13 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[
         85903345
@@ -100,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1510870357,
+    "wof:lastmodified":1566247528,
     "wof:name":"Srednyaya Rogatka",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",
