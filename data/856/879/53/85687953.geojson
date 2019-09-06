@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":46.541392,
     "lbl:longitude":45.305288,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Kalmyk",
     "meso:name_alt2":"Respublika Kalmykija",
     "meso:name_local":"\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u043b\u043c\u044b\u043a\u0438\u044f",
@@ -351,10 +352,6 @@
         "\u041a\u0430\u043b\u043c\u0438\u043a\u0456\u044f"
     ],
     "name:und_x_variant":[
-        "Respublika Kalmykija",
-        "Kalmyk"
-    ],
-    "name:unk_x_variant":[
         "Kalmyk ASSR"
     ],
     "name:urd_x_preferred":[
@@ -456,9 +453,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"76,100",
     "statoids:area_mi":"29,400",
     "statoids:as_of_date":"2010-10-14",
@@ -521,11 +518,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734433,
+    "wof:lastmodified":1566618560,
     "wof:name":"Kalmykia",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":289481,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ru",

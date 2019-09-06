@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":64.950596,
     "lbl:longitude":34.584361,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":64.950596,
     "mps:longitude":34.584361,
     "mz:hierarchy_label":1,
@@ -152,7 +154,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ken"
     ],
     "name:vep_x_preferred":[
@@ -274,7 +276,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":64.95,
     "wd:longitude":34.6,
@@ -290,7 +292,6 @@
     "wof:concordances":{
         "gn:id":551145,
         "gp:id":24505257,
-        "qs:id":213251,
         "qs_pg:id":213251,
         "wd:id":"Q145717",
         "wk:page":"Kem, Russia"
@@ -308,7 +309,7 @@
         }
     ],
     "wof:id":102001935,
-    "wof:lastmodified":1563240585,
+    "wof:lastmodified":1566615319,
     "wof:name":"Kem",
     "wof:parent_id":890482143,
     "wof:placetype":"locality",

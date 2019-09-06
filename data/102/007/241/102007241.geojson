@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000731,
-    "geom:area_square_m":6124991.786543,
+    "geom:area_square_m":6124991.786544,
     "geom:bbox":"41.0617790222,47.3447494507,41.0953063965,47.3878593445",
     "geom:latitude":47.367188,
     "geom:longitude":41.079497,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":47.359857,
     "lbl:longitude":41.072767,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.359857,
     "mps:longitude":41.072767,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0428\u0430\u043c\u0438\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shaminskiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +43,7 @@
     "qs:type":"\u0445",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688033,
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":102007241,
-    "wof:lastmodified":1501214497,
+    "wof:lastmodified":1566615182,
     "wof:name":"Shaminka",
     "wof:parent_id":1108736423,
     "wof:placetype":"locality",

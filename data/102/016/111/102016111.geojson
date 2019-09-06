@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.040086,
     "lbl:longitude":44.54321,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.040086,
     "mps:longitude":44.54321,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Edissiya"
     ],
@@ -26,9 +29,6 @@
         "Edissia"
     ],
     "name:rus_x_preferred":[
-        "\u042d\u0434\u0438\u0441\u0441\u0438\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u042d\u0434\u0438\u0441\u0441\u0438\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687825,
@@ -60,7 +60,7 @@
     "wof:concordances":{
         "gn:id":563556,
         "gp:id":2120746,
-        "qs:id":549891
+        "qs_pg:id":549891
     },
     "wof:country":"RU",
     "wof:geomhash":"36746a438d87529da540dfd98e341b4a",
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":102016111,
-    "wof:lastmodified":1505338948,
+    "wof:lastmodified":1566615442,
     "wof:name":"Edisseya",
     "wof:parent_id":1108734835,
     "wof:placetype":"locality",

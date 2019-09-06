@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.700487,
     "lbl:longitude":37.300228,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.700487,
     "mps:longitude":37.300228,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u0627\u0641\u0633\u0643"
     ],
@@ -106,9 +109,6 @@
     "name:tur_x_preferred":[
         "Plavsk"
     ],
-    "name:unk_x_variant":[
-        "Plawsk"
-    ],
     "name:war_x_preferred":[
         "Plavsk"
     ],
@@ -133,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.7,
     "wd:longitude":37.3,
@@ -148,7 +148,6 @@
     "wof:concordances":{
         "gn:id":509052,
         "gp:id":2122897,
-        "qs:id":293439,
         "qs_pg:id":293439,
         "wd:id":"Q179464",
         "wk:page":"Plavsk"
@@ -164,7 +163,7 @@
         }
     ],
     "wof:id":102004199,
-    "wof:lastmodified":1563241285,
+    "wof:lastmodified":1566615593,
     "wof:name":"Plavsk",
     "wof:parent_id":1108735887,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000221,
-    "geom:area_square_m":1601328.755163,
+    "geom:area_square_m":1601328.755164,
     "geom:bbox":"83.9325256348,54.1725006104,83.958442688,54.1871948242",
     "geom:latitude":54.179693,
     "geom:longitude":83.945244,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":54.179509,
     "lbl:longitude":83.945244,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.179509,
     "mps:longitude":83.945244,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0421\u043c\u043e\u0440\u043e\u0434\u0438\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Smorodinskiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -36,7 +39,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687925,
         102191581,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102013139,
-    "wof:lastmodified":1501220006,
+    "wof:lastmodified":1566615065,
     "wof:name":"Smorodinka",
     "wof:parent_id":1108733239,
     "wof:placetype":"locality",

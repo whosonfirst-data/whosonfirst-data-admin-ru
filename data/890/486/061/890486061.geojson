@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":43.795553,
     "lbl:longitude":41.026637,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Karachaevo-CHerkesskaja respublika",
     "meso:admin1r_en":"Severo-Kavkazskij federal'nyj okrug",
     "meso:admin_1":"\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
@@ -54,6 +56,7 @@
     "mps:longitude":41.026637,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u0423\u0440\u0443\u043f\u0438\u0439\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -94,9 +97,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u0440\u0443\u043f\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Urupsky"
     ],
@@ -120,9 +120,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2782",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Pregradnaya",
@@ -144,7 +144,7 @@
     "wof:concordances":{
         "gp:id":12597977,
         "hasc:id":"RU.KC.UR",
-        "qs:id":125630,
+        "qs_pg:id":125630,
         "wd:id":"Q1049108",
         "wk:page":"Urupsky District"
     },
@@ -161,7 +161,7 @@
         }
     ],
     "wof:id":890486061,
-    "wof:lastmodified":1563262814,
+    "wof:lastmodified":1566630879,
     "wof:name":"Urupskiy",
     "wof:parent_id":85687913,
     "wof:placetype":"county",

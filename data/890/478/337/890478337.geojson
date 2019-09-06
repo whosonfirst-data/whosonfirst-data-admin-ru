@@ -11,10 +11,14 @@
     "geom:longitude":52.4281,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":10600,
+    "gn:population":10600,
     "iso:country":"RU",
+    "lbl:bbox":"52.4081,54.84356,52.4481,54.88356",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Nizhnyaya Maktama"
     ],
@@ -48,9 +52,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0436\u043d\u044f \u041c\u0430\u043a\u0442\u0430\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u041d\u0438\u0436\u043d\u044f\u044f \u041c\u0430\u043a\u0442\u0430\u043c\u0430"
-    ],
     "qs:name":"Nizhnyaya Maktama",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -66,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":520318,
-        "qs:id":549456,
+        "qs_pg:id":549456,
         "wd:id":"Q4319337"
     },
     "wof:country":"RU",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":890478337,
-    "wof:lastmodified":1563261831,
+    "wof:lastmodified":1566630479,
     "wof:name":"Nizhnyaya Maktama",
     "wof:parent_id":1108732659,
     "wof:placetype":"locality",

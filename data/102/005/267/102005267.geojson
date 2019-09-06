@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000256,
-    "geom:area_square_m":1956918.269983,
+    "geom:area_square_m":1956918.269982,
     "geom:bbox":"37.5460014343,51.8625259399,37.5762481689,51.8772773743",
     "geom:latitude":51.868856,
     "geom:longitude":37.561595,
     "iso:country":"RU",
     "lbl:latitude":51.869387,
     "lbl:longitude":37.562626,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.869387,
     "mps:longitude":37.562626,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Imeni Lenina"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_variant":[
         "\u0418\u043c\u0435\u043d\u0438 \u041b\u0435\u043d\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pos\u00eblok Imeni Lenina"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u0441/\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":126,
     "wof:belongsto":[
         85688011,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102005267,
-    "wof:lastmodified":1527637958,
+    "wof:lastmodified":1566615628,
     "wof:name":"Leninskiy",
     "wof:parent_id":1108736753,
     "wof:placetype":"locality",

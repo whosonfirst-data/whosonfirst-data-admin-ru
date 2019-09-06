@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"43.00167,45.72,43.04167,45.76",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Liman"
     ],
@@ -76,10 +80,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0438\u043c\u0430\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041b\u0438\u043c\u0430\u043d",
-        "Liman"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85687825,
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":1243581631,
-    "wof:lastmodified":1564131332,
+    "wof:lastmodified":1566632351,
     "wof:name":"Liman",
     "wof:parent_id":1108734005,
     "wof:placetype":"locality",

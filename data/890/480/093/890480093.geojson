@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":55.883153,
     "lbl:longitude":54.266032,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Bashkortostan",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d",
@@ -54,6 +56,7 @@
     "mps:longitude":54.266032,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bak_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u043a\u0430\u043c\u0430 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
@@ -103,9 +106,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u043a\u0430\u043c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041a\u0440\u0430\u0441\u043d\u043e\u043a\u0430\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Krasnokamsky"
     ],
@@ -130,9 +130,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1596",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Inkogo-Verezhovka",
@@ -154,7 +154,7 @@
     "wof:concordances":{
         "gp:id":12599042,
         "hasc:id":"RU.BK.KR",
-        "qs:id":1209316,
+        "qs_pg:id":1209316,
         "wd:id":"Q2281998",
         "wk:page":"Krasnokamsky District"
     },
@@ -171,7 +171,7 @@
         }
     ],
     "wof:id":890480093,
-    "wof:lastmodified":1563263069,
+    "wof:lastmodified":1566630994,
     "wof:name":"Krasnokamskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

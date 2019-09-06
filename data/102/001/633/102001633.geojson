@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000395,
-    "geom:area_square_m":3473540.678733,
+    "geom:area_square_m":3473540.678734,
     "geom:bbox":"132.878356934,44.6228065491,132.90788269,44.6441116333",
     "geom:latitude":44.6333,
     "geom:longitude":132.894289,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.63175,
     "lbl:longitude":132.897523,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.63175,
     "mps:longitude":132.897523,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khvalynka"
     ],
@@ -25,9 +28,6 @@
         "Khvalynka"
     ],
     "name:rus_x_preferred":[
-        "\u0425\u0432\u0430\u043b\u044b\u043d\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0425\u0432\u0430\u043b\u044b\u043d\u043a\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688023,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102001633,
-    "wof:lastmodified":1501225163,
+    "wof:lastmodified":1566615314,
     "wof:name":"",
     "wof:parent_id":1108736773,
     "wof:placetype":"locality",

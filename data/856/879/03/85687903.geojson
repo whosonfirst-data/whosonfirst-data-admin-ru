@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":58.094628,
     "lbl:longitude":50.088955,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Kirov",
     "meso:name_alt2":"Kirovskaja oblast'",
     "meso:name_local":"\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -182,13 +183,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0440\u043e\u0432"
     ],
-    "name:und_x_variant":[
-        "Kirovskaja oblast'",
-        "Kirov"
-    ],
-    "name:unk_x_variant":[
-        "Kirov Oblast"
-    ],
     "name:zho_x_preferred":[
         "\u57fa\u6d1b\u592b"
     ],
@@ -261,9 +255,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"120,800",
     "statoids:area_mi":"46,600",
     "statoids:as_of_date":"2010-10-14",
@@ -325,11 +319,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734429,
+    "wof:lastmodified":1566618554,
     "wof:name":"Kirov",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":1341312,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

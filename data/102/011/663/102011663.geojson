@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000812,
-    "geom:area_square_m":5104910.047214,
+    "geom:area_square_m":5104910.047213,
     "geom:bbox":"60.4991111755,59.4153060913,60.5440292358,59.4404716492",
     "geom:latitude":59.426915,
     "geom:longitude":60.519669,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":59.42713,
     "lbl:longitude":60.519667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.42713,
     "mps:longitude":60.519667,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Krasnoyarka"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":424,
     "wof:belongsto":[
         85688183,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102011663,
-    "wof:lastmodified":1527637592,
+    "wof:lastmodified":1566615412,
     "wof:name":"Krasnoyarka",
     "wof:parent_id":1108736455,
     "wof:placetype":"locality",

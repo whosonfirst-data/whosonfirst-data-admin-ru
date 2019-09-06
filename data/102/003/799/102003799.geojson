@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.474611,
     "lbl:longitude":37.705315,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":54.474611,
     "mps:longitude":37.705315,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u064a\u0627\u0633\u0646\u0648\u063a\u0648\u0631\u0633\u0643"
     ],
@@ -115,7 +118,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u0441\u043d\u043e\u0433\u043e\u0440\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lapt\u00ebvo"
     ],
     "name:war_x_preferred":[
@@ -142,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -154,7 +157,6 @@
     "wof:concordances":{
         "gn:id":468671,
         "gp:id":2124452,
-        "qs:id":207375,
         "qs_pg:id":207375,
         "wd:id":"Q199016",
         "wk:page":"Yasnogorsk, Tula Oblast"
@@ -170,7 +172,7 @@
         }
     ],
     "wof:id":102003799,
-    "wof:lastmodified":1563241061,
+    "wof:lastmodified":1566615516,
     "wof:name":"Yasnogorsk",
     "wof:parent_id":1108734119,
     "wof:placetype":"locality",

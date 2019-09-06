@@ -5,21 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001088,
-    "geom:area_square_m":8369293.355433,
+    "geom:area_square_m":8369293.355431,
     "geom:bbox":"38.3538894653,51.5280265808,38.4011650085,51.5642776489",
     "geom:latitude":51.548308,
     "geom:longitude":38.38003,
-    "geonames:id":"521148,521146",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":6320,
+    "gn:id":"521148,521146",
+    "gn:population":6320,
     "iso:country":"RU",
     "lbl:latitude":51.551154,
     "lbl:longitude":38.382844,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.551154,
     "mps:longitude":38.382844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Nizhnedevitsk"
     ],
@@ -29,7 +32,7 @@
     "name:rus_x_preferred":[
         "\u041d\u0438\u0436\u043d\u0435\u0434\u0435\u0432\u0438\u0446\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nizhnedevitsic"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -48,7 +51,7 @@
     "qs:type":"\u0440-\u043d",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -62,7 +65,7 @@
     "wof:concordances":{
         "gn:id":521148,
         "gp:id":2122414,
-        "qs:id":194541,
+        "qs_pg:id":194541,
         "wk:page":"Nizhnedevitsk"
     },
     "wof:country":"RU",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":102005553,
-    "wof:lastmodified":1534379456,
+    "wof:lastmodified":1566615642,
     "wof:name":"Nizhnedevitsk",
     "wof:parent_id":1108735381,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":53.0529,
     "lbl:longitude":60.646541,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":53.0529,
     "mps:longitude":60.646541,
     "mz:hierarchy_label":1,
@@ -107,9 +109,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0442\u0430\u043b\u0438"
-    ],
-    "name:unk_x_variant":[
-        "\u041a\u0430\u0440\u0442\u0430\u043b\u044b"
     ],
     "name:vie_x_preferred":[
         "Kartaly"
@@ -230,7 +229,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.05,
     "wd:longitude":60.65,
@@ -245,7 +244,6 @@
     "wof:concordances":{
         "gn:id":1504317,
         "gp:id":2121237,
-        "qs:id":273966,
         "qs_pg:id":273966,
         "wd:id":"Q145426",
         "wk:page":"Kartaly"
@@ -261,7 +259,7 @@
         }
     ],
     "wof:id":102012541,
-    "wof:lastmodified":1563239948,
+    "wof:lastmodified":1566615028,
     "wof:name":"Kartaly",
     "wof:parent_id":1108734287,
     "wof:placetype":"locality",

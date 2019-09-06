@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000463,
-    "geom:area_square_m":4188054.681693,
+    "geom:area_square_m":4188054.681691,
     "geom:bbox":"45.8859443665,42.9586677551,45.9124450684,42.9883346558",
     "geom:latitude":42.973368,
     "geom:longitude":45.899888,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":42.972974,
     "lbl:longitude":45.90096,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.972974,
     "mps:longitude":45.90096,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "Kirova"
     ],
@@ -33,7 +36,7 @@
     "name:rus_x_preferred":[
         "\u0422\u0435\u0432\u0437\u0430\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tauzen"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -52,7 +55,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688015,
         102191581,
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":548404,
         "gp:id":56452052,
-        "qs:id":244368
+        "qs_pg:id":244368
     },
     "wof:country":"RU",
     "wof:geomhash":"6e9610f45c3437a44d061be26028dc92",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":102016751,
-    "wof:lastmodified":1501214686,
+    "wof:lastmodified":1566615447,
     "wof:name":"Kirov-Yurt",
     "wof:parent_id":1108737311,
     "wof:placetype":"locality",

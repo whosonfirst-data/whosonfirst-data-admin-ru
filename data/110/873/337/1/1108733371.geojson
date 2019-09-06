@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":55.865508,
     "lbl:longitude":92.292504,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Krasnojarskij kraj",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":92.292504,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0641\u0646\u0648\u063a\u0648\u0631\u0633\u0643"
     ],
@@ -137,9 +140,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0438\u0432\u043d\u043e\u0433\u043e\u0440\u0441\u044c\u043a"
     ],
-    "name:und_x_variant":[
-        "\u0414\u0438\u0432\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
-    ],
     "name:vep_x_preferred":[
         "Divnogorsk"
     ],
@@ -153,7 +153,7 @@
         "\u5b63\u592b\u8afe\u6208\u723e\u65af\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688139,
@@ -175,7 +175,7 @@
         }
     ],
     "wof:id":1108733371,
-    "wof:lastmodified":1564124366,
+    "wof:lastmodified":1566626878,
     "wof:name":"Divnogorsk",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

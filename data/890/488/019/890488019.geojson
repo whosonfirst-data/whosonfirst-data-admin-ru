@@ -11,10 +11,14 @@
     "geom:longitude":97.5204,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":4,
+    "gn:population":4,
     "iso:country":"RU",
+    "lbl:bbox":"97.5004,57.4237,97.5404,57.4637",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bak_x_preferred":[
         "\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439"
     ],
@@ -90,7 +94,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043a\u0442\u044f\u0431\u0440\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maleyeva"
     ],
     "qs:name":"Oktyabr\u2019skiy",
@@ -113,9 +117,11 @@
     "wof:concordances":{
         "gn:id":515879,
         "gp:id":2059196,
-        "qs:id":556122,
-        "qs_pg:id":1026735,
+        "qs_pg:id":556122,
         "wk:page":"Oktyabrsky"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1026735
     },
     "wof:country":"RU",
     "wof:created":1469054700,
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":890488019,
-    "wof:lastmodified":1564129169,
+    "wof:lastmodified":1566630781,
     "wof:name":"Oktyabr\u2019skiy",
     "wof:parent_id":1108733043,
     "wof:placetype":"locality",

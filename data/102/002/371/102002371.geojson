@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":61.040771,
     "lbl:longitude":132.271857,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.040771,
     "mps:longitude":132.271857,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0410\u0431\u0430\u0433\u0430"
     ],
@@ -43,9 +46,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0430\u0433\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u0410\u0431\u0430\u0433\u0430"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u0445\u0430 (\u042f\u043a\u0443\u0442\u0438\u044f)",
     "qs:a1_lc":"1400500000200",
@@ -62,7 +62,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":146,
     "wof:belongsto":[
         85687843,
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":102002371,
-    "wof:lastmodified":1563241529,
+    "wof:lastmodified":1566615686,
     "wof:name":"Abaga",
     "wof:parent_id":1108732723,
     "wof:placetype":"locality",

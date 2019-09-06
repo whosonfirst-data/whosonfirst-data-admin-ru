@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.912295,
     "lbl:longitude":39.177481,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.912295,
     "mps:longitude":39.177481,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0643\u0631\u0648\u0641"
     ],
@@ -112,9 +115,6 @@
     "name:tur_x_preferred":[
         "Pokrov"
     ],
-    "name:unk_x_variant":[
-        "\u041f\u043e\u043a\u0440\u043e\u0432"
-    ],
     "name:vep_x_preferred":[
         "Pokrov"
     ],
@@ -142,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687981,
@@ -155,7 +155,6 @@
     "wof:concordances":{
         "gn:id":507599,
         "gp:id":2122946,
-        "qs:id":467154,
         "qs_pg:id":467154,
         "wd:id":"Q181531",
         "wk:page":"Pokrov, Vladimir Oblast"
@@ -173,7 +172,7 @@
         }
     ],
     "wof:id":102003091,
-    "wof:lastmodified":1563241109,
+    "wof:lastmodified":1566615528,
     "wof:name":"Pokrov",
     "wof:parent_id":890480499,
     "wof:placetype":"locality",

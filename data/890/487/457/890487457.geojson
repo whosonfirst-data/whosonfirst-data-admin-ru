@@ -11,11 +11,15 @@
     "geom:longitude":39.75629,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":4054,
+    "gn:population":4054,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"39.73629,57.47259,39.77629,57.51259",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Krasnyye Tkachi"
     ],
@@ -23,9 +27,6 @@
         "Krasnye Tkatsji"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0440\u0430\u0441\u043d\u044b\u0435 \u0422\u043a\u0430\u0447\u0438"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0440\u0430\u0441\u043d\u044b\u0435 \u0422\u043a\u0430\u0447\u0438"
     ],
     "qs:name":"Krasnyye Tkachi",
@@ -49,7 +50,7 @@
     "wof:concordances":{
         "gn:id":541747,
         "gp:id":2030124,
-        "qs:id":250594
+        "qs_pg:id":250594
     },
     "wof:country":"RU",
     "wof:created":1469054674,
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":890487457,
-    "wof:lastmodified":1505343778,
+    "wof:lastmodified":1566630935,
     "wof:name":"Krasnyye Tkachi",
     "wof:parent_id":1108734101,
     "wof:placetype":"locality",

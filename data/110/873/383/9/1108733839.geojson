@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":53.382193,
     "lbl:longitude":51.334452,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Samarskaja oblast'",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":51.334452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Otradnyj"
     ],
@@ -63,9 +66,9 @@
         "\u0413\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u041e\u0442\u0440\u0430\u0434\u043d\u044b\u0439"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2531",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Kinel'-Cherkasy",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108733839,
-    "wof:lastmodified":1561582004,
+    "wof:lastmodified":1566627047,
     "wof:name":"Otradnyj",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

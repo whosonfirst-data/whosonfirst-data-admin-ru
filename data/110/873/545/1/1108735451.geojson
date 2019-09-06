@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":75.42702,
     "lbl:longitude":138.967096,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Respublika Sakha (JAkutija)",
     "meso:admin1r_en":"Dal'nevostochnyj federal'nyj okrug",
     "meso:admin_1":"\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u0445\u0430 (\u042f\u043a\u0443\u0442\u0438\u044f)",
@@ -53,12 +55,13 @@
     "mps:longitude":138.967096,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "New Siberia Islands"
     ],
     "name:eng_x_variant":[],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687843,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108735451,
-    "wof:lastmodified":1561582019,
+    "wof:lastmodified":1566627097,
     "wof:name":"New Siberia Islands",
     "wof:parent_id":85687843,
     "wof:placetype":"county",

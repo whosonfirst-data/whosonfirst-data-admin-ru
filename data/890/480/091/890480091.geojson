@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":53.131905,
     "lbl:longitude":35.973516,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Orlovskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":35.973516,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Orlov rayonu"
     ],
@@ -94,9 +97,6 @@
     "name:rus_x_preferred":[
         "\u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:zho_x_preferred":[
         "\u5967\u723e\u6d1b\u592b\u65af\u57fa\u5340"
     ],
@@ -114,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":835,
     "wof:belongsto":[
         102191581,
@@ -125,7 +125,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598976,
-        "qs:id":1209315,
+        "qs_pg:id":1209315,
         "wd:id":"Q1765981",
         "wk:page":"Orlovsky District"
     },
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":890480091,
-    "wof:lastmodified":1563263001,
+    "wof:lastmodified":1566630959,
     "wof:name":"Orlovskiy",
     "wof:parent_id":85687849,
     "wof:placetype":"county",

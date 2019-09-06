@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000523,
-    "geom:area_square_m":4459436.128342,
+    "geom:area_square_m":4459436.128343,
     "geom:bbox":"38.2524452209,46.3436927795,38.2853050232,46.3651123047",
     "geom:latitude":46.353844,
     "geom:longitude":38.268809,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":46.354038,
     "lbl:longitude":38.265836,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.354038,
     "mps:longitude":38.265836,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Yasenskaya"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u042f\u0441\u0435\u043d\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stanitsa Yasenskaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +52,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688029
+        85688029,
+        1108733469
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":468782,
         "gp:id":2124447,
-        "qs:id":1305994,
         "qs_pg:id":1305994
     },
     "wof:country":"RU",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102007513,
-    "wof:lastmodified":1505338927,
+    "wof:lastmodified":1566615198,
     "wof:name":"Yasenskaya",
     "wof:parent_id":1108733469,
     "wof:placetype":"locality",

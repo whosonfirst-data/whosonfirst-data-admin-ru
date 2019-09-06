@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":54.628325,
     "lbl:longitude":22.166475,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kaliningradskaja oblast'",
     "meso:admin1r_en":"Severo-Zapadnyj federal'nyj okrug",
     "meso:admin_1":"\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":22.166475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Rajon Gussew"
     ],
@@ -108,9 +111,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"642",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Gusev",
@@ -132,7 +135,7 @@
     "wof:concordances":{
         "gp:id":12598329,
         "hasc:id":"RU.KN.GR",
-        "qs:id":1209276,
+        "qs_pg:id":1209276,
         "wd:id":"Q80295",
         "wk:page":"Gusevsky District"
     },
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":890480049,
-    "wof:lastmodified":1563262997,
+    "wof:lastmodified":1566630958,
     "wof:name":"Gusevskiy",
     "wof:parent_id":85688215,
     "wof:placetype":"county",

@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":66.653326,
     "lbl:longitude":66.332293,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"JAmalo-Neneckij avtonomnyj okrug",
     "meso:admin1r_en":"Ural'skij federal'nyj okrug",
     "meso:admin_1":"\u042f\u043c\u0430\u043b\u043e-\u041d\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
@@ -53,6 +55,7 @@
     "mps:longitude":66.332293,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0628\u064a\u062a\u0646\u0627\u0646\u063a\u064a"
     ],
@@ -156,7 +159,7 @@
         "\u62c9\u8c9d\u7279\u5357\u5409"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687931,
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":1108733645,
-    "wof:lastmodified":1564124376,
+    "wof:lastmodified":1566626904,
     "wof:name":"Labytnangi",
     "wof:parent_id":85687931,
     "wof:placetype":"county",

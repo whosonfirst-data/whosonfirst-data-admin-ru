@@ -11,11 +11,15 @@
     "geom:longitude":37.91667,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":3000,
+    "gn:population":3000,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"37.89667,56.01333,37.93667,56.05333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Kostino"
     ],
@@ -205,9 +209,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0456\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u043e\u0441\u0442\u0438\u043d\u043e"
-    ],
     "name:vec_x_preferred":[
         "Kostino"
     ],
@@ -249,7 +250,7 @@
     "wof:concordances":{
         "gn:id":543948,
         "gp:id":2026928,
-        "qs:id":367766,
+        "qs_pg:id":367766,
         "wd:id":"Q16461009",
         "wk:page":"Kostino"
     },
@@ -267,7 +268,7 @@
         }
     ],
     "wof:id":890481395,
-    "wof:lastmodified":1563262665,
+    "wof:lastmodified":1566630812,
     "wof:name":"Kostino",
     "wof:parent_id":890481935,
     "wof:placetype":"locality",

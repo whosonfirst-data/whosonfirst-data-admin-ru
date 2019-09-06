@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":55.099167,
     "lbl:longitude":96.048366,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Krasnojarskij kraj",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":96.048366,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Irbeyskiy Rayon"
     ],
@@ -90,9 +93,6 @@
     "name:srp_x_preferred":[
         "\u0418\u0440\u0431\u0435\u0458\u0441\u043a\u0438 \u0440\u0435\u0458\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0418\u0440\u0431\u0435\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Irbeysky"
     ],
@@ -100,7 +100,7 @@
         "\u4f0a\u723e\u5225\u4f0a\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688139,
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":1108734009,
-    "wof:lastmodified":1563256757,
+    "wof:lastmodified":1566627018,
     "wof:name":"Irbejskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

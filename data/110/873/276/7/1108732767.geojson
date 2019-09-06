@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":55.356442,
     "lbl:longitude":60.654943,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"CHeljabinskaja oblast'",
     "meso:admin1r_en":"Ural'skij federal'nyj okrug",
     "meso:admin_1":"\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":60.654943,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bak_x_preferred":[
         "\u0410\u0440\u0493\u0430\u044f\u0448 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
@@ -96,9 +99,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0433\u0430\u044f\u0448\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0410\u0440\u0433\u0430\u044f\u0448\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Argayashsky"
     ],
@@ -106,9 +106,9 @@
         "\u963f\u723e\u52a0\u4e9e\u4ec0\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2780",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Argayash",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":1108732767,
-    "wof:lastmodified":1563257076,
+    "wof:lastmodified":1566627208,
     "wof:name":"Argajashskiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

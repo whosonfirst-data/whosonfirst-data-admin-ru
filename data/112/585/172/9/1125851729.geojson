@@ -9,15 +9,18 @@
     "geom:bbox":"34.7905,52.4151,34.7905,52.4151",
     "geom:latitude":52.4151,
     "geom:longitude":34.7905,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7090,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":7090,
     "iso:country":"RU",
+    "lbl:bbox":"34.7705,52.3951,34.8105,52.4351",
     "lbl:latitude":52.4151,
     "lbl:longitude":34.7905,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Komarichi"
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u043c\u0430\u0440\u0438\u0447\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Komaritschi"
     ],
     "qs_pg:aaroncc":"RU",
@@ -48,7 +51,7 @@
     "qs_pg:woe_adm0":23424936,
     "qs_pg:woe_id":2027553,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424936,
     "woe:name_adm0":"Russia",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1125851729,
-    "wof:lastmodified":1509395965,
+    "wof:lastmodified":1566631031,
     "wof:name":"Kozarichi",
     "wof:parent_id":1108734551,
     "wof:placetype":"locality",

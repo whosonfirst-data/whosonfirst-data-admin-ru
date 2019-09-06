@@ -11,11 +11,15 @@
     "geom:longitude":91.39444,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":9011,
+    "gn:population":9011,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"91.37444,52.81556,91.41444,52.85556",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u0427\u0435\u0440\u0451\u043c\u0443\u0448\u043a\u0438"
     ],
@@ -43,9 +47,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u044c\u043e\u043c\u0443\u0448\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "\u0427\u0435\u0440\u0451\u043c\u0443\u0448\u043a\u0438"
-    ],
     "qs:name":"Cheremushki",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Khakassia Republic",
@@ -66,7 +67,7 @@
     "wof:concordances":{
         "gn:id":1508177,
         "gp:id":56452421,
-        "qs:id":133038,
+        "qs_pg:id":133038,
         "wk:page":"Cheryomushki"
     },
     "wof:country":"RU",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":890482505,
-    "wof:lastmodified":1564128969,
+    "wof:lastmodified":1566630574,
     "wof:name":"Cheremushki",
     "wof:parent_id":1108736621,
     "wof:placetype":"locality",

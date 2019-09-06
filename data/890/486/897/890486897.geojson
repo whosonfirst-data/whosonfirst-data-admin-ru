@@ -11,11 +11,15 @@
     "geom:longitude":37.38333,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"37.36333,56.04667,37.40333,56.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ozeretskoye"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:rus_x_variant":[
         "\u041e\u0437\u0435\u0440\u0435\u0442\u0441\u043a\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Ozeretskoye"
     ],
     "qs:name":"Ozerskoe",
     "qs:name_adm0":"Russia",
@@ -50,7 +51,7 @@
     "wof:concordances":{
         "gn:id":513588,
         "gp:id":55874930,
-        "qs:id":905274
+        "qs_pg:id":905274
     },
     "wof:country":"RU",
     "wof:created":1469054643,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":890486897,
-    "wof:lastmodified":1505343775,
+    "wof:lastmodified":1566630884,
     "wof:name":"Ozerskoe",
     "wof:parent_id":890485971,
     "wof:placetype":"locality",

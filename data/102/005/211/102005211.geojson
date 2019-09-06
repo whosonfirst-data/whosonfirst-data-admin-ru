@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003047,
-    "geom:area_square_m":23236162.668845,
+    "geom:area_square_m":23236162.668846,
     "geom:bbox":"37.5295829773,51.8973350525,37.7235565186,51.9452514648",
     "geom:latitude":51.924667,
     "geom:longitude":37.626198,
     "iso:country":"RU",
     "lbl:latitude":51.929973,
     "lbl:longitude":37.651913,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.929973,
     "mps:longitude":37.651913,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nizhne-Gurovo"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u041d\u0438\u0436\u043d\u0435\u0435-\u0413\u0443\u0440\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nizhne-Gurovskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688011,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102005211,
-    "wof:lastmodified":1501214594,
+    "wof:lastmodified":1566615620,
     "wof:name":"Nizhne-Gurovo",
     "wof:parent_id":1108736753,
     "wof:placetype":"locality",

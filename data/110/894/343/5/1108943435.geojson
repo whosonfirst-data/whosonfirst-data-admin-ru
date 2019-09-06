@@ -10,8 +10,10 @@
     "geom:latitude":59.923402,
     "geom:longitude":30.285017,
     "iso:country":"RU",
+    "lbl:bbox":"30.2800167994,59.9184021248,30.2900167994,59.9284021248",
     "lbl:latitude":59.923402,
     "lbl:longitude":30.285017,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -219,7 +221,7 @@
     "name:zho_x_preferred":[
         "\u79d1\u6d1b\u59c6\u7eb3"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85688069,
         102191581,
@@ -243,7 +245,7 @@
         }
     ],
     "wof:id":1108943435,
-    "wof:lastmodified":1564124669,
+    "wof:lastmodified":1566627432,
     "wof:name":"Kolomna",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

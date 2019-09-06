@@ -9,18 +9,21 @@
     "geom:bbox":"35.983001709,53.4222793579,36.0377502441,53.4749984741",
     "geom:latitude":53.448851,
     "geom:longitude":36.01164,
-    "geonames:id":"575365,575364",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":11904,
+    "gn:id":"575365,575364",
+    "gn:population":11904,
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:latitude":53.449933,
     "lbl:longitude":36.004797,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.449933,
     "mps:longitude":36.004797,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u062e\u0648\u0641"
     ],
@@ -135,9 +138,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043b\u0445\u043e\u0432"
     ],
-    "name:unk_x_variant":[
-        "\u0411\u043e\u043b\u0445\u043e\u0432"
-    ],
     "name:war_x_preferred":[
         "Bolkhov"
     ],
@@ -172,7 +172,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.45,
     "wd:longitude":36.0,
@@ -188,7 +188,7 @@
     "wof:concordances":{
         "gn:id":575364,
         "gp:id":2120357,
-        "qs:id":1234007,
+        "qs_pg:id":1234007,
         "wd:id":"Q105323",
         "wk:page":"Bolkhov"
     },
@@ -205,7 +205,7 @@
         }
     ],
     "wof:id":102004321,
-    "wof:lastmodified":1563241329,
+    "wof:lastmodified":1566615611,
     "wof:name":"Bolkhov",
     "wof:parent_id":1108733089,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":46.240019,
     "gn:country":"RU",
     "gn:fcode":"ADM2",
-    "gn:pop":50680,
+    "gn:population":50680,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
         "Botlikhskiy District"
@@ -33,6 +33,8 @@
     ],
     "lbl:latitude":42.728916,
     "lbl:longitude":46.264717,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Dagestan",
     "meso:admin1r_en":"Severo-Kavkazskij federal'nyj okrug",
     "meso:admin_1":"\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d",
@@ -56,6 +58,7 @@
     "mps:longitude":46.264717,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ava_x_preferred":[
         "\u0411\u043e\u043b\u044a\u0438\u0445\u044a \u043c\u0443\u0445\u044a"
     ],
@@ -126,12 +129,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0442\u043b\u0456\u0445\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0411\u043e\u0442\u043b\u0438\u0445\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Botlikhskiy Rayon"
-    ],
     "name:vie_x_preferred":[
         "Botlikhsky"
     ],
@@ -149,9 +146,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"662",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Botlikh",
@@ -172,7 +169,7 @@
     "wof:concordances":{
         "gn:id":571887,
         "hasc:id":"RU.DA.BO",
-        "qs:id":549960,
+        "qs_pg:id":549960,
         "wd:id":"Q1439001"
     },
     "wof:country":"RU",
@@ -188,7 +185,7 @@
         }
     ],
     "wof:id":890487947,
-    "wof:lastmodified":1563262899,
+    "wof:lastmodified":1566630915,
     "wof:name":"Botlikhskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

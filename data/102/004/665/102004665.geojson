@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000437,
-    "geom:area_square_m":3269310.258289,
+    "geom:area_square_m":3269310.258291,
     "geom:bbox":"44.2531852722,52.7898406982,44.2841758728,52.8118743896",
     "geom:latitude":52.799702,
     "geom:longitude":44.268489,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.799066,
     "lbl:longitude":44.269743,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.799066,
     "mps:longitude":44.269743,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Koltovskoye"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687999,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102004665,
-    "wof:lastmodified":1501214676,
+    "wof:lastmodified":1566615604,
     "wof:name":"Koltovskoye",
     "wof:parent_id":1108734547,
     "wof:placetype":"locality",

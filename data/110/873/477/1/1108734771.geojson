@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":56.56259,
     "lbl:longitude":55.141545,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Permskij kraj",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":55.141545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bak_x_preferred":[
         "\u041a\u04e9\u0439\u04d9\u0499\u0435 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
@@ -90,9 +93,6 @@
     "name:tat_x_variant":[
         "\u041a\u04e9\u044f\u0437\u0435 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
-    "name:und_x_variant":[
-        "\u041a\u0443\u0435\u0434\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Kuedinsky"
     ],
@@ -100,9 +100,9 @@
         "\u5eab\u8036\u91d1\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2698",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Kueda",
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":1108734771,
-    "wof:lastmodified":1563256629,
+    "wof:lastmodified":1566626941,
     "wof:name":"Kuedinskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

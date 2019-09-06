@@ -10,8 +10,10 @@
     "geom:latitude":55.770968,
     "geom:longitude":37.606701,
     "iso:country":"RU",
+    "lbl:bbox":"37.6017008961,55.7659683881,37.6117008961,55.7759683881",
     "lbl:latitude":55.770968,
     "lbl:longitude":37.606701,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,14 +26,14 @@
     "name:rus_x_preferred":[
         "\u0422\u0432\u0435\u0440\u0441\u043a\u043e\u0301\u0439"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688085,
         102191581,
         85632685,
         102003033,
         874393555,
-        1108736095
+        1108736095,
+        85688085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1108942685,
-    "wof:lastmodified":1500066516,
+    "wof:lastmodified":1566627407,
     "wof:name":"Tverskoy",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

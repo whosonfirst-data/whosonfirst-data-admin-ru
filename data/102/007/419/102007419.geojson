@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000371,
-    "geom:area_square_m":3144121.4848,
+    "geom:area_square_m":3144121.484799,
     "geom:bbox":"38.5938606262,46.6881103516,38.625667572,46.7139167786",
     "geom:latitude":46.70159,
     "geom:longitude":38.609618,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":46.70055,
     "lbl:longitude":38.609377,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.70055,
     "mps:longitude":38.609377,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0415\u0439\u0441\u043a\u043e\u0435 \u0423\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u0435"
     ],
@@ -40,18 +43,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688029
+        85688029,
+        1108736563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":466873,
         "gp:id":55875554,
-        "qs:id":80416,
         "qs_pg:id":80416
     },
     "wof:country":"RU",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":102007419,
-    "wof:lastmodified":1505338927,
+    "wof:lastmodified":1566615180,
     "wof:name":"Yeyskoye Ukrepleniye",
     "wof:parent_id":1108736563,
     "wof:placetype":"locality",

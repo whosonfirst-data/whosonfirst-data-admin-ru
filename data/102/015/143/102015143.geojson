@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.096228,
     "lbl:longitude":128.059545,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.096228,
     "mps:longitude":128.059545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Tambowka"
     ],
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":163,
     "wof:belongsto":[
@@ -66,7 +69,6 @@
     "wof:concordances":{
         "gn:id":2015608,
         "gp:id":2123829,
-        "qs:id":277775,
         "qs_pg:id":277775
     },
     "wof:country":"RU",
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":102015143,
-    "wof:lastmodified":1527636464,
+    "wof:lastmodified":1566614949,
     "wof:name":"Tambovka",
     "wof:parent_id":890480829,
     "wof:placetype":"locality",

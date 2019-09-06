@@ -11,11 +11,14 @@
     "geom:longitude":37.16778,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"37.16278,55.4175,37.17278,55.4275",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ita_x_preferred":[
         "Kon'kovo"
     ],
@@ -27,9 +30,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u044c\u043a\u043e\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
-        "\u041a\u043e\u043d\u0430\u043a\u043e\u0432\u043e"
     ],
     "qs:name":"Konkovo",
     "qs:name_adm0":"Russia",
@@ -56,7 +56,7 @@
     "wof:concordances":{
         "gn:id":818209,
         "gp:id":55875481,
-        "qs:id":1117076,
+        "qs_pg:id":1117076,
         "wk:page":"Konkovo"
     },
     "wof:country":"RU",
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":890482173,
-    "wof:lastmodified":1564128984,
+    "wof:lastmodified":1566630589,
     "wof:name":"Konkovo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

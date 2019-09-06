@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00019,
-    "geom:area_square_m":1130329.008488,
+    "geom:area_square_m":1130329.008489,
     "geom:bbox":"71.2688903809,61.2983360291,71.3003921509,61.3149185181",
     "geom:latitude":61.306941,
     "geom:longitude":71.284067,
     "iso:country":"RU",
     "lbl:latitude":61.307277,
     "lbl:longitude":71.284066,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.307277,
     "mps:longitude":71.284066,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sytomino"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u0421\u044b\u0442\u043e\u043c\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novoye Sytomino"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687919,
         102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102002223,
-    "wof:lastmodified":1501220002,
+    "wof:lastmodified":1566615699,
     "wof:name":"Sytomino",
     "wof:parent_id":890480111,
     "wof:placetype":"locality",

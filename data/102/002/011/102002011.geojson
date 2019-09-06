@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":62.577385,
     "lbl:longitude":50.85,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":62.577385,
     "mps:longitude":50.85,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u064a\u064a\u0645\u0641\u0627"
     ],
@@ -131,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u0404\u043c\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zheleznodorozhnyy"
     ],
     "name:vep_x_preferred":[
@@ -162,7 +165,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":62.583333,
     "wd:longitude":50.85,
@@ -178,7 +181,7 @@
     "wof:concordances":{
         "gn:id":467525,
         "gp:id":2122021,
-        "qs:id":1305737,
+        "qs_pg:id":1305737,
         "wd:id":"Q135675",
         "wk:page":"Yemva"
     },
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":102002011,
-    "wof:lastmodified":1563241582,
+    "wof:lastmodified":1566615699,
     "wof:name":"Yemva",
     "wof:parent_id":1108734503,
     "wof:placetype":"locality",

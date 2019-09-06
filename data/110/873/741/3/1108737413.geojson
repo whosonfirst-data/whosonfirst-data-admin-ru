@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":57.20427,
     "lbl:longitude":41.91687,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Ivanovskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":41.91687,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u062a\u0634\u0648\u063a\u0627"
     ],
@@ -158,9 +161,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0447\u0443\u0433\u0430"
     ],
-    "name:und_x_variant":[
-        "\u0412\u0438\u0447\u0443\u0433\u0430"
-    ],
     "name:vie_x_preferred":[
         "Vichuga"
     ],
@@ -171,9 +171,9 @@
         "\u7dad\u4e18\u52a0"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"35",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Vichuga",
@@ -205,7 +205,7 @@
         }
     ],
     "wof:id":1108737413,
-    "wof:lastmodified":1564124476,
+    "wof:lastmodified":1566627108,
     "wof:name":"Vichuga",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

@@ -11,8 +11,12 @@
     "geom:longitude":47.890949,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"47.870949,56.615141,47.910949,56.655141",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Josjkar-Ola"
     ],
@@ -250,7 +254,7 @@
     "name:ukr_x_preferred":[
         "\u0419\u043e\u0448\u043a\u0430\u0440-\u041e\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ioshkar Ola"
     ],
     "name:urd_x_preferred":[
@@ -304,10 +308,12 @@
     "wof:concordances":{
         "gn:id":466806,
         "gp:id":2113904,
-        "qs:id":960725,
         "qs_pg:id":887092,
         "wd:id":"Q5449",
         "wk:page":"Yoshkar-Ola"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":960725
     },
     "wof:country":"RU",
     "wof:created":1469054655,
@@ -323,7 +329,7 @@
         }
     ],
     "wof:id":890487103,
-    "wof:lastmodified":1563262844,
+    "wof:lastmodified":1566630892,
     "wof:name":"Yoshkar-Ola",
     "wof:parent_id":1108734121,
     "wof:placetype":"locality",

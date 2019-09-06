@@ -11,10 +11,14 @@
     "geom:longitude":33.25314,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":12014,
+    "gn:population":12014,
     "iso:country":"RU",
+    "lbl:bbox":"33.23314,69.17333,33.27314,69.21333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u0646\u062c\u0646\u0648\u063a\u0648\u0631\u0633\u0643"
     ],
@@ -129,7 +133,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043d\u0454\u0436\u043d\u043e\u0433\u043e\u0440\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Olenaya Guba Base"
     ],
     "name:vep_x_preferred":[
@@ -161,7 +165,7 @@
     "wof:concordances":{
         "gn:id":795243,
         "gp:id":2086091,
-        "qs:id":129696,
+        "qs_pg:id":129696,
         "wd:id":"Q196358",
         "wk:page":"Snezhnogorsk"
     },
@@ -179,7 +183,7 @@
         }
     ],
     "wof:id":890478879,
-    "wof:lastmodified":1563261913,
+    "wof:lastmodified":1566630504,
     "wof:name":"Snezhnogorsk",
     "wof:parent_id":1108737905,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000655,
-    "geom:area_square_m":4404294.008447,
+    "geom:area_square_m":4404294.008449,
     "geom:bbox":"60.8617515564,57.036693573,60.9008598328,57.0667228699",
     "geom:latitude":57.050362,
     "geom:longitude":60.881996,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.050762,
     "lbl:longitude":60.880663,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.050762,
     "mps:longitude":60.880663,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Monetnyy"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041c\u043e\u043d\u0435\u0442\u043d\u044b\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Monetnaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +52,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688183
+        85688183,
+        1108732979
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1498456,
         "gp:id":2122243,
-        "qs:id":190256,
         "qs_pg:id":190256
     },
     "wof:country":"RU",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102011827,
-    "wof:lastmodified":1505338938,
+    "wof:lastmodified":1566615384,
     "wof:name":"Monetnyy",
     "wof:parent_id":1108732979,
     "wof:placetype":"locality",

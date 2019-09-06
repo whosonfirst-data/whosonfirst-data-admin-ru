@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.372854,
     "lbl:longitude":129.109397,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.372854,
     "mps:longitude":129.109397,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Yekaterinoslavka"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u043e\u0441\u043b\u0430\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kaganovich"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":104,
     "wof:belongsto":[
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":2013032,
         "gp:id":2124467,
-        "qs:id":137385,
         "qs_pg:id":137385,
         "wd:id":"Q8051371"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":102015115,
-    "wof:lastmodified":1527636467,
+    "wof:lastmodified":1566614974,
     "wof:name":"Yekaterinoslavka",
     "wof:parent_id":1108735617,
     "wof:placetype":"locality",

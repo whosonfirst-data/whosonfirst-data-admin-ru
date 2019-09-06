@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001169,
-    "geom:area_square_m":7980305.921519,
+    "geom:area_square_m":7980305.921521,
     "geom:bbox":"67.626335144,56.4588890076,67.6922225952,56.4911384583",
     "geom:latitude":56.476188,
     "geom:longitude":67.662085,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.471916,
     "lbl:longitude":67.668075,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.471916,
     "mps:longitude":67.668075,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Omutinskiy"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_variant":[
         "\u041e\u043c\u0443\u0442\u0438\u043d\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Omutinsnoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":42,
     "wof:belongsto":[
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":1496142,
         "gp:id":2122642,
-        "qs:id":85114,
         "qs_pg:id":85114
     },
     "wof:country":"RU",
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":102011975,
-    "wof:lastmodified":1527637593,
+    "wof:lastmodified":1566615423,
     "wof:name":"Omutinskiy",
     "wof:parent_id":1108735679,
     "wof:placetype":"locality",

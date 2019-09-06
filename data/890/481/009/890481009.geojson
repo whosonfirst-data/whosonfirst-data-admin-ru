@@ -11,11 +11,15 @@
     "geom:longitude":30.97727,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":1032,
+    "gn:population":1032,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"30.95727,60.06936,30.99727,60.10936",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Borisova Griva"
     ],
@@ -23,9 +27,6 @@
         "Borisova Griva"
     ],
     "name:rus_x_preferred":[
-        "\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u0430 \u0413\u0440\u0438\u0432\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u0430 \u0413\u0440\u0438\u0432\u0430"
     ],
     "qs:name":"Borisova Griva",
@@ -49,7 +50,7 @@
     "wof:concordances":{
         "gn:id":572506,
         "gp:id":2120377,
-        "qs:id":329190
+        "qs_pg:id":329190
     },
     "wof:country":"RU",
     "wof:created":1469054337,
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":890481009,
-    "wof:lastmodified":1505343745,
+    "wof:lastmodified":1566630798,
     "wof:name":"Borisova Griva",
     "wof:parent_id":890480071,
     "wof:placetype":"locality",

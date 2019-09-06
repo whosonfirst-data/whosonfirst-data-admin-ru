@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":46.623141,
     "lbl:longitude":39.567512,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Krasnodarskij kraj",
     "meso:admin1r_en":"JUzhnyj federal'nyj okrug",
     "meso:admin_1":"\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":39.567512,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041a\u0443\u0448\u0447\u043e\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -99,9 +102,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0449\u0435\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041a\u0443\u0449\u0451\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Kushchevsky"
     ],
@@ -109,7 +109,7 @@
         "\u5eab\u66c9\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688029,
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1108734841,
-    "wof:lastmodified":1563256636,
+    "wof:lastmodified":1566626944,
     "wof:name":"Kushhjovskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

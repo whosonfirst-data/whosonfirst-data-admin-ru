@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":50.939449,
     "lbl:longitude":86.813018,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Gorno-Altay",
     "meso:name_alt2":"Altaj",
     "meso:name_local":"\u0410\u043b\u0442\u0430\u0439",
@@ -329,10 +330,6 @@
         "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0410\u043b\u0442\u0430\u0439"
     ],
     "name:und_x_variant":[
-        "Altaj",
-        "Gorno-Altay"
-    ],
-    "name:unk_x_variant":[
         "Oyrotskaya Avtonomnaya Oblast\u2019"
     ],
     "name:urd_x_preferred":[
@@ -434,9 +431,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"92,600",
     "statoids:area_mi":"35,800",
     "statoids:as_of_date":"2010-10-14",
@@ -499,11 +496,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734439,
+    "wof:lastmodified":1566618575,
     "wof:name":"Gorno-Altay",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":206168,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ru",

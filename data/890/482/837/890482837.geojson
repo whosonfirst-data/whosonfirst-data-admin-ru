@@ -11,11 +11,14 @@
     "geom:longitude":30.5,
     "gn:country":"RU",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"30.495,59.87833,30.505,59.88833",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Neva",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Saint Petersburg Federal City",
@@ -29,17 +32,17 @@
     "qs:pop_sr":"0",
     "src:population":"geonames",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":522423,
         "gp:id":2050865,
-        "qs:id":446634
+        "qs_pg:id":446634
     },
     "wof:country":"RU",
     "wof:created":1469054437,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890482837,
-    "wof:lastmodified":1510870349,
+    "wof:lastmodified":1566630611,
     "wof:name":"Neva",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

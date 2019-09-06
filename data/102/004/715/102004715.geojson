@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.667592,
     "lbl:longitude":34.379769,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.667592,
     "mps:longitude":34.379769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Altukhovo"
     ],
@@ -31,7 +34,7 @@
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0440\u043e\u043f\u044e\u043d\u0438\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Altukhova"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -50,7 +53,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":47,
     "wof:belongsto":[
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":582358,
         "gp:id":1982281,
-        "qs:id":345600
+        "qs_pg:id":345600
     },
     "wof:country":"RU",
     "wof:geomhash":"fcb0533fca8e3d19eca6b3ab78229b9f",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":102004715,
-    "wof:lastmodified":1564109268,
+    "wof:lastmodified":1566615587,
     "wof:name":"Krapivnya",
     "wof:parent_id":1108735315,
     "wof:placetype":"locality",

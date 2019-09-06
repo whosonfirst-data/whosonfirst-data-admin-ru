@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000502,
-    "geom:area_square_m":3887821.755536,
+    "geom:area_square_m":3887821.755538,
     "geom:bbox":"38.8932762146,51.1744728088,38.938331604,51.1943893433",
     "geom:latitude":51.184459,
     "geom:longitude":38.914609,
     "iso:country":"RU",
     "lbl:latitude":51.183803,
     "lbl:longitude":38.914609,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.183803,
     "mps:longitude":38.914609,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Platava"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u041f\u043b\u0430\u0442\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Platova"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688051,
         102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102005893,
-    "wof:lastmodified":1501214548,
+    "wof:lastmodified":1566615629,
     "wof:name":"Platava",
     "wof:parent_id":1108736281,
     "wof:placetype":"locality",

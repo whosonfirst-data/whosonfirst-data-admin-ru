@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000476,
-    "geom:area_square_m":3591178.856598,
+    "geom:area_square_m":3591178.856596,
     "geom:bbox":"80.1236724854,52.3627548218,80.1475372314,52.393409729",
     "geom:latitude":52.377768,
     "geom:longitude":80.136574,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":52.372187,
     "lbl:longitude":80.13754,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.372187,
     "mps:longitude":80.13754,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0440\u043e\u0441\u0441\u0438\u0439\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novo-Rossiyskiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +43,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687835,
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":102013631,
-    "wof:lastmodified":1501220027,
+    "wof:lastmodified":1566615079,
     "wof:name":"Novorossiyka",
     "wof:parent_id":1108736295,
     "wof:placetype":"locality",

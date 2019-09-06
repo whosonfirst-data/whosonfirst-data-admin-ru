@@ -9,17 +9,20 @@
     "geom:bbox":"41.8644332886,54.3275337219,41.9590034485,54.368938446",
     "geom:latitude":54.350209,
     "geom:longitude":41.912482,
-    "geonames:id":"461699,694774",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":29858,
+    "gn:id":"461699,694774",
+    "gn:population":29858,
     "iso:country":"RU",
     "lbl:latitude":54.34153,
     "lbl:longitude":41.904601,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":54.34153,
     "mps:longitude":41.904601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0633\u0648\u0641\u0648"
     ],
@@ -116,9 +119,6 @@
     "name:tur_x_preferred":[
         "Sasovo"
     ],
-    "name:unk_x_variant":[
-        "Sasowo"
-    ],
     "name:vie_x_preferred":[
         "Sasovo"
     ],
@@ -147,7 +147,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":47,
     "wof:belongsto":[
@@ -161,7 +161,7 @@
     "wof:concordances":{
         "gn:id":461699,
         "gp:id":2123285,
-        "qs:id":206830,
+        "qs_pg:id":206830,
         "wd:id":"Q193557",
         "wk:page":"Sasovo"
     },
@@ -181,7 +181,7 @@
         }
     ],
     "wof:id":102003853,
-    "wof:lastmodified":1563241187,
+    "wof:lastmodified":1566615555,
     "wof:name":"Sasovo",
     "wof:parent_id":1108736401,
     "wof:placetype":"locality",

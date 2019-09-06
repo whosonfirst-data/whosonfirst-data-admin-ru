@@ -11,11 +11,15 @@
     "geom:longitude":42.1856,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":3889,
+    "gn:population":3889,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"42.1656,47.4755,42.2056,47.5155",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Krasnoyarskaya"
     ],
@@ -37,9 +41,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0430\u044f"
-    ],
     "qs:name":"Krasnoyarskaya",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Rostov Oblast",
@@ -60,7 +61,7 @@
     "wof:concordances":{
         "gn:id":795140,
         "gp:id":2029044,
-        "qs:id":442745,
+        "qs_pg:id":442745,
         "wk:page":"Krasnoyarsky"
     },
     "wof:country":"RU",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":890482287,
-    "wof:lastmodified":1564128975,
+    "wof:lastmodified":1566630579,
     "wof:name":"Krasnoyarskaya",
     "wof:parent_id":1108737587,
     "wof:placetype":"locality",

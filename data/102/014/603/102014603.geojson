@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.05061,
     "lbl:longitude":106.649484,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.05061,
     "mps:longitude":106.649484,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u0431\u0430\u043d\u0441\u043a"
     ],
@@ -55,9 +58,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0431\u0430\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0430\u0431\u0430\u043d\u0441\u043a"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0443\u0440\u044f\u0442\u0438\u044f",
     "qs:a1_lc":"0300900000100",
@@ -76,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688207,
@@ -89,7 +89,6 @@
     "wof:concordances":{
         "gn:id":2023350,
         "gp:id":2014393,
-        "qs:id":137560,
         "qs_pg:id":137560
     },
     "wof:country":"RU",
@@ -105,7 +104,7 @@
         }
     ],
     "wof:id":102014603,
-    "wof:lastmodified":1564108756,
+    "wof:lastmodified":1566615105,
     "wof:name":"Kabansk",
     "wof:parent_id":890487025,
     "wof:placetype":"locality",

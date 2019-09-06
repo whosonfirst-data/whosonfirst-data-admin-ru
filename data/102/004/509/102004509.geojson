@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000848,
-    "geom:area_square_m":6308440.565641,
+    "geom:area_square_m":6308440.565643,
     "geom:bbox":"40.5889434814,53.0123596191,40.6289176941,53.0600814819",
     "geom:latitude":53.037001,
     "geom:longitude":40.604581,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.036269,
     "lbl:longitude":40.598213,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.036269,
     "mps:longitude":40.598213,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Krasivoye"
     ],
@@ -25,9 +28,6 @@
         "Krasivoje"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0440\u0430\u0441\u0438\u0432\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0440\u0430\u0441\u0438\u0432\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687829,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102004509,
-    "wof:lastmodified":1501214667,
+    "wof:lastmodified":1566615593,
     "wof:name":"Krasivoye",
     "wof:parent_id":1108735127,
     "wof:placetype":"locality",

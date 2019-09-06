@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.887922,
     "lbl:longitude":40.588282,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":44.887922,
     "mps:longitude":40.588282,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u063a\u0627\u0646\u0646\u0633\u0643"
     ],
@@ -118,7 +121,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0440\u0433\u0430\u043d\u0438\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kurgannaya"
     ],
     "name:vep_x_preferred":[
@@ -151,7 +154,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":44.883333,
     "wd:longitude":40.6,
@@ -166,7 +169,6 @@
     "wof:concordances":{
         "gn:id":538836,
         "gp:id":2121775,
-        "qs:id":347291,
         "qs_pg:id":347291,
         "wd:id":"Q16982",
         "wk:page":"Kurganinsk"
@@ -182,7 +184,7 @@
         }
     ],
     "wof:id":102015671,
-    "wof:lastmodified":1563239793,
+    "wof:lastmodified":1566614962,
     "wof:name":"Kurganinsk",
     "wof:parent_id":1108734825,
     "wof:placetype":"locality",

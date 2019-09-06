@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.709084,
     "lbl:longitude":94.366594,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":51.709084,
     "mps:longitude":94.366594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Kizil"
     ],
@@ -278,7 +281,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.716667,
     "wd:longitude":94.45,
@@ -310,7 +313,7 @@
         }
     ],
     "wof:id":102014349,
-    "wof:lastmodified":1563240127,
+    "wof:lastmodified":1566615112,
     "wof:name":"Kyzyl",
     "wof:parent_id":890487223,
     "wof:placetype":"locality",

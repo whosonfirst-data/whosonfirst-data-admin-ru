@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":46.625068,
     "lbl:longitude":38.668736,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.625068,
     "mps:longitude":38.668736,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "Starosxerbin\u00f3vskaia"
     ],
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e\u0449\u0435\u0440\u0431\u0438\u043d\u0456\u0432\u0441\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Staro Schtscherbinowskaja"
     ],
     "name:zho_x_preferred":[
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":347,
     "wof:belongsto":[
@@ -92,7 +95,6 @@
     "wof:concordances":{
         "gn:id":488635,
         "gp:id":55874267,
-        "qs:id":124827,
         "qs_pg:id":124827,
         "wd:id":"Q541541",
         "wk:page":"Staroshcherbinovskaya"
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":102007437,
-    "wof:lastmodified":1563240223,
+    "wof:lastmodified":1566615160,
     "wof:name":"Staroshcherbinovskaya",
     "wof:parent_id":1108736563,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"44.0543670654,43.6132354736,44.088558197,43.6578483582",
     "geom:latitude":43.632918,
     "geom:longitude":44.070757,
-    "geonames:id":"528248,874042",
+    "gn:id":"528248,874042",
     "iso:country":"RU",
     "lbl:latitude":43.625633,
     "lbl:longitude":44.066224,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.625633,
     "mps:longitude":44.066224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u064a\u0627\u0633\u0643\u064a"
     ],
@@ -144,7 +147,7 @@
     "qs:type":"\u0440-\u043d",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":88,
     "wof:belongsto":[
         85688089,
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":102016279,
-    "wof:lastmodified":1563240916,
+    "wof:lastmodified":1566615451,
     "wof:name":"Mayskiy",
     "wof:parent_id":1108735015,
     "wof:placetype":"locality",

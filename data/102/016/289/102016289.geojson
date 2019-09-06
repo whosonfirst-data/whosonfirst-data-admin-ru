@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.58175,
     "lbl:longitude":43.765834,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":43.58175,
     "mps:longitude":43.765834,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0631\u062a \u0643\u0627\u0644\u0627"
     ],
@@ -136,7 +139,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688089,
@@ -149,7 +152,7 @@
     "wof:concordances":{
         "gn:id":523405,
         "gp:id":2120675,
-        "qs:id":125102,
+        "qs_pg:id":125102,
         "wd:id":"Q165682",
         "wk:page":"Nartkala"
     },
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":102016289,
-    "wof:lastmodified":1563240872,
+    "wof:lastmodified":1566615433,
     "wof:name":"Dokshukino",
     "wof:parent_id":1108737199,
     "wof:placetype":"locality",

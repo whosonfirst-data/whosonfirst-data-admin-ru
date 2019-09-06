@@ -11,11 +11,15 @@
     "geom:longitude":40.20972,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"40.18972,53.96,40.22972,54.0",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043b\u044e\u0447"
     ],
@@ -55,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043b\u044e\u0447"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u043b\u044e\u0447"
-    ],
     "qs:name":"Klyuch",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Ryazan Oblast",
@@ -78,7 +79,7 @@
     "wof:concordances":{
         "gn:id":547362,
         "gp:id":2022867,
-        "qs:id":367734,
+        "qs_pg:id":367734,
         "wk:page":"Klyuch"
     },
     "wof:country":"RU",
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":890481391,
-    "wof:lastmodified":1564129172,
+    "wof:lastmodified":1566630784,
     "wof:name":"Klyuch",
     "wof:parent_id":1108734583,
     "wof:placetype":"locality",

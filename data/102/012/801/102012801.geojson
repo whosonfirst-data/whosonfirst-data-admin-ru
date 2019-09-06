@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.64213,
     "lbl:longitude":88.183008,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.64213,
     "mps:longitude":88.183008,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Komsomolsk"
     ],
@@ -85,7 +88,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Komsomol\u2019sk"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +116,7 @@
     "qs:type":"\u043f\u0433\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":70,
     "wof:belongsto":[
         85688105,
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":102012801,
-    "wof:lastmodified":1564108663,
+    "wof:lastmodified":1566615023,
     "wof:name":"Komsomolsk",
     "wof:parent_id":1108737019,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000937,
-    "geom:area_square_m":6881171.129045,
+    "geom:area_square_m":6881171.129048,
     "geom:bbox":"126.879219055,53.5492515564,126.923858643,53.5912513733",
     "geom:latitude":53.572601,
     "geom:longitude":126.8987,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.573803,
     "lbl:longitude":126.897164,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.573803,
     "mps:longitude":126.897164,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Ovsyanka"
     ],
@@ -26,9 +29,6 @@
         "Ovsianka"
     ],
     "name:rus_x_preferred":[
-        "\u041e\u0432\u0441\u044f\u043d\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041e\u0432\u0441\u044f\u043d\u043a\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +49,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687951
+        85687951,
+        1108738019
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2018214,
         "gp:id":2122711,
-        "qs:id":570901,
         "qs_pg:id":570901
     },
     "wof:country":"RU",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":102015013,
-    "wof:lastmodified":1505338945,
+    "wof:lastmodified":1566614935,
     "wof:name":"Ovsyanka",
     "wof:parent_id":1108738019,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.65838,
     "lbl:longitude":59.556122,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.65838,
     "mps:longitude":59.556122,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u062e\u0646\u064a\u064a \u0633\u064a\u0631\u063a\u064a"
     ],
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":283,
     "wof:belongsto":[
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":475041,
         "gp:id":2124229,
-        "qs:id":1305975,
         "qs_pg:id":1305975,
         "wd:id":"Q2044976",
         "wk:page":"Verkhniye Sergi"
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":102008813,
-    "wof:lastmodified":1563240503,
+    "wof:lastmodified":1566615292,
     "wof:name":"Verkhniye Sergi",
     "wof:parent_id":1108735397,
     "wof:placetype":"locality",

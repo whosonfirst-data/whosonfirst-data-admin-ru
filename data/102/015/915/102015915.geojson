@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000106,
-    "geom:area_square_m":932592.372635,
+    "geom:area_square_m":932592.372637,
     "geom:bbox":"41.7858314514,44.4560012817,41.7956962585,44.4730262756",
     "geom:latitude":44.46519,
     "geom:longitude":41.790411,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":44.465278,
     "lbl:longitude":41.789918,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.465278,
     "mps:longitude":41.789918,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041a\u0438\u0435\u0432\u043e-\u0416\u0443\u0440\u0430\u043a\u043e\u0432\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kiyevo-Zhurakovskiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +43,7 @@
     "qs:type":"\u0445",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687913,
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":102015915,
-    "wof:lastmodified":1501214688,
+    "wof:lastmodified":1566614947,
     "wof:name":"Kio-Zhuravskiy",
     "wof:parent_id":1108732619,
     "wof:placetype":"locality",

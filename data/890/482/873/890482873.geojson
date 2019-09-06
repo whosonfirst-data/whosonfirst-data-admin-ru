@@ -11,18 +11,18 @@
     "geom:longitude":30.51894,
     "gn:country":"RU",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"30.51394,59.97752,30.52394,59.98752",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:fin_x_preferred":[
         "Orskoi"
     ],
     "name:rus_x_preferred":[
-        "\u0420\u0436\u0451\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0420\u0436\u0451\u0432\u043a\u0430"
     ],
     "qs:name":"Rzh\u00ebvka",
@@ -38,17 +38,17 @@
     "qs:pop_sr":"0",
     "src:population":"geonames",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":499709,
         "gp:id":2077067,
-        "qs:id":451374
+        "qs_pg:id":451374
     },
     "wof:country":"RU",
     "wof:created":1469054439,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":890482873,
-    "wof:lastmodified":1510870349,
+    "wof:lastmodified":1566630581,
     "wof:name":"Rzh\u00ebvka",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

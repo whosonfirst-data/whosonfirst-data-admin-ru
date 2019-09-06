@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":48.695599,
     "lbl:longitude":132.976969,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.695599,
     "mps:longitude":132.976969,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0412\u0430\u043b\u0434\u0433\u0435\u0439\u043c"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":48.694167,
     "wd:longitude":132.966944,
     "wd:wordcount":251,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":102015233,
-    "wof:lastmodified":1561831646,
+    "wof:lastmodified":1566614945,
     "wof:name":"Valdgeym",
     "wof:parent_id":890486057,
     "wof:placetype":"locality",

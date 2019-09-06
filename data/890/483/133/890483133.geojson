@@ -11,11 +11,15 @@
     "geom:longitude":83.62389,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":15241,
+    "gn:population":15241,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"83.60389,53.28972,83.64389,53.32972",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Novosilikatnyy"
     ],
@@ -24,9 +28,6 @@
     ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0438\u043b\u0438\u043a\u0430\u0442\u043d\u044b\u0439"
-    ],
-    "name:unk_x_variant":[
-        "Novosilikatnyy"
     ],
     "qs:name":"Novosilikatniy",
     "qs:name_adm0":"Russia",
@@ -47,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1496739,
         "gp:id":56452494,
-        "qs:id":544018
+        "qs_pg:id":544018
     },
     "wof:country":"RU",
     "wof:created":1469054451,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":890483133,
-    "wof:lastmodified":1505343757,
+    "wof:lastmodified":1566630625,
     "wof:name":"Novosilikatniy",
     "wof:parent_id":890484179,
     "wof:placetype":"locality",

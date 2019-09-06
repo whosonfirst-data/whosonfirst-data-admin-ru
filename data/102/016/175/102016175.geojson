@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000454,
-    "geom:area_square_m":4046723.363653,
+    "geom:area_square_m":4046723.363655,
     "geom:bbox":"44.2885017395,43.8493881226,44.3270263672,43.8755569458",
     "geom:latitude":43.86146,
     "geom:longitude":44.312911,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.8605,
     "lbl:longitude":44.316413,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.8605,
     "mps:longitude":44.316413,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Baltiyskiy"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u0442\u0438\u0439\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gokinayev"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687825,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102016175,
-    "wof:lastmodified":1501214801,
+    "wof:lastmodified":1566615444,
     "wof:name":"Baltrabochiy",
     "wof:parent_id":1108734835,
     "wof:placetype":"locality",

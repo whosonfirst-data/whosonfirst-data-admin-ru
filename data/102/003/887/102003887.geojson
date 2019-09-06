@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000407,
-    "geom:area_square_m":2939254.349974,
+    "geom:area_square_m":2939254.349975,
     "geom:bbox":"40.1051101685,54.2791938782,40.1391944885,54.296585083",
     "geom:latitude":54.287966,
     "geom:longitude":40.120794,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.287514,
     "lbl:longitude":40.120794,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.287514,
     "mps:longitude":40.120794,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ist'ye"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0418\u0441\u0442\u044c\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ist\u2019ya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -48,17 +51,17 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687963
+        85687963,
+        1108736807
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":555730,
         "gp:id":2013038,
-        "qs:id":354005,
         "qs_pg:id":354005
     },
     "wof:country":"RU",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102003887,
-    "wof:lastmodified":1497293841,
+    "wof:lastmodified":1566615525,
     "wof:name":"Ist'Ye",
     "wof:parent_id":1108736807,
     "wof:placetype":"locality",

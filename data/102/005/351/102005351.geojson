@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.775563,
     "lbl:longitude":39.663897,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.775563,
     "mps:longitude":39.663897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u041c\u0430\u043a\u0430\u0440\u044c\u0435"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u043a\u0430\u0440\u044c\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Makariy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688051,
         102191581,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102005351,
-    "wof:lastmodified":1561831725,
+    "wof:lastmodified":1566615640,
     "wof:name":"Makar'Ye",
     "wof:parent_id":890482733,
     "wof:placetype":"locality",

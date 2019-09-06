@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.857679,
     "lbl:longitude":41.323997,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.857679,
     "mps:longitude":41.323997,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Konokovo"
     ],
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u043e\u043a\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kanokovo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -82,7 +85,6 @@
     "wof:concordances":{
         "gn:id":545400,
         "gp:id":2121500,
-        "qs:id":549717,
         "qs_pg:id":549717,
         "wd:id":"Q4231056",
         "wk:page":"Konokovo, Krasnodar Krai"
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":102015685,
-    "wof:lastmodified":1563239791,
+    "wof:lastmodified":1566614961,
     "wof:name":"Konokovo",
     "wof:parent_id":1108737215,
     "wof:placetype":"locality",

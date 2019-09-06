@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":58.082044,
     "lbl:longitude":54.659539,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":58.082044,
     "mps:longitude":54.659539,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u064a\u0634\u062a\u0634\u0627\u063a\u064a\u0646\u0648"
     ],
@@ -107,7 +110,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0435\u0449\u0430\u0433\u0456\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bereshchagino"
     ],
     "name:vep_x_preferred":[
@@ -137,7 +140,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -149,7 +152,6 @@
     "wof:concordances":{
         "gn:id":475777,
         "gp:id":56452072,
-        "qs:id":124731,
         "qs_pg:id":124731,
         "wd:id":"Q132977",
         "wk:page":"Vereshchagino, Vereshchaginsky District, Perm Krai"
@@ -165,7 +167,7 @@
         }
     ],
     "wof:id":102008425,
-    "wof:lastmodified":1563240427,
+    "wof:lastmodified":1566615264,
     "wof:name":"Vereshchagino",
     "wof:parent_id":1108737329,
     "wof:placetype":"locality",

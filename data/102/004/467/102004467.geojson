@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000381,
-    "geom:area_square_m":2822807.302314,
+    "geom:area_square_m":2822807.302315,
     "geom:bbox":"44.4896087646,53.1593208313,44.5261154175,53.1760215759",
     "geom:latitude":53.167837,
     "geom:longitude":44.509782,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.167554,
     "lbl:longitude":44.509434,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.167554,
     "mps:longitude":44.509434,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yermolovka"
     ],
@@ -25,9 +28,6 @@
         "Jermolovka"
     ],
     "name:rus_x_preferred":[
-        "\u0415\u0440\u043c\u043e\u043b\u043e\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0415\u0440\u043c\u043e\u043b\u043e\u0432\u043a\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":25,
     "wof:belongsto":[
         85687999,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":102004467,
-    "wof:lastmodified":1527637845,
+    "wof:lastmodified":1566615601,
     "wof:name":"Yermolovka",
     "wof:parent_id":890484343,
     "wof:placetype":"locality",

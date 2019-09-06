@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000445,
-    "geom:area_square_m":3267943.316953,
+    "geom:area_square_m":3267943.316955,
     "geom:bbox":"42.6477622986,53.6004447937,42.6884727478,53.6187286377",
     "geom:latitude":53.609965,
     "geom:longitude":42.667102,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.611395,
     "lbl:longitude":42.665454,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":53.611395,
     "mps:longitude":42.665454,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Vyaz\u00ebmka"
     ],
@@ -27,9 +30,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0412\u044f\u0437\u0435\u043c\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Vyaz\u00ebmka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -47,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687999,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":102004261,
-    "wof:lastmodified":1505338921,
+    "wof:lastmodified":1566615580,
     "wof:name":"Vyazemka",
     "wof:parent_id":1108738039,
     "wof:placetype":"locality",

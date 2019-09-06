@@ -11,11 +11,15 @@
     "geom:longitude":49.47361,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"49.45361,53.46056,49.49361,53.50056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Komsomol'skiy"
     ],
@@ -30,9 +34,6 @@
         "Pos\u00eblok Komsomol\u2019skiy",
         "Komsomol\u2019sk-Na-Volge",
         "Tol\u2019yatti Komsomol\u2019skiy"
-    ],
-    "name:unk_x_variant":[
-        "Pos\u00eblok Komsomol\u2019skiy"
     ],
     "qs:name":"Komsomol'skij",
     "qs:name_adm0":"Russia",
@@ -57,7 +58,7 @@
     "wof:concordances":{
         "gn:id":545711,
         "gp:id":2024809,
-        "qs:id":945834
+        "qs_pg:id":945834
     },
     "wof:country":"RU",
     "wof:created":1469054461,
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":890483347,
-    "wof:lastmodified":1505343758,
+    "wof:lastmodified":1566630645,
     "wof:name":"Komsomol'skij",
     "wof:parent_id":1108737055,
     "wof:placetype":"locality",

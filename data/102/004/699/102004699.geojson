@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.691262,
     "lbl:longitude":35.75667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.691262,
     "mps:longitude":35.75667,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u0440\u043e\u043c\u044b"
     ],
@@ -52,9 +55,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u043e\u043c\u0438"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0440\u043e\u043c\u044b"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"5701200000100",
@@ -73,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":69,
     "wof:belongsto":[
@@ -86,7 +86,6 @@
     "wof:concordances":{
         "gn:id":540776,
         "gp:id":2121697,
-        "qs:id":125274,
         "qs_pg:id":125274,
         "wd:id":"Q137254"
     },
@@ -101,7 +100,7 @@
         }
     ],
     "wof:id":102004699,
-    "wof:lastmodified":1563241304,
+    "wof:lastmodified":1566615601,
     "wof:name":"Kromy",
     "wof:parent_id":1108734755,
     "wof:placetype":"locality",

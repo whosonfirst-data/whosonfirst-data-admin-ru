@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"33.94185,58.0197,33.98185,58.0597",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u0627\u0643\u0627\u064a\u0631\u0641\u0648"
     ],
@@ -48,10 +52,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u0430\u043a\u0438\u0440\u0435\u0432\u043e"
-    ],
-    "name:und_x_variant":[
-        "\u0411\u0430\u043b\u0430\u043a\u0438\u0440\u0435\u0432\u043e",
-        "Balakirevo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1293811619,
-    "wof:lastmodified":1564115556,
+    "wof:lastmodified":1566620761,
     "wof:name":"Balakirevo",
     "wof:parent_id":890486641,
     "wof:placetype":"locality",

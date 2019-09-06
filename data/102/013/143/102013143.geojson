@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.15828,
     "lbl:longitude":86.449574,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":54.15828,
     "mps:longitude":86.449574,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0430\u0431\u0440\u043e\u0434\u0441\u043a\u0456"
     ],
@@ -49,7 +52,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0431\u0440\u043e\u0434\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasnyy Brod"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.158056,
     "wd:longitude":86.442778,
@@ -85,7 +88,6 @@
     "wof:concordances":{
         "gn:id":1484871,
         "gp:id":2028715,
-        "qs:id":132754,
         "qs_pg:id":132754,
         "wd:id":"Q955328",
         "wk:page":"Krasnobrodsky"
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":102013143,
-    "wof:lastmodified":1563240007,
+    "wof:lastmodified":1566615055,
     "wof:name":"Krasnobrodskiy",
     "wof:parent_id":1108734679,
     "wof:placetype":"locality",

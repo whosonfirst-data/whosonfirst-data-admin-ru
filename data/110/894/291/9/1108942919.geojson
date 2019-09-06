@@ -11,10 +11,12 @@
     "geom:longitude":37.473342,
     "gn:country":"RU",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"RU",
+    "lbl:bbox":"37.4683418766,55.77282689,37.4783418766,55.78282689",
     "lbl:latitude":55.777827,
     "lbl:longitude":37.473342,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -60,13 +62,13 @@
     "name:sco_x_preferred":[
         "Khoroshevo-Mnevniki Destrict"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khorosh\u00ebvo"
     ],
     "name:zho_x_preferred":[
         "\u970d\u7f85\u7d39\u6c83-\u59c6\u5c3c\u5967\u592b\u5c3c\u57fa\u5340"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +82,7 @@
     "wof:concordances":{
         "gn:id":549479,
         "gp:id":55874981,
-        "qs:id":1206511,
+        "qs_pg:id":1206511,
         "wd:id":"Q630277",
         "wk:page":"Khoroshevo-Mnevniki District"
     },
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":1108942919,
-    "wof:lastmodified":1563257408,
+    "wof:lastmodified":1566627427,
     "wof:name":"Khoroshevo-Mnevniki",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000551,
-    "geom:area_square_m":4015141.04175,
+    "geom:area_square_m":4015141.041747,
     "geom:bbox":"41.7963256836,53.8709106445,41.8290481567,53.9052200317",
     "geom:latitude":53.887647,
     "geom:longitude":41.810245,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.884043,
     "lbl:longitude":41.811608,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.884043,
     "mps:longitude":41.811608,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Novocherneyevo"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0447\u0435\u0440\u043d\u0435\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novochernyayevo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687963,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102004095,
-    "wof:lastmodified":1501214587,
+    "wof:lastmodified":1566615602,
     "wof:name":"Novocherneyevo",
     "wof:parent_id":1108736491,
     "wof:placetype":"locality",

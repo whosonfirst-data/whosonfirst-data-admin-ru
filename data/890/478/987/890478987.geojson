@@ -11,11 +11,15 @@
     "geom:longitude":32.08045,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":2571,
+    "gn:population":2571,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"32.06045,57.29461,32.10045,57.33461",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Marevo"
     ],
@@ -58,9 +62,6 @@
     "name:swe_x_preferred":[
         "Marjovo"
     ],
-    "name:unk_x_variant":[
-        "\u041c\u0430\u0440\u0435\u0432\u043e"
-    ],
     "qs:name":"Marevo",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Novgorod Oblast",
@@ -83,7 +84,7 @@
     "wof:concordances":{
         "gn:id":529387,
         "gp:id":2122102,
-        "qs:id":125181,
+        "qs_pg:id":125181,
         "wd:id":"Q1973960",
         "wk:page":"Marevo"
     },
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":890478987,
-    "wof:lastmodified":1563261945,
+    "wof:lastmodified":1566630516,
     "wof:name":"Marevo",
     "wof:parent_id":1108735067,
     "wof:placetype":"locality",

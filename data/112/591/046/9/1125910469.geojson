@@ -9,15 +9,18 @@
     "geom:bbox":"36.0785,52.96508,36.0785,52.96508",
     "geom:latitude":52.96508,
     "geom:longitude":36.0785,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":324200,
+    "gn:country":"RU",
+    "gn:fcode":"PPLA",
     "gn:population":324200,
     "iso:country":"RU",
+    "lbl:bbox":"36.0585,52.94508,36.0985,52.98508",
     "lbl:latitude":52.96508,
     "lbl:longitude":36.0785,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Orjol"
@@ -277,9 +280,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0435\u043b"
     ],
-    "name:unk_x_variant":[
-        "Oriol"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0631\u06cc\u0648\u0644"
     ],
@@ -313,7 +313,7 @@
     "qs_pg:qs_id":1062229,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85687849,
@@ -342,7 +342,7 @@
         }
     ],
     "wof:id":1125910469,
-    "wof:lastmodified":1563263131,
+    "wof:lastmodified":1566631021,
     "wof:name":"Or\u00ebl",
     "wof:parent_id":1108735705,
     "wof:placetype":"locality",

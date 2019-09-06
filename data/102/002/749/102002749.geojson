@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.145726,
     "lbl:longitude":31.184367,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.145726,
     "mps:longitude":31.184367,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062e\u0648\u0644\u0645"
     ],
@@ -131,9 +134,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u043b\u043c"
     ],
-    "name:unk_x_variant":[
-        "Cholm"
-    ],
     "name:vep_x_preferred":[
         "Holm"
     ],
@@ -164,7 +164,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -176,7 +176,6 @@
     "wof:concordances":{
         "gn:id":549797,
         "gp:id":2020136,
-        "qs:id":549791,
         "qs_pg:id":549791,
         "wd:id":"Q197595",
         "wk:page":"Kholm, Kholmsky District, Novgorod Oblast"
@@ -192,7 +191,7 @@
         }
     ],
     "wof:id":102002749,
-    "wof:lastmodified":1563241528,
+    "wof:lastmodified":1566615685,
     "wof:name":"Kholm",
     "wof:parent_id":1108734377,
     "wof:placetype":"locality",

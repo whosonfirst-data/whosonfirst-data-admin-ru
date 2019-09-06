@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":42.696698,
     "lbl:longitude":47.163849,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Dagestan",
     "meso:admin1r_en":"Severo-Kavkazskij federal'nyj okrug",
     "meso:admin_1":"\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d",
@@ -53,6 +55,7 @@
     "mps:longitude":47.163849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ava_x_preferred":[
         "\u0428\u0443\u0440\u0430\u0433\u044c\u0438\u0431 \u043c\u0443\u0445\u044a"
     ],
@@ -111,9 +114,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0439\u043d\u0430\u043a\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0411\u0443\u0439\u043d\u0430\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Buynaksky"
     ],
@@ -124,7 +124,7 @@
         "\u5e03\u4f0a\u7d0d\u514b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688197,
@@ -148,7 +148,7 @@
         }
     ],
     "wof:id":1108733125,
-    "wof:lastmodified":1563256841,
+    "wof:lastmodified":1566627074,
     "wof:name":"Bujnakskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

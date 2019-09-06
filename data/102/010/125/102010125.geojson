@@ -5,28 +5,28 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000483,
-    "geom:area_square_m":3510686.518108,
+    "geom:area_square_m":3510686.518106,
     "geom:bbox":"58.7776947021,54.0062789917,58.805973053,54.0389175415",
     "geom:latitude":54.023222,
     "geom:longitude":58.792096,
-    "geonames:id":"526489,871690",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":2955,
+    "gn:id":"526489,871690",
+    "gn:population":2955,
     "iso:country":"RU",
     "lbl:latitude":54.024185,
     "lbl:longitude":58.792311,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.024185,
     "mps:longitude":58.792311,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:nor_x_preferred":[
         "Mindjak"
     ],
     "name:rus_x_preferred":[
-        "\u041c\u0438\u043d\u0434\u044f\u043a"
-    ],
-    "name:unk_x_variant":[
         "\u041c\u0438\u043d\u0434\u044f\u043a"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687801,
@@ -62,7 +62,7 @@
     "wof:concordances":{
         "gn:id":526489,
         "gp:id":2122206,
-        "qs:id":125140
+        "qs_pg:id":125140
     },
     "wof:country":"RU",
     "wof:geomhash":"784546f2e082a6187e5f18a463b58919",
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":102010125,
-    "wof:lastmodified":1505338934,
+    "wof:lastmodified":1566615513,
     "wof:name":"Mindyak",
     "wof:parent_id":1108737133,
     "wof:placetype":"locality",

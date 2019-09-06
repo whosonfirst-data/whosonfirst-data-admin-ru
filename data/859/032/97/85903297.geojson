@@ -15,6 +15,7 @@
     "iso:country":"RU",
     "lbl:latitude":55.656886,
     "lbl:longitude":37.69794,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.648146,
     "mps:longitude":37.694331,
     "mz:hierarchy_label":1,
@@ -36,9 +37,8 @@
     "name:rus_x_preferred":[
         "\u041a\u0443\u0440\u044c\u044f\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Kur\u2019yanova",
-        "Kur'yanovo"
+    "name:und_x_variant":[
+        "Kur\u2019yanova"
     ],
     "qs:gn_adm0_cc":"RU",
     "qs:gn_fcode":"PPLX",
@@ -81,7 +81,6 @@
     "wof:concordances":{
         "gn:id":538472,
         "gp:id":2032807,
-        "qs:id":1159698,
         "qs_pg:id":1159698
     },
     "wof:country":"RU",
@@ -101,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247572,
+    "wof:lastmodified":1566618491,
     "wof:name":"Kur'yanovo",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

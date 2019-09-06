@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000306,
-    "geom:area_square_m":2235354.317668,
+    "geom:area_square_m":2235354.317667,
     "geom:bbox":"93.180480957,53.7731933594,93.2016372681,53.7942848206",
     "geom:latitude":53.783774,
     "geom:longitude":93.190889,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":53.783704,
     "lbl:longitude":93.190688,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.783704,
     "mps:longitude":93.190688,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041d\u0438\u0436\u043d\u044f\u044f \u041a\u0443\u0440\u044f\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nizhne-Kuryata"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -38,7 +41,7 @@
     "qs:type":"c",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688139,
         102191581,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102014157,
-    "wof:lastmodified":1501220028,
+    "wof:lastmodified":1566615089,
     "wof:name":"Nizhnyaya Kuryata",
     "wof:parent_id":1108734275,
     "wof:placetype":"locality",

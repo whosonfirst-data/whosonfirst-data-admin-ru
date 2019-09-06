@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000407,
-    "geom:area_square_m":2919690.181897,
+    "geom:area_square_m":2919690.1819,
     "geom:bbox":"76.8222503662,54.5142211914,76.8612518311,54.5317764282",
     "geom:latitude":54.521795,
     "geom:longitude":76.842798,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.5235,
     "lbl:longitude":76.84317,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.5235,
     "mps:longitude":76.84317,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shipitsyno"
     ],
@@ -25,9 +28,6 @@
         "Sjipitsyno"
     ],
     "name:rus_x_preferred":[
-        "\u0428\u0438\u043f\u0438\u0446\u044b\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u0428\u0438\u043f\u0438\u0446\u044b\u043d\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687925,
         102191581,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":102013045,
-    "wof:lastmodified":1501220008,
+    "wof:lastmodified":1566615067,
     "wof:name":"Shipitsino",
     "wof:parent_id":1108733277,
     "wof:placetype":"locality",

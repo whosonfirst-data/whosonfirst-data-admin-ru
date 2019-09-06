@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00031,
-    "geom:area_square_m":2098860.446973,
+    "geom:area_square_m":2098860.446972,
     "geom:bbox":"58.4586372375,56.8300018311,58.4926948547,56.8438072205",
     "geom:latitude":56.83651,
     "geom:longitude":58.475868,
     "iso:country":"RU",
     "lbl:latitude":56.836727,
     "lbl:longitude":58.475868,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.836727,
     "mps:longitude":58.475868,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Klyuchevaya"
     ],
@@ -23,9 +26,6 @@
         "Kljutsjevaja"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u043b\u044e\u0447\u0435\u0432\u0430\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u043b\u044e\u0447\u0435\u0432\u0430\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688183,
         102191581,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":102008753,
-    "wof:lastmodified":1501214681,
+    "wof:lastmodified":1566615259,
     "wof:name":"Klyuchevaya",
     "wof:parent_id":1108735397,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000306,
-    "geom:area_square_m":2263624.741331,
+    "geom:area_square_m":2263624.741332,
     "geom:bbox":"49.272026062,53.2470817566,49.2909431458,53.2690010071",
     "geom:latitude":53.257496,
     "geom:longitude":49.280732,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.256143,
     "lbl:longitude":49.280552,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.256143,
     "mps:longitude":49.280552,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bol'shaya Ryazan'"
     ],
@@ -29,9 +32,6 @@
     ],
     "name:rus_x_variant":[
         "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0420\u044f\u0437\u0430\u043d\u044c",
-        "Staraya Ryazan\u2019"
-    ],
-    "name:unk_x_variant":[
         "Staraya Ryazan\u2019"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -50,7 +50,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687781,
         102191581,
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":102010561,
-    "wof:lastmodified":1501214786,
+    "wof:lastmodified":1566615470,
     "wof:name":"Bol'Shaya Ryazan'",
     "wof:parent_id":890484433,
     "wof:placetype":"locality",

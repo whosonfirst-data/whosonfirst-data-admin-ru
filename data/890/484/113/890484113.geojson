@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":55.565284,
     "lbl:longitude":101.232245,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Irkutskaja oblast'",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u0418\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":101.232245,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u0411\u0440\u0430\u0442\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -85,9 +88,6 @@
     "name:rus_x_preferred":[
         "\u0411\u0440\u0430\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0411\u0440\u0430\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Bratsky"
     ],
@@ -108,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1121,
     "wof:belongsto":[
         102191581,
@@ -119,7 +119,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598258,
-        "qs:id":1069161,
+        "qs_pg:id":1069161,
         "wd:id":"Q1651389",
         "wk:page":"Bratsky District"
     },
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":890484113,
-    "wof:lastmodified":1563262459,
+    "wof:lastmodified":1566630721,
     "wof:name":"Bratskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

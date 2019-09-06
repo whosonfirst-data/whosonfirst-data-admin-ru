@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"34.93927,53.8669,34.97927,53.9069",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632685
@@ -34,7 +38,7 @@
         "gn:id":477904
     },
     "wof:country":"RU",
-    "wof:geomhash":"01993240a844ce157a103f06cb9bf1b5",
+    "wof:geomhash":"7bed11660b037f995095a55ab81c4a4d",
     "wof:hierarchy":[
         {
             "country_id":85632685,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209382131,
-    "wof:lastmodified":1536288747,
+    "wof:lastmodified":1566623142,
     "wof:name":"Usty",
     "wof:parent_id":85632685,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    34.959270000000004,
+    34.95927,
     53.8869,
-    34.959270000000004,
+    34.95927,
     53.8869
 ],
   "geometry": {"coordinates":[34.95927,53.8869],"type":"Point"}

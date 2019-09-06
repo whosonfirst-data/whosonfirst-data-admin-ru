@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.219539,
     "lbl:longitude":46.244676,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":43.219539,
     "mps:longitude":46.244676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u064a\u0631\u0648\u064a\u060c \u0633\u064a\u0633\u064a\u0646\u064a\u062c\u0627"
     ],
@@ -59,7 +62,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688015,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":582462,
         "gp:id":1982199,
-        "qs:id":1302154,
+        "qs_pg:id":1302154,
         "wd:id":"Q2066502",
         "wk:page":"Alleroy, Kurchaloyevsky District, Chechen Republic"
     },
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":102016681,
-    "wof:lastmodified":1563240866,
+    "wof:lastmodified":1566615430,
     "wof:name":"Alleroy",
     "wof:parent_id":1108734819,
     "wof:placetype":"locality",

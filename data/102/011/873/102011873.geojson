@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000447,
-    "geom:area_square_m":3024316.936905,
+    "geom:area_square_m":3024316.936904,
     "geom:bbox":"68.0358886719,56.859085083,68.0783081055,56.8739738464",
     "geom:latitude":56.865464,
     "geom:longitude":68.05882,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.865405,
     "lbl:longitude":68.05882,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.865405,
     "mps:longitude":68.05882,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Severo-Pletn\u00ebvo"
     ],
@@ -30,7 +33,7 @@
     "name:rus_x_variant":[
         "\u0421\u0435\u0432\u0435\u0440\u043e-\u041f\u043b\u0435\u0442\u043d\u0451\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pletn\u00ebvo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -45,7 +48,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687831,
         102191581,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102011873,
-    "wof:lastmodified":1501220017,
+    "wof:lastmodified":1566615387,
     "wof:name":"Pletnevo",
     "wof:parent_id":1108734145,
     "wof:placetype":"locality",

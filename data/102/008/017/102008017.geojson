@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001166,
-    "geom:area_square_m":10172064.309255,
+    "geom:area_square_m":10172064.309256,
     "geom:bbox":"37.605140686,45.1021385193,37.6661109924,45.1345825195",
     "geom:latitude":45.117702,
     "geom:longitude":37.636414,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.114697,
     "lbl:longitude":37.641934,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.114697,
     "mps:longitude":37.641934,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Varenikovskaya"
     ],
@@ -26,7 +29,7 @@
     "name:rus_x_preferred":[
         "\u0412\u0430\u0440\u0435\u043d\u0438\u043a\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Warenikowskaja"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -45,7 +48,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688029,
@@ -58,7 +61,7 @@
     "wof:concordances":{
         "gn:id":477039,
         "gp:id":2074861,
-        "qs:id":450906
+        "qs_pg:id":450906
     },
     "wof:country":"RU",
     "wof:geomhash":"e338ce1ae75618bb89c3c7dc54bc414c",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":102008017,
-    "wof:lastmodified":1505338929,
+    "wof:lastmodified":1566615292,
     "wof:name":"Varenikovskaya",
     "wof:parent_id":890483377,
     "wof:placetype":"locality",

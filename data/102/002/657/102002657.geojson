@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000734,
-    "geom:area_square_m":4832074.995406,
+    "geom:area_square_m":4832074.995402,
     "geom:bbox":"44.3917770386,57.8181648254,44.447807312,57.8469734192",
     "geom:latitude":57.831691,
     "geom:longitude":44.421037,
     "iso:country":"RU",
     "lbl:latitude":57.830736,
     "lbl:longitude":44.420612,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.830736,
     "mps:longitude":44.420612,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Timoshino"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u0422\u0438\u043c\u043e\u0448\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maloye Timoshino"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688115,
         102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102002657,
-    "wof:lastmodified":1501214627,
+    "wof:lastmodified":1566615681,
     "wof:name":"Timoshino",
     "wof:parent_id":1108735017,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000256,
-    "geom:area_square_m":2070006.640015,
+    "geom:area_square_m":2070006.640016,
     "geom:bbox":"42.6600265503,49.2088050842,42.6872215271,49.2238883972",
     "geom:latitude":49.216628,
     "geom:longitude":42.673661,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":49.217221,
     "lbl:longitude":42.67392,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.217221,
     "mps:longitude":42.67392,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Verkhnecherenskiy"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u0445",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688101,
         102191581,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":102006723,
-    "wof:lastmodified":1501214429,
+    "wof:lastmodified":1566615353,
     "wof:name":"Verkhnecherenskiy",
     "wof:parent_id":1108734483,
     "wof:placetype":"locality",

@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":55.289815,
     "lbl:longitude":92.225097,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Krasnojarskij kraj",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":92.225097,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0445\u0442\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -90,9 +93,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0445\u0442\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0411\u0430\u043b\u0430\u0445\u0442\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Balakhtinsky"
     ],
@@ -100,9 +100,9 @@
         "\u5df4\u62c9\u8d6b\u4eac\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"10738",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Balakhta",
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":1108732865,
-    "wof:lastmodified":1563256666,
+    "wof:lastmodified":1566626960,
     "wof:name":"Balakhtinskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

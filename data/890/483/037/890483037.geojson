@@ -11,11 +11,15 @@
     "geom:longitude":20.00553,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":2222,
+    "gn:population":2222,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"19.98553,54.71905,20.02553,54.75905",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0440\u044b\u043c\u043e\u0440\u0441\u043a"
     ],
@@ -116,9 +120,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a"
-    ],
     "name:vep_x_preferred":[
         "Primorsk"
     ],
@@ -144,7 +145,7 @@
     "wof:concordances":{
         "gn:id":505270,
         "gp:id":2126084,
-        "qs:id":1224390,
+        "qs_pg:id":1224390,
         "wd:id":"Q183223",
         "wk:page":"Primorsk"
     },
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":890483037,
-    "wof:lastmodified":1563262265,
+    "wof:lastmodified":1566630640,
     "wof:name":"Primorsk",
     "wof:parent_id":1108732885,
     "wof:placetype":"locality",

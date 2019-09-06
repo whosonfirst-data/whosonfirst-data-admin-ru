@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":51.630401,
     "lbl:longitude":46.796471,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Saratov",
     "meso:name_alt2":"Saratovskaja oblast'",
     "meso:name_local":"\u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -389,13 +390,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0442\u043e\u0432"
     ],
-    "name:und_x_variant":[
-        "Saratovskaja oblast'",
-        "Saratov"
-    ],
-    "name:unk_x_variant":[
-        "Saratov Oblast"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0631\u0627\u0679\u0648\u0641"
     ],
@@ -501,9 +495,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"100,200",
     "statoids:area_mi":"38,700",
     "statoids:as_of_date":"2010-10-14",
@@ -565,11 +559,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734428,
+    "wof:lastmodified":1566618552,
     "wof:name":"Saratov",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":2521892,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

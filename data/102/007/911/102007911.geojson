@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00019,
-    "geom:area_square_m":1652650.073557,
+    "geom:area_square_m":1652650.073556,
     "geom:bbox":"43.7632141113,45.3050460815,43.783946991,45.320148468",
     "geom:latitude":45.314122,
     "geom:longitude":43.773628,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.313994,
     "lbl:longitude":43.77343,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.313994,
     "mps:longitude":43.77343,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Troitskiy"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":95,
     "wof:belongsto":[
         85687825,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102007911,
-    "wof:lastmodified":1527637038,
+    "wof:lastmodified":1566615195,
     "wof:name":"Troitskiy",
     "wof:parent_id":1108737113,
     "wof:placetype":"locality",

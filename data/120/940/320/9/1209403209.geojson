@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"32.75999,52.99913,32.79999,53.03913",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632685
@@ -34,7 +38,7 @@
         "gn:id":863809
     },
     "wof:country":"RU",
-    "wof:geomhash":"2e36fbc0e3dc5ee4e28aee4c0c4ecf31",
+    "wof:geomhash":"c120e4e924c8ec9aa982468f96a449a7",
     "wof:hierarchy":[
         {
             "country_id":85632685,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209403209,
-    "wof:lastmodified":1536288078,
+    "wof:lastmodified":1566623943,
     "wof:name":"Zelenyy Gay",
     "wof:parent_id":85632685,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.779990000000005,
+    32.77999000000001,
     53.01913,
-    32.779990000000005,
+    32.77999000000001,
     53.01913
 ],
   "geometry": {"coordinates":[32.77999000000001,53.01913],"type":"Point"}

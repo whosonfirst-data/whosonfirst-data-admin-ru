@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.050701,
     "lbl:longitude":46.640577,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.050701,
     "mps:longitude":46.640577,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Yunga"
     ],
@@ -72,7 +75,7 @@
     "name:ukr_x_preferred":[
         "\u042e\u043d\u0433\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Malyye Chuvaki"
     ],
     "name:zho_x_preferred":[
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1455,
     "wof:belongsto":[
         102191581,
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":466498,
         "gp:id":2124520,
-        "qs:id":194614,
         "qs_pg:id":194614,
         "wd:id":"Q743261"
     },
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":102009009,
-    "wof:lastmodified":1563240332,
+    "wof:lastmodified":1566615220,
     "wof:name":"Yunga",
     "wof:parent_id":1108735197,
     "wof:placetype":"locality",

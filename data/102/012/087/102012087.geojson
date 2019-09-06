@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000538,
-    "geom:area_square_m":3719328.401352,
+    "geom:area_square_m":3719328.401351,
     "geom:bbox":"64.0903320312,56.0258903503,64.1444702148,56.0407791138",
     "geom:latitude":56.033226,
     "geom:longitude":64.114575,
     "iso:country":"RU",
     "lbl:latitude":56.0339,
     "lbl:longitude":64.109678,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.0339,
     "mps:longitude":64.109678,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Osinovskoye"
     ],
@@ -23,9 +26,6 @@
         "Osinovskoje"
     ],
     "name:rus_x_preferred":[
-        "\u041e\u0441\u0438\u043d\u043e\u0432\u0441\u043a\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u041e\u0441\u0438\u043d\u043e\u0432\u0441\u043a\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688157,
         102191581,
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":102012087,
-    "wof:lastmodified":1501220021,
+    "wof:lastmodified":1566615014,
     "wof:name":"Osinovskoye",
     "wof:parent_id":1108734277,
     "wof:placetype":"locality",

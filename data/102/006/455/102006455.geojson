@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000143,
-    "geom:area_square_m":1132953.318511,
+    "geom:area_square_m":1132953.318512,
     "geom:bbox":"38.1023330688,50.1305007935,38.1476669312,50.1523628235",
     "geom:latitude":50.138882,
     "geom:longitude":38.125641,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":50.139012,
     "lbl:longitude":38.129076,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.139012,
     "mps:longitude":38.129076,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041a\u043e\u043b\u044b\u0445\u0430\u043b\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kolykhalino"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +43,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687813,
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":102006455,
-    "wof:lastmodified":1501214676,
+    "wof:lastmodified":1566615346,
     "wof:name":"Kolykhaleno",
     "wof:parent_id":1108737293,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.817377,
     "lbl:longitude":65.588452,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.817377,
     "mps:longitude":65.588452,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0648\u0632\u064a\u0631\u0633\u0643\u0648\u064a\u064a"
     ],
@@ -47,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043b\u043e\u0437\u0435\u0440\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
-        "Beloz\u00ebrskoye"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"4500300000100",
@@ -66,7 +66,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688157,
@@ -79,7 +79,7 @@
     "wof:concordances":{
         "gn:id":1510421,
         "gp:id":2120240,
-        "qs:id":85203
+        "qs_pg:id":85203
     },
     "wof:country":"RU",
     "wof:geomhash":"a909a6260b2d4780b59564fe22b5f0e7",
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":102012137,
-    "wof:lastmodified":1564108650,
+    "wof:lastmodified":1566615012,
     "wof:name":"Belozerskoye",
     "wof:parent_id":1108732965,
     "wof:placetype":"locality",

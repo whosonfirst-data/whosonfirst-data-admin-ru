@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.227565,
     "lbl:longitude":38.388883,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.227565,
     "mps:longitude":38.388883,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Rogovatoye"
     ],
@@ -26,7 +29,7 @@
     "name:rus_x_preferred":[
         "\u0420\u043e\u0433\u043e\u0432\u0430\u0442\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pervoye Rogovatoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -45,7 +48,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687813,
@@ -58,7 +61,7 @@
     "wof:concordances":{
         "gn:id":501616,
         "gp:id":2111493,
-        "qs:id":124923
+        "qs_pg:id":124923
     },
     "wof:country":"RU",
     "wof:geomhash":"36e46d1f12af5beee42ff80cdf6f5e44",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":102005839,
-    "wof:lastmodified":1505338924,
+    "wof:lastmodified":1566615652,
     "wof:name":"Rogovatoye",
     "wof:parent_id":1108736799,
     "wof:placetype":"locality",

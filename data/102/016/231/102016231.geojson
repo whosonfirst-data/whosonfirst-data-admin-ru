@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00021,
-    "geom:area_square_m":1872720.784593,
+    "geom:area_square_m":1872720.784594,
     "geom:bbox":"44.7093048096,43.7144165039,44.7325820923,43.7254714966",
     "geom:latitude":43.719873,
     "geom:longitude":44.72151,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.719984,
     "lbl:longitude":44.72151,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.719984,
     "mps:longitude":44.72151,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Terskaya"
     ],
@@ -26,9 +29,6 @@
         "Terskaja"
     ],
     "name:rus_x_preferred":[
-        "\u0422\u0435\u0440\u0441\u043a\u0430\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u0422\u0435\u0440\u0441\u043a\u0430\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":37,
     "wof:belongsto":[
@@ -62,7 +62,6 @@
     "wof:concordances":{
         "gn:id":483281,
         "gp:id":2095397,
-        "qs:id":124781,
         "qs_pg:id":124781
     },
     "wof:country":"RU",
@@ -76,7 +75,7 @@
         }
     ],
     "wof:id":102016231,
-    "wof:lastmodified":1527637600,
+    "wof:lastmodified":1566615456,
     "wof:name":"Terskaya",
     "wof:parent_id":1108735219,
     "wof:placetype":"locality",

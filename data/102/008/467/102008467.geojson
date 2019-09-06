@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.90204,
     "lbl:longitude":53.715781,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":57.90204,
     "mps:longitude":53.715781,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Kez"
     ],
@@ -62,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0437"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0435\u0437"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0423\u0434\u043c\u0443\u0440\u0442\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
     "qs:a1_lc":"1801300000100",
@@ -83,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":353,
     "wof:belongsto":[
@@ -96,7 +96,6 @@
     "wof:concordances":{
         "gn:id":550902,
         "gp:id":2121296,
-        "qs:id":276021,
         "qs_pg:id":276021,
         "wd:id":"Q2989362",
         "wk:page":"Kez"
@@ -112,7 +111,7 @@
         }
     ],
     "wof:id":102008467,
-    "wof:lastmodified":1563240508,
+    "wof:lastmodified":1566615294,
     "wof:name":"Kez",
     "wof:parent_id":1108734331,
     "wof:placetype":"locality",

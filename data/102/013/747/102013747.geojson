@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000676,
-    "geom:area_square_m":5151076.599885,
+    "geom:area_square_m":5151076.599887,
     "geom:bbox":"83.7678451538,51.9450645447,83.8387832642,51.9714546204",
     "geom:latitude":51.959318,
     "geom:longitude":83.802755,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":51.960134,
     "lbl:longitude":83.802217,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.960134,
     "mps:longitude":83.802217,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mikhaylovka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +43,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":106,
     "wof:belongsto":[
         85687835,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":102013747,
-    "wof:lastmodified":1527636664,
+    "wof:lastmodified":1566615055,
     "wof:name":"Mikhaylovskoye",
     "wof:parent_id":1108737239,
     "wof:placetype":"locality",

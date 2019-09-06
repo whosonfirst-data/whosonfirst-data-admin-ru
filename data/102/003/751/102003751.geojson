@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.58523,
     "lbl:longitude":44.626459,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.58523,
     "mps:longitude":44.626459,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kriusha"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688057,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102003751,
-    "wof:lastmodified":1501214658,
+    "wof:lastmodified":1566615543,
     "wof:name":"Kriusha",
     "wof:parent_id":1108735897,
     "wof:placetype":"locality",

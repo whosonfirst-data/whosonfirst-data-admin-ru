@@ -9,14 +9,16 @@
     "geom:bbox":"38.128586,55.56923,38.128586,55.56923",
     "geom:latitude":55.56923,
     "geom:longitude":38.128586,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"RU",
+    "gn:fcode":"PPLX",
     "gn:latitude":55.56667,
     "gn:longitude":38.1,
+    "gn:population":0,
     "iso:country":"RU",
+    "lbl:bbox":"38.123586,55.56423,38.133586,55.57423",
     "lbl:latitude":55.56923,
     "lbl:longitude":38.128586,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.563774,
     "mps:longitude":38.115181,
     "mz:hierarchy_label":0,
@@ -57,10 +59,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0438\u043d\u0456\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "\u041e\u0441\u0438\u043d\u043e\u0432\u043a\u0430",
-        "Osinovka"
     ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -108,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85632685,
@@ -120,7 +118,6 @@
     "wof:concordances":{
         "gn:id":514470,
         "gp:id":2060749,
-        "qs:id":907016,
         "qs_pg:id":907016
     },
     "wof:country":"RU",
@@ -140,7 +137,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564112494,
+    "wof:lastmodified":1566618513,
     "wof:name":"Osinovka",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

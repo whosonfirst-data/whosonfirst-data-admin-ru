@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000968,
-    "geom:area_square_m":7254256.748106,
+    "geom:area_square_m":7254256.74811,
     "geom:bbox":"38.1741676331,52.6678352356,38.2189178467,52.7085571289",
     "geom:latitude":52.689624,
     "geom:longitude":38.195883,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":52.683744,
     "lbl:longitude":38.194018,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.683744,
     "mps:longitude":38.194018,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041c\u044f\u0433\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myagkoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +43,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687917,
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":102004701,
-    "wof:lastmodified":1501214605,
+    "wof:lastmodified":1566615567,
     "wof:name":"Myagkaya",
     "wof:parent_id":1108734055,
     "wof:placetype":"locality",

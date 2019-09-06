@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000419,
-    "geom:area_square_m":2981165.427845,
+    "geom:area_square_m":2981165.427844,
     "geom:bbox":"58.3412780762,54.8950004578,58.3752784729,54.9113883972",
     "geom:latitude":54.903007,
     "geom:longitude":58.358452,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.902838,
     "lbl:longitude":58.358452,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.902838,
     "mps:longitude":58.358452,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Vyazovaya"
     ],
@@ -46,18 +49,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687791
+        85687791,
+        1108737245
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":470653,
         "gp:id":2109650,
-        "qs:id":80427,
         "qs_pg:id":80427
     },
     "wof:country":"RU",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102009539,
-    "wof:lastmodified":1505338933,
+    "wof:lastmodified":1566615231,
     "wof:name":"Vyazovaya",
     "wof:parent_id":1108737245,
     "wof:placetype":"locality",

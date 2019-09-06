@@ -11,10 +11,14 @@
     "geom:longitude":83.521,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":2687,
+    "gn:population":2687,
     "iso:country":"RU",
+    "lbl:bbox":"83.501,53.4003,83.541,53.4403",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Nauchnyy Gorodok"
     ],
@@ -22,9 +26,6 @@
         "Nautsjnyj-Gorodok"
     ],
     "name:rus_x_preferred":[
-        "\u041d\u0430\u0443\u0447\u043d\u044b\u0439 \u0413\u043e\u0440\u043e\u0434\u043e\u043a"
-    ],
-    "name:unk_x_variant":[
         "\u041d\u0430\u0443\u0447\u043d\u044b\u0439 \u0413\u043e\u0440\u043e\u0434\u043e\u043a"
     ],
     "qs:name":"Nauchnyy Gorodok",
@@ -43,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1497973,
         "gp:id":90605084,
-        "qs:id":85128
+        "qs_pg:id":85128
     },
     "wof:country":"RU",
     "wof:created":1469054550,
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":890485271,
-    "wof:lastmodified":1505343766,
+    "wof:lastmodified":1566630555,
     "wof:name":"Nauchnyy Gorodok",
     "wof:parent_id":890484179,
     "wof:placetype":"locality",

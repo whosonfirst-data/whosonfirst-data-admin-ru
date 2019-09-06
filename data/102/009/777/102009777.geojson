@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.584436,
     "lbl:longitude":55.382527,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":54.584436,
     "mps:longitude":55.382527,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bak_x_preferred":[
         "\u0428\u0438\u0448\u043c\u04d9"
     ],
@@ -79,9 +82,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0438\u0448\u043c\u0438"
     ],
-    "name:unk_x_variant":[
-        "\u0427\u0438\u0448\u043c\u044b"
-    ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u0634\u0645\u06d2"
     ],
@@ -103,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -115,7 +115,6 @@
     "wof:concordances":{
         "gn:id":568012,
         "gp:id":2120561,
-        "qs:id":125644,
         "qs_pg:id":125644,
         "wd:id":"Q943380",
         "wk:page":"Chishmy (urban-type settlement), Chishminsky District, Republic of Bashkortostan"
@@ -131,7 +130,7 @@
         }
     ],
     "wof:id":102009777,
-    "wof:lastmodified":1563240353,
+    "wof:lastmodified":1566615229,
     "wof:name":"Chishmy",
     "wof:parent_id":1108733275,
     "wof:placetype":"locality",

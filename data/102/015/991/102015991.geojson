@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001339,
-    "geom:area_square_m":11850119.110298,
+    "geom:area_square_m":11850119.110294,
     "geom:bbox":"40.5967216492,44.2988624573,40.6780014038,44.33177948",
     "geom:latitude":44.312981,
     "geom:longitude":40.640159,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.309043,
     "lbl:longitude":40.649704,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.309043,
     "mps:longitude":40.649704,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Gubskaya"
     ],
@@ -26,9 +29,6 @@
         "Gubskaja"
     ],
     "name:rus_x_preferred":[
-        "\u0413\u0443\u0431\u0441\u043a\u0430\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u0413\u0443\u0431\u0441\u043a\u0430\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688029,
@@ -62,7 +62,6 @@
     "wof:concordances":{
         "gn:id":558135,
         "gp:id":2120961,
-        "qs:id":80923,
         "qs_pg:id":80923
     },
     "wof:country":"RU",
@@ -78,7 +77,7 @@
         }
     ],
     "wof:id":102015991,
-    "wof:lastmodified":1505338948,
+    "wof:lastmodified":1566614926,
     "wof:name":"Gubskaya",
     "wof:parent_id":890484187,
     "wof:placetype":"locality",

@@ -9,17 +9,20 @@
     "geom:bbox":"131.708633423,44.1901397705,131.744812012,44.2213897705",
     "geom:latitude":44.203793,
     "geom:longitude":131.724315,
-    "geonames:id":"2020752,2056493",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":6581,
+    "gn:id":"2020752,2056493",
+    "gn:population":6581,
     "iso:country":"RU",
     "lbl:latitude":44.203646,
     "lbl:longitude":131.724315,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.203646,
     "mps:longitude":131.724315,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Lipovtsy"
     ],
@@ -35,7 +38,7 @@
     "name:rus_x_preferred":[
         "\u041b\u0438\u043f\u043e\u0432\u0446\u044b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasnopol\u2019ye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -58,7 +61,7 @@
     "qs:type":"\u043f\u0433\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688023,
@@ -71,7 +74,7 @@
     "wof:concordances":{
         "gn:id":2020752,
         "gp:id":2037061,
-        "qs:id":570935
+        "qs_pg:id":570935
     },
     "wof:country":"RU",
     "wof:geomhash":"4bea28167452f106fd6d4f482b961a50",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":102001697,
-    "wof:lastmodified":1564108974,
+    "wof:lastmodified":1566615324,
     "wof:name":"Lipovtsy",
     "wof:parent_id":1108735637,
     "wof:placetype":"locality",

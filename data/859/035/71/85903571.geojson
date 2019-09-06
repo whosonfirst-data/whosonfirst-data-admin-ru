@@ -15,6 +15,7 @@
     "iso:country":"RU",
     "lbl:latitude":55.788836,
     "lbl:longitude":37.341396,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.785405,
     "mps:longitude":37.364653,
     "mz:hierarchy_label":1,
@@ -42,10 +43,6 @@
     "name:rus_x_variant":[
         "\u0420\u0443\u0431\u043b\u0435\u0432\u043e",
         "\u0420\u0443\u0431\u043b\u0451\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Rubl\u00ebvo",
-        "Rubl\u00ebvo"
     ],
     "qs:gn_adm0_cc":"RU",
     "qs:gn_fcode":"PPLX",
@@ -88,7 +85,6 @@
     "wof:concordances":{
         "gn:id":500843,
         "gp:id":2123190,
-        "qs:id":240620,
         "qs_pg:id":240620
     },
     "wof:country":"RU",
@@ -108,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247577,
+    "wof:lastmodified":1566618499,
     "wof:name":"Rublevo-Arkhangelsk",
     "wof:parent_id":102003139,
     "wof:placetype":"neighbourhood",

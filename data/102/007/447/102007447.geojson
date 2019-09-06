@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001812,
-    "geom:area_square_m":15399589.969002,
+    "geom:area_square_m":15399589.969001,
     "geom:bbox":"39.1407775879,46.5688896179,39.2337493896,46.6028594971",
     "geom:latitude":46.586144,
     "geom:longitude":39.193027,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":46.586221,
     "lbl:longitude":39.192949,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.586221,
     "mps:longitude":39.192949,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Kanelovskaya"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043d\u0435\u043b\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasnopolyanka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +52,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688029
+        85688029,
+        1108736797
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":553159,
         "gp:id":2016126,
-        "qs:id":125406,
         "qs_pg:id":125406
     },
     "wof:country":"RU",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102007447,
-    "wof:lastmodified":1505338927,
+    "wof:lastmodified":1566615150,
     "wof:name":"Kanelovskaya",
     "wof:parent_id":1108736797,
     "wof:placetype":"locality",

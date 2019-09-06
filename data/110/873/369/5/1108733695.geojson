@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":48.835114,
     "lbl:longitude":44.135357,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Volgogradskaja oblast'",
     "meso:admin1r_en":"JUzhnyj federal'nyj okrug",
     "meso:admin_1":"\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":44.135357,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0413\u0430\u0440\u0430\u0434\u0437\u0456\u0448\u0447\u0430\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -93,14 +96,11 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u043e\u0434\u0438\u0449\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0413\u043e\u0440\u043e\u0434\u0438\u0449\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:zho_x_preferred":[
         "\u6208\u7f57\u5b63\u8c22\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688101,
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":1108733695,
-    "wof:lastmodified":1563256954,
+    "wof:lastmodified":1566627142,
     "wof:name":"Ishhenskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

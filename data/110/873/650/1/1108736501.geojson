@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":43.135075,
     "lbl:longitude":45.904209,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"CHechenskaja respublika",
     "meso:admin1r_en":"Severo-Kavkazskij federal'nyj okrug",
     "meso:admin_1":"\u0427\u0435\u0447\u0435\u043d\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
@@ -53,6 +55,7 @@
     "mps:longitude":45.904209,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Shalinskiy Rayon"
     ],
@@ -111,9 +114,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043b\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0428\u0430\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Shalinsky"
     ],
@@ -124,9 +124,9 @@
         "\u6c99\u91cc\u5dde"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"984",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Shali",
@@ -160,7 +160,7 @@
         }
     ],
     "wof:id":1108736501,
-    "wof:lastmodified":1563256787,
+    "wof:lastmodified":1566627038,
     "wof:name":"Shalinskiy",
     "wof:parent_id":85688015,
     "wof:placetype":"county",

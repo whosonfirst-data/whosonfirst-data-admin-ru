@@ -11,10 +11,14 @@
     "geom:longitude":42.34959,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":917,
+    "gn:population":917,
     "iso:country":"RU",
+    "lbl:bbox":"42.32959,56.58099,42.36959,56.62099",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Mugreyevskiy"
     ],
@@ -22,9 +26,6 @@
         "Mugrejevskij"
     ],
     "name:rus_x_preferred":[
-        "\u041c\u0443\u0433\u0440\u0435\u0435\u0432\u0441\u043a\u0438\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u041c\u0443\u0433\u0440\u0435\u0435\u0432\u0441\u043a\u0438\u0439"
     ],
     "qs:name":"Mugreyevskiy",
@@ -43,7 +44,7 @@
     "wof:concordances":{
         "gn:id":524598,
         "gp:id":2048478,
-        "qs:id":549483
+        "qs_pg:id":549483
     },
     "wof:country":"RU",
     "wof:created":1469054694,
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":890487877,
-    "wof:lastmodified":1505343780,
+    "wof:lastmodified":1566630925,
     "wof:name":"Mugreyevskiy",
     "wof:parent_id":1108734167,
     "wof:placetype":"locality",

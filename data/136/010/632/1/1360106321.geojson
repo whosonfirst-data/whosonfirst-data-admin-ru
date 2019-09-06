@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"40.3153,60.8597,40.3553,60.8997",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kreml\u00ebvo"
     ],
@@ -37,10 +41,6 @@
     "name:rus_x_variant":[
         "\u041a\u0440\u0435\u043c\u043b\u0451\u0432\u043e",
         "Kreml\u00ebvo"
-    ],
-    "name:und_x_variant":[
-        "Kreml\u00ebvo",
-        "\u041a\u0440\u0435\u043c\u043b\u0451\u0432\u043e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":1360106321,
-    "wof:lastmodified":1537688973,
+    "wof:lastmodified":1566629620,
     "wof:name":"Kremlevo",
     "wof:parent_id":1108734569,
     "wof:placetype":"locality",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":21524490.823679,
+    "geom:area_square_m":0.0,
     "geom:bbox":"84.991276,56.500238,84.991276,56.500238",
     "geom:latitude":56.500238,
     "geom:longitude":84.991276,
     "iso:country":"RU",
+    "lbl:bbox":"84.986276,56.495238,84.996276,56.505238",
     "lbl:latitude":56.500238,
     "lbl:longitude":84.991276,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.498399,
     "mps:longitude":84.977826,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Sputnik"
-    ],
-    "name:unk_x_variant":[
         "Sputnik"
     ],
     "qs:gn_id":0,
@@ -54,14 +53,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687809,
         102191581,
         85632685,
         102012671,
         874393555,
-        890487053
+        890487053,
+        85687809
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936049,
+    "wof:lastmodified":1566618506,
     "wof:name":"Sputnik",
     "wof:parent_id":102012671,
     "wof:placetype":"neighbourhood",

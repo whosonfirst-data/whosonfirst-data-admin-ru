@@ -9,18 +9,21 @@
     "geom:bbox":"40.2102203369,44.3680000305,40.2249984741,44.3905296326",
     "geom:latitude":44.380197,
     "geom:longitude":40.217494,
-    "geonames:id":"584534,584535",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":4010,
+    "gn:id":"584534,584535",
+    "gn:population":4010,
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:latitude":44.380048,
     "lbl:longitude":40.217494,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.380048,
     "mps:longitude":40.217494,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0628\u0627\u062f\u0632\u064a\u0643\u0633\u0643\u0627\u064a\u0627"
     ],
@@ -77,7 +80,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":278,
     "wof:belongsto":[
@@ -91,7 +94,7 @@
     "wof:concordances":{
         "gn:id":584534,
         "gp:id":1979650,
-        "qs:id":1302089,
+        "qs_pg:id":1302089,
         "wd:id":"Q1971633",
         "wk:page":"Abadzekhskaya"
     },
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":102015955,
-    "wof:lastmodified":1563239717,
+    "wof:lastmodified":1566614931,
     "wof:name":"Abadzekhskaya",
     "wof:parent_id":1108735007,
     "wof:placetype":"locality",

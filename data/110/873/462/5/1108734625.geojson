@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":61.257654,
     "lbl:longitude":46.723146,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Arkhangel'skaja oblast'",
     "meso:admin1r_en":"Severo-Zapadnyj federal'nyj okrug",
     "meso:admin_1":"\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":46.723146,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u0644\u0627\u0633"
     ],
@@ -173,9 +176,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0442\u043b\u0430\u0441"
     ],
-    "name:und_x_variant":[
-        "\u041a\u043e\u0442\u043b\u0430\u0441"
-    ],
     "name:vep_x_preferred":[
         "Kotlas"
     ],
@@ -189,9 +189,9 @@
         "\u79d1\u7279\u62c9\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"6473",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Kotlas",
@@ -223,7 +223,7 @@
         }
     ],
     "wof:id":1108734625,
-    "wof:lastmodified":1564124437,
+    "wof:lastmodified":1566627038,
     "wof:name":"Kotlas",
     "wof:parent_id":85687971,
     "wof:placetype":"county",

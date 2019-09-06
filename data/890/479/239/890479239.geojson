@@ -11,8 +11,11 @@
     "geom:longitude":75.45067,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":110000,
+    "gn:population":110000,
     "iso:country":"RU",
+    "lbl:bbox":"75.43067,63.17936,75.47067,63.21936",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -169,9 +172,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u044f\u0431\u0440\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "Noyabrsk"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0648\u06cc\u0627\u0628\u0631\u0633\u06a9"
     ],
@@ -298,7 +298,7 @@
     "wof:concordances":{
         "gn:id":1496503,
         "gp:id":2058247,
-        "qs:id":350250,
+        "qs_pg:id":350250,
         "wd:id":"Q175524"
     },
     "wof:country":"RU",
@@ -315,7 +315,7 @@
         }
     ],
     "wof:id":890479239,
-    "wof:lastmodified":1563262569,
+    "wof:lastmodified":1566630767,
     "wof:name":"Noyabr'sk",
     "wof:parent_id":1108733659,
     "wof:placetype":"locality",

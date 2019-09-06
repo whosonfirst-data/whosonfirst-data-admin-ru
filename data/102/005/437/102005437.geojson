@@ -9,14 +9,17 @@
     "geom:bbox":"39.6701393127,51.6343345642,39.7196388245,51.6725540161",
     "geom:latitude":51.654185,
     "geom:longitude":39.693082,
-    "geonames:id":"6759482,500991",
+    "gn:id":"6759482,500991",
     "iso:country":"RU",
     "lbl:latitude":51.653127,
     "lbl:longitude":39.687661,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.653127,
     "mps:longitude":39.687661,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0420\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u0435\u043d\u0441\u043a\u0430\u044f \u0425\u0430\u0432\u0430"
     ],
@@ -48,7 +51,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":131,
     "wof:belongsto":[
         85688051,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102005437,
-    "wof:lastmodified":1561831723,
+    "wof:lastmodified":1566615626,
     "wof:name":"Rozhdestvenskaya Khava",
     "wof:parent_id":890482733,
     "wof:placetype":"locality",

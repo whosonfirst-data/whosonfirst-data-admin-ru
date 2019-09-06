@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":50.657144,
     "lbl:longitude":40.998091,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Voronezhskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":40.998091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Vorob'yevskiy Rayon"
     ],
@@ -87,16 +90,13 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0440\u043e\u0431\u0439\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0412\u043e\u0440\u043e\u0431\u044c\u0451\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:zho_x_preferred":[
         "\u6c83\u7f57\u6bd4\u7ea6\u592b\u5361\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1223",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Vorob'yevka",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1108737669,
-    "wof:lastmodified":1563257004,
+    "wof:lastmodified":1566627168,
     "wof:name":"Vorob'jovskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

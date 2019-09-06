@@ -9,15 +9,18 @@
     "geom:bbox":"83.55278,53.20861,83.55278,53.20861",
     "geom:latitude":53.20861,
     "geom:longitude":83.55278,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1000,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":1000,
     "iso:country":"RU",
+    "lbl:bbox":"83.53278,53.18861,83.57278,53.22861",
     "lbl:latitude":53.20861,
     "lbl:longitude":83.55278,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Chernitskiy"
@@ -26,9 +29,6 @@
         "Tsjernitsk"
     ],
     "name:rus_x_preferred":[
-        "\u0427\u0435\u0440\u043d\u0438\u0446\u043a"
-    ],
-    "name:unk_x_variant":[
         "\u0427\u0435\u0440\u043d\u0438\u0446\u043a"
     ],
     "qs_pg:aaroncc":"RU",
@@ -43,7 +43,7 @@
     "qs_pg:qs_id":556272,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85687835,
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":1125837321,
-    "wof:lastmodified":1509395062,
+    "wof:lastmodified":1566631041,
     "wof:name":"Chernitsk",
     "wof:parent_id":890484179,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":38.09801,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":2462,
+    "gn:population":2462,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"38.07801,53.93017,38.11801,53.97017",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Partizan"
     ],
@@ -64,9 +68,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d"
-    ],
     "qs:name":"Partizan",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Tula Oblast",
@@ -87,7 +88,7 @@
     "wof:concordances":{
         "gn:id":512471,
         "gp:id":2062979,
-        "qs:id":448675,
+        "qs_pg:id":448675,
         "wk:page":"Partizan"
     },
     "wof:country":"RU",
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":890482855,
-    "wof:lastmodified":1564129006,
+    "wof:lastmodified":1566630613,
     "wof:name":"Partizan",
     "wof:parent_id":1108737281,
     "wof:placetype":"locality",

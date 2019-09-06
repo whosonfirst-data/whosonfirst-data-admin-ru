@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00056,
-    "geom:area_square_m":4514513.917303,
+    "geom:area_square_m":4514513.917302,
     "geom:bbox":"43.5727310181,49.3172912598,43.6131401062,49.3582496643",
     "geom:latitude":49.338754,
     "geom:longitude":43.591531,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":49.339269,
     "lbl:longitude":43.591225,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.339269,
     "mps:longitude":43.591225,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u042f\u0431\u043b\u043e\u043d\u0441\u043a\u0438\u0439"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"\u0445",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688101,
         102191581,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102006697,
-    "wof:lastmodified":1501214410,
+    "wof:lastmodified":1566615368,
     "wof:name":"Yablonskiy",
     "wof:parent_id":1108733991,
     "wof:placetype":"locality",

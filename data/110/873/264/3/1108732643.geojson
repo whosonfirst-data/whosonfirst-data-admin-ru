@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":47.275882,
     "lbl:longitude":39.962491,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Rostovskaja oblast'",
     "meso:admin1r_en":"JUzhnyj federal'nyj okrug",
     "meso:admin_1":"\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":39.962491,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Aksay rayonu"
     ],
@@ -99,9 +102,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0441\u0430\u0439\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0410\u043a\u0441\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06a9\u0633\u06cc\u0633\u06a9\u06cc \u0636\u0644\u0639"
     ],
@@ -112,9 +112,9 @@
         "\u963f\u514b\u8cfd\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1162",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Aksay",
@@ -148,7 +148,7 @@
         }
     ],
     "wof:id":1108732643,
-    "wof:lastmodified":1563257217,
+    "wof:lastmodified":1566627303,
     "wof:name":"Aksajskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

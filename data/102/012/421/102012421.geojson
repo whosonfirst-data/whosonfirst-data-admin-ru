@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000262,
-    "geom:area_square_m":1863628.981463,
+    "geom:area_square_m":1863628.981462,
     "geom:bbox":"73.5758895874,54.8052482605,73.6015548706,54.8264427185",
     "geom:latitude":54.816363,
     "geom:longitude":73.588708,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.816548,
     "lbl:longitude":73.588903,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.816548,
     "mps:longitude":73.588903,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Irtyshskiy"
     ],
@@ -24,9 +27,6 @@
         "Irtysjskij"
     ],
     "name:rus_x_preferred":[
-        "\u0418\u0440\u0442\u044b\u0448\u0441\u043a\u0438\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u0418\u0440\u0442\u044b\u0448\u0441\u043a\u0438\u0439"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688189,
@@ -60,7 +60,6 @@
     "wof:concordances":{
         "gn:id":1505496,
         "gp:id":2012665,
-        "qs:id":1106266,
         "qs_pg:id":1106266
     },
     "wof:country":"RU",
@@ -76,7 +75,7 @@
         }
     ],
     "wof:id":102012421,
-    "wof:lastmodified":1505338939,
+    "wof:lastmodified":1566615013,
     "wof:name":"Irtyshskiy",
     "wof:parent_id":890480089,
     "wof:placetype":"locality",

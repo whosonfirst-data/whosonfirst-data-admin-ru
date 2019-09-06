@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":50.065242,
     "lbl:longitude":85.537895,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Altaj",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u0410\u043b\u0442\u0430\u0439",
@@ -54,6 +56,7 @@
     "mps:longitude":85.537895,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0423\u0441\u0446\u044c-\u041a\u043e\u043a\u0441\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -103,9 +106,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u041a\u043e\u043a\u0441\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0423\u0441\u0442\u044c-\u041a\u043e\u043a\u0441\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Ust-Koksinsky"
     ],
@@ -126,9 +126,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"13073",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Ust'-Koksa",
@@ -150,7 +150,7 @@
     "wof:concordances":{
         "gp:id":12597724,
         "hasc:id":"RU.GA.UK",
-        "qs:id":429410,
+        "qs_pg:id":429410,
         "wd:id":"Q282849",
         "wk:page":"Ust-Koksinsky District"
     },
@@ -167,7 +167,7 @@
         }
     ],
     "wof:id":890479279,
-    "wof:lastmodified":1563262551,
+    "wof:lastmodified":1566630758,
     "wof:name":"Ust'-Koksinskiy",
     "wof:parent_id":85687949,
     "wof:placetype":"county",

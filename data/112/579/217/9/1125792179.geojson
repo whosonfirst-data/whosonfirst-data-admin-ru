@@ -9,14 +9,18 @@
     "geom:bbox":"49.04389,53.60972,49.04389,53.60972",
     "geom:latitude":53.60972,
     "geom:longitude":49.04389,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"RU",
+    "lbl:bbox":"49.02389,53.58972,49.06389,53.62972",
     "lbl:latitude":53.60972,
     "lbl:longitude":49.04389,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Yagodnoye"
@@ -26,9 +30,6 @@
     ],
     "name:rus_x_preferred":[
         "\u042f\u0433\u043e\u0434\u043d\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Yagodnoye"
     ],
     "qs_pg:aaroncc":"RU",
     "qs_pg:gn_country":"RU",
@@ -47,7 +48,7 @@
     "qs_pg:woe_adm0":23424936,
     "qs_pg:woe_id":2110618,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424936,
     "woe:name_adm0":"Russia",
     "woe:name_adm1":"Ulyanovsk Oblast",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1125792179,
-    "wof:lastmodified":1509392412,
+    "wof:lastmodified":1566631035,
     "wof:name":"Yagodnyj",
     "wof:parent_id":890484433,
     "wof:placetype":"locality",

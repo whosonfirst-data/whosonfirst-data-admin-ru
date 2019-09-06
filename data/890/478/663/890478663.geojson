@@ -11,10 +11,14 @@
     "geom:longitude":136.44951,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":1625,
+    "gn:population":1625,
     "iso:country":"RU",
+    "lbl:bbox":"136.42951,50.74344,136.46951,50.78344",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u043e\u043d\u0435\u0447\u043d\u044b \u0440\u0430\u0451\u043d"
     ],
@@ -54,9 +58,6 @@
     "name:rus_x_variant":[
         "\u0421\u043e\u043b\u043d\u0435\u0447\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Solnechnyy"
-    ],
     "name:vie_x_preferred":[
         "Solnechnyy"
     ],
@@ -80,7 +81,7 @@
     "wof:concordances":{
         "gn:id":2023920,
         "gp:id":2008848,
-        "qs:id":90459,
+        "qs_pg:id":90459,
         "wd:id":"Q826675",
         "wk:page":"Gorny"
     },
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":890478663,
-    "wof:lastmodified":1563261931,
+    "wof:lastmodified":1566630511,
     "wof:name":"Gornyy",
     "wof:parent_id":1108736699,
     "wof:placetype":"locality",

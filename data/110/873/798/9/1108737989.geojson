@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":57.556965,
     "lbl:longitude":41.81737,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Ivanovskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":41.81737,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u0417\u0430\u0432\u043e\u043b\u0436\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -84,9 +87,6 @@
     "name:sco_x_preferred":[
         "Zavolzhsky Destrict"
     ],
-    "name:und_x_variant":[
-        "\u0417\u0430\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Zavolzhsky"
     ],
@@ -94,9 +94,9 @@
         "\u624e\u6c83\u5c14\u65e5\u65af\u514b\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1202",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Zavolzhk",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1108737989,
-    "wof:lastmodified":1563256535,
+    "wof:lastmodified":1566626881,
     "wof:name":"Zavolzhskiy",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

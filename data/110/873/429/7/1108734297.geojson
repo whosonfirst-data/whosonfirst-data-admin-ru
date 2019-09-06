@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":54.947952,
     "lbl:longitude":41.409402,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Rjazanskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":41.409402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0633\u064a\u0645\u0648\u0641"
     ],
@@ -191,9 +194,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0441\u0438\u043c\u043e\u0432"
     ],
-    "name:und_x_variant":[
-        "\u041a\u0430\u0441\u0438\u043c\u043e\u0432"
-    ],
     "name:vie_x_preferred":[
         "Kasimov"
     ],
@@ -210,9 +210,9 @@
         "\u5361\u897f\u83ab\u592b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2969",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Kasimov",
@@ -244,7 +244,7 @@
         }
     ],
     "wof:id":1108734297,
-    "wof:lastmodified":1564124522,
+    "wof:lastmodified":1566627204,
     "wof:name":"Kasimov",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

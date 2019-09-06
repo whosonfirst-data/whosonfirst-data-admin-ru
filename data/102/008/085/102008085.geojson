@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000295,
-    "geom:area_square_m":2575629.614496,
+    "geom:area_square_m":2575629.614495,
     "geom:bbox":"41.5952224731,45.0349731445,41.6225280762,45.0525550842",
     "geom:latitude":45.043961,
     "geom:longitude":41.60944,
     "iso:country":"RU",
     "lbl:latitude":45.044183,
     "lbl:longitude":41.6097,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.044183,
     "mps:longitude":41.6097,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sengileyevskoye"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0435\u043d\u0433\u0438\u043b\u0435\u0435\u0432\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sengilevskaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":54,
     "wof:belongsto":[
         85687825,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102008085,
-    "wof:lastmodified":1527637244,
+    "wof:lastmodified":1566615267,
     "wof:name":"Sengileyevskaya",
     "wof:parent_id":1108736603,
     "wof:placetype":"locality",

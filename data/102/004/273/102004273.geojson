@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00133,
-    "geom:area_square_m":9761680.799439,
+    "geom:area_square_m":9761680.799437,
     "geom:bbox":"39.4257240295,53.5569992065,39.4977226257,53.5906105042",
     "geom:latitude":53.577765,
     "geom:longitude":39.462881,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.57938,
     "lbl:longitude":39.451427,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.57938,
     "mps:longitude":39.451427,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Miloslavskoye"
     ],
@@ -35,9 +38,6 @@
         "\u041c\u0438\u043b\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0438\u0439"
     ],
     "name:rus_x_variant":[
-        "\u041c\u0438\u043b\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u041c\u0438\u043b\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -58,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":69,
     "wof:belongsto":[
@@ -71,7 +71,6 @@
     "wof:concordances":{
         "gn:id":526543,
         "gp:id":2122203,
-        "qs:id":1062246,
         "qs_pg:id":1062246
     },
     "wof:country":"RU",
@@ -85,7 +84,7 @@
         }
     ],
     "wof:id":102004273,
-    "wof:lastmodified":1527637841,
+    "wof:lastmodified":1566615574,
     "wof:name":"Miloslavskoye",
     "wof:parent_id":1108735149,
     "wof:placetype":"locality",

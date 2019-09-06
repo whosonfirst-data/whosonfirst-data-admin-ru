@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000582,
-    "geom:area_square_m":4077088.114905,
+    "geom:area_square_m":4077088.114902,
     "geom:bbox":"60.5667495728,55.4646682739,60.6231117249,55.4878044128",
     "geom:latitude":55.477263,
     "geom:longitude":60.598876,
     "iso:country":"RU",
     "lbl:latitude":55.477436,
     "lbl:longitude":60.601225,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.477436,
     "mps:longitude":60.601225,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gubernskoye"
     ],
@@ -23,9 +26,6 @@
         "Gubernskoje"
     ],
     "name:rus_x_preferred":[
-        "\u0413\u0443\u0431\u0435\u0440\u043d\u0441\u043a\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u0413\u0443\u0431\u0435\u0440\u043d\u0441\u043a\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,17 +46,17 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687791
+        85687791,
+        1108732767
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1506099,
         "gp:id":2010586,
-        "qs:id":321907,
         "qs_pg:id":321907
     },
     "wof:country":"RU",
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":102012231,
-    "wof:lastmodified":1497301459,
+    "wof:lastmodified":1566615019,
     "wof:name":"Gubernskoye",
     "wof:parent_id":1108732767,
     "wof:placetype":"locality",

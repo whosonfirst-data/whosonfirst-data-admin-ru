@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":44.909133,
     "lbl:longitude":39.352321,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Adygeja",
     "meso:admin1r_en":"JUzhnyj federal'nyj okrug",
     "meso:admin_1":"\u0410\u0434\u044b\u0433\u0435\u044f",
@@ -53,6 +55,7 @@
     "mps:longitude":39.352321,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ady_x_preferred":[
         "\u0422\u0435\u0443\u0446\u043e\u0436\u044c \u043a\u044a\u0435\u0434\u0437\u044b\u0433\u044a\u043e"
     ],
@@ -108,9 +111,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0443\u0447\u0435\u0437\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0422\u0435\u0443\u0447\u0435\u0436\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Teuchezhsky"
     ],
@@ -118,7 +118,7 @@
         "\u6377\u70cf\u5207\u65e5\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688135,
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":1108737005,
-    "wof:lastmodified":1563256571,
+    "wof:lastmodified":1566626902,
     "wof:name":"Teuchezhskiy",
     "wof:parent_id":85688135,
     "wof:placetype":"county",

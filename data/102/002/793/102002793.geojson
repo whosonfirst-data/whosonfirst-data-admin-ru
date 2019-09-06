@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":56.851459,
     "lbl:longitude":41.36929,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":56.851459,
     "mps:longitude":41.36929,
     "mz:hierarchy_label":1,
@@ -159,9 +161,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0443\u044f"
     ],
-    "name:unk_x_variant":[
-        "\u0428\u0443\u044f"
-    ],
     "name:war_x_preferred":[
         "Shuya"
     ],
@@ -278,7 +277,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -290,7 +289,6 @@
     "wof:concordances":{
         "gn:id":493231,
         "gp:id":2123478,
-        "qs:id":273780,
         "qs_pg:id":273780,
         "wd:id":"Q198358",
         "wk:page":"Shuya, Ivanovo Oblast"
@@ -306,7 +304,7 @@
         }
     ],
     "wof:id":102002793,
-    "wof:lastmodified":1563241552,
+    "wof:lastmodified":1566615691,
     "wof:name":"Shuya",
     "wof:parent_id":1108736605,
     "wof:placetype":"locality",

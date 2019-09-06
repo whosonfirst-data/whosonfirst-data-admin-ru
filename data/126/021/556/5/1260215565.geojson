@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Saratov",
     "iso:country":"RU",
+    "lbl:bbox":"50.01333,51.96333,50.05333,52.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Smolenka"
     ],
@@ -45,10 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043c\u043e\u043b\u0435\u043d\u043a\u0430"
-    ],
-    "name:und_x_variant":[
-        "\u0421\u043c\u043e\u043b\u0435\u043d\u043a\u0430",
-        "Smolenka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":1260215565,
-    "wof:lastmodified":1564124054,
+    "wof:lastmodified":1566626640,
     "wof:name":"Smolenka",
     "wof:parent_id":1108735799,
     "wof:placetype":"locality",

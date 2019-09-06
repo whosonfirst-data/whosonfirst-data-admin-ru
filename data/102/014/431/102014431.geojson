@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000207,
-    "geom:area_square_m":1347679.316667,
+    "geom:area_square_m":1347679.316669,
     "geom:bbox":"113.253692627,58.2085266113,113.29397583,58.216583252",
     "geom:latitude":58.212626,
     "geom:longitude":113.272771,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":58.212723,
     "lbl:longitude":113.272771,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":58.212723,
     "mps:longitude":113.272771,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Vitimskiy"
     ],
@@ -46,12 +49,13 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688173
+        85688173,
+        1108735049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":102014431,
-    "wof:lastmodified":1505338944,
+    "wof:lastmodified":1566615105,
     "wof:name":"Vitimskiy",
     "wof:parent_id":1108735049,
     "wof:placetype":"locality",

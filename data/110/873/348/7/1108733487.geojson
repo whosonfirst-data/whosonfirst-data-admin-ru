@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":52.618315,
     "lbl:longitude":38.505524,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Lipeckaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u041b\u0438\u043f\u0435\u0446\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":38.505524,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Elec"
     ],
@@ -63,9 +66,9 @@
         "\u0415\u043b\u0435\u0446"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"52",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Elets",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108733487,
-    "wof:lastmodified":1561582005,
+    "wof:lastmodified":1566627052,
     "wof:name":"Elec",
     "wof:parent_id":85687917,
     "wof:placetype":"county",

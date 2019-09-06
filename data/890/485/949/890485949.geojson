@@ -11,11 +11,15 @@
     "geom:longitude":36.58389,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"36.56389,55.74889,36.60389,55.78889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Andreyevskoye"
     ],
@@ -23,9 +27,6 @@
         "Andrejevskoje"
     ],
     "name:rus_x_preferred":[
-        "\u0410\u043d\u0434\u0440\u0435\u0435\u0432\u0441\u043a\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u0410\u043d\u0434\u0440\u0435\u0435\u0432\u0441\u043a\u043e\u0435"
     ],
     "qs:name":"Andreevskoe",
@@ -49,7 +50,7 @@
     "wof:concordances":{
         "gn:id":581927,
         "gp:id":55874829,
-        "qs:id":1285881
+        "qs_pg:id":1285881
     },
     "wof:country":"RU",
     "wof:created":1469054584,
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":890485949,
-    "wof:lastmodified":1505343770,
+    "wof:lastmodified":1566630544,
     "wof:name":"Andreevskoe",
     "wof:parent_id":1108735599,
     "wof:placetype":"locality",

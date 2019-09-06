@@ -9,14 +9,17 @@
     "geom:bbox":"37.3795814514,52.0575828552,37.457359314,52.0881118774",
     "geom:latitude":52.072377,
     "geom:longitude":37.415442,
-    "geonames:id":"565576,470268",
+    "gn:id":"565576,470268",
     "iso:country":"RU",
     "lbl:latitude":52.071175,
     "lbl:longitude":37.421337,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.071175,
     "mps:longitude":37.421337,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dolgy"
     ],
@@ -36,7 +39,7 @@
     "qs:type":"\u0440\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":793,
     "wof:belongsto":[
         85687849,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102005115,
-    "wof:lastmodified":1563241416,
+    "wof:lastmodified":1566615656,
     "wof:name":"Dolgoye",
     "wof:parent_id":1108733399,
     "wof:placetype":"locality",

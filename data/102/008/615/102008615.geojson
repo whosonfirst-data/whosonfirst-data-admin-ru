@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.296694,
     "lbl:longitude":53.036846,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.296694,
     "mps:longitude":53.036846,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lynga"
     ],
@@ -23,9 +26,6 @@
         "Lynga"
     ],
     "name:rus_x_preferred":[
-        "\u041b\u044b\u043d\u0433\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041b\u044b\u043d\u0433\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687787,
         102191581,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":102008615,
-    "wof:lastmodified":1501214632,
+    "wof:lastmodified":1566615291,
     "wof:name":"Lynga",
     "wof:parent_id":1108734073,
     "wof:placetype":"locality",

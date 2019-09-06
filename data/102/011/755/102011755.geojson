@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000809,
-    "geom:area_square_m":5340885.086479,
+    "geom:area_square_m":5340885.086478,
     "geom:bbox":"61.2324981689,57.719581604,61.2776374817,57.7495269775",
     "geom:latitude":57.734101,
     "geom:longitude":61.255165,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.73145,
     "lbl:longitude":61.250221,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.73145,
     "mps:longitude":61.250221,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Neyvo-Shaytanskiy"
     ],
@@ -26,9 +29,6 @@
         "Nejvo-Sjajtanskij"
     ],
     "name:rus_x_preferred":[
-        "\u041d\u0435\u0439\u0432\u043e-\u0428\u0430\u0439\u0442\u0430\u043d\u0441\u043a\u0438\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u041d\u0435\u0439\u0432\u043e-\u0428\u0430\u0439\u0442\u0430\u043d\u0441\u043a\u0438\u0439"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +49,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688183
+        85688183,
+        1108735237
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1497778,
         "gp:id":2122387,
-        "qs:id":85127,
         "qs_pg:id":85127
     },
     "wof:country":"RU",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":102011755,
-    "wof:lastmodified":1505338937,
+    "wof:lastmodified":1566615380,
     "wof:name":"Neyvo-Shaytanskiy",
     "wof:parent_id":1108735237,
     "wof:placetype":"locality",

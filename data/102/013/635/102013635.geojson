@@ -5,22 +5,25 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001259,
-    "geom:area_square_m":9508035.408555,
+    "geom:area_square_m":9508035.408561,
     "geom:bbox":"84.3469161987,52.3535842896,84.4176635742,52.3863067627",
     "geom:latitude":52.36863,
     "geom:longitude":84.384351,
-    "geonames:id":"6875395,1508517",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":4455,
+    "gn:id":"6875395,1508517",
+    "gn:population":4455,
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:latitude":52.370127,
     "lbl:longitude":84.383815,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.370127,
     "mps:longitude":84.383815,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Bystryy Istok"
     ],
@@ -30,7 +33,7 @@
     "name:rus_x_preferred":[
         "\u0411\u044b\u0441\u0442\u0440\u044b\u0439 \u0418\u0441\u0442\u043e\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bystry Istok"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -56,7 +59,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687835,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":1508517,
         "gp:id":2120459,
-        "qs:id":459964
+        "qs_pg:id":459964
     },
     "wof:country":"RU",
     "wof:geomhash":"cd10bcde196aa213036c0414237ee4be",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":102013635,
-    "wof:lastmodified":1505338942,
+    "wof:lastmodified":1566615050,
     "wof:name":"Bystryy Istok",
     "wof:parent_id":1108733159,
     "wof:placetype":"locality",

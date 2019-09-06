@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":60.339113,
     "lbl:longitude":60.00046,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":60.339113,
     "mps:longitude":60.00046,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Cher\u00ebmukhovo"
     ],
@@ -28,9 +31,6 @@
     ],
     "name:rus_x_variant":[
         "\u0427\u0435\u0440\u0451\u043c\u0443\u0445\u043e\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Cher\u00ebmukhovo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -48,7 +48,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688183,
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":102002275,
-    "wof:lastmodified":1505338914,
+    "wof:lastmodified":1566615675,
     "wof:name":"Cheremukhovo",
     "wof:parent_id":1108736477,
     "wof:placetype":"locality",

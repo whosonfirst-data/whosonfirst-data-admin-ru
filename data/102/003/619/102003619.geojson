@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00027,
-    "geom:area_square_m":1917012.771164,
+    "geom:area_square_m":1917012.771165,
     "geom:bbox":"36.9164733887,54.9002494812,36.9443321228,54.9141120911",
     "geom:latitude":54.905812,
     "geom:longitude":36.929628,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.906363,
     "lbl:longitude":36.928234,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":54.906363,
     "mps:longitude":36.928234,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Vysokinichi"
     ],
@@ -44,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688131,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102003619,
-    "wof:lastmodified":1505338920,
+    "wof:lastmodified":1566615525,
     "wof:name":"Vysokinichi",
     "wof:parent_id":1108738169,
     "wof:placetype":"locality",

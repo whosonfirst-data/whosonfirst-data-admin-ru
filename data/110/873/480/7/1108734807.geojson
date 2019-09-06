@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":57.402178,
     "lbl:longitude":56.609181,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Permskij kraj",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":56.609181,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bak_x_preferred":[
         "\u041a\u04e9\u04a3\u0433\u04e9\u0440 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
@@ -96,9 +99,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043d\u0433\u0443\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041a\u0443\u043d\u0433\u0443\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Kungursky"
     ],
@@ -106,7 +106,7 @@
         "\u6606\u53e4\u723e\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687975,
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1108734807,
-    "wof:lastmodified":1563257099,
+    "wof:lastmodified":1566627223,
     "wof:name":"Kungurskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

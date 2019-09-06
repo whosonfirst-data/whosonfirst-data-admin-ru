@@ -11,11 +11,15 @@
     "geom:longitude":36.86667,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"36.84667,56.38,36.88667,56.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Voronino"
     ],
@@ -23,9 +27,6 @@
         "Voronino"
     ],
     "name:rus_x_preferred":[
-        "\u0412\u043e\u0440\u043e\u043d\u0438\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u0412\u043e\u0440\u043e\u043d\u0438\u043d\u043e"
     ],
     "qs:name":"Voronino",
@@ -47,7 +48,7 @@
     "wof:concordances":{
         "gn:id":472003,
         "gp:id":2108263,
-        "qs:id":1158182
+        "qs_pg:id":1158182
     },
     "wof:country":"RU",
     "wof:created":1469054532,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":890484869,
-    "wof:lastmodified":1505343764,
+    "wof:lastmodified":1566630690,
     "wof:name":"Voronino",
     "wof:parent_id":890487039,
     "wof:placetype":"locality",

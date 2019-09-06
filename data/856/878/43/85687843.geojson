@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":64.813327,
     "lbl:longitude":124.710016,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Sakha",
     "meso:name_alt2":"Respublika Sakha (JAkutija)",
     "meso:name_local":"\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u0445\u0430 (\u042f\u043a\u0443\u0442\u0438\u044f)",
@@ -353,8 +354,7 @@
         "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0421\u0430\u0445\u0430"
     ],
     "name:und_x_variant":[
-        "Respublika Sakha (JAkutija)",
-        "Sakha"
+        "Respublika Sakha (JAkutija)"
     ],
     "name:urd_x_preferred":[
         "\u0633\u062e\u0627 \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1"
@@ -400,9 +400,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"3,103,200",
     "statoids:area_mi":"1,198,200",
     "statoids:as_of_date":"2010-10-14",
@@ -463,11 +463,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734450,
+    "wof:lastmodified":1566618595,
     "wof:name":"Sakha",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":958528,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-ru",

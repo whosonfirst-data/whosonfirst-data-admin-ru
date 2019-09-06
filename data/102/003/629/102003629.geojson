@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000877,
-    "geom:area_square_m":6238797.532896,
+    "geom:area_square_m":6238797.532893,
     "geom:bbox":"42.7212295532,54.8799514771,42.786113739,54.8973426819",
     "geom:latitude":54.888235,
     "geom:longitude":42.754448,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.887882,
     "lbl:longitude":42.754448,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.887882,
     "mps:longitude":42.754448,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Voznesenskoye"
     ],
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":151,
     "wof:belongsto":[
@@ -59,7 +62,6 @@
     "wof:concordances":{
         "gn:id":471172,
         "gp:id":2124367,
-        "qs:id":80434,
         "qs_pg:id":80434
     },
     "wof:country":"RU",
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":102003629,
-    "wof:lastmodified":1527637834,
+    "wof:lastmodified":1566615527,
     "wof:name":"Voznesenskoye",
     "wof:parent_id":1108737725,
     "wof:placetype":"locality",

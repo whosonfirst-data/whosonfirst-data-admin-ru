@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.595764,
     "lbl:longitude":82.286883,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.595764,
     "mps:longitude":82.286883,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0443\u0440'\u044f"
     ],
@@ -69,7 +72,7 @@
     "name:spa_x_preferred":[
         "Kuri\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kur\u2019inskoye"
     ],
     "name:zho_x_preferred":[
@@ -87,7 +90,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":25,
     "wof:belongsto":[
         85687835,
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":102013807,
-    "wof:lastmodified":1563240045,
+    "wof:lastmodified":1566615074,
     "wof:name":"Kurya",
     "wof:parent_id":1108734815,
     "wof:placetype":"locality",

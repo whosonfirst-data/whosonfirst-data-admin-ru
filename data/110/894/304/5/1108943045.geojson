@@ -10,8 +10,10 @@
     "geom:latitude":60.041981,
     "geom:longitude":29.983228,
     "iso:country":"RU",
+    "lbl:bbox":"29.9782279588,60.0369812569,29.9882279588,60.0469812569",
     "lbl:latitude":60.041981,
     "lbl:longitude":29.983228,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:rus_x_preferred":[
         "\u0413\u043e\u0440\u0441\u043a\u0430\u044f"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108943045,
-    "wof:lastmodified":1510870350,
+    "wof:lastmodified":1566627418,
     "wof:name":"Gorskaja",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

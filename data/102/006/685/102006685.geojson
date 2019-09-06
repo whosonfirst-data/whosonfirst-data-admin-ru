@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":49.379681,
     "lbl:longitude":40.173328,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.379681,
     "mps:longitude":40.173328,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bak_x_preferred":[
         "\u0427\u0435\u0440\u0442\u043a\u043e\u0432\u043e"
     ],
@@ -58,9 +61,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u043e\u0440\u0442\u043a\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
-        "\u0427\u0435\u0440\u0442\u043a\u043e\u0432\u043e"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"6104300000100",
@@ -79,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":52,
     "wof:belongsto":[
@@ -92,7 +92,6 @@
     "wof:concordances":{
         "gn:id":568429,
         "gp:id":1998522,
-        "qs:id":80984,
         "qs_pg:id":80984,
         "wd:id":"Q4514667"
     },
@@ -107,7 +106,7 @@
         }
     ],
     "wof:id":102006685,
-    "wof:lastmodified":1563240686,
+    "wof:lastmodified":1566615363,
     "wof:name":"Chertkovo",
     "wof:parent_id":1108733271,
     "wof:placetype":"locality",

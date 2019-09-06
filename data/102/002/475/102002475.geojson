@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":59.862106,
     "lbl:longitude":38.387283,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.862106,
     "mps:longitude":38.387283,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0631\u064a\u0644\u0648\u0641"
     ],
@@ -110,9 +113,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0438\u0440\u0438\u043b\u043b\u043e\u0432"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0438\u0440\u0438\u043b\u043b\u043e\u0432"
-    ],
     "name:vep_x_preferred":[
         "Kirillov"
     ],
@@ -140,7 +140,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687853,
@@ -153,7 +153,6 @@
     "wof:concordances":{
         "gn:id":548478,
         "gp:id":2121377,
-        "qs:id":119229,
         "qs_pg:id":119229,
         "wd:id":"Q153453",
         "wk:page":"Kirillov (town)"
@@ -171,7 +170,7 @@
         }
     ],
     "wof:id":102002475,
-    "wof:lastmodified":1563241580,
+    "wof:lastmodified":1566615698,
     "wof:name":"Kirillov",
     "wof:parent_id":890480135,
     "wof:placetype":"locality",

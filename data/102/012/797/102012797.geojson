@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.670151,
     "lbl:longitude":84.383019,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.670151,
     "mps:longitude":84.383019,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0648\u062a\u0646\u0648\u064a\u064a"
     ],
@@ -107,7 +110,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043b\u043e\u0442\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bolotinskoe"
     ],
     "name:vep_x_preferred":[
@@ -137,7 +140,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.666667,
     "wd:longitude":84.4,
@@ -152,7 +155,6 @@
     "wof:concordances":{
         "gn:id":1509819,
         "gp:id":2120363,
-        "qs:id":1243136,
         "qs_pg:id":1243136,
         "wd:id":"Q105306",
         "wk:page":"Bolotnoye"
@@ -168,7 +170,7 @@
         }
     ],
     "wof:id":102012797,
-    "wof:lastmodified":1563239831,
+    "wof:lastmodified":1566614979,
     "wof:name":"Bolotnoye",
     "wof:parent_id":1108733091,
     "wof:placetype":"locality",

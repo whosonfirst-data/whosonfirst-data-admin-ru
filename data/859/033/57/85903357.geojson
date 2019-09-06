@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17075665.545744,
+    "geom:area_square_m":0.0,
     "geom:bbox":"50.821735,61.666081,50.821735,61.666081",
     "geom:latitude":61.666081,
     "geom:longitude":50.821735,
     "iso:country":"RU",
+    "lbl:bbox":"50.816735,61.661081,50.826735,61.671081",
     "lbl:latitude":61.666081,
     "lbl:longitude":50.821735,
+    "lbl:max_zoom":18.0,
     "mps:latitude":61.662933,
     "mps:longitude":50.820279,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Nizhnyaya Maksakovka"
-    ],
-    "name:unk_x_variant":[
         "Nizhnyaya Maksakovka"
     ],
     "qs:gn_adm0_cc":"RU",
@@ -55,14 +54,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688077,
         102191581,
         85632685,
         102002051,
         874393555,
-        890486985
+        890486985,
+        85688077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936045,
+    "wof:lastmodified":1566618508,
     "wof:name":"Nizhnyaya Maksakovka",
     "wof:parent_id":102002051,
     "wof:placetype":"neighbourhood",

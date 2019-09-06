@@ -10,8 +10,10 @@
     "geom:latitude":55.693841,
     "geom:longitude":37.356326,
     "iso:country":"RU",
+    "lbl:bbox":"37.3513259791,55.6888406893,37.3613259791,55.6988406893",
     "lbl:latitude":55.693841,
     "lbl:longitude":37.356326,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -36,7 +38,7 @@
     "name:vep_x_preferred":[
         "Skolkovo"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85632685,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1108942935,
-    "wof:lastmodified":1564124630,
+    "wof:lastmodified":1566627410,
     "wof:name":"Skolkovo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

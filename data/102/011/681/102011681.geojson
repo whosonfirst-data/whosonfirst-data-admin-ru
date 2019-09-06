@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":59.054511,
     "lbl:longitude":60.602524,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":59.054511,
     "mps:longitude":60.602524,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0641\u0627\u064a\u0627 \u0644\u0627\u064a\u0627\u0644\u0627\u064a\u0627"
     ],
@@ -106,9 +109,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u041b\u044f\u043b\u044f"
     ],
-    "name:unk_x_variant":[
-        "\u041d\u043e\u0432\u0430\u044f \u041b\u044f\u043b\u044f"
-    ],
     "name:vep_x_preferred":[
         "Uz' L\u00e4l'"
     ],
@@ -136,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":59.05,
     "wd:longitude":60.6,
@@ -151,7 +151,6 @@
     "wof:concordances":{
         "gn:id":1497276,
         "gp:id":2122470,
-        "qs:id":1031489,
         "qs_pg:id":1031489,
         "wd:id":"Q173858",
         "wk:page":"Novaya Lyalya"
@@ -167,7 +166,7 @@
         }
     ],
     "wof:id":102011681,
-    "wof:lastmodified":1563240740,
+    "wof:lastmodified":1566615384,
     "wof:name":"Novaya Lyalya",
     "wof:parent_id":1108735511,
     "wof:placetype":"locality",

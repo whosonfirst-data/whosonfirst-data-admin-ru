@@ -9,15 +9,18 @@
     "geom:bbox":"44.88889,43.65361,44.88889,43.65361",
     "geom:latitude":43.65361,
     "geom:longitude":44.88889,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5053,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":5053,
     "iso:country":"RU",
+    "lbl:bbox":"44.86889,43.63361,44.90889,43.67361",
     "lbl:latitude":43.65361,
     "lbl:longitude":44.88889,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:che_x_preferred":[
         "Bratskoe"
@@ -48,7 +51,7 @@
     "name:rus_x_variant":[
         "\u041d\u043e\u0433\u0430\u043c\u0435\u0440\u0437\u0438\u043d-\u042e\u0440\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nogay-Mirza"
     ],
     "qs_pg:aaroncc":"RU",
@@ -63,7 +66,7 @@
     "qs_pg:qs_id":549964,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688015,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1126045023,
-    "wof:lastmodified":1509408803,
+    "wof:lastmodified":1566631004,
     "wof:name":"Nogamerzin-Yurt",
     "wof:parent_id":1108735293,
     "wof:placetype":"locality",

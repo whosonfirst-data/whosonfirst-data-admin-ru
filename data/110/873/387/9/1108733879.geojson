@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":57.048282,
     "lbl:longitude":34.973665,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tverskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u0422\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":34.973665,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0631\u062c\u0648\u0643"
     ],
@@ -177,9 +180,9 @@
         "\u6258\u723e\u82e5\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"3112",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Torzhok",
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":1108733879,
-    "wof:lastmodified":1564124579,
+    "wof:lastmodified":1566627356,
     "wof:name":"Torzhok",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

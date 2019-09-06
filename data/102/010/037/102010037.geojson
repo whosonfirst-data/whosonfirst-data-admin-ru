@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.173377,
     "lbl:longitude":45.967016,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.173377,
     "mps:longitude":45.967016,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Bol\u015febereznikov rayonu"
     ],
@@ -66,7 +69,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0435\u0440\u0435\u0437\u043d\u0438\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bol\u2019shiye Berezinki"
     ],
     "name:vie_x_preferred":[
@@ -91,7 +94,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1058,
     "wof:belongsto":[
         85687873,
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":102010037,
-    "wof:lastmodified":1563240987,
+    "wof:lastmodified":1566615484,
     "wof:name":"Bolshiye Berezniki",
     "wof:parent_id":1108733057,
     "wof:placetype":"locality",

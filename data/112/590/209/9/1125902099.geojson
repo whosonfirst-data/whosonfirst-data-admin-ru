@@ -9,19 +9,23 @@
     "geom:bbox":"44.95192,52.97643,44.95192,52.97643",
     "geom:latitude":52.97643,
     "geom:longitude":44.95192,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"RU",
+    "lbl:bbox":"44.93192,52.95643,44.97192,52.99643",
     "lbl:latitude":52.97643,
     "lbl:longitude":44.95192,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430\u044f \u041a\u0430\u043c\u0435\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Staraya Kamenka"
     ],
     "qs_pg:aaroncc":"RU",
@@ -41,7 +45,7 @@
     "qs_pg:woe_adm0":23424936,
     "qs_pg:woe_id":56452126,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424936,
     "woe:name_adm0":"Russia",
     "woe:name_adm1":"Penza Oblast",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1125902099,
-    "wof:lastmodified":1509399479,
+    "wof:lastmodified":1566631019,
     "wof:name":"Star. Kamenka",
     "wof:parent_id":890484343,
     "wof:placetype":"locality",

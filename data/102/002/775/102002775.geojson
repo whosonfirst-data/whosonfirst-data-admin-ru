@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.974784,
     "lbl:longitude":43.172869,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.974784,
     "mps:longitude":43.172869,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u0634\u064a\u062c"
     ],
@@ -113,9 +116,6 @@
     "name:tur_x_preferred":[
         "Pu\u00e7ej"
     ],
-    "name:unk_x_variant":[
-        "\u041f\u0443\u0447\u0435\u0436"
-    ],
     "name:war_x_preferred":[
         "Puchezh"
     ],
@@ -140,7 +140,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.983333,
     "wd:longitude":43.166667,
@@ -155,7 +155,6 @@
     "wof:concordances":{
         "gn:id":504294,
         "gp:id":2123064,
-        "qs:id":1237614,
         "qs_pg:id":1237614,
         "wd:id":"Q184258",
         "wk:page":"Puchezh"
@@ -171,7 +170,7 @@
         }
     ],
     "wof:id":102002775,
-    "wof:lastmodified":1563241629,
+    "wof:lastmodified":1566615710,
     "wof:name":"Puchezh",
     "wof:parent_id":1108736021,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":49.7978,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"49.7778,53.4221,49.8178,53.4621",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zol'noye"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:rus_x_variant":[
         "\u0417\u043e\u043b\u044c\u043d\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Zol\u2019noye"
     ],
     "qs:name":"Zol'noye",
     "qs:name_adm0":"Russia",
@@ -52,7 +53,7 @@
     "wof:concordances":{
         "gn:id":462240,
         "gp:id":2119194,
-        "qs:id":1014307
+        "qs_pg:id":1014307
     },
     "wof:country":"RU",
     "wof:created":1469054477,
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":890483669,
-    "wof:lastmodified":1505343759,
+    "wof:lastmodified":1566630637,
     "wof:name":"Zol'noye",
     "wof:parent_id":890484433,
     "wof:placetype":"locality",

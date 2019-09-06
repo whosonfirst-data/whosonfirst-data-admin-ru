@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":58.048064,
     "lbl:longitude":65.260657,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":58.048064,
     "mps:longitude":65.260657,
     "mz:hierarchy_label":1,
@@ -244,7 +246,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":58.05,
     "wd:longitude":65.266667,
@@ -259,7 +261,6 @@
     "wof:concordances":{
         "gn:id":1489962,
         "gp:id":2123849,
-        "qs:id":370584,
         "qs_pg:id":370584,
         "wd:id":"Q196537",
         "wk:page":"Tavda"
@@ -275,7 +276,7 @@
         }
     ],
     "wof:id":102011719,
-    "wof:lastmodified":1563240843,
+    "wof:lastmodified":1566615419,
     "wof:name":"Tavda",
     "wof:parent_id":1108736957,
     "wof:placetype":"locality",

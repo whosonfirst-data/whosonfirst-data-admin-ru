@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001344,
-    "geom:area_square_m":10159768.766172,
+    "geom:area_square_m":10159768.766168,
     "geom:bbox":"85.0437545776,52.2806968689,85.1089477539,52.314365387",
     "geom:latitude":52.29904,
     "geom:longitude":85.074554,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.29697,
     "lbl:longitude":85.073933,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.29697,
     "mps:longitude":85.073933,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Smolenskoye"
     ],
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":202,
     "wof:belongsto":[
@@ -60,7 +63,6 @@
     "wof:concordances":{
         "gn:id":1491633,
         "gp:id":2085940,
-        "qs:id":132827,
         "qs_pg:id":132827
     },
     "wof:country":"RU",
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":102013653,
-    "wof:lastmodified":1527636666,
+    "wof:lastmodified":1566615077,
     "wof:name":"Smolenskoye",
     "wof:parent_id":890482279,
     "wof:placetype":"locality",

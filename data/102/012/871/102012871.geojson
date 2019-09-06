@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.310213,
     "lbl:longitude":76.756388,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.310213,
     "mps:longitude":76.756388,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Chany"
     ],
@@ -56,9 +59,6 @@
     "name:tat_x_preferred":[
         "\u0427\u0430\u043d\u044b\u0439"
     ],
-    "name:unk_x_variant":[
-        "Tschany"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"5402700000100",
@@ -77,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":267,
     "wof:belongsto":[
@@ -90,7 +90,6 @@
     "wof:concordances":{
         "gn:id":1508458,
         "gp:id":2120473,
-        "qs:id":556293,
         "qs_pg:id":556293,
         "wd:id":"Q821906",
         "wk:page":"Chany"
@@ -106,7 +105,7 @@
         }
     ],
     "wof:id":102012871,
-    "wof:lastmodified":1563239920,
+    "wof:lastmodified":1566615017,
     "wof:name":"Chany",
     "wof:parent_id":1108733181,
     "wof:placetype":"locality",

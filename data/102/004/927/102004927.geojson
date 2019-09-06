@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000714,
-    "geom:area_square_m":5394132.700899,
+    "geom:area_square_m":5394132.7009,
     "geom:bbox":"39.3528594971,52.3442497253,39.4002494812,52.3750267029",
     "geom:latitude":52.360515,
     "geom:longitude":39.377288,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.361428,
     "lbl:longitude":39.377647,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.361428,
     "mps:longitude":39.377647,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gryaznoye"
     ],
@@ -25,9 +28,6 @@
         "Grjaznoje"
     ],
     "name:rus_x_preferred":[
-        "\u0413\u0440\u044f\u0437\u043d\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u0413\u0440\u044f\u0437\u043d\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687917,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102004927,
-    "wof:lastmodified":1501214727,
+    "wof:lastmodified":1566615608,
     "wof:name":"Gryaznoye",
     "wof:parent_id":1108734951,
     "wof:placetype":"locality",

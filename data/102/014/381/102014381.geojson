@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000565,
-    "geom:area_square_m":4362348.792929,
+    "geom:area_square_m":4362348.792933,
     "geom:bbox":"94.037940979,51.3280563354,94.0699462891,51.3558044434",
     "geom:latitude":51.342849,
     "geom:longitude":94.054657,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.343185,
     "lbl:longitude":94.054962,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.343185,
     "mps:longitude":94.054962,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kochetovo"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u0447\u0435\u0442\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sug-Bazhy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688039,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102014381,
-    "wof:lastmodified":1501220048,
+    "wof:lastmodified":1566615141,
     "wof:name":"Kochetovo",
     "wof:parent_id":1108736933,
     "wof:placetype":"locality",

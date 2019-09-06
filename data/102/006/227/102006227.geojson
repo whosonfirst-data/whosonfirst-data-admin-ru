@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.609048,
     "lbl:longitude":40.326805,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.609048,
     "mps:longitude":40.326805,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0631\u0648\u0646\u062a\u0633\u0648\u0641\u0643\u0627\u060c \u0641\u0648\u0631\u0648\u0646\u064a\u0632"
     ],
@@ -43,7 +46,7 @@
     "name:rus_x_preferred":[
         "\u0412\u043e\u0440\u043e\u043d\u0446\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vorortsovka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -76,7 +79,6 @@
     "wof:concordances":{
         "gn:id":471909,
         "gp:id":2124330,
-        "qs:id":548933,
         "qs_pg:id":548933,
         "wd:id":"Q4125792"
     },
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":102006227,
-    "wof:lastmodified":1563240639,
+    "wof:lastmodified":1566615338,
     "wof:name":"Vorontsovka",
     "wof:parent_id":1108735791,
     "wof:placetype":"locality",

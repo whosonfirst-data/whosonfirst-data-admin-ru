@@ -9,15 +9,18 @@
     "geom:bbox":"60.0407,58.3638,60.0407,58.3638",
     "geom:latitude":58.3638,
     "geom:longitude":60.0407,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":27257,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":27257,
     "iso:country":"RU",
+    "lbl:bbox":"60.0207,58.3438,60.0607,58.3838",
     "lbl:latitude":58.3638,
     "lbl:longitude":60.0407,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u0631\u0627\u0633\u0646\u0648\u0631\u0627\u0644\u0633\u0643"
@@ -127,7 +130,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0443\u0440\u0430\u043b\u044c\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Uralmed\u2019stroy"
     ],
     "name:vep_x_preferred":[
@@ -154,7 +157,7 @@
     "qs_pg:qs_id":132971,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688183,
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":1125938491,
-    "wof:lastmodified":1563263086,
+    "wof:lastmodified":1566631002,
     "wof:name":"Krasnoural\u2019sk",
     "wof:parent_id":1108733799,
     "wof:placetype":"locality",

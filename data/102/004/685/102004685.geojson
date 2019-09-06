@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.752709,
     "lbl:longitude":39.719528,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.752709,
     "mps:longitude":39.719528,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u041a\u0443\u0437\u044c\u043c\u0438\u043d\u043a\u0430"
     ],
@@ -42,7 +45,7 @@
     "name:rus_x_variant":[
         "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u041a\u0443\u0437\u044c\u043c\u0438\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuz\u2019minka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -61,7 +64,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687917,
         102191581,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":102004685,
-    "wof:lastmodified":1563241293,
+    "wof:lastmodified":1566615597,
     "wof:name":"Bol'Shaya Kuz'Minka",
     "wof:parent_id":1108734951,
     "wof:placetype":"locality",

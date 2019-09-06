@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000436,
-    "geom:area_square_m":3230293.691667,
+    "geom:area_square_m":3230293.691666,
     "geom:bbox":"83.5410003662,53.2023620605,83.5855865479,53.2243614197",
     "geom:latitude":53.214987,
     "geom:longitude":83.560182,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.216004,
     "lbl:longitude":83.557986,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.216004,
     "mps:longitude":83.557986,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Chernitskiy"
     ],
@@ -26,9 +29,6 @@
         "Tsjernitsk"
     ],
     "name:rus_x_preferred":[
-        "\u0427\u0435\u0440\u043d\u0438\u0446\u043a"
-    ],
-    "name:unk_x_variant":[
         "\u0427\u0435\u0440\u043d\u0438\u0446\u043a"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -43,7 +43,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687835,
@@ -56,7 +56,7 @@
     "wof:concordances":{
         "gn:id":1508060,
         "gp:id":90610068,
-        "qs:id":556272
+        "qs_pg:id":556272
     },
     "wof:country":"RU",
     "wof:geomhash":"03ecc6d2879e1a006b69cc8de19e4e8f",
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":102013367,
-    "wof:lastmodified":1505338942,
+    "wof:lastmodified":1566615064,
     "wof:name":"Chernitskiy",
     "wof:parent_id":890484179,
     "wof:placetype":"locality",

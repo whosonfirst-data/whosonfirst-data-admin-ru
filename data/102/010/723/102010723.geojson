@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.84935,
     "lbl:longitude":47.872007,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.84935,
     "mps:longitude":47.872007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u0430\u0434\u0438\u0449\u0435\u0432\u043e"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":171,
     "wof:belongsto":[
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":503254,
         "gp:id":2073209,
-        "qs:id":80617,
         "qs_pg:id":80617,
         "wd:id":"Q4387725"
     },
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":102010723,
-    "wof:lastmodified":1563240999,
+    "wof:lastmodified":1566615489,
     "wof:name":"Radishchevo",
     "wof:parent_id":1108736045,
     "wof:placetype":"locality",

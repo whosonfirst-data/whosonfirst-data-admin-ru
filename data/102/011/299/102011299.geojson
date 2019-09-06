@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.981116,
     "lbl:longitude":46.991441,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.981116,
     "mps:longitude":46.991441,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u0627\u0633\u0646\u064a \u0643\u0648\u062a"
     ],
@@ -128,7 +131,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.95,
     "wd:longitude":46.966667,
@@ -144,7 +147,7 @@
     "wof:concordances":{
         "gn:id":541647,
         "gp:id":56451979,
-        "qs:id":369507,
+        "qs_pg:id":369507,
         "wd:id":"Q155797",
         "wk:page":"Krasny Kut, Saratov Oblast"
     },
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":102011299,
-    "wof:lastmodified":1563240833,
+    "wof:lastmodified":1566615417,
     "wof:name":"",
     "wof:parent_id":1108734721,
     "wof:placetype":"locality",

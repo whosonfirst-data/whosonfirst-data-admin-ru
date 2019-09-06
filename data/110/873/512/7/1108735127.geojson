@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":52.920419,
     "lbl:longitude":40.305248,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tambovskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":40.305248,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041c\u0456\u0447\u0443\u0440\u044b\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -87,9 +90,6 @@
     "name:rus_x_preferred":[
         "\u041c\u0438\u0447\u0443\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041c\u0438\u0447\u0443\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Michurinsky"
     ],
@@ -97,7 +97,7 @@
         "\u7c73\u4e18\u6797\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687829,
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":1108735127,
-    "wof:lastmodified":1563257343,
+    "wof:lastmodified":1566627390,
     "wof:name":"Michurinskiy",
     "wof:parent_id":85687829,
     "wof:placetype":"county",

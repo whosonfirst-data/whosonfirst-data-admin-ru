@@ -9,15 +9,18 @@
     "geom:bbox":"33.90361,57.98833,33.90361,57.98833",
     "geom:latitude":57.98833,
     "geom:longitude":33.90361,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2432,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":2432,
     "iso:country":"RU",
+    "lbl:bbox":"33.88361,57.96833,33.92361,58.00833",
     "lbl:latitude":57.98833,
     "lbl:longitude":33.90361,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Berezayka"
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0435\u0440\u0435\u0437\u0430\u0439\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Berezajaka"
     ],
     "qs_pg:aaroncc":"RU",
@@ -45,7 +48,7 @@
     "qs_pg:woe_adm0":23424936,
     "qs_pg:woe_id":56452935,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424936,
     "woe:name_adm0":"Russia",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1126010211,
-    "wof:lastmodified":1509406627,
+    "wof:lastmodified":1566631025,
     "wof:name":"Berezay",
     "wof:parent_id":890486641,
     "wof:placetype":"locality",

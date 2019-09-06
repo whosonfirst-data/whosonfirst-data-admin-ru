@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.420041,
     "lbl:longitude":86.298333,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":54.420041,
     "mps:longitude":86.298333,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0648\u0641\u0648"
     ],
@@ -139,7 +142,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0454\u043b\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belova"
     ],
     "name:urd_x_preferred":[
@@ -176,7 +179,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688105,
@@ -190,7 +193,6 @@
     "wof:concordances":{
         "gn:id":1510469,
         "gp:id":2120235,
-        "qs:id":211388,
         "qs_pg:id":211388,
         "wd:id":"Q104717",
         "wk:page":"Belovo, Kemerovo Oblast"
@@ -208,7 +210,7 @@
         }
     ],
     "wof:id":1175613491,
-    "wof:lastmodified":1563257447,
+    "wof:lastmodified":1566627438,
     "wof:name":"Belovo",
     "wof:parent_id":1108732961,
     "wof:placetype":"locality",

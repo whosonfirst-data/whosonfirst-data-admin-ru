@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":56.333706,
     "lbl:longitude":36.703837,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":56.333706,
     "mps:longitude":36.703837,
     "mz:hierarchy_label":1,
@@ -150,7 +152,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043b\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ulin"
     ],
     "name:vie_x_preferred":[
@@ -275,7 +277,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688161,
@@ -288,7 +290,6 @@
     "wof:concordances":{
         "gn:id":547523,
         "gp:id":2121429,
-        "qs:id":8482,
         "qs_pg:id":8482,
         "wd:id":"Q153698",
         "wk:page":"Klin, Klinsky District, Moscow Oblast"
@@ -306,7 +307,7 @@
         }
     ],
     "wof:id":102002903,
-    "wof:lastmodified":1563241554,
+    "wof:lastmodified":1566615691,
     "wof:name":"Klin",
     "wof:parent_id":890487039,
     "wof:placetype":"locality",

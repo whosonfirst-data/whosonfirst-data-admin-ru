@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000277,
-    "geom:area_square_m":2493021.73107,
+    "geom:area_square_m":2493021.731071,
     "geom:bbox":"46.4981422424,43.2953338623,46.5305366516,43.3106460571",
     "geom:latitude":43.303676,
     "geom:longitude":46.515062,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.303693,
     "lbl:longitude":46.520461,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.303693,
     "mps:longitude":46.520461,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Batashyurt"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_variant":[
         "\u0411\u043e\u0442\u0430\u0448\u044e\u0440\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Botashyurt"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +52,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688197
+        85688197,
+        1108734357
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":578742,
         "gp:id":1986801,
-        "qs:id":125748,
         "qs_pg:id":125748
     },
     "wof:country":"RU",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102016635,
-    "wof:lastmodified":1505338950,
+    "wof:lastmodified":1566615439,
     "wof:name":"Batashyurt",
     "wof:parent_id":1108734357,
     "wof:placetype":"locality",

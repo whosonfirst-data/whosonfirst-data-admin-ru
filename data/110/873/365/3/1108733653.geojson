@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":61.088966,
     "lbl:longitude":72.610844,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"KHanty-Mansijskij avtonomnyj okrug - JUgra",
     "meso:admin1r_en":"Ural'skij federal'nyj okrug",
     "meso:admin_1":"\u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430",
@@ -53,6 +55,7 @@
     "mps:longitude":72.610844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Neftejugansk"
     ],
@@ -60,7 +63,7 @@
         "\u0433\u043e\u0440\u043e\u0434 \u041d\u0435\u0444\u0442\u0435\u044e\u0433\u0430\u043d\u0441\u043a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687919,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108733653,
-    "wof:lastmodified":1561581943,
+    "wof:lastmodified":1566626857,
     "wof:name":"Neftejugansk",
     "wof:parent_id":85687919,
     "wof:placetype":"county",

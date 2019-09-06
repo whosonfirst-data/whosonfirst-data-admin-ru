@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":47.536078,
     "lbl:longitude":40.238163,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Rostovskaja oblast'",
     "meso:admin1r_en":"JUzhnyj federal'nyj okrug",
     "meso:admin_1":"\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":40.238163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Oktjabr'skiy"
     ],
@@ -64,9 +67,9 @@
         "\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1970",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Kamenolomny",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108735643,
-    "wof:lastmodified":1561582032,
+    "wof:lastmodified":1566627136,
     "wof:name":"Oktjabr'skiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

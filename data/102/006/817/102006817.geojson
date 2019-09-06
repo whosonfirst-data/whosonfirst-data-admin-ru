@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":48.81031,
     "lbl:longitude":44.752666,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":48.81031,
     "mps:longitude":44.752666,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0644\u062c\u0633\u0643\u064a"
     ],
@@ -238,7 +241,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688101,
@@ -268,7 +271,7 @@
         }
     ],
     "wof:id":102006817,
-    "wof:lastmodified":1563240644,
+    "wof:lastmodified":1566615341,
     "wof:name":"Volzhskiy",
     "wof:parent_id":1108737647,
     "wof:placetype":"locality",

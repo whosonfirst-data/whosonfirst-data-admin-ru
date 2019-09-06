@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000455,
-    "geom:area_square_m":3186498.913144,
+    "geom:area_square_m":3186498.913146,
     "geom:bbox":"39.9841384888,55.5249710083,40.0163879395,55.5511665344",
     "geom:latitude":55.539217,
     "geom:longitude":40.005732,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.539131,
     "lbl:longitude":40.00732,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.539131,
     "mps:longitude":40.00732,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Cherusti"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0427\u0435\u0440\u0443\u0441\u0442\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cherust\u2019"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u043f\u0433\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688161,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":568400,
         "gp:id":2120546,
-        "qs:id":125645
+        "qs_pg:id":125645
     },
     "wof:country":"RU",
     "wof:geomhash":"7165fb59b1bbd332ca85fe1f3bc49160",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102003305,
-    "wof:lastmodified":1505338918,
+    "wof:lastmodified":1566615546,
     "wof:name":"Cherust'",
     "wof:parent_id":1108736531,
     "wof:placetype":"locality",

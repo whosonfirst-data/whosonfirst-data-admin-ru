@@ -11,11 +11,15 @@
     "geom:longitude":48.47611,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":10674,
+    "gn:population":10674,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"48.45611,56.73833,48.49611,56.77833",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u0432\u0435\u0446\u043a\u0456"
     ],
@@ -64,9 +68,6 @@
     "name:tat_x_preferred":[
         "\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439"
-    ],
     "qs:name":"Sovetskiy",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Mari El Republic",
@@ -87,7 +88,7 @@
     "wof:concordances":{
         "gn:id":490040,
         "gp:id":2123600,
-        "qs:id":1305909,
+        "qs_pg:id":1305909,
         "wd:id":"Q2097829",
         "wk:page":"Sovetsky"
     },
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":890486833,
-    "wof:lastmodified":1563262759,
+    "wof:lastmodified":1566630857,
     "wof:name":"Sovetskiy",
     "wof:parent_id":1108736755,
     "wof:placetype":"locality",

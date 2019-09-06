@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001086,
-    "geom:area_square_m":8382007.073415,
+    "geom:area_square_m":8382007.073413,
     "geom:bbox":"44.0775566101,51.3547782898,44.1571388245,51.3881378174",
     "geom:latitude":51.373625,
     "geom:longitude":44.11597,
     "iso:country":"RU",
     "lbl:latitude":51.377106,
     "lbl:longitude":44.116573,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.377106,
     "mps:longitude":44.116573,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Petrozavadovka"
     ],
@@ -23,9 +26,6 @@
         "Petrozavadovka"
     ],
     "name:rus_x_preferred":[
-        "\u041f\u0435\u0442\u0440\u043e\u0437\u0430\u0432\u0430\u0434\u043e\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u0435\u0442\u0440\u043e\u0437\u0430\u0432\u0430\u0434\u043e\u0432\u043a\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687995,
         102191581,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":102005691,
-    "wof:lastmodified":1501214550,
+    "wof:lastmodified":1566615651,
     "wof:name":"Petrozavadovka",
     "wof:parent_id":1108734205,
     "wof:placetype":"locality",

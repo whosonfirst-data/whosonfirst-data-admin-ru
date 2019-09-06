@@ -9,14 +9,17 @@
     "geom:bbox":"58.1257514954,51.4013061523,58.1506958008,51.4174461365",
     "geom:latitude":51.409465,
     "geom:longitude":58.138043,
-    "geonames:id":"530934,550806",
+    "gn:id":"530934,550806",
     "iso:country":"RU",
     "lbl:latitude":51.409338,
     "lbl:longitude":58.138044,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.409338,
     "mps:longitude":58.138044,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u0425\u04d9\u043b\u0438\u043b"
     ],
@@ -51,7 +54,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688081,
         102191581,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":102011171,
-    "wof:lastmodified":1564109094,
+    "wof:lastmodified":1566615424,
     "wof:name":"Khalilovo",
     "wof:parent_id":1108733559,
     "wof:placetype":"locality",

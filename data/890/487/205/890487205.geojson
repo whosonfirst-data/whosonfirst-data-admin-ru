@@ -11,11 +11,15 @@
     "geom:longitude":37.85654,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":41146,
+    "gn:population":41146,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"37.83654,55.60945,37.87654,55.64945",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062f\u0632\u064a\u0631\u062c\u064a\u0646\u0633\u0643\u064a"
     ],
@@ -127,9 +131,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
-        "\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u043a\u0438\u0439"
-    ],
     "name:vie_x_preferred":[
         "Dzerzhinskyy"
     ],
@@ -166,7 +167,7 @@
     "wof:concordances":{
         "gn:id":563705,
         "gp:id":2004106,
-        "qs:id":240007,
+        "qs_pg:id":240007,
         "wd:id":"Q135189",
         "wk:page":"Dzerzhinsky"
     },
@@ -184,7 +185,7 @@
         }
     ],
     "wof:id":890487205,
-    "wof:lastmodified":1563262887,
+    "wof:lastmodified":1566630910,
     "wof:name":"Dzerzhinskiy",
     "wof:parent_id":1108733737,
     "wof:placetype":"locality",

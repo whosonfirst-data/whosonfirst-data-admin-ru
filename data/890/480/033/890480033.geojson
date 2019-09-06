@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":54.651581,
     "lbl:longitude":58.008056,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"CHeljabinskaja oblast'",
     "meso:admin1r_en":"Ural'skij federal'nyj okrug",
     "meso:admin_1":"\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":58.008056,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bak_x_preferred":[
         "\u04a0\u0430\u0442\u0430\u0443-\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
@@ -94,9 +97,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0442\u0430\u0432-\u0406\u0432\u0430\u043d\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041a\u0430\u0442\u0430\u0432-\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Katav-Ivanovsky"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":646,
     "wof:belongsto":[
         102191581,
@@ -128,7 +128,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598124,
-        "qs:id":1209257,
+        "qs_pg:id":1209257,
         "wd:id":"Q649172",
         "wk:page":"Katav-Ivanovsky District"
     },
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":890480033,
-    "wof:lastmodified":1563263063,
+    "wof:lastmodified":1566630991,
     "wof:name":"Katav-Ivanovskiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

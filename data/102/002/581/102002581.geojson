@@ -9,17 +9,20 @@
     "geom:bbox":"36.4064178467,58.4570274353,36.4363899231,58.4726371765",
     "geom:latitude":58.465479,
     "geom:longitude":36.421173,
-    "geonames:id":"498856,514720",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":3807,
+    "gn:id":"498856,514720",
+    "gn:population":3807,
     "iso:country":"RU",
     "lbl:latitude":58.464441,
     "lbl:longitude":36.421159,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.464441,
     "mps:longitude":36.421159,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u043d\u0434\u0430\u0432\u0430"
     ],
@@ -50,7 +53,7 @@
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d\u0434\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bandovo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -73,7 +76,7 @@
     "qs:type":"\u043f\u0433\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1162,
     "wof:belongsto":[
@@ -87,7 +90,7 @@
     "wof:concordances":{
         "gn:id":498856,
         "gp:id":2123256,
-        "qs:id":207292,
+        "qs_pg:id":207292,
         "wd:id":"Q4407541",
         "wk:page":"Sandovo"
     },
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":102002581,
-    "wof:lastmodified":1563241521,
+    "wof:lastmodified":1566615683,
     "wof:name":"Sandovo",
     "wof:parent_id":1108736381,
     "wof:placetype":"locality",

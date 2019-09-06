@@ -5,21 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001016,
-    "geom:area_square_m":7231055.681989,
+    "geom:area_square_m":7231055.681992,
     "geom:bbox":"82.9229736328,54.844417572,82.9870300293,54.872833252",
     "geom:latitude":54.860366,
     "geom:longitude":82.957412,
     "iso:country":"RU",
     "lbl:latitude":54.85876,
     "lbl:longitude":82.957893,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.85876,
     "mps:longitude":82.957893,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041b\u0435\u0432\u044b\u0435 \u0427\u0451\u043c\u044b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nizhniye Chemy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -38,7 +41,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687925,
         102191581,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102012967,
-    "wof:lastmodified":1501220063,
+    "wof:lastmodified":1566615009,
     "wof:name":"Chemskiy",
     "wof:parent_id":890480483,
     "wof:placetype":"locality",

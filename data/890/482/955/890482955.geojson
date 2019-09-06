@@ -11,9 +11,12 @@
     "geom:longitude":123.37418,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":3237,
+    "gn:population":3237,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"123.35418,66.74601,123.39418,66.78601",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -74,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0416\u0438\u0433\u0430\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shigansk"
     ],
     "ne:ADM0CAP":0.0,
@@ -191,7 +194,7 @@
     "wof:concordances":{
         "gn:id":2012530,
         "gp:id":2118198,
-        "qs:id":459544,
+        "qs_pg:id":459544,
         "wd:id":"Q2621673",
         "wk:page":"Zhigansk"
     },
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":890482955,
-    "wof:lastmodified":1563262108,
+    "wof:lastmodified":1566630577,
     "wof:name":"Zhigansk",
     "wof:parent_id":1108738115,
     "wof:placetype":"locality",

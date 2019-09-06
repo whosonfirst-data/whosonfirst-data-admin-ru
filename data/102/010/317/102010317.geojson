@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000417,
-    "geom:area_square_m":3056053.067993,
+    "geom:area_square_m":3056053.067992,
     "geom:bbox":"47.9380569458,53.678276062,47.9662208557,53.6976127625",
     "geom:latitude":53.686484,
     "geom:longitude":47.951621,
@@ -14,14 +14,14 @@
     "iso:country":"RU",
     "lbl:latitude":53.687113,
     "lbl:longitude":47.951352,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.687113,
     "mps:longitude":47.951352,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
-        "\u0421\u0442\u0430\u0440\u0430\u044f \u0415\u0440\u044b\u043a\u043b\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u0442\u0430\u0440\u0430\u044f \u0415\u0440\u044b\u043a\u043b\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +40,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687907,
         102191581,
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":102010317,
-    "wof:lastmodified":1501214473,
+    "wof:lastmodified":1566615513,
     "wof:name":"Staraya Yerykla",
     "wof:parent_id":1108736989,
     "wof:placetype":"locality",

@@ -11,10 +11,12 @@
     "geom:longitude":29.960798,
     "gn:country":"RU",
     "gn:fcode":"PPLX",
-    "gn:pop":1230,
+    "gn:population":1230,
     "iso:country":"RU",
+    "lbl:bbox":"29.9557975276,60.0777596238,29.9657975276,60.0877596238",
     "lbl:latitude":60.08276,
     "lbl:longitude":29.960798,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -36,10 +38,7 @@
     "name:rus_x_preferred":[
         "\u0420\u0430\u0437\u043b\u0438\u0432"
     ],
-    "name:unk_x_variant":[
-        "\u0420\u0430\u0437\u043b\u0438\u0432"
-    ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
         85688069,
@@ -51,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":502423,
-        "qs:id":124927
+        "qs_pg:id":124927
     },
     "wof:country":"RU",
     "wof:created":1491363491,
@@ -67,7 +66,7 @@
         }
     ],
     "wof:id":1108943041,
-    "wof:lastmodified":1534379454,
+    "wof:lastmodified":1566627418,
     "wof:name":"Razliv",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

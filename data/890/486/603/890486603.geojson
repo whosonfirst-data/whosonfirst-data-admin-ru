@@ -11,11 +11,15 @@
     "geom:longitude":131.49168,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":3603,
+    "gn:population":3603,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"131.47168,43.17314,131.51168,43.21314",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0627\u0628\u0627\u0634"
     ],
@@ -58,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u0430\u0431\u0430\u0448"
     ],
-    "name:unk_x_variant":[
-        "\u0411\u0430\u0440\u0430\u0431\u0430\u0448"
-    ],
     "name:zho_x_preferred":[
         "\u5df4\u62c9\u5df4\u4ec0"
     ],
@@ -84,7 +85,7 @@
     "wof:concordances":{
         "gn:id":2027142,
         "gp:id":2120160,
-        "qs:id":194475,
+        "qs_pg:id":194475,
         "wd:id":"Q2658770",
         "wk:page":"Barabash"
     },
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":890486603,
-    "wof:lastmodified":1563262755,
+    "wof:lastmodified":1566630856,
     "wof:name":"Barabash",
     "wof:parent_id":1108734355,
     "wof:placetype":"locality",

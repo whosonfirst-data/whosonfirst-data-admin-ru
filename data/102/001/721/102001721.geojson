@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000516,
-    "geom:area_square_m":4581215.746803,
+    "geom:area_square_m":4581215.746801,
     "geom:bbox":"132.375411987,44.0572509766,132.4012146,44.0855827332",
     "geom:latitude":44.071437,
     "geom:longitude":132.388076,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.071309,
     "lbl:longitude":132.390902,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.071309,
     "mps:longitude":132.390902,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Lyalichi"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041b\u044f\u043b\u0438\u0447\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pavlovka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +52,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688023
+        85688023,
+        1108735139
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2020644,
         "gp:id":2039069,
-        "qs:id":137523,
         "qs_pg:id":137523
     },
     "wof:country":"RU",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102001721,
-    "wof:lastmodified":1505338911,
+    "wof:lastmodified":1566615327,
     "wof:name":"Lyalichi",
     "wof:parent_id":1108735139,
     "wof:placetype":"locality",

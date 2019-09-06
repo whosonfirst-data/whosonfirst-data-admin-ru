@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":51.671793,
     "lbl:longitude":39.164955,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":51.671793,
     "mps:longitude":39.164955,
     "mz:hierarchy_label":1,
@@ -297,7 +299,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0440\u043e\u043d\u0435\u0436"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Woronesh"
     ],
     "name:urd_x_preferred":[
@@ -437,7 +439,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":154.0,
     "wd:latitude":51.671667,
@@ -472,7 +474,7 @@
         }
     ],
     "wof:id":102005387,
-    "wof:lastmodified":1563241422,
+    "wof:lastmodified":1566615658,
     "wof:megacity":1,
     "wof:name":"Voronezh",
     "wof:parent_id":890484369,

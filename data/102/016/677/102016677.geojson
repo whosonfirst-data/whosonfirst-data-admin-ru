@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.247652,
     "lbl:longitude":46.581722,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":43.247652,
     "mps:longitude":46.581722,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u062e\u0627\u0633\u0627\u0641\u064a\u0648\u0631\u062a"
     ],
@@ -229,7 +232,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0441\u0430\u0432'\u044e\u0440\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chassaw-Jurt"
     ],
     "name:urd_x_preferred":[
@@ -268,7 +271,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":43.25,
     "wd:longitude":46.583333,
@@ -284,7 +287,6 @@
     "wof:concordances":{
         "gn:id":550478,
         "gp:id":2019297,
-        "qs:id":125378,
         "qs_pg:id":125378,
         "wd:id":"Q147756",
         "wk:page":"Khasavyurt"
@@ -302,7 +304,7 @@
         }
     ],
     "wof:id":102016677,
-    "wof:lastmodified":1563240923,
+    "wof:lastmodified":1566615455,
     "wof:name":"Khasavyurt",
     "wof:parent_id":1108733771,
     "wof:placetype":"locality",

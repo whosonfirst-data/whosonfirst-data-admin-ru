@@ -9,15 +9,18 @@
     "geom:bbox":"43.59944,43.59583,43.59944,43.59583",
     "geom:latitude":43.59583,
     "geom:longitude":43.59944,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":10951,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":10951,
     "iso:country":"RU",
+    "lbl:bbox":"43.57944,43.57583,43.61944,43.61583",
     "lbl:latitude":43.59583,
     "lbl:longitude":43.59944,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:nor_x_preferred":[
         "Tsjegem Vtoroj"
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u0427\u0435\u0433\u0435\u043c \u0412\u0442\u043e\u0440\u043e\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chechem"
     ],
     "qs_pg:aaroncc":"RU",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":125656,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688089,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1125861941,
-    "wof:lastmodified":1509396688,
+    "wof:lastmodified":1566631007,
     "wof:name":"Chegem Vtoroy",
     "wof:parent_id":1108733209,
     "wof:placetype":"locality",

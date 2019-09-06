@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002116,
-    "geom:area_square_m":15498072.831178,
+    "geom:area_square_m":15498072.831174,
     "geom:bbox":"38.1742706299,53.6649131775,38.258014679,53.7080841064",
     "geom:latitude":53.686193,
     "geom:longitude":38.216281,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.682023,
     "lbl:longitude":38.219136,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.682023,
     "mps:longitude":38.219136,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Tovarkovskiy"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_variant":[
         "\u0422\u043e\u0432\u0430\u0440\u043a\u043e\u0432\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kaganovich"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +52,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688203
+        85688203,
+        1108733029
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":481938,
         "gp:id":2123947,
-        "qs:id":1305951,
         "qs_pg:id":1305951
     },
     "wof:country":"RU",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102004205,
-    "wof:lastmodified":1505338921,
+    "wof:lastmodified":1566615584,
     "wof:name":"Tovarkovskiy",
     "wof:parent_id":1108733029,
     "wof:placetype":"locality",

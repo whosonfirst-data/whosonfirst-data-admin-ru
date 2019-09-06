@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":58.882863,
     "lbl:longitude":40.262371,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":58.882863,
     "mps:longitude":40.262371,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u064a\u0627\u0632\u0648\u0641\u064a\u062a\u0633"
     ],
@@ -116,9 +119,6 @@
     "name:tur_x_preferred":[
         "Gryazovets"
     ],
-    "name:unk_x_variant":[
-        "\u0413\u0440\u044f\u0437\u043e\u0432\u0435\u0446"
-    ],
     "name:vep_x_preferred":[
         "Gr\u00e4zovec"
     ],
@@ -146,7 +146,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":58.883333,
     "wd:longitude":40.25,
@@ -161,7 +161,6 @@
     "wof:concordances":{
         "gn:id":558236,
         "gp:id":2120956,
-        "qs:id":369647,
         "qs_pg:id":369647,
         "wd:id":"Q134667",
         "wk:page":"Gryazovets"
@@ -177,7 +176,7 @@
         }
     ],
     "wof:id":102002555,
-    "wof:lastmodified":1563241551,
+    "wof:lastmodified":1566615690,
     "wof:name":"Gryazovets",
     "wof:parent_id":1108733937,
     "wof:placetype":"locality",

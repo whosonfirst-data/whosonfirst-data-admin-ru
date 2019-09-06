@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":47.679898,
     "lbl:longitude":39.587184,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Rostovskaja oblast'",
     "meso:admin1r_en":"JUzhnyj federal'nyj okrug",
     "meso:admin_1":"\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":39.587184,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u0420\u043e\u0434\u0438\u043e\u043d\u043e\u0432\u043e-\u041d\u0435\u0441\u0432\u0435\u0442\u0430\u0439\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -87,9 +90,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0434\u0456\u043e\u043d\u043e\u0432\u043e-\u041d\u0435\u0441\u0432\u0456\u0442\u0430\u0439\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0420\u043e\u0434\u0438\u043e\u043d\u043e\u0432\u043e-\u041d\u0435\u0441\u0432\u0435\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Rodionovo-Nesvetaysky"
     ],
@@ -97,9 +97,9 @@
         "\u7f85\u5b63\u5967\u8afe\u6c83-\u6d85\u65af\u97cb\u6cf0\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1551",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Rodionovo-Nesvetayskaya",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1108736297,
-    "wof:lastmodified":1563256663,
+    "wof:lastmodified":1566626959,
     "wof:name":"Rodionovo-Nesvetajskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

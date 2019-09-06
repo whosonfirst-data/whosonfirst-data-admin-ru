@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":58.056698,
     "lbl:longitude":56.604244,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":58.056698,
     "mps:longitude":56.604244,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Novye Lyady"
     ],
@@ -28,9 +31,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0456 \u041b\u044f\u0434\u0438"
-    ],
-    "name:unk_x_variant":[
-        "\u041d\u043e\u0432\u044b\u0435 \u041b\u044f\u0434\u044b"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -50,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687975,
@@ -63,7 +63,6 @@
     "wof:concordances":{
         "gn:id":517111,
         "gp:id":2122572,
-        "qs:id":125048,
         "qs_pg:id":125048,
         "wd:id":"Q4326409"
     },
@@ -80,7 +79,7 @@
         }
     ],
     "wof:id":102008429,
-    "wof:lastmodified":1514502520,
+    "wof:lastmodified":1566615291,
     "wof:name":"Novyye Lyady",
     "wof:parent_id":890484445,
     "wof:placetype":"locality",

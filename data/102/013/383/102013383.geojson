@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000524,
-    "geom:area_square_m":3882919.430172,
+    "geom:area_square_m":3882919.430173,
     "geom:bbox":"81.0796661377,53.1394996643,81.1262207031,53.1614151001",
     "geom:latitude":53.150139,
     "geom:longitude":81.105201,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.148267,
     "lbl:longitude":81.108728,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.148267,
     "mps:longitude":81.108728,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Paklino"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687835,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102013383,
-    "wof:lastmodified":1501220020,
+    "wof:lastmodified":1566615053,
     "wof:name":"Paklino",
     "wof:parent_id":1108732839,
     "wof:placetype":"locality",

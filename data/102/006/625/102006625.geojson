@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000234,
-    "geom:area_square_m":1877131.138181,
+    "geom:area_square_m":1877131.138182,
     "geom:bbox":"44.9005012512,49.6347770691,44.9334182739,49.6471099854",
     "geom:latitude":49.641254,
     "geom:longitude":44.917082,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":49.641556,
     "lbl:longitude":44.917332,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.641556,
     "mps:longitude":44.917332,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Polunino"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u0445",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688101,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102006625,
-    "wof:lastmodified":1501214542,
+    "wof:lastmodified":1566615362,
     "wof:name":"Polunino",
     "wof:parent_id":890480123,
     "wof:placetype":"locality",

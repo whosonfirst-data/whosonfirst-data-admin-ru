@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000222,
-    "geom:area_square_m":1817893.30197,
+    "geom:area_square_m":1817893.301969,
     "geom:bbox":"43.3537216187,48.4273605347,43.376083374,48.4447517395",
     "geom:latitude":48.43636,
     "geom:longitude":43.364715,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":48.437814,
     "lbl:longitude":43.362682,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.437814,
     "mps:longitude":43.362682,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Logovskiy"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u041b\u043e\u0433\u043e\u0432\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Logovskoi"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0445",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688101,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102006949,
-    "wof:lastmodified":1501214637,
+    "wof:lastmodified":1566615353,
     "wof:name":"Logovskiy",
     "wof:parent_id":890483685,
     "wof:placetype":"locality",

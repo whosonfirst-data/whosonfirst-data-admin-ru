@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":56.034243,
     "lbl:longitude":90.389462,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Krasnojarskij kraj",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":90.389462,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nazarovo"
     ],
@@ -66,7 +69,7 @@
         "\u041d\u0430\u0437\u0430\u0440\u043e\u0432\u043e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688139,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108735319,
-    "wof:lastmodified":1564124496,
+    "wof:lastmodified":1566627150,
     "wof:name":"Nazarovo",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

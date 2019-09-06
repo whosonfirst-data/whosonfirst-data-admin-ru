@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.230961,
     "lbl:longitude":50.048125,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.230961,
     "mps:longitude":50.048125,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041f\u0440\u043e\u0440\u0430\u043d"
     ],
@@ -34,7 +37,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687781,
         102191581,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":102011635,
-    "wof:lastmodified":1501214534,
+    "wof:lastmodified":1566615393,
     "wof:name":"Proran",
     "wof:parent_id":890484437,
     "wof:placetype":"locality",

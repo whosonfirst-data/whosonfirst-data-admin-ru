@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000721,
-    "geom:area_square_m":5285144.614421,
+    "geom:area_square_m":5285144.61442,
     "geom:bbox":"38.0832519531,53.6413612366,38.1441001892,53.6582107544",
     "geom:latitude":53.65019,
     "geom:longitude":38.113873,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.650489,
     "lbl:longitude":38.114453,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.650489,
     "mps:longitude":38.114453,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kuzovka"
     ],
@@ -25,9 +28,6 @@
         "Kuzovka"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0443\u0437\u043e\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0443\u0437\u043e\u0432\u043a\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688203,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102004229,
-    "wof:lastmodified":1501214646,
+    "wof:lastmodified":1566615571,
     "wof:name":"Kuzovka",
     "wof:parent_id":1108733029,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":31.48333,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":5159,
+    "gn:population":5159,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"31.46333,59.83,31.50333,59.87",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0440\u0438\u043b\u0430\u0434\u043e\u0436\u043a\u0438"
     ],
@@ -79,9 +83,6 @@
     "name:srp_x_preferred":[
         "\u041f\u0440\u0438\u043b\u0430\u0434\u043e\u0448\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "\u041f\u0440\u0438\u043b\u0430\u0434\u043e\u0436\u0441\u043a\u0438\u0439"
-    ],
     "qs:name":"Priladozhskiy",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Leningrad Oblast",
@@ -103,7 +104,7 @@
     "wof:concordances":{
         "gn:id":866055,
         "gp:id":55875332,
-        "qs:id":946349,
+        "qs_pg:id":946349,
         "wd:id":"Q4819"
     },
     "wof:country":"RU",
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":890481361,
-    "wof:lastmodified":1563262664,
+    "wof:lastmodified":1566630811,
     "wof:name":"Priladozhskiy",
     "wof:parent_id":890484443,
     "wof:placetype":"locality",

@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000298,
-    "geom:area_square_m":1836377.247828,
+    "geom:area_square_m":1836377.247826,
     "geom:bbox":"38.8136672974,60.1522483826,38.845664978,60.169303894",
     "geom:latitude":60.159768,
     "geom:longitude":38.828388,
     "iso:country":"RU",
     "lbl:latitude":60.159898,
     "lbl:longitude":38.826812,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.159898,
     "mps:longitude":38.826812,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Petrakovo Brdo"
     ],
@@ -49,9 +52,6 @@
     "name:srp_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0430\u043a\u043e\u0432\u043e \u0411\u0440\u0434\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u041f\u0435\u0442\u0440\u0430\u043a\u043e\u0432\u043e"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0412\u043e\u043b\u043e\u0433\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1r":"*",
@@ -65,7 +65,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":33,
     "wof:belongsto":[
         85687853,
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":102002153,
-    "wof:lastmodified":1527637967,
+    "wof:lastmodified":1566615688,
     "wof:name":"Petrakovo",
     "wof:parent_id":890480135,
     "wof:placetype":"locality",

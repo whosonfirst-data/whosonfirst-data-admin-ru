@@ -11,11 +11,15 @@
     "geom:longitude":31.11667,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"31.09667,59.68,31.13667,59.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u0421\u043e\u043b\u043e\u0433\u0443\u0431\u043e\u0432\u043a\u0430"
     ],
@@ -46,9 +50,6 @@
     "name:tat_x_preferred":[
         "\u0421\u043e\u043b\u043e\u0433\u0443\u0431\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u043e\u043b\u043e\u0433\u0443\u0431\u043e\u0432\u043a\u0430"
-    ],
     "qs:name":"Sologubovka",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Leningrad Oblast",
@@ -70,7 +71,7 @@
     "wof:concordances":{
         "gn:id":490938,
         "gp:id":2123559,
-        "qs:id":1140140
+        "qs_pg:id":1140140
     },
     "wof:country":"RU",
     "wof:created":1469054522,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":890484621,
-    "wof:lastmodified":1564129076,
+    "wof:lastmodified":1566630682,
     "wof:name":"Sologubovka",
     "wof:parent_id":890484443,
     "wof:placetype":"locality",

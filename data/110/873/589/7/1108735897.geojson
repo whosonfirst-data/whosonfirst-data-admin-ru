@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":54.718671,
     "lbl:longitude":44.815477,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Nizheskaja oblast'",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":44.815477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Pochinkovskiy"
     ],
@@ -63,9 +66,9 @@
         "\u041f\u043e\u0447\u0438\u043d\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1970",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Pochinkiy",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108735897,
-    "wof:lastmodified":1561582020,
+    "wof:lastmodified":1566627099,
     "wof:name":"Pochinkovskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

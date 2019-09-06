@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":53.060965,
     "lbl:longitude":50.621725,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Samara",
     "meso:name_alt2":"Samarskaja oblast'",
     "meso:name_local":"\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -336,10 +337,6 @@
         "\u0421\u0430\u043c\u0430\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "Samarskaja oblast'",
-        "Samara"
-    ],
-    "name:unk_x_variant":[
         "Kuybyshevskaya Oblast\u2019"
     ],
     "name:urd_x_preferred":[
@@ -438,9 +435,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"53,600",
     "statoids:area_mi":"20,700",
     "statoids:as_of_date":"2010-10-14",
@@ -502,11 +499,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734442,
+    "wof:lastmodified":1566618580,
     "wof:name":"Samara",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":3215532,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

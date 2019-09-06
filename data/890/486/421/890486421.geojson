@@ -11,9 +11,12 @@
     "geom:longitude":150.93433,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":4534,
+    "gn:population":4534,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"150.91433,60.08183,150.95433,60.12183",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -66,9 +69,6 @@
         "Palatka"
     ],
     "name:ukr_x_preferred":[
-        "\u041f\u0430\u043b\u0430\u0442\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u0430\u043b\u0430\u0442\u043a\u0430"
     ],
     "ne:ADM0CAP":0.0,
@@ -185,7 +185,7 @@
     "wof:concordances":{
         "gn:id":2122256,
         "gp:id":2122734,
-        "qs:id":190261,
+        "qs_pg:id":190261,
         "wd:id":"Q958263",
         "wk:page":"Palatka"
     },
@@ -203,7 +203,7 @@
         }
     ],
     "wof:id":890486421,
-    "wof:lastmodified":1563262794,
+    "wof:lastmodified":1566630872,
     "wof:name":"Palatka",
     "wof:parent_id":1108734359,
     "wof:placetype":"locality",

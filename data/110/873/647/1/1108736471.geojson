@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":59.893669,
     "lbl:longitude":93.150526,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Krasnojarskij kraj",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":93.150526,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u0430-\u0415\u043d\u0456\u0441\u0435\u0439\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -90,9 +93,6 @@
     "name:srp_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043e-\u0408\u0435\u043d\u0438\u0441\u0435\u0458\u0441\u043a\u0438 \u0440\u0435\u0458\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0421\u0435\u0432\u0435\u0440\u043e-\u0415\u043d\u0438\u0441\u0435\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Severo-Eniseysky"
     ],
@@ -100,7 +100,7 @@
         "\u5317\u5ef6\u8b1d\u4f0a\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688139,
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":1108736471,
-    "wof:lastmodified":1563257056,
+    "wof:lastmodified":1566627195,
     "wof:name":"Severo-Enisejskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

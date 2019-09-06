@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.923514,
     "lbl:longitude":39.340751,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.923514,
     "mps:longitude":39.340751,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ramon'"
     ],
@@ -64,7 +67,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043c\u043e\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ramon\u2019"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":367,
     "wof:belongsto":[
@@ -99,7 +102,6 @@
     "wof:concordances":{
         "gn:id":502895,
         "gp:id":2073569,
-        "qs:id":124938,
         "qs_pg:id":124938,
         "wd:id":"Q385986",
         "wk:page":"Ramon, Russia"
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":102005203,
-    "wof:lastmodified":1563241360,
+    "wof:lastmodified":1566615628,
     "wof:name":"Ramon",
     "wof:parent_id":890487107,
     "wof:placetype":"locality",

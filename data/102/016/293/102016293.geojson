@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.576198,
     "lbl:longitude":44.120372,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.576198,
     "mps:longitude":44.120372,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Arik"
     ],
@@ -157,7 +160,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":131,
     "wof:belongsto":[
         85688089,
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":102016293,
-    "wof:lastmodified":1563240887,
+    "wof:lastmodified":1566615439,
     "wof:name":"Arik",
     "wof:parent_id":1108736997,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.655487,
     "lbl:longitude":113.958768,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.655487,
     "mps:longitude":113.958768,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0631\u0627\u0633\u0648\u0646"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":2025121,
         "gp:id":2120610,
-        "qs:id":137582,
         "qs_pg:id":137582
     },
     "wof:country":"RU",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":102014679,
-    "wof:lastmodified":1564108780,
+    "wof:lastmodified":1566615127,
     "wof:name":"Darasun",
     "wof:parent_id":1108734289,
     "wof:placetype":"locality",

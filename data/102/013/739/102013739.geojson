@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.012335,
     "lbl:longitude":85.89984,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.012335,
     "mps:longitude":85.89984,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Mayma"
     ],
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0439\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mayma-Chergachak"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,6 @@
     "wof:concordances":{
         "gn:id":1499163,
         "gp:id":2044191,
-        "qs:id":886390,
         "qs_pg:id":886390
     },
     "wof:country":"RU",
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":102013739,
-    "wof:lastmodified":1564108676,
+    "wof:lastmodified":1566615035,
     "wof:name":"Mayma",
     "wof:parent_id":1108735009,
     "wof:placetype":"locality",

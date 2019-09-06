@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000497,
-    "geom:area_square_m":3604655.904744,
+    "geom:area_square_m":3604655.904742,
     "geom:bbox":"48.6238212585,54.0451850891,48.6591491699,54.0668106079",
     "geom:latitude":54.055145,
     "geom:longitude":48.638935,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.05526,
     "lbl:longitude":48.637505,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.05526,
     "mps:longitude":48.637505,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shilovka"
     ],
@@ -45,17 +48,17 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687907
+        85687907,
+        1108736431
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":494438,
         "gp:id":2082853,
-        "qs:id":1162283,
         "qs_pg:id":1162283
     },
     "wof:country":"RU",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102010111,
-    "wof:lastmodified":1497290860,
+    "wof:lastmodified":1566615486,
     "wof:name":"Shilovka",
     "wof:parent_id":1108736431,
     "wof:placetype":"locality",

@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":55.892104,
     "lbl:longitude":37.531497,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Moskva",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u041c\u043e\u0441\u043a\u0432\u0430",
@@ -53,6 +55,7 @@
     "mps:longitude":37.531497,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062f\u0645\u064a\u062a\u0631\u0648\u0641 \u0631\u0627\u064a\u0648\u0646"
     ],
@@ -105,9 +108,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u043c\u0438\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0414\u043c\u0438\u0442\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Dmitrovsky"
     ],
@@ -115,7 +115,7 @@
         "\u5fb7\u7c73\u7279\u7f57\u592b\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688085,
@@ -139,7 +139,7 @@
         }
     ],
     "wof:id":1108733381,
-    "wof:lastmodified":1563256470,
+    "wof:lastmodified":1566626839,
     "wof:name":"Dmitrovskiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

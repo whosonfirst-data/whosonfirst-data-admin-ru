@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":59.918388,
     "lbl:longitude":55.070677,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Permskij kraj",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":55.070677,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u041a\u043e\u0441\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -93,9 +96,6 @@
     "name:udm_x_preferred":[
         "\u041a\u043e\u0441\u0430 \u0451\u0440\u043e\u0441"
     ],
-    "name:und_x_variant":[
-        "\u041a\u043e\u0441\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Kosinsky"
     ],
@@ -103,7 +103,7 @@
         "\u79d1\u8f9b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687975,
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":1108734609,
-    "wof:lastmodified":1563257128,
+    "wof:lastmodified":1566627240,
     "wof:name":"Kosinskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

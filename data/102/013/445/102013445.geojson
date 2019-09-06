@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000677,
-    "geom:area_square_m":5042603.192152,
+    "geom:area_square_m":5042603.192157,
     "geom:bbox":"82.680229187,52.9426193237,82.7214736938,52.9757347107",
     "geom:latitude":52.960104,
     "geom:longitude":82.700835,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.960749,
     "lbl:longitude":82.701148,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.960749,
     "mps:longitude":82.701148,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Municipi de T\u00e5rnby"
     ],
@@ -57,7 +60,7 @@
     "name:spa_x_preferred":[
         "T\u00e5rnby"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ziminskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -73,7 +76,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687835,
         102191581,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":102013445,
-    "wof:lastmodified":1501219984,
+    "wof:lastmodified":1566615073,
     "wof:name":"Zimino",
     "wof:parent_id":1108736275,
     "wof:placetype":"locality",

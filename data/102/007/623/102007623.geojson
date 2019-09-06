@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000228,
-    "geom:area_square_m":1958994.224888,
+    "geom:area_square_m":1958994.224887,
     "geom:bbox":"41.2588043213,46.0281105042,41.2811927795,46.0424156189",
     "geom:latitude":46.035214,
     "geom:longitude":41.270612,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":46.035639,
     "lbl:longitude":41.270825,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.035639,
     "mps:longitude":41.270825,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Letnik"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041b\u0435\u0442\u043d\u0438\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Letnytskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +52,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688033
+        85688033,
+        1108735823
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":535625,
         "gp:id":2121917,
-        "qs:id":549597,
         "qs_pg:id":549597
     },
     "wof:country":"RU",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102007623,
-    "wof:lastmodified":1505338928,
+    "wof:lastmodified":1566615184,
     "wof:name":"Letnik",
     "wof:parent_id":1108735823,
     "wof:placetype":"locality",

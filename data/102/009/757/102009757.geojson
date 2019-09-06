@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000656,
-    "geom:area_square_m":4696837.642376,
+    "geom:area_square_m":4696837.642382,
     "geom:bbox":"48.896282196,54.5916748047,48.9487190247,54.6096725464",
     "geom:latitude":54.60052,
     "geom:longitude":48.922051,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.599888,
     "lbl:longitude":48.918929,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.599888,
     "mps:longitude":48.918929,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pribrezhnoye"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687907,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102009757,
-    "wof:lastmodified":1501214538,
+    "wof:lastmodified":1566615235,
     "wof:name":"Pribrezhnoye",
     "wof:parent_id":1108736795,
     "wof:placetype":"locality",

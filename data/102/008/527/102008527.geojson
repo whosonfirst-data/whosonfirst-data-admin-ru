@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00021,
-    "geom:area_square_m":1389070.784307,
+    "geom:area_square_m":1389070.784305,
     "geom:bbox":"51.4984741211,57.6464729309,51.5241928101,57.6603050232",
     "geom:latitude":57.653656,
     "geom:longitude":51.512218,
     "iso:country":"RU",
     "lbl:latitude":57.654072,
     "lbl:longitude":51.512463,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.654072,
     "mps:longitude":51.512463,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bxr_x_preferred":[
         "\u041c\u04af\u043d\u0445\u044d \u04ba\u0430\u0440\u044c\u0434\u0430\u0433"
     ],
@@ -55,9 +58,6 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u0440\u0434\u044b\u043a"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u0430\u0440\u0434\u044b\u043a"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"4303500004400",
@@ -74,7 +74,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687903,
         102191581,
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":102008527,
-    "wof:lastmodified":1501214508,
+    "wof:lastmodified":1566615279,
     "wof:name":"Sardyk",
     "wof:parent_id":1108737179,
     "wof:placetype":"locality",

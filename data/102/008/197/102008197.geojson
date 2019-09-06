@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":59.32691,
     "lbl:longitude":50.830163,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.32691,
     "mps:longitude":50.830163,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bak_x_preferred":[
         "\u041d\u0430\u0433\u043e\u0440\u0441\u043a"
     ],
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0433\u043e\u0440\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nagorskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,7 +92,6 @@
     "wof:concordances":{
         "gn:id":523583,
         "gp:id":2122321,
-        "qs:id":80742,
         "qs_pg:id":80742
     },
     "wof:country":"RU",
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":102008197,
-    "wof:lastmodified":1564108937,
+    "wof:lastmodified":1566615286,
     "wof:name":"Nagorsk",
     "wof:parent_id":1108735301,
     "wof:placetype":"locality",

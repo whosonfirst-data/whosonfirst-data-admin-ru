@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001504,
-    "geom:area_square_m":11671344.147111,
+    "geom:area_square_m":11671344.147114,
     "geom:bbox":"40.2606658936,51.1063041687,40.3183898926,51.1513328552",
     "geom:latitude":51.126428,
     "geom:longitude":40.296613,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.1246,
     "lbl:longitude":40.298581,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.1246,
     "mps:longitude":40.298581,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Khrenovoye"
     ],
@@ -26,7 +29,7 @@
     "name:rus_x_preferred":[
         "\u0425\u0440\u0435\u043d\u043e\u0432\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chernowje"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":67,
     "wof:belongsto":[
@@ -60,7 +63,6 @@
     "wof:concordances":{
         "gn:id":549266,
         "gp:id":2121353,
-        "qs:id":549758,
         "qs_pg:id":549758
     },
     "wof:country":"RU",
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":102005925,
-    "wof:lastmodified":1527637959,
+    "wof:lastmodified":1566615635,
     "wof:name":"Khrenovoye",
     "wof:parent_id":1108733023,
     "wof:placetype":"locality",

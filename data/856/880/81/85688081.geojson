@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":52.136612,
     "lbl:longitude":54.356193,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Orenburg",
     "meso:name_alt2":"Orenburgskaja oblast'",
     "meso:name_local":"\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -288,10 +289,6 @@
         "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433"
     ],
     "name:und_x_variant":[
-        "Orenburgskaja oblast'",
-        "Orenburg"
-    ],
-    "name:unk_x_variant":[
         "Chkalov Oblast"
     ],
     "name:urd_x_preferred":[
@@ -381,9 +378,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"124,000",
     "statoids:area_mi":"47,900",
     "statoids:as_of_date":"2010-10-14",
@@ -445,11 +442,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734411,
+    "wof:lastmodified":1566618522,
     "wof:name":"Orenburg",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":2033072,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

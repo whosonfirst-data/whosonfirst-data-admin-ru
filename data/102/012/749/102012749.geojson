@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000516,
-    "geom:area_square_m":3585413.696911,
+    "geom:area_square_m":3585413.696912,
     "geom:bbox":"89.5624694824,55.831111908,89.5979995728,55.859500885",
     "geom:latitude":55.844534,
     "geom:longitude":89.581195,
     "iso:country":"RU",
     "lbl:latitude":55.843203,
     "lbl:longitude":89.578504,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.843203,
     "mps:longitude":89.578504,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ber\u00ebzovskoye"
     ],
@@ -24,9 +27,6 @@
     ],
     "name:rus_x_variant":[
         "\u0411\u0435\u0440\u0451\u0437\u043e\u0432\u0441\u043a\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Ber\u00ebzovskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -41,7 +41,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":116,
     "wof:belongsto":[
         85688139,
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":102012749,
-    "wof:lastmodified":1527636471,
+    "wof:lastmodified":1566615003,
     "wof:name":"Berezovskoye",
     "wof:parent_id":1108736521,
     "wof:placetype":"locality",

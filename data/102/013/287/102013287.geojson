@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.510566,
     "lbl:longitude":87.281082,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":53.510566,
     "mps:longitude":87.281082,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0644\u062a\u0627\u0646"
     ],
@@ -109,7 +112,7 @@
     "name:tur_x_preferred":[
         "Kaltan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nizhniy Kaltan"
     ],
     "name:vep_x_preferred":[
@@ -142,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.516667,
     "wd:longitude":87.266667,
@@ -157,7 +160,6 @@
     "wof:concordances":{
         "gn:id":1504972,
         "gp:id":2015258,
-        "qs:id":133011,
         "qs_pg:id":133011,
         "wd:id":"Q143722"
     },
@@ -172,7 +174,7 @@
         }
     ],
     "wof:id":102013287,
-    "wof:lastmodified":1563239977,
+    "wof:lastmodified":1566615042,
     "wof:name":"Kaltan",
     "wof:parent_id":1108734211,
     "wof:placetype":"locality",

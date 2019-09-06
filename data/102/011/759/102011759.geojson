@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.69259,
     "lbl:longitude":71.165773,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.69259,
     "mps:longitude":71.165773,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Oberschenkelknochen von Ust-Ischim"
     ],
@@ -49,7 +52,7 @@
     "name:spa_x_preferred":[
         "Hombre de Ust\u2019-Ishim"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ust\u2019-Ishim"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1032,
     "wof:belongsto":[
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":1488206,
         "gp:id":2101425,
-        "qs:id":85041,
         "qs_pg:id":85041,
         "wd:id":"Q18357554"
     },
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":102011759,
-    "wof:lastmodified":1563240805,
+    "wof:lastmodified":1566615406,
     "wof:name":"Ust-Ishim",
     "wof:parent_id":1108737233,
     "wof:placetype":"locality",

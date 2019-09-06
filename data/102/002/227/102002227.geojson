@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":61.244863,
     "lbl:longitude":73.401863,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":61.244863,
     "mps:longitude":73.401863,
     "mz:hierarchy_label":1,
@@ -225,9 +227,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0440\u0433\u0443\u0442"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u0443\u0440\u0433\u0443\u0442"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0631\u06af\u0648\u062a"
     ],
@@ -356,7 +355,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":61.25,
     "wd:longitude":73.433333,
@@ -371,10 +370,12 @@
     "wof:concordances":{
         "gn:id":1490624,
         "gp:id":2123750,
-        "qs:id":350231,
         "qs_pg:id":241712,
         "wd:id":"Q183002",
         "wk:page":"Surgut"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":350231
     },
     "wof:country":"RU",
     "wof:geomhash":"328d8734170770c9f426637223dd6812",
@@ -387,7 +388,7 @@
         }
     ],
     "wof:id":102002227,
-    "wof:lastmodified":1563241462,
+    "wof:lastmodified":1566615669,
     "wof:megacity":0,
     "wof:name":"Surgut",
     "wof:parent_id":1108733677,

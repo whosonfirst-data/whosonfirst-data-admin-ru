@@ -11,11 +11,15 @@
     "geom:longitude":82.9909,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":16894,
+    "gn:population":16894,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"82.9709,54.8998,83.0109,54.9398",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Krasnoobsk"
     ],
@@ -43,9 +47,6 @@
     "name:rus_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u043e\u0431\u0441\u043a"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0440\u0430\u0441\u043d\u043e\u043e\u0431\u0441\u043a"
-    ],
     "qs:name":"Krasnoobsk",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Novosibirsk Oblast",
@@ -69,7 +70,7 @@
     "wof:concordances":{
         "gn:id":1502091,
         "gp:id":2028838,
-        "qs:id":461215,
+        "qs_pg:id":461215,
         "wd:id":"Q1669077"
     },
     "wof:country":"RU",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":890486123,
-    "wof:lastmodified":1563262829,
+    "wof:lastmodified":1566630885,
     "wof:name":"Krasnoobsk",
     "wof:parent_id":890478807,
     "wof:placetype":"locality",

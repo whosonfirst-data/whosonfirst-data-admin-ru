@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000524,
-    "geom:area_square_m":3519514.945921,
+    "geom:area_square_m":3519514.945925,
     "geom:bbox":"86.1965255737,57.0665283203,86.2408905029,57.0877761841",
     "geom:latitude":57.075181,
     "geom:longitude":86.222945,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.077429,
     "lbl:longitude":86.228827,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.077429,
     "mps:longitude":86.228827,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Pervomayskoye"
     ],
@@ -26,7 +29,7 @@
     "name:rus_x_preferred":[
         "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pyshkino-Troitskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":161,
     "wof:belongsto":[
@@ -60,7 +63,6 @@
     "wof:concordances":{
         "gn:id":1495256,
         "gp:id":2064754,
-        "qs:id":1031472,
         "qs_pg:id":1031472
     },
     "wof:country":"RU",
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":102012623,
-    "wof:lastmodified":1527636474,
+    "wof:lastmodified":1566615016,
     "wof:name":"Pervomayskoye",
     "wof:parent_id":1108735819,
     "wof:placetype":"locality",

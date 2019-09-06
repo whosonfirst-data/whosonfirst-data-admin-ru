@@ -11,10 +11,14 @@
     "geom:longitude":59.5179,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":880,
+    "gn:population":880,
     "iso:country":"RU",
+    "lbl:bbox":"59.4979,57.8741,59.5379,57.9141",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Sinegorskiy"
     ],
@@ -22,9 +26,6 @@
         "Sinegorskij"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u0438\u043d\u0435\u0433\u043e\u0440\u0441\u043a\u0438\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u0438\u043d\u0435\u0433\u043e\u0440\u0441\u043a\u0438\u0439"
     ],
     "qs:name":"Sinegorskiy",
@@ -43,7 +44,7 @@
     "wof:concordances":{
         "gn:id":492852,
         "gp:id":90667415,
-        "qs:id":549159
+        "qs_pg:id":549159
     },
     "wof:country":"RU",
     "wof:created":1469054318,
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":890480685,
-    "wof:lastmodified":1505343743,
+    "wof:lastmodified":1566630984,
     "wof:name":"Sinegorskiy",
     "wof:parent_id":1108733615,
     "wof:placetype":"locality",

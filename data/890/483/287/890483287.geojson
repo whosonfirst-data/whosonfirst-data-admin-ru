@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":62.831311,
     "lbl:longitude":43.402117,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Arkhangel'skaja oblast'",
     "meso:admin1r_en":"Severo-Zapadnyj federal'nyj okrug",
     "meso:admin_1":"\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":43.402117,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -103,9 +106,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Vinogradovsky"
     ],
@@ -126,9 +126,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"12476",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Bereznik",
@@ -150,7 +150,7 @@
     "wof:concordances":{
         "gp:id":12598036,
         "hasc:id":"RU.AR.VN",
-        "qs:id":908250,
+        "qs_pg:id":908250,
         "wd:id":"Q2601472",
         "wk:page":"Vinogradovsky District"
     },
@@ -167,7 +167,7 @@
         }
     ],
     "wof:id":890483287,
-    "wof:lastmodified":1563262241,
+    "wof:lastmodified":1566630630,
     "wof:name":"Vinogradovskiy",
     "wof:parent_id":85687971,
     "wof:placetype":"county",

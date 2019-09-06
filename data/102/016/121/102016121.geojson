@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":44.029731,
     "lbl:longitude":43.067117,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":44.029731,
     "mps:longitude":43.067117,
     "mz:hierarchy_label":1,
@@ -236,7 +238,7 @@
     "name:ukr_x_variant":[
         "\u041f\u044f\u0442\u0438\u0433\u043e\u0440\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Five Mountains"
     ],
     "name:urd_x_preferred":[
@@ -373,7 +375,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":44.033333,
     "wd:longitude":43.05,
@@ -389,7 +391,6 @@
     "wof:concordances":{
         "gn:id":503550,
         "gp:id":2072941,
-        "qs:id":237529,
         "qs_pg:id":237529,
         "wd:id":"Q41970",
         "wk:page":"Pyatigorsk"
@@ -405,7 +406,7 @@
         }
     ],
     "wof:id":102016121,
-    "wof:lastmodified":1563240901,
+    "wof:lastmodified":1566615444,
     "wof:name":"Pyatigorsk",
     "wof:parent_id":1108735883,
     "wof:placetype":"locality",

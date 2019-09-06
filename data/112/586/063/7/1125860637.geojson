@@ -9,15 +9,18 @@
     "geom:bbox":"37.24215,52.81165,37.24215,52.81165",
     "geom:latitude":52.81165,
     "geom:longitude":37.24215,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8100,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":8100,
     "iso:country":"RU",
+    "lbl:bbox":"37.22215,52.79165,37.26215,52.83165",
     "lbl:latitude":52.81165,
     "lbl:longitude":37.24215,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Verkhov'ye"
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043e\u0432\u044c\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verkhove"
     ],
     "qs_pg:aaroncc":"RU",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":207976,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85687849,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1125860637,
-    "wof:lastmodified":1509396593,
+    "wof:lastmodified":1566631008,
     "wof:name":"Verkhov\u2019ye",
     "wof:parent_id":1108737385,
     "wof:placetype":"locality",

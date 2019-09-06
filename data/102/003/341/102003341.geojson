@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.488278,
     "lbl:longitude":37.313939,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":55.488278,
     "mps:longitude":37.313939,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062a\u0631\u0648\u064a\u062a\u0633\u0643"
     ],
@@ -139,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -151,7 +154,6 @@
     "wof:concordances":{
         "gn:id":481608,
         "gp:id":2103594,
-        "qs:id":349452,
         "qs_pg:id":349452,
         "wd:id":"Q196691",
         "wk:page":"Troitsk, Moscow"
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":102003341,
-    "wof:lastmodified":1563241131,
+    "wof:lastmodified":1566615535,
     "wof:name":"Troitsk",
     "wof:parent_id":1108735435,
     "wof:placetype":"locality",

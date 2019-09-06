@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":47.128019,
     "lbl:longitude":39.749451,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":47.128019,
     "mps:longitude":39.749451,
     "mz:hierarchy_label":1,
@@ -200,7 +202,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0442\u0430\u0439\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gorodovikovsk"
     ],
     "name:urd_x_preferred":[
@@ -328,7 +330,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":47.133333,
     "wd:longitude":39.75,
@@ -343,7 +345,6 @@
     "wof:concordances":{
         "gn:id":578740,
         "gp:id":1986770,
-        "qs:id":349733,
         "qs_pg:id":349733,
         "wd:id":"Q104649",
         "wk:page":"Bataysk"
@@ -359,7 +360,7 @@
         }
     ],
     "wof:id":102007321,
-    "wof:lastmodified":1563240291,
+    "wof:lastmodified":1566615200,
     "wof:name":"Bataysk",
     "wof:parent_id":1108732903,
     "wof:placetype":"locality",

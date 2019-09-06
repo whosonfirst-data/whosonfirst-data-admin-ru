@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9036066.733522,
+    "geom:area_square_m":0.0,
     "geom:bbox":"33.086438,68.97662,33.086438,68.97662",
     "geom:latitude":68.97662,
     "geom:longitude":33.086438,
     "gn:latitude":68.97506,
     "gn:longitude":33.11055,
     "iso:country":"RU",
+    "lbl:bbox":"33.081438,68.97162,33.091438,68.98162",
     "lbl:latitude":68.97662,
     "lbl:longitude":33.086438,
+    "lbl:max_zoom":18.0,
     "mps:latitude":68.979656,
     "mps:longitude":33.108485,
     "mz:hierarchy_label":0,
@@ -30,10 +32,6 @@
     ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0435 \u041f\u043b\u0430\u0442\u043e"
-    ],
-    "name:unk_x_variant":[
-        "\u041d\u043e\u0432\u043e\u0435 \u041f\u043b\u0430\u0442\u043e",
-        "Novoye Plato"
     ],
     "qs:gn_adm0_cc":"RU",
     "qs:gn_fcode":"PPLX",
@@ -63,20 +61,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687869,
         102191581,
         85632685,
         102001883,
         874393555,
-        890481183
+        890481183,
+        85687869
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":795259,
         "gp:id":2057386,
-        "qs:id":189960,
         "qs_pg:id":189960
     },
     "wof:country":"RU",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936046,
+    "wof:lastmodified":1566618514,
     "wof:name":"Novoye Plato",
     "wof:parent_id":102001883,
     "wof:placetype":"neighbourhood",

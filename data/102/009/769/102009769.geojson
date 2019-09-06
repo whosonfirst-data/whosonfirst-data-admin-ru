@@ -9,18 +9,21 @@
     "geom:bbox":"53.4288330078,54.5728874207,53.4856681824,54.6075820923",
     "geom:latitude":54.587752,
     "geom:longitude":53.460526,
-    "geonames:id":"478565,488010",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":11279,
+    "gn:id":"478565,488010",
+    "gn:population":11279,
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:latitude":54.585539,
     "lbl:longitude":53.460957,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":54.585539,
     "mps:longitude":53.460957,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bak_x_preferred":[
         "\u0423\u0440\u044b\u0441\u0441\u0443"
     ],
@@ -57,9 +60,6 @@
     "name:tat_x_preferred":[
         "\u0423\u0440\u044b\u0441\u0441\u0443"
     ],
-    "name:unk_x_variant":[
-        "\u0423\u0440\u0443\u0441\u0441\u0443"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d (\u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d)",
     "qs:a1_lc":"1604400000100",
@@ -87,7 +87,7 @@
     "qs:type":"\u043f\u0433\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1009,
     "wof:belongsto":[
@@ -101,7 +101,7 @@
     "wof:concordances":{
         "gn:id":478565,
         "gp:id":2100792,
-        "qs:id":1309549,
+        "qs_pg:id":1309549,
         "wd:id":"Q4477419",
         "wk:page":"Yutazinsky District"
     },
@@ -118,7 +118,7 @@
         }
     ],
     "wof:id":102009769,
-    "wof:lastmodified":1563240360,
+    "wof:lastmodified":1566615233,
     "wof:name":"Urussu",
     "wof:parent_id":1108734157,
     "wof:placetype":"locality",

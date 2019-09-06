@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":42.055346,
     "lbl:longitude":48.286062,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Dagestan",
     "meso:admin1r_en":"Severo-Kavkazskij federal'nyj okrug",
     "meso:admin_1":"\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d",
@@ -53,6 +55,7 @@
     "mps:longitude":48.286062,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Derbent"
     ],
@@ -264,7 +267,7 @@
         "\u5091\u723e\u8cd3\u7279"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688197,
@@ -286,7 +289,7 @@
         }
     ],
     "wof:id":1108733727,
-    "wof:lastmodified":1564124601,
+    "wof:lastmodified":1566627388,
     "wof:name":"Derbent",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

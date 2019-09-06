@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"42.1326,47.85,42.1726,47.89",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u062a\u0648\u0646\u0648\u0641"
     ],
@@ -130,10 +134,6 @@
     "name:tur_x_preferred":[
         "Antonov"
     ],
-    "name:und_x_variant":[
-        "\u0410\u043d\u0442\u043e\u043d\u043e\u0432",
-        "Antonov"
-    ],
     "name:vie_x_preferred":[
         "Antonov"
     ],
@@ -157,7 +157,7 @@
         }
     ],
     "wof:id":1209133081,
-    "wof:lastmodified":1564120053,
+    "wof:lastmodified":1566624048,
     "wof:name":"Antonov",
     "wof:parent_id":85632685,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00092,
-    "geom:area_square_m":8099181.594618,
+    "geom:area_square_m":8099181.594615,
     "geom:bbox":"41.6512489319,44.5680274963,41.6992759705,44.5953330994",
     "geom:latitude":44.583289,
     "geom:longitude":41.671545,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.58164,
     "lbl:longitude":41.668691,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.58164,
     "mps:longitude":41.668691,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kaz'minskoye"
     ],
@@ -29,9 +32,6 @@
     ],
     "name:rus_x_variant":[
         "Kaz\u2019minskoye",
-        "Koz\u2019minskoye"
-    ],
-    "name:unk_x_variant":[
         "Koz\u2019minskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -50,7 +50,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687825,
         102191581,
@@ -62,7 +62,7 @@
     "wof:concordances":{
         "gn:id":551288,
         "gp:id":2017964,
-        "qs:id":345682
+        "qs_pg:id":345682
     },
     "wof:country":"RU",
     "wof:geomhash":"d04f9886d5a1aed80870063594267bbc",
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":102015869,
-    "wof:lastmodified":1501214697,
+    "wof:lastmodified":1566614942,
     "wof:name":"Kazminskaye",
     "wof:parent_id":1108734517,
     "wof:placetype":"locality",

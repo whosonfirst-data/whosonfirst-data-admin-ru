@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":52.609663,
     "lbl:longitude":81.107825,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Altajskij kraj",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":81.107825,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Romanovskiy Rayon"
     ],
@@ -84,16 +87,13 @@
     "name:rus_x_preferred":[
         "\u0420\u043e\u043c\u0430\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0420\u043e\u043c\u0430\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:zho_x_preferred":[
         "\u7f85\u99ac\u8afe\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2127",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Romanovo",
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":1108736301,
-    "wof:lastmodified":1563257157,
+    "wof:lastmodified":1566627254,
     "wof:name":"Romanovskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

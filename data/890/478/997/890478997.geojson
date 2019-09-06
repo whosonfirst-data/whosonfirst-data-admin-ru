@@ -11,10 +11,14 @@
     "geom:longitude":29.41487,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":5696,
+    "gn:population":5696,
     "iso:country":"RU",
+    "lbl:bbox":"29.39487,59.94124,29.43487,59.98124",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u041b\u0435\u0431\u044f\u0436\u044c\u0435"
     ],
@@ -60,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0431'\u044f\u0436\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lebjashe"
     ],
     "qs:name":"Lebyazh\u2019ye",
@@ -83,10 +87,12 @@
     "wof:concordances":{
         "gn:id":1500764,
         "gp:id":2035588,
-        "qs:id":125233,
-        "qs_pg:id":132935,
+        "qs_pg:id":125233,
         "wd:id":"Q1767719",
         "wk:page":"Lebyazhy"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":132935
     },
     "wof:country":"RU",
     "wof:created":1469054216,
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":890478997,
-    "wof:lastmodified":1563261835,
+    "wof:lastmodified":1566630480,
     "wof:name":"Lebyazh\u2019ye",
     "wof:parent_id":890481533,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000574,
-    "geom:area_square_m":3677867.004205,
+    "geom:area_square_m":3677867.004206,
     "geom:bbox":"52.2623329163,58.7634429932,52.3153877258,58.7829704285",
     "geom:latitude":58.773926,
     "geom:longitude":52.291792,
@@ -13,17 +13,20 @@
     "iso:country":"RU",
     "lbl:latitude":58.774631,
     "lbl:longitude":52.293601,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":58.774631,
     "mps:longitude":52.293601,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Belorechensk"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043b\u043e\u0440\u0435\u0447\u0435\u043d\u0441\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Biserskiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":31,
     "wof:belongsto":[
@@ -57,7 +60,6 @@
     "wof:concordances":{
         "gn:id":577892,
         "gp:id":2120233,
-        "qs:id":550029,
         "qs_pg:id":550029,
         "wd:id":"Q4884552"
     },
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":102008265,
-    "wof:lastmodified":1527637249,
+    "wof:lastmodified":1566615296,
     "wof:name":"Belorechensk",
     "wof:parent_id":1108735681,
     "wof:placetype":"locality",

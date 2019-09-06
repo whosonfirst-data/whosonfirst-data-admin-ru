@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000203,
-    "geom:area_square_m":1801213.508271,
+    "geom:area_square_m":1801213.508269,
     "geom:bbox":"133.137420654,44.191860199,133.161026001,44.2060546875",
     "geom:latitude":44.19832,
     "geom:longitude":133.148887,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.198953,
     "lbl:longitude":133.148889,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.198953,
     "mps:longitude":133.148889,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Chernysh\u00ebvka"
     ],
@@ -30,9 +33,6 @@
     ],
     "name:rus_x_variant":[
         "\u0427\u0435\u0440\u043d\u044b\u0448\u0451\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Chernysh\u00ebvka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -50,7 +50,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688023,
@@ -63,7 +63,7 @@
     "wof:concordances":{
         "gn:id":2025460,
         "gp:id":1998391,
-        "qs:id":137593
+        "qs_pg:id":137593
     },
     "wof:country":"RU",
     "wof:geomhash":"7aa5a1a20573147e60e35150e730b4b3",
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":102001695,
-    "wof:lastmodified":1505338911,
+    "wof:lastmodified":1566615315,
     "wof:name":"Chernyshevka",
     "wof:parent_id":1108732741,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000385,
-    "geom:area_square_m":3140559.024004,
+    "geom:area_square_m":3140559.024006,
     "geom:bbox":"43.8709869385,48.6836242676,43.910243988,48.6985282898",
     "geom:latitude":48.691425,
     "geom:longitude":43.891863,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":48.692341,
     "lbl:longitude":43.897378,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.692341,
     "mps:longitude":43.897378,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Atamanskij"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688101,
         102191581,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102006883,
-    "wof:lastmodified":1501214806,
+    "wof:lastmodified":1566615363,
     "wof:name":"Atamanskiy",
     "wof:parent_id":890483685,
     "wof:placetype":"locality",

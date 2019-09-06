@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000361,
-    "geom:area_square_m":2592267.456565,
+    "geom:area_square_m":2592267.456568,
     "geom:bbox":"81.7344436646,54.5200004578,81.7665863037,54.5393600464",
     "geom:latitude":54.528715,
     "geom:longitude":81.749639,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.529319,
     "lbl:longitude":81.747204,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.529319,
     "mps:longitude":81.747204,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Petrovskiy"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":163,
     "wof:belongsto":[
         85687925,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":102013043,
-    "wof:lastmodified":1527636665,
+    "wof:lastmodified":1566615071,
     "wof:name":"Petrovskiy",
     "wof:parent_id":1108735699,
     "wof:placetype":"locality",

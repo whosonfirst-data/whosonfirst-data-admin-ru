@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001337,
-    "geom:area_square_m":9341775.599383,
+    "geom:area_square_m":9341775.599384,
     "geom:bbox":"37.6171112061,55.5709152222,37.6915016174,55.5986671448",
     "geom:latitude":55.583825,
     "geom:longitude":37.656685,
@@ -15,14 +15,17 @@
     "iso:country":"RU",
     "lbl:latitude":55.584219,
     "lbl:longitude":37.668553,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":55.584219,
     "mps:longitude":37.668553,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:rus_x_preferred":[
         "\u0411\u0438\u0440\u044e\u043b\u0451\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Biryul\u00ebvo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -38,7 +41,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688085,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102003269,
-    "wof:lastmodified":1505338918,
+    "wof:lastmodified":1566615532,
     "wof:name":"Biryulevo",
     "wof:parent_id":1108736061,
     "wof:placetype":"locality",

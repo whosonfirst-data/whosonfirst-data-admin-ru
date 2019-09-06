@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":54.138653,
     "lbl:longitude":87.71786,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kemerovskaja oblast'",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":87.71786,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Novokuznetskiy Rayon"
     ],
@@ -89,9 +92,6 @@
     "name:tat_x_preferred":[
         "\u041d\u0430\u0432\u0430\u043a\u0443\u0437\u043d\u0438\u0441 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
-    "name:und_x_variant":[
-        "\u041d\u043e\u0432\u043e\u043a\u0443\u0437\u043d\u0435\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Novokuznetsky"
     ],
@@ -99,7 +99,7 @@
         "\u65b0\u5eab\u8332\u6d85\u8328\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688105,
@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":1108735507,
-    "wof:lastmodified":1563256546,
+    "wof:lastmodified":1566626886,
     "wof:name":"Novokuzneckij",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

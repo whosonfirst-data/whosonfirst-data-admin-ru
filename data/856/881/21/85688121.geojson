@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":53.091895,
     "lbl:longitude":33.728853,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Bryansk",
     "meso:name_alt2":"Brjanskaja oblast'",
     "meso:name_local":"\u0411\u0440\u044f\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -257,13 +258,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u044f\u043d\u0441\u044c\u043a"
     ],
-    "name:und_x_variant":[
-        "Brjanskaja oblast'",
-        "Bryansk"
-    ],
-    "name:unk_x_variant":[
-        "Brjansk"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u06cc\u0627\u0646\u0633\u06a9"
     ],
@@ -354,9 +348,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"34,900",
     "statoids:area_mi":"13,500",
     "statoids:as_of_date":"2010-10-14",
@@ -418,11 +412,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734420,
+    "wof:lastmodified":1566618540,
     "wof:name":"Bryansk",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":1278217,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

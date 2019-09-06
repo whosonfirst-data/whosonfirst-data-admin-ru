@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.519201,
     "lbl:longitude":45.471069,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":55.519201,
     "mps:longitude":45.471069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u0631\u063a\u0627\u062a\u0634"
     ],
@@ -115,9 +118,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0440\u0433\u0430\u0447"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u0435\u0440\u0433\u0430\u0447"
-    ],
     "name:war_x_preferred":[
         "Sergach"
     ],
@@ -142,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.533333,
     "wd:longitude":45.466667,
@@ -157,7 +157,6 @@
     "wof:concordances":{
         "gn:id":496802,
         "gp:id":2123345,
-        "qs:id":1242775,
         "qs_pg:id":1242775,
         "wd:id":"Q194030",
         "wk:page":"Sergach"
@@ -173,7 +172,7 @@
         }
     ],
     "wof:id":102009217,
-    "wof:lastmodified":1563240322,
+    "wof:lastmodified":1566615215,
     "wof:name":"Sergach",
     "wof:parent_id":1108736443,
     "wof:placetype":"locality",

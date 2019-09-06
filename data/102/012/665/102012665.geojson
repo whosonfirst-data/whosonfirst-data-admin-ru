@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.555819,
     "lbl:longitude":84.087131,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.555819,
     "mps:longitude":84.087131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Mel'nikovo"
     ],
@@ -50,7 +53,7 @@
     "name:swe_x_preferred":[
         "Melnikovo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mel\u2019nikova"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +84,6 @@
     "wof:concordances":{
         "gn:id":1499007,
         "gp:id":2044744,
-        "qs:id":888171,
         "qs_pg:id":888171,
         "wd:id":"Q1799536",
         "wk:page":"Melnikovo, Tomsk Oblast"
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":102012665,
-    "wof:lastmodified":1563239932,
+    "wof:lastmodified":1566615023,
     "wof:name":"Melnikovo",
     "wof:parent_id":1108736537,
     "wof:placetype":"locality",

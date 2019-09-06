@@ -5,21 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00104,
-    "geom:area_square_m":7722509.818046,
+    "geom:area_square_m":7722509.818049,
     "geom:bbox":"82.3057174683,53.0579833984,82.3681030273,53.091293335",
     "geom:latitude":53.073963,
     "geom:longitude":82.336172,
-    "geonames:id":"1493722,1493723",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":8858,
+    "gn:id":"1493722,1493723",
+    "gn:population":8858,
     "iso:country":"RU",
     "lbl:latitude":53.070642,
     "lbl:longitude":82.333099,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.070642,
     "mps:longitude":82.333099,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Rebrikha"
     ],
@@ -27,9 +30,6 @@
         "Rebrikha"
     ],
     "name:rus_x_preferred":[
-        "\u0420\u0435\u0431\u0440\u0438\u0445\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0420\u0435\u0431\u0440\u0438\u0445\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -52,7 +52,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":43,
     "wof:belongsto":[
@@ -66,7 +66,7 @@
     "wof:concordances":{
         "gn:id":1493722,
         "gp:id":2074161,
-        "qs:id":132863,
+        "qs_pg:id":132863,
         "wd:id":"Q7302210",
         "wk:page":"Rebrikha"
     },
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":102013413,
-    "wof:lastmodified":1527636662,
+    "wof:lastmodified":1566615042,
     "wof:name":"Rebrikha",
     "wof:parent_id":1108736275,
     "wof:placetype":"locality",

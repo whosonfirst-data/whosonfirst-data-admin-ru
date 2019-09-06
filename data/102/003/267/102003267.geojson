@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.586225,
     "lbl:longitude":36.487664,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.586225,
     "mps:longitude":36.487664,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Tuchkovo"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688161,
@@ -89,7 +92,6 @@
     "wof:concordances":{
         "gn:id":480685,
         "gp:id":2098307,
-        "qs:id":250544,
         "qs_pg:id":250544,
         "wd:id":"Q905428"
     },
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":102003267,
-    "wof:lastmodified":1563241119,
+    "wof:lastmodified":1566615532,
     "wof:name":"Tuchkovo",
     "wof:parent_id":890484215,
     "wof:placetype":"locality",

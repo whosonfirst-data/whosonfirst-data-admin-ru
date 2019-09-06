@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":58.302578,
     "lbl:longitude":48.323816,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":58.302578,
     "mps:longitude":48.323816,
     "mz:hierarchy_label":1,
@@ -135,9 +137,6 @@
     "name:tur_x_preferred":[
         "Kotelni\u00e7"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u043e\u0442\u0435\u043b\u044c\u043d\u0438\u0447"
-    ],
     "name:vie_x_preferred":[
         "Kotelnich"
     ],
@@ -255,7 +254,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":58.3,
     "wd:longitude":48.333333,
@@ -271,7 +270,7 @@
     "wof:concordances":{
         "gn:id":543737,
         "gp:id":2027145,
-        "qs:id":125321,
+        "qs_pg:id":125321,
         "wd:id":"Q155437",
         "wk:page":"Kotelnich"
     },
@@ -288,7 +287,7 @@
         }
     ],
     "wof:id":102008377,
-    "wof:lastmodified":1563240461,
+    "wof:lastmodified":1566615277,
     "wof:name":"Kotelnich",
     "wof:parent_id":1108734619,
     "wof:placetype":"locality",

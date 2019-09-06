@@ -10,8 +10,10 @@
     "geom:latitude":59.709622,
     "geom:longitude":30.471842,
     "iso:country":"RU",
+    "lbl:bbox":"30.466841692,59.7046220792,30.476841692,59.7146220792",
     "lbl:latitude":59.709622,
     "lbl:longitude":30.471842,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0432\u0435\u0441\u044c"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108943547,
-    "wof:lastmodified":1510870350,
+    "wof:lastmodified":1566627398,
     "wof:name":"Novoves",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

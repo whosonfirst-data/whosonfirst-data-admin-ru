@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.940425,
     "lbl:longitude":37.30395,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.940425,
     "mps:longitude":37.30395,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Skhodnya"
     ],
@@ -43,9 +46,6 @@
     "name:rus_x_preferred":[
         "\u0421\u0445\u043e\u0434\u043d\u044f"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u0445\u043e\u0434\u043d\u044f"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"5003600200051",
@@ -62,7 +62,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":124,
     "wof:belongsto":[
@@ -76,7 +76,7 @@
     "wof:concordances":{
         "gn:id":492448,
         "gp:id":2123459,
-        "qs:id":360506,
+        "qs_pg:id":360506,
         "wd:id":"Q2362296",
         "wk:page":"Skhodnya"
     },
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":102003063,
-    "wof:lastmodified":1563241122,
+    "wof:lastmodified":1566615532,
     "wof:name":"Skhodnya",
     "wof:parent_id":1108733773,
     "wof:placetype":"locality",

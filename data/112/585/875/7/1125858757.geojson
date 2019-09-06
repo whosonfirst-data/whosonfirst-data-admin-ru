@@ -9,15 +9,18 @@
     "geom:bbox":"45.3435,46.1711,45.3435,46.1711",
     "geom:latitude":46.1711,
     "geom:longitude":45.3435,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7203,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":7203,
     "iso:country":"RU",
+    "lbl:bbox":"45.3235,46.1511,45.3635,46.1911",
     "lbl:latitude":46.1711,
     "lbl:longitude":45.3435,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Yashkul'"
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u042f\u0448\u043a\u0443\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Peschanoye"
     ],
     "qs_pg:aaroncc":"RU",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":207390,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85687953,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1125858757,
-    "wof:lastmodified":1509396419,
+    "wof:lastmodified":1566631030,
     "wof:name":"Yashkul\u2019",
     "wof:parent_id":1108734115,
     "wof:placetype":"locality",

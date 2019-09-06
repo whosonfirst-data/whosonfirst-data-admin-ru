@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.966979,
     "lbl:longitude":54.718762,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.966979,
     "mps:longitude":54.718762,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aar_x_preferred":[
         "Slak"
     ],
@@ -618,9 +621,6 @@
     "name:twi_x_preferred":[
         "Slak"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u043b\u0430\u043a"
-    ],
     "name:vec_x_preferred":[
         "Slak"
     ],
@@ -679,7 +679,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":17,
     "wof:belongsto":[
         85687801,
@@ -707,7 +707,7 @@
         }
     ],
     "wof:id":102010153,
-    "wof:lastmodified":1563241003,
+    "wof:lastmodified":1566615491,
     "wof:name":"Slak",
     "wof:parent_id":1108732661,
     "wof:placetype":"locality",

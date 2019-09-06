@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":64.207651,
     "lbl:longitude":39.844292,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Arkhangel'skaja oblast'",
     "meso:admin1r_en":"Severo-Zapadnyj federal'nyj okrug",
     "meso:admin_1":"\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":39.844292,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Onezhskiy Rayon"
     ],
@@ -119,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2586,
     "wof:belongsto":[
         102191581,
@@ -130,7 +133,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598030,
-        "qs:id":1087087,
+        "qs_pg:id":1087087,
         "wk:page":"Onezhsky District"
     },
     "wof:country":"RU",
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":890484199,
-    "wof:lastmodified":1564129100,
+    "wof:lastmodified":1566630703,
     "wof:name":"Severodvinsk",
     "wof:parent_id":85687971,
     "wof:placetype":"county",

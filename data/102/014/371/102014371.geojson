@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000999,
-    "geom:area_square_m":7697248.765091,
+    "geom:area_square_m":7697248.765094,
     "geom:bbox":"104.60900116,51.4323616028,104.649330139,51.4803352356",
     "geom:latitude":51.459188,
     "geom:longitude":104.629367,
@@ -15,17 +15,20 @@
     "iso:country":"RU",
     "lbl:latitude":51.46342,
     "lbl:longitude":104.633034,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.46342,
     "mps:longitude":104.633034,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0412\u044b\u0434\u0440\u0435\u043d\u043e"
     ],
     "name:rus_x_variant":[
         "\u0412\u044b\u0434\u0440\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shezhnaya Vydrino"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688173,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102014371,
-    "wof:lastmodified":1505338944,
+    "wof:lastmodified":1566615112,
     "wof:name":"Vyarino",
     "wof:parent_id":1108736655,
     "wof:placetype":"locality",

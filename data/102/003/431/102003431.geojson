@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.319322,
     "lbl:longitude":42.033292,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.319322,
     "mps:longitude":42.033292,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u0428\u0438\u043c\u043e\u0440\u0441\u043a\u0438"
     ],
@@ -31,7 +34,7 @@
     "name:rus_x_preferred":[
         "\u0428\u0438\u043c\u043e\u0440\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gryaznovka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":494378,
         "gp:id":2082920,
-        "qs:id":80570,
         "qs_pg:id":80570
     },
     "wof:country":"RU",
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":102003431,
-    "wof:lastmodified":1564109211,
+    "wof:lastmodified":1566615532,
     "wof:name":"Shimorskoye",
     "wof:parent_id":1108733689,
     "wof:placetype":"locality",

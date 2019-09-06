@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":60.754269,
     "lbl:longitude":46.324596,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":60.754269,
     "mps:longitude":46.324596,
     "mz:hierarchy_label":1,
@@ -157,9 +159,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0423\u0441\u0442\u044e\u0433"
     ],
-    "name:unk_x_variant":[
-        "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0423\u0441\u0442\u044e\u0433"
-    ],
     "name:vep_x_preferred":[
         "Sur' Ust\u00fcg"
     ],
@@ -279,7 +278,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":60.758889,
     "wd:longitude":46.303889,
@@ -295,7 +294,6 @@
     "wof:concordances":{
         "gn:id":476062,
         "gp:id":2124187,
-        "qs:id":277880,
         "qs_pg:id":277880,
         "wd:id":"Q111048",
         "wk:page":"Veliky Ustyug"
@@ -311,7 +309,7 @@
         }
     ],
     "wof:id":102002117,
-    "wof:lastmodified":1563241540,
+    "wof:lastmodified":1566615688,
     "wof:name":"Velikiy Ustyug",
     "wof:parent_id":1108737321,
     "wof:placetype":"locality",

@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000527,
-    "geom:area_square_m":3670154.388896,
+    "geom:area_square_m":3670154.388895,
     "geom:bbox":"62.0332221985,55.7171669006,62.0776939392,55.7521400452",
     "geom:latitude":55.731593,
     "geom:longitude":62.058161,
     "iso:country":"RU",
     "lbl:latitude":55.732831,
     "lbl:longitude":62.06153,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.732831,
     "mps:longitude":62.06153,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sugoyak"
     ],
@@ -23,9 +26,6 @@
         "Sugojak"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u0443\u0433\u043e\u044f\u043a"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u0443\u0433\u043e\u044f\u043a"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687791,
         102191581,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":102012159,
-    "wof:lastmodified":1501220003,
+    "wof:lastmodified":1566614982,
     "wof:name":"Sugoyak",
     "wof:parent_id":1108734661,
     "wof:placetype":"locality",

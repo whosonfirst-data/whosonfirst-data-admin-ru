@@ -11,11 +11,15 @@
     "geom:longitude":104.12806,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"104.10806,52.23528,104.14806,52.27528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Smolenshchina"
     ],
@@ -23,9 +27,6 @@
         "Smolensjtsjina"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u043c\u043e\u043b\u0435\u043d\u0449\u0438\u043d\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u043c\u043e\u043b\u0435\u043d\u0449\u0438\u043d\u0430"
     ],
     "qs:name":"Smolenshchina",
@@ -47,7 +48,7 @@
     "wof:concordances":{
         "gn:id":2016404,
         "gp:id":2085929,
-        "qs:id":1246545
+        "qs_pg:id":1246545
     },
     "wof:country":"RU",
     "wof:created":1469054294,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":890480197,
-    "wof:lastmodified":1505343741,
+    "wof:lastmodified":1566630979,
     "wof:name":"Smolenshchina",
     "wof:parent_id":890482031,
     "wof:placetype":"locality",

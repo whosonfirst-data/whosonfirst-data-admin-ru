@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000514,
-    "geom:area_square_m":3521408.713351,
+    "geom:area_square_m":3521408.713349,
     "geom:bbox":"65.7267227173,56.3607788086,65.7708892822,56.3770294189",
     "geom:latitude":56.368638,
     "geom:longitude":65.747431,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.368188,
     "lbl:longitude":65.74787,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.368188,
     "mps:longitude":65.74787,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lipikhino"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u041b\u0438\u043f\u0438\u0445\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lepekhino"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687831,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102011995,
-    "wof:lastmodified":1501220037,
+    "wof:lastmodified":1566615401,
     "wof:name":"Lipikhino",
     "wof:parent_id":1108737181,
     "wof:placetype":"locality",

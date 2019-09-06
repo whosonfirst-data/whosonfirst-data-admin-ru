@@ -16,10 +16,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.197888,
     "lbl:longitude":45.025303,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":53.197888,
     "mps:longitude":45.025303,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:afr_x_preferred":[
         "Penza"
     ],
@@ -287,9 +290,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u043d\u0437\u0430"
     ],
-    "name:unk_x_variant":[
-        "Pensa"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u0646\u0632\u0627"
     ],
@@ -341,7 +341,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1749,
     "wof:belongsto":[
@@ -356,10 +356,12 @@
     "wof:concordances":{
         "gn:id":511565,
         "gp:id":2122796,
-        "qs:id":1129365,
         "qs_pg:id":349535,
         "wd:id":"Q5540",
         "wk:page":"Penza"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1129365
     },
     "wof:country":"RU",
     "wof:geomhash":"ea63c49206522144bcff95433b21305e",
@@ -374,7 +376,7 @@
         }
     ],
     "wof:id":1175613505,
-    "wof:lastmodified":1563257459,
+    "wof:lastmodified":1566627441,
     "wof:name":"Penza",
     "wof:parent_id":890484333,
     "wof:placetype":"locality",

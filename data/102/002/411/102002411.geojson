@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.810039,
     "lbl:longitude":28.320031,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":57.810039,
     "mps:longitude":28.320031,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Pskof"
     ],
@@ -309,7 +312,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":57.816667,
     "wd:longitude":28.333333,
@@ -325,7 +328,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":504341,
-        "qs:id":349514,
+        "qs_pg:id":349514,
         "wd:id":"Q2214",
         "wk:page":"Pskov"
     },
@@ -342,7 +345,7 @@
         }
     ],
     "wof:id":102002411,
-    "wof:lastmodified":1563241585,
+    "wof:lastmodified":1566615699,
     "wof:name":"Pskov",
     "wof:parent_id":890484337,
     "wof:placetype":"locality",

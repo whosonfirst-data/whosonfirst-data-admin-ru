@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000816,
-    "geom:area_square_m":6149172.474063,
+    "geom:area_square_m":6149172.474068,
     "geom:bbox":"41.8562698364,52.4503440857,41.9112968445,52.4825668335",
     "geom:latitude":52.465429,
     "geom:longitude":41.887124,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.471715,
     "lbl:longitude":41.899005,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.471715,
     "mps:longitude":41.899005,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khitrovo"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687829,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102004851,
-    "wof:lastmodified":1501214693,
+    "wof:lastmodified":1566615582,
     "wof:name":"Khitrovo",
     "wof:parent_id":890485147,
     "wof:placetype":"locality",

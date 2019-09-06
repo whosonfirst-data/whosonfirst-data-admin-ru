@@ -11,11 +11,15 @@
     "geom:longitude":37.38832,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"37.36832,55.84273,37.40832,55.88273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Krasnoqorski rayonu"
     ],
@@ -67,9 +71,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u043e\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "\u041f\u0443\u0442\u0438\u043b\u043a\u043e\u0432\u043e"
-    ],
     "name:zho_x_preferred":[
         "\u514b\u62c9\u65af\u8afe\u6208\u723e\u65af\u57fa\u5340"
     ],
@@ -95,7 +96,7 @@
     "wof:concordances":{
         "gn:id":503761,
         "gp:id":2072799,
-        "qs:id":445095,
+        "qs_pg:id":445095,
         "wd:id":"Q2627335",
         "wk:page":"Krasnogorsky District, Moscow Oblast"
     },
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":890482819,
-    "wof:lastmodified":1563262119,
+    "wof:lastmodified":1566630582,
     "wof:name":"Putilkovo",
     "wof:parent_id":1108734693,
     "wof:placetype":"locality",

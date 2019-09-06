@@ -14,6 +14,7 @@
     "iso:country":"RU",
     "lbl:latitude":55.668024,
     "lbl:longitude":37.629471,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.662179,
     "mps:longitude":37.628224,
     "mz:hierarchy_label":1,
@@ -36,9 +37,8 @@
     "name:rus_x_preferred":[
         "\u041f\u043e\u0441\u0451\u043b\u043e\u043a \u0421\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u0435\u0439"
     ],
-    "name:unk_x_variant":[
-        "Stroitel\u2019",
-        "Poselok Stroitelej"
+    "name:und_x_variant":[
+        "Stroitel\u2019"
     ],
     "qs:gn_adm0_cc":"RU",
     "qs:gn_fcode":"PPLX",
@@ -80,7 +80,6 @@
     "wof:concordances":{
         "gn:id":506056,
         "gp:id":2070226,
-        "qs:id":189996,
         "qs_pg:id":189996
     },
     "wof:country":"RU",
@@ -100,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247575,
+    "wof:lastmodified":1566618506,
     "wof:name":"Poselok Stroitelej",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

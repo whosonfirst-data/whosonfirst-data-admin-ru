@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":57.771485,
     "lbl:longitude":40.961692,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":57.771485,
     "mps:longitude":40.961692,
     "mz:hierarchy_label":1,
@@ -377,7 +379,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":57.766667,
     "wd:longitude":40.933333,
@@ -392,7 +394,6 @@
     "wof:concordances":{
         "gn:id":543878,
         "gp:id":2121553,
-        "qs:id":349629,
         "qs_pg:id":349629,
         "wd:id":"Q2592",
         "wk:page":"Kostroma"
@@ -408,7 +409,7 @@
         }
     ],
     "wof:id":102002665,
-    "wof:lastmodified":1563241609,
+    "wof:lastmodified":1566615706,
     "wof:name":"Kostroma",
     "wof:parent_id":1108734613,
     "wof:placetype":"locality",

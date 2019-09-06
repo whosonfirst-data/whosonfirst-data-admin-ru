@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":50.84024,
     "lbl:longitude":43.724524,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Volgogradskaja oblast'",
     "meso:admin1r_en":"JUzhnyj federal'nyj okrug",
     "meso:admin_1":"\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":43.724524,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Yelanskiy Rayon"
     ],
@@ -96,9 +99,6 @@
     "name:ukr_x_preferred":[
         "\u0404\u043b\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0415\u043b\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Elansky"
     ],
@@ -106,9 +106,9 @@
         "\u53f6\u5170\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2667",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Elan",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":1108733483,
-    "wof:lastmodified":1563256811,
+    "wof:lastmodified":1566627052,
     "wof:name":"Elanskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

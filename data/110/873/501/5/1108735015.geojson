@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":43.536717,
     "lbl:longitude":44.037059,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kabardino-Balkarskaja respublika",
     "meso:admin1r_en":"Severo-Kavkazskij federal'nyj okrug",
     "meso:admin_1":"\u041a\u0430\u0431\u0430\u0440\u0434\u0438\u043d\u043e-\u0411\u0430\u043b\u043a\u0430\u0440\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
@@ -53,6 +55,7 @@
     "mps:longitude":44.037059,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Mayskiy Rayon"
     ],
@@ -102,9 +105,6 @@
     "name:tur_x_preferred":[
         "Maysk\u0131y Rayonu"
     ],
-    "name:und_x_variant":[
-        "\u041c\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Maysky"
     ],
@@ -115,9 +115,9 @@
         "\u9081\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"385",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Mayskiy",
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":1108735015,
-    "wof:lastmodified":1563256925,
+    "wof:lastmodified":1566627125,
     "wof:name":"Majskiy",
     "wof:parent_id":85688089,
     "wof:placetype":"county",

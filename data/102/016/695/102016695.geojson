@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000337,
-    "geom:area_square_m":3034159.68421,
+    "geom:area_square_m":3034159.684212,
     "geom:bbox":"45.7736968994,43.1856117249,45.7968482971,43.210521698",
     "geom:latitude":43.198454,
     "geom:longitude":45.783993,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.198244,
     "lbl:longitude":45.783993,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":43.198244,
     "mps:longitude":45.783993,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u00c7e\u00e7ana"
     ],
@@ -57,18 +60,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688015
+        85688015,
+        1108733941
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":569666,
         "gp:id":1997237,
-        "qs:id":1254299,
         "qs_pg:id":1254299
     },
     "wof:country":"RU",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":102016695,
-    "wof:lastmodified":1505338950,
+    "wof:lastmodified":1566615440,
     "wof:name":"Chechen-Aul",
     "wof:parent_id":1108733941,
     "wof:placetype":"locality",

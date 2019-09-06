@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.726392,
     "lbl:longitude":53.10598,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.726392,
     "mps:longitude":53.10598,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0632\u064a\u0644\u064a\u0646\u0633\u0643"
     ],
@@ -148,9 +151,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043d\u0437\u0435\u043b\u0438\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "\u041c\u0435\u043d\u0437\u0435\u043b\u0438\u043d\u0441\u043a"
-    ],
     "name:vep_x_preferred":[
         "Menzelinsk"
     ],
@@ -178,7 +178,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.716667,
     "wd:longitude":53.083333,
@@ -194,7 +194,6 @@
     "wof:concordances":{
         "gn:id":527529,
         "gp:id":2122167,
-        "qs:id":125158,
         "qs_pg:id":125158,
         "wd:id":"Q158830",
         "wk:page":"Menzelinsk"
@@ -212,7 +211,7 @@
         }
     ],
     "wof:id":102009147,
-    "wof:lastmodified":1563240403,
+    "wof:lastmodified":1566615253,
     "wof:name":"Menzelinsk",
     "wof:parent_id":890480593,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":65.42298,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":3450,
+    "gn:population":3450,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"65.40298,57.09108,65.44298,57.13108",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Moskovskiy"
     ],
@@ -26,9 +30,6 @@
         "Moskovskij"
     ],
     "name:rus_x_preferred":[
-        "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439"
     ],
     "qs:name":"Moskovskiy",
@@ -57,7 +58,7 @@
     "wof:concordances":{
         "gn:id":1498365,
         "gp:id":2048170,
-        "qs:id":132927,
+        "qs_pg:id":132927,
         "wd:id":"Q3866122",
         "wk:page":"Moskovskiy"
     },
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":890482501,
-    "wof:lastmodified":1563262160,
+    "wof:lastmodified":1566630596,
     "wof:name":"Moskovskiy",
     "wof:parent_id":1108737039,
     "wof:placetype":"locality",

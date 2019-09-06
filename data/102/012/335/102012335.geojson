@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":55.157561,
     "lbl:longitude":61.439629,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":55.157561,
     "mps:longitude":61.439629,
     "mz:hierarchy_label":1,
@@ -352,9 +354,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u043b\u044f\u0431\u0456\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "Tscheljabinsk"
-    ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u0644\u06cc\u0627\u0628\u0646\u0633\u06a9"
     ],
@@ -504,7 +503,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.15,
     "wd:longitude":61.4,
@@ -520,7 +519,6 @@
     "wof:concordances":{
         "gn:id":1508291,
         "gp:id":1997422,
-        "qs:id":273973,
         "qs_pg:id":273973,
         "wd:id":"Q906",
         "wk:page":"Chelyabinsk"
@@ -538,7 +536,7 @@
         }
     ],
     "wof:id":102012335,
-    "wof:lastmodified":1563239900,
+    "wof:lastmodified":1566615009,
     "wof:megacity":1,
     "wof:name":"Chelyabinsk",
     "wof:parent_id":1108733217,

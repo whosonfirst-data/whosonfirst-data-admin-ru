@@ -11,8 +11,12 @@
     "geom:longitude":31.276757,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"31.2567565,58.501851,31.2967565,58.541851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434"
     ],
@@ -298,7 +302,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nowgorod"
     ],
     "name:urd_x_preferred":[
@@ -353,10 +357,12 @@
     "wof:concordances":{
         "gn:id":519336,
         "gp:id":24505255,
-        "qs:id":351044,
         "qs_pg:id":349563,
         "wd:id":"Q2235",
         "wk:page":"Veliky Novgorod"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":351044
     },
     "wof:country":"RU",
     "wof:created":1469054351,
@@ -372,7 +378,7 @@
         }
     ],
     "wof:id":890481287,
-    "wof:lastmodified":1563262625,
+    "wof:lastmodified":1566630791,
     "wof:name":"Velikiy Novgorod",
     "wof:parent_id":1108737319,
     "wof:placetype":"locality",

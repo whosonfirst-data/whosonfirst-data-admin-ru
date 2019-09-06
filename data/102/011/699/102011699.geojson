@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000523,
-    "geom:area_square_m":3398072.41865,
+    "geom:area_square_m":3398072.418649,
     "geom:bbox":"60.7223892212,58.3001937866,60.7538871765,58.322555542",
     "geom:latitude":58.310617,
     "geom:longitude":60.739154,
@@ -14,17 +14,20 @@
     "iso:country":"RU",
     "lbl:latitude":58.311695,
     "lbl:longitude":60.738854,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.311695,
     "mps:longitude":60.738854,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bas'yanovskiy"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0441\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bas\u2019yanovskiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -43,7 +46,7 @@
     "qs:type":"\u043f\u0433\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688183,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102011699,
-    "wof:lastmodified":1501220770,
+    "wof:lastmodified":1566615412,
     "wof:name":"Basyanovskiy",
     "wof:parent_id":1108737347,
     "wof:placetype":"locality",

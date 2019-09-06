@@ -11,14 +11,18 @@
     "geom:longitude":34.5242,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":500,
+    "gn:population":500,
     "iso:country":"RU",
+    "lbl:bbox":"34.5042,51.7429,34.5442,51.7829",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0422\u0443\u0440\u043a\u0430 \u041f\u0435\u0440\u0432\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gurka-Znamenskoye"
     ],
     "qs:name":"Turka Pervaya",
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":480272,
         "gp:id":90580008,
-        "qs:id":80503
+        "qs_pg:id":80503
     },
     "wof:country":"RU",
     "wof:created":1469054680,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890487573,
-    "wof:lastmodified":1505343778,
+    "wof:lastmodified":1566630917,
     "wof:name":"Turka Pervaya",
     "wof:parent_id":1108734383,
     "wof:placetype":"locality",

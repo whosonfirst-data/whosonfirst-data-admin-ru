@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.208096,
     "lbl:longitude":63.477592,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.208096,
     "mps:longitude":63.477592,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kanashi"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0448\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kanagchi"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688157,
         102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102012045,
-    "wof:lastmodified":1501220052,
+    "wof:lastmodified":1566615014,
     "wof:name":"Kanashi",
     "wof:parent_id":1108736493,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000521,
-    "geom:area_square_m":3960496.431276,
+    "geom:area_square_m":3960496.431265,
     "geom:bbox":"108.545753479,52.0807762146,108.580108643,52.1166648865",
     "geom:latitude":52.098794,
     "geom:longitude":108.56384,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":52.097682,
     "lbl:longitude":108.564102,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.097682,
     "mps:longitude":108.564102,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0423\u043d\u044d\u0433\u044d\u0442\u044d\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Unygytei"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +43,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688207,
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":102014591,
-    "wof:lastmodified":1501223620,
+    "wof:lastmodified":1566615120,
     "wof:name":"Unegetey",
     "wof:parent_id":1108737807,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.137773,
     "lbl:longitude":48.556376,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.137773,
     "mps:longitude":48.556376,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u064a\u0643\u0633\u0627\u0646\u062f\u0631\u0648\u0641 \u063a\u0627\u064a"
     ],
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.133333,
     "wd:longitude":48.55,
@@ -94,7 +97,6 @@
     "wof:concordances":{
         "gn:id":583345,
         "gp:id":2119974,
-        "qs:id":550102,
         "qs_pg:id":550102,
         "wd:id":"Q253296",
         "wk:page":"Alexandrov Gay"
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":102011389,
-    "wof:lastmodified":1563240842,
+    "wof:lastmodified":1566615419,
     "wof:name":"Aleksandrov Gay",
     "wof:parent_id":1108732677,
     "wof:placetype":"locality",

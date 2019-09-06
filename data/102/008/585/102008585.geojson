@@ -14,6 +14,8 @@
     "iso:country":"RU",
     "lbl:latitude":57.43771,
     "lbl:longitude":56.942781,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":57.43771,
     "mps:longitude":56.942781,
     "mz:hierarchy_label":1,
@@ -163,9 +165,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043d\u0433\u0443\u0440"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0443\u043d\u0433\u0443\u0440"
-    ],
     "name:vep_x_preferred":[
         "Kungur"
     ],
@@ -299,7 +298,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":57.433333,
     "wd:longitude":56.933333,
@@ -314,10 +313,12 @@
     "wof:concordances":{
         "gn:id":539147,
         "gp:id":2121755,
-        "qs:id":1129284,
         "qs_pg:id":1026912,
         "wd:id":"Q155974",
         "wk:page":"Kungur"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1129284
     },
     "wof:country":"RU",
     "wof:geomhash":"465ab959d3fa3d48d5ea995f0d7f4adc",
@@ -330,7 +331,7 @@
         }
     ],
     "wof:id":102008585,
-    "wof:lastmodified":1563240526,
+    "wof:lastmodified":1566615300,
     "wof:name":"Kungur",
     "wof:parent_id":1108734805,
     "wof:placetype":"locality",

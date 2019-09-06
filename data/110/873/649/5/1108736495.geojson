@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":55.966806,
     "lbl:longitude":35.464314,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Moskovskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":35.464314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Shakhovskoy Rayon"
     ],
@@ -106,9 +109,9 @@
         "\u6c99\u970d\u592b\u65af\u79d1\u4f0a\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1267",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Shakhovskaya",
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":1108736495,
-    "wof:lastmodified":1563257043,
+    "wof:lastmodified":1566627187,
     "wof:name":"Shakhovskoy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

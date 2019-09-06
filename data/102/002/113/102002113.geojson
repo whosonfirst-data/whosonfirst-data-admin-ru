@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000534,
-    "geom:area_square_m":3221926.956195,
+    "geom:area_square_m":3221926.956194,
     "geom:bbox":"47.0327758789,60.804889679,47.0735549927,60.8252487183",
     "geom:latitude":60.816623,
     "geom:longitude":47.054513,
     "iso:country":"RU",
     "lbl:latitude":60.815758,
     "lbl:longitude":47.056164,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.815758,
     "mps:longitude":47.056164,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Susolovka"
     ],
@@ -23,9 +26,6 @@
         "Susolovka"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u0443\u0441\u043e\u043b\u043e\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u0443\u0441\u043e\u043b\u043e\u0432\u043a\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687853,
         102191581,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":102002113,
-    "wof:lastmodified":1501214461,
+    "wof:lastmodified":1566615714,
     "wof:name":"Susolovka",
     "wof:parent_id":1108737321,
     "wof:placetype":"locality",

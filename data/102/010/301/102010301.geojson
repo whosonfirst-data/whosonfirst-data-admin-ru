@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.695935,
     "lbl:longitude":54.270352,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.695935,
     "mps:longitude":54.270352,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Bi\u015fbul\u0259k rayonu"
     ],
@@ -82,9 +85,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0436\u0431\u0443\u043b\u044f\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "\u0411\u0438\u0436\u0431\u0443\u043b\u044f\u043a"
-    ],
     "name:vie_x_preferred":[
         "Bizhbulyaksky"
     ],
@@ -112,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1083,
     "wof:belongsto":[
@@ -125,7 +125,6 @@
     "wof:concordances":{
         "gn:id":576195,
         "gp:id":2120313,
-        "qs:id":549982,
         "qs_pg:id":549982,
         "wd:id":"Q1702957"
     },
@@ -140,7 +139,7 @@
         }
     ],
     "wof:id":102010301,
-    "wof:lastmodified":1563240961,
+    "wof:lastmodified":1566615471,
     "wof:name":"Bizhbulyak",
     "wof:parent_id":1108733009,
     "wof:placetype":"locality",

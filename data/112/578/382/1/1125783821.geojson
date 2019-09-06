@@ -9,15 +9,18 @@
     "geom:bbox":"137.00995,50.55034,137.00995,50.55034",
     "geom:latitude":50.55034,
     "geom:longitude":137.00995,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":275908,
+    "gn:country":"RU",
+    "gn:fcode":"PPLA2",
     "gn:population":275908,
     "iso:country":"RU",
+    "lbl:bbox":"136.98995,50.53034,137.02995,50.57034",
     "lbl:latitude":50.55034,
     "lbl:longitude":137.00995,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Komsomolsk aan die Amoer"
@@ -214,7 +217,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u044c\u043a-\u043d\u0430-\u0410\u043c\u0443\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Permskoye"
     ],
     "name:urd_x_preferred":[
@@ -256,7 +259,7 @@
     "qs_pg:qs_id":274108,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85687937,
@@ -285,7 +288,7 @@
         }
     ],
     "wof:id":1125783821,
-    "wof:lastmodified":1563263161,
+    "wof:lastmodified":1566631035,
     "wof:name":"Komsomol\u2019sk-na-Amure",
     "wof:parent_id":1108734559,
     "wof:placetype":"locality",

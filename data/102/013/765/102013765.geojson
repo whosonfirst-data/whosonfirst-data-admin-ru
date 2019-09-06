@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001103,
-    "geom:area_square_m":8414633.605637,
+    "geom:area_square_m":8414633.605638,
     "geom:bbox":"80.9855880737,51.8750534058,81.0401687622,51.9164237976",
     "geom:latitude":51.895315,
     "geom:longitude":81.011418,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.896154,
     "lbl:longitude":81.011005,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.896154,
     "mps:longitude":81.011005,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Srosty"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0440\u043e\u0441\u0442\u044b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Srostinskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687835,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102013765,
-    "wof:lastmodified":1501220004,
+    "wof:lastmodified":1566615037,
     "wof:name":"Srosty",
     "wof:parent_id":1108733443,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":46.70979,
     "lbl:longitude":142.537571,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.70979,
     "mps:longitude":142.537571,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u064a\u0641\u0627"
     ],
@@ -133,7 +136,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0456\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rutaka"
     ],
     "name:urd_x_preferred":[
@@ -166,7 +169,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":46.716667,
     "wd:longitude":142.516667,
@@ -182,7 +185,6 @@
     "wof:concordances":{
         "gn:id":2127154,
         "gp:id":2120039,
-        "qs:id":278022,
         "qs_pg:id":278022,
         "wd:id":"Q103652",
         "wk:page":"Aniva"
@@ -200,7 +202,7 @@
         }
     ],
     "wof:id":102001591,
-    "wof:lastmodified":1563240592,
+    "wof:lastmodified":1566615321,
     "wof:name":"Aniva",
     "wof:parent_id":890484341,
     "wof:placetype":"locality",

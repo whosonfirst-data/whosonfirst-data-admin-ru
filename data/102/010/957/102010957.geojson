@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000829,
-    "geom:area_square_m":6271207.799703,
+    "geom:area_square_m":6271207.7997,
     "geom:bbox":"49.0722236633,52.246723175,49.1111106873,52.2802238464",
     "geom:latitude":52.263151,
     "geom:longitude":49.09205,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.262233,
     "lbl:longitude":49.094364,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.262233,
     "mps:longitude":49.094364,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Ivanteyevka"
     ],
@@ -33,9 +36,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0406\u0432\u0430\u043d\u0442\u0454\u0454\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "\u0418\u0432\u0430\u043d\u0442\u0435\u0435\u0432\u043a\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -55,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":43,
     "wof:belongsto":[
@@ -68,7 +68,6 @@
     "wof:concordances":{
         "gn:id":555112,
         "gp:id":2121071,
-        "qs:id":80905,
         "qs_pg:id":80905
     },
     "wof:country":"RU",
@@ -82,7 +81,7 @@
         }
     ],
     "wof:id":102010957,
-    "wof:lastmodified":1527637801,
+    "wof:lastmodified":1566615492,
     "wof:name":"Ivanteyevka",
     "wof:parent_id":1108734043,
     "wof:placetype":"locality",

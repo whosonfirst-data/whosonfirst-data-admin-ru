@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000484,
-    "geom:area_square_m":3291834.297699,
+    "geom:area_square_m":3291834.297697,
     "geom:bbox":"65.4468612671,56.6119995117,65.4883346558,56.6378326416",
     "geom:latitude":56.625104,
     "geom:longitude":65.466693,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.629292,
     "lbl:longitude":65.461509,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.629292,
     "mps:longitude":65.461509,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kukushki"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0443\u043a\u0443\u0448\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kokushki"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687831,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102011945,
-    "wof:lastmodified":1501220042,
+    "wof:lastmodified":1566615420,
     "wof:name":"Kukushki",
     "wof:parent_id":1108734017,
     "wof:placetype":"locality",

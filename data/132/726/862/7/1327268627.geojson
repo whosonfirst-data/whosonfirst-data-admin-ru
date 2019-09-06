@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yekaterinburg",
     "iso:country":"RU",
+    "lbl:bbox":"56.2988,57.5975,56.3388,57.6375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nizhniy Pal'nik"
     ],
@@ -37,10 +41,6 @@
     "name:rus_x_variant":[
         "\u041d\u0438\u0436\u043d\u0438\u0439 \u041f\u0430\u043b\u044c\u043d\u0438\u043a",
         "Nizhniy Pal\u2019nik"
-    ],
-    "name:und_x_variant":[
-        "Nizhniy Pal\u2019nik",
-        "\u041d\u0438\u0436\u043d\u0438\u0439 \u041f\u0430\u043b\u044c\u043d\u0438\u043a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":1327268627,
-    "wof:lastmodified":1537687535,
+    "wof:lastmodified":1566614655,
     "wof:name":"Nizhniy Pal'nik",
     "wof:parent_id":890484335,
     "wof:placetype":"locality",

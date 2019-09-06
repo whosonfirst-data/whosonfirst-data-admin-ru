@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":67.544186,
     "lbl:longitude":134.678706,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":67.544186,
     "mps:longitude":134.678706,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u042d\u0441\u044d-\u0425\u0430\u044f"
     ],
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u0441\u0435-\u0425\u0430\u0439\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ege-Khaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":767,
     "wof:belongsto":[
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":2024340,
         "gp:id":2004539,
-        "qs:id":570967,
         "qs_pg:id":570967,
         "wd:id":"Q4532916",
         "wk:page":"Ese-Khayya"
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":102002325,
-    "wof:lastmodified":1563241539,
+    "wof:lastmodified":1566615688,
     "wof:name":"Ese-Khayya",
     "wof:parent_id":1108737367,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.288482,
     "lbl:longitude":89.220269,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.288482,
     "mps:longitude":89.220269,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Parnaya"
     ],
@@ -43,17 +46,17 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688139
+        85688139,
+        1108736521
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1495554,
         "gp:id":2062920,
-        "qs:id":44663,
         "qs_pg:id":44663
     },
     "wof:country":"RU",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":102012883,
-    "wof:lastmodified":1497296493,
+    "wof:lastmodified":1566615015,
     "wof:name":"Parnaya",
     "wof:parent_id":1108736521,
     "wof:placetype":"locality",

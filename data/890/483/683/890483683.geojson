@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":57.686854,
     "lbl:longitude":55.188981,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Permskij kraj",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -54,6 +56,7 @@
     "mps:longitude":55.188981,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Okhanskiy Rayon"
     ],
@@ -85,9 +88,6 @@
     "name:rus_x_preferred":[
         "\u041e\u0445\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041e\u0445\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Okhansky"
     ],
@@ -108,9 +108,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1527",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Okhansk",
@@ -132,7 +132,7 @@
     "wof:concordances":{
         "gp:id":12599053,
         "hasc:id":"RU.PE.OK",
-        "qs:id":1017279,
+        "qs_pg:id":1017279,
         "wd:id":"Q1029303",
         "wk:page":"Okhansky District"
     },
@@ -149,7 +149,7 @@
         }
     ],
     "wof:id":890483683,
-    "wof:lastmodified":1563262314,
+    "wof:lastmodified":1566630660,
     "wof:name":"Okhanskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

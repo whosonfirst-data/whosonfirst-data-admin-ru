@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.32284,
     "lbl:longitude":40.706007,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.32284,
     "mps:longitude":40.706007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Staroyur'yevskiy Rayon"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":694,
     "wof:belongsto":[
@@ -89,7 +92,6 @@
     "wof:concordances":{
         "gn:id":488214,
         "gp:id":2089873,
-        "qs:id":1061081,
         "qs_pg:id":1061081,
         "wd:id":"Q3968383"
     },
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":102004375,
-    "wof:lastmodified":1563241331,
+    "wof:lastmodified":1566615613,
     "wof:name":"Staroyuryevo",
     "wof:parent_id":1108736791,
     "wof:placetype":"locality",

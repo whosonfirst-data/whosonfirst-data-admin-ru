@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":56.651981,
     "lbl:longitude":66.297596,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":56.651981,
     "mps:longitude":66.297596,
     "mz:hierarchy_label":1,
@@ -244,7 +246,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.65,
     "wd:longitude":66.3,
@@ -260,7 +262,6 @@
         "gn:id":1486468,
         "gp:id":2124427,
         "loc:id":"n85163545",
-        "qs:id":912978,
         "qs_pg:id":912978,
         "wd:id":"Q150346",
         "wk:page":"Yalutorovsk"
@@ -276,7 +277,7 @@
         }
     ],
     "wof:id":102011937,
-    "wof:lastmodified":1563240734,
+    "wof:lastmodified":1566615382,
     "wof:name":"Yalutorovsk",
     "wof:parent_id":1108734083,
     "wof:placetype":"locality",

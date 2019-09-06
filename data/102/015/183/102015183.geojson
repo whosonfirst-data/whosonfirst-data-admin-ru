@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000193,
-    "geom:area_square_m":1547488.972685,
+    "geom:area_square_m":1547488.972682,
     "geom:bbox":"128.63230896,49.6789703369,128.648391724,49.6934738159",
     "geom:latitude":49.686298,
     "geom:longitude":128.640269,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":49.686347,
     "lbl:longitude":128.640269,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.686347,
     "mps:longitude":128.640269,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zelenyy Bor"
     ],
@@ -26,9 +29,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0417\u0435\u043b\u0435\u043d\u044b\u0439 \u0411\u043e\u0440"
-    ],
-    "name:unk_x_variant":[
-        "Zelenyy Bor"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0410\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687951,
         102191581,
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":102015183,
-    "wof:lastmodified":1501223613,
+    "wof:lastmodified":1566614975,
     "wof:name":"",
     "wof:parent_id":1108735135,
     "wof:placetype":"locality",

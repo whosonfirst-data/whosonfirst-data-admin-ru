@@ -9,15 +9,18 @@
     "geom:bbox":"40.225,45.01028,40.225,45.01028",
     "geom:latitude":45.01028,
     "geom:longitude":40.225,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3830,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":3830,
     "iso:country":"RU",
+    "lbl:bbox":"40.205,44.99028,40.245,45.03028",
     "lbl:latitude":45.01028,
     "lbl:longitude":40.225,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ady_x_preferred":[
         "\u0425\u044c\u0430\u043a\u0443\u0440\u044b\u043d\u044d\u0445\u044c\u0430\u0431\u043b"
@@ -64,7 +67,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u043a\u0443\u0440\u0438\u043d\u043e\u0445\u0430\u0431\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khakurinokhabl\u2019"
     ],
     "qs_pg:aaroncc":"RU",
@@ -84,7 +87,7 @@
     "qs_pg:woe_adm0":23424936,
     "qs_pg:woe_id":2083646,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424936,
     "woe:name_adm0":"Russia",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1125774733,
-    "wof:lastmodified":1563263171,
+    "wof:lastmodified":1566631039,
     "wof:name":"Shovgenovskiy",
     "wof:parent_id":1108736601,
     "wof:placetype":"locality",

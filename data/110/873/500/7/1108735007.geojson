@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":44.375081,
     "lbl:longitude":40.223107,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Adygeja",
     "meso:admin1r_en":"JUzhnyj federal'nyj okrug",
     "meso:admin_1":"\u0410\u0434\u044b\u0433\u0435\u044f",
@@ -53,6 +55,7 @@
     "mps:longitude":40.223107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ady_x_preferred":[
         "\u041c\u044b\u0435\u043a\u044a\u0443\u044d\u043f\u044d \u043a\u044a\u0435\u0434\u0437\u044b\u0433\u044a\u043e"
     ],
@@ -108,9 +111,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0439\u043a\u043e\u043f\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041c\u0430\u0439\u043a\u043e\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Maykopsky"
     ],
@@ -118,7 +118,7 @@
         "\u9081\u79d1\u666e\u65af\u57fa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688135,
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":1108735007,
-    "wof:lastmodified":1563256957,
+    "wof:lastmodified":1566627144,
     "wof:name":"Majkopskiy",
     "wof:parent_id":85688135,
     "wof:placetype":"county",

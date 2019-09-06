@@ -11,11 +11,15 @@
     "geom:longitude":47.35202,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":13912,
+    "gn:population":13912,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"47.33202,42.94895,47.37202,42.98895",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:che_x_preferred":[
         "\u041b\u0435\u043d\u0438\u043d\u043a\u0435\u043d\u0442"
     ],
@@ -35,9 +39,6 @@
         "Leninkient"
     ],
     "name:rus_x_preferred":[
-        "\u041b\u0435\u043d\u0438\u043d\u043a\u0435\u043d\u0442"
-    ],
-    "name:unk_x_variant":[
         "\u041b\u0435\u043d\u0438\u043d\u043a\u0435\u043d\u0442"
     ],
     "qs:name":"Leninkent",
@@ -60,7 +61,7 @@
     "wof:concordances":{
         "gn:id":536186,
         "gp:id":2035829,
-        "qs:id":1303453,
+        "qs_pg:id":1303453,
         "wd:id":"Q1817784",
         "wk:page":"Leninkent"
     },
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":890485941,
-    "wof:lastmodified":1563262014,
+    "wof:lastmodified":1566630541,
     "wof:name":"Leninkent",
     "wof:parent_id":890484275,
     "wof:placetype":"locality",

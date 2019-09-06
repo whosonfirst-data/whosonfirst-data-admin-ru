@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":57.501313,
     "lbl:longitude":68.622101,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Tyumen'",
     "meso:name_alt2":"Tjumenskaja oblast'",
     "meso:name_local":"\u0422\u044e\u043c\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -263,10 +264,6 @@
         "\u0422\u044e\u043c\u0435\u043d\u044c"
     ],
     "name:und_x_variant":[
-        "Tjumenskaja oblast'",
-        "Tyumen'"
-    ],
-    "name:unk_x_variant":[
         "Tyumenskaya Oblast\u2019"
     ],
     "name:urd_x_preferred":[
@@ -353,9 +350,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"161,800",
     "statoids:area_mi":"62,500",
     "statoids:as_of_date":"2010-10-14",
@@ -417,11 +414,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734453,
+    "wof:lastmodified":1566618601,
     "wof:name":"Tyumen",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":1340608,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

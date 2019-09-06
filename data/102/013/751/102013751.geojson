@@ -16,6 +16,8 @@
     "iso:country":"RU",
     "lbl:latitude":51.953277,
     "lbl:longitude":85.968757,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":51.953277,
     "mps:longitude":85.968757,
     "mz:hierarchy_label":1,
@@ -201,7 +203,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e-\u0410\u043b\u0442\u0430\u0439\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oirat-Tura"
     ],
     "name:urd_x_preferred":[
@@ -355,7 +357,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.96,
     "wd:longitude":85.96,
@@ -370,10 +372,12 @@
     "wof:concordances":{
         "gn:id":1506271,
         "gp:id":2120895,
-        "qs:id":1129212,
         "qs_pg:id":273971,
         "wd:id":"Q6025",
         "wk:page":"Gorno-Altaysk"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1129212
     },
     "wof:country":"RU",
     "wof:geomhash":"477fac2db008ded37b39d8d5eb0f086e",
@@ -386,7 +390,7 @@
         }
     ],
     "wof:id":102013751,
-    "wof:lastmodified":1563240023,
+    "wof:lastmodified":1566615062,
     "wof:name":"Gorno-Altaysk",
     "wof:parent_id":1108733611,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000562,
-    "geom:area_square_m":4109976.509679,
+    "geom:area_square_m":4109976.509682,
     "geom:bbox":"46.7382850647,53.7373924255,46.7786636353,53.7662963867",
     "geom:latitude":53.748717,
     "geom:longitude":46.761386,
@@ -15,17 +15,20 @@
     "iso:country":"RU",
     "lbl:latitude":53.749094,
     "lbl:longitude":46.763069,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.749094,
     "mps:longitude":46.763069,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Bazarnyy Syzgan"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0437\u0430\u0440\u043d\u044b\u0439 \u0421\u044b\u0437\u0433\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bazarny Syzgan"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,18 +49,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687907
+        85687907,
+        1108732917
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":578465,
         "gp:id":2120201,
-        "qs:id":125742,
         "qs_pg:id":125742
     },
     "wof:country":"RU",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102010269,
-    "wof:lastmodified":1505338934,
+    "wof:lastmodified":1566615483,
     "wof:name":"Bazarnyy Syzgan",
     "wof:parent_id":1108732917,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":33.48619,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"33.46619,56.62765,33.50619,56.66765",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Okovtsy"
     ],
@@ -23,9 +27,6 @@
         "Okovtsy"
     ],
     "name:rus_x_preferred":[
-        "\u041e\u043a\u043e\u0432\u0446\u044b"
-    ],
-    "name:unk_x_variant":[
         "\u041e\u043a\u043e\u0432\u0446\u044b"
     ],
     "qs:name":"Okovtsy",
@@ -47,7 +48,7 @@
     "wof:concordances":{
         "gn:id":515986,
         "gp:id":2059014,
-        "qs:id":1061039
+        "qs_pg:id":1061039
     },
     "wof:country":"RU",
     "wof:created":1469054492,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":890483993,
-    "wof:lastmodified":1505343761,
+    "wof:lastmodified":1566630651,
     "wof:name":"Okovtsy",
     "wof:parent_id":890487091,
     "wof:placetype":"locality",

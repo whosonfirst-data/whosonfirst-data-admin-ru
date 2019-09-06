@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000582,
-    "geom:area_square_m":5168146.696314,
+    "geom:area_square_m":5168146.696315,
     "geom:bbox":"41.4588317871,44.1063613892,41.4860267639,44.1319160461",
     "geom:latitude":44.11827,
     "geom:longitude":41.472743,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.118628,
     "lbl:longitude":41.472924,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.118628,
     "mps:longitude":41.472924,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Peredovaya"
     ],
@@ -26,9 +29,6 @@
         "Peredovaja"
     ],
     "name:rus_x_preferred":[
-        "\u041f\u0435\u0440\u0435\u0434\u043e\u0432\u0430\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u0435\u0440\u0435\u0434\u043e\u0432\u0430\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +49,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688029
+        85688029,
+        1108735733
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":511495,
         "gp:id":90574992,
-        "qs:id":549374,
         "qs_pg:id":549374
     },
     "wof:country":"RU",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":102016077,
-    "wof:lastmodified":1505338948,
+    "wof:lastmodified":1566615432,
     "wof:name":"Peredovaya",
     "wof:parent_id":1108735733,
     "wof:placetype":"locality",

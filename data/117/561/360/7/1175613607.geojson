@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.763826,
     "lbl:longitude":54.121842,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":56.763826,
     "mps:longitude":54.121842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u064a\u0643\u0648\u0641\u0633\u0643\u064a\u060c \u0628\u064a\u0631\u0645 \u0643\u0631\u0627\u064a"
     ],
@@ -143,9 +146,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0430\u0439\u043a\u043e\u0432\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
-        "\u0427\u0430\u0439\u043a\u043e\u0432\u0441\u043a\u0438\u0439"
-    ],
     "name:vep_x_preferred":[
         "\u010caikovskii"
     ],
@@ -174,7 +174,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687975,
@@ -188,7 +188,6 @@
     "wof:concordances":{
         "gn:id":569742,
         "gp:id":1997144,
-        "qs:id":125658,
         "qs_pg:id":125658,
         "wd:id":"Q197654",
         "wk:page":"Chaykovsky, Perm Krai"
@@ -206,7 +205,7 @@
         }
     ],
     "wof:id":1175613607,
-    "wof:lastmodified":1563257471,
+    "wof:lastmodified":1566627444,
     "wof:name":"Chaykovskiy",
     "wof:parent_id":1108733177,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":38.7789,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"38.7589,44.4065,38.7989,44.4465",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Defanovka"
     ],
@@ -23,9 +27,6 @@
         "Defanovka"
     ],
     "name:rus_x_preferred":[
-        "\u0414\u0435\u0444\u0430\u043d\u043e\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0414\u0435\u0444\u0430\u043d\u043e\u0432\u043a\u0430"
     ],
     "qs:name":"Defanovka",
@@ -49,7 +50,7 @@
     "wof:concordances":{
         "gn:id":566846,
         "gp:id":2120624,
-        "qs:id":343226
+        "qs_pg:id":343226
     },
     "wof:country":"RU",
     "wof:created":1469054344,
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":890481139,
-    "wof:lastmodified":1505343746,
+    "wof:lastmodified":1566630816,
     "wof:name":"Defanovka",
     "wof:parent_id":890483401,
     "wof:placetype":"locality",

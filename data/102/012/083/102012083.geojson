@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000474,
-    "geom:area_square_m":3275809.192286,
+    "geom:area_square_m":3275809.192284,
     "geom:bbox":"60.9251403809,56.0425567627,60.9560546875,56.0662498474",
     "geom:latitude":56.053681,
     "geom:longitude":60.942375,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.053304,
     "lbl:longitude":60.942669,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.053304,
     "mps:longitude":60.942669,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Tyubuk"
     ],
@@ -44,18 +47,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687791
+        85687791,
+        1108734299
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1488788,
         "gp:id":2124032,
-        "qs:id":132795,
         "qs_pg:id":132795
     },
     "wof:country":"RU",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102012083,
-    "wof:lastmodified":1505338938,
+    "wof:lastmodified":1566614989,
     "wof:name":"Tyubuk",
     "wof:parent_id":1108734299,
     "wof:placetype":"locality",

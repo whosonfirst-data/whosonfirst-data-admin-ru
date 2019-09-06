@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000503,
-    "geom:area_square_m":4257180.546238,
+    "geom:area_square_m":4257180.546236,
     "geom:bbox":"40.4386405945,46.7556648254,40.4664154053,46.7797241211",
     "geom:latitude":46.766941,
     "geom:longitude":40.452074,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":46.766152,
     "lbl:longitude":40.451814,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.766152,
     "mps:longitude":40.451814,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Mechetinskaya"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0435\u0447\u0435\u0442\u0438\u043d\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Metschetinskaja"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688033,
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":528137,
         "gp:id":2122138,
-        "qs:id":1305753,
         "qs_pg:id":1305753
     },
     "wof:country":"RU",
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":102007399,
-    "wof:lastmodified":1505338927,
+    "wof:lastmodified":1566615148,
     "wof:name":"Mechetinskaya",
     "wof:parent_id":890483543,
     "wof:placetype":"locality",

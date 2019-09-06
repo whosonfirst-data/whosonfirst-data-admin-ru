@@ -9,14 +9,17 @@
     "geom:bbox":"56.6529998779,59.3988609314,56.6927490234,59.4395561218",
     "geom:latitude":59.421383,
     "geom:longitude":56.675539,
-    "geonames:id":"478269,516099",
+    "gn:id":"478269,516099",
     "iso:country":"RU",
     "lbl:latitude":59.424068,
     "lbl:longitude":56.679893,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.424068,
     "mps:longitude":56.679893,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0633\u0648\u0644\u064a\u064a"
     ],
@@ -138,7 +141,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":82,
     "wof:belongsto":[
         85687975,
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":102008183,
-    "wof:lastmodified":1563240529,
+    "wof:lastmodified":1566615301,
     "wof:name":"Usolye",
     "wof:parent_id":1108737213,
     "wof:placetype":"locality",

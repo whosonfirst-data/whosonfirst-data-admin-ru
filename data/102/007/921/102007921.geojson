@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001004,
-    "geom:area_square_m":8737217.442846,
+    "geom:area_square_m":8737217.442847,
     "geom:bbox":"39.2221946716,45.2803611755,39.2906112671,45.305557251",
     "geom:latitude":45.292581,
     "geom:longitude":39.256238,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.292139,
     "lbl:longitude":39.261418,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.292139,
     "mps:longitude":39.261418,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
     "qs:a1_lc":"2301000003300",
@@ -37,18 +40,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688029
+        85688029,
+        1108733369
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":509124,
         "gp:id":2122895,
-        "qs:id":80639,
         "qs_pg:id":80639
     },
     "wof:country":"RU",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102007921,
-    "wof:lastmodified":1505338929,
+    "wof:lastmodified":1566615199,
     "wof:name":"Plastunovskaya",
     "wof:parent_id":1108733369,
     "wof:placetype":"locality",

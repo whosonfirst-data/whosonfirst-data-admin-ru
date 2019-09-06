@@ -11,11 +11,15 @@
     "geom:longitude":47.11606,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":2658,
+    "gn:population":2658,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"47.09606,42.15036,47.13606,42.19036",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ava_x_preferred":[
         "\u0413\u044a\u0443\u043c\u0435\u043a\u0438\u0431"
     ],
@@ -61,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043c\u0443\u0445"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0443\u043c\u0443\u0445"
-    ],
     "qs:name":"Kumuk",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Dagestan Republic",
@@ -84,7 +85,7 @@
     "wof:concordances":{
         "gn:id":539233,
         "gp:id":2032557,
-        "qs:id":125268,
+        "qs_pg:id":125268,
         "wd:id":"Q1153296",
         "wk:page":"Kumyks"
     },
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":890479005,
-    "wof:lastmodified":1563262572,
+    "wof:lastmodified":1566630768,
     "wof:name":"Kumuk",
     "wof:parent_id":1108734889,
     "wof:placetype":"locality",

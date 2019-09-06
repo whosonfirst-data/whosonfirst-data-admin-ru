@@ -11,7 +11,7 @@
     "geom:longitude":41.005518,
     "gn:country":"RU",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
         "Ivanovskiy District"
@@ -33,6 +33,8 @@
     ],
     "lbl:latitude":57.049457,
     "lbl:longitude":41.145856,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Ivanovskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -56,6 +58,7 @@
     "mps:longitude":41.145856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Ivanovskiy Rayon"
     ],
@@ -99,12 +102,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u0432\u0430\u043d\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Ivanovskiy Rayon"
-    ],
     "name:zho_x_preferred":[
         "\u4f0a\u4e07\u8bfa\u6c83\u533a"
     ],
@@ -116,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -127,7 +124,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":555207,
-        "qs:id":1029865,
+        "qs_pg:id":1029865,
         "wd:id":"Q2389520"
     },
     "wof:country":"RU",
@@ -143,7 +140,7 @@
         }
     ],
     "wof:id":890481975,
-    "wof:lastmodified":1563262715,
+    "wof:lastmodified":1566630837,
     "wof:name":"Ivanovskiy",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

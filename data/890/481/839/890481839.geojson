@@ -11,10 +11,14 @@
     "geom:longitude":48.89891,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":2547,
+    "gn:population":2547,
     "iso:country":"RU",
+    "lbl:bbox":"48.87891,63.43642,48.91891,63.47642",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0423\u0434\u043e\u0440\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -75,9 +79,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u0434\u043e\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u043e\u0441\u043b\u0430\u043d"
-    ],
     "name:vie_x_preferred":[
         "Udorsky"
     ],
@@ -104,7 +105,7 @@
     "wof:concordances":{
         "gn:id":544084,
         "gp:id":2121544,
-        "qs:id":1026919,
+        "qs_pg:id":1026919,
         "wd:id":"Q2279973",
         "wk:page":"Udorsky District"
     },
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":890481839,
-    "wof:lastmodified":1563262701,
+    "wof:lastmodified":1566630829,
     "wof:name":"Koslan",
     "wof:parent_id":1108737141,
     "wof:placetype":"locality",

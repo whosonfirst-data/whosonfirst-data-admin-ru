@@ -9,17 +9,20 @@
     "geom:bbox":"90.5053329468,53.1248893738,90.5290298462,53.1358070374",
     "geom:latitude":53.130286,
     "geom:longitude":90.517211,
-    "geonames:id":"1511303,1511304",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":6928,
+    "gn:id":"1511303,1511304",
+    "gn:population":6928,
     "iso:country":"RU",
     "lbl:latitude":53.130243,
     "lbl:longitude":90.517211,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.130243,
     "mps:longitude":90.517211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Askiz"
     ],
@@ -41,7 +44,7 @@
     "name:spa_x_preferred":[
         "Askiz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Askyzskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -64,7 +67,7 @@
     "qs:type":"\u043f\u0433\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":47,
     "wof:belongsto":[
@@ -78,7 +81,7 @@
     "wof:concordances":{
         "gn:id":1511304,
         "gp:id":1984499,
-        "qs:id":556337,
+        "qs_pg:id":556337,
         "wk:page":"Askiz"
     },
     "wof:country":"RU",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":102014247,
-    "wof:lastmodified":1564108777,
+    "wof:lastmodified":1566615126,
     "wof:name":"Askiz",
     "wof:parent_id":1108732805,
     "wof:placetype":"locality",

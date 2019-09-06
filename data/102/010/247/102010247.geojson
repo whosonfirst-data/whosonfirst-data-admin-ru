@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000274,
-    "geom:area_square_m":2001885.55701,
+    "geom:area_square_m":2001885.557011,
     "geom:bbox":"49.4288330078,53.8050537109,49.4492759705,53.8263053894",
     "geom:latitude":53.815599,
     "geom:longitude":49.439297,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.815564,
     "lbl:longitude":49.439298,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.815564,
     "mps:longitude":49.439298,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tashelka"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687781,
         102191581,
@@ -57,7 +60,6 @@
     "wof:concordances":{
         "gn:id":484259,
         "gp:id":2094234,
-        "qs:id":388455,
         "qs_pg:id":388455
     },
     "wof:country":"RU",
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":102010247,
-    "wof:lastmodified":1497296000,
+    "wof:lastmodified":1566615501,
     "wof:name":"Tashelka",
     "wof:parent_id":890484433,
     "wof:placetype":"locality",

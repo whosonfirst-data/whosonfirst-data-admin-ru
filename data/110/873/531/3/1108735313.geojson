@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":53.815507,
     "lbl:longitude":43.670076,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Penzenskaja oblast'",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u041f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":43.670076,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Narovchatskiy Rayon"
     ],
@@ -93,9 +96,6 @@
     "name:tat_x_preferred":[
         "\u041d\u0430\u0440\u0443\u0447\u0430\u0442 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
-    "name:und_x_variant":[
-        "\u041d\u0430\u0440\u043e\u0432\u0447\u0430\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Narovchatsky"
     ],
@@ -103,9 +103,9 @@
         "\u7d0d\u7f85\u592b\u6070\u7279\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"938",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Narovchat",
@@ -139,7 +139,7 @@
         }
     ],
     "wof:id":1108735313,
-    "wof:lastmodified":1563256969,
+    "wof:lastmodified":1566627151,
     "wof:name":"Narovchatskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000544,
-    "geom:area_square_m":4231732.330685,
+    "geom:area_square_m":4231732.330686,
     "geom:bbox":"42.3798332214,51.0114440918,42.4117240906,51.0411949158",
     "geom:latitude":51.026565,
     "geom:longitude":42.392869,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.025954,
     "lbl:longitude":42.38997,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.025954,
     "mps:longitude":42.38997,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Orlovskiy"
     ],
@@ -25,9 +28,6 @@
         "Orlovskij"
     ],
     "name:rus_x_preferred":[
-        "\u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0438\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0438\u0439"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0445",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":201,
     "wof:belongsto":[
         85688101,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102006001,
-    "wof:lastmodified":1527637262,
+    "wof:lastmodified":1566615348,
     "wof:name":"Orlovskiy",
     "wof:parent_id":1108735519,
     "wof:placetype":"locality",

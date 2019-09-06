@@ -11,8 +11,11 @@
     "geom:longitude":60.91667,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":2985,
+    "gn:population":2985,
     "iso:country":"RU",
+    "lbl:bbox":"60.89667,64.24667,60.93667,64.28667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -44,9 +47,6 @@
         "Saranpaul"
     ],
     "name:tat_x_preferred":[
-        "\u0421\u0430\u0440\u0430\u043d\u043f\u0430\u0443\u043b\u044c"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u0430\u0440\u0430\u043d\u043f\u0430\u0443\u043b\u044c"
     ],
     "ne:ADM0CAP":0.0,
@@ -157,7 +157,7 @@
     "wof:concordances":{
         "gn:id":1493049,
         "gp:id":2078205,
-        "qs:id":85089,
+        "qs_pg:id":85089,
         "wd:id":"Q4408338"
     },
     "wof:country":"RU",
@@ -174,7 +174,7 @@
         }
     ],
     "wof:id":890478613,
-    "wof:lastmodified":1563261913,
+    "wof:lastmodified":1566630504,
     "wof:name":"Saranpaul\u2019",
     "wof:parent_id":1108732981,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"45.35898,43.09476,45.35898,43.09476",
     "geom:latitude":43.09476,
     "geom:longitude":45.35898,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5319,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":5319,
     "iso:country":"RU",
+    "lbl:bbox":"45.33898,43.07476,45.37898,43.11476",
     "lbl:latitude":43.09476,
     "lbl:longitude":45.35898,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:che_x_preferred":[
         "Makane-Khotar"
@@ -43,7 +46,7 @@
         "\u041a\u043e\u043d\u0451\u0432",
         "Kon\u00ebv"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Podgornoye"
     ],
     "qs_pg:aaroncc":"RU",
@@ -63,7 +66,7 @@
     "qs_pg:woe_adm0":23424936,
     "qs_pg:woe_id":2081168,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424936,
     "woe:name_adm0":"Russia",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1126031113,
-    "wof:lastmodified":1509407920,
+    "wof:lastmodified":1566631006,
     "wof:name":"Shalazhi",
     "wof:parent_id":1108737197,
     "wof:placetype":"locality",

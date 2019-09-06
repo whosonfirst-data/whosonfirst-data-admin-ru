@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.36844,
     "lbl:longitude":43.672026,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.36844,
     "mps:longitude":43.672026,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u041a\u0443\u0447\u0435\u0440\u043b\u0430"
     ],
@@ -51,7 +54,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0447\u0435\u0440\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sheret"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +76,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":136,
     "wof:belongsto":[
         85687825,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":102007875,
-    "wof:lastmodified":1564108806,
+    "wof:lastmodified":1566615157,
     "wof:name":"Kucherla",
     "wof:parent_id":1108737113,
     "wof:placetype":"locality",

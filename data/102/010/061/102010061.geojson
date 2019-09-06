@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000517,
-    "geom:area_square_m":3743168.578684,
+    "geom:area_square_m":3743168.578683,
     "geom:bbox":"48.2116127014,54.1301651001,48.2436943054,54.1552505493",
     "geom:latitude":54.143699,
     "geom:longitude":48.229739,
@@ -14,17 +14,20 @@
     "iso:country":"RU",
     "lbl:latitude":54.143468,
     "lbl:longitude":48.230045,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.143468,
     "mps:longitude":48.230045,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Bolsjije Kljutsjisjtsji"
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u043b\u044c\u0448\u0438\u0435 \u041a\u043b\u044e\u0447\u0438\u0449\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Klyuchishchi"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -45,17 +48,17 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687907
+        85687907,
+        1108737165
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":574163,
         "gp:id":1991887,
-        "qs:id":194030,
         "qs_pg:id":194030
     },
     "wof:country":"RU",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102010061,
-    "wof:lastmodified":1497290831,
+    "wof:lastmodified":1566615505,
     "wof:name":"Bol'Shiye Klyuchishchi",
     "wof:parent_id":1108737165,
     "wof:placetype":"locality",

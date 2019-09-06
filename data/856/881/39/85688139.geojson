@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":66.797129,
     "lbl:longitude":95.9815,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Krasnoyarsk",
     "meso:name_alt2":"Krasnojarskij kraj",
     "meso:name_local":"\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -305,10 +306,6 @@
         "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u044c\u043a"
     ],
     "name:und_x_variant":[
-        "Krasnojarskij kraj",
-        "Krasnoyarsk"
-    ],
-    "name:unk_x_variant":[
         "Krasnoyarsk Kray"
     ],
     "name:urd_x_preferred":[
@@ -404,9 +401,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"2,277,800",
     "statoids:area_mi":"879,500",
     "statoids:as_of_date":"2010-10-14",
@@ -468,11 +465,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734422,
+    "wof:lastmodified":1566618543,
     "wof:name":"Krasnoyarsk",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":2828187,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.231953,
     "lbl:longitude":57.442261,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.231953,
     "mps:longitude":57.442261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0632\u064a\u0644\u0627\u064a\u0631"
     ],
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.232222,
     "wd:longitude":57.440278,
@@ -97,7 +100,6 @@
     "wof:concordances":{
         "gn:id":462626,
         "gp:id":2124615,
-        "qs:id":80391,
         "qs_pg:id":80391,
         "wd:id":"Q2026647",
         "wk:page":"Zilair"
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":102010967,
-    "wof:lastmodified":1563241010,
+    "wof:lastmodified":1566615494,
     "wof:name":"Zilair",
     "wof:parent_id":1108738221,
     "wof:placetype":"locality",

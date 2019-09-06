@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":60.129098,
     "lbl:longitude":31.660968,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Leningrad",
     "meso:name_alt2":"Leningradskaja oblast'",
     "meso:name_local":"\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -68,10 +69,6 @@
         "Leningrad oblast"
     ],
     "name:und_x_variant":[
-        "Leningradskaja oblast'",
-        "Leningrad"
-    ],
-    "name:unk_x_variant":[
         "Leningradskaya Oblast\u2019"
     ],
     "ne:abbrev":"",
@@ -143,9 +140,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"85,900",
     "statoids:area_mi":"33,200",
     "statoids:as_of_date":"2010-10-14",
@@ -207,11 +204,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734446,
+    "wof:lastmodified":1566618588,
     "wof:name":"Leningrad",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":1716868,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

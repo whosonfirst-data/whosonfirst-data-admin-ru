@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":48.300833,
     "lbl:longitude":40.928166,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.300833,
     "mps:longitude":40.928166,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gora Rudakova"
     ],
@@ -39,9 +42,6 @@
     "name:rus_x_variant":[
         "\u0420\u0443\u0434\u0430\u043a\u043e\u0432"
     ],
-    "name:unk_x_variant":[
-        "\u0420\u0443\u0434\u0430\u043a\u043e\u0432"
-    ],
     "name:zho_x_preferred":[
         "\u9b6f\u9054\u79d1\u592b\u706b\u5c71"
     ],
@@ -61,7 +61,7 @@
     "qs:type":"\u0445",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":51,
     "wof:belongsto":[
         85688033,
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":102006993,
-    "wof:lastmodified":1564109013,
+    "wof:lastmodified":1566615358,
     "wof:name":"Rudakov",
     "wof:parent_id":1108732947,
     "wof:placetype":"locality",

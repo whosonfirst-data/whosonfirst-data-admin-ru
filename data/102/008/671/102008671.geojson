@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.056041,
     "lbl:longitude":54.919526,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.056041,
     "mps:longitude":54.919526,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u064a\u064a\u0644\u0648\u0641\u0648\u060c \u0628\u064a\u0631\u0645"
     ],
@@ -44,9 +47,6 @@
     "name:rus_x_preferred":[
         "\u0415\u043b\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u0415\u043b\u043e\u0432\u043e"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
     "qs:a1_lc":"5900700000100",
@@ -65,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":68,
     "wof:belongsto":[
@@ -78,7 +78,6 @@
     "wof:concordances":{
         "gn:id":467711,
         "gp:id":2124481,
-        "qs:id":207328,
         "qs_pg:id":207328,
         "wd:id":"Q2949656"
     },
@@ -93,7 +92,7 @@
         }
     ],
     "wof:id":102008671,
-    "wof:lastmodified":1563240496,
+    "wof:lastmodified":1566615289,
     "wof:name":"Yelovo",
     "wof:parent_id":1108733493,
     "wof:placetype":"locality",

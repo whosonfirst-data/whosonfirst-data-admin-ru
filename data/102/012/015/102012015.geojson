@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000668,
-    "geom:area_square_m":4576245.401352,
+    "geom:area_square_m":4576245.401353,
     "geom:bbox":"61.6501960754,56.3368606567,61.7067489624,56.360332489",
     "geom:latitude":56.34811,
     "geom:longitude":61.678468,
     "iso:country":"RU",
     "lbl:latitude":56.348396,
     "lbl:longitude":61.668614,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.348396,
     "mps:longitude":61.668614,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rybnikovskoye"
     ],
@@ -23,9 +26,6 @@
         "Rybnikovskoje"
     ],
     "name:rus_x_preferred":[
-        "\u0420\u044b\u0431\u043d\u0438\u043a\u043e\u0432\u0441\u043a\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u0420\u044b\u0431\u043d\u0438\u043a\u043e\u0432\u0441\u043a\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688183,
         102191581,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":102012015,
-    "wof:lastmodified":1501220013,
+    "wof:lastmodified":1566614987,
     "wof:name":"Rybnikovskoye",
     "wof:parent_id":1108734223,
     "wof:placetype":"locality",

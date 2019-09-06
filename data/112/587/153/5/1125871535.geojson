@@ -9,15 +9,18 @@
     "geom:bbox":"40.51194,44.89722,40.51194,44.89722",
     "geom:latitude":44.89722,
     "geom:longitude":40.51194,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7313,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":7313,
     "iso:country":"RU",
+    "lbl:bbox":"40.49194,44.87722,40.53194,44.91722",
     "lbl:latitude":44.89722,
     "lbl:longitude":40.51194,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Koixekhabl"
@@ -64,9 +67,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0448\u0435\u0445\u0430\u0431\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u043e\u0448\u0435\u0445\u0430\u0431\u043b\u044c"
-    ],
     "qs_pg:aaroncc":"RU",
     "qs_pg:gn_country":"RU",
     "qs_pg:gn_fcode":"PPL",
@@ -79,7 +79,7 @@
     "qs_pg:qs_id":349648,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688135,
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1125871535,
-    "wof:lastmodified":1563263119,
+    "wof:lastmodified":1566631016,
     "wof:name":"Koshekhabl\u2019",
     "wof:parent_id":1108734603,
     "wof:placetype":"locality",

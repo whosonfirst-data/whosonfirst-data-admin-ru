@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000703,
-    "geom:area_square_m":5409103.373194,
+    "geom:area_square_m":5409103.373195,
     "geom:bbox":"53.3643074036,51.5166931152,53.4076652527,51.5437507629",
     "geom:latitude":51.529339,
     "geom:longitude":53.383645,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.529262,
     "lbl:longitude":53.381064,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.529262,
     "mps:longitude":53.381064,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Ilek"
     ],
@@ -40,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043b\u0435\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ilen-Gorodok"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":64,
     "wof:belongsto":[
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":557340,
         "gp:id":2121003,
-        "qs:id":1116931,
         "qs_pg:id":1116931
     },
     "wof:country":"RU",
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":102011141,
-    "wof:lastmodified":1527637593,
+    "wof:lastmodified":1566615420,
     "wof:name":"Ilek",
     "wof:parent_id":1108733987,
     "wof:placetype":"locality",

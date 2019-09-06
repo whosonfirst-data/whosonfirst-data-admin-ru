@@ -9,15 +9,18 @@
     "geom:bbox":"81.3423,53.7884,81.3423,53.7884",
     "geom:latitude":53.7884,
     "geom:longitude":81.3423,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":44564,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":44564,
     "iso:country":"RU",
+    "lbl:bbox":"81.3223,53.7684,81.3623,53.8084",
     "lbl:latitude":53.7884,
     "lbl:longitude":81.3423,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u064a\u0646-\u0646\u0627-\u0623\u0648\u0628\u064a"
@@ -112,7 +115,7 @@
     "name:tur_x_preferred":[
         "Kamen-na-Obi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kamen\u2019"
     ],
     "name:vep_x_preferred":[
@@ -139,7 +142,7 @@
     "qs_pg:qs_id":273969,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85687835,
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":1125879875,
-    "wof:lastmodified":1563263121,
+    "wof:lastmodified":1566631017,
     "wof:name":"Kamen\u2019-na-Obi",
     "wof:parent_id":1108734217,
     "wof:placetype":"locality",

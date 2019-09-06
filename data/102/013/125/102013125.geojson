@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.235541,
     "lbl:longitude":85.801793,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.235541,
     "mps:longitude":85.801793,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u0627\u064a\u0631"
     ],
@@ -88,7 +91,7 @@
     "name:tur_x_preferred":[
         "Salair"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Salairskoye"
     ],
     "name:vep_x_preferred":[
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -130,7 +133,6 @@
     "wof:concordances":{
         "gn:id":1493224,
         "gp:id":2077570,
-        "qs:id":85088,
         "qs_pg:id":85088,
         "wd:id":"Q193455",
         "wk:page":"Salair (town)"
@@ -146,7 +148,7 @@
         }
     ],
     "wof:id":102013125,
-    "wof:lastmodified":1563240066,
+    "wof:lastmodified":1566615083,
     "wof:name":"Salair",
     "wof:parent_id":1108733957,
     "wof:placetype":"locality",

@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":52.670766,
     "lbl:longitude":41.618782,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Tambov",
     "meso:name_alt2":"Tambovskaja oblast'",
     "meso:name_local":"\u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -254,13 +255,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043c\u0431\u043e\u0432"
     ],
-    "name:und_x_variant":[
-        "Tambovskaja oblast'",
-        "Tambov"
-    ],
-    "name:unk_x_variant":[
-        "Tambov Oblast"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u06cc\u0645\u0628\u0648\u0641"
     ],
@@ -351,9 +345,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"34,300",
     "statoids:area_mi":"13,200",
     "statoids:as_of_date":"2010-10-14",
@@ -415,11 +409,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734447,
+    "wof:lastmodified":1566618591,
     "wof:name":"Tambov",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":1091994,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

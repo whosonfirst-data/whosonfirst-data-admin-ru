@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00083,
-    "geom:area_square_m":5615580.51906,
+    "geom:area_square_m":5615580.519059,
     "geom:bbox":"86.585609436,56.816192627,86.6494140625,56.8375549316",
     "geom:latitude":56.824842,
     "geom:longitude":86.62219,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.82556,
     "lbl:longitude":86.62857,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.82556,
     "mps:longitude":86.62857,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Zyryanskoye"
     ],
@@ -24,9 +27,6 @@
         "Zyrjanskoje"
     ],
     "name:rus_x_preferred":[
-        "\u0417\u044b\u0440\u044f\u043d\u0441\u043a\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u0417\u044b\u0440\u044f\u043d\u0441\u043a\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":31,
     "wof:belongsto":[
@@ -60,7 +60,6 @@
     "wof:concordances":{
         "gn:id":1484892,
         "gp:id":2124656,
-        "qs:id":132757,
         "qs_pg:id":132757
     },
     "wof:country":"RU",
@@ -74,7 +73,7 @@
         }
     ],
     "wof:id":102012647,
-    "wof:lastmodified":1527636474,
+    "wof:lastmodified":1566615016,
     "wof:name":"Zyryanskoye",
     "wof:parent_id":1108738473,
     "wof:placetype":"locality",

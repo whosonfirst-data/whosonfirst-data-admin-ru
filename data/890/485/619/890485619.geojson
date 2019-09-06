@@ -11,11 +11,15 @@
     "geom:longitude":38.32503,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"38.30503,54.87566,38.34503,54.91566",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0443\u043a\u043e\u0432\u043e"
     ],
@@ -46,9 +50,6 @@
     "name:srp_x_preferred":[
         "\u0421\u0443\u043a\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u0443\u043a\u043e\u0432\u043e"
-    ],
     "qs:name":"Sukovo",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Moscow Oblast",
@@ -69,7 +70,7 @@
     "wof:concordances":{
         "gn:id":486432,
         "gp:id":2091876,
-        "qs:id":1027889,
+        "qs_pg:id":1027889,
         "wk:page":"Sukovo"
     },
     "wof:country":"RU",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":890485619,
-    "wof:lastmodified":1564128926,
+    "wof:lastmodified":1566630529,
     "wof:name":"Sukovo",
     "wof:parent_id":890487149,
     "wof:placetype":"locality",

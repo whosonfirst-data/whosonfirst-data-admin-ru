@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":46.560153,
     "lbl:longitude":40.65105,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.560153,
     "mps:longitude":40.65105,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u064a\u064a\u063a\u0648\u0631\u0644\u064a\u0643\u0633\u0643\u0627\u064a\u0627"
     ],
@@ -61,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u0404\u0433\u043e\u0440\u043b\u0438\u0446\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yegorlkskaya"
     ],
     "name:zho_x_preferred":[
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":364,
     "wof:belongsto":[
@@ -98,7 +101,6 @@
     "wof:concordances":{
         "gn:id":468307,
         "gp:id":2124464,
-        "qs:id":275013,
         "qs_pg:id":275013,
         "wd:id":"Q1000831",
         "wk:page":"Yegorlykskaya"
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":102007455,
-    "wof:lastmodified":1563240227,
+    "wof:lastmodified":1566615162,
     "wof:name":"Yegorlykskaya",
     "wof:parent_id":1108733447,
     "wof:placetype":"locality",

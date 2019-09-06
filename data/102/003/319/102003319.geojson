@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.500142,
     "lbl:longitude":36.030254,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":55.500142,
     "mps:longitude":36.030254,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u062c\u0627\u064a\u0633\u0643"
     ],
@@ -163,9 +166,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0436\u0430\u0439\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "Mozhaisk"
-    ],
     "name:vie_x_preferred":[
         "Mozhaysk"
     ],
@@ -196,7 +196,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.5,
     "wd:longitude":36.033333,
@@ -211,7 +211,6 @@
     "wof:concordances":{
         "gn:id":524712,
         "gp:id":2048400,
-        "qs:id":884289,
         "qs_pg:id":884289,
         "wd:id":"Q159139",
         "wk:page":"Mozhaysk"
@@ -227,7 +226,7 @@
         }
     ],
     "wof:id":102003319,
-    "wof:lastmodified":1563241212,
+    "wof:lastmodified":1566615562,
     "wof:name":"Mozhaysk",
     "wof:parent_id":1108735221,
     "wof:placetype":"locality",

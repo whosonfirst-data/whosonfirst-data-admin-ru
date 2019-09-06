@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000675,
-    "geom:area_square_m":5919209.341151,
+    "geom:area_square_m":5919209.341146,
     "geom:bbox":"133.036392212,44.8103599548,133.05921936,44.8562240601",
     "geom:latitude":44.832793,
     "geom:longitude":133.047364,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.827949,
     "lbl:longitude":133.047581,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.827949,
     "mps:longitude":133.047581,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Chkalovskoye"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0427\u043a\u0430\u043b\u043e\u0432\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zen\u2019kovka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":74,
     "wof:belongsto":[
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":2025325,
         "gp:id":2120566,
-        "qs:id":434496,
         "qs_pg:id":434496
     },
     "wof:country":"RU",
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":102001613,
-    "wof:lastmodified":1527637256,
+    "wof:lastmodified":1566615322,
     "wof:name":"Chkalovskoye",
     "wof:parent_id":1108736773,
     "wof:placetype":"locality",

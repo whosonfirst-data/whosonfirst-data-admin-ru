@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.206125,
     "lbl:longitude":117.544423,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.206125,
     "mps:longitude":117.544423,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u041a\u043e\u043a\u0443\u0439"
     ],
@@ -40,7 +43,7 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u043a\u0443\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nokuy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688005,
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":2021908,
         "gp:id":2023777,
-        "qs:id":1059287,
         "qs_pg:id":1059287
     },
     "wof:country":"RU",
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":102014565,
-    "wof:lastmodified":1564108771,
+    "wof:lastmodified":1566615120,
     "wof:name":"Kokuy",
     "wof:parent_id":890483677,
     "wof:placetype":"locality",

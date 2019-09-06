@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000503,
-    "geom:area_square_m":4410445.640603,
+    "geom:area_square_m":4410445.640601,
     "geom:bbox":"41.5499458313,44.850276947,41.5928344727,44.8663063049",
     "geom:latitude":44.85831,
     "geom:longitude":41.570485,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.857163,
     "lbl:longitude":41.568749,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.857163,
     "mps:longitude":41.568749,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nikolayevskaya"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nikolaevskaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":73,
     "wof:belongsto":[
         102191581,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":102015677,
-    "wof:lastmodified":1527636466,
+    "wof:lastmodified":1566614967,
     "wof:name":"Nikolayevskaya",
     "wof:parent_id":1108737215,
     "wof:placetype":"locality",

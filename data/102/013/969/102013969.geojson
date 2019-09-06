@@ -9,17 +9,20 @@
     "geom:bbox":"94.8827514648,55.8982429504,94.9225311279,55.9174690247",
     "geom:latitude":55.90739,
     "geom:longitude":94.900583,
-    "geonames:id":"1508943,1536192",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":19602,
+    "gn:id":"1508943,1536192",
+    "gn:population":19602,
     "iso:country":"RU",
     "lbl:latitude":55.908077,
     "lbl:longitude":94.900204,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.908077,
     "mps:longitude":94.900204,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0648\u062f\u064a\u0646\u0648"
     ],
@@ -138,7 +141,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688139,
@@ -151,7 +154,7 @@
     "wof:concordances":{
         "gn:id":1508943,
         "gp:id":2120382,
-        "qs:id":133040,
+        "qs_pg:id":133040,
         "wd:id":"Q132724"
     },
     "wof:country":"RU",
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":102013969,
-    "wof:lastmodified":1563240026,
+    "wof:lastmodified":1566615064,
     "wof:name":"Borodino",
     "wof:parent_id":1108733095,
     "wof:placetype":"locality",

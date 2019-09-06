@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":58.269972,
     "lbl:longitude":54.933728,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":58.269972,
     "mps:longitude":54.933728,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Karagay"
     ],
@@ -44,9 +47,6 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0433\u0430\u0439"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0430\u0440\u0430\u0433\u0430\u0439"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
     "qs:a1_lc":"5900900000100",
@@ -65,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +77,6 @@
     "wof:concordances":{
         "gn:id":552887,
         "gp:id":2121201,
-        "qs:id":80877,
         "qs_pg:id":80877,
         "wd:id":"Q4213664",
         "wk:page":"Karagay, Perm Krai"
@@ -93,7 +92,7 @@
         }
     ],
     "wof:id":102008375,
-    "wof:lastmodified":1563240537,
+    "wof:lastmodified":1566615304,
     "wof:name":"Karagay",
     "wof:parent_id":1108734267,
     "wof:placetype":"locality",

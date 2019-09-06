@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.201385,
     "lbl:longitude":36.705725,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.201385,
     "mps:longitude":36.705725,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Taman"
     ],
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043c\u0430\u043d\u0441\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tamanskaja"
     ],
     "name:zho_x_preferred":[
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":537,
     "wof:belongsto":[
@@ -107,7 +110,6 @@
     "wof:concordances":{
         "gn:id":484670,
         "gp:id":2123825,
-        "qs:id":265869,
         "qs_pg:id":265869,
         "wd:id":"Q767443",
         "wk:page":"Taman, Russia"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":102007983,
-    "wof:lastmodified":1563240234,
+    "wof:lastmodified":1566615166,
     "wof:name":"Taman'",
     "wof:parent_id":1108736977,
     "wof:placetype":"locality",

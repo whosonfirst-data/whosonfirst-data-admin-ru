@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.028682,
     "lbl:longitude":35.520365,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.028682,
     "mps:longitude":35.520365,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "Xakhovskaia"
     ],
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,6 @@
     "wof:concordances":{
         "gn:id":496035,
         "gp:id":2123387,
-        "qs:id":1029574,
         "qs_pg:id":1029574,
         "wd:id":"Q2037942",
         "wk:page":"Shakhovskaya, Moscow Oblast"
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":102003025,
-    "wof:lastmodified":1563241101,
+    "wof:lastmodified":1566615526,
     "wof:name":"Shakhovskaya",
     "wof:parent_id":1108736495,
     "wof:placetype":"locality",

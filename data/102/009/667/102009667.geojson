@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000358,
-    "geom:area_square_m":2558635.556069,
+    "geom:area_square_m":2558635.55607,
     "geom:bbox":"47.7236404419,54.7094154358,47.7532501221,54.7295837402",
     "geom:latitude":54.720278,
     "geom:longitude":47.738922,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.720143,
     "lbl:longitude":47.73864,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.720143,
     "mps:longitude":47.73864,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Novyye Algashi"
     ],
@@ -28,9 +31,6 @@
         "\u041d\u043e\u0432.\u0410\u043b\u0433\u0430\u0448\u0438"
     ],
     "name:rus_x_variant":[
-        "\u041d\u043e\u0432\u044b\u0435 \u0410\u043b\u0433\u0430\u0448\u0438"
-    ],
-    "name:unk_x_variant":[
         "\u041d\u043e\u0432\u044b\u0435 \u0410\u043b\u0433\u0430\u0448\u0438"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687907,
         102191581,
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":102009667,
-    "wof:lastmodified":1501214577,
+    "wof:lastmodified":1566615221,
     "wof:name":"Novyye Algashi",
     "wof:parent_id":1108733311,
     "wof:placetype":"locality",

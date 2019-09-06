@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":52.887839,
     "lbl:longitude":112.354281,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Burjatija",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u0411\u0443\u0440\u044f\u0442\u0438\u044f",
@@ -53,6 +55,7 @@
     "mps:longitude":112.354281,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bxr_x_preferred":[
         "\u042f\u0440\u0443\u0443\u043d\u044b\u043d \u0430\u0439\u043c\u0430\u0433"
     ],
@@ -93,9 +96,6 @@
     "name:ukr_x_preferred":[
         "\u0404\u0440\u0430\u0432\u043d\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0415\u0440\u0430\u0432\u043d\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Yeravninsky"
     ],
@@ -106,9 +106,9 @@
         "\u8449\u62c9\u592b\u5be7\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"26310",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Sosnovo-Ozerskoya",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":1108733507,
-    "wof:lastmodified":1563256916,
+    "wof:lastmodified":1566627122,
     "wof:name":"Eravninskiy",
     "wof:parent_id":85688207,
     "wof:placetype":"county",

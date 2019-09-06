@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000617,
-    "geom:area_square_m":5087697.141353,
+    "geom:area_square_m":5087697.141351,
     "geom:bbox":"41.4992485046,48.1303596497,41.5449714661,48.1516952515",
     "geom:latitude":48.140787,
     "geom:longitude":41.52148,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":48.138938,
     "lbl:longitude":41.519629,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.138938,
     "mps:longitude":41.519629,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0440\u044b\u043b\u043e\u045e"
     ],
@@ -85,7 +88,7 @@
     "qs:type":"\u0445",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":306,
     "wof:belongsto":[
         85688033,
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":102007029,
-    "wof:lastmodified":1527637037,
+    "wof:lastmodified":1566615184,
     "wof:name":"Krylov",
     "wof:parent_id":1108736903,
     "wof:placetype":"locality",

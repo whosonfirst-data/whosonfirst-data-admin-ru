@@ -9,18 +9,21 @@
     "geom:bbox":"44.4881401062,43.1699714661,44.5556945801,43.2056121826",
     "geom:latitude":43.190527,
     "geom:longitude":44.530281,
-    "geonames:id":"556178,576697",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":35604,
+    "gn:id":"556178,576697",
+    "gn:population":35604,
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:latitude":43.19113,
     "lbl:longitude":44.533608,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":43.19113,
     "mps:longitude":44.533608,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Beslan"
     ],
@@ -186,7 +189,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0441\u043b\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belsan"
     ],
     "name:urd_x_preferred":[
@@ -234,7 +237,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":43.183333,
     "wd:longitude":44.533333,
@@ -250,7 +253,7 @@
     "wof:concordances":{
         "gn:id":576697,
         "gp:id":2120286,
-        "qs:id":920963,
+        "qs_pg:id":920963,
         "wd:id":"Q105035",
         "wk:page":"Beslan"
     },
@@ -267,7 +270,7 @@
         }
     ],
     "wof:id":102016459,
-    "wof:lastmodified":1563240934,
+    "wof:lastmodified":1566615460,
     "wof:name":"Beslan",
     "wof:parent_id":1108735959,
     "wof:placetype":"locality",

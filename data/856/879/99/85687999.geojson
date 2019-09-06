@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":53.187466,
     "lbl:longitude":45.169487,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Penza",
     "meso:name_alt2":"Penzenskaja oblast'",
     "meso:name_local":"\u041f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -269,13 +270,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u043d\u0437\u0430"
     ],
-    "name:und_x_variant":[
-        "Penzenskaja oblast'",
-        "Penza"
-    ],
-    "name:unk_x_variant":[
-        "Penza Oblast"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u0646\u0632\u0627"
     ],
@@ -363,9 +357,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"43,200",
     "statoids:area_mi":"16,700",
     "statoids:as_of_date":"2010-10-14",
@@ -427,11 +421,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734434,
+    "wof:lastmodified":1566618563,
     "wof:name":"Penza",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":1386186,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

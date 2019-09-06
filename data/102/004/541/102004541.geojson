@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.990076,
     "lbl:longitude":43.652544,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.990076,
     "mps:longitude":43.652544,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bak_x_preferred":[
         "\u0422\u0430\u0440\u0445\u0430\u043d\u044b"
     ],
@@ -64,9 +67,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0440\u0445\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
-        "Tarkhany"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"5800500004300",
@@ -83,7 +83,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687999,
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":102004541,
-    "wof:lastmodified":1563241327,
+    "wof:lastmodified":1566615610,
     "wof:name":"Lermontovo",
     "wof:parent_id":1108732933,
     "wof:placetype":"locality",

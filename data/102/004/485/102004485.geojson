@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00115,
-    "geom:area_square_m":8540588.081886,
+    "geom:area_square_m":8540588.081885,
     "geom:bbox":"39.8965644836,53.0758628845,39.9455528259,53.1283683777",
     "geom:latitude":53.098923,
     "geom:longitude":39.924965,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.102884,
     "lbl:longitude":39.929418,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.102884,
     "mps:longitude":39.929418,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kolybel'skoye"
     ],
@@ -25,9 +28,6 @@
         "Kolybelskoje"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u043e\u043b\u044b\u0431\u0435\u043b\u044c\u0441\u043a\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u043e\u043b\u044b\u0431\u0435\u043b\u044c\u0441\u043a\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687917,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102004485,
-    "wof:lastmodified":1501214676,
+    "wof:lastmodified":1566615573,
     "wof:name":"'Kolybel''Skoye'",
     "wof:parent_id":1108733185,
     "wof:placetype":"locality",

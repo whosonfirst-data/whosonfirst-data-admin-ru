@@ -11,11 +11,15 @@
     "geom:longitude":44.14585,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"44.12585,56.05144,44.16585,56.09144",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sheloksha"
     ],
@@ -23,9 +27,6 @@
         "Sjeloksja"
     ],
     "name:rus_x_preferred":[
-        "\u0428\u0435\u043b\u043e\u043a\u0448\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0428\u0435\u043b\u043e\u043a\u0448\u0430"
     ],
     "qs:name":"Sheloksha",
@@ -47,7 +48,7 @@
     "wof:concordances":{
         "gn:id":494991,
         "gp:id":2082250,
-        "qs:id":280995
+        "qs_pg:id":280995
     },
     "wof:country":"RU",
     "wof:created":1469054423,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":890482529,
-    "wof:lastmodified":1505343754,
+    "wof:lastmodified":1566630593,
     "wof:name":"Sheloksha",
     "wof:parent_id":890479255,
     "wof:placetype":"locality",

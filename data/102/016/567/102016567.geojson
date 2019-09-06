@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000223,
-    "geom:area_square_m":1993953.907002,
+    "geom:area_square_m":1993953.907003,
     "geom:bbox":"45.2236404419,43.6086120605,45.2443351746,43.6285552979",
     "geom:latitude":43.620139,
     "geom:longitude":45.235441,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.621513,
     "lbl:longitude":45.23544,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":43.621513,
     "mps:longitude":45.23544,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "Verxnii Naur"
     ],
@@ -28,7 +31,7 @@
     "name:nor_x_preferred":[
         "Verkhnij Naur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0412\u0435\u0440\u0445\u043d\u0438\u0439 \u041d\u0430\u0443\u0440"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688015,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":474902,
         "gp:id":2104948,
-        "qs:id":548958
+        "qs_pg:id":548958
     },
     "wof:country":"RU",
     "wof:geomhash":"0545cb96364c4209c935dd22b4a5f7aa",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102016567,
-    "wof:lastmodified":1505338949,
+    "wof:lastmodified":1566615425,
     "wof:name":"Verkhniy Naur",
     "wof:parent_id":1108735293,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.145809,
     "lbl:longitude":41.991918,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.145809,
     "mps:longitude":41.991918,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u041d\u0438\u043a\u043e\u043b\u043e\u0433\u043e\u0440\u044b"
     ],
@@ -30,9 +33,6 @@
         "Nikologory"
     ],
     "name:rus_x_preferred":[
-        "\u041d\u0438\u043a\u043e\u043b\u043e\u0433\u043e\u0440\u044b"
-    ],
-    "name:unk_x_variant":[
         "\u041d\u0438\u043a\u043e\u043b\u043e\u0433\u043e\u0440\u044b"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -53,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +65,6 @@
     "wof:concordances":{
         "gn:id":521807,
         "gp:id":2122401,
-        "qs:id":1305777,
         "qs_pg:id":1305777
     },
     "wof:country":"RU",
@@ -79,7 +78,7 @@
         }
     ],
     "wof:id":102002999,
-    "wof:lastmodified":1564109366,
+    "wof:lastmodified":1566615668,
     "wof:name":"Nikologory",
     "wof:parent_id":1108737505,
     "wof:placetype":"locality",

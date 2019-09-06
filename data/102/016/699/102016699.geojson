@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.189222,
     "lbl:longitude":45.286399,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":43.189222,
     "mps:longitude":45.286399,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0623\u062a\u0634\u0643\u0648\u064a-\u0645\u0627\u0631\u062a\u0627\u0646"
     ],
@@ -107,9 +110,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0447\u0445\u043e\u0439-\u041c\u0430\u0440\u0442\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Achkhoy-Martan"
-    ],
     "name:xmf_x_preferred":[
         "\u10d0\u10e9\u10ee\u10dd\u10d8-\u10db\u10d0\u10e0\u10d7\u10d0\u10dc\u10d8"
     ],
@@ -134,7 +134,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":43.193889,
     "wd:longitude":45.283333,
@@ -149,7 +149,6 @@
     "wof:concordances":{
         "gn:id":584298,
         "gp:id":1979935,
-        "qs:id":184290,
         "qs_pg:id":184290,
         "wd:id":"Q757773",
         "wk:page":"Achkhoy-Martan"
@@ -165,7 +164,7 @@
         }
     ],
     "wof:id":102016699,
-    "wof:lastmodified":1563240925,
+    "wof:lastmodified":1566615457,
     "wof:name":"Achkhay-Martan",
     "wof:parent_id":1108732611,
     "wof:placetype":"locality",

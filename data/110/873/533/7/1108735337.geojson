@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":54.939227,
     "lbl:longitude":22.034629,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kaliningradskaja oblast'",
     "meso:admin1r_en":"Severo-Zapadnyj federal'nyj okrug",
     "meso:admin_1":"\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":22.034629,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041d\u0435\u043c\u0430\u043d\u0441\u043a\u0430\u044f \u0433\u0430\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u0430\u043a\u0440\u0443\u0433\u0430"
     ],
@@ -99,9 +102,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043c\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041d\u0435\u043c\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Nemansky"
     ],
@@ -109,9 +109,9 @@
         "\u6d85\u66fc\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"743",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Neman",
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":1108735337,
-    "wof:lastmodified":1563256496,
+    "wof:lastmodified":1566626854,
     "wof:name":"Nemanskiy",
     "wof:parent_id":85688215,
     "wof:placetype":"county",

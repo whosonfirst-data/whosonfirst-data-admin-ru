@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000336,
-    "geom:area_square_m":3007157.551018,
+    "geom:area_square_m":3007157.551019,
     "geom:bbox":"45.5012779236,43.5648040771,45.5352516174,43.5798339844",
     "geom:latitude":43.572178,
     "geom:longitude":45.516351,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.572677,
     "lbl:longitude":45.514976,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":43.572677,
     "mps:longitude":45.514976,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "Gal-\u0120ala"
     ],
@@ -40,7 +43,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043b\u0438\u043d\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kahnoyakaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688015,
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":554077,
         "gp:id":2121134,
-        "qs:id":460041,
         "qs_pg:id":460041
     },
     "wof:country":"RU",
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":102016577,
-    "wof:lastmodified":1505338949,
+    "wof:lastmodified":1566615464,
     "wof:name":"Kalinovskaya",
     "wof:parent_id":890481509,
     "wof:placetype":"locality",

@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":54.285986,
     "lbl:longitude":46.930861,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Ul'janovskaja oblast'",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":46.930861,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bak_x_preferred":[
         "\u041a\u0430\u0440\u0441\u0443\u043d \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
@@ -102,9 +105,6 @@
     "name:tat_x_preferred":[
         "\u041a\u0430\u0440\u0441\u0443\u043d \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
-    "name:und_x_variant":[
-        "\u041a\u0430\u0440\u0441\u0443\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Karsunsky"
     ],
@@ -112,9 +112,9 @@
         "\u5361\u723e\u5b6b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1754",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Karsun",
@@ -148,7 +148,7 @@
         }
     ],
     "wof:id":1108734285,
-    "wof:lastmodified":1563257026,
+    "wof:lastmodified":1566627179,
     "wof:name":"Karsunskiy",
     "wof:parent_id":85687907,
     "wof:placetype":"county",

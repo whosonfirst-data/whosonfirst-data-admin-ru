@@ -10,8 +10,10 @@
     "geom:latitude":55.715015,
     "geom:longitude":37.670738,
     "iso:country":"RU",
+    "lbl:bbox":"37.6657382543,55.7100153477,37.6757382543,55.7200153477",
     "lbl:latitude":55.715015,
     "lbl:longitude":37.670738,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,14 +26,14 @@
     "name:rus_x_preferred":[
         "\u042e\u0436\u043d\u043e\u043f\u043e\u0440\u0442\u043e\u0432\u044b\u0439"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688085,
         102191581,
         85632685,
         102003033,
         874393555,
-        1108736095
+        1108736095,
+        85688085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1108942815,
-    "wof:lastmodified":1500066508,
+    "wof:lastmodified":1566627407,
     "wof:name":"Yuzhnoportovy",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

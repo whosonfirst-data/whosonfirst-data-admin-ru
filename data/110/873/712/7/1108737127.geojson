@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":55.145498,
     "lbl:longitude":124.758543,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Amurskaja oblast'",
     "meso:admin1r_en":"Dal'nevostochnyj federal'nyj okrug",
     "meso:admin_1":"\u0410\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":124.758543,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u0646\u062f\u0627"
     ],
@@ -161,9 +164,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0438\u043d\u0434\u0430"
     ],
-    "name:und_x_variant":[
-        "\u0422\u044b\u043d\u0434\u0430"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u06cc\u0646\u062f\u0627"
     ],
@@ -177,9 +177,9 @@
         "Tynda"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"84102",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Tynda",
@@ -211,7 +211,7 @@
         }
     ],
     "wof:id":1108737127,
-    "wof:lastmodified":1564124464,
+    "wof:lastmodified":1566627082,
     "wof:name":"Tynda",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

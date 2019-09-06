@@ -14,6 +14,8 @@
     "iso:country":"RU",
     "lbl:latitude":55.447725,
     "lbl:longitude":65.326652,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":55.447725,
     "mps:longitude":65.326652,
     "mz:hierarchy_label":1,
@@ -241,7 +243,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0440\u0433\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kurgan Pervyy"
     ],
     "name:urd_x_preferred":[
@@ -389,7 +391,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3074,
     "wof:belongsto":[
@@ -403,10 +405,12 @@
     "wof:concordances":{
         "gn:id":1501321,
         "gp:id":2121773,
-        "qs:id":1129292,
         "qs_pg:id":350266,
         "wd:id":"Q13379",
         "wk:page":"Kurgan"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1129292
     },
     "wof:country":"RU",
     "wof:geomhash":"d6362e96b76defdc5e6e2ebe8843c9cf",
@@ -421,7 +425,7 @@
         }
     ],
     "wof:id":102012245,
-    "wof:lastmodified":1563239853,
+    "wof:lastmodified":1566614989,
     "wof:name":"Kurgan",
     "wof:parent_id":890485715,
     "wof:placetype":"locality",

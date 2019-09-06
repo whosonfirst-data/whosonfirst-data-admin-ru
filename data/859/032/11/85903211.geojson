@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12755074.510915,
+    "geom:area_square_m":0.0,
     "geom:bbox":"39.889312,59.206906,39.889312,59.206906",
     "geom:latitude":59.206906,
     "geom:longitude":39.889312,
     "gn:latitude":59.2,
     "gn:longitude":39.9,
     "iso:country":"RU",
+    "lbl:bbox":"39.884312,59.201906,39.894312,59.211906",
     "lbl:latitude":59.206906,
     "lbl:longitude":39.889312,
+    "lbl:max_zoom":18.0,
     "mps:latitude":59.211094,
     "mps:longitude":39.88486,
     "mz:hierarchy_label":0,
@@ -30,10 +32,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0431\u044b\u043b\u0438\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
-        "\u0411\u043e\u0431\u044b\u043b\u0438\u043d\u043e",
-        "Bobylino"
     ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -62,20 +60,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687853,
         102191581,
         85632685,
         102002537,
         874393555,
-        890485369
+        890485369,
+        85687853
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":575847,
         "gp:id":1990292,
-        "qs:id":894760,
         "qs_pg:id":894760
     },
     "wof:country":"RU",
@@ -95,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936036,
+    "wof:lastmodified":1566618488,
     "wof:name":"Bobylino",
     "wof:parent_id":102002537,
     "wof:placetype":"neighbourhood",

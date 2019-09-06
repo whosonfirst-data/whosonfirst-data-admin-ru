@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001506,
-    "geom:area_square_m":11856664.353401,
+    "geom:area_square_m":11856664.353402,
     "geom:bbox":"41.1719703674,50.4275016785,41.2181129456,50.491973877",
     "geom:latitude":50.459902,
     "geom:longitude":41.187806,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.460277,
     "lbl:longitude":41.188156,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.460277,
     "mps:longitude":41.188156,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Podgornaya"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u041f\u043e\u0434\u0433\u043e\u0440\u043d\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Podgornoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688051,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102006303,
-    "wof:lastmodified":1501214546,
+    "wof:lastmodified":1566615356,
     "wof:name":"Podgornaya",
     "wof:parent_id":1108734193,
     "wof:placetype":"locality",

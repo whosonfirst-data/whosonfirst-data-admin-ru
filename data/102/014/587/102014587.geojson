@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000373,
-    "geom:area_square_m":2833728.900236,
+    "geom:area_square_m":2833728.900238,
     "geom:bbox":"106.529197693,52.09400177,106.56439209,52.1163597107",
     "geom:latitude":52.105828,
     "geom:longitude":106.5479,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.103523,
     "lbl:longitude":106.551099,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.103523,
     "mps:longitude":106.551099,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bol'shoye Kol\u00ebsovo"
     ],
@@ -30,7 +33,7 @@
     "name:rus_x_variant":[
         "\u0411\u043e\u043b\u044c\u0448\u043e\u0435 \u041a\u043e\u043b\u0451\u0441\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kolesovo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688207,
         102191581,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102014587,
-    "wof:lastmodified":1501225177,
+    "wof:lastmodified":1566615114,
     "wof:name":"Bolshoye Kolesovo",
     "wof:parent_id":890487025,
     "wof:placetype":"locality",

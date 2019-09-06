@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000449,
-    "geom:area_square_m":3470237.356173,
+    "geom:area_square_m":3470237.356167,
     "geom:bbox":"117.857246399,51.2818603516,117.889305115,51.3085289001",
     "geom:latitude":51.295524,
     "geom:longitude":117.872745,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.293533,
     "lbl:longitude":117.868495,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.293533,
     "mps:longitude":117.868495,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Vershino-Shakhtaminskiy"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0412\u0435\u0440\u0448\u0438\u043d\u043e-\u0428\u0430\u0445\u0442\u0430\u043c\u0438\u043d\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verchin-Shakhtaminskiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +52,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688005
+        85688005,
+        1108736549
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2013441,
         "gp:id":2106031,
-        "qs:id":137396,
         "qs_pg:id":137396
     },
     "wof:country":"RU",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102014731,
-    "wof:lastmodified":1505338945,
+    "wof:lastmodified":1566615092,
     "wof:name":"Vershino-Shakhtaminskiy",
     "wof:parent_id":1108736549,
     "wof:placetype":"locality",

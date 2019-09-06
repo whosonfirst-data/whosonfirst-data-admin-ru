@@ -11,9 +11,12 @@
     "geom:longitude":86.6621,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":104000,
+    "gn:population":104000,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"86.6421,53.97,86.6821,54.01",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -179,7 +182,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0441\u0435\u043b\u044c\u043e\u0432\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kizelovsk"
     ],
     "name:urd_x_preferred":[
@@ -313,7 +316,7 @@
     "wof:concordances":{
         "gn:id":1503277,
         "gp:id":2121402,
-        "qs:id":273965,
+        "qs_pg:id":273965,
         "wd:id":"Q153663",
         "wk:page":"Kiselyovsk"
     },
@@ -331,7 +334,7 @@
         }
     ],
     "wof:id":890479715,
-    "wof:lastmodified":1563262521,
+    "wof:lastmodified":1566630747,
     "wof:name":"Kiselevsk",
     "wof:parent_id":1108734459,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14838157.930322,
+    "geom:area_square_m":0.0,
     "geom:bbox":"37.229053,55.997599,37.229053,55.997599",
     "geom:latitude":55.997599,
     "geom:longitude":37.229053,
     "gn:latitude":56.0,
     "gn:longitude":37.25,
     "iso:country":"RU",
+    "lbl:bbox":"37.224053,55.992599,37.234053,56.002599",
     "lbl:latitude":55.997599,
     "lbl:longitude":37.229053,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.996298,
     "mps:longitude":37.22502,
     "mz:hierarchy_label":0,
@@ -31,9 +33,8 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u043b\u044c\u0448\u0438\u0435 \u0420\u0436\u0430\u0432\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "Bol\u2019shiye Rzhavki",
-        "Bol'shiye Rzhavki"
+    "name:und_x_variant":[
+        "Bol\u2019shiye Rzhavki"
     ],
     "qs:gn_adm0_cc":"RU",
     "qs:gn_fcode":"PPLX",
@@ -64,20 +65,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688085,
         102191581,
         85632685,
         102003043,
         874393555,
-        1108736201
+        1108736201,
+        85688085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":574001,
         "gp:id":1992058,
-        "qs:id":1168266,
         "qs_pg:id":1168266
     },
     "wof:country":"RU",
@@ -97,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936038,
+    "wof:lastmodified":1566618489,
     "wof:name":"Bol'shiye Rzhavki",
     "wof:parent_id":102003043,
     "wof:placetype":"neighbourhood",

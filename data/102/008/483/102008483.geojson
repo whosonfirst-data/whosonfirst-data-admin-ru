@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001202,
-    "geom:area_square_m":7904969.084332,
+    "geom:area_square_m":7904969.084333,
     "geom:bbox":"47.078666687,57.8493881226,47.1553344727,57.8761940002",
     "geom:latitude":57.862085,
     "geom:longitude":47.119342,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.862007,
     "lbl:longitude":47.119342,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.862007,
     "mps:longitude":47.119342,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "Pi\u017ema"
     ],
@@ -41,9 +44,6 @@
     "name:rus_x_preferred":[
         "\u041f\u0438\u0436\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u041f\u0438\u0436\u043c\u0430"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"5204400007800",
@@ -62,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":64,
     "wof:belongsto":[
@@ -75,7 +75,6 @@
     "wof:concordances":{
         "gn:id":509176,
         "gp:id":2122892,
-        "qs:id":549344,
         "qs_pg:id":549344
     },
     "wof:country":"RU",
@@ -89,7 +88,7 @@
         }
     ],
     "wof:id":102008483,
-    "wof:lastmodified":1527637244,
+    "wof:lastmodified":1566615266,
     "wof:name":"Pizhma",
     "wof:parent_id":1108737065,
     "wof:placetype":"locality",

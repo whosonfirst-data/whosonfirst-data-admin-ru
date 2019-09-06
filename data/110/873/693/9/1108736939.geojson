@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":60.521696,
     "lbl:longitude":43.651056,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Vologodskaja oblast'",
     "meso:admin1r_en":"Severo-Zapadnyj federal'nyj okrug",
     "meso:admin_1":"\u0412\u043e\u043b\u043e\u0433\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":43.651056,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0422\u0430\u0440\u043d\u0430\u0433\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -93,9 +96,6 @@
     "name:sco_x_preferred":[
         "Tarnogsky Destrict"
     ],
-    "name:und_x_variant":[
-        "\u0422\u0430\u0440\u043d\u043e\u0433\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vep_x_preferred":[
         "Tarnogan rajon"
     ],
@@ -106,9 +106,9 @@
         "\u5854\u5c14\u8bfa\u52a0\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"5120",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Tarnogskiy Gorodok",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":1108736939,
-    "wof:lastmodified":1563256731,
+    "wof:lastmodified":1566627004,
     "wof:name":"Tarnogskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",

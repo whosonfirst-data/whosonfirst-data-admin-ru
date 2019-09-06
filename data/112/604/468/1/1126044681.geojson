@@ -9,15 +9,18 @@
     "geom:bbox":"57.5937,58.9443,57.5937,58.9443",
     "geom:latitude":58.9443,
     "geom:longitude":57.5937,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":9451,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":9451,
     "iso:country":"RU",
+    "lbl:bbox":"57.5737,58.9243,57.6137,58.9643",
     "lbl:latitude":58.9443,
     "lbl:longitude":57.5937,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ugleural'skiy"
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0423\u0433\u043b\u0435\u0443\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ugeural\u2019skiy"
     ],
     "qs_pg:aaroncc":"RU",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":548997,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85687975,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1126044681,
-    "wof:lastmodified":1509408782,
+    "wof:lastmodified":1566631005,
     "wof:name":"Ugleural\u2019skiy",
     "wof:parent_id":1108733943,
     "wof:placetype":"locality",

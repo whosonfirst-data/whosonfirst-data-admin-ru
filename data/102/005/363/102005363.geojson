@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001723,
-    "geom:area_square_m":13192229.490255,
+    "geom:area_square_m":13192229.49025,
     "geom:bbox":"39.3126678467,51.7280006409,39.3903045654,51.7643623352",
     "geom:latitude":51.745754,
     "geom:longitude":39.352513,
     "iso:country":"RU",
     "lbl:latitude":51.743723,
     "lbl:longitude":39.356395,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.743723,
     "mps:longitude":39.356395,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0432\u043e\u0435"
     ],
@@ -37,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688051,
         102191581,
@@ -49,7 +52,6 @@
     "wof:concordances":{
         "gn:id":572087,
         "gp:id":2120390,
-        "qs:id":348802,
         "qs_pg:id":348802
     },
     "wof:country":"RU",
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":102005363,
-    "wof:lastmodified":1497293443,
+    "wof:lastmodified":1566615619,
     "wof:name":"Borovoye",
     "wof:parent_id":890484369,
     "wof:placetype":"locality",

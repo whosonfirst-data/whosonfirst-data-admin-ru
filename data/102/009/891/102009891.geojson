@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000409,
-    "geom:area_square_m":2938774.637178,
+    "geom:area_square_m":2938774.637179,
     "geom:bbox":"48.2289161682,54.4149703979,48.2629432678,54.4376106262",
     "geom:latitude":54.426035,
     "geom:longitude":48.248658,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.425212,
     "lbl:longitude":48.250334,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.425212,
     "mps:longitude":48.250334,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Isheyevka"
     ],
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":50,
     "wof:belongsto":[
@@ -59,7 +62,6 @@
     "wof:concordances":{
         "gn:id":555984,
         "gp:id":2121050,
-        "qs:id":943879,
         "qs_pg:id":943879,
         "wd:id":"Q16871095"
     },
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":102009891,
-    "wof:lastmodified":1527637049,
+    "wof:lastmodified":1566615245,
     "wof:name":"Isheyevka",
     "wof:parent_id":1108737165,
     "wof:placetype":"locality",

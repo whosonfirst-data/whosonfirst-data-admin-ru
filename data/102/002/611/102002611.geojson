@@ -9,18 +9,21 @@
     "geom:bbox":"38.7039260864,58.0875778198,38.7678871155,58.1147193909",
     "geom:latitude":58.100901,
     "geom:longitude":38.73751,
-    "geonames:id":"500004,511521",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:id":"500004,511521",
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:latitude":58.099405,
     "lbl:longitude":38.747685,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.099405,
     "mps:longitude":38.747685,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Perebory"
     ],
@@ -31,9 +34,6 @@
         "Perebory"
     ],
     "name:rus_x_preferred":[
-        "\u041f\u0435\u0440\u0435\u0431\u043e\u0440\u044b"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u0435\u0440\u0435\u0431\u043e\u0440\u044b"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -63,7 +63,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":48,
     "wof:belongsto":[
@@ -77,7 +77,7 @@
     "wof:concordances":{
         "gn:id":511521,
         "gp:id":2122798,
-        "qs:id":227508,
+        "qs_pg:id":227508,
         "wd:id":"Q4349954",
         "wk:page":"Perebory Microdistrict"
     },
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":102002611,
-    "wof:lastmodified":1563241488,
+    "wof:lastmodified":1566615675,
     "wof:name":"Perebory",
     "wof:parent_id":890480337,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000732,
-    "geom:area_square_m":5093710.798364,
+    "geom:area_square_m":5093710.798365,
     "geom:bbox":"38.0433578491,55.7375793457,38.0900802612,55.7614212036",
     "geom:latitude":55.748255,
     "geom:longitude":38.069436,
@@ -15,17 +15,20 @@
     "iso:country":"RU",
     "lbl:latitude":55.744463,
     "lbl:longitude":38.069436,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.744463,
     "mps:longitude":38.069436,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Chornoye"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0451\u0440\u043d\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ch\u00ebrnoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688161,
@@ -57,7 +60,7 @@
     "wof:concordances":{
         "gn:id":569077,
         "gp:id":1997932,
-        "qs:id":782647
+        "qs_pg:id":782647
     },
     "wof:country":"RU",
     "wof:geomhash":"2f6117a8bb667e6df5a24db57790dbb5",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102003177,
-    "wof:lastmodified":1505338918,
+    "wof:lastmodified":1566615561,
     "wof:name":"Chornaya",
     "wof:parent_id":1108733705,
     "wof:placetype":"locality",

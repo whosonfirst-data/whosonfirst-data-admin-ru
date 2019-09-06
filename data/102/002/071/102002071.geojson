@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":61.331167,
     "lbl:longitude":46.923862,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":61.331167,
     "mps:longitude":46.923862,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0644\u0641\u064a\u062a\u0634\u063a\u0648\u062f\u0633\u0643"
     ],
@@ -138,9 +141,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043b\u044c\u0432\u0438\u0447\u0435\u0433\u043e\u0434\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u043e\u043b\u044c\u0432\u044b\u0447\u0435\u0433\u043e\u0434\u0441\u043a"
-    ],
     "name:vep_x_preferred":[
         "Sol'vi\u010degodsk"
     ],
@@ -166,7 +166,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":61.333333,
     "wd:longitude":46.916667,
@@ -182,7 +182,7 @@
     "wof:concordances":{
         "gn:id":490743,
         "gp:id":2086607,
-        "qs:id":124852,
+        "qs_pg:id":124852,
         "wd:id":"Q196388",
         "wk:page":"Solvychegodsk"
     },
@@ -199,7 +199,7 @@
         }
     ],
     "wof:id":102002071,
-    "wof:lastmodified":1563241484,
+    "wof:lastmodified":1566615674,
     "wof:name":"Sol'Vychegodsk",
     "wof:parent_id":1108734627,
     "wof:placetype":"locality",

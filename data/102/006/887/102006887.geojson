@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000557,
-    "geom:area_square_m":4552150.753332,
+    "geom:area_square_m":4552150.753334,
     "geom:bbox":"41.055557251,48.6417770386,41.0898628235,48.6703338623",
     "geom:latitude":48.657566,
     "geom:longitude":41.072433,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":48.658474,
     "lbl:longitude":41.072692,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.658474,
     "mps:longitude":41.072692,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bol'shinka"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u043b\u044c\u0448\u0438\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bal\u2019shinka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441\u043b",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688033,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102006887,
-    "wof:lastmodified":1501214785,
+    "wof:lastmodified":1566615340,
     "wof:name":"Bolshinka",
     "wof:parent_id":890484451,
     "wof:placetype":"locality",

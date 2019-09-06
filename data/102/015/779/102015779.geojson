@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.750468,
     "lbl:longitude":43.433728,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.750468,
     "mps:longitude":43.433728,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0438\u0446\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -61,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0438\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novoseletskoye"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1030,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
     "wof:concordances":{
         "gn:id":518209,
         "gp:id":2122532,
-        "qs:id":355966,
         "qs_pg:id":355966,
         "wd:id":"Q1254657"
     },
@@ -116,7 +118,7 @@
         }
     ],
     "wof:id":102015779,
-    "wof:lastmodified":1563239767,
+    "wof:lastmodified":1566614951,
     "wof:name":"Novoselitskoye",
     "wof:parent_id":1108735531,
     "wof:placetype":"locality",

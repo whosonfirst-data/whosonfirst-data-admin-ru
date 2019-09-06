@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.836538,
     "lbl:longitude":48.242923,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":55.836538,
     "mps:longitude":48.242923,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0644\u062c\u0633\u0643"
     ],
@@ -145,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043b\u0437\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lopatino"
     ],
     "name:vep_x_preferred":[
@@ -173,7 +176,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.866667,
     "wd:longitude":48.35,
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":102009091,
-    "wof:lastmodified":1563240327,
+    "wof:lastmodified":1566615218,
     "wof:name":"Volzhsk",
     "wof:parent_id":890481545,
     "wof:placetype":"locality",

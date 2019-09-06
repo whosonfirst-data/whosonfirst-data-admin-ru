@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.15987,
     "lbl:longitude":94.462508,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.15987,
     "mps:longitude":94.462508,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u0411\u0430\u0439-\u0425\u0430\u0430\u043a"
     ],
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0439-\u0425\u0430\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bay-Khak"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -67,7 +70,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688039,
@@ -80,7 +83,7 @@
     "wof:concordances":{
         "gn:id":1510690,
         "gp:id":1986934,
-        "qs:id":435218,
+        "qs_pg:id":435218,
         "wd:id":"Q44926"
     },
     "wof:country":"RU",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":102014395,
-    "wof:lastmodified":1563240134,
+    "wof:lastmodified":1566615115,
     "wof:name":"Baygak",
     "wof:parent_id":1108736933,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000316,
-    "geom:area_square_m":2337935.056291,
+    "geom:area_square_m":2337935.056288,
     "geom:bbox":"38.868473053,53.2128067017,38.8974456787,53.2305259705",
     "geom:latitude":53.221991,
     "geom:longitude":38.882967,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.221099,
     "lbl:longitude":38.882691,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.221099,
     "mps:longitude":38.882691,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "T\u00ebploye"
     ],
@@ -30,7 +33,7 @@
     "name:rus_x_variant":[
         "\u0422\u0451\u043f\u043b\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Teploe"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687917,
         102191581,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102004435,
-    "wof:lastmodified":1501214453,
+    "wof:lastmodified":1566615606,
     "wof:name":"Teploye",
     "wof:parent_id":1108733345,
     "wof:placetype":"locality",

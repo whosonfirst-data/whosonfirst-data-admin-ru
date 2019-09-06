@@ -5,21 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000353,
-    "geom:area_square_m":2389186.905257,
+    "geom:area_square_m":2389186.905258,
     "geom:bbox":"51.6913604736,56.7927513123,51.7178878784,56.812084198",
     "geom:latitude":56.801985,
     "geom:longitude":51.705153,
     "iso:country":"RU",
     "lbl:latitude":56.802185,
     "lbl:longitude":51.7049,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.802185,
     "mps:longitude":51.7049,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u0430\u044f \u0411\u0438\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verkhnyaya Novaya Biya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -38,7 +41,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687787,
         102191581,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102008761,
-    "wof:lastmodified":1501214590,
+    "wof:lastmodified":1566615287,
     "wof:name":"Novaya Biya",
     "wof:parent_id":1108737309,
     "wof:placetype":"locality",

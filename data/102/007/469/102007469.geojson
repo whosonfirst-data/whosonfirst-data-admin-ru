@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000331,
-    "geom:area_square_m":2815358.302168,
+    "geom:area_square_m":2815358.30217,
     "geom:bbox":"40.0794181824,46.5197486877,40.1076660156,46.5346374512",
     "geom:latitude":46.52715,
     "geom:longitude":40.094174,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":46.527273,
     "lbl:longitude":40.094174,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.527273,
     "mps:longitude":40.094174,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kugoyeyskaya"
     ],
@@ -25,9 +28,6 @@
         "Kugojejskaja"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0443\u0433\u043e\u0435\u0439\u0441\u043a\u0430\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0443\u0433\u043e\u0435\u0439\u0441\u043a\u0430\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688029,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102007469,
-    "wof:lastmodified":1501214653,
+    "wof:lastmodified":1566615189,
     "wof:name":"Kugoyeyskaya",
     "wof:parent_id":1108734765,
     "wof:placetype":"locality",

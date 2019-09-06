@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":57.227771,
     "lbl:longitude":83.924441,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tomskaja oblast'",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u0422\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":83.924441,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u041a\u0440\u0438\u0432\u043e\u0448\u0435\u0438\u043d\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -87,9 +90,6 @@
     "name:rus_x_preferred":[
         "\u041a\u0440\u0438\u0432\u043e\u0448\u0435\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041a\u0440\u0438\u0432\u043e\u0448\u0435\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Krivosheinsky"
     ],
@@ -97,9 +97,9 @@
         "\u514b\u91cc\u6c83\u820d\u56e0\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"4708",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Krivosheino",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1108734753,
-    "wof:lastmodified":1563257054,
+    "wof:lastmodified":1566627194,
     "wof:name":"Krivosheinskiy",
     "wof:parent_id":85687809,
     "wof:placetype":"county",

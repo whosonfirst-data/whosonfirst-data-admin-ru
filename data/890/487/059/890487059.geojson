@@ -11,11 +11,15 @@
     "geom:longitude":35.6521,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":46600,
+    "gn:population":46600,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"35.6321,51.6401,35.6721,51.6801",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0634\u0627\u062a\u0648\u0641"
     ],
@@ -118,9 +122,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0440\u0447\u0430\u0442\u043e\u0432"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0443\u0440\u0447\u0430\u0442\u043e\u0432"
-    ],
     "name:war_x_preferred":[
         "Kurchatov"
     ],
@@ -154,7 +155,7 @@
     "wof:concordances":{
         "gn:id":538908,
         "gp:id":2032922,
-        "qs:id":224950,
+        "qs_pg:id":224950,
         "wd:id":"Q72380",
         "wk:page":"Kurchatov"
     },
@@ -172,7 +173,7 @@
         }
     ],
     "wof:id":890487059,
-    "wof:lastmodified":1563262943,
+    "wof:lastmodified":1566630933,
     "wof:name":"Kurchatov",
     "wof:parent_id":1108734821,
     "wof:placetype":"locality",

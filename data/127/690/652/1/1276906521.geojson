@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"44.01622,53.4356,44.05622,53.4756",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u062e\u064a\u0644\u0629"
     ],
@@ -118,10 +122,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0440\u0433\u0430"
     ],
-    "name:und_x_variant":[
-        "\u0412\u0438\u0440\u0433\u0430",
-        "Virga"
-    ],
     "name:zho_x_preferred":[
         "\u5e61\u72c0\u96f2"
     ],
@@ -150,7 +150,7 @@
         }
     ],
     "wof:id":1276906521,
-    "wof:lastmodified":1564118087,
+    "wof:lastmodified":1566622714,
     "wof:name":"Virga",
     "wof:parent_id":1108735393,
     "wof:placetype":"locality",

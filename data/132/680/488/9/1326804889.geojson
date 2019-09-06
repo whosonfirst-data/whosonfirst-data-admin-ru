@@ -23,8 +23,12 @@
     "gn:population":100,
     "gn:timezone":"Asia/Irkutsk",
     "iso:country":"RU",
+    "lbl:bbox":"100.1941,54.1506,100.2341,54.1906",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Kharantey"
     ],
@@ -33,10 +37,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u0440\u0430\u043d\u0442\u0435\u0439"
-    ],
-    "name:und_x_variant":[
-        "\u0425\u0430\u0440\u0430\u043d\u0442\u0435\u0439",
-        "Kharantey"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1326804889,
-    "wof:lastmodified":1537695481,
+    "wof:lastmodified":1566613302,
     "wof:name":"Kharantey",
     "wof:parent_id":890487453,
     "wof:placetype":"locality",

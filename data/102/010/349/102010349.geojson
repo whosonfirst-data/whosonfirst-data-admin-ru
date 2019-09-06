@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.648477,
     "lbl:longitude":47.105621,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.648477,
     "mps:longitude":47.105621,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u064a\u0634"
     ],
@@ -175,7 +178,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.65,
     "wd:longitude":47.116667,
@@ -190,7 +193,6 @@
     "wof:concordances":{
         "gn:id":578931,
         "gp:id":2120175,
-        "qs:id":1026991,
         "qs_pg:id":1026991,
         "wd:id":"Q104646",
         "wk:page":"Barysh"
@@ -206,7 +208,7 @@
         }
     ],
     "wof:id":102010349,
-    "wof:lastmodified":1563240997,
+    "wof:lastmodified":1566615488,
     "wof:name":"Barysh",
     "wof:parent_id":1108732897,
     "wof:placetype":"locality",

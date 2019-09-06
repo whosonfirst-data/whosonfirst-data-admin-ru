@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.076798,
     "lbl:longitude":42.832715,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":54.076798,
     "mps:longitude":42.832715,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Zubova Polyana"
     ],
@@ -70,7 +73,7 @@
     "name:tat_x_preferred":[
         "\u0417\u0443\u0431\u043e\u0432\u0430 \u041f\u043e\u043b\u044f\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zubovz Polyana"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":858,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
     "wof:concordances":{
         "gn:id":462050,
         "gp:id":2124645,
-        "qs:id":206857,
         "qs_pg:id":206857,
         "wd:id":"Q1020492",
         "wk:page":"Zubova Polyana"
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":102003969,
-    "wof:lastmodified":1563241155,
+    "wof:lastmodified":1566615544,
     "wof:name":"Zubova Polyana",
     "wof:parent_id":1108738373,
     "wof:placetype":"locality",

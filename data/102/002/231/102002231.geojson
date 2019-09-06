@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000984,
-    "geom:area_square_m":5860241.456353,
+    "geom:area_square_m":5860241.456351,
     "geom:bbox":"62.8060569763,61.1877784729,62.8910293579,61.2055549622",
     "geom:latitude":61.195856,
     "geom:longitude":62.854427,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":61.196521,
     "lbl:longitude":62.862115,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":61.196521,
     "mps:longitude":62.862115,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Pionerski"
     ],
@@ -38,9 +41,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u043e\u043d\u0435\u0440\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
-        "\u041f\u0438\u043e\u043d\u0435\u0440\u0441\u043a\u0438\u0439"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
     "qs:a1_lc":"8600800000700",
@@ -59,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":92,
     "wof:belongsto":[
@@ -72,7 +72,6 @@
     "wof:concordances":{
         "gn:id":1494949,
         "gp:id":2122884,
-        "qs:id":556103,
         "qs_pg:id":556103
     },
     "wof:country":"RU",
@@ -86,7 +85,7 @@
         }
     ],
     "wof:id":102002231,
-    "wof:lastmodified":1527637970,
+    "wof:lastmodified":1566615702,
     "wof:name":"Pionerskiy",
     "wof:parent_id":1108736749,
     "wof:placetype":"locality",

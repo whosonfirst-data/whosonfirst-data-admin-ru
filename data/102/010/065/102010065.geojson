@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000416,
-    "geom:area_square_m":3011750.204499,
+    "geom:area_square_m":3011750.204498,
     "geom:bbox":"47.3801956177,54.1127204895,47.4123039246,54.1311683655",
     "geom:latitude":54.121647,
     "geom:longitude":47.396971,
@@ -14,17 +14,20 @@
     "iso:country":"RU",
     "lbl:latitude":54.121173,
     "lbl:longitude":47.396974,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.121173,
     "mps:longitude":47.396974,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Annenkovo-Lesnoye"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043d\u043d\u0435\u043d\u043a\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Annenkovo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -43,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687907,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102010065,
-    "wof:lastmodified":1501214811,
+    "wof:lastmodified":1566615479,
     "wof:name":"Annenkovo-Lesnoye",
     "wof:parent_id":1108735013,
     "wof:placetype":"locality",

@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":55.809326,
     "lbl:longitude":94.315462,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.809326,
     "mps:longitude":94.315462,
     "mz:hierarchy_label":1,
@@ -222,7 +224,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -234,7 +236,6 @@
     "wof:concordances":{
         "gn:id":1487922,
         "gp:id":2124125,
-        "qs:id":132810,
         "qs_pg:id":132810,
         "wd:id":"Q197351",
         "wk:page":"Uyar, Uyarsky District, Krasnoyarsk Krai"
@@ -250,7 +251,7 @@
         }
     ],
     "wof:id":102013973,
-    "wof:lastmodified":1563240061,
+    "wof:lastmodified":1566615081,
     "wof:name":"Uyar",
     "wof:parent_id":1108737155,
     "wof:placetype":"locality",

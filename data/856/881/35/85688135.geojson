@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":44.490928,
     "lbl:longitude":40.154277,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Adygey",
     "meso:name_alt2":"Adygeja",
     "meso:name_local":"\u0410\u0434\u044b\u0433\u0435\u044f",
@@ -385,10 +386,6 @@
         "\u0410\u0434\u0438\u0433\u0435\u044f"
     ],
     "name:und_x_variant":[
-        "Adygeja",
-        "Adygey"
-    ],
-    "name:unk_x_variant":[
         "Adygeyskaya AO"
     ],
     "name:urd_x_preferred":[
@@ -487,9 +484,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"7,600",
     "statoids:area_mi":"2,900",
     "statoids:as_of_date":"2010-10-14",
@@ -552,11 +549,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734417,
+    "wof:lastmodified":1566618534,
     "wof:name":"Adygea",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":439996,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ru",

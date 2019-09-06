@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"32.22417,54.00139,32.26417,54.04139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632685
@@ -34,7 +38,7 @@
         "gn:id":815553
     },
     "wof:country":"RU",
-    "wof:geomhash":"1e3cf5c3ded5c5fd1de15daa8b42e99c",
+    "wof:geomhash":"fd4191793baf950d29a00fba5634b621",
     "wof:hierarchy":[
         {
             "country_id":85632685,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209036581,
-    "wof:lastmodified":1536299681,
+    "wof:lastmodified":1566624297,
     "wof:name":"Novaya Sloboda",
     "wof:parent_id":85632685,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.244170000000004,
+    32.24417,
     54.02139,
-    32.244170000000004,
+    32.24417,
     54.02139
 ],
   "geometry": {"coordinates":[32.24417,54.02139],"type":"Point"}

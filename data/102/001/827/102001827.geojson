@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000442,
-    "geom:area_square_m":3907250.212806,
+    "geom:area_square_m":3907250.212809,
     "geom:bbox":"135.052307129,44.3053894043,135.078613281,44.3355293274",
     "geom:latitude":44.321584,
     "geom:longitude":135.063737,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.319046,
     "lbl:longitude":135.063936,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.319046,
     "mps:longitude":135.063936,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fabrichnyy"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688023,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102001827,
-    "wof:lastmodified":1501225308,
+    "wof:lastmodified":1566615311,
     "wof:name":"Fabrichnyy",
     "wof:parent_id":890482627,
     "wof:placetype":"locality",

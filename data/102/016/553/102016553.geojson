@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000211,
-    "geom:area_square_m":1889573.037226,
+    "geom:area_square_m":1889573.037224,
     "geom:bbox":"45.2254180908,43.6882514954,45.2433624268,43.7050285339",
     "geom:latitude":43.697318,
     "geom:longitude":45.235042,
@@ -15,17 +15,20 @@
     "iso:country":"RU",
     "lbl:latitude":43.697972,
     "lbl:longitude":45.235213,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":43.697972,
     "mps:longitude":45.235213,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:nor_x_preferred":[
         "Alpatovo"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u043f\u0430\u0442\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Naurskiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688015,
@@ -59,7 +62,6 @@
     "wof:concordances":{
         "gn:id":523210,
         "gp:id":1982242,
-        "qs:id":434304,
         "qs_pg:id":434304
     },
     "wof:country":"RU",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":102016553,
-    "wof:lastmodified":1505338949,
+    "wof:lastmodified":1566615449,
     "wof:name":"Alpatovo",
     "wof:parent_id":890481509,
     "wof:placetype":"locality",

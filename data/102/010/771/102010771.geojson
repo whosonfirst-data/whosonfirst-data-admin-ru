@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00031,
-    "geom:area_square_m":2319122.800485,
+    "geom:area_square_m":2319122.800483,
     "geom:bbox":"47.7116661072,52.767665863,47.745639801,52.7825546265",
     "geom:latitude":52.774707,
     "geom:longitude":47.72998,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.775065,
     "lbl:longitude":47.733054,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.775065,
     "mps:longitude":47.733054,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0427\u0430\u0443\u0448\u0438"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687907,
         102191581,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102010771,
-    "wof:lastmodified":1501214772,
+    "wof:lastmodified":1566615487,
     "wof:name":"Chaushi",
     "wof:parent_id":1108736045,
     "wof:placetype":"locality",

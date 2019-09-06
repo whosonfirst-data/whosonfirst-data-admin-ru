@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":45.038549,
     "lbl:longitude":133.712155,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Primorskij kraj",
     "meso:admin1r_en":"Dal'nevostochnyj federal'nyj okrug",
     "meso:admin_1":"\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":133.712155,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041a\u0456\u0440\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -96,16 +99,13 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0440\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d \u041f\u0440\u0438\u043c\u043e\u0440\u0441\u044c\u043a\u043e\u0433\u043e \u043a\u0440\u0430\u044e"
     ],
-    "name:und_x_variant":[
-        "\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:zho_x_preferred":[
         "\u57fa\u7f85\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"3454",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Kirovsky",
@@ -139,7 +139,7 @@
         }
     ],
     "wof:id":1108734449,
-    "wof:lastmodified":1563257037,
+    "wof:lastmodified":1566627185,
     "wof:name":"Kirovskiy",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

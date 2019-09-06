@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":54.720333,
     "lbl:longitude":20.21227,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kaliningradskaja oblast'",
     "meso:admin1r_en":"Severo-Zapadnyj federal'nyj okrug",
     "meso:admin_1":"\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":20.21227,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Stadtkreis Swetly"
     ],
@@ -74,11 +77,8 @@
     "name:rus_x_preferred":[
         "\u0421\u0432\u0435\u0442\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433"
     ],
-    "name:und_x_variant":[
-        "\u0421\u0432\u0435\u0442\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433"
-    ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688215,
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1108736879,
-    "wof:lastmodified":1561832314,
+    "wof:lastmodified":1566626953,
     "wof:name":"Svetlovskiy",
     "wof:parent_id":85688215,
     "wof:placetype":"county",

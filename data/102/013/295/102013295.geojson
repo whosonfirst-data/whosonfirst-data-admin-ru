@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.46102,
     "lbl:longitude":85.909714,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.46102,
     "mps:longitude":85.909714,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Togul"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +73,6 @@
     "wof:concordances":{
         "gn:id":1489504,
         "gp:id":2096200,
-        "qs:id":556020,
         "qs_pg:id":556020
     },
     "wof:country":"RU",
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":102013295,
-    "wof:lastmodified":1564108690,
+    "wof:lastmodified":1566615047,
     "wof:name":"Togul",
     "wof:parent_id":1108737053,
     "wof:placetype":"locality",

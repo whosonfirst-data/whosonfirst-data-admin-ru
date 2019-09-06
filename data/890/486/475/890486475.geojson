@@ -11,11 +11,15 @@
     "geom:longitude":39.07696,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"39.05696,52.1323,39.09696,52.1723",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0414\u043c\u0438\u0442\u0440\u044f\u0448\u0435\u0432\u043a\u0430"
     ],
@@ -37,7 +41,7 @@
     "name:rus_x_variant":[
         "\u0414\u043c\u0438\u0442\u0440\u044f\u0448\u0451\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dmitrashevka"
     ],
     "qs:name":"Dmitryashevka",
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":565901,
         "gp:id":2001615,
-        "qs:id":194062,
+        "qs_pg:id":194062,
         "wd:id":"Q4163058"
     },
     "wof:country":"RU",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890486475,
-    "wof:lastmodified":1563262800,
+    "wof:lastmodified":1566630874,
     "wof:name":"Dmitryashevka",
     "wof:parent_id":1108734369,
     "wof:placetype":"locality",

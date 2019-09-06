@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":63.899357,
     "lbl:longitude":122.761368,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":63.899357,
     "mps:longitude":122.761368,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041f\u0430\u0441\u0451\u043b\u0430\u043a \u041a\u044b\u0441\u044b\u043b-\u0421\u044b\u0440"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":51,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
     "wof:concordances":{
         "gn:id":2021017,
         "gp:id":12516322,
-        "qs:id":277797,
         "qs_pg:id":277797,
         "wd:id":"Q2390482"
     },
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":102002335,
-    "wof:lastmodified":1563241554,
+    "wof:lastmodified":1566615692,
     "wof:name":"Kysyl-Syr",
     "wof:parent_id":1108737469,
     "wof:placetype":"locality",

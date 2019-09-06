@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000328,
-    "geom:area_square_m":2233535.217567,
+    "geom:area_square_m":2233535.217566,
     "geom:bbox":"61.0945281982,56.5933609009,61.1218070984,56.6114997864",
     "geom:latitude":56.603282,
     "geom:longitude":61.107915,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.602606,
     "lbl:longitude":61.106801,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.602606,
     "mps:longitude":61.106801,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Dvurechensk"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0414\u0432\u0443\u0440\u0435\u0447\u0435\u043d\u0441\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khrompik"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688183,
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":1507059,
         "gp:id":2003924,
-        "qs:id":133031,
         "qs_pg:id":133031
     },
     "wof:country":"RU",
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":102011947,
-    "wof:lastmodified":1505338938,
+    "wof:lastmodified":1566615398,
     "wof:name":"Dvurechensk",
     "wof:parent_id":890479897,
     "wof:placetype":"locality",

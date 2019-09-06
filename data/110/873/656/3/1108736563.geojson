@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":46.554335,
     "lbl:longitude":38.644469,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Krasnodarskij kraj",
     "meso:admin1r_en":"JUzhnyj federal'nyj okrug",
     "meso:admin_1":"\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":38.644469,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u0429\u0435\u0440\u0431\u0438\u043d\u043e\u0432\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -90,9 +93,6 @@
     "name:ukr_x_preferred":[
         "\u0429\u0435\u0440\u0431\u0438\u043d\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0429\u0435\u0440\u0431\u0438\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Shcherbinovsky"
     ],
@@ -100,9 +100,9 @@
         "\u8b1d\u723e\u6bd4\u8afe\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1395",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Stanitsa Staroshcherbinovskaya",
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":1108736563,
-    "wof:lastmodified":1563256716,
+    "wof:lastmodified":1566626996,
     "wof:name":"Shcherbinovskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

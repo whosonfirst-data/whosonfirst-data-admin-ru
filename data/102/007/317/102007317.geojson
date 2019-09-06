@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001046,
-    "geom:area_square_m":8794248.102172,
+    "geom:area_square_m":8794248.102171,
     "geom:bbox":"38.6341400146,47.1395835876,38.7675285175,47.1746406555",
     "geom:latitude":47.157844,
     "geom:longitude":38.700768,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":47.160058,
     "lbl:longitude":38.696221,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.160058,
     "mps:longitude":38.696221,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ves\u00eblyy"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0412\u0435\u0441\u0435\u043b\u044b\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kholyarino"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0445",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688033,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102007317,
-    "wof:lastmodified":1501214424,
+    "wof:lastmodified":1566615199,
     "wof:name":"Veseloye",
     "wof:parent_id":890484449,
     "wof:placetype":"locality",

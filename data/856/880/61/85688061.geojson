@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":53.44815,
     "lbl:longitude":90.231882,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Khakass",
     "meso:name_alt2":"Respublika KHakasija",
     "meso:name_local":"\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0425\u0430\u043a\u0430\u0441\u0438\u044f",
@@ -319,9 +320,6 @@
     ],
     "name:und_x_variant":[
         "Respublika KHakasija",
-        "Khakass"
-    ],
-    "name:unk_x_variant":[
         "Khakasskaya Avtonomnaya Oblast\u2019"
     ],
     "name:urd_x_preferred":[
@@ -423,9 +421,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"61,900",
     "statoids:area_mi":"23,900",
     "statoids:as_of_date":"2010-10-14",
@@ -488,11 +486,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734407,
+    "wof:lastmodified":1566618514,
     "wof:name":"Khakassia",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":532403,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-ru",

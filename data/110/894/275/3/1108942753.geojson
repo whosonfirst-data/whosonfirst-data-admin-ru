@@ -11,10 +11,12 @@
     "geom:longitude":37.608225,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"RU",
+    "lbl:bbox":"37.6032248714,55.8893967311,37.6132248714,55.8993967311",
     "lbl:latitude":55.894397,
     "lbl:longitude":37.608225,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -36,10 +38,7 @@
     "name:rus_x_variant":[
         "\u0411\u0438\u0431\u0438\u0440\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u0411\u0438\u0431\u0438\u0440\u0435\u0432\u043e"
-    ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -53,7 +52,7 @@
     "wof:concordances":{
         "gn:id":576432,
         "gp:id":1989573,
-        "qs:id":1187900,
+        "qs_pg:id":1187900,
         "wk:page":"Bibirevo"
     },
     "wof:country":"RU",
@@ -71,7 +70,7 @@
         }
     ],
     "wof:id":1108942753,
-    "wof:lastmodified":1564124624,
+    "wof:lastmodified":1566627406,
     "wof:name":"Bibirevo",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

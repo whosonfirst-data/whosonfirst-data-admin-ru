@@ -10,8 +10,10 @@
     "geom:latitude":59.869332,
     "geom:longitude":30.400087,
     "iso:country":"RU",
+    "lbl:bbox":"30.3950872003,59.8643316628,30.4050872003,59.8743316628",
     "lbl:latitude":59.869332,
     "lbl:longitude":30.400087,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:rus_x_preferred":[
         "\u043e\u0301\u043a\u0440\u0443\u0433 \u2116 72"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108943441,
-    "wof:lastmodified":1510870351,
+    "wof:lastmodified":1566627431,
     "wof:name":"Okrug No. 72",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

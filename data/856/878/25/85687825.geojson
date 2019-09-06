@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":44.932711,
     "lbl:longitude":43.392105,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Stavropol'",
     "meso:name_alt2":"Stavropol'skij kraj",
     "meso:name_local":"\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -263,10 +264,6 @@
         "\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c"
     ],
     "name:und_x_variant":[
-        "Stavropol'skij kraj",
-        "Stavropol'"
-    ],
-    "name:unk_x_variant":[
         "Stavropol\u2019ya"
     ],
     "name:urd_x_preferred":[
@@ -365,9 +362,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"66,500",
     "statoids:area_mi":"25,700",
     "statoids:as_of_date":"2010-10-14",
@@ -429,11 +426,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734455,
+    "wof:lastmodified":1566618605,
     "wof:name":"Stavropol",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":2786281,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

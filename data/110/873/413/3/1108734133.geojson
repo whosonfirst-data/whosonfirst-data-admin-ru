@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":56.596952,
     "lbl:longitude":39.653572,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Vladimirskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":39.653572,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u042e\u0440'\u0435\u045e-\u041f\u043e\u043b\u044c\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -93,16 +96,13 @@
     "name:sco_x_preferred":[
         "Yuryev-Polsky Destrict"
     ],
-    "name:und_x_variant":[
-        "\u042e\u0440\u044c\u0435\u0432-\u041f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:zho_x_preferred":[
         "\u5c24\u91cc\u8036\u592b\u6ce2\u5229\u65af\u57fa\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1904",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Yur'ev-Pol'skiy",
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":1108734133,
-    "wof:lastmodified":1563256623,
+    "wof:lastmodified":1566626937,
     "wof:name":"Jur'ev-Pol'skiy",
     "wof:parent_id":85687981,
     "wof:placetype":"county",

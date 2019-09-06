@@ -9,15 +9,18 @@
     "geom:bbox":"81.4825,58.69778,81.4825,58.69778",
     "geom:latitude":58.69778,
     "geom:longitude":81.4825,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6227,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":6227,
     "iso:country":"RU",
+    "lbl:bbox":"81.4625,58.67778,81.5025,58.71778",
     "lbl:latitude":58.69778,
     "lbl:longitude":81.4825,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Parabel'"
@@ -26,9 +29,6 @@
         "Parabel"
     ],
     "name:rus_x_preferred":[
-        "\u041f\u0430\u0440\u0430\u0431\u0435\u043b\u044c"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u0430\u0440\u0430\u0431\u0435\u043b\u044c"
     ],
     "qs_pg:aaroncc":"RU",
@@ -43,7 +43,7 @@
     "qs_pg:qs_id":132892,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85687809,
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":1125866383,
-    "wof:lastmodified":1509397009,
+    "wof:lastmodified":1566631010,
     "wof:name":"Parabel\u2019",
     "wof:parent_id":1108735761,
     "wof:placetype":"locality",

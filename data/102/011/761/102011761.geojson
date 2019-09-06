@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000949,
-    "geom:area_square_m":6272226.966648,
+    "geom:area_square_m":6272226.966652,
     "geom:bbox":"66.1318893433,57.6625823975,66.1947784424,57.6932487488",
     "geom:latitude":57.674833,
     "geom:longitude":66.16447,
@@ -15,17 +15,20 @@
     "iso:country":"RU",
     "lbl:latitude":57.670065,
     "lbl:longitude":66.16185,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.670065,
     "mps:longitude":66.16185,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:nor_x_preferred":[
         "Nizjnjaja Tavda"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0438\u0436\u043d\u044f\u044f \u0422\u0430\u0432\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tavdinskoe"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687831,
@@ -57,7 +60,7 @@
     "wof:concordances":{
         "gn:id":1497376,
         "gp:id":2053535,
-        "qs:id":1031491
+        "qs_pg:id":1031491
     },
     "wof:country":"RU",
     "wof:geomhash":"bad161cf66b540ac63879e84f1336fe7",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102011761,
-    "wof:lastmodified":1505338937,
+    "wof:lastmodified":1566615406,
     "wof:name":"Nizhnyaya-Tavda",
     "wof:parent_id":1108735399,
     "wof:placetype":"locality",

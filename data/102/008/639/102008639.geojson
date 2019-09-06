@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.176286,
     "lbl:longitude":46.542256,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.176286,
     "mps:longitude":46.542256,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sharanga"
     ],
@@ -53,9 +56,6 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bae\u0bcd"
     ],
-    "name:unk_x_variant":[
-        "\u0428\u0430\u0440\u0430\u043d\u0433\u0430"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"5204700000100",
@@ -74,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":343,
     "wof:belongsto":[
@@ -87,7 +87,6 @@
     "wof:concordances":{
         "gn:id":495767,
         "gp:id":2123400,
-        "qs:id":124871,
         "qs_pg:id":124871,
         "wd:id":"Q4520403"
     },
@@ -102,7 +101,7 @@
         }
     ],
     "wof:id":102008639,
-    "wof:lastmodified":1563240513,
+    "wof:lastmodified":1566615295,
     "wof:name":"Sharanga",
     "wof:parent_id":1108736509,
     "wof:placetype":"locality",

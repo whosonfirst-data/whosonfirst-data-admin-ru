@@ -11,11 +11,15 @@
     "geom:longitude":64.41667,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":2415,
+    "gn:population":2415,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"64.39667,67.46333,64.43667,67.50333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u0432\u0435\u0446\u043a\u0456"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0432\u0454\u0442\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439"
-    ],
     "name:zho_x_preferred":[
         "\u82cf\u7ef4\u57c3\u8328\u57fa"
     ],
@@ -96,7 +97,7 @@
     "wof:concordances":{
         "gn:id":1491229,
         "gp:id":2087770,
-        "qs:id":132824,
+        "qs_pg:id":132824,
         "wk:page":"Sovetsky"
     },
     "wof:country":"RU",
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":890482495,
-    "wof:lastmodified":1564129005,
+    "wof:lastmodified":1566630612,
     "wof:name":"Sovetskiy",
     "wof:parent_id":890487129,
     "wof:placetype":"locality",

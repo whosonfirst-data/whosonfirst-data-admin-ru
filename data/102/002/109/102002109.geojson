@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":60.962842,
     "lbl:longitude":46.48231,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":60.962842,
     "mps:longitude":46.48231,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u0627\u0633\u0627\u0641\u064a\u0646\u0648"
     ],
@@ -107,9 +110,6 @@
     "name:tur_x_preferred":[
         "Krasavino"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0440\u0430\u0441\u0430\u0432\u0438\u043d\u043e"
-    ],
     "name:vep_x_preferred":[
         "Krasavino"
     ],
@@ -137,7 +137,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -149,7 +149,6 @@
     "wof:concordances":{
         "gn:id":542908,
         "gp:id":2028057,
-        "qs:id":442611,
         "qs_pg:id":442611,
         "wd:id":"Q155532",
         "wk:page":"Krasavino, Veliky Ustyug, Vologda Oblast"
@@ -165,7 +164,7 @@
         }
     ],
     "wof:id":102002109,
-    "wof:lastmodified":1563241553,
+    "wof:lastmodified":1566615691,
     "wof:name":"Krasavino",
     "wof:parent_id":1108737321,
     "wof:placetype":"locality",

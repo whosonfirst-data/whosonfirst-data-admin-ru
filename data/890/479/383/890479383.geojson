@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":54.502521,
     "lbl:longitude":52.85937,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tatarstan",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d",
@@ -54,6 +56,7 @@
     "mps:longitude":52.85937,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bak_x_preferred":[
         "\u0411\u04e9\u0433\u04e9\u043b\u043c\u04d9 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
@@ -109,9 +112,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0433\u0443\u043b\u044c\u043c\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0411\u0443\u0433\u0443\u043b\u044c\u043c\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Bugul'minsky"
     ],
@@ -132,9 +132,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1392",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Bugul'ma",
@@ -156,7 +156,7 @@
     "wof:concordances":{
         "gp:id":12597531,
         "hasc:id":"RU.TT.BR",
-        "qs:id":911315,
+        "qs_pg:id":911315,
         "wd:id":"Q2220427",
         "wk:page":"Bugulminsky District"
     },
@@ -173,7 +173,7 @@
         }
     ],
     "wof:id":890479383,
-    "wof:lastmodified":1563262514,
+    "wof:lastmodified":1566630744,
     "wof:name":"Bugul'minskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

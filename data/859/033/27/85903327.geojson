@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6701573.698929,
+    "geom:area_square_m":0.0,
     "geom:bbox":"37.216578,56.009568,37.216578,56.009568",
     "geom:latitude":56.009568,
     "geom:longitude":37.216578,
     "gn:latitude":56.0,
     "gn:longitude":37.25,
     "iso:country":"RU",
+    "lbl:bbox":"37.211578,56.004568,37.221578,56.014568",
     "lbl:latitude":56.009568,
     "lbl:longitude":37.216578,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.999917,
     "mps:longitude":37.177734,
     "mz:hierarchy_label":0,
@@ -30,10 +32,6 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043b\u044b\u0435 \u0420\u0436\u0430\u0432\u043a\u0438"
-    ],
-    "name:unk_x_variant":[
-        "\u041c\u0430\u043b\u044b\u0435 \u0420\u0436\u0430\u0432\u043a\u0438",
-        "Malyye Rzhavki"
     ],
     "qs:gn_adm0_cc":"RU",
     "qs:gn_fcode":"PPLX",
@@ -64,7 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85632685,
@@ -78,7 +76,6 @@
     "wof:concordances":{
         "gn:id":530035,
         "gp:id":2042395,
-        "qs:id":984013,
         "qs_pg:id":984013
     },
     "wof:country":"RU",
@@ -98,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936044,
+    "wof:lastmodified":1566618509,
     "wof:name":"Malyye Rzhavki",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

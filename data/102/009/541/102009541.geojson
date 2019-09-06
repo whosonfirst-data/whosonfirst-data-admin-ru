@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000579,
-    "geom:area_square_m":4117765.657033,
+    "geom:area_square_m":4117765.657031,
     "geom:bbox":"47.7079429626,54.8828887939,47.7574729919,54.9056129456",
     "geom:latitude":54.894999,
     "geom:longitude":47.735523,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":54.89306,
     "lbl:longitude":47.735898,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.89306,
     "mps:longitude":47.735898,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0427\u0435\u043f\u043a\u0430\u0441-\u0418\u043b\u044c\u043c\u0435\u0442\u044c\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chepkas-Il\u2019met\u2019yevo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +43,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688111,
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":102009541,
-    "wof:lastmodified":1501214767,
+    "wof:lastmodified":1566615252,
     "wof:name":"Chepkas-Il'Met'Yevo",
     "wof:parent_id":1108736551,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000265,
-    "geom:area_square_m":1902110.521076,
+    "geom:area_square_m":1902110.521078,
     "geom:bbox":"40.2708053589,54.4474983215,40.2923622131,54.4678039551",
     "geom:latitude":54.457254,
     "geom:longitude":40.28014,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.457831,
     "lbl:longitude":40.279935,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.457831,
     "mps:longitude":40.279935,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Panino"
     ],
@@ -25,9 +28,6 @@
         "Panino"
     ],
     "name:rus_x_preferred":[
-        "\u041f\u0430\u043d\u0438\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u0430\u043d\u0438\u043d\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -48,17 +48,17 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687963
+        85687963,
+        1108736777
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":512856,
         "gp:id":2062560,
-        "qs:id":1061047,
         "qs_pg:id":1061047
     },
     "wof:country":"RU",
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102003809,
-    "wof:lastmodified":1497302964,
+    "wof:lastmodified":1566615554,
     "wof:name":"Panino",
     "wof:parent_id":1108736777,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:latitude":69.0091,
     "gn:longitude":33.10658,
     "iso:country":"RU",
+    "lbl:bbox":"33.09973,69.003119,33.10973,69.013119",
     "lbl:latitude":69.008119,
     "lbl:longitude":33.10473,
+    "lbl:max_zoom":18.0,
     "mps:latitude":69.020173,
     "mps:longitude":33.082484,
     "mz:hierarchy_label":0,
@@ -33,10 +35,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0420\u043e\u0441\u0442\u0430"
-    ],
-    "name:unk_x_variant":[
-        "\u0420\u043e\u0441\u0442\u0430",
-        "Rosta"
     ],
     "qs:gn_adm0_cc":"RU",
     "qs:gn_fcode":"PPLX",
@@ -66,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85632685,
@@ -79,7 +77,6 @@
     "wof:concordances":{
         "gn:id":501203,
         "gp:id":2075392,
-        "qs:id":190007,
         "qs_pg:id":190007
     },
     "wof:country":"RU",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564112485,
+    "wof:lastmodified":1566618500,
     "wof:name":"Rosta",
     "wof:parent_id":102001881,
     "wof:placetype":"neighbourhood",

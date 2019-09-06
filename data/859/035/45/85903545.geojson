@@ -13,6 +13,7 @@
     "iso:country":"RU",
     "lbl:latitude":55.813934,
     "lbl:longitude":37.870122,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.815853,
     "mps:longitude":37.873267,
     "mz:hierarchy_label":1,
@@ -61,14 +62,8 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0438\u0439"
     ],
-    "name:und_x_preferred":[
-        "Vostochniy"
-    ],
     "name:und_x_variant":[
-        "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439"
-    ],
-    "name:unk_x_variant":[
-        "Vostochny Settlement"
+        "Vostochniy"
     ],
     "qs:gn_adm0_cc":"RU",
     "qs:gn_id":0,
@@ -104,7 +99,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2108811,
-        "qs:id":1128434
+        "qs_pg:id":1128434
     },
     "wof:country":"RU",
     "wof:geomhash":"3ad4652338bdd4a673255e09f6c8f22a",
@@ -122,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247529,
+    "wof:lastmodified":1566618496,
     "wof:name":"Vostochny",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

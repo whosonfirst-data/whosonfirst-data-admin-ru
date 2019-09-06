@@ -9,14 +9,17 @@
     "geom:bbox":"34.1243057251,59.4915275574,34.2252235413,59.5373344421",
     "geom:latitude":59.517184,
     "geom:longitude":34.177499,
-    "geonames:id":"509598,509597",
+    "gn:id":"509598,509597",
     "iso:country":"RU",
     "lbl:latitude":59.510921,
     "lbl:longitude":34.19005,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.510921,
     "mps:longitude":34.19005,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pikalyovo"
     ],
@@ -36,7 +39,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         85687861,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102002513,
-    "wof:lastmodified":1563241634,
+    "wof:lastmodified":1566615712,
     "wof:name":"Pikalevo",
     "wof:parent_id":1108733053,
     "wof:placetype":"locality",

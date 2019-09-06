@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000437,
-    "geom:area_square_m":3200088.536333,
+    "geom:area_square_m":3200088.536332,
     "geom:bbox":"47.2159729004,53.6983337402,47.2542495728,53.7191123962",
     "geom:latitude":53.708729,
     "geom:longitude":47.235722,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.708867,
     "lbl:longitude":47.236012,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.708867,
     "mps:longitude":47.236012,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Izmaylovo"
     ],
@@ -27,9 +30,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0418\u0437\u043c\u0430\u0439\u043b\u043e\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Izmaylovo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -47,7 +47,7 @@
     "qs:type":"\u0440\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687907,
@@ -60,7 +60,7 @@
     "wof:concordances":{
         "gn:id":554791,
         "gp:id":2014244,
-        "qs:id":987719
+        "qs_pg:id":987719
     },
     "wof:country":"RU",
     "wof:geomhash":"eaac5f45e9ebcd45c66af22b539b4693",
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":102010287,
-    "wof:lastmodified":1505338934,
+    "wof:lastmodified":1566615475,
     "wof:name":"Izvaylovo",
     "wof:parent_id":1108732897,
     "wof:placetype":"locality",

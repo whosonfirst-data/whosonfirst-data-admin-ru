@@ -9,15 +9,18 @@
     "geom:bbox":"41.9763,44.0834,41.9763,44.0834",
     "geom:latitude":44.0834,
     "geom:longitude":41.9763,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":34001,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":34001,
     "iso:country":"RU",
+    "lbl:bbox":"41.9563,44.0634,41.9963,44.1034",
     "lbl:latitude":44.0834,
     "lbl:longitude":41.9763,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:abq_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u0414\u0436\u044c\u0433\u0432\u0430\u0442\u044b"
@@ -152,9 +155,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u0414\u0436\u0435\u0433\u0443\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "Ust\u2019-Dzhegutinskaya"
-    ],
     "name:vep_x_preferred":[
         "Ust'-D\u017eegut"
     ],
@@ -186,7 +186,7 @@
     "qs_pg:woe_adm0":23424936,
     "qs_pg:woe_id":2101392,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424936,
     "woe:name_adm0":"Russia",
@@ -220,7 +220,7 @@
         }
     ],
     "wof:id":1125811745,
-    "wof:lastmodified":1563263104,
+    "wof:lastmodified":1566631011,
     "wof:name":"Ust'-Dzheguta",
     "wof:parent_id":1108737229,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":58.82594,
     "lbl:longitude":44.309703,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.82594,
     "mps:longitude":44.309703,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u0648\u063a\u0631\u064a\u0641"
     ],
@@ -125,9 +128,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043b\u043e\u0433\u0440\u0438\u0432"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u043e\u043b\u043e\u0433\u0440\u0438\u0432"
-    ],
     "name:war_x_preferred":[
         "Kologriv"
     ],
@@ -152,7 +152,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":58.825228,
     "wd:longitude":44.311444,
@@ -167,7 +167,6 @@
     "wof:concordances":{
         "gn:id":546282,
         "gp:id":2121467,
-        "qs:id":549723,
         "qs_pg:id":549723,
         "wd:id":"Q154711",
         "wk:page":"Kologriv"
@@ -183,7 +182,7 @@
         }
     ],
     "wof:id":102002559,
-    "wof:lastmodified":1563241445,
+    "wof:lastmodified":1566615666,
     "wof:name":"Kologriv",
     "wof:parent_id":1108734531,
     "wof:placetype":"locality",

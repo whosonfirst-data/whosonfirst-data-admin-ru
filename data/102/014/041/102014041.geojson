@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000976,
-    "geom:area_square_m":7002734.808785,
+    "geom:area_square_m":7002734.808791,
     "geom:bbox":"101.692825317,54.5149345398,101.735466003,54.5608329773",
     "geom:latitude":54.540333,
     "geom:longitude":101.714077,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.543772,
     "lbl:longitude":101.7123,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.543772,
     "mps:longitude":101.7123,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Barluk"
     ],
@@ -25,9 +28,6 @@
         "Barluk"
     ],
     "name:rus_x_preferred":[
-        "\u0411\u0430\u0440\u043b\u0443\u043a"
-    ],
-    "name:unk_x_variant":[
         "\u0411\u0430\u0440\u043b\u0443\u043a"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688173,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102014041,
-    "wof:lastmodified":1501225180,
+    "wof:lastmodified":1566615095,
     "wof:name":"Barluk",
     "wof:parent_id":1108734783,
     "wof:placetype":"locality",

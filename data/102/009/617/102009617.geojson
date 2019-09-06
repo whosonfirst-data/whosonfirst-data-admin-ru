@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00037,
-    "geom:area_square_m":2638456.149768,
+    "geom:area_square_m":2638456.149769,
     "geom:bbox":"50.0091094971,54.7685012817,50.0321121216,54.7900276184",
     "geom:latitude":54.779403,
     "geom:longitude":50.019594,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.779887,
     "lbl:longitude":50.019813,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.779887,
     "mps:longitude":50.019813,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nizhneye Al'keyevo"
     ],
@@ -30,7 +33,7 @@
     "name:rus_x_variant":[
         "\u041d\u0438\u0436\u043d\u0435\u0435 \u0410\u043b\u044c\u043a\u0435\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novoye Al\u2019keyevo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688065,
         102191581,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102009617,
-    "wof:lastmodified":1501214593,
+    "wof:lastmodified":1566615213,
     "wof:name":"Nizhneye Al'Keyevo",
     "wof:parent_id":1108732655,
     "wof:placetype":"locality",

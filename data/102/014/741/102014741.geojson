@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":51.260731,
     "lbl:longitude":108.832127,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.260731,
     "mps:longitude":108.832127,
     "mz:hierarchy_label":1,
@@ -116,7 +118,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a-\u0417\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Petrovski Zabaikalski"
     ],
     "name:vep_x_preferred":[
@@ -238,7 +240,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.283333,
     "wd:longitude":108.833333,
@@ -254,7 +256,6 @@
     "wof:concordances":{
         "gn:id":2017945,
         "gp:id":2065754,
-        "qs:id":274098,
         "qs_pg:id":274098,
         "wd:id":"Q178870",
         "wk:page":"Petrovsk-Zabaykalsky (town)"
@@ -272,7 +273,7 @@
         }
     ],
     "wof:id":102014741,
-    "wof:lastmodified":1563240132,
+    "wof:lastmodified":1566615115,
     "wof:name":"Petrovsk-Zabaykalskiy",
     "wof:parent_id":890483689,
     "wof:placetype":"locality",

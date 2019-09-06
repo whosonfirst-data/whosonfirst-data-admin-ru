@@ -11,10 +11,14 @@
     "geom:longitude":35.65833,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":7924,
+    "gn:population":7924,
     "iso:country":"RU",
+    "lbl:bbox":"35.63833,50.78083,35.67833,50.82083",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0430\u044f \u042f\u0440\u0443\u0433\u0430"
     ],
@@ -54,9 +58,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0430 \u042f\u0440\u0443\u0433\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0440\u0430\u0441\u043d\u0430\u044f \u042f\u0440\u0443\u0433\u0430"
-    ],
     "qs:name":"Krasnaya Yaruga",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -74,7 +75,7 @@
     "wof:concordances":{
         "gn:id":542571,
         "gp:id":2028521,
-        "qs:id":125305,
+        "qs_pg:id":125305,
         "wd:id":"Q986224",
         "wk:page":"Krasnoyaruzhsky District"
     },
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":890479501,
-    "wof:lastmodified":1563262532,
+    "wof:lastmodified":1566630751,
     "wof:name":"Krasnaya Yaruga",
     "wof:parent_id":1108734713,
     "wof:placetype":"locality",

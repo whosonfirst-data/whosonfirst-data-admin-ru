@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000413,
-    "geom:area_square_m":2905641.451871,
+    "geom:area_square_m":2905641.451872,
     "geom:bbox":"79.0187225342,55.3384437561,79.049079895,55.3544425964",
     "geom:latitude":55.346159,
     "geom:longitude":79.034876,
     "iso:country":"RU",
     "lbl:latitude":55.346249,
     "lbl:longitude":79.034876,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.346249,
     "mps:longitude":79.034876,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kozhurla"
     ],
@@ -23,9 +26,6 @@
         "Kozjurla"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u043e\u0436\u0443\u0440\u043b\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u043e\u0436\u0443\u0440\u043b\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687925,
         102191581,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":102012861,
-    "wof:lastmodified":1501220045,
+    "wof:lastmodified":1566614994,
     "wof:name":"Kozhura",
     "wof:parent_id":1108737131,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000713,
-    "geom:area_square_m":5558186.874218,
+    "geom:area_square_m":5558186.874217,
     "geom:bbox":"37.7026405334,50.9326095581,37.7466659546,50.9586677551",
     "geom:latitude":50.946391,
     "geom:longitude":37.724502,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.946191,
     "lbl:longitude":37.724921,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.946191,
     "mps:longitude":37.724921,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Russkaya Khalan'"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0420\u0443\u0441\u0441\u043a\u0430\u044f \u0425\u0430\u043b\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kholan\u2019 Russkaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687813,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102006049,
-    "wof:lastmodified":1501214518,
+    "wof:lastmodified":1566615342,
     "wof:name":"Russkaya Khalan'",
     "wof:parent_id":1108733253,
     "wof:placetype":"locality",

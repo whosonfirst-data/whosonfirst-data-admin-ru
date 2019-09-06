@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000534,
-    "geom:area_square_m":4014593.11388,
+    "geom:area_square_m":4014593.113884,
     "geom:bbox":"47.9526939392,52.5558319092,47.983417511,52.5878601074",
     "geom:latitude":52.574314,
     "geom:longitude":47.970204,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.574663,
     "lbl:longitude":47.971251,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.574663,
     "mps:longitude":47.971251,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yelshanka"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687995,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102010849,
-    "wof:lastmodified":1501214404,
+    "wof:lastmodified":1566615501,
     "wof:name":"Yelshanka",
     "wof:parent_id":1108734395,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.126985,
     "lbl:longitude":61.851717,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.126985,
     "mps:longitude":61.851717,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u0411\u0430\u0433\u0430\u0440\u044f\u043a"
     ],
@@ -35,7 +38,7 @@
     "name:tat_x_preferred":[
         "\u0411\u04d9\u0433\u04d9\u0440\u04d9\u043a\u0442\u0430\u043c\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nizhnyaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -54,7 +57,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687791,
@@ -67,7 +70,7 @@
     "wof:concordances":{
         "gn:id":1488258,
         "gp:id":2101301,
-        "qs:id":85042,
+        "qs_pg:id":85042,
         "wd:id":"Q4478355"
     },
     "wof:country":"RU",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":102012059,
-    "wof:lastmodified":1563239929,
+    "wof:lastmodified":1566615021,
     "wof:name":"Ust'-Bagaryak",
     "wof:parent_id":1108734803,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"34.45689,62.91713,34.45689,62.91713",
     "geom:latitude":62.91713,
     "geom:longitude":34.45689,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":16551,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":16551,
     "iso:country":"RU",
+    "lbl:bbox":"34.43689,62.89713,34.47689,62.93713",
     "lbl:latitude":62.91713,
     "lbl:longitude":34.45689,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u062f\u0641\u064a\u062c\u064a\u063a\u0648\u0631\u0633\u0643"
@@ -145,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0434\u0432\u0435\u0436'\u0454\u0433\u043e\u0440\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Medvezhogorsk"
     ],
     "name:vep_x_preferred":[
@@ -169,7 +172,7 @@
     "qs_pg:qs_id":125167,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688193,
@@ -198,7 +201,7 @@
         }
     ],
     "wof:id":1125900575,
-    "wof:lastmodified":1563263129,
+    "wof:lastmodified":1566631020,
     "wof:name":"Medvezh\u2019yegorsk",
     "wof:parent_id":890487561,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":33.09798,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"33.07798,67.85201,33.11798,67.89201",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rizh-Guba"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:rus_x_variant":[
         "\u0420\u0438\u0436-\u0413\u0443\u0431\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Rizh-Guba"
     ],
     "qs:name":"Rizhguba",
     "qs:name_adm0":"Russia",
@@ -50,7 +51,7 @@
     "wof:concordances":{
         "gn:id":501866,
         "gp:id":2074705,
-        "qs:id":1158168
+        "qs_pg:id":1158168
     },
     "wof:country":"RU",
     "wof:created":1469054531,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":890484851,
-    "wof:lastmodified":1505343764,
+    "wof:lastmodified":1566630690,
     "wof:name":"Rizhguba",
     "wof:parent_id":890483467,
     "wof:placetype":"locality",

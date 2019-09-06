@@ -9,15 +9,18 @@
     "geom:bbox":"61.84722,56.13278,61.84722,56.13278",
     "geom:latitude":56.13278,
     "geom:longitude":61.84722,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3400,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":3400,
     "iso:country":"RU",
+    "lbl:bbox":"61.82722,56.11278,61.86722,56.15278",
     "lbl:latitude":56.13278,
     "lbl:longitude":61.84722,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:che_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u0411\u0430\u0433\u0430\u0440\u044f\u043a"
@@ -37,7 +40,7 @@
     "name:tat_x_preferred":[
         "\u0411\u04d9\u0433\u04d9\u0440\u04d9\u043a\u0442\u0430\u043c\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nizhnyaya"
     ],
     "qs_pg:aaroncc":"RU",
@@ -52,7 +55,7 @@
     "qs_pg:qs_id":85042,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85687791,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1125854771,
-    "wof:lastmodified":1563263149,
+    "wof:lastmodified":1566631030,
     "wof:name":"Ust\u2019-Bagaryak",
     "wof:parent_id":1108734803,
     "wof:placetype":"locality",

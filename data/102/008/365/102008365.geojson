@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":58.279624,
     "lbl:longitude":47.497897,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.279624,
     "mps:longitude":47.497897,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u0421\u0432\u0435\u0447\u0430"
     ],
@@ -50,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0454\u0447\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Suuechiya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":485799,
         "gp:id":2077893,
-        "qs:id":549067,
         "qs_pg:id":549067
     },
     "wof:country":"RU",
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":102008365,
-    "wof:lastmodified":1564108910,
+    "wof:lastmodified":1566615257,
     "wof:name":"Svecha",
     "wof:parent_id":1108736867,
     "wof:placetype":"locality",

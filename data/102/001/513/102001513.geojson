@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000658,
-    "geom:area_square_m":5248866.398316,
+    "geom:area_square_m":5248866.398317,
     "geom:bbox":"142.80569458,49.8313064575,142.851272583,49.8537216187",
     "geom:latitude":49.843854,
     "geom:longitude":142.825434,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":49.841903,
     "lbl:longitude":142.820877,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.841903,
     "mps:longitude":142.820877,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pobedino"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u041f\u043e\u0431\u0435\u0434\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koton"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688125,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102001513,
-    "wof:lastmodified":1501229454,
+    "wof:lastmodified":1566615327,
     "wof:name":"Pobedino",
     "wof:parent_id":1108736663,
     "wof:placetype":"locality",

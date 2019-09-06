@@ -9,15 +9,18 @@
     "geom:bbox":"81.10703,51.28737,81.10703,51.28737",
     "geom:latitude":51.28737,
     "geom:longitude":81.10703,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5230,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":5230,
     "iso:country":"RU",
+    "lbl:bbox":"81.08703,51.26737,81.12703,51.30737",
     "lbl:latitude":51.28737,
     "lbl:longitude":81.10703,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Veseloyarsk"
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0412\u0435\u0441\u0435\u043b\u043e\u044f\u0440\u0441\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Veselyy Yar"
     ],
     "qs_pg:aaroncc":"RU",
@@ -50,7 +53,7 @@
     "qs_pg:woe_adm0":23424936,
     "qs_pg:woe_id":2106162,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424936,
     "woe:name_adm0":"Russia",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1125940355,
-    "wof:lastmodified":1509402045,
+    "wof:lastmodified":1566631001,
     "wof:name":"Veseloyarsk",
     "wof:parent_id":1108736323,
     "wof:placetype":"locality",

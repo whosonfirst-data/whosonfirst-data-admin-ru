@@ -9,15 +9,18 @@
     "geom:bbox":"131.89691,43.53894,131.89691,43.53894",
     "geom:latitude":43.53894,
     "geom:longitude":131.89691,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7567,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":7567,
     "iso:country":"RU",
+    "lbl:bbox":"131.87691,43.51894,131.91691,43.55894",
     "lbl:latitude":43.53894,
     "lbl:longitude":131.89691,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Razdol'noye"
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0420\u0430\u0437\u0434\u043e\u043b\u044c\u043d\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Razudorinoe"
     ],
     "qs_pg:aaroncc":"RU",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":275395,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688023,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1125984551,
-    "wof:lastmodified":1509404997,
+    "wof:lastmodified":1566631022,
     "wof:name":"Razdol\u2019noye",
     "wof:parent_id":890487087,
     "wof:placetype":"locality",

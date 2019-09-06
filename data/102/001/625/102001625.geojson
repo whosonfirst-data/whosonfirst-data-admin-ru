@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.735973,
     "lbl:longitude":134.216377,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":44.735973,
     "mps:longitude":134.216377,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u0421\u0430\u043c\u0430\u0440\u043a\u0430"
     ],
@@ -29,9 +32,6 @@
         "Samarka"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u0430\u043c\u0430\u0440\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u0430\u043c\u0430\u0440\u043a\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -50,7 +50,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688023,
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":102001625,
-    "wof:lastmodified":1564108972,
+    "wof:lastmodified":1566615322,
     "wof:name":"Samarka",
     "wof:parent_id":1108733295,
     "wof:placetype":"locality",

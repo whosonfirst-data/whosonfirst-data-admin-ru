@@ -10,8 +10,10 @@
     "geom:latitude":59.828721,
     "geom:longitude":30.397569,
     "iso:country":"RU",
+    "lbl:bbox":"30.3925694988,59.8237210319,30.4025694988,59.8337210319",
     "lbl:latitude":59.828721,
     "lbl:longitude":30.397569,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043a\u0430\u043d\u0441\u043a\u0438\u0439"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108943475,
-    "wof:lastmodified":1510870349,
+    "wof:lastmodified":1566627415,
     "wof:name":"Balkansky",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

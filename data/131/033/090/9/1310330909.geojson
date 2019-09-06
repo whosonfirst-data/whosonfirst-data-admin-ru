@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yekaterinburg",
     "iso:country":"RU",
+    "lbl:bbox":"65.5157,56.5455,65.5557,56.5855",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Kommunar adas\u0131"
     ],
@@ -64,10 +68,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0443\u043d\u0430\u0440"
     ],
-    "name:und_x_variant":[
-        "\u041a\u043e\u043c\u043c\u0443\u043d\u0430\u0440",
-        "Kommunar"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85687831,
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1310330909,
-    "wof:lastmodified":1564126633,
+    "wof:lastmodified":1566628830,
     "wof:name":"Kommunar",
     "wof:parent_id":1108734017,
     "wof:placetype":"locality",

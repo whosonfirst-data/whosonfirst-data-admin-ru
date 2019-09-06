@@ -10,8 +10,10 @@
     "geom:latitude":60.013824,
     "geom:longitude":30.022767,
     "iso:country":"RU",
+    "lbl:bbox":"30.0177673159,60.0088239427,30.0277673159,60.0188239427",
     "lbl:latitude":60.013824,
     "lbl:longitude":30.022767,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:rus_x_preferred":[
         "\u0420\u0430\u0437\u0434\u0435\u043b\u044c\u043d\u0430\u044f"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108943129,
-    "wof:lastmodified":1510870354,
+    "wof:lastmodified":1566627412,
     "wof:name":"Razdel'naja",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

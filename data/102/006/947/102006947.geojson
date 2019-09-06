@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00045,
-    "geom:area_square_m":3688691.53644,
+    "geom:area_square_m":3688691.536438,
     "geom:bbox":"44.3624992371,48.4195823669,44.3888053894,48.4548873901",
     "geom:latitude":48.439915,
     "geom:longitude":44.37737,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":48.442486,
     "lbl:longitude":44.379363,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.442486,
     "mps:longitude":44.379363,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chervl\u00ebnoye"
     ],
@@ -30,7 +33,7 @@
     "name:rus_x_variant":[
         "\u0427\u0435\u0440\u0432\u043b\u0451\u043d\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chervlenyy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688101,
         102191581,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102006947,
-    "wof:lastmodified":1501214762,
+    "wof:lastmodified":1566615352,
     "wof:name":"Chervlenoye",
     "wof:parent_id":1108736877,
     "wof:placetype":"locality",

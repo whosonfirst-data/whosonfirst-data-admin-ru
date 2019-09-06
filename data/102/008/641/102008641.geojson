@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000515,
-    "geom:area_square_m":3452824.402915,
+    "geom:area_square_m":3452824.402913,
     "geom:bbox":"45.0956382751,57.1607513428,45.129776001,57.1860847473",
     "geom:latitude":57.172709,
     "geom:longitude":45.113262,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.172167,
     "lbl:longitude":45.113549,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.172167,
     "mps:longitude":45.113549,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Wetluschski"
     ],
@@ -30,9 +33,6 @@
         "Vetluzjskij"
     ],
     "name:rus_x_preferred":[
-        "\u0412\u0435\u0442\u043b\u0443\u0436\u0441\u043a\u0438\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u0412\u0435\u0442\u043b\u0443\u0436\u0441\u043a\u0438\u0439"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -53,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":31,
     "wof:belongsto":[
@@ -66,7 +66,6 @@
     "wof:concordances":{
         "gn:id":473904,
         "gp:id":2124259,
-        "qs:id":548943,
         "qs_pg:id":548943
     },
     "wof:country":"RU",
@@ -80,7 +79,7 @@
         }
     ],
     "wof:id":102008641,
-    "wof:lastmodified":1527637248,
+    "wof:lastmodified":1566615292,
     "wof:name":"Vetluzhskiy",
     "wof:parent_id":1108734675,
     "wof:placetype":"locality",

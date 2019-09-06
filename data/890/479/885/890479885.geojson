@@ -11,11 +11,15 @@
     "geom:longitude":32.6989,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"32.6789,57.2409,32.7189,57.2809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Svapushche"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:rus_x_variant":[
         "\u0421\u0432\u0430\u043f\u0443\u0449\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Svapushche"
     ],
     "qs:name":"Svapushcha",
     "qs:name_adm0":"Russia",
@@ -52,7 +53,7 @@
     "wof:concordances":{
         "gn:id":485808,
         "gp:id":2092469,
-        "qs:id":270467
+        "qs_pg:id":270467
     },
     "wof:country":"RU",
     "wof:created":1469054273,
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":890479885,
-    "wof:lastmodified":1505343740,
+    "wof:lastmodified":1566630760,
     "wof:name":"Svapushcha",
     "wof:parent_id":890479399,
     "wof:placetype":"locality",

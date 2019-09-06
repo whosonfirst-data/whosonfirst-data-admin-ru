@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.186033,
     "lbl:longitude":52.48389,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.186033,
     "mps:longitude":52.48389,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u0646\u0627\u0634\u064a"
     ],
@@ -62,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u043d\u0430\u0448\u0456"
     ],
-    "name:unk_x_variant":[
-        "\u0410\u043b\u043d\u0430\u0448\u0438"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0423\u0434\u043c\u0443\u0440\u0442\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
     "qs:a1_lc":"1800200000100",
@@ -83,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -95,7 +95,6 @@
     "wof:concordances":{
         "gn:id":582423,
         "gp:id":2120000,
-        "qs:id":125779,
         "qs_pg:id":125779,
         "wd:id":"Q2473316"
     },
@@ -110,7 +109,7 @@
         }
     ],
     "wof:id":102008947,
-    "wof:lastmodified":1563240469,
+    "wof:lastmodified":1566615280,
     "wof:name":"Alnashi",
     "wof:parent_id":1108732715,
     "wof:placetype":"locality",

@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":53.073298,
     "lbl:longitude":51.726327,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Samarskaja oblast'",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":51.726327,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0411\u043e\u0440\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -94,9 +97,6 @@
     "name:tat_x_preferred":[
         "\u0411\u043e\u0440\u0441\u043a\u043e\u0435 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
-    "name:und_x_variant":[
-        "\u0411\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Borsky"
     ],
@@ -117,9 +117,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2106",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Borskoye",
@@ -141,7 +141,7 @@
     "wof:concordances":{
         "gp:id":12598202,
         "hasc:id":"RU.SA.BR",
-        "qs:id":224468,
+        "qs_pg:id":224468,
         "wd:id":"Q1763650",
         "wk:page":"Borsky District"
     },
@@ -158,7 +158,7 @@
         }
     ],
     "wof:id":890487029,
-    "wof:lastmodified":1563262927,
+    "wof:lastmodified":1566630927,
     "wof:name":"Borskiy",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

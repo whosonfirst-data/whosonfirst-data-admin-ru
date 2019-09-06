@@ -11,11 +11,15 @@
     "geom:longitude":132.16583,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":8091,
+    "gn:population":8091,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"132.14583,44.00576,132.18583,44.04576",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Novoshakhtinskiy"
     ],
@@ -32,9 +36,6 @@
         "Nowoszachtinskij"
     ],
     "name:rus_x_preferred":[
-        "\u041d\u043e\u0432\u043e\u0448\u0430\u0445\u0442\u0438\u043d\u0441\u043a\u0438\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u041d\u043e\u0432\u043e\u0448\u0430\u0445\u0442\u0438\u043d\u0441\u043a\u0438\u0439"
     ],
     "qs:name":"Novoshakhtinskiy",
@@ -56,7 +57,7 @@
     "wof:concordances":{
         "gn:id":2018864,
         "gp:id":2056765,
-        "qs:id":886407,
+        "qs_pg:id":886407,
         "wd:id":"Q4326247"
     },
     "wof:country":"RU",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":890481083,
-    "wof:lastmodified":1563262626,
+    "wof:lastmodified":1566630792,
     "wof:name":"Novoshakhtinskiy",
     "wof:parent_id":1108735139,
     "wof:placetype":"locality",

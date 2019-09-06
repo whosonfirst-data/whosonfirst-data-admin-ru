@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.641851,
     "lbl:longitude":22.740262,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.641851,
     "mps:longitude":22.740262,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u0456\u0431\u0430\u0440\u0442\u0430\u0439"
     ],
@@ -107,9 +110,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0431\u0430\u0440\u0442\u0430\u0439"
     ],
-    "name:unk_x_variant":[
-        "Kibarty"
-    ],
     "name:vol_x_preferred":[
         "Kybartai"
     ],
@@ -128,7 +128,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.638889,
     "wd:longitude":22.755556,
@@ -162,7 +162,7 @@
         }
     ],
     "wof:id":102002447,
-    "wof:lastmodified":1563241458,
+    "wof:lastmodified":1566615669,
     "wof:name":"Kybartai",
     "wof:parent_id":1108735351,
     "wof:placetype":"locality",

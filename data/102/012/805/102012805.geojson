@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000288,
-    "geom:area_square_m":2010072.47279,
+    "geom:area_square_m":2010072.472789,
     "geom:bbox":"76.0014724731,55.6135292053,76.0518341064,55.6280555725",
     "geom:latitude":55.621689,
     "geom:longitude":76.021493,
     "iso:country":"RU",
     "lbl:latitude":55.622503,
     "lbl:longitude":76.017678,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.622503,
     "mps:longitude":76.017678,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kamyshevo"
     ],
@@ -23,9 +26,6 @@
         "Kamysjevo"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0430\u043c\u044b\u0448\u0435\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0430\u043c\u044b\u0448\u0435\u0432\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687925,
         102191581,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":102012805,
-    "wof:lastmodified":1501220053,
+    "wof:lastmodified":1566615000,
     "wof:name":"Kamyshevo",
     "wof:parent_id":1108737257,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":59.826866,
     "geom:longitude":30.089409,
     "iso:country":"RU",
+    "lbl:bbox":"30.0844085619,59.8218660729,30.0944085619,59.8318660729",
     "lbl:latitude":59.826866,
     "lbl:longitude":30.089409,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:rus_x_preferred":[
         "\u0412\u043e\u043b\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108943589,
-    "wof:lastmodified":1510870346,
+    "wof:lastmodified":1566627419,
     "wof:name":"Volodarskij",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

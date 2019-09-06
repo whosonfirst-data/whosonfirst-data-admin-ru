@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.358783,
     "lbl:longitude":40.189586,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":45.358783,
     "mps:longitude":40.189586,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:cat_x_preferred":[
         "Tbil\u00edsskaia"
     ],
@@ -61,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0431\u0456\u043b\u0456\u0441\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tiflisskaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":347,
     "wof:belongsto":[
@@ -95,7 +98,6 @@
     "wof:concordances":{
         "gn:id":483883,
         "gp:id":2123857,
-        "qs:id":369169,
         "qs_pg:id":369169,
         "wd:id":"Q984417",
         "wk:page":"Tbilisskaya"
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":102007885,
-    "wof:lastmodified":1563240265,
+    "wof:lastmodified":1566615185,
     "wof:name":"Tbilisskaya",
     "wof:parent_id":1108736965,
     "wof:placetype":"locality",

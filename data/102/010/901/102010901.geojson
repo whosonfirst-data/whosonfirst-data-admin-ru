@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.400166,
     "lbl:longitude":49.957378,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.400166,
     "mps:longitude":49.957378,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pestravka"
     ],
@@ -37,9 +40,6 @@
     "name:rus_x_preferred":[
         "\u041f\u0435\u0441\u0442\u0440\u0430\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u041f\u0435\u0441\u0442\u0440\u0430\u0432\u043a\u0430"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"6301800000100",
@@ -56,7 +56,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687781,
@@ -69,7 +69,7 @@
     "wof:concordances":{
         "gn:id":510347,
         "gp:id":2122859,
-        "qs:id":1305826
+        "qs_pg:id":1305826
     },
     "wof:country":"RU",
     "wof:geomhash":"509d854c46b4bb894015b020096cc810",
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":102010901,
-    "wof:lastmodified":1564109142,
+    "wof:lastmodified":1566615469,
     "wof:name":"Pestravka",
     "wof:parent_id":1108735831,
     "wof:placetype":"locality",

@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":46.899128,
     "lbl:longitude":47.745926,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Astrakhan'",
     "meso:name_alt2":"Astrakhanskaja oblast'",
     "meso:name_local":"\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -334,9 +335,6 @@
     ],
     "name:und_x_variant":[
         "Astrakhanskaja oblast'",
-        "Astrakhan'"
-    ],
-    "name:unk_x_variant":[
         "Astrakhan\u2019 Oblast"
     ],
     "name:urd_x_preferred":[
@@ -432,9 +430,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"44,100",
     "statoids:area_mi":"17,000",
     "statoids:as_of_date":"2010-10-14",
@@ -496,11 +494,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734436,
+    "wof:lastmodified":1566618569,
     "wof:name":"Astrakhan",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":1010073,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

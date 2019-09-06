@@ -9,14 +9,17 @@
     "geom:bbox":"37.3089027405,55.7860488892,37.3716201782,55.8287239075",
     "geom:latitude":55.80585,
     "geom:longitude":37.336679,
-    "geonames:id":"511980,542374",
+    "gn:id":"511980,542374",
     "iso:country":"RU",
     "lbl:latitude":55.80008,
     "lbl:longitude":37.338617,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.80008,
     "mps:longitude":37.338617,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Pav\u015dino"
     ],
@@ -54,7 +57,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1045,
     "wof:belongsto":[
         85688161,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":102003139,
-    "wof:lastmodified":1527637837,
+    "wof:lastmodified":1566615545,
     "wof:name":"Pavshino",
     "wof:parent_id":1108734693,
     "wof:placetype":"locality",

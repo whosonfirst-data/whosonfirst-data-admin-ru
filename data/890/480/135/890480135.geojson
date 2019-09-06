@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":59.992404,
     "lbl:longitude":38.622219,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Vologodskaja oblast'",
     "meso:admin1r_en":"Severo-Zapadnyj federal'nyj okrug",
     "meso:admin_1":"\u0412\u043e\u043b\u043e\u0433\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":38.622219,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kirillovskiy Rayon"
     ],
@@ -97,9 +100,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0438\u0440\u0438\u043b\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041a\u0438\u0440\u0438\u043b\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vep_x_preferred":[
         "Kirillovan rajon"
     ],
@@ -123,9 +123,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"5727",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Kirillov",
@@ -147,7 +147,7 @@
     "wof:concordances":{
         "gp:id":12599600,
         "hasc:id":"RU.VO.KL",
-        "qs:id":1209341,
+        "qs_pg:id":1209341,
         "wd:id":"Q2216860",
         "wk:page":"Kirillovsky District"
     },
@@ -164,7 +164,7 @@
         }
     ],
     "wof:id":890480135,
-    "wof:lastmodified":1563262968,
+    "wof:lastmodified":1566630945,
     "wof:name":"Kirillovskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",

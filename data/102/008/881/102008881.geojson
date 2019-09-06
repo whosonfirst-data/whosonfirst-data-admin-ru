@@ -9,11 +9,13 @@
     "geom:bbox":"52.1792793274,56.4258346558,52.2735290527,56.4639167786",
     "geom:latitude":56.443976,
     "geom:longitude":52.222142,
-    "geonames:id":"524699,524700",
+    "gn:id":"524699,524700",
     "gn:population":47270,
     "iso:country":"RU",
     "lbl:latitude":56.441535,
     "lbl:longitude":52.22301,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":56.441535,
     "mps:longitude":52.22301,
     "mz:hierarchy_label":1,
@@ -130,7 +132,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0436\u0433\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Syuginskaya"
     ],
     "name:vep_x_preferred":[
@@ -255,7 +257,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.45,
     "wd:longitude":52.216667,
@@ -270,7 +272,6 @@
     "wof:concordances":{
         "gn:id":524699,
         "gp:id":2122275,
-        "qs:id":275061,
         "qs_pg:id":275061,
         "wd:id":"Q159149",
         "wk:page":"Mozhga"
@@ -286,7 +287,7 @@
         }
     ],
     "wof:id":102008881,
-    "wof:lastmodified":1563240433,
+    "wof:lastmodified":1566615268,
     "wof:name":"Mozhga",
     "wof:parent_id":1108735225,
     "wof:placetype":"locality",

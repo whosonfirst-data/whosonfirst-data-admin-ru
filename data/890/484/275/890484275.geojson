@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":42.934163,
     "lbl:longitude":47.51908,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Dagestan",
     "meso:admin1r_en":"Severo-Kavkazskij federal'nyj okrug",
     "meso:admin_1":"\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d",
@@ -54,6 +56,7 @@
     "mps:longitude":47.51908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ava_x_preferred":[
         "\u0425\u0430\u0441\u0430\u0432\u044e\u0440\u0442 \u043c\u0443\u0445\u044a"
     ],
@@ -137,9 +140,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"671",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Makhachkala",
@@ -161,7 +164,7 @@
     "wof:concordances":{
         "gp:id":12597384,
         "hasc:id":"RU.DA.MK",
-        "qs:id":1105822,
+        "qs_pg:id":1105822,
         "wd:id":"Q1438662",
         "wk:page":"Khasavyurtovsky District"
     },
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":890484275,
-    "wof:lastmodified":1563262374,
+    "wof:lastmodified":1566630685,
     "wof:name":"Makhachkala",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

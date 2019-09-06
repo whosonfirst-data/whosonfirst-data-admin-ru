@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":50.760307,
     "lbl:longitude":59.545049,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.760307,
     "mps:longitude":59.545049,
     "mz:hierarchy_label":1,
@@ -48,9 +50,6 @@
         "Dombarovskiy"
     ],
     "name:rus_x_preferred":[
-        "\u0414\u043e\u043c\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u0414\u043e\u043c\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439"
     ],
     "ne:ADM0CAP":0.0,
@@ -163,7 +162,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":44,
     "wof:belongsto":[
@@ -176,7 +175,6 @@
     "wof:concordances":{
         "gn:id":565407,
         "gp:id":2016438,
-        "qs:id":125619,
         "qs_pg:id":125619,
         "wd:id":"Q4165777"
     },
@@ -191,7 +189,7 @@
         }
     ],
     "wof:id":102011339,
-    "wof:lastmodified":1563240734,
+    "wof:lastmodified":1566615382,
     "wof:name":"Dombarovskiy",
     "wof:parent_id":1108733401,
     "wof:placetype":"locality",

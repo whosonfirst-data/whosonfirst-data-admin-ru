@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.491183,
     "lbl:longitude":38.379985,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.491183,
     "mps:longitude":38.379985,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u0645\u0646\u0633\u0643\u0648\u064a"
     ],
@@ -197,9 +200,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043c\u0435\u043d\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
-        "Ramenskoe"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u0627\u0645\u06cc\u0646\u0633\u06a9\u0648\u06cc\u06cc"
     ],
@@ -233,7 +233,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688161,
@@ -246,7 +246,6 @@
     "wof:concordances":{
         "gn:id":502965,
         "gp:id":2123117,
-        "qs:id":1060515,
         "qs_pg:id":1060515,
         "wd:id":"Q163643",
         "wk:page":"Ramenskoye, Moscow Oblast"
@@ -264,7 +263,7 @@
         }
     ],
     "wof:id":102003333,
-    "wof:lastmodified":1563241158,
+    "wof:lastmodified":1566615546,
     "wof:name":"Ramenskoye",
     "wof:parent_id":890482739,
     "wof:placetype":"locality",

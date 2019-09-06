@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.006725,
     "lbl:longitude":39.271996,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.006725,
     "mps:longitude":39.271996,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Petrovsk"
     ],
@@ -47,9 +50,6 @@
     "name:rus_x_variant":[
         "\u041f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
-        "Petrovsk"
-    ],
     "name:zho_x_preferred":[
         "\u5f7c\u5f97\u7f57\u592b\u65af\u79d1\u8036"
     ],
@@ -71,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -83,7 +83,6 @@
     "wof:concordances":{
         "gn:id":509850,
         "gp:id":2122866,
-        "qs:id":1221962,
         "qs_pg:id":1221962,
         "wd:id":"Q984324",
         "wk:page":"Petrovskoye, Yaroslavl Oblast"
@@ -99,7 +98,7 @@
         }
     ],
     "wof:id":102002773,
-    "wof:lastmodified":1563241639,
+    "wof:lastmodified":1566615713,
     "wof:name":"Petrovskoye",
     "wof:parent_id":1108736313,
     "wof:placetype":"locality",

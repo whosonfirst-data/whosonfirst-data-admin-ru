@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000715,
-    "geom:area_square_m":4633344.232243,
+    "geom:area_square_m":4633344.232242,
     "geom:bbox":"53.9863624573,58.3735847473,54.0541648865,58.3898887634",
     "geom:latitude":58.381179,
     "geom:longitude":54.016783,
     "iso:country":"RU",
     "lbl:latitude":58.381696,
     "lbl:longitude":54.016782,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.381696,
     "mps:longitude":54.016782,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Severnyy Kommunar"
     ],
@@ -23,9 +26,6 @@
         "Severnyj Kommunar"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u041a\u043e\u043c\u043c\u0443\u043d\u0430\u0440"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u041a\u043e\u043c\u043c\u0443\u043d\u0430\u0440"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687975,
         102191581,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":102008321,
-    "wof:lastmodified":1501214501,
+    "wof:lastmodified":1566615304,
     "wof:name":"Severnyy Kommunar",
     "wof:parent_id":1108736627,
     "wof:placetype":"locality",

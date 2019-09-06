@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000898,
-    "geom:area_square_m":7819508.435671,
+    "geom:area_square_m":7819508.43567,
     "geom:bbox":"39.5338897705,45.1947517395,39.5838623047,45.2213897705",
     "geom:latitude":45.20866,
     "geom:longitude":39.559824,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.209004,
     "lbl:longitude":39.559348,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.209004,
     "mps:longitude":39.559348,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Voronezhskaya"
     ],
@@ -25,9 +28,6 @@
         "Voronezjskaja"
     ],
     "name:rus_x_preferred":[
-        "\u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":32,
     "wof:belongsto":[
         85688029,
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":102007981,
-    "wof:lastmodified":1527637039,
+    "wof:lastmodified":1566615201,
     "wof:name":"Voronezhskaya",
     "wof:parent_id":890479743,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000564,
-    "geom:area_square_m":4633618.006885,
+    "geom:area_square_m":4633618.006886,
     "geom:bbox":"43.0688323975,48.3494148254,43.0956382751,48.3852767944",
     "geom:latitude":48.365566,
     "geom:longitude":43.083741,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":48.366191,
     "lbl:longitude":43.083538,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.366191,
     "mps:longitude":43.083538,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Nizhniy Chir"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_variant":[
         "\u041d\u0438\u0436\u043d\u0438\u0439 \u0427\u0438\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Churki"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +52,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688101
+        85688101,
+        1108736849
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":520783,
         "gp:id":2122424,
-        "qs:id":549459,
         "qs_pg:id":549459
     },
     "wof:country":"RU",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102006971,
-    "wof:lastmodified":1505338926,
+    "wof:lastmodified":1566615353,
     "wof:name":"Nizhniy Chir",
     "wof:parent_id":1108736849,
     "wof:placetype":"locality",

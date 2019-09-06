@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.870057,
     "lbl:longitude":40.064505,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":44.870057,
     "mps:longitude":40.064505,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u063a\u064a\u0627\u063a\u064a\u0646\u0633\u0643\u0627\u064a\u0627"
     ],
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0456\u0430\u0433\u0456\u043d\u0441\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ghiaghinskayai"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":331,
     "wof:belongsto":[
@@ -107,7 +110,6 @@
     "wof:concordances":{
         "gn:id":561515,
         "gp:id":2120836,
-        "qs:id":870761,
         "qs_pg:id":870761,
         "wd:id":"Q1522211",
         "wk:page":"Giaginskaya"
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":102015673,
-    "wof:lastmodified":1563239729,
+    "wof:lastmodified":1566614937,
     "wof:name":"Giaginskaya",
     "wof:parent_id":1108733585,
     "wof:placetype":"locality",

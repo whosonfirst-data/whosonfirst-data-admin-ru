@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000418,
-    "geom:area_square_m":3202162.878178,
+    "geom:area_square_m":3202162.878179,
     "geom:bbox":"40.4795570374,51.6798324585,40.5033874512,51.70677948",
     "geom:latitude":51.693788,
     "geom:longitude":40.491862,
     "iso:country":"RU",
     "lbl:latitude":51.693895,
     "lbl:longitude":40.492089,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.693895,
     "mps:longitude":40.492089,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Borshch\u00ebvo"
     ],
@@ -30,9 +33,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u0449\u0435\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Borshch\u00ebvo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -50,7 +50,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":65,
     "wof:belongsto":[
         85688051,
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":102005401,
-    "wof:lastmodified":1527637958,
+    "wof:lastmodified":1566615626,
     "wof:name":"Borshchevo",
     "wof:parent_id":1108735757,
     "wof:placetype":"locality",

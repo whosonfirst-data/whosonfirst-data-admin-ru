@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":55.044368,
     "lbl:longitude":74.577341,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":55.044368,
     "mps:longitude":74.577341,
     "mz:hierarchy_label":1,
@@ -114,7 +116,7 @@
     "name:tur_x_preferred":[
         "Kala\u00e7insk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kalatschinek"
     ],
     "name:vep_x_preferred":[
@@ -239,7 +241,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.05,
     "wd:longitude":74.583333,
@@ -254,7 +256,6 @@
     "wof:concordances":{
         "gn:id":1505074,
         "gp:id":2121117,
-        "qs:id":350283,
         "qs_pg:id":350283,
         "wd:id":"Q143614",
         "wk:page":"Kalachinsk"
@@ -270,7 +271,7 @@
         }
     ],
     "wof:id":102012347,
-    "wof:lastmodified":1563239889,
+    "wof:lastmodified":1566615005,
     "wof:name":"Kalachinsk",
     "wof:parent_id":1108734195,
     "wof:placetype":"locality",

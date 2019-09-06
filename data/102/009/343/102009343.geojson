@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000465,
-    "geom:area_square_m":3285682.986063,
+    "geom:area_square_m":3285682.986064,
     "geom:bbox":"53.791557312,55.160861969,53.8237495422,55.1845550537",
     "geom:latitude":55.172788,
     "geom:longitude":53.807883,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.17359,
     "lbl:longitude":53.80819,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.17359,
     "mps:longitude":53.80819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Bakaly"
     ],
@@ -40,9 +43,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043a\u0430\u043b\u0438"
     ],
-    "name:unk_x_variant":[
-        "\u0411\u0430\u043a\u0430\u043b\u044b"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d",
     "qs:a1_lc":"0200700000100",
@@ -61,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":62,
     "wof:belongsto":[
@@ -74,7 +74,6 @@
     "wof:concordances":{
         "gn:id":579728,
         "gp:id":2120141,
-        "qs:id":81024,
         "qs_pg:id":81024
     },
     "wof:country":"RU",
@@ -88,7 +87,7 @@
         }
     ],
     "wof:id":102009343,
-    "wof:lastmodified":1527637050,
+    "wof:lastmodified":1566615255,
     "wof:name":"Bakaly",
     "wof:parent_id":1108732855,
     "wof:placetype":"locality",

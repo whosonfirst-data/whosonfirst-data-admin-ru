@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.579261,
     "lbl:longitude":37.911512,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":55.579261,
     "mps:longitude":37.911512,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u062a\u0643\u0631\u064a\u0646\u0648"
     ],
@@ -118,7 +121,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0438\u0442\u043a\u0430\u0440\u0456\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lytkorino"
     ],
     "name:vie_x_preferred":[
@@ -149,7 +152,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.583333,
     "wd:longitude":37.883333,
@@ -165,7 +168,7 @@
     "wof:concordances":{
         "gn:id":532657,
         "gp:id":2122028,
-        "qs:id":360521,
+        "qs_pg:id":360521,
         "wd:id":"Q157779",
         "wk:page":"Lytkarino"
     },
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":102003275,
-    "wof:lastmodified":1563241107,
+    "wof:lastmodified":1566615528,
     "wof:name":"Lytkarino",
     "wof:parent_id":1108733811,
     "wof:placetype":"locality",

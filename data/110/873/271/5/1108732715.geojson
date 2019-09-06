@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":56.183877,
     "lbl:longitude":52.46665,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Udmurtskaja respublika",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0423\u0434\u043c\u0443\u0440\u0442\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
@@ -53,6 +55,7 @@
     "mps:longitude":52.46665,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Alnashskiy Rayon"
     ],
@@ -111,9 +114,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u043d\u0430\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0410\u043b\u043d\u0430\u0448\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Alnashsky"
     ],
@@ -121,9 +121,9 @@
         "\u963f\u723e\u7d0d\u4ec0\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"896",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Alnashy",
@@ -157,7 +157,7 @@
         }
     ],
     "wof:id":1108732715,
-    "wof:lastmodified":1563257087,
+    "wof:lastmodified":1566627214,
     "wof:name":"Alnashskiy",
     "wof:parent_id":85687787,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000769,
-    "geom:area_square_m":5648968.485594,
+    "geom:area_square_m":5648968.485596,
     "geom:bbox":"40.8058395386,53.537071228,40.8452911377,53.5768127441",
     "geom:latitude":53.556275,
     "geom:longitude":40.82679,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":53.553843,
     "lbl:longitude":40.828733,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.553843,
     "mps:longitude":40.828733,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0431\u043e\u043a\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novoye Bokino"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +43,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687963,
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":102004277,
-    "wof:lastmodified":1501214578,
+    "wof:lastmodified":1566615596,
     "wof:name":"Novobokino",
     "wof:parent_id":1108736387,
     "wof:placetype":"locality",

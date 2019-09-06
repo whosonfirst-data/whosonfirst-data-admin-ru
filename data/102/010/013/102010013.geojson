@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000305,
-    "geom:area_square_m":2206026.534621,
+    "geom:area_square_m":2206026.53462,
     "geom:bbox":"49.8908882141,54.1982498169,49.9311943054,54.209777832",
     "geom:latitude":54.203813,
     "geom:longitude":49.910926,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.20396,
     "lbl:longitude":49.910926,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.20396,
     "mps:longitude":49.910926,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Novaya Malykla"
     ],
@@ -26,9 +29,6 @@
         "\u041d\u043e\u0432.\u041c\u0430\u043b\u044b\u043a\u043b\u0430"
     ],
     "name:rus_x_variant":[
-        "\u041d\u043e\u0432\u0430\u044f \u041c\u0430\u043b\u044b\u043a\u043b\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041d\u043e\u0432\u0430\u044f \u041c\u0430\u043b\u044b\u043a\u043b\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687907,
@@ -60,7 +60,7 @@
     "wof:concordances":{
         "gn:id":518619,
         "gp:id":2055903,
-        "qs:id":549415
+        "qs_pg:id":549415
     },
     "wof:country":"RU",
     "wof:geomhash":"c343f7453bc4149a95c2b61f93871b34",
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":102010013,
-    "wof:lastmodified":1505338934,
+    "wof:lastmodified":1566615476,
     "wof:name":"Novomalykla",
     "wof:parent_id":1108735513,
     "wof:placetype":"locality",

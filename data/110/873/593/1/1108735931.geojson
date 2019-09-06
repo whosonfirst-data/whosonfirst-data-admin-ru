@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":54.58574,
     "lbl:longitude":86.256254,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kemerovskaja oblast'",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":86.256254,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Polysaevo"
     ],
@@ -60,7 +63,7 @@
         "\u041f\u043e\u043b\u044b\u0441\u0430\u0435\u0432\u043e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688105,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108735931,
-    "wof:lastmodified":1561581940,
+    "wof:lastmodified":1566626850,
     "wof:name":"Polysaevo",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

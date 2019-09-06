@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000535,
-    "geom:area_square_m":3797751.866517,
+    "geom:area_square_m":3797751.866518,
     "geom:bbox":"47.8003044128,54.9480018616,47.8600006104,54.9625282288",
     "geom:latitude":54.954684,
     "geom:longitude":47.828723,
@@ -14,14 +14,14 @@
     "iso:country":"RU",
     "lbl:latitude":54.954194,
     "lbl:longitude":47.828723,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.954194,
     "mps:longitude":47.828723,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
-        "\u0421\u043e\u0440\u043e\u043a-\u0421\u0430\u0439\u0434\u0430\u043a"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u043e\u0440\u043e\u043a-\u0421\u0430\u0439\u0434\u0430\u043a"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +40,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688065,
         102191581,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":102009509,
-    "wof:lastmodified":1501214480,
+    "wof:lastmodified":1566615235,
     "wof:name":"Sorok-Saydak",
     "wof:parent_id":890487943,
     "wof:placetype":"locality",

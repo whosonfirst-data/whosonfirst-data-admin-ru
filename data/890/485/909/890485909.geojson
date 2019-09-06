@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":54.537897,
     "lbl:longitude":36.230571,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kaluzhskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u041a\u0430\u043b\u0443\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":36.230571,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Peremyshl'skiy Rayon"
     ],
@@ -113,9 +116,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"523",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Kaluga",
@@ -137,7 +140,7 @@
     "wof:concordances":{
         "gp:id":12598397,
         "hasc:id":"RU.KG.KA",
-        "qs:id":1240402,
+        "qs_pg:id":1240402,
         "wd:id":"Q1654633",
         "wk:page":"Peremyshlsky District"
     },
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":890485909,
-    "wof:lastmodified":1563261959,
+    "wof:lastmodified":1566630520,
     "wof:name":"Kaluga",
     "wof:parent_id":85688131,
     "wof:placetype":"county",

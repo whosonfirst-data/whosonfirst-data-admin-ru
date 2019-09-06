@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000362,
-    "geom:area_square_m":2855904.005442,
+    "geom:area_square_m":2855904.005441,
     "geom:bbox":"37.8224182129,50.4086952209,37.8552207947,50.4260826111",
     "geom:latitude":50.416563,
     "geom:longitude":37.836416,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.417453,
     "lbl:longitude":37.833441,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.417453,
     "mps:longitude":37.833441,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "Pjatnickoje \u0161osse"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":78,
     "wof:belongsto":[
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":503499,
         "gp:id":2073007,
-        "qs:id":1247969,
         "qs_pg:id":1247969
     },
     "wof:country":"RU",
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":102006341,
-    "wof:lastmodified":1527637262,
+    "wof:lastmodified":1566615350,
     "wof:name":"Pyatnitskoye",
     "wof:parent_id":890487749,
     "wof:placetype":"locality",

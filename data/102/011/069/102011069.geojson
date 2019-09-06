@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.810169,
     "lbl:longitude":45.785589,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.810169,
     "mps:longitude":45.785589,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Vyazovka"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685,
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":470631,
         "gp:id":2124383,
-        "qs:id":318065,
         "qs_pg:id":318065
     },
     "wof:country":"RU",
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":102011069,
-    "wof:lastmodified":1564109086,
+    "wof:lastmodified":1566615415,
     "wof:name":"Vyazovka",
     "wof:parent_id":1108736949,
     "wof:placetype":"locality",

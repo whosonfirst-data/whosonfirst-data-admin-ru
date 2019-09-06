@@ -11,8 +11,11 @@
     "geom:longitude":51.82447,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":234297,
+    "gn:population":234297,
     "iso:country":"RU",
+    "lbl:bbox":"51.80447,55.61657,51.84447,55.65657",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -205,7 +208,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0436\u043d\u044c\u043e\u043a\u0430\u043c\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nizhnekamskiy"
     ],
     "name:urd_x_preferred":[
@@ -333,7 +336,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":521118,
-        "qs:id":1062230,
+        "qs_pg:id":1062230,
         "wd:id":"Q172657",
         "wk:page":"Nizhnekamsk"
     },
@@ -351,7 +354,7 @@
         }
     ],
     "wof:id":890482139,
-    "wof:lastmodified":1563262171,
+    "wof:lastmodified":1566630600,
     "wof:name":"Nizhnekamsk",
     "wof:parent_id":1108735385,
     "wof:placetype":"locality",

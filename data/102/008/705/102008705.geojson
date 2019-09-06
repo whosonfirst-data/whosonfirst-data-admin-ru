@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.961776,
     "lbl:longitude":53.946434,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.961776,
     "mps:longitude":53.946434,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kvarsa"
     ],
@@ -41,7 +44,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687787,
         102191581,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":102008705,
-    "wof:lastmodified":1501214646,
+    "wof:lastmodified":1566615282,
     "wof:name":"Kvarsa",
     "wof:parent_id":1108737709,
     "wof:placetype":"locality",

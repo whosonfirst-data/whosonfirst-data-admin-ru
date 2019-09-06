@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":57.482148,
     "lbl:longitude":45.843234,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Nizheskaja oblast'",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":45.843234,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0423\u0440\u044d\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -99,9 +102,6 @@
     "name:tat_x_preferred":[
         "\u0423\u0440\u0435\u043d\u044c \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
-    "name:und_x_variant":[
-        "\u0423\u0440\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Urensky"
     ],
@@ -109,9 +109,9 @@
         "\u70cf\u502b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2120",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Uren",
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":1108737183,
-    "wof:lastmodified":1563257352,
+    "wof:lastmodified":1566627395,
     "wof:name":"Urenskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

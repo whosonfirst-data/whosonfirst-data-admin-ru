@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000192,
-    "geom:area_square_m":1379086.893354,
+    "geom:area_square_m":1379086.893353,
     "geom:bbox":"74.3756637573,54.4773330688,74.4000549316,54.4936676025",
     "geom:latitude":54.484751,
     "geom:longitude":74.387087,
     "iso:country":"RU",
     "lbl:latitude":54.483894,
     "lbl:longitude":74.387087,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.483894,
     "mps:longitude":74.387087,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0631\u062a\u064a\u0634"
     ],
@@ -226,7 +229,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0440\u0442\u0438\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Molotovo"
     ],
     "name:uzb_x_preferred":[
@@ -263,7 +266,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1943,
     "wof:belongsto":[
         85688189,
@@ -290,7 +293,7 @@
         }
     ],
     "wof:id":102012465,
-    "wof:lastmodified":1527636471,
+    "wof:lastmodified":1566615000,
     "wof:name":"Irtysh",
     "wof:parent_id":1108733245,
     "wof:placetype":"locality",

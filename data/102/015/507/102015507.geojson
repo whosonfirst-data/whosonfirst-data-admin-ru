@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0005,
-    "geom:area_square_m":4162558.858377,
+    "geom:area_square_m":4162558.858375,
     "geom:bbox":"135.697036743,47.6718177795,135.742156982,47.7051544189",
     "geom:latitude":47.689733,
     "geom:longitude":135.722441,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":47.691114,
     "lbl:longitude":135.722783,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.691114,
     "mps:longitude":135.722783,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kutuzovka"
     ],
@@ -25,9 +28,6 @@
         "Kutuzovka"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0443\u0442\u0443\u0437\u043e\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0443\u0442\u0443\u0437\u043e\u0432\u043a\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687937,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102015507,
-    "wof:lastmodified":1501225159,
+    "wof:lastmodified":1566614956,
     "wof:name":"Kutuzovka",
     "wof:parent_id":1108733993,
     "wof:placetype":"locality",

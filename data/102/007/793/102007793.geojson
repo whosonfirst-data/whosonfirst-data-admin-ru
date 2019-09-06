@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001083,
-    "geom:area_square_m":9386100.822542,
+    "geom:area_square_m":9386100.822548,
     "geom:bbox":"43.1923904419,45.4860839844,43.2587776184,45.5147514343",
     "geom:latitude":45.501424,
     "geom:longitude":43.225809,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.50364,
     "lbl:longitude":43.223546,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.50364,
     "mps:longitude":43.223546,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kazgulak"
     ],
@@ -25,9 +28,6 @@
         "Kazgulak"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0430\u0437\u0433\u0443\u043b\u0430\u043a"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0430\u0437\u0433\u0443\u043b\u0430\u043a"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687825,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102007793,
-    "wof:lastmodified":1501214697,
+    "wof:lastmodified":1566615176,
     "wof:name":"Kazgulak",
     "wof:parent_id":1108737113,
     "wof:placetype":"locality",

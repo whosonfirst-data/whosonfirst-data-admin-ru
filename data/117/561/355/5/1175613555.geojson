@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.830523,
     "lbl:longitude":30.004199,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.830523,
     "mps:longitude":30.004199,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0646\u0648"
     ],
@@ -131,9 +134,6 @@
     "name:tur_x_preferred":[
         "Dno"
     ],
-    "name:unk_x_variant":[
-        "\u0414\u043d\u043e"
-    ],
     "name:vep_x_preferred":[
         "Dno"
     ],
@@ -159,7 +159,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":57.833333,
     "wd:longitude":29.966667,
@@ -176,7 +176,6 @@
     "wof:concordances":{
         "gn:id":565885,
         "gp:id":2120666,
-        "qs:id":125617,
         "qs_pg:id":125617,
         "wd:id":"Q135370",
         "wk:page":"Dno"
@@ -194,7 +193,7 @@
         }
     ],
     "wof:id":1175613555,
-    "wof:lastmodified":1563257435,
+    "wof:lastmodified":1566627436,
     "wof:name":"Dno",
     "wof:parent_id":1108733385,
     "wof:placetype":"locality",

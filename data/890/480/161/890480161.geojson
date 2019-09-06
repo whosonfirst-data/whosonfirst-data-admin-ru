@@ -11,11 +11,15 @@
     "geom:longitude":36.04611,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"36.02611,55.39972,36.06611,55.43972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0411\u0430\u0440\u044b\u0441\u0430\u0432\u0430"
     ],
@@ -55,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Borissowo"
-    ],
     "qs:name":"Borisovo",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Moscow Oblast",
@@ -80,7 +81,7 @@
     "wof:concordances":{
         "gn:id":572451,
         "gp:id":1993773,
-        "qs:id":1233787,
+        "qs_pg:id":1233787,
         "wk:page":"Borisovo"
     },
     "wof:country":"RU",
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":890480161,
-    "wof:lastmodified":1564129330,
+    "wof:lastmodified":1566630947,
     "wof:name":"Borisovo",
     "wof:parent_id":1108735221,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.127467,
     "lbl:longitude":60.7857,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.127467,
     "mps:longitude":60.7857,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vozdvizhenka"
     ],
@@ -44,7 +47,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":31,
     "wof:belongsto":[
         85687791,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102012061,
-    "wof:lastmodified":1564108660,
+    "wof:lastmodified":1566615021,
     "wof:name":"Vozdvizhenka",
     "wof:parent_id":1108734299,
     "wof:placetype":"locality",

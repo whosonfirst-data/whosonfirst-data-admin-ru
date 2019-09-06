@@ -9,17 +9,20 @@
     "geom:bbox":"64.6183853149,57.0465278625,64.6658630371,57.0703048706",
     "geom:latitude":57.059313,
     "geom:longitude":64.642175,
-    "geonames:id":"1489057,1489056",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":6139,
+    "gn:id":"1489057,1489056",
+    "gn:population":6139,
     "iso:country":"RU",
     "lbl:latitude":57.058285,
     "lbl:longitude":64.647375,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.058285,
     "mps:longitude":64.647375,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Tugulym"
     ],
@@ -37,9 +40,6 @@
     ],
     "name:tgk_x_preferred":[
         "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0422\u0443\u0433\u0443\u043b\u0438\u043c\u0441\u043a\u0438\u0439"
-    ],
-    "name:unk_x_variant":[
-        "\u0422\u0443\u0433\u0443\u043b\u044b\u043c"
     ],
     "name:vie_x_preferred":[
         "Tugulymsky"
@@ -64,7 +64,7 @@
     "qs:type":"\u043f\u0433\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":812,
     "wof:belongsto":[
@@ -78,7 +78,7 @@
     "wof:concordances":{
         "gn:id":1489057,
         "gp:id":2123997,
-        "qs:id":132798,
+        "qs_pg:id":132798,
         "wd:id":"Q4464924",
         "wk:page":"Tugulymsky District"
     },
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":102011825,
-    "wof:lastmodified":1563240816,
+    "wof:lastmodified":1566615410,
     "wof:name":"Tugulym",
     "wof:parent_id":1108737097,
     "wof:placetype":"locality",

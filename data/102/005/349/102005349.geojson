@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.734027,
     "lbl:longitude":36.181106,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":51.734027,
     "mps:longitude":36.181106,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Koersk"
     ],
@@ -317,7 +320,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.716667,
     "wd:longitude":36.183333,
@@ -333,10 +336,12 @@
     "wof:concordances":{
         "gn:id":538560,
         "gp:id":2121788,
-        "qs:id":1129293,
         "qs_pg:id":202577,
         "wd:id":"Q3159",
         "wk:page":"Kursk"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1129293
     },
     "wof:country":"RU",
     "wof:geomhash":"4edb15741762cae92e904532859409a3",
@@ -351,7 +356,7 @@
         }
     ],
     "wof:id":102005349,
-    "wof:lastmodified":1563241376,
+    "wof:lastmodified":1566615634,
     "wof:name":"Kursk",
     "wof:parent_id":890484315,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000383,
-    "geom:area_square_m":2873710.767663,
+    "geom:area_square_m":2873710.767665,
     "geom:bbox":"86.2330856323,52.6733627319,86.2631912231,52.6932220459",
     "geom:latitude":52.682233,
     "geom:longitude":86.246784,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.682701,
     "lbl:longitude":86.244992,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":52.682701,
     "mps:longitude":86.244992,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Neninka"
     ],
@@ -44,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687835,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102013519,
-    "wof:lastmodified":1505338942,
+    "wof:lastmodified":1566615054,
     "wof:name":"Neninka",
     "wof:parent_id":1108736709,
     "wof:placetype":"locality",

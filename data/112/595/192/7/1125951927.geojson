@@ -9,15 +9,18 @@
     "geom:bbox":"94.5,51.16667,94.5,51.16667",
     "geom:latitude":51.16667,
     "geom:longitude":94.5,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3058,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":3058,
     "iso:country":"RU",
+    "lbl:bbox":"94.48,51.14667,94.52,51.18667",
     "lbl:latitude":51.16667,
     "lbl:longitude":94.5,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:che_x_preferred":[
         "\u0411\u0430\u0439-\u0425\u0430\u0430\u043a"
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0439-\u0425\u0430\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bay-Khak"
     ],
     "qs_pg:aaroncc":"RU",
@@ -72,7 +75,7 @@
     "qs_pg:woe_adm0":23424936,
     "qs_pg:woe_id":1986934,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424936,
     "woe:name_adm0":"Russia",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125951927,
-    "wof:lastmodified":1563263086,
+    "wof:lastmodified":1566631002,
     "wof:name":"Bay-Khaak",
     "wof:parent_id":1108736933,
     "wof:placetype":"locality",

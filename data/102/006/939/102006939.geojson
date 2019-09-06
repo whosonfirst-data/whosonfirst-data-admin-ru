@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000419,
-    "geom:area_square_m":3432840.018419,
+    "geom:area_square_m":3432840.018421,
     "geom:bbox":"44.5110015869,48.4551925659,44.5385284424,48.4851379395",
     "geom:latitude":48.472442,
     "geom:longitude":44.523447,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":48.473494,
     "lbl:longitude":44.522091,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.473494,
     "mps:longitude":44.522091,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Imeni Kirova"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +43,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688101,
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":102006939,
-    "wof:lastmodified":1501214687,
+    "wof:lastmodified":1566615334,
     "wof:name":"Kirova",
     "wof:parent_id":1108736877,
     "wof:placetype":"locality",

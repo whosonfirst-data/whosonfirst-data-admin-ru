@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.247008,
     "lbl:longitude":43.029872,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.247008,
     "mps:longitude":43.029872,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Kangly"
     ],
@@ -26,9 +29,6 @@
         "Kangly"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0430\u043d\u0433\u043b\u044b"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0430\u043d\u0433\u043b\u044b"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687825,
@@ -60,7 +60,7 @@
     "wof:concordances":{
         "gn:id":553138,
         "gp:id":2016140,
-        "qs:id":125405
+        "qs_pg:id":125405
     },
     "wof:country":"RU",
     "wof:geomhash":"b070cb7806aaf7b1b20713e3a993ec47",
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":102016013,
-    "wof:lastmodified":1505338948,
+    "wof:lastmodified":1566615433,
     "wof:name":"Kangly",
     "wof:parent_id":1108735151,
     "wof:placetype":"locality",

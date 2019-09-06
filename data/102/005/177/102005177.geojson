@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000964,
-    "geom:area_square_m":7345797.162318,
+    "geom:area_square_m":7345797.162322,
     "geom:bbox":"44.0885162354,51.9158859253,44.1226425171,51.9667167664",
     "geom:latitude":51.941456,
     "geom:longitude":44.105018,
     "iso:country":"RU",
     "lbl:latitude":51.945187,
     "lbl:longitude":44.103854,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.945187,
     "mps:longitude":44.103854,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Grivki"
     ],
@@ -23,9 +26,6 @@
         "Grivki"
     ],
     "name:rus_x_preferred":[
-        "\u0413\u0440\u0438\u0432\u043a\u0438"
-    ],
-    "name:unk_x_variant":[
         "\u0413\u0440\u0438\u0432\u043a\u0438"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687995,
         102191581,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":102005177,
-    "wof:lastmodified":1501214728,
+    "wof:lastmodified":1566615657,
     "wof:name":"Grivki",
     "wof:parent_id":1108733471,
     "wof:placetype":"locality",

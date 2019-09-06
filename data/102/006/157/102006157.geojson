@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.766172,
     "lbl:longitude":37.876576,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.766172,
     "mps:longitude":37.876576,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0641\u064a \u0627\u0648\u0633\u0643\u0648\u0644"
     ],
@@ -127,7 +130,7 @@
     "name:ukr_x_variant":[
         "\u041d\u043e\u0432\u0438\u0439 \u041e\u0441\u043a\u0456\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novo Oskol"
     ],
     "name:vep_x_preferred":[
@@ -160,7 +163,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.766667,
     "wd:longitude":37.866667,
@@ -175,7 +178,6 @@
     "wof:concordances":{
         "gn:id":516931,
         "gp:id":2122564,
-        "qs:id":125047,
         "qs_pg:id":125047,
         "wd:id":"Q60005",
         "wk:page":"Novy Oskol"
@@ -191,7 +193,7 @@
         }
     ],
     "wof:id":102006157,
-    "wof:lastmodified":1563240627,
+    "wof:lastmodified":1566615332,
     "wof:name":"Novyy Oskol",
     "wof:parent_id":1108735523,
     "wof:placetype":"locality",

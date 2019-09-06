@@ -11,10 +11,14 @@
     "geom:longitude":88.66667,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":5732,
+    "gn:population":5732,
     "iso:country":"RU",
+    "lbl:bbox":"88.64667,49.98,88.68667,50.02",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u043e\u0448-\u0410\u0433\u0430\u0447"
     ],
@@ -63,9 +67,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0448-\u0410\u0433\u0430\u0447"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u043e\u0448-\u0410\u0433\u0430\u0447"
-    ],
     "name:zho_x_preferred":[
         "\u79d1\u4ec0\u963f\u52a0\u5947"
     ],
@@ -85,7 +86,7 @@
     "wof:concordances":{
         "gn:id":1502422,
         "gp:id":2121540,
-        "qs:id":1031516,
+        "qs_pg:id":1031516,
         "wd:id":"Q912723"
     },
     "wof:country":"RU",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":890478277,
-    "wof:lastmodified":1563261914,
+    "wof:lastmodified":1566630504,
     "wof:name":"Kosh-Agach",
     "wof:parent_id":890484185,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"43.61889,43.49806,43.61889,43.49806",
     "geom:latitude":43.49806,
     "geom:longitude":43.61889,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":272800,
+    "gn:country":"RU",
+    "gn:fcode":"PPLA",
     "gn:population":272800,
     "iso:country":"RU",
+    "lbl:bbox":"43.59889,43.47806,43.63889,43.51806",
     "lbl:latitude":43.49806,
     "lbl:longitude":43.61889,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ady_x_preferred":[
         "\u041d\u0430\u043b\u0448\u044b\u043a"
@@ -265,9 +268,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043b\u044c\u0447\u0438\u043a"
     ],
-    "name:unk_x_variant":[
-        "Naltschik"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u0644\u0686\u06a9"
     ],
@@ -310,7 +310,7 @@
     "qs_pg:qs_id":349580,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688089,
@@ -339,7 +339,7 @@
         }
     ],
     "wof:id":1125851569,
-    "wof:lastmodified":1563263148,
+    "wof:lastmodified":1566631029,
     "wof:name":"Nal\u2019chik",
     "wof:parent_id":890484277,
     "wof:placetype":"locality",

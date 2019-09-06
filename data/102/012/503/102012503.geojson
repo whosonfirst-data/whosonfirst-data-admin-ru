@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":54.155443,
     "lbl:longitude":74.80602,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":54.155443,
     "mps:longitude":74.80602,
     "mz:hierarchy_label":1,
@@ -57,7 +59,7 @@
     "name:rus_x_preferred":[
         "\u0427\u0435\u0440\u043b\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cherlakskiy"
     ],
     "ne:ADM0CAP":0.0,
@@ -170,7 +172,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -182,7 +184,6 @@
     "wof:concordances":{
         "gn:id":1508138,
         "gp:id":2120515,
-        "qs:id":556262,
         "qs_pg:id":556262,
         "wd:id":"Q1621837",
         "wk:page":"Cherlak, Cherlaksky District, Omsk Oblast"
@@ -198,7 +199,7 @@
         }
     ],
     "wof:id":102012503,
-    "wof:lastmodified":1563239841,
+    "wof:lastmodified":1566614985,
     "wof:name":"Cherlak",
     "wof:parent_id":1108733245,
     "wof:placetype":"locality",

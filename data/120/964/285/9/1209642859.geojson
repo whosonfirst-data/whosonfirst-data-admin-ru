@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"33.51806,55.00194,33.55806,55.04194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632685
@@ -34,7 +38,7 @@
         "gn:id":476539
     },
     "wof:country":"RU",
-    "wof:geomhash":"66ee787422aee5fdc863113298b9637b",
+    "wof:geomhash":"52b9d572be4b9552e297eea3a79ed846",
     "wof:hierarchy":[
         {
             "country_id":85632685,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209642859,
-    "wof:lastmodified":1536280829,
+    "wof:lastmodified":1566623514,
     "wof:name":"Vasil'yevskoye",
     "wof:parent_id":85632685,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.538059999999994,
+    33.53805999999999,
     55.02194,
-    33.538059999999994,
+    33.53805999999999,
     55.02194
 ],
   "geometry": {"coordinates":[33.53805999999999,55.02194],"type":"Point"}

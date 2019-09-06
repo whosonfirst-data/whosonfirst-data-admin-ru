@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000998,
-    "geom:area_square_m":7665481.692094,
+    "geom:area_square_m":7665481.692089,
     "geom:bbox":"43.147567749,51.5757980347,43.2057380676,51.6159934998",
     "geom:latitude":51.592831,
     "geom:longitude":43.178386,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.594065,
     "lbl:longitude":43.180369,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.594065,
     "mps:longitude":43.180369,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Repnoye"
     ],
@@ -24,9 +27,6 @@
         "Repnoje"
     ],
     "name:rus_x_preferred":[
-        "\u0420\u0435\u043f\u043d\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u0420\u0435\u043f\u043d\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,18 +47,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687995
+        85687995,
+        1108732871
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":502124,
         "gp:id":2074482,
-        "qs:id":275039,
         "qs_pg:id":275039
     },
     "wof:country":"RU",
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102005499,
-    "wof:lastmodified":1505338924,
+    "wof:lastmodified":1566615627,
     "wof:name":"Repnoye",
     "wof:parent_id":1108732871,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":50.91667,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":1973,
+    "gn:population":1973,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"50.89667,61.73,50.93667,61.77",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0435\u0434\u043a\u044b\u0440\u043a\u0435\u0448\u0447"
     ],
@@ -46,9 +50,6 @@
     "name:rus_x_preferred":[
         "\u0421\u0435\u0434\u043a\u044b\u0440\u043a\u0435\u0449"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u0435\u0434\u043a\u044b\u0440\u043a\u0435\u0449"
-    ],
     "qs:name":"Sedkyrkeshch",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Komi Republic",
@@ -71,7 +72,7 @@
     "wof:concordances":{
         "gn:id":497971,
         "gp:id":2079005,
-        "qs:id":190033,
+        "qs_pg:id":190033,
         "wd:id":"Q3740154",
         "wk:page":"Sedkyrkeshch"
     },
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":890479901,
-    "wof:lastmodified":1563262472,
+    "wof:lastmodified":1566630727,
     "wof:name":"Sedkyrkeshch",
     "wof:parent_id":890483449,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002361,
-    "geom:area_square_m":17793386.70048,
+    "geom:area_square_m":17793386.700484,
     "geom:bbox":"36.7823448181,52.4152793884,36.8271026611,52.4877853394",
     "geom:latitude":52.453016,
     "geom:longitude":36.802171,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":52.455624,
     "lbl:longitude":36.801745,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.455624,
     "mps:longitude":36.801745,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043e\u0441\u043e\u0441\u0435\u043d\u044c\u0435 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verkhososen\u2019ye Tsentral\u2019noye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +43,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687849,
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":102004841,
-    "wof:lastmodified":1501273211,
+    "wof:lastmodified":1566615595,
     "wof:name":"'Verkhososen''Ye'",
     "wof:parent_id":1108735917,
     "wof:placetype":"locality",

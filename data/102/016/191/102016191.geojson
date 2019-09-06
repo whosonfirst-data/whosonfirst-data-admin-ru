@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.833052,
     "lbl:longitude":43.143434,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.833052,
     "mps:longitude":43.143434,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zalukodes"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688089,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102016191,
-    "wof:lastmodified":1501214399,
+    "wof:lastmodified":1566615446,
     "wof:name":"Zalukodes",
     "wof:parent_id":1108738313,
     "wof:placetype":"locality",

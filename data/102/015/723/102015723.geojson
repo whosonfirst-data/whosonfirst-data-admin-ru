@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001417,
-    "geom:area_square_m":12424853.574597,
+    "geom:area_square_m":12424853.574596,
     "geom:bbox":"38.5425262451,44.8115844727,38.5895004272,44.8647232056",
     "geom:latitude":44.843442,
     "geom:longitude":38.564682,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.845679,
     "lbl:longitude":38.564326,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":44.845679,
     "mps:longitude":38.564326,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Il'skiy"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0418\u043b\u044c\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Il\u2019skaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,12 +52,13 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688029
+        85688029,
+        1108736479
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":102015723,
-    "wof:lastmodified":1505338947,
+    "wof:lastmodified":1566614950,
     "wof:name":"Il'Skiy",
     "wof:parent_id":1108736479,
     "wof:placetype":"locality",

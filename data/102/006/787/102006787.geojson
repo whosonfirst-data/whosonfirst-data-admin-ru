@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":48.950857,
     "lbl:longitude":44.685521,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.950857,
     "mps:longitude":44.685521,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u064a\u0648\u0631\u0632\u0648\u0641\u0643\u0627"
     ],
@@ -46,7 +49,7 @@
     "qs:type":"\u0440\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688101,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102006787,
-    "wof:lastmodified":1564109037,
+    "wof:lastmodified":1566615375,
     "wof:name":"Yerzovka",
     "wof:parent_id":890480123,
     "wof:placetype":"locality",

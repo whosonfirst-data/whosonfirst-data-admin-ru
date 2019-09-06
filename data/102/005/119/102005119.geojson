@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.053062,
     "lbl:longitude":39.739445,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.053062,
     "mps:longitude":39.739445,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0633\u0645\u0627\u0646"
     ],
@@ -131,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0441\u043c\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Usman\u2019"
     ],
     "name:war_x_preferred":[
@@ -161,7 +164,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.05,
     "wd:longitude":39.733333,
@@ -176,7 +179,6 @@
     "wof:concordances":{
         "gn:id":478317,
         "gp:id":2101057,
-        "qs:id":194414,
         "qs_pg:id":194414,
         "wd:id":"Q196907",
         "wk:page":"Usman, Russia"
@@ -192,7 +194,7 @@
         }
     ],
     "wof:id":102005119,
-    "wof:lastmodified":1563241378,
+    "wof:lastmodified":1566615635,
     "wof:name":"Usman",
     "wof:parent_id":1108737205,
     "wof:placetype":"locality",

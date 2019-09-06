@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":19745941.575856,
+    "geom:area_square_m":0.0,
     "geom:bbox":"82.888538,54.984009,82.888538,54.984009",
     "geom:latitude":54.984009,
     "geom:longitude":82.888538,
     "gn:latitude":54.98333,
     "gn:longitude":82.88333,
     "iso:country":"RU",
+    "lbl:bbox":"82.883538,54.979009,82.893538,54.989009",
     "lbl:latitude":54.984009,
     "lbl:longitude":82.888538,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.983063,
     "mps:longitude":82.892112,
     "mz:hierarchy_label":0,
@@ -38,10 +40,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u041a\u0440\u0438\u0432\u043e\u0449\u0451\u043a\u043e\u0432\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Krivoshch\u00ebkovo",
-        "Bol'shaya Krivoshch\u00ebkova"
     ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -70,20 +68,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687925,
         102191581,
         85632685,
         102012947,
         874393555,
-        890480483
+        890480483,
+        85687925
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1509712,
         "gp:id":1991145,
-        "qs:id":1045191,
         "qs_pg:id":1045191
     },
     "wof:country":"RU",
@@ -103,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936037,
+    "wof:lastmodified":1566618492,
     "wof:name":"Bol'shaya Krivoshch\u00ebkova",
     "wof:parent_id":102012947,
     "wof:placetype":"neighbourhood",

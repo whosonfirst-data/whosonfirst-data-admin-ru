@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":59.544494,
     "lbl:longitude":30.902918,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.544494,
     "mps:longitude":30.902918,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0633\u0646\u0648"
     ],
@@ -173,7 +176,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":59.55,
     "wd:longitude":30.9,
@@ -189,7 +192,6 @@
     "wof:concordances":{
         "gn:id":481964,
         "gp:id":2123944,
-        "qs:id":810850,
         "qs_pg:id":810850,
         "wd:id":"Q15337",
         "wk:page":"Tosno"
@@ -207,7 +209,7 @@
         }
     ],
     "wof:id":102002511,
-    "wof:lastmodified":1563241534,
+    "wof:lastmodified":1566615687,
     "wof:name":"Tosno",
     "wof:parent_id":890480069,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.933611,
     "lbl:longitude":73.323903,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":54.933611,
     "mps:longitude":73.323903,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Omsk"
     ],
@@ -375,7 +378,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.966667,
     "wd:longitude":73.383333,
@@ -407,7 +410,7 @@
         }
     ],
     "wof:id":102012389,
-    "wof:lastmodified":1563239945,
+    "wof:lastmodified":1566615027,
     "wof:name":"Omsk",
     "wof:parent_id":890480487,
     "wof:placetype":"locality",

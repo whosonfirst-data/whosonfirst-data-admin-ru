@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":23304495.467296,
+    "geom:area_square_m":0.0,
     "geom:bbox":"40.421386,56.146807,40.421386,56.146807",
     "geom:latitude":56.146807,
     "geom:longitude":40.421386,
     "iso:country":"RU",
+    "lbl:bbox":"40.416386,56.141807,40.426386,56.151807",
     "lbl:latitude":56.146807,
     "lbl:longitude":40.421386,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.140465,
     "mps:longitude":40.418469,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "name:eng_x_variant":[
         "Mikhaylovka",
         "Verizino"
-    ],
-    "name:unk_x_variant":[
-        "Verezino"
     ],
     "qs:gn_adm0_cc":"RU",
     "qs:gn_id":0,
@@ -59,14 +58,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687981,
         102191581,
         85632685,
         102002995,
         874393555,
-        890480503
+        890480503,
+        85687981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936051,
+    "wof:lastmodified":1566618496,
     "wof:name":"Verezino",
     "wof:parent_id":102002995,
     "wof:placetype":"neighbourhood",

@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":58.061437,
     "lbl:longitude":60.558482,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":58.061437,
     "mps:longitude":60.558482,
     "mz:hierarchy_label":1,
@@ -122,7 +124,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043d\u044f \u0421\u0430\u043b\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Salda"
     ],
     "name:vep_x_preferred":[
@@ -244,7 +246,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":58.05,
     "wd:longitude":60.55,
@@ -259,7 +261,6 @@
     "wof:concordances":{
         "gn:id":1487277,
         "gp:id":2105646,
-        "qs:id":132771,
         "qs_pg:id":132771,
         "wd:id":"Q133045",
         "wk:page":"Verkhnyaya Salda"
@@ -275,7 +276,7 @@
         }
     ],
     "wof:id":102011723,
-    "wof:lastmodified":1563240785,
+    "wof:lastmodified":1566615399,
     "wof:name":"Verkhnyaya Salda",
     "wof:parent_id":1108737347,
     "wof:placetype":"locality",

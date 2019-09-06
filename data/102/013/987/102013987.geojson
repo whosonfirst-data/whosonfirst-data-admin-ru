@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.554426,
     "lbl:longitude":98.651559,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.554426,
     "mps:longitude":98.651559,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u0632\u0627\u0645\u0627\u064a"
     ],
@@ -124,7 +127,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0437\u0430\u043c\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alzamayskoye"
     ],
     "name:urd_x_preferred":[
@@ -157,7 +160,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.55,
     "wd:longitude":98.666667,
@@ -173,7 +176,6 @@
     "wof:concordances":{
         "gn:id":1511709,
         "gp:id":2120007,
-        "qs:id":912724,
         "qs_pg:id":912724,
         "wd:id":"Q103466",
         "wk:page":"Alzamay"
@@ -191,7 +193,7 @@
         }
     ],
     "wof:id":102013987,
-    "wof:lastmodified":1563240060,
+    "wof:lastmodified":1566615081,
     "wof:name":"Alzamay",
     "wof:parent_id":890483471,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000402,
-    "geom:area_square_m":3036889.738509,
+    "geom:area_square_m":3036889.738511,
     "geom:bbox":"83.3616867065,52.2911186218,83.39087677,52.3148117065",
     "geom:latitude":52.302552,
     "geom:longitude":83.374587,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.302605,
     "lbl:longitude":83.374366,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.302605,
     "mps:longitude":83.374366,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nizhnyaya Gusikha"
     ],
@@ -25,9 +28,6 @@
         "Nizjnjaja Gusikha"
     ],
     "name:rus_x_preferred":[
-        "\u041d\u0438\u0436\u043d\u044f\u044f \u0413\u0443\u0441\u0438\u0445\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041d\u0438\u0436\u043d\u044f\u044f \u0413\u0443\u0441\u0438\u0445\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687835,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102013647,
-    "wof:lastmodified":1501220028,
+    "wof:lastmodified":1566615069,
     "wof:name":"Nizhnyaya Gusikha",
     "wof:parent_id":1108737255,
     "wof:placetype":"locality",

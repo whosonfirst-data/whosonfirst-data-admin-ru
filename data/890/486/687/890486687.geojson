@@ -11,11 +11,15 @@
     "geom:longitude":41.18255,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":4328,
+    "gn:population":4328,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"41.16255,43.8978,41.20255,43.9378",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u041c\u0435\u0434\u043d\u043e\u0433\u043e\u0440\u0441\u043a\u0438"
     ],
@@ -43,9 +47,6 @@
     "name:spa_x_preferred":[
         "Mednogorski"
     ],
-    "name:unk_x_variant":[
-        "\u041c\u0435\u0434\u043d\u043e\u0433\u043e\u0440\u0441\u043a\u0438\u0439"
-    ],
     "qs:name":"Mednogorskiy",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Karachay-Cherkessia Republic",
@@ -65,7 +66,7 @@
     "wof:concordances":{
         "gn:id":864612,
         "gp:id":56452056,
-        "qs:id":543895,
+        "qs_pg:id":543895,
         "wd:id":"Q963052"
     },
     "wof:country":"RU",
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":890486687,
-    "wof:lastmodified":1563262743,
+    "wof:lastmodified":1566630850,
     "wof:name":"Mednogorskiy",
     "wof:parent_id":890486061,
     "wof:placetype":"locality",

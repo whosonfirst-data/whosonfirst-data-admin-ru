@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":46.184358,
     "lbl:longitude":39.33502,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Krasnodarskij kraj",
     "meso:admin1r_en":"JUzhnyj federal'nyj okrug",
     "meso:admin_1":"\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":39.33502,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041b\u0435\u043d\u0456\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -96,9 +99,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u043d\u0456\u043d\u0433\u0440\u0430\u0434\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Leningradsky"
     ],
@@ -106,9 +106,9 @@
         "\u5217\u5be7\u683c\u62c9\u5fb7\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1417",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Stanitsa Leningradskaya",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":1108734899,
-    "wof:lastmodified":1563257109,
+    "wof:lastmodified":1566627228,
     "wof:name":"Leningradskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

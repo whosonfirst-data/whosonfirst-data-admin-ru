@@ -9,13 +9,15 @@
     "geom:bbox":"92.4337768555,58.2190284729,92.5182189941,58.2632217407",
     "geom:latitude":58.241144,
     "geom:longitude":92.479311,
-    "geonames:id":"1496598,1500607",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":65945,
+    "gn:id":"1496598,1500607",
+    "gn:population":65945,
     "iso:country":"RU",
     "lbl:latitude":58.235202,
     "lbl:longitude":92.490501,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":58.235202,
     "mps:longitude":92.490501,
     "mz:hierarchy_label":1,
@@ -129,7 +131,7 @@
     "name:tur_x_preferred":[
         "Lesosibirsk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novomaklakovo"
     ],
     "name:vep_x_preferred":[
@@ -256,7 +258,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":58.233333,
     "wd:longitude":92.483333,
@@ -272,7 +274,7 @@
     "wof:concordances":{
         "gn:id":1500607,
         "gp:id":2121913,
-        "qs:id":273960,
+        "qs_pg:id":273960,
         "wd:id":"Q157566",
         "wk:page":"Lesosibirsk"
     },
@@ -289,7 +291,7 @@
         }
     ],
     "wof:id":102013855,
-    "wof:lastmodified":1563240054,
+    "wof:lastmodified":1566615078,
     "wof:name":"Lesosibirsk",
     "wof:parent_id":1108734929,
     "wof:placetype":"locality",

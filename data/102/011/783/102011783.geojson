@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000527,
-    "geom:area_square_m":3510134.877683,
+    "geom:area_square_m":3510134.877682,
     "geom:bbox":"62.9458045959,57.4053039551,62.9771385193,57.4323043823",
     "geom:latitude":57.419548,
     "geom:longitude":62.96128,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":57.419254,
     "lbl:longitude":62.958453,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.419254,
     "mps:longitude":62.958453,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0413\u043b\u0435\u0434\u044f\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Glyadenova"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -36,7 +39,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688183,
         102191581,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102011783,
-    "wof:lastmodified":1501220058,
+    "wof:lastmodified":1566615399,
     "wof:name":"Glyadenovo",
     "wof:parent_id":1108734011,
     "wof:placetype":"locality",

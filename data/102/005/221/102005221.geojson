@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00124,
-    "geom:area_square_m":9460269.382108,
+    "geom:area_square_m":9460269.382107,
     "geom:bbox":"42.0677032471,51.885383606,42.1127662659,51.9338302612",
     "geom:latitude":51.912244,
     "geom:longitude":42.092255,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.917484,
     "lbl:longitude":42.090719,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.917484,
     "mps:longitude":42.090719,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moiseyevo-Alabushka"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u041c\u043e\u0438\u0441\u0435\u0435\u0432\u043e-\u0410\u043b\u0430\u0431\u0443\u0448\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moyseyevo Alabushka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687829,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102005221,
-    "wof:lastmodified":1501214615,
+    "wof:lastmodified":1566615623,
     "wof:name":"Moiseyevo-Alabushka",
     "wof:parent_id":1108737271,
     "wof:placetype":"locality",

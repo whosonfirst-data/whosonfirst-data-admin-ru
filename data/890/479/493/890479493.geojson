@@ -11,10 +11,14 @@
     "geom:longitude":38.94564,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":10966,
+    "gn:population":10966,
     "iso:country":"RU",
+    "lbl:bbox":"38.92564,61.48707,38.96564,61.52707",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u063a\u0648\u0628\u0648\u0644"
     ],
@@ -135,9 +139,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0433\u043e\u043f\u043e\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0430\u0440\u0433\u043e\u043f\u043e\u043b\u044c"
-    ],
     "name:vep_x_preferred":[
         "Kargopol'"
     ],
@@ -164,7 +165,7 @@
     "wof:concordances":{
         "gn:id":552465,
         "gp:id":2016934,
-        "qs:id":1242846,
+        "qs_pg:id":1242846,
         "wd:id":"Q145261",
         "wk:page":"Kargopol toys"
     },
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":890479493,
-    "wof:lastmodified":1563262562,
+    "wof:lastmodified":1566630763,
     "wof:name":"Kargopol\u2019",
     "wof:parent_id":890482625,
     "wof:placetype":"locality",

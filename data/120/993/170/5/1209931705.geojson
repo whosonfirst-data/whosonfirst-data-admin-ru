@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"42.5847,47.3488,42.6247,47.3888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Russko-Sadovskiy"
     ],
@@ -33,10 +37,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0420\u0443\u0441\u0441\u043a\u043e-\u0421\u0430\u0434\u043e\u0432\u0441\u043a\u0438\u0439"
-    ],
-    "name:und_x_variant":[
-        "\u0420\u0443\u0441\u0441\u043a\u043e-\u0421\u0430\u0434\u043e\u0432\u0441\u043a\u0438\u0439",
-        "Russko-Sadovskiy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":1209931705,
-    "wof:lastmodified":1537691978,
+    "wof:lastmodified":1566624409,
     "wof:name":"Russko-Sadovskiy",
     "wof:parent_id":1108738247,
     "wof:placetype":"locality",

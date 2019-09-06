@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000393,
-    "geom:area_square_m":3108816.307996,
+    "geom:area_square_m":3108816.307994,
     "geom:bbox":"43.8774299622,50.1832580566,43.908744812,50.1977462769",
     "geom:latitude":50.190495,
     "geom:longitude":43.892886,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.190746,
     "lbl:longitude":43.892886,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.190746,
     "mps:longitude":43.892886,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Malodel'skaya"
     ],
@@ -31,9 +34,6 @@
         "\u041c\u0430\u043b\u043e\u0434\u0435\u043b\u044c\u0441\u043a\u0430\u044f",
         "Malodel\u2019skiy",
         "Malodel\u2019naya"
-    ],
-    "name:unk_x_variant":[
-        "Malodel\u2019skiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -51,7 +51,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688101,
         102191581,
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":102006431,
-    "wof:lastmodified":1501214627,
+    "wof:lastmodified":1566615347,
     "wof:name":"Malodel'Skaya",
     "wof:parent_id":1108733541,
     "wof:placetype":"locality",

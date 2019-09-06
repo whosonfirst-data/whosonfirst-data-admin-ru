@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000488,
-    "geom:area_square_m":4178873.248713,
+    "geom:area_square_m":4178873.248712,
     "geom:bbox":"40.0799713135,46.1545829773,40.1261100769,46.1732788086",
     "geom:latitude":46.163474,
     "geom:longitude":40.101672,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":46.164412,
     "lbl:longitude":40.102022,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.164412,
     "mps:longitude":40.102022,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Veselajatind"
     ],
@@ -39,9 +42,6 @@
     "name:swe_x_preferred":[
         "Veselajatind"
     ],
-    "name:unk_x_variant":[
-        "Ves\u00eblaya"
-    ],
     "name:zho_x_preferred":[
         "\u97cb\u8b1d\u62c9\u4e9e\u5c71"
     ],
@@ -61,7 +61,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688029,
         102191581,
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":102007577,
-    "wof:lastmodified":1501214425,
+    "wof:lastmodified":1566615200,
     "wof:name":"Veselaya",
     "wof:parent_id":1108735787,
     "wof:placetype":"locality",

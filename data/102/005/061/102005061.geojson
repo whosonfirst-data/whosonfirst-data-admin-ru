@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.167281,
     "lbl:longitude":40.480279,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.167281,
     "mps:longitude":40.480279,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Dobrinka"
     ],
@@ -43,9 +46,6 @@
     "name:rus_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0438\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u0414\u043e\u0431\u0440\u0438\u043d\u043a\u0430"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041b\u0438\u043f\u0435\u0446\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"4800500000100",
@@ -64,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -76,7 +76,6 @@
     "wof:concordances":{
         "gn:id":565857,
         "gp:id":2120667,
-        "qs:id":194490,
         "qs_pg:id":194490,
         "wd:id":"Q1233430",
         "wk:page":"Dobrinka, Lipetsk Oblast"
@@ -92,7 +91,7 @@
         }
     ],
     "wof:id":102005061,
-    "wof:lastmodified":1563241407,
+    "wof:lastmodified":1566615651,
     "wof:name":"Dobrinka",
     "wof:parent_id":1108733387,
     "wof:placetype":"locality",

@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":61.885183,
     "lbl:longitude":80.582965,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"KHanty-Mansijskij avtonomnyj okrug - JUgra",
     "meso:admin1r_en":"Ural'skij federal'nyj okrug",
     "meso:admin_1":"\u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430",
@@ -53,6 +55,7 @@
     "mps:longitude":80.582965,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -96,9 +99,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0436\u043d\u044c\u043e\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Nizhnevartovsky"
     ],
@@ -106,9 +106,9 @@
         "\u5c3c\u65e5\u6d85\u74e6\u723e\u6258\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"7",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Nizhnevartovsk",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":1108735403,
-    "wof:lastmodified":1563257269,
+    "wof:lastmodified":1566627344,
     "wof:name":"Nizhnevartovskiy",
     "wof:parent_id":85687919,
     "wof:placetype":"county",

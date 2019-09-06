@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000318,
-    "geom:area_square_m":2107945.65429,
+    "geom:area_square_m":2107945.654289,
     "geom:bbox":"48.1025009155,57.6127510071,48.141834259,57.6245536804",
     "geom:latitude":57.619302,
     "geom:longitude":48.120534,
     "iso:country":"RU",
     "lbl:latitude":57.619222,
     "lbl:longitude":48.118938,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.619222,
     "mps:longitude":48.118938,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Poksta"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u041f\u043e\u043a\u0441\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verkhnyaya Poksta"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687903,
         102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102008537,
-    "wof:lastmodified":1501214426,
+    "wof:lastmodified":1566615282,
     "wof:name":"Poksta",
     "wof:parent_id":1108737121,
     "wof:placetype":"locality",

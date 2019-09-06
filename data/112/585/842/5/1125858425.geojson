@@ -9,15 +9,18 @@
     "geom:bbox":"104.2494,56.7032,104.2494,56.7032",
     "geom:latitude":56.7032,
     "geom:longitude":104.2494,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2017,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":2017,
     "iso:country":"RU",
+    "lbl:bbox":"104.2294,56.6832,104.2694,56.7232",
     "lbl:latitude":56.7032,
     "lbl:longitude":104.2494,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:che_x_preferred":[
         "\u0425\u0440\u0435\u0431\u0442\u043e\u0432\u0438"
@@ -37,7 +40,7 @@
     "name:rus_x_preferred":[
         "\u0425\u0440\u0435\u0431\u0442\u043e\u0432\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verkhnyaya Khrebtovaya"
     ],
     "qs_pg:aaroncc":"RU",
@@ -52,7 +55,7 @@
     "qs_pg:qs_id":90442,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688173,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1125858425,
-    "wof:lastmodified":1564129391,
+    "wof:lastmodified":1566631030,
     "wof:name":"Khrebtovaya",
     "wof:parent_id":1108735383,
     "wof:placetype":"locality",

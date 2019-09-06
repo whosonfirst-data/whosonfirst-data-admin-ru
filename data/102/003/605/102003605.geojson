@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":54.915347,
     "lbl:longitude":37.427807,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":54.915347,
     "mps:longitude":37.427807,
     "mz:hierarchy_label":1,
@@ -221,7 +223,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0440\u043f\u0443\u0445\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sierpukhovo"
     ],
     "name:urd_x_preferred":[
@@ -352,7 +354,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.916667,
     "wd:longitude":37.4,
@@ -368,7 +370,6 @@
     "wof:concordances":{
         "gn:id":496527,
         "gp:id":2080608,
-        "qs:id":810591,
         "qs_pg:id":810591,
         "wd:id":"Q194067",
         "wk:page":"Serpukhov"
@@ -386,7 +387,7 @@
         }
     ],
     "wof:id":102003605,
-    "wof:lastmodified":1563241111,
+    "wof:lastmodified":1566615529,
     "wof:name":"Serpukhov",
     "wof:parent_id":890480077,
     "wof:placetype":"locality",

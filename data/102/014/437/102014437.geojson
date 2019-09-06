@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00028,
-    "geom:area_square_m":1824651.462278,
+    "geom:area_square_m":1824651.462276,
     "geom:bbox":"114.316833496,58.1321105957,114.345252991,58.1479148865",
     "geom:latitude":58.139148,
     "geom:longitude":114.329661,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":58.138784,
     "lbl:longitude":114.327969,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.138784,
     "mps:longitude":114.327969,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Andreyevsk"
     ],
@@ -25,9 +28,6 @@
         "Andrejevsk"
     ],
     "name:rus_x_preferred":[
-        "\u0410\u043d\u0434\u0440\u0435\u0435\u0432\u0441\u043a"
-    ],
-    "name:unk_x_variant":[
         "\u0410\u043d\u0434\u0440\u0435\u0435\u0432\u0441\u043a"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688173,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102014437,
-    "wof:lastmodified":1501225182,
+    "wof:lastmodified":1566615102,
     "wof:name":"Andreyevsk",
     "wof:parent_id":1108733025,
     "wof:placetype":"locality",

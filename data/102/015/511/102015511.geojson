@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.046271,
     "lbl:longitude":136.609443,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.046271,
     "mps:longitude":136.609443,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Terney"
     ],
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0440\u043d\u0435\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ternay"
     ],
     "name:zho_x_preferred":[
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":619,
     "wof:belongsto":[
@@ -92,7 +95,6 @@
     "wof:concordances":{
         "gn:id":2015352,
         "gp:id":2095319,
-        "qs:id":137440,
         "qs_pg:id":137440,
         "wd:id":"Q1968169",
         "wk:page":"Terney"
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":102015511,
-    "wof:lastmodified":1563239763,
+    "wof:lastmodified":1566614950,
     "wof:name":"Terney",
     "wof:parent_id":1108736993,
     "wof:placetype":"locality",

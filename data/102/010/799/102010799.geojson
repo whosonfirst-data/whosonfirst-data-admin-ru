@@ -9,17 +9,20 @@
     "geom:bbox":"50.0123901367,52.6981124878,50.0406951904,52.7350845337",
     "geom:latitude":52.717804,
     "geom:longitude":50.028385,
-    "geonames:id":"542435,824366",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":5403,
+    "gn:id":"542435,824366",
+    "gn:population":5403,
     "iso:country":"RU",
     "lbl:latitude":52.715545,
     "lbl:longitude":50.033183,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.715545,
     "mps:longitude":50.033183,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Krasnoarmeiski"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":36,
     "wof:belongsto":[
@@ -84,7 +87,7 @@
     "wof:concordances":{
         "gn:id":824366,
         "gp:id":2028708,
-        "qs:id":275793,
+        "qs_pg:id":275793,
         "wk:page":"Krasnoarmeysky"
     },
     "wof:country":"RU",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":102010799,
-    "wof:lastmodified":1564109140,
+    "wof:lastmodified":1566615467,
     "wof:name":"Krasnoarmeyskoye",
     "wof:parent_id":1108734671,
     "wof:placetype":"locality",

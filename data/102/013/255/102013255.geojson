@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000387,
-    "geom:area_square_m":2838648.917441,
+    "geom:area_square_m":2838648.917439,
     "geom:bbox":"81.5162506104,53.6411323547,81.5615386963,53.6563415527",
     "geom:latitude":53.648386,
     "geom:longitude":81.53848,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.648154,
     "lbl:longitude":81.53848,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.648154,
     "mps:longitude":81.53848,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gonokhovo"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687835,
         102191581,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":102013255,
-    "wof:lastmodified":1501220058,
+    "wof:lastmodified":1566615079,
     "wof:name":"Gonokhovo",
     "wof:parent_id":1108734225,
     "wof:placetype":"locality",

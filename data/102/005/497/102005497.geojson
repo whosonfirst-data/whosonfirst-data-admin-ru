@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.59915,
     "lbl:longitude":37.257413,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.59915,
     "mps:longitude":37.257413,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0426\u0456\u043c"
     ],
@@ -62,7 +65,7 @@
     "qs:type":"\u0440\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688011,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":102005497,
-    "wof:lastmodified":1563241359,
+    "wof:lastmodified":1566615627,
     "wof:name":"Tim",
     "wof:parent_id":1108737017,
     "wof:placetype":"locality",

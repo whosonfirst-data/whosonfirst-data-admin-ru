@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001446,
-    "geom:area_square_m":12344836.138063,
+    "geom:area_square_m":12344836.13806,
     "geom:bbox":"38.7053871155,46.3041648865,38.7761116028,46.3356399536",
     "geom:latitude":46.31888,
     "geom:longitude":38.741263,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":46.320446,
     "lbl:longitude":38.744125,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.320446,
     "mps:longitude":38.744125,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Novoderevyankovskaya"
     ],
@@ -26,9 +29,6 @@
         "Novoderevjankovskaja"
     ],
     "name:rus_x_preferred":[
-        "\u041d\u043e\u0432\u043e\u0434\u0435\u0440\u0435\u0432\u044f\u043d\u043a\u043e\u0432\u0441\u043a\u0430\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u041d\u043e\u0432\u043e\u0434\u0435\u0440\u0435\u0432\u044f\u043d\u043a\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +49,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688029
+        85688029,
+        1108736563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":518944,
         "gp:id":2122487,
-        "qs:id":549445,
         "qs_pg:id":549445
     },
     "wof:country":"RU",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":102007523,
-    "wof:lastmodified":1505338927,
+    "wof:lastmodified":1566615201,
     "wof:name":"Novoderevyankovskaya",
     "wof:parent_id":1108736563,
     "wof:placetype":"locality",

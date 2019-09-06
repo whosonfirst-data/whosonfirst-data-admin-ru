@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":52.754791,
     "lbl:longitude":103.650973,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":52.754791,
     "mps:longitude":103.650973,
     "mz:hierarchy_label":1,
@@ -143,7 +145,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0441\u043e\u043b\u044c\u0454-\u0421\u0438\u0431\u0456\u0440\u0441\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Isol\u2019ye-Sibirskoye"
     ],
     "name:vep_x_preferred":[
@@ -268,7 +270,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.75,
     "wd:longitude":103.65,
@@ -283,7 +285,6 @@
     "wof:concordances":{
         "gn:id":2014022,
         "gp:id":2101097,
-        "qs:id":274095,
         "qs_pg:id":274095,
         "wd:id":"Q196925",
         "wk:page":"Usolye-Sibirskoye"
@@ -299,7 +300,7 @@
         }
     ],
     "wof:id":102014297,
-    "wof:lastmodified":1563240172,
+    "wof:lastmodified":1566615134,
     "wof:name":"Usolye-Sibirskoye",
     "wof:parent_id":1108737209,
     "wof:placetype":"locality",

@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000609,
-    "geom:area_square_m":3746563.553419,
+    "geom:area_square_m":3746563.553417,
     "geom:bbox":"49.4593048096,60.1388893127,49.5257492065,60.1623344421",
     "geom:latitude":60.149531,
     "geom:longitude":49.494072,
     "iso:country":"RU",
     "lbl:latitude":60.150034,
     "lbl:longitude":49.504643,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.150034,
     "mps:longitude":49.504643,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Noshul'"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u041d\u043e\u0448\u0443\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Noshul\u2019"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688077,
         102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102002161,
-    "wof:lastmodified":1501214590,
+    "wof:lastmodified":1566615665,
     "wof:name":"Noshul'",
     "wof:parent_id":1108735979,
     "wof:placetype":"locality",

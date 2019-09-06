@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.11077,
     "lbl:longitude":55.346758,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.11077,
     "mps:longitude":55.346758,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bak_x_preferred":[
         "\u041a\u0443\u0448\u043d\u0430\u0440\u0435\u043d\u043a\u043e"
     ],
@@ -64,7 +67,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0448\u043d\u0430\u0440\u0435\u043d\u043a\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Topornino"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -83,7 +86,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.104927,
     "wd:longitude":55.347912,
@@ -99,7 +102,7 @@
     "wof:concordances":{
         "gn:id":538368,
         "gp:id":2121797,
-        "qs:id":1029725,
+        "qs_pg:id":1029725,
         "wd:id":"Q3792498",
         "wk:page":"Kushnarenkovo"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":102009395,
-    "wof:lastmodified":1563240356,
+    "wof:lastmodified":1566615231,
     "wof:name":"Kushnarenkovo",
     "wof:parent_id":1108734843,
     "wof:placetype":"locality",

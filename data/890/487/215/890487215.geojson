@@ -11,11 +11,15 @@
     "geom:longitude":38.61021,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"38.59021,55.18597,38.63021,55.22597",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nepetsyno"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:rus_x_variant":[
         "\u041d\u0435\u043f\u0435\u0446\u044b\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Nepetsyno"
     ],
     "qs:name":"Nepetsino",
     "qs:name_adm0":"Russia",
@@ -52,7 +53,7 @@
     "wof:concordances":{
         "gn:id":522636,
         "gp:id":2050659,
-        "qs:id":240644
+        "qs_pg:id":240644
     },
     "wof:country":"RU",
     "wof:created":1469054662,
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":890487215,
-    "wof:lastmodified":1505343776,
+    "wof:lastmodified":1566630926,
     "wof:name":"Nepetsino",
     "wof:parent_id":890487041,
     "wof:placetype":"locality",

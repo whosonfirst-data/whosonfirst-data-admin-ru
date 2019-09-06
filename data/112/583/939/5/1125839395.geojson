@@ -9,15 +9,18 @@
     "geom:bbox":"38.54864,45.9461,38.54864,45.9461",
     "geom:latitude":45.9461,
     "geom:longitude":38.54864,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4441,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":4441,
     "iso:country":"RU",
+    "lbl:bbox":"38.52864,45.9261,38.56864,45.9661",
     "lbl:latitude":45.9461,
     "lbl:longitude":38.54864,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ol'ginskaya"
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041e\u043b\u044c\u0433\u0438\u043d\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stanitsa Ol\u2019ginskaya"
     ],
     "qs_pg:aaroncc":"RU",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":80682,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688029,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1125839395,
-    "wof:lastmodified":1509395190,
+    "wof:lastmodified":1566631040,
     "wof:name":"Ol\u2019ginskaya",
     "wof:parent_id":1108735981,
     "wof:placetype":"locality",

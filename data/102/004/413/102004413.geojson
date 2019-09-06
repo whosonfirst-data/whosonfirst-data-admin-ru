@@ -16,6 +16,8 @@
     "iso:country":"RU",
     "lbl:latitude":53.241397,
     "lbl:longitude":34.380185,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":53.241397,
     "mps:longitude":34.380185,
     "mz:hierarchy_label":1,
@@ -276,9 +278,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u044f\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "Brjansk"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u06cc\u0627\u0646\u0633\u06a9"
     ],
@@ -424,7 +423,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.25,
     "wd:longitude":34.366667,
@@ -440,10 +439,12 @@
     "wof:concordances":{
         "gn:id":571476,
         "gp:id":1994944,
-        "qs:id":1121755,
         "qs_pg:id":349715,
         "wd:id":"Q2801",
         "wk:page":"Bryansk"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1121755
     },
     "wof:country":"RU",
     "wof:geomhash":"c39f419045b577a66ac9fbf319766f77",
@@ -458,7 +459,7 @@
         }
     ],
     "wof:id":102004413,
-    "wof:lastmodified":1563241242,
+    "wof:lastmodified":1566615574,
     "wof:name":"Bryansk",
     "wof:parent_id":1108733107,
     "wof:placetype":"locality",

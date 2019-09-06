@@ -11,11 +11,15 @@
     "geom:longitude":19.91104,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":34540,
+    "gn:population":34540,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"19.89104,54.63382,19.93104,54.67382",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u062a\u064a\u064a\u0633\u0643"
     ],
@@ -175,9 +179,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0442\u0456\u0439\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "Baltiisk"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0644\u062a\u06cc\u0633\u06a9"
     ],
@@ -216,7 +217,7 @@
     "wof:concordances":{
         "gn:id":2609906,
         "gp:id":2126041,
-        "qs:id":461277,
+        "qs_pg:id":461277,
         "wd:id":"Q5660",
         "wk:page":"Baltiysk"
     },
@@ -234,7 +235,7 @@
         }
     ],
     "wof:id":890482975,
-    "wof:lastmodified":1563262222,
+    "wof:lastmodified":1566630620,
     "wof:name":"Baltiysk",
     "wof:parent_id":1108732885,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.529415,
     "lbl:longitude":38.050313,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.529415,
     "mps:longitude":38.050313,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u0430\u0440\u0448\u044d\u0447\u0430\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -64,7 +67,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u0448\u0435\u0447\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gorshechnoe"
     ],
     "name:vie_x_preferred":[
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":771,
     "wof:belongsto":[
@@ -104,7 +107,6 @@
     "wof:concordances":{
         "gn:id":559400,
         "gp:id":2120921,
-        "qs:id":1029871,
         "qs_pg:id":1029871,
         "wd:id":"Q2629931"
     },
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":102005569,
-    "wof:lastmodified":1563241336,
+    "wof:lastmodified":1566615615,
     "wof:name":"Gorshechnoye",
     "wof:parent_id":1108733917,
     "wof:placetype":"locality",

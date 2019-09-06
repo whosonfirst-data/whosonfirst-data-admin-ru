@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000647,
-    "geom:area_square_m":4083181.313095,
+    "geom:area_square_m":4083181.31309,
     "geom:bbox":"54.310749054,59.3128051758,54.337638855,59.3474998474",
     "geom:latitude":59.331728,
     "geom:longitude":54.325953,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":59.332001,
     "lbl:longitude":54.325697,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.332001,
     "mps:longitude":54.325697,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Yurla"
     ],
@@ -26,7 +29,7 @@
     "name:rus_x_preferred":[
         "\u042e\u0440\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yurlya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":26,
     "wof:belongsto":[
@@ -60,7 +63,6 @@
     "wof:concordances":{
         "gn:id":466349,
         "gp:id":2124525,
-        "qs:id":80406,
         "qs_pg:id":80406
     },
     "wof:country":"RU",
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":102008199,
-    "wof:lastmodified":1527637247,
+    "wof:lastmodified":1566615286,
     "wof:name":"Yurla",
     "wof:parent_id":1108734151,
     "wof:placetype":"locality",

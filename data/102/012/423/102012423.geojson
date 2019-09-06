@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000717,
-    "geom:area_square_m":5109940.437948,
+    "geom:area_square_m":5109940.437947,
     "geom:bbox":"65.9463043213,54.7804985046,66.0141143799,54.8035850525",
     "geom:latitude":54.7888,
     "geom:longitude":65.982101,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.790166,
     "lbl:longitude":65.982612,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.790166,
     "mps:longitude":65.982612,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Polovinnoye"
     ],
@@ -24,9 +27,6 @@
         "Polovinnoje"
     ],
     "name:rus_x_preferred":[
-        "\u041f\u043e\u043b\u043e\u0432\u0438\u043d\u043d\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u043e\u043b\u043e\u0432\u0438\u043d\u043d\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -45,7 +45,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688157,
@@ -58,7 +58,7 @@
     "wof:concordances":{
         "gn:id":1494523,
         "gp:id":2007857,
-        "qs:id":1302774
+        "qs_pg:id":1302774
     },
     "wof:country":"RU",
     "wof:geomhash":"e6e56f637fe0a631b3e80d8f42d9a5a4",
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":102012423,
-    "wof:lastmodified":1505338939,
+    "wof:lastmodified":1566614992,
     "wof:name":"Polovinnoye",
     "wof:parent_id":1108735925,
     "wof:placetype":"locality",

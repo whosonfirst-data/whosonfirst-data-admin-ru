@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":55.796087,
     "lbl:longitude":49.134548,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tatarstan",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d",
@@ -54,6 +56,7 @@
     "mps:longitude":49.134548,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Ustyuzhenskiy Rayon"
     ],
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1543,
     "wof:belongsto":[
         102191581,
@@ -118,7 +121,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12597540,
-        "qs:id":425062,
+        "qs_pg:id":425062,
         "wk:page":"Ustyuzhensky District"
     },
     "wof:country":"RU",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":890482737,
-    "wof:lastmodified":1564128969,
+    "wof:lastmodified":1566630574,
     "wof:name":"Kazan'",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

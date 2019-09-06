@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001033,
-    "geom:area_square_m":6818388.312525,
+    "geom:area_square_m":6818388.312526,
     "geom:bbox":"46.3593597412,57.7228889465,46.4200553894,57.7550849915",
     "geom:latitude":57.737053,
     "geom:longitude":46.383251,
     "iso:country":"RU",
     "lbl:latitude":57.737696,
     "lbl:longitude":46.375203,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.737696,
     "mps:longitude":46.375203,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khmelevitsy"
     ],
@@ -23,9 +26,6 @@
         "Khmelevitsy"
     ],
     "name:rus_x_preferred":[
-        "\u0425\u043c\u0435\u043b\u0451\u0432\u0438\u0446\u044b"
-    ],
-    "name:unk_x_variant":[
         "\u0425\u043c\u0435\u043b\u0451\u0432\u0438\u0446\u044b"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688057,
         102191581,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":102008505,
-    "wof:lastmodified":1501214693,
+    "wof:lastmodified":1566615258,
     "wof:name":"Khmelevitsy",
     "wof:parent_id":1108733673,
     "wof:placetype":"locality",

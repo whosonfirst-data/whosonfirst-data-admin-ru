@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"45.5919,63.5113,45.6319,63.5513",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gora"
     ],
@@ -91,10 +95,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u0430"
     ],
-    "name:und_x_variant":[
-        "\u0413\u043e\u0440\u0430",
-        "Gora"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85687971,
@@ -120,7 +120,7 @@
         }
     ],
     "wof:id":1259675633,
-    "wof:lastmodified":1564133982,
+    "wof:lastmodified":1566634151,
     "wof:name":"Gora",
     "wof:parent_id":1108735865,
     "wof:placetype":"locality",

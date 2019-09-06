@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":68.910977,
     "lbl:longitude":33.113761,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":68.910977,
     "mps:longitude":33.113761,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u0627"
     ],
@@ -157,7 +160,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gorod Kola"
     ],
     "name:vep_x_preferred":[
@@ -187,7 +190,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":68.883056,
     "wd:longitude":33.021944,
@@ -203,7 +206,6 @@
     "wof:concordances":{
         "gn:id":546554,
         "gp:id":2121463,
-        "qs:id":8480,
         "qs_pg:id":8480,
         "wd:id":"Q154704",
         "wk:page":"Kola, Russia"
@@ -221,7 +223,7 @@
         }
     ],
     "wof:id":102001885,
-    "wof:lastmodified":1563240599,
+    "wof:lastmodified":1566615322,
     "wof:name":"Kola",
     "wof:parent_id":890481183,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000489,
-    "geom:area_square_m":3850510.025289,
+    "geom:area_square_m":3850510.025296,
     "geom:bbox":"127.642715454,50.458366394,127.680786133,50.5022621155",
     "geom:latitude":50.479794,
     "geom:longitude":127.662264,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.475944,
     "lbl:longitude":127.667311,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.475944,
     "mps:longitude":127.667311,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Belogor'ye"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0435\u043b\u043e\u0433\u043e\u0440\u044c\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belogor\u2019e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687951,
         102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102015109,
-    "wof:lastmodified":1501225179,
+    "wof:lastmodified":1566614954,
     "wof:name":"Belogorye",
     "wof:parent_id":1108733017,
     "wof:placetype":"locality",

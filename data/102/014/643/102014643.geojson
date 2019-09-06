@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000371,
-    "geom:area_square_m":2830319.734811,
+    "geom:area_square_m":2830319.73481,
     "geom:bbox":"113.084724426,51.8382759094,113.107444763,51.8652496338",
     "geom:latitude":51.851789,
     "geom:longitude":113.096921,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.851216,
     "lbl:longitude":113.095569,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.851216,
     "mps:longitude":113.095569,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ingoda"
     ],
@@ -25,9 +28,6 @@
         "Ingoda"
     ],
     "name:rus_x_preferred":[
-        "\u0418\u043d\u0433\u043e\u0434\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0418\u043d\u0433\u043e\u0434\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u043f/\u0441\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":211,
     "wof:belongsto":[
         85688005,
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":102014643,
-    "wof:lastmodified":1527636668,
+    "wof:lastmodified":1566615095,
     "wof:name":"Ingoda",
     "wof:parent_id":1108733281,
     "wof:placetype":"locality",

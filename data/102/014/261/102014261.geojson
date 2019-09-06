@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.049881,
     "lbl:longitude":90.904224,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.049881,
     "mps:longitude":90.904224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0627"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":29,
     "wof:belongsto":[
@@ -86,7 +89,6 @@
     "wof:concordances":{
         "gn:id":1510131,
         "gp:id":1989358,
-        "qs:id":133052,
         "qs_pg:id":133052,
         "wd:id":"Q4086137"
     },
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":102014261,
-    "wof:lastmodified":1563240106,
+    "wof:lastmodified":1566615102,
     "wof:name":"Beya",
     "wof:parent_id":1108732919,
     "wof:placetype":"locality",

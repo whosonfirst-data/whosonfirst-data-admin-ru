@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":47.610579,
     "lbl:longitude":38.675988,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.610579,
     "mps:longitude":38.675988,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Novonikolayevka"
     ],
@@ -45,7 +48,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novaya Nikolayevka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -64,7 +67,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":8,
     "wof:belongsto":[
         85688033,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":102007149,
-    "wof:lastmodified":1564108850,
+    "wof:lastmodified":1566615202,
     "wof:name":"Novonikolayevka",
     "wof:parent_id":1108735075,
     "wof:placetype":"locality",

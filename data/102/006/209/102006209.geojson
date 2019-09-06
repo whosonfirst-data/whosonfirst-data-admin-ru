@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000829,
-    "geom:area_square_m":6501429.193941,
+    "geom:area_square_m":6501429.193944,
     "geom:bbox":"42.3943061829,50.6350822449,42.4286651611,50.67811203",
     "geom:latitude":50.65802,
     "geom:longitude":42.408978,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.664961,
     "lbl:longitude":42.407546,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.664961,
     "mps:longitude":42.407546,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rogach\u00ebv"
     ],
@@ -29,9 +32,6 @@
     ],
     "name:rus_x_variant":[
         "\u0420\u043e\u0433\u0430\u0447\u0451\u0432"
-    ],
-    "name:unk_x_variant":[
-        "Rogach\u00ebv"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -49,7 +49,7 @@
     "qs:type":"\u0445",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688101,
         102191581,
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":102006209,
-    "wof:lastmodified":1501214523,
+    "wof:lastmodified":1566615368,
     "wof:name":"Rogachev",
     "wof:parent_id":1108735485,
     "wof:placetype":"locality",

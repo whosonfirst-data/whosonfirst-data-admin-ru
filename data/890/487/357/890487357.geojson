@@ -11,7 +11,7 @@
     "geom:longitude":37.462352,
     "gn:country":"RU",
     "gn:fcode":"ADM2",
-    "gn:pop":19142,
+    "gn:population":19142,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
         "Zaokskiy District"
@@ -33,6 +33,8 @@
     ],
     "lbl:latitude":54.648509,
     "lbl:longitude":37.456912,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tul'skaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u0422\u0443\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -56,6 +58,7 @@
     "mps:longitude":37.456912,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Zaokskiy Rayon"
     ],
@@ -90,9 +93,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u043e\u043a\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0417\u0430\u043e\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Zaoksky"
     ],
@@ -106,9 +106,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"925",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Zaokskiy",
@@ -129,7 +129,7 @@
     "wof:concordances":{
         "gn:id":464992,
         "hasc:id":"RU.TL.ZA",
-        "qs:id":244925,
+        "qs_pg:id":244925,
         "wd:id":"Q2218580"
     },
     "wof:country":"RU",
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":890487357,
-    "wof:lastmodified":1563262906,
+    "wof:lastmodified":1566630919,
     "wof:name":"Zaokskiy",
     "wof:parent_id":85688203,
     "wof:placetype":"county",

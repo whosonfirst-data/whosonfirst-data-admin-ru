@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":44.026195,
     "lbl:longitude":47.000959,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Dagestan",
     "meso:admin1r_en":"Severo-Kavkazskij federal'nyj okrug",
     "meso:admin_1":"\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d",
@@ -53,6 +55,7 @@
     "mps:longitude":47.000959,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ava_x_preferred":[
         "\u0413\u044a\u0438\u0437\u043b\u044f\u0440 \u043c\u0443\u0445\u044a"
     ],
@@ -117,9 +120,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0437\u043b\u044f\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041a\u0438\u0437\u043b\u044f\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Kizlyarsky"
     ],
@@ -130,9 +130,9 @@
         "\u57fa\u8332\u5229\u4e9e\u723e\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"3116",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Kizlyar",
@@ -166,7 +166,7 @@
         }
     ],
     "wof:id":1108734475,
-    "wof:lastmodified":1563256584,
+    "wof:lastmodified":1566626910,
     "wof:name":"Kizljarskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

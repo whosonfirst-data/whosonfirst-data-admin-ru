@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":67.490198,
     "lbl:longitude":64.050183,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":67.490198,
     "mps:longitude":64.050183,
     "mz:hierarchy_label":1,
@@ -353,7 +355,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":67.5,
     "wd:longitude":64.033333,
@@ -369,7 +371,6 @@
     "wof:concordances":{
         "gn:id":1486910,
         "gp:id":2124326,
-        "qs:id":1031431,
         "qs_pg:id":1031431,
         "wd:id":"Q133529",
         "wk:page":"Vorkuta"
@@ -387,7 +388,7 @@
         }
     ],
     "wof:id":102002201,
-    "wof:lastmodified":1563241608,
+    "wof:lastmodified":1566615706,
     "wof:name":"Vorkuta",
     "wof:parent_id":890487129,
     "wof:placetype":"locality",

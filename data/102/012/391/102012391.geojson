@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
-    "geom:area_square_m":1870673.634086,
+    "geom:area_square_m":1870673.634087,
     "geom:bbox":"62.4704170227,54.9012794495,62.5097503662,54.9116096497",
     "geom:latitude":54.907065,
     "geom:longitude":62.492363,
     "iso:country":"RU",
     "lbl:latitude":54.907048,
     "lbl:longitude":62.492363,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.907048,
     "mps:longitude":62.492363,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Martynovka"
     ],
@@ -23,9 +26,6 @@
         "Martynovka"
     ],
     "name:rus_x_preferred":[
-        "\u041c\u0430\u0440\u0442\u044b\u043d\u043e\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041c\u0430\u0440\u0442\u044b\u043d\u043e\u0432\u043a\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688157,
         102191581,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":102012391,
-    "wof:lastmodified":1501220035,
+    "wof:lastmodified":1566614981,
     "wof:name":"",
     "wof:parent_id":1108736355,
     "wof:placetype":"locality",

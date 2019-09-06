@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.958244,
     "lbl:longitude":92.357318,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":55.958244,
     "mps:longitude":92.357318,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0641\u0646\u0648\u063a\u0648\u0631\u0633\u0643"
     ],
@@ -112,7 +115,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0438\u0432\u043d\u043e\u0433\u043e\u0440\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Skit"
     ],
     "name:vep_x_preferred":[
@@ -145,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.95,
     "wd:longitude":92.383333,
@@ -160,7 +163,6 @@
     "wof:concordances":{
         "gn:id":1507379,
         "gp:id":2120650,
-        "qs:id":276580,
         "qs_pg:id":276580,
         "wd:id":"Q135213",
         "wk:page":"Divnogorsk"
@@ -176,7 +178,7 @@
         }
     ],
     "wof:id":102013955,
-    "wof:lastmodified":1563239971,
+    "wof:lastmodified":1566615039,
     "wof:name":"Divnogorsk",
     "wof:parent_id":1108733371,
     "wof:placetype":"locality",

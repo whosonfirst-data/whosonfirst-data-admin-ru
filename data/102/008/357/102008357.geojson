@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001037,
-    "geom:area_square_m":6736517.528221,
+    "geom:area_square_m":6736517.528222,
     "geom:bbox":"47.0545539856,58.2993888855,47.1282234192,58.3264427185",
     "geom:latitude":58.311332,
     "geom:longitude":47.089528,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":58.31116,
     "lbl:longitude":47.092039,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":58.31116,
     "mps:longitude":47.092039,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Leninskoye"
     ],
@@ -26,7 +29,7 @@
     "name:rus_x_preferred":[
         "\u041b\u0435\u043d\u0438\u043d\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Leninskiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":126,
     "wof:belongsto":[
@@ -60,7 +63,6 @@
     "wof:concordances":{
         "gn:id":536035,
         "gp:id":2035965,
-        "qs:id":549617,
         "qs_pg:id":549617
     },
     "wof:country":"RU",
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":102008357,
-    "wof:lastmodified":1527637247,
+    "wof:lastmodified":1566615283,
     "wof:name":"Leninskoye",
     "wof:parent_id":1108736485,
     "wof:placetype":"locality",

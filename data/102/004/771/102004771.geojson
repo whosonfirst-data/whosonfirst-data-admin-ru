@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001399,
-    "geom:area_square_m":10516535.206104,
+    "geom:area_square_m":10516535.206106,
     "geom:bbox":"34.5647773743,52.5477218628,34.6156959534,52.5966949463",
     "geom:latitude":52.57096,
     "geom:longitude":34.591932,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.574209,
     "lbl:longitude":34.591929,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.574209,
     "mps:longitude":34.591929,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:deu_x_preferred":[
         "Lokot"
     ],
@@ -43,9 +46,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043a\u043e\u0442\u044c"
     ],
-    "name:unk_x_variant":[
-        "\u041b\u043e\u043a\u043e\u0442\u044c"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0411\u0440\u044f\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"3200200000100",
@@ -64,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":29,
     "wof:belongsto":[
@@ -77,7 +77,6 @@
     "wof:concordances":{
         "gn:id":534413,
         "gp:id":2037588,
-        "qs:id":874163,
         "qs_pg:id":874163
     },
     "wof:country":"RU",
@@ -91,7 +90,7 @@
         }
     ],
     "wof:id":102004771,
-    "wof:lastmodified":1527637843,
+    "wof:lastmodified":1566615587,
     "wof:name":"Lokot",
     "wof:parent_id":1108733097,
     "wof:placetype":"locality",

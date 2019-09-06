@@ -11,8 +11,11 @@
     "geom:longitude":112.4021,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":15266,
+    "gn:population":15266,
     "iso:country":"RU",
+    "lbl:bbox":"112.3821,66.40989,112.4221,66.44989",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -124,7 +127,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0434\u0430\u0447\u043d\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novyy"
     ],
     "name:urd_x_preferred":[
@@ -247,7 +250,7 @@
     "wof:concordances":{
         "gn:id":2014624,
         "gp:id":12516572,
-        "qs:id":137419,
+        "qs_pg:id":137419,
         "wd:id":"Q196792"
     },
     "wof:country":"RU",
@@ -264,7 +267,7 @@
         }
     ],
     "wof:id":890479181,
-    "wof:lastmodified":1563262523,
+    "wof:lastmodified":1566630747,
     "wof:name":"Udachnyy",
     "wof:parent_id":1108735159,
     "wof:placetype":"locality",

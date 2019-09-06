@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.877163,
     "lbl:longitude":41.898884,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.877163,
     "mps:longitude":41.898884,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Kumysh"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0443\u043c\u044b\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Podgornoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687913,
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":539218,
         "gp:id":2032568,
-        "qs:id":888142,
         "qs_pg:id":888142
     },
     "wof:country":"RU",
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":102016169,
-    "wof:lastmodified":1505338948,
+    "wof:lastmodified":1566615429,
     "wof:name":"Kumysh",
     "wof:parent_id":890487001,
     "wof:placetype":"locality",

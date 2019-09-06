@@ -9,15 +9,18 @@
     "geom:bbox":"38.65264,55.31733,38.65264,55.31733",
     "geom:latitude":55.31733,
     "geom:longitude":38.65264,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":77086,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":77086,
     "iso:country":"RU",
+    "lbl:bbox":"38.63264,55.29733,38.67264,55.33733",
     "lbl:latitude":55.31733,
     "lbl:longitude":38.65264,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u0648\u0633\u0643\u0631\u064a\u0633\u064a\u0646\u0633\u0643"
@@ -181,9 +184,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "Woskressensk"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u0648\u0633\u06a9\u0631\u06cc\u0633\u06cc\u0646\u0633\u06a9"
     ],
@@ -216,7 +216,7 @@
     "qs_pg:woe_adm0":23424936,
     "qs_pg:woe_id":56122440,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424936,
     "woe:name_adm0":"Russia",
@@ -250,7 +250,7 @@
         }
     ],
     "wof:id":1125880309,
-    "wof:lastmodified":1563263111,
+    "wof:lastmodified":1566631013,
     "wof:name":"Voskresenk",
     "wof:parent_id":1108737697,
     "wof:placetype":"locality",

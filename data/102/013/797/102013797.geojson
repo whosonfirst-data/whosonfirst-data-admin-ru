@@ -9,17 +9,20 @@
     "geom:bbox":"79.7583618164,51.6689453125,79.7818908691,51.6840286255",
     "geom:latitude":51.67585,
     "geom:longitude":79.769858,
-    "geonames:id":"1499780,1499779",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":4101,
+    "gn:id":"1499780,1499779",
+    "gn:population":4101,
     "iso:country":"RU",
     "lbl:latitude":51.674133,
     "lbl:longitude":79.770035,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.674133,
     "mps:longitude":79.770035,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Malinovoye Ozero"
     ],
@@ -38,7 +41,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u043b\u0438\u043d\u043e\u0432\u043e\u0435 \u041e\u0437\u0435\u0440\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mikhaylovskiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -61,7 +64,7 @@
     "qs:type":"\u0440\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687835,
@@ -74,7 +77,7 @@
     "wof:concordances":{
         "gn:id":1499779,
         "gp:id":2041127,
-        "qs:id":85140
+        "qs_pg:id":85140
     },
     "wof:country":"RU",
     "wof:geomhash":"453ccd9600c4d993d1e4981e8b31ab69",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":102013797,
-    "wof:lastmodified":1564108673,
+    "wof:lastmodified":1566615032,
     "wof:name":"Malinovoye Ozero",
     "wof:parent_id":1108735133,
     "wof:placetype":"locality",

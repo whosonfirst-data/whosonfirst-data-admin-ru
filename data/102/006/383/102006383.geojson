@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001819,
-    "geom:area_square_m":14371507.522737,
+    "geom:area_square_m":14371507.522739,
     "geom:bbox":"39.2680549622,50.2533340454,39.3314170837,50.3034172058",
     "geom:latitude":50.276562,
     "geom:longitude":39.300526,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.280892,
     "lbl:longitude":39.300027,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.280892,
     "mps:longitude":39.300027,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Ol'khovatka"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041e\u043b\u044c\u0445\u043e\u0432\u0430\u0442\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Olchowatka-marjewka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u0440\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688051,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":515539,
         "gp:id":1991777,
-        "qs:id":1029657
+        "qs_pg:id":1029657
     },
     "wof:country":"RU",
     "wof:geomhash":"2d1f3c2d07f1c21ed3e8c9951f032baf",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102006383,
-    "wof:lastmodified":1505338925,
+    "wof:lastmodified":1566615350,
     "wof:name":"Olkhovatk",
     "wof:parent_id":1108735651,
     "wof:placetype":"locality",

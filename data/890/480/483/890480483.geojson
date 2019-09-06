@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":55.02753,
     "lbl:longitude":82.928354,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Novosibirskaja oblast'",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":82.928354,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u0427\u0438\u0441\u0442\u043e\u043e\u0437\u0451\u0440\u043d\u0438\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -98,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":733,
     "wof:belongsto":[
         102191581,
@@ -109,7 +112,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598864,
-        "qs:id":1312531,
+        "qs_pg:id":1312531,
         "wk:page":"Chistoozyorny District"
     },
     "wof:country":"RU",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":890480483,
-    "wof:lastmodified":1564129335,
+    "wof:lastmodified":1566630956,
     "wof:name":"Novosibirsk",
     "wof:parent_id":85687925,
     "wof:placetype":"county",

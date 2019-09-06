@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.193631,
     "lbl:longitude":42.024382,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.193631,
     "mps:longitude":42.024382,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0414\u0440\u0443\u0436\u0431\u0430"
     ],
@@ -70,9 +73,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0440\u0443\u0436\u0431\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u0414\u0440\u0443\u0436\u0431\u0430"
-    ],
     "name:zho_x_preferred":[
         "\u5fb7\u9b6f\u65e5\u5df4"
     ],
@@ -94,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":127,
     "wof:belongsto":[
@@ -107,7 +107,6 @@
     "wof:concordances":{
         "gn:id":564929,
         "gp:id":2002694,
-        "qs:id":125612,
         "qs_pg:id":125612
     },
     "wof:country":"RU",
@@ -121,7 +120,7 @@
         }
     ],
     "wof:id":102016055,
-    "wof:lastmodified":1564109107,
+    "wof:lastmodified":1566615439,
     "wof:name":"Druzhba",
     "wof:parent_id":1108735977,
     "wof:placetype":"locality",

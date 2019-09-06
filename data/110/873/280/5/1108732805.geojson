@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":53.242401,
     "lbl:longitude":89.759646,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Respublika KHakasija",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0425\u0430\u043a\u0430\u0441\u0438\u044f",
@@ -53,6 +55,7 @@
     "mps:longitude":89.759646,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ces_x_preferred":[
         "Askizsk\u00fd okres"
     ],
@@ -105,9 +108,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0441\u043a\u0438\u0437\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0410\u0441\u043a\u0438\u0437\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Askizsky"
     ],
@@ -118,9 +118,9 @@
         "\u963f\u65af\u57fa\u8332\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"8091",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Askis",
@@ -154,7 +154,7 @@
         }
     ],
     "wof:id":1108732805,
-    "wof:lastmodified":1563256607,
+    "wof:lastmodified":1566626926,
     "wof:name":"Askizskiy",
     "wof:parent_id":85688061,
     "wof:placetype":"county",

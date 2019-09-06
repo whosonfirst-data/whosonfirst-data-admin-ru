@@ -9,11 +9,13 @@
     "geom:bbox":"41.8715553284,57.1850013733,41.9676094055,57.2311935425",
     "geom:latitude":57.209658,
     "geom:longitude":41.923923,
-    "geonames:id":"473788,489021",
+    "gn:id":"473788,489021",
     "gn:population":39071,
     "iso:country":"RU",
     "lbl:latitude":57.209211,
     "lbl:longitude":41.935929,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":57.209211,
     "mps:longitude":41.935929,
     "mz:hierarchy_label":1,
@@ -136,7 +138,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0447\u0443\u0433\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bichuga"
     ],
     "name:vie_x_preferred":[
@@ -258,7 +260,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":57.2,
     "wd:longitude":41.916667,
@@ -273,7 +275,6 @@
     "wof:concordances":{
         "gn:id":473788,
         "gp:id":2124263,
-        "qs:id":124725,
         "qs_pg:id":124725,
         "wd:id":"Q133102",
         "wk:page":"Vichuga"
@@ -289,7 +290,7 @@
         }
     ],
     "wof:id":102002737,
-    "wof:lastmodified":1563241444,
+    "wof:lastmodified":1566615665,
     "wof:name":"Vichuga",
     "wof:parent_id":1108737413,
     "wof:placetype":"locality",

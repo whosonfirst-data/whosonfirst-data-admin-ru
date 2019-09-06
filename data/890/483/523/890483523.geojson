@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":50.347311,
     "lbl:longitude":45.419778,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Volgogradskaja oblast'",
     "meso:admin1r_en":"JUzhnyj federal'nyj okrug",
     "meso:admin_1":"\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":45.419778,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u041a\u0430\u043c\u044b\u0448\u0438\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -88,9 +91,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043c\u0438\u0448\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041a\u0430\u043c\u044b\u0448\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Kamyshinsky"
     ],
@@ -111,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":974,
     "wof:belongsto":[
         102191581,
@@ -122,7 +122,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12599561,
-        "qs:id":989726,
+        "qs_pg:id":989726,
         "wd:id":"Q2222004",
         "wk:page":"Kamyshinsky District"
     },
@@ -139,7 +139,7 @@
         }
     ],
     "wof:id":890483523,
-    "wof:lastmodified":1561832749,
+    "wof:lastmodified":1566630673,
     "wof:name":"Kamyshinskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

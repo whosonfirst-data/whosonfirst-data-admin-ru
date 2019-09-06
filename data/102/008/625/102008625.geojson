@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.284723,
     "lbl:longitude":55.454578,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":57.284723,
     "mps:longitude":55.454578,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0633\u0627"
     ],
@@ -110,9 +113,6 @@
     "name:tur_x_preferred":[
         "Osa"
     ],
-    "name:unk_x_variant":[
-        "\u041e\u0441\u0430"
-    ],
     "name:vep_x_preferred":[
         "Os"
     ],
@@ -140,7 +140,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -152,7 +152,6 @@
     "wof:concordances":{
         "gn:id":514706,
         "gp:id":2122672,
-        "qs:id":1029646,
         "qs_pg:id":1029646,
         "wd:id":"Q176738",
         "wk:page":"Osa, Perm Krai"
@@ -168,7 +167,7 @@
         }
     ],
     "wof:id":102008625,
-    "wof:lastmodified":1563240494,
+    "wof:lastmodified":1566615288,
     "wof:name":"Osa",
     "wof:parent_id":1108735719,
     "wof:placetype":"locality",

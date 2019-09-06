@@ -11,11 +11,15 @@
     "geom:longitude":44.05516,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"44.03516,56.20806,44.07516,56.24806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0424\u0435\u0434\u044f\u043a\u043e\u0432\u043e"
     ],
@@ -29,9 +33,6 @@
         "Fedyakovo"
     ],
     "name:rus_x_preferred":[
-        "\u0424\u0435\u0434\u044f\u043a\u043e\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u0424\u0435\u0434\u044f\u043a\u043e\u0432\u043e"
     ],
     "qs:name":"Fedyakovo",
@@ -54,7 +55,7 @@
     "wof:concordances":{
         "gn:id":562954,
         "gp:id":2005120,
-        "qs:id":1060934,
+        "qs_pg:id":1060934,
         "wd:id":"Q4482367",
         "wk:page":"Fedyakovo"
     },
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":890483899,
-    "wof:lastmodified":1561832749,
+    "wof:lastmodified":1566630667,
     "wof:name":"Fedyakovo",
     "wof:parent_id":890479255,
     "wof:placetype":"locality",

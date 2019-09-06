@@ -11,11 +11,15 @@
     "geom:longitude":47.42391,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":4237,
+    "gn:population":4237,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"47.40391,41.51566,47.44391,41.55566",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ava_x_preferred":[
         "\u0420\u0443\u0442\u0443\u043b"
     ],
@@ -58,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0442\u0443\u043b"
     ],
-    "name:unk_x_variant":[
-        "\u0420\u0443\u0442\u0443\u043b"
-    ],
     "qs:name":"Rutul",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Dagestan Republic",
@@ -81,7 +82,7 @@
     "wof:concordances":{
         "gn:id":500316,
         "gp:id":2123209,
-        "qs:id":1305863,
+        "qs_pg:id":1305863,
         "wd:id":"Q4401188",
         "wk:page":"Rutul"
     },
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":890485851,
-    "wof:lastmodified":1563262002,
+    "wof:lastmodified":1566630537,
     "wof:name":"Rutul",
     "wof:parent_id":1108736333,
     "wof:placetype":"locality",

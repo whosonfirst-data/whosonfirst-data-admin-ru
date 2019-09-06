@@ -11,11 +11,15 @@
     "geom:longitude":48.93056,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":6927,
+    "gn:population":6927,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"48.91056,54.58417,48.95056,54.62417",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430 \u041c\u0430\u0439\u043d\u0430"
     ],
@@ -61,9 +65,6 @@
     "name:tat_x_preferred":[
         "\u0418\u0441\u043a\u0435 \u041c\u0430\u0439\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Staraya Mayna"
-    ],
     "qs:name":"Staraya Malykla",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Ulyanovsk Oblast",
@@ -84,7 +85,7 @@
     "wof:concordances":{
         "gn:id":489135,
         "gp:id":2088818,
-        "qs:id":194387,
+        "qs_pg:id":194387,
         "wd:id":"Q28609",
         "wk:page":"List of districts in Russia"
     },
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":890479869,
-    "wof:lastmodified":1563262506,
+    "wof:lastmodified":1566630741,
     "wof:name":"Staraya Malykla",
     "wof:parent_id":1108736795,
     "wof:placetype":"locality",

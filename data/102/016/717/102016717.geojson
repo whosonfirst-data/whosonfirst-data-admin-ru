@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.163045,
     "lbl:longitude":45.467964,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":43.163045,
     "mps:longitude":45.467964,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "K\u0131\u011f\u0131"
     ],
@@ -71,7 +74,7 @@
     "name:sco_x_preferred":[
         "Geghi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Blagodatnoye"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":168,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":561670,
         "gp:id":2006649,
-        "qs:id":1302740,
         "qs_pg:id":1302740
     },
     "wof:country":"RU",
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":102016717,
-    "wof:lastmodified":1527637602,
+    "wof:lastmodified":1566615463,
     "wof:name":"Gekhi",
     "wof:parent_id":1108737197,
     "wof:placetype":"locality",

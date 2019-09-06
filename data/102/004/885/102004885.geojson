@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.440646,
     "lbl:longitude":35.794234,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.440646,
     "mps:longitude":35.794234,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Trosna"
     ],
@@ -31,7 +34,7 @@
     "name:rus_x_preferred":[
         "\u0422\u0440\u043e\u0441\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yefratovo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":116,
     "wof:belongsto":[
@@ -65,7 +68,6 @@
     "wof:concordances":{
         "gn:id":481439,
         "gp:id":2123971,
-        "qs:id":1248039,
         "qs_pg:id":1248039
     },
     "wof:country":"RU",
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":102004885,
-    "wof:lastmodified":1527637844,
+    "wof:lastmodified":1566615598,
     "wof:name":"Trosna",
     "wof:parent_id":1108737091,
     "wof:placetype":"locality",

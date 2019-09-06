@@ -9,15 +9,18 @@
     "geom:bbox":"51.71545,58.85114,51.71545,58.85114",
     "geom:latitude":58.85114,
     "geom:longitude":51.71545,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1539,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":1539,
     "iso:country":"RU",
+    "lbl:bbox":"51.69545,58.83114,51.73545,58.87114",
     "lbl:latitude":58.85114,
     "lbl:longitude":51.71545,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ch\u00ebrnaya Kholunitsa"
@@ -29,9 +32,6 @@
         "\u0427\u0435\u0440\u043d\u0430\u044f \u0425\u043e\u043b\u0443\u043d\u0438\u0446\u0430"
     ],
     "name:rus_x_variant":[
-        "\u0427\u0451\u0440\u043d\u0430\u044f \u0425\u043e\u043b\u0443\u043d\u0438\u0446\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0427\u0451\u0440\u043d\u0430\u044f \u0425\u043e\u043b\u0443\u043d\u0438\u0446\u0430"
     ],
     "qs_pg:aaroncc":"RU",
@@ -46,7 +46,7 @@
     "qs_pg:qs_id":1029914,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85687903,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1125892173,
-    "wof:lastmodified":1509398866,
+    "wof:lastmodified":1566631015,
     "wof:name":"Ch\u00ebrnaya Kholunitsa",
     "wof:parent_id":1108735681,
     "wof:placetype":"locality",

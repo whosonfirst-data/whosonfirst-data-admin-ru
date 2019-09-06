@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000404,
-    "geom:area_square_m":2656168.587257,
+    "geom:area_square_m":2656168.587255,
     "geom:bbox":"58.3412513733,57.8578872681,58.3782501221,57.876914978",
     "geom:latitude":57.867405,
     "geom:longitude":58.359276,
     "iso:country":"RU",
     "lbl:latitude":57.867868,
     "lbl:longitude":58.359276,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.867868,
     "mps:longitude":58.359276,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bol'shoy Kumysh"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_variant":[
         "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u041a\u0443\u043c\u044b\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kumysh"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687975,
         102191581,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":102008477,
-    "wof:lastmodified":1501214783,
+    "wof:lastmodified":1566615266,
     "wof:name":"",
     "wof:parent_id":1108735003,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.968984,
     "lbl:longitude":54.814877,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.968984,
     "mps:longitude":54.814877,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bak_x_preferred":[
         "\u04a0\u0430\u043b\u0442\u0430\u0441\u044b"
     ],
@@ -61,9 +64,6 @@
     "name:tat_x_preferred":[
         "\u041a\u0430\u043b\u0442\u0430\u0441\u044b"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0430\u043b\u0442\u0430\u0441\u044b"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d",
     "qs:a1_lc":"0202700000100",
@@ -82,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":38,
     "wof:belongsto":[
@@ -95,7 +95,6 @@
     "wof:concordances":{
         "gn:id":553929,
         "gp:id":2015260,
-        "qs:id":80892,
         "qs_pg:id":80892,
         "wd:id":"Q2593978"
     },
@@ -110,7 +109,7 @@
         }
     ],
     "wof:id":102009041,
-    "wof:lastmodified":1563240315,
+    "wof:lastmodified":1566615212,
     "wof:name":"Kaltasy",
     "wof:parent_id":1108734213,
     "wof:placetype":"locality",

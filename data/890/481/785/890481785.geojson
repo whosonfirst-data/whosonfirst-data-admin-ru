@@ -11,7 +11,7 @@
     "geom:longitude":37.506402,
     "gn:country":"RU",
     "gn:fcode":"ADM2",
-    "gn:pop":33906,
+    "gn:population":33906,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
         "Serpukhovskiy District"
@@ -33,6 +33,8 @@
     ],
     "lbl:latitude":54.915706,
     "lbl:longitude":37.566638,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Moskovskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -56,6 +58,7 @@
     "mps:longitude":37.566638,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Serpukhovskiy Rayon"
     ],
@@ -105,12 +108,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0440\u043f\u0443\u0445\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u044c\u043a\u043e\u0457 \u043e\u0431\u043b\u0430\u0441\u0442\u0456"
     ],
-    "name:und_x_variant":[
-        "\u0421\u0435\u0440\u043f\u0443\u0445\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Serpukhovskiy Rayon"
-    ],
     "name:vie_x_preferred":[
         "Serpukhovsky"
     ],
@@ -125,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -136,7 +133,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":496526,
-        "qs:id":1026727,
+        "qs_pg:id":1026727,
         "wd:id":"Q2709592"
     },
     "wof:country":"RU",
@@ -152,7 +149,7 @@
         }
     ],
     "wof:id":890481785,
-    "wof:lastmodified":1563262657,
+    "wof:lastmodified":1566630806,
     "wof:name":"Serpukhovskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001921,
-    "geom:area_square_m":14605687.769586,
+    "geom:area_square_m":14605687.769589,
     "geom:bbox":"84.0716171265,52.0457954407,84.1421508789,52.0843162537",
     "geom:latitude":52.065046,
     "geom:longitude":84.108605,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.0665,
     "lbl:longitude":84.109277,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.0665,
     "mps:longitude":84.109277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Petropavlovskoye"
     ],
@@ -26,9 +29,6 @@
         "Petropavlovskoje"
     ],
     "name:rus_x_preferred":[
-        "\u041f\u0435\u0442\u0440\u043e\u043f\u0430\u0432\u043b\u043e\u0432\u0441\u043a\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u0435\u0442\u0440\u043e\u043f\u0430\u0432\u043b\u043e\u0432\u0441\u043a\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":60,
     "wof:belongsto":[
@@ -62,7 +62,6 @@
     "wof:concordances":{
         "gn:id":1495101,
         "gp:id":2065513,
-        "qs:id":1304132,
         "qs_pg:id":1304132
     },
     "wof:country":"RU",
@@ -76,7 +75,7 @@
         }
     ],
     "wof:id":102013721,
-    "wof:lastmodified":1527636667,
+    "wof:lastmodified":1566615082,
     "wof:name":"Petropavlovskoye",
     "wof:parent_id":1108735843,
     "wof:placetype":"locality",

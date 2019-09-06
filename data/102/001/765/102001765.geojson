@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00036,
-    "geom:area_square_m":3224775.84119,
+    "geom:area_square_m":3224775.841185,
     "geom:bbox":"132.154083252,43.6141395569,132.170440674,43.6402206421",
     "geom:latitude":43.627207,
     "geom:longitude":132.162428,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.627185,
     "lbl:longitude":132.16232,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.627185,
     "mps:longitude":132.16232,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kondratenovka"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u043d\u0434\u0440\u0430\u0442\u0435\u043d\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kondratenkovo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688023,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102001765,
-    "wof:lastmodified":1501225161,
+    "wof:lastmodified":1566615309,
     "wof:name":"Kondratenovka",
     "wof:parent_id":1108737217,
     "wof:placetype":"locality",

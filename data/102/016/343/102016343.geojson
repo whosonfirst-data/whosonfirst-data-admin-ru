@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00026,
-    "geom:area_square_m":2331088.43568,
+    "geom:area_square_m":2331088.435682,
     "geom:bbox":"44.5233612061,43.4562759399,44.5466651917,43.4744987488",
     "geom:latitude":43.464724,
     "geom:longitude":44.536338,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.464119,
     "lbl:longitude":44.53656,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.464119,
     "mps:longitude":44.53656,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Inarki"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0418\u043d\u0430\u0440\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Keskem"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":169,
     "wof:belongsto":[
         85687865,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":102016343,
-    "wof:lastmodified":1527637602,
+    "wof:lastmodified":1566615466,
     "wof:name":"Sovetskoye",
     "wof:parent_id":1108735219,
     "wof:placetype":"locality",

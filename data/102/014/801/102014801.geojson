@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":50.945262,
     "lbl:longitude":115.562808,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.945262,
     "mps:longitude":115.562808,
     "mz:hierarchy_label":1,
@@ -44,7 +46,7 @@
     "name:rus_x_preferred":[
         "\u041e\u043b\u043e\u0432\u044f\u043d\u043d\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Olovyanraya"
     ],
     "ne:ADM0CAP":0.0,
@@ -157,7 +159,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -169,7 +171,6 @@
     "wof:concordances":{
         "gn:id":2018498,
         "gp:id":2122636,
-        "qs:id":277783,
         "qs_pg:id":277783
     },
     "wof:country":"RU",
@@ -183,7 +184,7 @@
         }
     ],
     "wof:id":102014801,
-    "wof:lastmodified":1564108785,
+    "wof:lastmodified":1566615134,
     "wof:name":"Olovyannaya",
     "wof:parent_id":1108735673,
     "wof:placetype":"locality",

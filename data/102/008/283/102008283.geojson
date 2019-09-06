@@ -9,13 +9,15 @@
     "geom:bbox":"59.7701377869,58.607749939,59.8982505798,58.6789169312",
     "geom:latitude":58.641316,
     "geom:longitude":59.824291,
-    "geonames:id":"520204,829005",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":22600,
+    "gn:id":"520204,829005",
+    "gn:population":22600,
     "iso:country":"RU",
     "lbl:latitude":58.649206,
     "lbl:longitude":59.803925,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":58.649206,
     "mps:longitude":59.803925,
     "mz:hierarchy_label":1,
@@ -117,7 +119,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0436\u043d\u044f \u0422\u0443\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nizhnaya Tura"
     ],
     "name:vep_x_preferred":[
@@ -246,7 +248,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":58.620833,
     "wd:longitude":59.847778,
@@ -262,7 +264,7 @@
     "wof:concordances":{
         "gn:id":520204,
         "gp:id":24505181,
-        "qs:id":125085,
+        "qs_pg:id":125085,
         "wd:id":"Q173015",
         "wk:page":"Nizhnyaya Tura"
     },
@@ -279,7 +281,7 @@
         }
     ],
     "wof:id":102008283,
-    "wof:lastmodified":1563240492,
+    "wof:lastmodified":1566615288,
     "wof:name":"Nizhnyaya Tura",
     "wof:parent_id":1108733747,
     "wof:placetype":"locality",

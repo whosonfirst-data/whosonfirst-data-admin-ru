@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":51.626742,
     "lbl:longitude":84.431405,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Altajskij kraj",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":84.431405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Soloneshenskiy Rayon"
     ],
@@ -84,9 +87,6 @@
     "name:rus_x_preferred":[
         "\u0421\u043e\u043b\u043e\u043d\u0435\u0448\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0421\u043e\u043b\u043e\u043d\u0435\u0448\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Soloneshensky"
     ],
@@ -94,9 +94,9 @@
         "\u7d22\u6d1b\u6d85\u7533\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"3640",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Soloneshskoye",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1108736707,
-    "wof:lastmodified":1563257104,
+    "wof:lastmodified":1566627225,
     "wof:name":"Soloneshenskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

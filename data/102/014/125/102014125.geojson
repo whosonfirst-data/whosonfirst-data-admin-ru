@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.928615,
     "lbl:longitude":91.795392,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.928615,
     "mps:longitude":91.795392,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0413\u0430\u0440\u0430\u0434\u043e\u043a"
     ],
@@ -90,7 +93,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":69,
     "wof:belongsto":[
         85688139,
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":102014125,
-    "wof:lastmodified":1564108791,
+    "wof:lastmodified":1566615140,
     "wof:name":"Gorodok",
     "wof:parent_id":1108735153,
     "wof:placetype":"locality",

@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":63.996878,
     "lbl:longitude":54.100989,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Komi",
     "meso:name_alt2":"Respublika Komi",
     "meso:name_local":"\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043c\u0438",
@@ -333,10 +334,6 @@
         "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u043e\u043c\u0456"
     ],
     "name:und_x_variant":[
-        "Respublika Komi",
-        "Komi"
-    ],
-    "name:unk_x_variant":[
         "Komi ASSR"
     ],
     "name:urd_x_preferred":[
@@ -447,9 +444,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"415,900",
     "statoids:area_mi":"160,600",
     "statoids:as_of_date":"2010-10-14",
@@ -514,11 +511,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734414,
+    "wof:lastmodified":1566618527,
     "wof:name":"Komi",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":901189,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-ru",

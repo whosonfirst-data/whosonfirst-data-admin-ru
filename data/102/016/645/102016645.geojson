@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.292723,
     "lbl:longitude":45.863787,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":43.292723,
     "mps:longitude":45.863787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u063a\u0646"
     ],
@@ -157,7 +160,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0433\u0443\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ustar-Gordoy"
     ],
     "name:urd_x_preferred":[
@@ -196,7 +199,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -208,7 +211,6 @@
     "wof:concordances":{
         "gn:id":581126,
         "gp:id":2120073,
-        "qs:id":275094,
         "qs_pg:id":275094,
         "wd:id":"Q103703",
         "wk:page":"Argun, Chechen Republic"
@@ -224,7 +226,7 @@
         }
     ],
     "wof:id":102016645,
-    "wof:lastmodified":1563240873,
+    "wof:lastmodified":1566615433,
     "wof:name":"Argun",
     "wof:parent_id":1108732769,
     "wof:placetype":"locality",

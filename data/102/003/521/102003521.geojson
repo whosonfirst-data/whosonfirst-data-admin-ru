@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.124817,
     "lbl:longitude":40.197609,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.124817,
     "mps:longitude":40.197609,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0628\u0627\u0633-\u0643\u0644\u0628\u064a\u0643\u064a"
     ],
@@ -121,9 +124,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043f\u0430\u0441-\u041a\u043b\u0435\u043f\u0438\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u043f\u0430\u0441-\u041a\u043b\u0435\u043f\u0438\u043a\u0438"
-    ],
     "name:war_x_preferred":[
         "Spas-Klepiki"
     ],
@@ -148,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.133333,
     "wd:longitude":40.166667,
@@ -164,7 +164,6 @@
     "wof:concordances":{
         "gn:id":489862,
         "gp:id":2123615,
-        "qs:id":1255880,
         "qs_pg:id":1255880,
         "wd:id":"Q196439",
         "wk:page":"Spas-Klepiki"
@@ -182,7 +181,7 @@
         }
     ],
     "wof:id":102003521,
-    "wof:lastmodified":1563241133,
+    "wof:lastmodified":1566615536,
     "wof:name":"Spas-Klepiki",
     "wof:parent_id":890483545,
     "wof:placetype":"locality",

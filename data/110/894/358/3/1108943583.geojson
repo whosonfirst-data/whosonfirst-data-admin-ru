@@ -10,8 +10,10 @@
     "geom:latitude":59.820366,
     "geom:longitude":30.116989,
     "iso:country":"RU",
+    "lbl:bbox":"30.111988837,59.8153657117,30.121988837,59.8253657117",
     "lbl:latitude":59.820366,
     "lbl:longitude":30.116989,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432\u0441\u043a\u043e\u0435"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108943583,
-    "wof:lastmodified":1510870347,
+    "wof:lastmodified":1566627420,
     "wof:name":"Konstantinovskoye",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

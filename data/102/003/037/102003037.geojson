@@ -9,18 +9,20 @@
     "geom:bbox":"43.0258903503,55.9311103821,43.1501121521,56.0000839233",
     "geom:latitude":55.960027,
     "geom:longitude":43.092355,
-    "geonames:id":"512089,827329",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":63338,
-    "gn:population":2,
+    "gn:id":"512089,827329",
+    "gn:population":63338,
     "iso:country":"RU",
     "lbl:latitude":55.967742,
     "lbl:longitude":43.101766,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":55.967742,
     "mps:longitude":43.101766,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0641\u0644\u0648\u0641\u0648"
     ],
@@ -138,9 +140,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0432\u043b\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u041f\u0430\u0432\u043b\u043e\u0432\u043e"
-    ],
     "name:vie_x_preferred":[
         "Pavlovo"
     ],
@@ -172,7 +171,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1335,
     "wof:belongsto":[
@@ -185,10 +184,12 @@
     "wof:concordances":{
         "gn:id":512089,
         "gp:id":2122772,
-        "qs:id":276171,
-        "qs_pg:id":1151695,
+        "qs_pg:id":276171,
         "wd:id":"Q177839",
         "wk:page":"Pavlovo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1151695
     },
     "wof:country":"RU",
     "wof:geomhash":"f81224edd64d1a7e461443b3e00f2331",
@@ -201,7 +202,7 @@
         }
     ],
     "wof:id":102003037,
-    "wof:lastmodified":1563241124,
+    "wof:lastmodified":1566615533,
     "wof:name":"Pavlovo",
     "wof:parent_id":1108735789,
     "wof:placetype":"locality",

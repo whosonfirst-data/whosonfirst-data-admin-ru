@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.659861,
     "lbl:longitude":39.880825,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":55.659861,
     "mps:longitude":39.880825,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u0634\u0627\u0644"
     ],
@@ -119,7 +122,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0448\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Roshal\u2019"
     ],
     "name:war_x_preferred":[
@@ -149,7 +152,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -161,7 +164,6 @@
     "wof:concordances":{
         "gn:id":501320,
         "gp:id":2075290,
-        "qs:id":1247987,
         "qs_pg:id":1247987,
         "wd:id":"Q193363",
         "wk:page":"Roshal (town)"
@@ -177,7 +179,7 @@
         }
     ],
     "wof:id":102003207,
-    "wof:lastmodified":1563241184,
+    "wof:lastmodified":1566615554,
     "wof:name":"Roshal",
     "wof:parent_id":1108733855,
     "wof:placetype":"locality",

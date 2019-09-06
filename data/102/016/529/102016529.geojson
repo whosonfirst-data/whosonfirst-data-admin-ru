@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000162,
-    "geom:area_square_m":1438027.153707,
+    "geom:area_square_m":1438027.153706,
     "geom:bbox":"45.5733070374,44.285446167,45.5907516479,44.2984733582",
     "geom:latitude":44.291965,
     "geom:longitude":45.582104,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.292064,
     "lbl:longitude":45.582104,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.292064,
     "mps:longitude":45.582104,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kun'bator"
     ],
@@ -30,7 +33,7 @@
     "name:rus_x_variant":[
         "\u041a\u0443\u043d\u044c\u0431\u0430\u0442\u043e\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kultay"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688197,
         102191581,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102016529,
-    "wof:lastmodified":1501214652,
+    "wof:lastmodified":1566615443,
     "wof:name":"Kun'Bator",
     "wof:parent_id":1108735465,
     "wof:placetype":"locality",

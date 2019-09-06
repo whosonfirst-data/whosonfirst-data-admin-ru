@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00028,
-    "geom:area_square_m":2494882.78243,
+    "geom:area_square_m":2494882.782431,
     "geom:bbox":"43.6162109375,43.8374671936,43.6541519165,43.8498344421",
     "geom:latitude":43.842599,
     "geom:longitude":43.63377,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.841879,
     "lbl:longitude":43.633409,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.841879,
     "mps:longitude":43.633409,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Staropavlovskaya"
     ],
@@ -26,9 +29,6 @@
         "Staropavlovskaja"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u0442\u0430\u0440\u043e\u043f\u0430\u0432\u043b\u043e\u0432\u0441\u043a\u0430\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u0442\u0430\u0440\u043e\u043f\u0430\u0432\u043b\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +49,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687825
+        85687825,
+        1108734455
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":488706,
         "gp:id":2123659,
-        "qs:id":80539,
         "qs_pg:id":80539
     },
     "wof:country":"RU",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":102016185,
-    "wof:lastmodified":1505338948,
+    "wof:lastmodified":1566615466,
     "wof:name":"Staropavlovskaya",
     "wof:parent_id":1108734455,
     "wof:placetype":"locality",

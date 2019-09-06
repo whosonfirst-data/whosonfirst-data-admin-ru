@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000316,
-    "geom:area_square_m":2190292.903349,
+    "geom:area_square_m":2190292.903346,
     "geom:bbox":"37.9707756042,55.8390579224,38.008026123,55.8621711731",
     "geom:latitude":55.850604,
     "geom:longitude":37.989168,
@@ -15,14 +15,17 @@
     "iso:country":"RU",
     "lbl:latitude":55.850746,
     "lbl:longitude":37.989168,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":55.850746,
     "mps:longitude":37.989168,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0414\u043e\u043b\u0433\u043e\u0435 \u041b\u0435\u0434\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Staroye Ledovo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -41,7 +44,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688161,
@@ -54,7 +57,7 @@
     "wof:concordances":{
         "gn:id":565522,
         "gp:id":55874665,
-        "qs:id":280881
+        "qs_pg:id":280881
     },
     "wof:country":"RU",
     "wof:geomhash":"d4da328da0eb61db7efaa3e62380ae17",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102003121,
-    "wof:lastmodified":1505338918,
+    "wof:lastmodified":1566615539,
     "wof:name":"Maloye Ledovo",
     "wof:parent_id":1108736571,
     "wof:placetype":"locality",

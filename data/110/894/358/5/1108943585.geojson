@@ -10,8 +10,10 @@
     "geom:latitude":59.859004,
     "geom:longitude":30.167572,
     "iso:country":"RU",
+    "lbl:bbox":"30.1625717482,59.8540040753,30.1725717482,59.8640040753",
     "lbl:latitude":59.859004,
     "lbl:longitude":30.167572,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:rus_x_preferred":[
         "\u042e\u0436\u043d\u043e-\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0439"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108943585,
-    "wof:lastmodified":1510870345,
+    "wof:lastmodified":1566627420,
     "wof:name":"Yuzhno-Primorsky",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

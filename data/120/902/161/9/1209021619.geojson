@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"33.20028,55.77333,33.24028,55.81333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632685
@@ -34,7 +38,7 @@
         "gn:id":814892
     },
     "wof:country":"RU",
-    "wof:geomhash":"4aa342be528421347348cec3d558c276",
+    "wof:geomhash":"9e2f75126f53c323858fbbfe1d5ec88d",
     "wof:hierarchy":[
         {
             "country_id":85632685,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209021619,
-    "wof:lastmodified":1536300130,
+    "wof:lastmodified":1566624589,
     "wof:name":"Podberez'ye",
     "wof:parent_id":85632685,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.220279999999995,
+    33.22028,
     55.79333000000001,
-    33.220279999999995,
+    33.22028,
     55.79333000000001
 ],
   "geometry": {"coordinates":[33.22028,55.79333000000001],"type":"Point"}

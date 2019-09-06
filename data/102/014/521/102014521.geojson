@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000261,
-    "geom:area_square_m":1962604.651647,
+    "geom:area_square_m":1962604.651648,
     "geom:bbox":"116.746612549,52.5016670227,116.767417908,52.5209732056",
     "geom:latitude":52.511836,
     "geom:longitude":116.756681,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.512957,
     "lbl:longitude":116.755839,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.512957,
     "mps:longitude":116.755839,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Novoil'inskoye"
     ],
@@ -30,7 +33,7 @@
     "name:rus_x_variant":[
         "\u041d\u043e\u0432\u043e\u0438\u043b\u044c\u0438\u043d\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novoil\u2019insk"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688005,
         102191581,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102014521,
-    "wof:lastmodified":1501225151,
+    "wof:lastmodified":1566615109,
     "wof:name":"Novoilinsk",
     "wof:parent_id":1108733267,
     "wof:placetype":"locality",

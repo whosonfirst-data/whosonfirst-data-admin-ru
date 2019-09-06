@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.118501,
     "lbl:longitude":107.267964,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.118501,
     "mps:longitude":107.267964,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Il'inka"
     ],
@@ -31,7 +34,7 @@
     "name:rus_x_preferred":[
         "\u0418\u043b\u044c\u0438\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Il\u2019inskyi Istochnik"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -50,7 +53,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2190,
     "wof:belongsto":[
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":102014581,
-    "wof:lastmodified":1563240123,
+    "wof:lastmodified":1566615110,
     "wof:name":"Il'Inka",
     "wof:parent_id":1108735971,
     "wof:placetype":"locality",

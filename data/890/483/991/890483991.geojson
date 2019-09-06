@@ -11,11 +11,15 @@
     "geom:longitude":30.15883,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"30.13883,60.49111,30.17883,60.53111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0436\u0438\u043b\u043e\u0432\u043e"
     ],
@@ -23,9 +27,6 @@
         "Miettil\u00e4"
     ],
     "name:rus_x_preferred":[
-        "\u041d\u043e\u0432\u043e\u0436\u0438\u043b\u043e\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u041d\u043e\u0432\u043e\u0436\u0438\u043b\u043e\u0432\u043e"
     ],
     "qs:name":"Novozhilovo",
@@ -47,7 +48,7 @@
     "wof:concordances":{
         "gn:id":517287,
         "gp:id":2057604,
-        "qs:id":1061038
+        "qs_pg:id":1061038
     },
     "wof:country":"RU",
     "wof:created":1469054492,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":890483991,
-    "wof:lastmodified":1564129017,
+    "wof:lastmodified":1566630623,
     "wof:name":"Novozhilovo",
     "wof:parent_id":890486233,
     "wof:placetype":"locality",

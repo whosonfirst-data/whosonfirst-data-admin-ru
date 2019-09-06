@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001357,
-    "geom:area_square_m":9413702.628917,
+    "geom:area_square_m":9413702.628915,
     "geom:bbox":"37.4296900326,55.8321435719,37.4743652344,55.8960950533",
     "geom:latitude":55.860842,
     "geom:longitude":37.449488,
@@ -14,6 +14,7 @@
     "iso:country":"RU",
     "lbl:latitude":55.854801,
     "lbl:longitude":37.4555,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.85785,
     "mps:longitude":37.45287,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
-        "Zakharkovo"
-    ],
-    "name:unk_x_variant":[
         "Zakharkovo"
     ],
     "qs:gn_adm0_cc":"RU",
@@ -56,7 +54,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85632685,
@@ -68,7 +66,7 @@
     "wof:concordances":{
         "gn:id":465476,
         "gp:id":2115375,
-        "qs:id":222721
+        "qs_pg:id":222721
     },
     "wof:country":"RU",
     "wof:geomhash":"608ffc71188eb1414562ca33c8b68529",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1507660062,
+    "wof:lastmodified":1566618494,
     "wof:name":"Zakharkovo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

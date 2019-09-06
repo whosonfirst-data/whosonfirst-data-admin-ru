@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":47.950307,
     "lbl:longitude":44.666241,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.950307,
     "mps:longitude":44.666241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041c\u0430\u043b\u044b\u044f \u0414\u0437\u044f\u0440\u0431\u0435\u0442\u044b"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":47.954722,
     "wd:longitude":44.680833,
@@ -100,7 +103,6 @@
     "wof:concordances":{
         "gn:id":530196,
         "gp:id":2122086,
-        "qs:id":275975,
         "qs_pg:id":275975,
         "wd:id":"Q4278606",
         "wk:page":"Malye Derbety"
@@ -116,7 +118,7 @@
         }
     ],
     "wof:id":102007059,
-    "wof:lastmodified":1563240275,
+    "wof:lastmodified":1566615191,
     "wof:name":"Malyye Derbety",
     "wof:parent_id":1108735033,
     "wof:placetype":"locality",

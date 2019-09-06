@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.831277,
     "lbl:longitude":108.265898,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.831277,
     "mps:longitude":108.265898,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0632\u064a\u063a\u0631\u0627\u064a\u064a\u0641\u0648"
     ],
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0456\u0433\u0440\u0430\u0454\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zaigrayeva"
     ],
     "name:urd_x_preferred":[
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":968,
     "wof:belongsto":[
@@ -89,7 +92,6 @@
     "wof:concordances":{
         "gn:id":2012735,
         "gp:id":2115281,
-        "qs:id":90346,
         "qs_pg:id":90346,
         "wd:id":"Q4184166"
     },
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":102014647,
-    "wof:lastmodified":1563240152,
+    "wof:lastmodified":1566615125,
     "wof:name":"Zaigrayevo",
     "wof:parent_id":1108737807,
     "wof:placetype":"locality",

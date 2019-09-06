@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000818,
-    "geom:area_square_m":6174387.477458,
+    "geom:area_square_m":6174387.477462,
     "geom:bbox":"44.4783554077,52.3436775208,44.5492591858,52.3622131348",
     "geom:latitude":52.352446,
     "geom:longitude":44.514522,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.352845,
     "lbl:longitude":44.518742,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.352845,
     "mps:longitude":44.518742,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Buturlinka"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687995,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102004941,
-    "wof:lastmodified":1501214776,
+    "wof:lastmodified":1566615586,
     "wof:name":"Buturlinka",
     "wof:parent_id":1108733471,
     "wof:placetype":"locality",

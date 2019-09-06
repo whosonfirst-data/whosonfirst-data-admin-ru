@@ -9,15 +9,18 @@
     "geom:bbox":"59.98507,60.34842,59.98507,60.34842",
     "geom:latitude":60.34842,
     "geom:longitude":59.98507,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7270,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":7270,
     "iso:country":"RU",
+    "lbl:bbox":"59.96507,60.32842,60.00507,60.36842",
     "lbl:latitude":60.34842,
     "lbl:longitude":59.98507,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Cher\u00ebmukhovo"
@@ -29,9 +32,6 @@
         "\u0427\u0435\u0440\u0435\u043c\u0443\u0445\u043e\u0432\u043e"
     ],
     "name:rus_x_variant":[
-        "\u0427\u0435\u0440\u0451\u043c\u0443\u0445\u043e\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u0427\u0435\u0440\u0451\u043c\u0443\u0445\u043e\u0432\u043e"
     ],
     "qs_pg:aaroncc":"RU",
@@ -46,7 +46,7 @@
     "qs_pg:qs_id":549942,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688183,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1126045011,
-    "wof:lastmodified":1509408802,
+    "wof:lastmodified":1566631005,
     "wof:name":"Cher\u00ebmukhovo",
     "wof:parent_id":1108736477,
     "wof:placetype":"locality",

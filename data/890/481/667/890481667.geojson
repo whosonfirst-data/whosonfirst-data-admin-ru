@@ -11,9 +11,12 @@
     "geom:longitude":83.3045,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":61827,
+    "gn:population":61827,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"83.2845,54.6166,83.3245,54.6566",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -124,9 +127,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0406\u0441\u043a\u0456\u0442\u0438\u043c"
-    ],
-    "name:unk_x_variant":[
-        "\u0418\u0441\u043a\u0438\u0442\u0438\u043c"
     ],
     "name:vep_x_preferred":[
         "Iskitim"
@@ -256,7 +256,7 @@
     "wof:concordances":{
         "gn:id":1505429,
         "gp:id":2121055,
-        "qs:id":973331,
+        "qs_pg:id":973331,
         "wd:id":"Q143274",
         "wk:page":"Iskitim"
     },
@@ -274,7 +274,7 @@
         }
     ],
     "wof:id":890481667,
-    "wof:lastmodified":1563262643,
+    "wof:lastmodified":1566630799,
     "wof:name":"Iskitim",
     "wof:parent_id":1108734029,
     "wof:placetype":"locality",

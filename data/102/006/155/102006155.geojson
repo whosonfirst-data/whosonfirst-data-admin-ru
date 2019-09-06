@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000863,
-    "geom:area_square_m":6746318.666825,
+    "geom:area_square_m":6746318.666824,
     "geom:bbox":"37.5492515564,50.7641944885,37.6141395569,50.7872772217",
     "geom:latitude":50.774257,
     "geom:longitude":37.586772,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":50.773085,
     "lbl:longitude":37.588985,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.773085,
     "mps:longitude":37.588985,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041f\u043e\u043a\u0440\u043e\u0432\u043e-\u041c\u0430\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pokrovo-Mikhayovka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +43,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687813,
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":102006155,
-    "wof:lastmodified":1501214544,
+    "wof:lastmodified":1566615359,
     "wof:name":"Pokrove-Maikhaylovka",
     "wof:parent_id":1108735523,
     "wof:placetype":"locality",

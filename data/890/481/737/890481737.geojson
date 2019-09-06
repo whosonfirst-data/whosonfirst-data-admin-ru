@@ -11,11 +11,15 @@
     "geom:longitude":36.95063,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"36.93063,55.75085,36.97063,55.79085",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041b\u0456\u043f\u043a\u0456"
     ],
@@ -40,9 +44,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043f\u043a\u0456"
     ],
-    "name:unk_x_variant":[
-        "\u041b\u0438\u043f\u043a\u0438"
-    ],
     "qs:name":"Lipki",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Kaluga Oblast",
@@ -63,7 +64,7 @@
     "wof:concordances":{
         "gn:id":535083,
         "gp:id":2036880,
-        "qs:id":383999,
+        "qs_pg:id":383999,
         "wk:page":"Lipki"
     },
     "wof:country":"RU",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":890481737,
-    "wof:lastmodified":1564129173,
+    "wof:lastmodified":1566630785,
     "wof:name":"Lipki",
     "wof:parent_id":1108735599,
     "wof:placetype":"locality",

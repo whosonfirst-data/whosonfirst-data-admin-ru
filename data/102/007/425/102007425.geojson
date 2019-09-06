@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000322,
-    "geom:area_square_m":2734908.711302,
+    "geom:area_square_m":2734908.711301,
     "geom:bbox":"38.313999176,46.6460266113,38.3435287476,46.6654167175",
     "geom:latitude":46.655561,
     "geom:longitude":38.327798,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":46.65411,
     "lbl:longitude":38.329256,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.65411,
     "mps:longitude":38.329256,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Shirochanskoye"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0428\u0438\u0440\u043e\u0447\u0430\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shirochanka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688029,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":494249,
         "gp:id":2083063,
-        "qs:id":80568
+        "qs_pg:id":80568
     },
     "wof:country":"RU",
     "wof:geomhash":"0e34ac91e1f0ce9fe9a4c9ff955bfe5f",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102007425,
-    "wof:lastmodified":1505338927,
+    "wof:lastmodified":1566615152,
     "wof:name":"Shirochanskoye",
     "wof:parent_id":1108733469,
     "wof:placetype":"locality",

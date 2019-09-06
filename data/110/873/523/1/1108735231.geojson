@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":51.876427,
     "lbl:longitude":42.53506,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tambovskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":42.53506,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041c\u0443\u0447\u043a\u0430\u043f\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -93,9 +96,6 @@
     "name:rus_x_preferred":[
         "\u041c\u0443\u0447\u043a\u0430\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041c\u0443\u0447\u043a\u0430\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Muchkapsky"
     ],
@@ -103,9 +103,9 @@
         "\u7a46\u5947\u5361\u666e\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1197",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Muchkanskiy",
@@ -139,7 +139,7 @@
         }
     ],
     "wof:id":1108735231,
-    "wof:lastmodified":1563257330,
+    "wof:lastmodified":1566627383,
     "wof:name":"Muchkapskiy",
     "wof:parent_id":85687829,
     "wof:placetype":"county",

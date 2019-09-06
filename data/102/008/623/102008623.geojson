@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.29306,
     "lbl:longitude":54.973748,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.29306,
     "mps:longitude":54.973748,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u0427\u0430\u0441\u0442\u0438"
     ],
@@ -41,9 +44,6 @@
     "name:rus_x_preferred":[
         "\u0427\u0430\u0441\u0442\u044b\u0435"
     ],
-    "name:unk_x_variant":[
-        "\u0427\u0430\u0441\u0442\u044b\u0435"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
     "qs:a1_lc":"5902600000100",
@@ -62,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +74,6 @@
     "wof:concordances":{
         "gn:id":569794,
         "gp:id":2120485,
-        "qs:id":125659,
         "qs_pg:id":125659,
         "wd:id":"Q2949619"
     },
@@ -89,7 +88,7 @@
         }
     ],
     "wof:id":102008623,
-    "wof:lastmodified":1563240498,
+    "wof:lastmodified":1566615290,
     "wof:name":"Chastyye",
     "wof:parent_id":1108733191,
     "wof:placetype":"locality",

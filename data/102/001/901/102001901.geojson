@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":67.915112,
     "lbl:longitude":32.83069,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":67.915112,
     "mps:longitude":32.83069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u062a\u0634\u064a\u063a\u0648\u0631\u0633\u0643"
     ],
@@ -151,7 +154,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0447\u0435\u0433\u043e\u0440\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moncha Guba"
     ],
     "name:vep_x_preferred":[
@@ -181,7 +184,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":67.939444,
     "wd:longitude":32.915556,
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":102001901,
-    "wof:lastmodified":1563240549,
+    "wof:lastmodified":1566615308,
     "wof:name":"Monchegorsk",
     "wof:parent_id":890483467,
     "wof:placetype":"locality",

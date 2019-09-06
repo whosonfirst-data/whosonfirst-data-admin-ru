@@ -9,17 +9,20 @@
     "geom:bbox":"35.9761047363,50.5834617615,36.0608558655,50.6203269958",
     "geom:latitude":50.601006,
     "geom:longitude":36.018093,
-    "geonames:id":"572500,805775",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":14253,
+    "gn:id":"572500,805775",
+    "gn:population":14253,
     "iso:country":"RU",
     "lbl:latitude":50.601527,
     "lbl:longitude":36.018093,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.601527,
     "mps:longitude":36.018093,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u064a\u0633\u0648\u0641\u0643\u0627"
     ],
@@ -62,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u043a\u0430"
-    ],
     "name:zho_x_preferred":[
         "\u9c8d\u91cc\u7d22\u592b\u5361"
     ],
@@ -90,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":19,
     "wof:belongsto":[
@@ -104,10 +104,12 @@
     "wof:concordances":{
         "gn:id":1509958,
         "gp:id":1993702,
-        "qs:id":129700,
-        "qs_pg:id":870326,
+        "qs_pg:id":129700,
         "wd:id":"Q893831",
         "wk:page":"Borisovka"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":870326
     },
     "wof:country":"RU",
     "wof:geomhash":"d9905c04c519f2f409438ddf91098405",
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":102006237,
-    "wof:lastmodified":1563240704,
+    "wof:lastmodified":1566615371,
     "wof:name":"Borisovka",
     "wof:parent_id":890478353,
     "wof:placetype":"locality",

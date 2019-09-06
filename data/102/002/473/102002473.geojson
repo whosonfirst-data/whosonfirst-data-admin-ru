@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":59.881296,
     "lbl:longitude":30.99846,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.881296,
     "mps:longitude":30.99846,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0631\u0648\u0641\u0633\u0643"
     ],
@@ -131,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0440\u043e\u0432\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pervoye Gorodok"
     ],
     "name:vep_x_preferred":[
@@ -161,7 +164,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687861,
@@ -174,7 +177,6 @@
     "wof:concordances":{
         "gn:id":548392,
         "gp:id":2121389,
-        "qs:id":125360,
         "qs_pg:id":125360,
         "wd:id":"Q15273",
         "wk:page":"Kirovsk, Leningrad Oblast"
@@ -192,7 +194,7 @@
         }
     ],
     "wof:id":102002473,
-    "wof:lastmodified":1563241591,
+    "wof:lastmodified":1566615701,
     "wof:name":"Kirovsk",
     "wof:parent_id":890484443,
     "wof:placetype":"locality",

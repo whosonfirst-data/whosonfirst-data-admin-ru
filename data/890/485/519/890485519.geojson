@@ -11,11 +11,15 @@
     "geom:longitude":41.06014,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":2877,
+    "gn:population":2877,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"41.04014,56.70535,41.08014,56.74535",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Novyye Gorki"
     ],
@@ -23,9 +27,6 @@
         "\u041d\u043e\u0432.\u0413\u043e\u0440\u043a\u0438"
     ],
     "name:rus_x_variant":[
-        "\u041d\u043e\u0432\u044b\u0435 \u0413\u043e\u0440\u043a\u0438"
-    ],
-    "name:unk_x_variant":[
         "\u041d\u043e\u0432\u044b\u0435 \u0413\u043e\u0440\u043a\u0438"
     ],
     "qs:name":"Novyye Gorki",
@@ -47,7 +48,7 @@
     "wof:concordances":{
         "gn:id":517144,
         "gp:id":2058107,
-        "qs:id":870501
+        "qs_pg:id":870501
     },
     "wof:country":"RU",
     "wof:created":1469054564,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":890485519,
-    "wof:lastmodified":1505343768,
+    "wof:lastmodified":1566630541,
     "wof:name":"Novyye Gorki",
     "wof:parent_id":1108734943,
     "wof:placetype":"locality",

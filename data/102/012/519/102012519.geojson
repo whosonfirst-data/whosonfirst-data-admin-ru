@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.78234,
     "lbl:longitude":73.879282,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.78234,
     "mps:longitude":73.879282,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Russkaja Poljana"
     ],
@@ -30,9 +33,6 @@
         "Russkaja Poljana"
     ],
     "name:rus_x_preferred":[
-        "\u0420\u0443\u0441\u0441\u043a\u0430\u044f \u041f\u043e\u043b\u044f\u043d\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0420\u0443\u0441\u0441\u043a\u0430\u044f \u041f\u043e\u043b\u044f\u043d\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -53,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":90,
     "wof:belongsto":[
@@ -66,7 +66,6 @@
     "wof:concordances":{
         "gn:id":1493423,
         "gp:id":2076220,
-        "qs:id":132860,
         "qs_pg:id":132860
     },
     "wof:country":"RU",
@@ -80,7 +79,7 @@
         }
     ],
     "wof:id":102012519,
-    "wof:lastmodified":1527636471,
+    "wof:lastmodified":1566615002,
     "wof:name":"Russkaya Polyana",
     "wof:parent_id":1108736331,
     "wof:placetype":"locality",

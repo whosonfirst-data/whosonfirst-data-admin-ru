@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":49.924916,
     "lbl:longitude":38.898462,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.924916,
     "mps:longitude":38.898462,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0420\u0430\u0432\u044f\u043d\u044c\u043a\u0456"
     ],
@@ -60,9 +63,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0432\u0435\u043d\u044c\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "\u0420\u043e\u0432\u0435\u043d\u044c\u043a\u0438"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"3101700000100",
@@ -79,7 +79,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":22,
     "wof:belongsto":[
         85687813,
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":102006535,
-    "wof:lastmodified":1563240634,
+    "wof:lastmodified":1566615337,
     "wof:name":"Rovenki",
     "wof:parent_id":1108736315,
     "wof:placetype":"locality",

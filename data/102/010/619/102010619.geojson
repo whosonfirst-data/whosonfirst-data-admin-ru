@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000199,
-    "geom:area_square_m":1477393.780334,
+    "geom:area_square_m":1477393.780335,
     "geom:bbox":"49.8409996033,53.0904998779,49.8619155884,53.1061096191",
     "geom:latitude":53.098089,
     "geom:longitude":49.851157,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":53.098247,
     "lbl:longitude":49.851157,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.098247,
     "mps:longitude":49.851157,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041c\u043e\u0440\u0434\u043e\u0432\u0441\u043a\u0438\u0435 \u041b\u0438\u043f\u044f\u0433\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lipyagi Mordovskiye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -37,7 +40,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687781,
         102191581,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102010619,
-    "wof:lastmodified":1501214613,
+    "wof:lastmodified":1566615476,
     "wof:name":"Mordovskiye Lipyagi",
     "wof:parent_id":890484437,
     "wof:placetype":"locality",

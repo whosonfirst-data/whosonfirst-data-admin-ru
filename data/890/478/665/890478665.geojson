@@ -11,10 +11,14 @@
     "geom:longitude":111.72194,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":605,
+    "gn:population":605,
     "iso:country":"RU",
+    "lbl:bbox":"111.70194,57.62278,111.74194,57.66278",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Gorno-Chuyskiy"
     ],
@@ -22,9 +26,6 @@
         "Gorno-Tsjujskij"
     ],
     "name:rus_x_preferred":[
-        "\u0413\u043e\u0440\u043d\u043e-\u0427\u0443\u0439\u0441\u043a\u0438\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u0413\u043e\u0440\u043d\u043e-\u0427\u0443\u0439\u0441\u043a\u0438\u0439"
     ],
     "qs:name":"Gorno-Chuyskiy",
@@ -43,7 +44,7 @@
     "wof:concordances":{
         "gn:id":2023930,
         "gp:id":2008789,
-        "qs:id":90460
+        "qs_pg:id":90460
     },
     "wof:country":"RU",
     "wof:created":1469054197,
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":890478665,
-    "wof:lastmodified":1505343733,
+    "wof:lastmodified":1566630513,
     "wof:name":"Gorno-Chuyskiy",
     "wof:parent_id":1108735049,
     "wof:placetype":"locality",

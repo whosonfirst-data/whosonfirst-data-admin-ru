@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":56.342193,
     "lbl:longitude":30.51888,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":56.342193,
     "mps:longitude":30.51888,
     "mz:hierarchy_label":1,
@@ -115,7 +117,7 @@
         "\u30f4\u30a7\u30ea\u30fc\u30ad\u30a8\u30fb\u30eb\u30fc\u30ad"
     ],
     "name:kan_x_preferred":[
-        "\u0cb5\u0cc6\u0cb2\u0cbf\u0c95\u0cbf\u0caf\u0ccd  \u0cb2\u0cc1\u0c95\u0cbf"
+        "\u0cb5\u0cc6\u0cb2\u0cbf\u0c95\u0cbf\u0caf\u0ccd \u0cb2\u0cc1\u0c95\u0cbf"
     ],
     "name:kir_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0438\u0435 \u041b\u0443\u043a\u0438"
@@ -215,9 +217,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0456 \u041b\u0443\u043a\u0438"
-    ],
-    "name:unk_x_variant":[
-        "Welikije Luki"
     ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0644\u06cc\u06a9\u06cc\u06cc \u0644\u0648\u06a9\u06cc"
@@ -347,7 +346,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.35,
     "wd:longitude":30.516667,
@@ -363,7 +362,6 @@
     "wof:concordances":{
         "gn:id":476077,
         "gp:id":2103878,
-        "qs:id":8434,
         "qs_pg:id":8434,
         "wd:id":"Q101825",
         "wk:page":"Velikiye Luki"
@@ -381,7 +379,7 @@
         }
     ],
     "wof:id":102002911,
-    "wof:lastmodified":1563241625,
+    "wof:lastmodified":1566615709,
     "wof:name":"Velikiye Luki",
     "wof:parent_id":1108737317,
     "wof:placetype":"locality",

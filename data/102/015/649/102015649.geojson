@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.891062,
     "lbl:longitude":44.082545,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.891062,
     "mps:longitude":44.082545,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Novaja \u017diz\u0148"
     ],
@@ -45,9 +48,6 @@
     "name:tur_x_preferred":[
         "Novaya \u015eisn"
     ],
-    "name:unk_x_variant":[
-        "\u041d\u043e\u0432\u0430\u044f \u0416\u0438\u0437\u043d\u044c"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
     "qs:a1_lc":"2600700000600",
@@ -64,7 +64,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":43,
     "wof:belongsto":[
         85687825,
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":102015649,
-    "wof:lastmodified":1563239791,
+    "wof:lastmodified":1566614961,
     "wof:name":"Novaya Zhizn'",
     "wof:parent_id":1108733115,
     "wof:placetype":"locality",

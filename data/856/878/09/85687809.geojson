@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":58.448843,
     "lbl:longitude":82.021582,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Tomsk",
     "meso:name_alt2":"Tomskaja oblast'",
     "meso:name_local":"\u0422\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -284,10 +285,6 @@
         "\u0422\u043e\u043c\u0441\u044c\u043a"
     ],
     "name:und_x_variant":[
-        "Tomskaja oblast'",
-        "Tomsk"
-    ],
-    "name:unk_x_variant":[
         "Tomsk Oblast\u2019"
     ],
     "name:urd_x_preferred":[
@@ -374,9 +371,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"316,900",
     "statoids:area_mi":"122,400",
     "statoids:as_of_date":"2010-10-14",
@@ -438,11 +435,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734453,
+    "wof:lastmodified":1566618600,
     "wof:name":"Tomsk",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":1047394,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

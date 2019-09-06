@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000625,
-    "geom:area_square_m":3599528.018483,
+    "geom:area_square_m":3599528.018484,
     "geom:bbox":"49.9672241211,62.2123069763,50.0252227783,62.2326393127",
     "geom:latitude":62.223276,
     "geom:longitude":49.996406,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":62.223721,
     "lbl:longitude":49.991169,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.223721,
     "mps:longitude":49.991169,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Aykino"
     ],
@@ -24,9 +27,6 @@
         "Ajkino"
     ],
     "name:rus_x_preferred":[
-        "\u0410\u0439\u043a\u0438\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u0410\u0439\u043a\u0438\u043d\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,18 +47,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688077
+        85688077,
+        1108737263
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":580182,
         "gp:id":1998062,
-        "qs:id":1248344,
         "qs_pg:id":1248344
     },
     "wof:country":"RU",
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102002021,
-    "wof:lastmodified":1505338912,
+    "wof:lastmodified":1566615702,
     "wof:name":"Aykino",
     "wof:parent_id":1108737263,
     "wof:placetype":"locality",

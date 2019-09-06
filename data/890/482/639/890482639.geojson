@@ -11,11 +11,15 @@
     "geom:longitude":37.97738,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":11000,
+    "gn:population":11000,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"37.95738,55.58806,37.99738,55.62806",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u041e\u043a\u0442\u044f\u0431\u044a\u0440\u0441\u043a\u0438"
     ],
@@ -49,9 +53,6 @@
     "name:rus_x_preferred":[
         "\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
-        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439"
-    ],
     "qs:name":"Oktyabr'skiy",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Moscow Oblast",
@@ -77,10 +78,12 @@
     "wof:concordances":{
         "gn:id":515873,
         "gp:id":2059159,
-        "qs:id":446438,
-        "qs_pg:id":1180452,
+        "qs_pg:id":446438,
         "wd:id":"Q986585",
         "wk:page":"Oktyabrsky"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1180452
     },
     "wof:country":"RU",
     "wof:created":1469054428,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890482639,
-    "wof:lastmodified":1563262195,
+    "wof:lastmodified":1566630611,
     "wof:name":"Oktyabr'skiy",
     "wof:parent_id":1108734963,
     "wof:placetype":"locality",

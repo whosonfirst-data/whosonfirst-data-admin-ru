@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.030332,
     "lbl:longitude":145.857329,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.030332,
     "mps:longitude":145.857329,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u042e\u0436\u043d\u0430-\u041a\u0443\u0440\u044b\u043b\u044c\u0441\u043a"
     ],
@@ -88,7 +91,7 @@
     "name:swe_x_preferred":[
         "Juzjno-Kurilsk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kokamappu"
     ],
     "name:urd_x_preferred":[
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1553,
     "wof:belongsto":[
@@ -131,7 +134,6 @@
     "wof:concordances":{
         "gn:id":2119447,
         "gp:id":90600399,
-        "qs:id":138491,
         "qs_pg:id":138491,
         "wd:id":"Q600699"
     },
@@ -153,7 +155,7 @@
         }
     ],
     "wof:id":102001835,
-    "wof:lastmodified":1563240569,
+    "wof:lastmodified":1566615314,
     "wof:name":"Yuzhno-Kurilsk",
     "wof:parent_id":1108739855,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.628911,
     "lbl:longitude":41.317037,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.628911,
     "mps:longitude":41.317037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0633\u0643\u0648\u0631\u0628\u0646\u0627\u064a\u0627"
     ],
@@ -49,7 +52,7 @@
     "name:spa_x_preferred":[
         "Besk\u00f3rbnaya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bezskorbnaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":252,
     "wof:belongsto":[
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":576672,
         "gp:id":2120289,
-        "qs:id":550000,
         "qs_pg:id":550000,
         "wd:id":"Q830222",
         "wk:page":"Besskorbnaya"
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":102015843,
-    "wof:lastmodified":1563239732,
+    "wof:lastmodified":1566614938,
     "wof:name":"Besskorbnaya",
     "wof:parent_id":1108735505,
     "wof:placetype":"locality",

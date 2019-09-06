@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":61.004344,
     "lbl:longitude":36.454037,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":61.004344,
     "mps:longitude":36.454037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u062a\u064a\u063a\u0631\u0627"
     ],
@@ -119,9 +122,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0442\u0435\u0433\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Vitegra"
-    ],
     "name:vep_x_preferred":[
         "Vitegr"
     ],
@@ -149,7 +149,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":61.0,
     "wd:longitude":36.45,
@@ -165,7 +165,6 @@
     "wof:concordances":{
         "gn:id":469960,
         "gp:id":2124408,
-        "qs:id":8519,
         "qs_pg:id":8519,
         "wd:id":"Q105392",
         "wk:page":"Vytegra"
@@ -183,7 +182,7 @@
         }
     ],
     "wof:id":102002101,
-    "wof:lastmodified":1563241567,
+    "wof:lastmodified":1566615694,
     "wof:name":"Vytegra",
     "wof:parent_id":890483547,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.259701,
     "lbl:longitude":39.151091,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":53.259701,
     "mps:longitude":39.151091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0646\u0643\u0648\u0641"
     ],
@@ -115,7 +118,7 @@
     "name:tur_x_preferred":[
         "Dankov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dankovo"
     ],
     "name:vie_x_preferred":[
@@ -148,7 +151,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.25,
     "wd:longitude":39.15,
@@ -163,7 +166,6 @@
     "wof:concordances":{
         "gn:id":567109,
         "gp:id":2120608,
-        "qs:id":125639,
         "qs_pg:id":125639,
         "wd:id":"Q134776",
         "wk:page":"Dankov"
@@ -179,7 +181,7 @@
         }
     ],
     "wof:id":102004397,
-    "wof:lastmodified":1563241231,
+    "wof:lastmodified":1566615571,
     "wof:name":"Dankov",
     "wof:parent_id":1108733345,
     "wof:placetype":"locality",

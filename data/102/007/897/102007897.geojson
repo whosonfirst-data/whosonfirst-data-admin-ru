@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000811,
-    "geom:area_square_m":7049916.752767,
+    "geom:area_square_m":7049916.75277,
     "geom:bbox":"37.0793037415,45.2918319702,37.1294174194,45.3303337097",
     "geom:latitude":45.312327,
     "geom:longitude":37.101101,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.312973,
     "lbl:longitude":37.101481,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.312973,
     "mps:longitude":37.101481,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Akhtanizovskaya"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0410\u0445\u0442\u0430\u043d\u0438\u0437\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Achtanisowskaja"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +52,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688029
+        85688029,
+        1108736977
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":583811,
         "gp:id":1980500,
-        "qs:id":945549,
         "qs_pg:id":945549
     },
     "wof:country":"RU",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102007897,
-    "wof:lastmodified":1505338929,
+    "wof:lastmodified":1566615195,
     "wof:name":"Akhtanizovskaya",
     "wof:parent_id":1108736977,
     "wof:placetype":"locality",

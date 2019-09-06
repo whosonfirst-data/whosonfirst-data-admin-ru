@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.064136,
     "lbl:longitude":93.604776,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.064136,
     "mps:longitude":93.604776,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Arschan"
     ],
@@ -66,7 +69,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0436\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Uyuk"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -85,7 +88,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":252,
     "wof:belongsto":[
         85688039,
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":102014333,
-    "wof:lastmodified":1563240145,
+    "wof:lastmodified":1566615120,
     "wof:name":"Arzhaan",
     "wof:parent_id":1108735861,
     "wof:placetype":"locality",

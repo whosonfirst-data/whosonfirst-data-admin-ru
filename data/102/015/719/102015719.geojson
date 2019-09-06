@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000845,
-    "geom:area_square_m":7409527.084035,
+    "geom:area_square_m":7409527.084036,
     "geom:bbox":"40.7099151611,44.8138885498,40.738445282,44.8545265198",
     "geom:latitude":44.831527,
     "geom:longitude":40.722573,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.829665,
     "lbl:longitude":40.722845,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.829665,
     "mps:longitude":40.722845,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Konstantinovskaya"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Konstantinowskaja"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":91,
     "wof:belongsto":[
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":545275,
         "gp:id":2025346,
-        "qs:id":80834,
         "qs_pg:id":80834
     },
     "wof:country":"RU",
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":102015719,
-    "wof:lastmodified":1527636467,
+    "wof:lastmodified":1566614975,
     "wof:name":"Konstantinovskaya",
     "wof:parent_id":1108734825,
     "wof:placetype":"locality",

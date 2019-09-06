@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.036512,
     "lbl:longitude":41.770966,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.036512,
     "mps:longitude":41.770966,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Khabez"
     ],
@@ -49,9 +52,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0431\u0435\u0437"
     ],
-    "name:unk_x_variant":[
-        "\u0425\u0430\u0431\u0435\u0437"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
     "qs:a1_lc":"0900900000100",
@@ -70,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":302,
     "wof:belongsto":[
@@ -83,7 +83,6 @@
     "wof:concordances":{
         "gn:id":550868,
         "gp:id":2121299,
-        "qs:id":783858,
         "qs_pg:id":783858,
         "wd:id":"Q4494375",
         "wk:page":"Khabez"
@@ -99,7 +98,7 @@
         }
     ],
     "wof:id":102016113,
-    "wof:lastmodified":1563240948,
+    "wof:lastmodified":1566615464,
     "wof:name":"Khabez",
     "wof:parent_id":1108734339,
     "wof:placetype":"locality",

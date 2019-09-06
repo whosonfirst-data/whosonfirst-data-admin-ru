@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.892893,
     "lbl:longitude":37.449452,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":55.892893,
     "mps:longitude":37.449452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u062e\u064a\u0645\u0643\u064a"
     ],
@@ -226,7 +229,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0456\u043c\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moskau-Chimki"
     ],
     "name:urd_x_preferred":[
@@ -262,7 +265,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.889167,
     "wd:longitude":37.445,
@@ -277,7 +280,6 @@
     "wof:concordances":{
         "gn:id":550280,
         "gp:id":2019547,
-        "qs:id":1146188,
         "qs_pg:id":1146188,
         "wd:id":"Q197582",
         "wk:page":"Khimki"
@@ -293,7 +295,7 @@
         }
     ],
     "wof:id":102003099,
-    "wof:lastmodified":1563241119,
+    "wof:lastmodified":1566615531,
     "wof:name":"Khimki",
     "wof:parent_id":1108733773,
     "wof:placetype":"locality",

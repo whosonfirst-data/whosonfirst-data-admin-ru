@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000536,
-    "geom:area_square_m":4028281.168687,
+    "geom:area_square_m":4028281.16869,
     "geom:bbox":"39.4780845642,52.5631370544,39.5243606567,52.587387085",
     "geom:latitude":52.574297,
     "geom:longitude":39.500061,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.57403,
     "lbl:longitude":39.500061,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.57403,
     "mps:longitude":39.500061,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Syrskoye"
     ],
@@ -29,7 +32,7 @@
         "\u0421\u044b\u0440\u0441\u043a\u043e\u0435",
         "\u0421\u0443\u0440\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sirskaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -48,7 +51,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687917,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":485153,
         "gp:id":2114507,
-        "qs:id":458807
+        "qs_pg:id":458807
     },
     "wof:country":"RU",
     "wof:geomhash":"3dbd6436a33737f57e0699ccceb6218c",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":102004781,
-    "wof:lastmodified":1505338922,
+    "wof:lastmodified":1566615608,
     "wof:name":"Syrskoye",
     "wof:parent_id":1108734949,
     "wof:placetype":"locality",

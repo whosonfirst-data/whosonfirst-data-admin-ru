@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":61.790287,
     "lbl:longitude":34.342324,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":61.790287,
     "mps:longitude":34.342324,
     "mz:hierarchy_label":1,
@@ -423,7 +425,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":61.783333,
     "wd:longitude":34.35,
@@ -440,13 +442,12 @@
     "wof:concordances":{
         "gn:id":509820,
         "gp:id":2122867,
-        "qs:id":349533,
         "qs_pg:id":349533,
         "wd:id":"Q1895",
         "wk:page":"Petrozavodsk"
     },
     "wof:concordances_alt":{
-        "qs:id":224313
+        "qs_pg:id":224313
     },
     "wof:country":"RU",
     "wof:geomhash":"d40847d7297d50bcd79860459066a27c",
@@ -461,7 +462,7 @@
         }
     ],
     "wof:id":102002041,
-    "wof:lastmodified":1563241467,
+    "wof:lastmodified":1566615670,
     "wof:name":"Petrozavodsk",
     "wof:parent_id":890480009,
     "wof:placetype":"locality",

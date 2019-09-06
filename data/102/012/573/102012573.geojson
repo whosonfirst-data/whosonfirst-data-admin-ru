@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":58.323521,
     "lbl:longitude":82.913762,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":58.323521,
     "mps:longitude":82.913762,
     "mz:hierarchy_label":1,
@@ -129,7 +131,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043b\u043f\u0430\u0448\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kolpashev"
     ],
     "name:vep_x_preferred":[
@@ -254,7 +256,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":58.316667,
     "wd:longitude":82.916667,
@@ -269,7 +271,6 @@
     "wof:concordances":{
         "gn:id":1502862,
         "gp:id":2024334,
-        "qs:id":273963,
         "qs_pg:id":273963,
         "wd:id":"Q154725",
         "wk:page":"Kolpashevo"
@@ -285,7 +286,7 @@
         }
     ],
     "wof:id":102012573,
-    "wof:lastmodified":1563239893,
+    "wof:lastmodified":1566615006,
     "wof:name":"Kolpashevo",
     "wof:parent_id":1108734539,
     "wof:placetype":"locality",

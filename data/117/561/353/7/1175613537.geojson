@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":46.554791,
     "lbl:longitude":39.624441,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.554791,
     "mps:longitude":39.624441,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u041a\u0443\u0448\u0447\u043e\u045e\u0441\u043a\u0430\u044f"
     ],
@@ -67,7 +70,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0449\u0435\u0432\u0441\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuschewskaja"
     ],
     "name:zho_x_preferred":[
@@ -89,7 +92,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":364,
     "wof:belongsto":[
@@ -104,7 +107,7 @@
     "wof:concordances":{
         "gn:id":538416,
         "gp:id":2033454,
-        "qs:id":1029748,
+        "qs_pg:id":1029748,
         "wd:id":"Q1006076",
         "wk:page":"Kushchyovskaya"
     },
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1175613537,
-    "wof:lastmodified":1563257424,
+    "wof:lastmodified":1566627434,
     "wof:name":"Kushchevskaya",
     "wof:parent_id":1108734841,
     "wof:placetype":"locality",

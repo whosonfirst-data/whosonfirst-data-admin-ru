@@ -9,14 +9,17 @@
     "geom:bbox":"37.1597213745,55.9389457703,37.2110557556,55.988609314",
     "geom:latitude":55.96575,
     "geom:longitude":37.186405,
-    "geonames:id":"463829,540161",
+    "gn:id":"463829,540161",
     "iso:country":"RU",
     "lbl:latitude":55.966127,
     "lbl:longitude":37.186407,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.966127,
     "mps:longitude":37.186407,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041a\u0440\u044e\u043a\u043e\u0432\u043e"
     ],
@@ -42,7 +45,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         85688085,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":102003051,
-    "wof:lastmodified":1564109236,
+    "wof:lastmodified":1566615558,
     "wof:name":"Kryukovo",
     "wof:parent_id":1108736123,
     "wof:placetype":"locality",

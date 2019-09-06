@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":49.426689,
     "lbl:longitude":133.866595,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"KHabarovskij kraj",
     "meso:admin1r_en":"Dal'nevostochnyj federal'nyj okrug",
     "meso:admin_1":"\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":133.866595,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0425\u0430\u0431\u0430\u0440\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -90,9 +93,6 @@
     "name:tat_x_preferred":[
         "\u0425\u0430\u0431\u0430\u0440\u0430\u0443 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
-    "name:und_x_variant":[
-        "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Khabarovsky"
     ],
@@ -100,7 +100,7 @@
         "\u54c8\u5df4\u7f85\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687937,
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":1108734333,
-    "wof:lastmodified":1563257176,
+    "wof:lastmodified":1566627272,
     "wof:name":"Khabarovskiy",
     "wof:parent_id":85687937,
     "wof:placetype":"county",

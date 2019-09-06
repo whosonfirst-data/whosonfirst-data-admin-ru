@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000516,
-    "geom:area_square_m":3697977.347142,
+    "geom:area_square_m":3697977.347143,
     "geom:bbox":"36.6484184265,54.6004714966,36.6876945496,54.6211929321",
     "geom:latitude":54.610262,
     "geom:longitude":36.66659,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.612349,
     "lbl:longitude":36.662662,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.612349,
     "mps:longitude":36.662662,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Andronovo"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688131,
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":102003739,
-    "wof:lastmodified":1501214812,
+    "wof:lastmodified":1566615517,
     "wof:name":"Andronovo",
     "wof:parent_id":890483063,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000785,
-    "geom:area_square_m":5316037.116819,
+    "geom:area_square_m":5316037.116818,
     "geom:bbox":"40.8773612976,56.764415741,40.9229736328,56.7883071899",
     "geom:latitude":56.775822,
     "geom:longitude":40.899555,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.77628,
     "lbl:longitude":40.899557,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.77628,
     "mps:longitude":40.899557,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Lezhnevo"
     ],
@@ -44,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":123,
     "wof:belongsto":[
@@ -57,7 +60,6 @@
     "wof:concordances":{
         "gn:id":535366,
         "gp:id":2121928,
-        "qs:id":125215,
         "qs_pg:id":125215,
         "wd:id":"Q16872103"
     },
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":102002809,
-    "wof:lastmodified":1527637970,
+    "wof:lastmodified":1566615703,
     "wof:name":"Lezhnevo",
     "wof:parent_id":1108734943,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000565,
-    "geom:area_square_m":4432964.714384,
+    "geom:area_square_m":4432964.71439,
     "geom:bbox":"107.085723877,50.5734710693,107.110862732,50.6071128845",
     "geom:latitude":50.591121,
     "geom:longitude":107.100389,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.591695,
     "lbl:longitude":107.101407,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":50.591695,
     "mps:longitude":107.101407,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Okino-Klyuchi"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041e\u043a\u0438\u043d\u043e-\u041a\u043b\u044e\u0447\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Okino-Klyuchevskaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688207,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102014867,
-    "wof:lastmodified":1505338945,
+    "wof:lastmodified":1566615106,
     "wof:name":"Okino-Klyuchi",
     "wof:parent_id":1108732991,
     "wof:placetype":"locality",

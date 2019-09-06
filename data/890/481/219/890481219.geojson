@@ -11,8 +11,12 @@
     "geom:longitude":44.682941,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"44.662941,43.005608,44.702941,43.045608",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Wladikafkaz"
     ],
@@ -280,7 +284,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043b\u0430\u0434\u0438\u043a\u0430\u0432\u043a\u0430\u0437"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dzhaudzhikau"
     ],
     "name:urd_x_preferred":[
@@ -338,10 +342,12 @@
     "wof:concordances":{
         "gn:id":473249,
         "gp:id":2124280,
-        "qs:id":900426,
         "qs_pg:id":207887,
         "wd:id":"Q5239",
         "wk:page":"Vladikavkaz"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":900426
     },
     "wof:country":"RU",
     "wof:created":1469054348,
@@ -357,7 +363,7 @@
         }
     ],
     "wof:id":890481219,
-    "wof:lastmodified":1563262629,
+    "wof:lastmodified":1566630793,
     "wof:name":"Vladikavkaz",
     "wof:parent_id":1108737521,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000303,
-    "geom:area_square_m":2236388.579058,
+    "geom:area_square_m":2236388.579057,
     "geom:bbox":"50.4873352051,53.3236961365,50.5110816956,53.3453903198",
     "geom:latitude":53.333867,
     "geom:longitude":50.499696,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.333905,
     "lbl:longitude":50.499696,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.333905,
     "mps:longitude":50.499696,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Syreyka"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687781,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102010525,
-    "wof:lastmodified":1501214458,
+    "wof:lastmodified":1566615512,
     "wof:name":"Syreyka",
     "wof:parent_id":890486911,
     "wof:placetype":"locality",

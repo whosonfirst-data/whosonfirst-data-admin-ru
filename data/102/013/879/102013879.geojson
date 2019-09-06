@@ -9,17 +9,20 @@
     "geom:bbox":"95.2013320923,56.8097496033,95.2743301392,56.8430290222",
     "geom:latitude":56.82555,
     "geom:longitude":95.238945,
-    "geonames:id":"1507035,6284395",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":7775,
+    "gn:id":"1507035,6284395",
+    "gn:population":7775,
     "iso:country":"RU",
     "lbl:latitude":56.827434,
     "lbl:longitude":95.235351,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.827434,
     "mps:longitude":95.235351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0414\u0437\u044f\u0440\u0436\u044b\u043d\u0441\u043a\u0456"
     ],
@@ -77,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rozhdestvenskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -100,7 +103,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":161,
     "wof:belongsto":[
@@ -114,7 +117,7 @@
     "wof:concordances":{
         "gn:id":1507035,
         "gp:id":2004107,
-        "qs:id":556259,
+        "qs_pg:id":556259,
         "wk:page":"Dzerzhinsky"
     },
     "wof:country":"RU",
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":102013879,
-    "wof:lastmodified":1564108711,
+    "wof:lastmodified":1566615067,
     "wof:name":"Dzerzhinskoye",
     "wof:parent_id":1108733437,
     "wof:placetype":"locality",

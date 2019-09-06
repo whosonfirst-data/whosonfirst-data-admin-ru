@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000305,
-    "geom:area_square_m":2369884.672974,
+    "geom:area_square_m":2369884.672977,
     "geom:bbox":"116.291114807,51.0737228394,116.318496704,51.0961380005",
     "geom:latitude":51.084939,
     "geom:longitude":116.304081,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.085298,
     "lbl:longitude":116.303873,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.085298,
     "mps:longitude":116.303873,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Burulyatuy"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0443\u0440\u0443\u043b\u044f\u0442\u0443\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Burlyatui"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688005,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102014771,
-    "wof:lastmodified":1501225176,
+    "wof:lastmodified":1566615111,
     "wof:name":"Burulyatuy",
     "wof:parent_id":1108735673,
     "wof:placetype":"locality",

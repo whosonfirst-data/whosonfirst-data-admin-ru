@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000575,
-    "geom:area_square_m":4378008.742164,
+    "geom:area_square_m":4378008.742163,
     "geom:bbox":"44.873664856,51.9553070068,44.898109436,51.9936676025",
     "geom:latitude":51.975665,
     "geom:longitude":44.884271,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.977663,
     "lbl:longitude":44.883049,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.977663,
     "mps:longitude":44.883049,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Danilovka"
     ],
@@ -25,9 +28,6 @@
         "Danilovka"
     ],
     "name:rus_x_preferred":[
-        "\u0414\u0430\u043d\u0438\u043b\u043e\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0414\u0430\u043d\u0438\u043b\u043e\u0432\u043a\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":771,
     "wof:belongsto":[
         85687995,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":102005169,
-    "wof:lastmodified":1527637957,
+    "wof:lastmodified":1566615620,
     "wof:name":"Danilovka",
     "wof:parent_id":1108732811,
     "wof:placetype":"locality",

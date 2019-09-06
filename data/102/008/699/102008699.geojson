@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.981115,
     "lbl:longitude":56.703827,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.981115,
     "mps:longitude":56.703827,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Usanovka"
     ],
@@ -41,7 +44,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687975,
         102191581,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":102008699,
-    "wof:lastmodified":1501214436,
+    "wof:lastmodified":1566615294,
     "wof:name":"Usanovka",
     "wof:parent_id":1108737151,
     "wof:placetype":"locality",

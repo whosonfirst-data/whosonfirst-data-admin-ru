@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000531,
-    "geom:area_square_m":3529233.126279,
+    "geom:area_square_m":3529233.12628,
     "geom:bbox":"59.880859375,57.4935569763,59.9142227173,57.5166664124",
     "geom:latitude":57.50438,
     "geom:longitude":59.897367,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.505005,
     "lbl:longitude":59.897049,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.505005,
     "mps:longitude":59.897049,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Karpushikha"
     ],
@@ -24,9 +27,6 @@
         "Karpusjikha"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0430\u0440\u043f\u0443\u0448\u0438\u0445\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0430\u0440\u043f\u0443\u0448\u0438\u0445\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,18 +47,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688183
+        85688183,
+        1108734439
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":552161,
         "gp:id":2121234,
-        "qs:id":870781,
         "qs_pg:id":870781
     },
     "wof:country":"RU",
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102008561,
-    "wof:lastmodified":1505338931,
+    "wof:lastmodified":1566615259,
     "wof:name":"Karpushikha",
     "wof:parent_id":1108734439,
     "wof:placetype":"locality",

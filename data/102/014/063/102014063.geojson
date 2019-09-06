@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.341242,
     "lbl:longitude":101.987298,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.341242,
     "mps:longitude":101.987298,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Uyan"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":71,
     "wof:belongsto":[
         85688173,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":102014063,
-    "wof:lastmodified":1563240113,
+    "wof:lastmodified":1566615105,
     "wof:name":"Uyan",
     "wof:parent_id":1108734783,
     "wof:placetype":"locality",

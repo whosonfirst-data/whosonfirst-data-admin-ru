@@ -9,15 +9,18 @@
     "geom:bbox":"30.69296,62.17645,30.69296,62.17645",
     "geom:latitude":62.17645,
     "geom:longitude":30.69296,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3145,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":3145,
     "iso:country":"RU",
+    "lbl:bbox":"30.67296,62.15645,30.71296,62.19645",
     "lbl:latitude":62.17645,
     "lbl:longitude":30.69296,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vyartsilya"
@@ -40,9 +43,6 @@
     "name:swe_x_preferred":[
         "V\u00e4rtsil\u00e4"
     ],
-    "name:unk_x_variant":[
-        "Vyartsilya"
-    ],
     "qs_pg:aaroncc":"RU",
     "qs_pg:gn_country":"RU",
     "qs_pg:gn_fcode":"PPL",
@@ -62,7 +62,7 @@
     "qs_pg:woe_adm0":23424812,
     "qs_pg:woe_id":574686,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424812,
     "woe:name_adm0":"Suomi",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1125931767,
-    "wof:lastmodified":1509401436,
+    "wof:lastmodified":1566631002,
     "wof:name":"V\u00e4rtsil\u00e4",
     "wof:parent_id":1108736723,
     "wof:placetype":"locality",

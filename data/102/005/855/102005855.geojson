@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.203529,
     "lbl:longitude":36.443347,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.203529,
     "mps:longitude":36.443347,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628\u064a\u0627\u0646"
     ],
@@ -131,7 +134,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.20885,
     "wd:longitude":36.263711,
     "wd:wordcount":793,
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":102005855,
-    "wof:lastmodified":1563241412,
+    "wof:lastmodified":1566615653,
     "wof:name":"Oboyan",
     "wof:parent_id":1108735985,
     "wof:placetype":"locality",

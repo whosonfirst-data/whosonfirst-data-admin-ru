@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":57.781313,
     "lbl:longitude":43.053952,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kostromskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":43.053952,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u0434\u044b\u0439\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -93,9 +96,6 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0434\u044b\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041a\u0430\u0434\u044b\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Kadyysky"
     ],
@@ -103,9 +103,9 @@
         "\u5361\u5fb7\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2248",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Kadyy",
@@ -139,7 +139,7 @@
         }
     ],
     "wof:id":1108734181,
-    "wof:lastmodified":1563257081,
+    "wof:lastmodified":1566627210,
     "wof:name":"Kadyjskiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",

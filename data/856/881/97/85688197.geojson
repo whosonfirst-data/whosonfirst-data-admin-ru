@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":42.465454,
     "lbl:longitude":47.041146,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Dagestan",
     "meso:name_alt2":"Dagestan",
     "meso:name_local":"\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d",
@@ -446,9 +447,6 @@
         "\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d"
     ],
     "name:und_x_variant":[
-        "Dagestan"
-    ],
-    "name:unk_x_variant":[
         "Dagestan A.S.S.R."
     ],
     "name:urd_x_preferred":[
@@ -550,9 +548,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"50,300",
     "statoids:area_mi":"19,400",
     "statoids:as_of_date":"2010-10-14",
@@ -617,11 +615,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734426,
+    "wof:lastmodified":1566618549,
     "wof:name":"Dagestan",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":2910249,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -11,11 +11,15 @@
     "geom:longitude":38.71384,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":3000,
+    "gn:population":3000,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"38.69384,55.04196,38.73384,55.08196",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Sych\u00ebvo"
     ],
@@ -25,7 +29,7 @@
     "name:rus_x_preferred":[
         "\u0421\u044b\u0447\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sychi"
     ],
     "qs:name":"Sychevo",
@@ -50,7 +54,9 @@
     "wof:concordances":{
         "gn:id":485273,
         "gp:id":2093012,
-        "qs:id":454585,
+        "qs_pg:id":454585
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":920953
     },
     "wof:country":"RU",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":890482903,
-    "wof:lastmodified":1509410067,
+    "wof:lastmodified":1566630597,
     "wof:name":"Sychevo",
     "wof:parent_id":890487041,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":59.67734,
     "geom:longitude":30.280439,
     "iso:country":"RU",
+    "lbl:bbox":"30.2754391604,59.6723399018,30.2854391604,59.6823399018",
     "lbl:latitude":59.67734,
     "lbl:longitude":30.280439,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u043d\u0434\u0430\u043a\u043e\u043f\u0448\u0438\u043d\u043e"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108943565,
-    "wof:lastmodified":1510870345,
+    "wof:lastmodified":1566627419,
     "wof:name":"Kondakopshino",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

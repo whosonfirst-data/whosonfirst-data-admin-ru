@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.302819,
     "lbl:longitude":39.93005,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.302819,
     "mps:longitude":39.93005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "L\u00e0dojskaia"
     ],
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0434\u043e\u0437\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ladoshskaja"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":253,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
     "wof:concordances":{
         "gn:id":537235,
         "gp:id":2121847,
-        "qs:id":460125,
         "qs_pg:id":460125,
         "wd:id":"Q3277213",
         "wk:page":"Ladozhskaya"
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":102007903,
-    "wof:lastmodified":1563240248,
+    "wof:lastmodified":1566615176,
     "wof:name":"Ladozhskaya",
     "wof:parent_id":890479743,
     "wof:placetype":"locality",

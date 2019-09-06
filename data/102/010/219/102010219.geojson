@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000375,
-    "geom:area_square_m":2733424.683366,
+    "geom:area_square_m":2733424.683365,
     "geom:bbox":"48.3965835571,53.8589706421,48.4275817871,53.8762779236",
     "geom:latitude":53.868853,
     "geom:longitude":48.409366,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.867431,
     "lbl:longitude":48.405972,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.867431,
     "mps:longitude":48.405972,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nikol'skoye"
     ],
@@ -28,9 +31,6 @@
         "Nikol\u2019skoye"
     ],
     "name:rus_x_variant":[
-        "\u041d\u0438\u043a\u043e\u043b\u044c\u0441\u043a\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u041d\u0438\u043a\u043e\u043b\u044c\u0441\u043a\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687907,
         102191581,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":102010219,
-    "wof:lastmodified":1501214595,
+    "wof:lastmodified":1566615476,
     "wof:name":"",
     "wof:parent_id":1108736989,
     "wof:placetype":"locality",

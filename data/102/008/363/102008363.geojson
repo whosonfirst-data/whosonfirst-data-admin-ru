@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":58.28614,
     "lbl:longitude":56.598114,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.28614,
     "mps:longitude":56.598114,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0414\u0438\u0432\u044c\u044f"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0414\u0438\u0432\u044c\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Div\u2019ya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":70,
     "wof:belongsto":[
         85687975,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102008363,
-    "wof:lastmodified":1563240418,
+    "wof:lastmodified":1566615261,
     "wof:name":"Divya",
     "wof:parent_id":1108733389,
     "wof:placetype":"locality",

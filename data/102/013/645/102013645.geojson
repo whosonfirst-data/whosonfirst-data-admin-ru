@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000321,
-    "geom:area_square_m":2429801.556784,
+    "geom:area_square_m":2429801.556783,
     "geom:bbox":"80.3890914917,52.2936325073,80.4160842896,52.3128738403",
     "geom:latitude":52.303272,
     "geom:longitude":80.402942,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.303309,
     "lbl:longitude":80.403199,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.303309,
     "mps:longitude":80.403199,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tsentral'noye"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tsentral\u2019noye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -42,7 +45,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687835,
         102191581,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":102013645,
-    "wof:lastmodified":1501219997,
+    "wof:lastmodified":1566615043,
     "wof:name":"Tsentral'Noye",
     "wof:parent_id":1108736295,
     "wof:placetype":"locality",

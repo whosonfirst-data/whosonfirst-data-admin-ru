@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00067,
-    "geom:area_square_m":4955725.657796,
+    "geom:area_square_m":4955725.657797,
     "geom:bbox":"35.6817779541,53.2566375732,35.7190284729,53.2803344727",
     "geom:latitude":53.269761,
     "geom:longitude":35.699516,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.269552,
     "lbl:longitude":35.699516,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.269552,
     "mps:longitude":35.699516,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Znamenskoye"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":47,
     "wof:belongsto":[
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":462305,
         "gp:id":2124635,
-        "qs:id":206877,
         "qs_pg:id":206877
     },
     "wof:country":"RU",
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":102004411,
-    "wof:lastmodified":1527637844,
+    "wof:lastmodified":1566615598,
     "wof:name":"Znamenskoye",
     "wof:parent_id":1108738301,
     "wof:placetype":"locality",

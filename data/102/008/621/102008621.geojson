@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.299511,
     "lbl:longitude":53.877672,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.299511,
     "mps:longitude":53.877672,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0428\u0430\u0440\u043a\u0430\u043d"
     ],
@@ -71,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u0440\u043a\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "\u0428\u0430\u0440\u043a\u0430\u043d"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0423\u0434\u043c\u0443\u0440\u0442\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
     "qs:a1_lc":"1802300000100",
@@ -92,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -104,7 +104,6 @@
     "wof:concordances":{
         "gn:id":495688,
         "gp:id":2123403,
-        "qs:id":1305893,
         "qs_pg:id":1305893,
         "wd:id":"Q2511213"
     },
@@ -119,7 +118,7 @@
         }
     ],
     "wof:id":102008621,
-    "wof:lastmodified":1563240427,
+    "wof:lastmodified":1566615264,
     "wof:name":"Sharkan",
     "wof:parent_id":1108736513,
     "wof:placetype":"locality",

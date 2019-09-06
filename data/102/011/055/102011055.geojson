@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000812,
-    "geom:area_square_m":6201750.262254,
+    "geom:area_square_m":6201750.262256,
     "geom:bbox":"50.3210983276,51.8439903259,50.3579750061,51.8908615112",
     "geom:latitude":51.865498,
     "geom:longitude":50.337962,
@@ -15,18 +15,18 @@
     "iso:country":"RU",
     "lbl:latitude":51.866786,
     "lbl:longitude":50.338242,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.866786,
     "mps:longitude":50.338242,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:nor_x_preferred":[
         "Pereljub"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0440\u0435\u043b\u044e\u0431"
-    ],
-    "name:unk_x_variant":[
-        "Pereljub"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -46,18 +46,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687995
+        85687995,
+        1108735799
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":511416,
         "gp:id":2122804,
-        "qs:id":549372,
         "qs_pg:id":549372
     },
     "wof:country":"RU",
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":102011055,
-    "wof:lastmodified":1505338936,
+    "wof:lastmodified":1566615392,
     "wof:name":"Perelyub",
     "wof:parent_id":1108735799,
     "wof:placetype":"locality",

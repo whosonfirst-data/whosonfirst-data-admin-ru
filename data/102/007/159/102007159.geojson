@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":47.5653,
     "lbl:longitude":38.861085,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.5653,
     "mps:longitude":38.861085,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:che_x_preferred":[
         "\u041c\u0430\u0442\u0432\u0435\u0435\u0432 \u041a\u0443\u0440\u0433\u0430\u043d\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -67,7 +70,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0442\u0432\u0456\u0454\u0432\u043e-\u041a\u0443\u0440\u0433\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Motveyev Kurgan"
     ],
     "name:zho_x_preferred":[
@@ -89,7 +92,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":660,
     "wof:belongsto":[
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":528495,
         "gp:id":2043896,
-        "qs:id":125172,
+        "qs_pg:id":125172,
         "wd:id":"Q1985722"
     },
     "wof:country":"RU",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":102007159,
-    "wof:lastmodified":1563240196,
+    "wof:lastmodified":1566615146,
     "wof:name":"Matveyev-Kurgan",
     "wof:parent_id":1108735075,
     "wof:placetype":"locality",

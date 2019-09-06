@@ -11,10 +11,14 @@
     "geom:longitude":40.1953,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":3257,
+    "gn:population":3257,
     "iso:country":"RU",
+    "lbl:bbox":"40.1753,51.6948,40.2153,51.7348",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Pereleshinskiy"
     ],
@@ -22,9 +26,6 @@
         "Perelesjinskij"
     ],
     "name:rus_x_preferred":[
-        "\u041f\u0435\u0440\u0435\u043b\u0435\u0448\u0438\u043d\u0441\u043a\u0438\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u0435\u0440\u0435\u043b\u0435\u0448\u0438\u043d\u0441\u043a\u0438\u0439"
     ],
     "qs:name":"Pereleshinskiy",
@@ -43,7 +44,7 @@
     "wof:concordances":{
         "gn:id":511435,
         "gp:id":2064045,
-        "qs:id":1242801
+        "qs_pg:id":1242801
     },
     "wof:country":"RU",
     "wof:created":1469054672,
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":890487409,
-    "wof:lastmodified":1505343777,
+    "wof:lastmodified":1566630907,
     "wof:name":"Pereleshinskiy",
     "wof:parent_id":1108735757,
     "wof:placetype":"locality",

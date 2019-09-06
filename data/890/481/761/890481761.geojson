@@ -11,11 +11,15 @@
     "geom:longitude":45.78111,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"45.76111,51.26333,45.80111,51.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pudovkino"
     ],
@@ -23,9 +27,6 @@
         "Pudovkino"
     ],
     "name:rus_x_preferred":[
-        "\u041f\u0443\u0434\u043e\u0432\u043a\u0438\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u0443\u0434\u043e\u0432\u043a\u0438\u043d\u043e"
     ],
     "qs:name":"Pudovkino",
@@ -47,7 +48,7 @@
     "wof:concordances":{
         "gn:id":504272,
         "gp:id":2072272,
-        "qs:id":384692
+        "qs_pg:id":384692
     },
     "wof:country":"RU",
     "wof:created":1469054373,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":890481761,
-    "wof:lastmodified":1505343749,
+    "wof:lastmodified":1566630818,
     "wof:name":"Pudovkino",
     "wof:parent_id":890479535,
     "wof:placetype":"locality",

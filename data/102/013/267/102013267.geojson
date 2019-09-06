@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.603826,
     "lbl:longitude":83.116509,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.603826,
     "mps:longitude":83.116509,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0428\u044b\u043f\u0456\u0446\u044b\u043d\u0430"
     ],
@@ -54,7 +57,7 @@
     "name:rus_x_variant":[
         "\u0428\u0438\u043f\u0438\u0446\u044b\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shipitsino"
     ],
     "name:urd_x_preferred":[
@@ -74,7 +77,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":865,
     "wof:belongsto":[
         85687835,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":102013267,
-    "wof:lastmodified":1564108692,
+    "wof:lastmodified":1566615049,
     "wof:name":"Shipitsyno",
     "wof:parent_id":1108736923,
     "wof:placetype":"locality",

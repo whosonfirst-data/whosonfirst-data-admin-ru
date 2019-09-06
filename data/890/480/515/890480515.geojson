@@ -11,8 +11,11 @@
     "geom:longitude":147.8973,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":2506,
+    "gn:population":2506,
     "iso:country":"RU",
+    "lbl:bbox":"147.8773,70.59897,147.9173,70.63897",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -85,7 +88,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u043e\u043a\u0443\u0440\u0434\u0430\u0445"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baryllakh"
     ],
     "name:zho_x_preferred":[
@@ -200,7 +203,7 @@
     "wof:concordances":{
         "gn:id":2126123,
         "gp:id":1999225,
-        "qs:id":274176,
+        "qs_pg:id":274176,
         "wd:id":"Q2312088",
         "wk:page":"Chokurdakh"
     },
@@ -218,7 +221,7 @@
         }
     ],
     "wof:id":890480515,
-    "wof:lastmodified":1563263083,
+    "wof:lastmodified":1566631001,
     "wof:name":"Chokurdakh",
     "wof:parent_id":1108732713,
     "wof:placetype":"locality",

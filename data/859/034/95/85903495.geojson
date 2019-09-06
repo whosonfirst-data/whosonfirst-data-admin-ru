@@ -9,15 +9,15 @@
     "geom:bbox":"37.705078125,55.6915193298,37.7435302734,55.7131871793",
     "geom:latitude":55.701192,
     "geom:longitude":37.72532,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"RU",
+    "gn:fcode":"PPLX",
     "gn:latitude":55.70033,
     "gn:longitude":37.74271,
-    "gn:population":100000,
+    "gn:population":0,
     "iso:country":"RU",
     "lbl:latitude":55.708717,
     "lbl:longitude":37.738403,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.698484,
     "mps:longitude":37.722401,
     "mz:hierarchy_label":1,
@@ -213,16 +213,9 @@
     "name:swe_x_preferred":[
         "Tekstilshchiki"
     ],
-    "name:und_x_preferred":[
-        "Tekstil'shchiki"
-    ],
     "name:und_x_variant":[
-        "\u0422\u0435\u043a\u0441\u0442\u0438\u043b\u044c\u0449\u0438\u043a\u0438",
+        "Tekstil'shchiki",
         "Poselok Tekstil'shchiki"
-    ],
-    "name:unk_x_variant":[
-        "Sadki",
-        "Tekstilshchiki"
     ],
     "name:vec_x_preferred":[
         "Tekstilshchiki"
@@ -305,7 +298,6 @@
     "wof:concordances":{
         "gn:id":483826,
         "gp:id":2094790,
-        "qs:id":1116063,
         "qs_pg:id":1116063,
         "wd:id":"Q7695493"
     },
@@ -326,7 +318,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247528,
+    "wof:lastmodified":1566618500,
     "wof:name":"Tekstilshchiki",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

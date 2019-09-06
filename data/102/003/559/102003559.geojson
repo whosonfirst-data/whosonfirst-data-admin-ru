@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.022202,
     "lbl:longitude":44.477128,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.022202,
     "mps:longitude":44.477128,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u0643\u0648\u064a\u0627\u0646\u0648\u0641"
     ],
@@ -109,7 +112,7 @@
     "name:tur_x_preferred":[
         "Lukoyanov"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lukozanov"
     ],
     "name:war_x_preferred":[
@@ -136,7 +139,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.038333,
     "wd:longitude":44.497778,
@@ -151,7 +154,6 @@
     "wof:concordances":{
         "gn:id":533400,
         "gp:id":2031790,
-        "qs:id":369444,
         "qs_pg:id":369444,
         "wd:id":"Q146372",
         "wk:page":"Lukoyanov"
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":102003559,
-    "wof:lastmodified":1563241072,
+    "wof:lastmodified":1566615518,
     "wof:name":"Lukoyanov",
     "wof:parent_id":1108734995,
     "wof:placetype":"locality",

@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":52.989674,
     "lbl:longitude":35.677228,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Orlovskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":35.677228,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0423\u0440\u044b\u0446\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -93,9 +96,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u0440\u0438\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0423\u0440\u0438\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Uritsky"
     ],
@@ -103,9 +103,9 @@
         "\u70cf\u91cc\u8328\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"832",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Naryshkino",
@@ -139,7 +139,7 @@
         }
     ],
     "wof:id":1108737185,
-    "wof:lastmodified":1563257352,
+    "wof:lastmodified":1566627395,
     "wof:name":"Urickij",
     "wof:parent_id":85687849,
     "wof:placetype":"county",

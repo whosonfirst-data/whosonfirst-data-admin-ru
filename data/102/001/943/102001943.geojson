@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":64.592085,
     "lbl:longitude":40.566872,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":64.592085,
     "mps:longitude":40.566872,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Archangelsk"
     ],
@@ -305,7 +308,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":64.55,
     "wd:longitude":40.533333,
@@ -320,7 +323,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":581049,
-        "qs:id":349749,
+        "qs_pg:id":349749,
         "wd:id":"Q1851",
         "wk:page":"Arkhangelsk"
     },
@@ -337,7 +340,7 @@
         }
     ],
     "wof:id":102001943,
-    "wof:lastmodified":1563240620,
+    "wof:lastmodified":1566615329,
     "wof:name":"Arkhangelsk",
     "wof:parent_id":890481335,
     "wof:placetype":"locality",

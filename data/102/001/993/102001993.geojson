@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":62.710893,
     "lbl:longitude":40.29731,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":62.710893,
     "mps:longitude":40.29731,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u041f\u043b\u044f\u0441\u0435\u0446\u043a"
     ],
@@ -82,9 +85,6 @@
     "name:tat_x_preferred":[
         "\u041f\u043b\u0435\u0441\u0435\u0446\u043a"
     ],
-    "name:unk_x_variant":[
-        "\u041f\u043b\u0435\u0441\u0435\u0446\u043a"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0644\u06cc\u0633\u062a\u0633\u06a9"
     ],
@@ -109,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1374,
     "wof:belongsto":[
@@ -122,7 +122,6 @@
     "wof:concordances":{
         "gn:id":509026,
         "gp:id":2122902,
-        "qs:id":293436,
         "qs_pg:id":293436,
         "wd:id":"Q637175",
         "wk:page":"Plesetsk"
@@ -138,7 +137,7 @@
         }
     ],
     "wof:id":102001993,
-    "wof:lastmodified":1563240587,
+    "wof:lastmodified":1566615320,
     "wof:name":"Plesetsk",
     "wof:parent_id":1108735889,
     "wof:placetype":"locality",

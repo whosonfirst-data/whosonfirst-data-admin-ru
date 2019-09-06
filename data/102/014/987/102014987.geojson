@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000312,
-    "geom:area_square_m":2250601.94279,
+    "geom:area_square_m":2250601.942785,
     "geom:bbox":"124.398139954,54.3197517395,124.422691345,54.337890625",
     "geom:latitude":54.328954,
     "geom:longitude":124.411724,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.329023,
     "lbl:longitude":124.411957,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.329023,
     "mps:longitude":124.411957,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kirovskiy"
     ],
@@ -25,9 +28,6 @@
         "Kirovskij"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -42,7 +42,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":98,
     "wof:belongsto":[
         85687951,
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":102014987,
-    "wof:lastmodified":1527636672,
+    "wof:lastmodified":1566615138,
     "wof:name":"Kirovskiy",
     "wof:parent_id":1108737129,
     "wof:placetype":"locality",

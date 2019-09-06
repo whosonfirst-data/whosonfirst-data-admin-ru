@@ -11,10 +11,12 @@
     "geom:longitude":37.64177,
     "gn:country":"RU",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"RU",
+    "lbl:bbox":"37.6367703824,55.6702843042,37.6467703824,55.6802843042",
     "lbl:latitude":55.675284,
     "lbl:longitude":37.64177,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -48,13 +50,13 @@
     "name:rus_x_preferred":[
         "\u041d\u0430\u0433\u0430\u0442\u0438\u043d\u043e-\u0421\u0430\u0434\u043e\u0432\u043d\u0438\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sadovniki"
     ],
     "name:zho_x_preferred":[
         "\u90a3\u52a0\u8482\u8afe-\u85a9\u591a\u592b\u5c3c\u57fa\u5340"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +70,7 @@
     "wof:concordances":{
         "gn:id":499540,
         "gp:id":55874356,
-        "qs:id":233570,
+        "qs_pg:id":233570,
         "wd:id":"Q1963039",
         "wk:page":"Nagatino-Sadovniki District"
     },
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1108942841,
-    "wof:lastmodified":1563257400,
+    "wof:lastmodified":1566627422,
     "wof:name":"Nagatino-Sadovniki",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

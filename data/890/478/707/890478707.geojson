@@ -11,10 +11,14 @@
     "geom:longitude":28.01257,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":3112,
+    "gn:population":3112,
     "iso:country":"RU",
+    "lbl:bbox":"27.99257,57.52088,28.03257,57.56088",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041f\u0430\u043b\u043a\u0456\u043d\u0430"
     ],
@@ -57,9 +61,6 @@
     "name:srp_x_preferred":[
         "\u041f\u0430\u043b\u043a\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u041f\u0430\u043b\u043a\u0438\u043d\u043e"
-    ],
     "qs:name":"Palkino",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -77,7 +78,7 @@
     "wof:concordances":{
         "gn:id":513051,
         "gp:id":2122739,
-        "qs:id":275943,
+        "qs_pg:id":275943,
         "wd:id":"Q3739373",
         "wk:page":"Palkino"
     },
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":890478707,
-    "wof:lastmodified":1563261837,
+    "wof:lastmodified":1566630481,
     "wof:name":"Palkino",
     "wof:parent_id":1108735753,
     "wof:placetype":"locality",

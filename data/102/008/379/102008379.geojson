@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":58.291168,
     "lbl:longitude":59.736775,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":58.291168,
     "mps:longitude":59.736775,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0634\u0641\u0627"
     ],
@@ -113,9 +116,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0448\u0432\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0443\u0448\u0432\u0430"
-    ],
     "name:vep_x_preferred":[
         "Ku\u0161v"
     ],
@@ -146,7 +146,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":58.283333,
     "wd:longitude":59.733333,
@@ -161,7 +161,6 @@
     "wof:concordances":{
         "gn:id":538340,
         "gp:id":2121799,
-        "qs:id":245287,
         "qs_pg:id":245287,
         "wd:id":"Q156284",
         "wk:page":"Kushva"
@@ -177,7 +176,7 @@
         }
     ],
     "wof:id":102008379,
-    "wof:lastmodified":1563240458,
+    "wof:lastmodified":1566615276,
     "wof:name":"Kushva",
     "wof:parent_id":1108734845,
     "wof:placetype":"locality",

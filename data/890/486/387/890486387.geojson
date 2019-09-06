@@ -11,11 +11,15 @@
     "geom:longitude":87.1224,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":5514,
+    "gn:population":5514,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"87.1024,52.2376,87.1424,52.2776",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0422\u0443\u0440\u0430\u0447\u0430\u043a\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -64,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0440\u043e\u0447\u0430\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Turochan"
     ],
     "name:vie_x_preferred":[
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":1488920,
         "gp:id":2098820,
-        "qs:id":190111,
+        "qs_pg:id":190111,
         "wd:id":"Q1043231",
         "wk:page":"Turochaksky District"
     },
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":890486387,
-    "wof:lastmodified":1563262834,
+    "wof:lastmodified":1566630887,
     "wof:name":"Turochak",
     "wof:parent_id":890480019,
     "wof:placetype":"locality",

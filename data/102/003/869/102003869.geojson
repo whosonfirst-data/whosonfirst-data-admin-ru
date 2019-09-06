@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000291,
-    "geom:area_square_m":2096966.565901,
+    "geom:area_square_m":2096966.565902,
     "geom:bbox":"37.949054718,54.3100547791,37.9705848694,54.328666687",
     "geom:latitude":54.319263,
     "geom:longitude":37.960752,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.318994,
     "lbl:longitude":37.960958,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.318994,
     "mps:longitude":37.960958,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Anishino"
     ],
@@ -25,9 +28,6 @@
         "Anisjino"
     ],
     "name:rus_x_preferred":[
-        "\u0410\u043d\u0438\u0448\u0438\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u0410\u043d\u0438\u0448\u0438\u043d\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -48,17 +48,17 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688203
+        85688203,
+        1108737325
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":581732,
         "gp:id":1983119,
-        "qs:id":194006,
         "qs_pg:id":194006
     },
     "wof:country":"RU",
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102003869,
-    "wof:lastmodified":1497290826,
+    "wof:lastmodified":1566615532,
     "wof:name":"Anishino",
     "wof:parent_id":1108737325,
     "wof:placetype":"locality",

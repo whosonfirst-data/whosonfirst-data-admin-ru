@@ -10,8 +10,10 @@
     "geom:latitude":59.682424,
     "geom:longitude":30.464918,
     "iso:country":"RU",
+    "lbl:bbox":"30.4599180129,59.6774239543,30.4699180129,59.6874239543",
     "lbl:latitude":59.682424,
     "lbl:longitude":30.464918,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:rus_x_preferred":[
         "\u0417\u0432\u0435\u0440\u0438\u043d\u0435\u0446"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108943561,
-    "wof:lastmodified":1510870346,
+    "wof:lastmodified":1566627418,
     "wof:name":"Zverinec",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

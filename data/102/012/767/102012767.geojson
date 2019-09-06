@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.73834,
     "lbl:longitude":88.066857,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.73834,
     "mps:longitude":88.066857,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Vladimirovka"
     ],
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vladimirova"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -67,7 +70,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         85688105,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":102012767,
-    "wof:lastmodified":1564108647,
+    "wof:lastmodified":1566615008,
     "wof:name":"Vladimirovka",
     "wof:parent_id":1108737019,
     "wof:placetype":"locality",

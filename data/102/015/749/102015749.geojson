@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.780441,
     "lbl:longitude":44.151912,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":44.780441,
     "mps:longitude":44.151912,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u062f\u064a\u0648\u0646\u0648\u0641\u0633\u0643"
     ],
@@ -157,7 +160,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0434\u044c\u043e\u043d\u043d\u043e\u0432\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Svetaya Kresta"
     ],
     "name:vep_x_preferred":[
@@ -191,7 +194,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687825,
@@ -204,7 +207,7 @@
     "wof:concordances":{
         "gn:id":571306,
         "gp:id":2120415,
-        "qs:id":1242881,
+        "qs_pg:id":1242881,
         "wd:id":"Q132832",
         "wk:page":"Budyonnovsk"
     },
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":102015749,
-    "wof:lastmodified":1563239758,
+    "wof:lastmodified":1566614948,
     "wof:name":"Prikumsk",
     "wof:parent_id":1108733117,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000356,
-    "geom:area_square_m":3177312.163317,
+    "geom:area_square_m":3177312.163315,
     "geom:bbox":"43.2121543884,43.844367981,43.250617981,43.860496521",
     "geom:latitude":43.85212,
     "geom:longitude":43.231921,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":43.852097,
     "lbl:longitude":43.231921,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.852097,
     "mps:longitude":43.231921,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041f\u0441\u044b\u043d\u043e\u0434\u0430\u0445\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Psynodakh"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +43,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688089,
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":102016177,
-    "wof:lastmodified":1501214532,
+    "wof:lastmodified":1566615463,
     "wof:name":"Psynadakha",
     "wof:parent_id":1108738313,
     "wof:placetype":"locality",

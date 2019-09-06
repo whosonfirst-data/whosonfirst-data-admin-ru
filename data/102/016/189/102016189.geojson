@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.863453,
     "lbl:longitude":41.588893,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":43.863453,
     "mps:longitude":41.588893,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0632\u064a\u0644\u064a\u0646\u062a\u0634\u0648\u0643\u0633\u0643\u0627\u064a\u0627"
     ],
@@ -76,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0435\u043b\u0435\u043d\u0447\u0443\u0446\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zelenchugskaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":517,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":463885,
         "gp:id":2124579,
-        "qs:id":913025,
         "qs_pg:id":913025,
         "wd:id":"Q2268181",
         "wk:page":"Zelenchukskaya"
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":102016189,
-    "wof:lastmodified":1563240893,
+    "wof:lastmodified":1566615442,
     "wof:name":"Zelenchukskaya",
     "wof:parent_id":890481333,
     "wof:placetype":"locality",

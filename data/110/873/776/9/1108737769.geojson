@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":57.477303,
     "lbl:longitude":34.304583,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tverskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u0422\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":34.304583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0412\u044b\u0448\u043d\u0435\u0432\u0430\u043b\u043e\u0446\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -95,9 +98,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0448\u043d\u044c\u043e\u0432\u043e\u043b\u043e\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0412\u044b\u0448\u043d\u0435\u0432\u043e\u043b\u043e\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Vyshnevolotsky"
     ],
@@ -105,7 +105,7 @@
         "\u7dad\u4ec0\u6d85\u6c83\u6d1b\u8328\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688047,
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":1108737769,
-    "wof:lastmodified":1563256841,
+    "wof:lastmodified":1566627074,
     "wof:name":"Vyshnevolockij",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

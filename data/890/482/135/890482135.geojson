@@ -11,11 +11,15 @@
     "geom:longitude":30.01694,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"29.99694,59.68417,30.03694,59.72417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u041b\u0430\u0433\u043e\u043b\u043e\u0432\u043e"
     ],
@@ -37,9 +41,6 @@
     "name:rus_x_preferred":[
         "\u041b\u0430\u0433\u043e\u043b\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u041b\u0430\u0433\u043e\u043b\u043e\u0432\u043e"
-    ],
     "qs:name":"Lagolovo",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Leningrad Oblast",
@@ -59,7 +60,7 @@
     "wof:concordances":{
         "gn:id":6268205,
         "gp:id":55874475,
-        "qs:id":1062012,
+        "qs_pg:id":1062012,
         "wd:id":"Q4252415"
     },
     "wof:country":"RU",
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":890482135,
-    "wof:lastmodified":1561832732,
+    "wof:lastmodified":1566630570,
     "wof:name":"Lagolovo",
     "wof:parent_id":890481533,
     "wof:placetype":"locality",

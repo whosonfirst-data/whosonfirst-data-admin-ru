@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000859,
-    "geom:area_square_m":6564551.250409,
+    "geom:area_square_m":6564551.250408,
     "geom:bbox":"79.8443603516,51.8385009766,79.9026412964,51.8613624573",
     "geom:latitude":51.850345,
     "geom:longitude":79.874844,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.851551,
     "lbl:longitude":79.871375,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.851551,
     "mps:longitude":79.871375,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rakity"
     ],
@@ -25,9 +28,6 @@
         "Rakity"
     ],
     "name:rus_x_preferred":[
-        "\u0420\u0430\u043a\u0438\u0442\u044b"
-    ],
-    "name:unk_x_variant":[
         "\u0420\u0430\u043a\u0438\u0442\u044b"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -42,7 +42,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687835,
         102191581,
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":102013775,
-    "wof:lastmodified":1501220014,
+    "wof:lastmodified":1566615081,
     "wof:name":"Rakity",
     "wof:parent_id":1108735133,
     "wof:placetype":"locality",

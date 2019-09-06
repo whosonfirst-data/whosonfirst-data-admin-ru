@@ -11,11 +11,15 @@
     "geom:longitude":131.8601,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":5080,
+    "gn:population":5080,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"131.8401,43.0024,131.8801,43.0424",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Russisch"
     ],
@@ -58,9 +62,6 @@
     "name:srp_x_preferred":[
         "\u0420\u0443\u0441\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "\u0420\u0443\u0441\u0441\u043a\u0438\u0439"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u0633\u06cc"
     ],
@@ -86,7 +87,7 @@
     "wof:concordances":{
         "gn:id":2017364,
         "gp:id":2076233,
-        "qs:id":137468,
+        "qs_pg:id":137468,
         "wk:page":"Russian"
     },
     "wof:country":"RU",
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":890482513,
-    "wof:lastmodified":1564129010,
+    "wof:lastmodified":1566630616,
     "wof:name":"Russkiy",
     "wof:parent_id":1108737535,
     "wof:placetype":"locality",

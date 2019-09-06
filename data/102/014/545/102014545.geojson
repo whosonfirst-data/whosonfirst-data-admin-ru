@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001315,
-    "geom:area_square_m":9938683.120836,
+    "geom:area_square_m":9938683.120839,
     "geom:bbox":"116.824302673,52.3168334961,116.8829422,52.3556404114",
     "geom:latitude":52.337261,
     "geom:longitude":116.850587,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.336614,
     "lbl:longitude":116.851031,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.336614,
     "mps:longitude":116.851031,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Komsomol'skoye"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Soktuyevskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":206,
     "wof:belongsto":[
         85688005,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":102014545,
-    "wof:lastmodified":1527636670,
+    "wof:lastmodified":1566615114,
     "wof:name":"Komsomolskoye",
     "wof:parent_id":1108733267,
     "wof:placetype":"locality",

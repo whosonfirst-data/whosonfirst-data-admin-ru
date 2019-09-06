@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":58.932169,
     "lbl:longitude":46.753703,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.932169,
     "mps:longitude":46.753703,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0643\u0645\u0627"
     ],
@@ -41,9 +44,6 @@
     "name:rus_x_preferred":[
         "\u0412\u043e\u0445\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u0412\u043e\u0445\u043c\u0430"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"4400400000100",
@@ -62,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +74,6 @@
     "wof:concordances":{
         "gn:id":472887,
         "gp:id":2057660,
-        "qs:id":80447,
         "qs_pg:id":80447
     },
     "wof:country":"RU",
@@ -88,7 +87,7 @@
         }
     ],
     "wof:id":102008245,
-    "wof:lastmodified":1564108917,
+    "wof:lastmodified":1566615265,
     "wof:name":"Vokhma",
     "wof:parent_id":1108737557,
     "wof:placetype":"locality",

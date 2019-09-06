@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000567,
-    "geom:area_square_m":4163401.277101,
+    "geom:area_square_m":4163401.277096,
     "geom:bbox":"78.486831665,53.5798873901,78.5268630981,53.6058883667",
     "geom:latitude":53.593792,
     "geom:longitude":78.506089,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.595759,
     "lbl:longitude":78.507454,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.595759,
     "mps:longitude":78.507454,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khorosheye"
     ],
@@ -25,9 +28,6 @@
         "Khorosjeje"
     ],
     "name:rus_x_preferred":[
-        "\u0425\u043e\u0440\u043e\u0448\u0435\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u0425\u043e\u0440\u043e\u0448\u0435\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687925,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102013271,
-    "wof:lastmodified":1501220049,
+    "wof:lastmodified":1566615071,
     "wof:name":"Khorosheye",
     "wof:parent_id":1108734271,
     "wof:placetype":"locality",

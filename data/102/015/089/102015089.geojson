@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.879655,
     "lbl:longitude":128.529323,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":50.879655,
     "mps:longitude":128.529323,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0648\u063a\u0648\u0631\u0633\u0643"
     ],
@@ -160,7 +163,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0454\u043b\u043e\u0433\u043e\u0440\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuibyshevka"
     ],
     "name:urd_x_preferred":[
@@ -197,7 +200,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.916667,
     "wd:longitude":128.483333,
@@ -229,7 +232,7 @@
         }
     ],
     "wof:id":102015089,
-    "wof:lastmodified":1563239785,
+    "wof:lastmodified":1566614959,
     "wof:name":"",
     "wof:parent_id":1108732939,
     "wof:placetype":"locality",

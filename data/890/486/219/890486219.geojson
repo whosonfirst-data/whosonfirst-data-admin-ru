@@ -11,11 +11,15 @@
     "geom:longitude":29.48941,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"29.46941,60.52429,29.50941,60.56429",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0441\u0435\u043b\u044c\u0441\u043a\u0438\u0439"
     ],
@@ -49,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0441\u0435\u043b\u044c\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kyuryolya"
     ],
     "qs:name":"Krasnosel'skiy",
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":542228,
         "gp:id":55875680,
-        "qs:id":393455,
+        "qs_pg:id":393455,
         "wk:page":"Krasnoselsky"
     },
     "wof:country":"RU",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890486219,
-    "wof:lastmodified":1564129233,
+    "wof:lastmodified":1566630849,
     "wof:name":"Krasnosel'skiy",
     "wof:parent_id":890485873,
     "wof:placetype":"locality",

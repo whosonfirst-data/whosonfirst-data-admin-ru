@@ -11,11 +11,15 @@
     "geom:longitude":87.9869,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":10114,
+    "gn:population":10114,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"87.9669,52.9009,88.0069,52.9409",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0428\u044d\u0440\u044d\u0433\u0435\u0448"
     ],
@@ -52,9 +56,6 @@
     "name:tur_x_preferred":[
         "\u015eerege\u015f"
     ],
-    "name:unk_x_variant":[
-        "\u0428\u0435\u0440\u0435\u0433\u0435\u0448"
-    ],
     "name:zho_x_preferred":[
         "\u8c22\u96f7\u6208\u4ec0"
     ],
@@ -82,7 +83,7 @@
     "wof:concordances":{
         "gn:id":1492252,
         "gp:id":2082434,
-        "qs:id":482785,
+        "qs_pg:id":482785,
         "wd:id":"Q924537",
         "wk:page":"Sheregesh"
     },
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":890479959,
-    "wof:lastmodified":1563262534,
+    "wof:lastmodified":1566630751,
     "wof:name":"Sheregesh",
     "wof:parent_id":890484213,
     "wof:placetype":"locality",

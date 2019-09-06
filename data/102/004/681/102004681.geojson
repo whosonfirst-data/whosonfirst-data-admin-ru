@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000292,
-    "geom:area_square_m":2184145.48504,
+    "geom:area_square_m":2184145.485037,
     "geom:bbox":"38.3504981995,52.7525291443,38.385055542,52.7706375122",
     "geom:latitude":52.761388,
     "geom:longitude":38.367378,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.761479,
     "lbl:longitude":38.367382,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.761479,
     "mps:longitude":38.367382,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Ploskoye"
     ],
@@ -31,7 +34,7 @@
     "name:rus_x_variant":[
         "\u0421\u0442\u0430\u043d\u043e\u0432\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stanovoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -50,7 +53,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687917,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":489290,
         "gp:id":2122906,
-        "qs:id":124835
+        "qs_pg:id":124835
     },
     "wof:country":"RU",
     "wof:geomhash":"3538146de249027f5cc9ebdec0d76138",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":102004681,
-    "wof:lastmodified":1505338922,
+    "wof:lastmodified":1566615572,
     "wof:name":"Ploskoye",
     "wof:parent_id":1108736785,
     "wof:placetype":"locality",

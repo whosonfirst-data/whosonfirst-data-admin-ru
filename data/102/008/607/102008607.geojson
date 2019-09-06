@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.313343,
     "lbl:longitude":58.775639,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":57.313343,
     "mps:longitude":58.775639,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sylva"
     ],
@@ -59,7 +62,7 @@
     "name:swe_x_preferred":[
         "Sylva"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sylvinskiy Zavod"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":189,
     "wof:belongsto":[
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":485231,
         "gp:id":2123794,
-        "qs:id":257468,
         "qs_pg:id":257468
     },
     "wof:country":"RU",
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":102008607,
-    "wof:lastmodified":1564108953,
+    "wof:lastmodified":1566615298,
     "wof:name":"Sylva",
     "wof:parent_id":1108736499,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":87.27611,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":1200,
+    "gn:population":1200,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"87.25611,51.77278,87.29611,51.81278",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Artybash"
     ],
@@ -43,9 +47,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0442\u0438\u0431\u0430\u0448"
     ],
-    "name:unk_x_variant":[
-        "\u0410\u0440\u0442\u044b\u0431\u0430\u0448"
-    ],
     "qs:name":"Artybash",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Altai Republic",
@@ -67,7 +68,7 @@
     "wof:concordances":{
         "gn:id":1511364,
         "gp:id":1984273,
-        "qs:id":211112
+        "qs_pg:id":211112
     },
     "wof:country":"RU",
     "wof:created":1469054645,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":890486945,
-    "wof:lastmodified":1564129269,
+    "wof:lastmodified":1566630887,
     "wof:name":"Artybash",
     "wof:parent_id":890480019,
     "wof:placetype":"locality",

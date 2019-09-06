@@ -11,11 +11,15 @@
     "geom:longitude":131.896018,
     "gn:country":"RU",
     "gn:fcode":"PPLA",
-    "gn:pop":587022,
+    "gn:population":587022,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"131.876018,43.097122,131.916018,43.137122",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:afr_x_preferred":[
         "Wladiwostok"
     ],
@@ -413,12 +417,12 @@
     "wof:concordances":{
         "gn:id":2013348,
         "gp:id":2124288,
-        "qs:id":900431,
+        "qs_pg:id":900431,
         "wd:id":"Q959",
         "wk:page":"Vladivostok"
     },
     "wof:concordances_alt":{
-        "qs:id":351489
+        "qs_pg:id":351489
     },
     "wof:country":"RU",
     "wof:created":1469054482,
@@ -434,7 +438,7 @@
         }
     ],
     "wof:id":890483789,
-    "wof:lastmodified":1563262341,
+    "wof:lastmodified":1566630672,
     "wof:name":"Vladivostok",
     "wof:parent_id":1108737535,
     "wof:placetype":"locality",

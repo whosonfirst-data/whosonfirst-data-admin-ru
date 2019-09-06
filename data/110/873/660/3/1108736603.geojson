@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":44.913784,
     "lbl:longitude":42.127761,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Stavropol'skij kraj",
     "meso:admin1r_en":"Severo-Kavkazskij federal'nyj okrug",
     "meso:admin_1":"\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":42.127761,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ces_x_preferred":[
         "\u0160pakovsk\u00fd raj\u00f3n"
     ],
@@ -93,9 +96,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u043f\u0430\u043a\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0428\u043f\u0430\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Shpakovsky"
     ],
@@ -103,9 +103,9 @@
         "\u4ec0\u5e15\u79d1\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2283",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Shpakovskoye",
@@ -139,7 +139,7 @@
         }
     ],
     "wof:id":1108736603,
-    "wof:lastmodified":1563256724,
+    "wof:lastmodified":1566627001,
     "wof:name":"Shpakovskiy",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

@@ -11,11 +11,15 @@
     "geom:longitude":37.3419,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":1500,
+    "gn:population":1500,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"37.3219,55.67234,37.3619,55.71234",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Sk\u00f3lkovo"
     ],
@@ -61,9 +65,6 @@
     "name:rus_x_preferred":[
         "\u0421\u043a\u043e\u043b\u043a\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u043a\u043e\u043b\u043a\u043e\u0432\u043e"
-    ],
     "name:vol_x_preferred":[
         "Skolkovo"
     ],
@@ -92,7 +93,7 @@
     "wof:concordances":{
         "gn:id":492396,
         "gp:id":2085081,
-        "qs:id":1072117,
+        "qs_pg:id":1072117,
         "wd:id":"Q1020388",
         "wk:page":"Skolkovo"
     },
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":890484133,
-    "wof:lastmodified":1563262357,
+    "wof:lastmodified":1566630679,
     "wof:name":"Skolkovo",
     "wof:parent_id":1108735599,
     "wof:placetype":"locality",

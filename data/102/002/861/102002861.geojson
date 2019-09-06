@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.531848,
     "lbl:longitude":37.608877,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.531848,
     "mps:longitude":37.608877,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u0628\u064a\u0644\u0643\u064a"
     ],
@@ -56,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688161,
@@ -69,7 +72,6 @@
     "wof:concordances":{
         "gn:id":475845,
         "gp:id":2124198,
-        "qs:id":1233415,
         "qs_pg:id":1233415
     },
     "wof:country":"RU",
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":102002861,
-    "wof:lastmodified":1564109371,
+    "wof:lastmodified":1566615675,
     "wof:name":"Verbilki",
     "wof:parent_id":890487109,
     "wof:placetype":"locality",

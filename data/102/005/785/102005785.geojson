@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000737,
-    "geom:area_square_m":5698379.067427,
+    "geom:area_square_m":5698379.06743,
     "geom:bbox":"38.3200569153,51.2714614868,38.3742370605,51.3004417419",
     "geom:latitude":51.284322,
     "geom:longitude":38.354935,
     "iso:country":"RU",
     "lbl:latitude":51.283033,
     "lbl:longitude":38.359861,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.283033,
     "mps:longitude":38.359861,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dmitriyevka"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dmitriyev"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0445",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2278,
     "wof:belongsto":[
         85688051,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102005785,
-    "wof:lastmodified":1527637959,
+    "wof:lastmodified":1566615633,
     "wof:name":"Dmitriyevka",
     "wof:parent_id":1108735381,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tomsk",
     "iso:country":"RU",
+    "lbl:bbox":"84.80058,56.51778,84.84058,56.55778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Petrovo"
     ],
@@ -73,10 +77,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0432\u043e"
     ],
-    "name:und_x_variant":[
-        "Petrova",
-        "Petrovo"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85687809,
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1360010849,
-    "wof:lastmodified":1564127272,
+    "wof:lastmodified":1566629308,
     "wof:name":"Petrovo",
     "wof:parent_id":890483509,
     "wof:placetype":"locality",

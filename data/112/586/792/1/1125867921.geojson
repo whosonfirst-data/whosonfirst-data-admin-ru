@@ -9,15 +9,18 @@
     "geom:bbox":"115.5266,52.36604,115.5266,52.36604",
     "geom:latitude":52.36604,
     "geom:longitude":115.5266,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6451,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":6451,
     "iso:country":"RU",
+    "lbl:bbox":"115.5066,52.34604,115.5466,52.38604",
     "lbl:latitude":52.36604,
     "lbl:longitude":115.5266,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vershino-Darasunskiy"
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0412\u0435\u0440\u0448\u0438\u043d\u043e-\u0414\u0430\u0440\u0430\u0441\u0443\u043d\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Darasun"
     ],
     "qs_pg:aaroncc":"RU",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":137398,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688005,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1125867921,
-    "wof:lastmodified":1509397121,
+    "wof:lastmodified":1566631009,
     "wof:name":"Vershino-Darasunskiy",
     "wof:parent_id":1108737109,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.346397,
     "lbl:longitude":51.584477,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.346397,
     "mps:longitude":51.584477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Yagul"
     ],
@@ -70,7 +73,7 @@
     "name:tur_x_preferred":[
         "Yagul"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "L\u2019vovskiy"
     ],
     "name:xmf_x_preferred":[
@@ -92,7 +95,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":16.958361,
     "wd:longitude":-96.450139,
     "wd:wordcount":1339,
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":102008897,
-    "wof:lastmodified":1564108954,
+    "wof:lastmodified":1566615299,
     "wof:name":"Yagul",
     "wof:parent_id":1108734477,
     "wof:placetype":"locality",

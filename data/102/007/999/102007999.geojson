@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000693,
-    "geom:area_square_m":6037771.324732,
+    "geom:area_square_m":6037771.324733,
     "geom:bbox":"37.2688331604,45.1536941528,37.2977790833,45.1897239685",
     "geom:latitude":45.172427,
     "geom:longitude":37.283073,
@@ -14,17 +14,20 @@
     "iso:country":"RU",
     "lbl:latitude":45.173218,
     "lbl:longitude":37.284517,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.173218,
     "mps:longitude":37.284517,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Belyj"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043b\u044b\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vozrozhdeniye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -43,7 +46,7 @@
     "qs:type":"\u0445",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":101,
     "wof:belongsto":[
         85688029,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102007999,
-    "wof:lastmodified":1527637033,
+    "wof:lastmodified":1566615149,
     "wof:name":"Belyy",
     "wof:parent_id":1108736977,
     "wof:placetype":"locality",

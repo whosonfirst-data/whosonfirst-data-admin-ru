@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":58.803301,
     "lbl:longitude":47.120363,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.803301,
     "mps:longitude":47.120363,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Luptyug"
     ],
@@ -23,9 +26,6 @@
         "Luptjug"
     ],
     "name:rus_x_preferred":[
-        "\u041b\u0443\u043f\u0442\u044e\u0433"
-    ],
-    "name:unk_x_variant":[
         "\u041b\u0443\u043f\u0442\u044e\u0433"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688115,
         102191581,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":102008257,
-    "wof:lastmodified":1501214633,
+    "wof:lastmodified":1566615269,
     "wof:name":"Luptyug",
     "wof:parent_id":1108735627,
     "wof:placetype":"locality",

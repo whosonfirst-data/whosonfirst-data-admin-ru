@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000595,
-    "geom:area_square_m":4318789.73626,
+    "geom:area_square_m":4318789.736261,
     "geom:bbox":"41.2672843933,54.0587005615,41.299785614,54.0883331299",
     "geom:latitude":54.073255,
     "geom:longitude":41.282514,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.073651,
     "lbl:longitude":41.282514,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.073651,
     "mps:longitude":41.282514,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Romanovy Darki"
     ],
@@ -25,9 +28,6 @@
         "Romanovy Darki"
     ],
     "name:rus_x_preferred":[
-        "\u0420\u043e\u043c\u0430\u043d\u043e\u0432\u044b \u0414\u0430\u0440\u043a\u0438"
-    ],
-    "name:unk_x_variant":[
         "\u0420\u043e\u043c\u0430\u043d\u043e\u0432\u044b \u0414\u0430\u0440\u043a\u0438"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687963,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102003973,
-    "wof:lastmodified":1501214522,
+    "wof:lastmodified":1566615561,
     "wof:name":"Romanovy-Dorki",
     "wof:parent_id":1108736033,
     "wof:placetype":"locality",

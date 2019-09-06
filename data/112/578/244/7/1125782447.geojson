@@ -9,15 +9,18 @@
     "geom:bbox":"44.00205,56.32867,44.00205,56.32867",
     "geom:latitude":56.32867,
     "geom:longitude":44.00205,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":1284164,
+    "gn:country":"RU",
+    "gn:fcode":"PPLA",
     "gn:population":1284164,
     "iso:country":"RU",
+    "lbl:bbox":"43.98205,56.30867,44.02205,56.34867",
     "lbl:latitude":56.32867,
     "lbl:longitude":44.00205,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Nizjni Nowgorod"
@@ -373,7 +376,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0436\u043d\u0456\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gorkey"
     ],
     "name:urd_x_preferred":[
@@ -427,7 +430,7 @@
     "qs_pg:woe_adm0":23424936,
     "qs_pg:woe_id":2052932,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424936,
     "woe:name_adm0":"Russia",
@@ -461,7 +464,7 @@
         }
     ],
     "wof:id":1125782447,
-    "wof:lastmodified":1563263160,
+    "wof:lastmodified":1566631034,
     "wof:name":"Nizhniy Novgorod",
     "wof:parent_id":1108733657,
     "wof:placetype":"locality",

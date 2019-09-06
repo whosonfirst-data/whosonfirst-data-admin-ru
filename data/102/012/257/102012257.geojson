@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.37089,
     "lbl:longitude":64.465378,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.37089,
     "mps:longitude":64.465378,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Yurgamysh"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":791,
     "wof:belongsto":[
@@ -87,7 +90,6 @@
     "wof:concordances":{
         "gn:id":1485721,
         "gp:id":2124521,
-        "qs:id":194615,
         "qs_pg:id":194615
     },
     "wof:country":"RU",
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":102012257,
-    "wof:lastmodified":1564108631,
+    "wof:lastmodified":1566614993,
     "wof:name":"Yurgamysh",
     "wof:parent_id":1108734141,
     "wof:placetype":"locality",

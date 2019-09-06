@@ -11,11 +11,15 @@
     "geom:longitude":35.91897,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":2363,
+    "gn:population":2363,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"35.89897,56.99316,35.93897,57.03316",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0633\u064a\u0644\u064a\u064a\u0641\u0633\u0643\u064a\u064a \u0645\u0648\u0643"
     ],
@@ -40,7 +44,7 @@
     "name:srp_x_preferred":[
         "\u0412\u0430\u0441\u0438\u0459\u0435\u0432\u0441\u043a\u0438 \u041c\u043e\u0445"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tsentral\u2019nyy"
     ],
     "qs:name":"Vasil'yevskiy Mokh",
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":476548,
         "gp:id":2103381,
-        "qs:id":345907,
+        "qs_pg:id":345907,
         "wd:id":"Q4104853"
     },
     "wof:country":"RU",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":890482585,
-    "wof:lastmodified":1563262209,
+    "wof:lastmodified":1566630615,
     "wof:name":"Vasil'yevskiy Mokh",
     "wof:parent_id":890485217,
     "wof:placetype":"locality",

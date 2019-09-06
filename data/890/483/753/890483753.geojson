@@ -11,11 +11,14 @@
     "geom:longitude":36.8,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"36.795,55.195,36.805,55.205",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u043b\u043e\u0432\u0438\u043d\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u043b\u043e\u0432\u0438\u043d\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Golovinka"
     ],
     "name:zho_x_preferred":[
@@ -82,7 +85,7 @@
     "wof:concordances":{
         "gn:id":560660,
         "gp:id":55874430,
-        "qs:id":1026060,
+        "qs_pg:id":1026060,
         "wd:id":"Q1017756",
         "wk:page":"Golovinsky District"
     },
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890483753,
-    "wof:lastmodified":1563262230,
+    "wof:lastmodified":1566630624,
     "wof:name":"Golovinsky",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

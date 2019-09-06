@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"33.81679,54.62303,33.85679,54.66303",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043b\u043e\u0442\u043e\u0432\u043a\u0430"
     ],
@@ -42,10 +46,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0413\u043b\u043e\u0442\u043e\u0432\u043a\u0430"
-    ],
-    "name:und_x_variant":[
-        "\u0413\u043b\u043e\u0442\u043e\u0432\u043a\u0430",
-        "Glotovka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":1343985683,
-    "wof:lastmodified":1564109588,
+    "wof:lastmodified":1566615839,
     "wof:name":"Glotovka",
     "wof:parent_id":1108737149,
     "wof:placetype":"locality",

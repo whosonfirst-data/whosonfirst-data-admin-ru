@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.44199,
     "lbl:longitude":34.420871,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.44199,
     "mps:longitude":34.420871,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0643\u064a\u0646\u0648"
     ],
@@ -137,7 +140,7 @@
     "name:ukr_x_variant":[
         "\u0424\u043e\u043a\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tsementny"
     ],
     "name:urd_x_preferred":[
@@ -173,7 +176,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685,
@@ -184,10 +187,12 @@
     "wof:concordances":{
         "gn:id":2015310,
         "gp:id":2120799,
-        "qs:id":894801,
         "qs_pg:id":137435,
         "wd:id":"Q197382",
         "wk:page":"Fokino, Bryansk Oblast"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":894801
     },
     "wof:country":"RU",
     "wof:geomhash":"b6e9f54bb3303d15078366e7c2202f9a",
@@ -200,7 +205,7 @@
         }
     ],
     "wof:id":102004329,
-    "wof:lastmodified":1563241323,
+    "wof:lastmodified":1566615608,
     "wof:name":"Fokino",
     "wof:parent_id":1108733537,
     "wof:placetype":"locality",

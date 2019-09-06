@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.991309,
     "lbl:longitude":60.473012,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":56.991309,
     "mps:longitude":60.473012,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u0631\u064a\u062f\u0646\u0648\u0631\u0627\u0644\u0633\u0643"
     ],
@@ -103,9 +106,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0440\u0454\u0434\u043d\u0454\u0443\u0440\u0430\u043b\u044c\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u0440\u0435\u0434\u043d\u0435\u0443\u0440\u0430\u043b\u044c\u0441\u043a"
-    ],
     "name:vep_x_preferred":[
         "Sredneural'sk"
     ],
@@ -133,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.983333,
     "wd:longitude":60.466667,
@@ -148,7 +148,6 @@
     "wof:concordances":{
         "gn:id":1491159,
         "gp:id":2124704,
-        "qs:id":446541,
         "qs_pg:id":446541,
         "wd:id":"Q196466",
         "wk:page":"Sredneuralsk"
@@ -164,7 +163,7 @@
         }
     ],
     "wof:id":102011837,
-    "wof:lastmodified":1563240825,
+    "wof:lastmodified":1566615414,
     "wof:name":"Sredneural'Sk",
     "wof:parent_id":1108733867,
     "wof:placetype":"locality",

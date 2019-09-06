@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001014,
-    "geom:area_square_m":7792627.163553,
+    "geom:area_square_m":7792627.163552,
     "geom:bbox":"41.4510383606,51.5683097839,41.5100746155,51.6040840149",
     "geom:latitude":51.588029,
     "geom:longitude":41.482101,
     "iso:country":"RU",
     "lbl:latitude":51.591572,
     "lbl:longitude":41.476734,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.591572,
     "mps:longitude":41.476734,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0411\u0440\u0430\u0442\u043a\u0438"
     ],
@@ -26,9 +29,6 @@
         "Bratki"
     ],
     "name:rus_x_preferred":[
-        "\u0411\u0440\u0430\u0442\u043a\u0438"
-    ],
-    "name:unk_x_variant":[
         "\u0411\u0440\u0430\u0442\u043a\u0438"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688051,
         102191581,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":102005513,
-    "wof:lastmodified":1514500786,
+    "wof:lastmodified":1566615657,
     "wof:name":"Bratki",
     "wof:parent_id":1108736995,
     "wof:placetype":"locality",

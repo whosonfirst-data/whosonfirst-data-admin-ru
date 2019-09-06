@@ -9,18 +9,21 @@
     "geom:bbox":"37.163192749,55.581111908,37.1989440918,55.598110199",
     "geom:latitude":55.590714,
     "geom:longitude":37.180149,
-    "geonames:id":"528919,546606",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":9818,
+    "gn:id":"528919,546606",
+    "gn:population":9818,
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:latitude":55.58991,
     "lbl:longitude":37.179878,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.58991,
     "mps:longitude":37.179878,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kokoshkino"
     ],
@@ -67,7 +70,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688085,
@@ -81,7 +84,7 @@
     "wof:concordances":{
         "gn:id":546606,
         "gp:id":2023729,
-        "qs:id":1221768
+        "qs_pg:id":1221768
     },
     "wof:country":"RU",
     "wof:geomhash":"b0c0a9c5381593f5ad3c86c566e449d8",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":102003271,
-    "wof:lastmodified":1564109229,
+    "wof:lastmodified":1566615551,
     "wof:name":"Kokoshkino",
     "wof:parent_id":1108735435,
     "wof:placetype":"locality",

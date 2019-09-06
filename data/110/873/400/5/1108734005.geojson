@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":45.794576,
     "lbl:longitude":42.551241,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Stavropol'skij kraj",
     "meso:admin1r_en":"Severo-Kavkazskij federal'nyj okrug",
     "meso:admin_1":"\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":42.551241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ipatovskiy"
     ],
@@ -63,7 +66,7 @@
         "\u0418\u043f\u0430\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687825,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108734005,
-    "wof:lastmodified":1561581995,
+    "wof:lastmodified":1566627019,
     "wof:name":"Ipatovskiy",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

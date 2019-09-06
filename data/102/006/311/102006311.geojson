@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.45592,
     "lbl:longitude":40.130614,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.45592,
     "mps:longitude":40.130614,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0641\u0644\u0648\u0641\u0633\u0643"
     ],
@@ -118,9 +121,6 @@
     "name:ukr_x_variant":[
         "\u041f\u0430\u0432\u043b\u0456\u0432\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "Pawlowsk"
-    ],
     "name:war_x_preferred":[
         "Pavlovsk"
     ],
@@ -148,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -160,10 +160,12 @@
     "wof:concordances":{
         "gn:id":1495448,
         "gp:id":2122773,
-        "qs:id":844945,
         "qs_pg:id":132888,
         "wd:id":"Q177867",
         "wk:page":"Pavlovsk, Voronezh Oblast"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":844945
     },
     "wof:country":"RU",
     "wof:geomhash":"cf2a3bb4a225702a310db9f4de6b5864",
@@ -176,7 +178,7 @@
         }
     ],
     "wof:id":102006311,
-    "wof:lastmodified":1563240709,
+    "wof:lastmodified":1566615373,
     "wof:name":"Pavlovsk",
     "wof:parent_id":1108735791,
     "wof:placetype":"locality",

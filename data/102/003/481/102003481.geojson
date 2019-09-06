@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.179847,
     "lbl:longitude":36.673844,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":55.179847,
     "mps:longitude":36.673844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u0627\u0628\u0627\u0646\u0648\u0641\u0648"
     ],
@@ -127,7 +130,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0431\u0430\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Balobanovo"
     ],
     "name:urd_x_preferred":[
@@ -160,7 +163,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":81,
     "wof:belongsto":[
@@ -174,7 +177,6 @@
     "wof:concordances":{
         "gn:id":579529,
         "gp:id":2120147,
-        "qs:id":125752,
         "qs_pg:id":125752,
         "wd:id":"Q104545",
         "wk:page":"Balabanovo"
@@ -192,7 +194,7 @@
         }
     ],
     "wof:id":102003481,
-    "wof:lastmodified":1563241169,
+    "wof:lastmodified":1566615549,
     "wof:name":"Balabanovo",
     "wof:parent_id":890484205,
     "wof:placetype":"locality",

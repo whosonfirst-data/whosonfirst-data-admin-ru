@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.865239,
     "lbl:longitude":44.844135,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.865239,
     "mps:longitude":44.844135,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Issa"
     ],
@@ -70,9 +73,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u0441\u0441\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u0418\u0441\u0441\u0430"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"5801000000100",
@@ -91,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":283,
     "wof:belongsto":[
@@ -104,7 +104,6 @@
     "wof:concordances":{
         "gn:id":555798,
         "gp:id":2121058,
-        "qs:id":1248021,
         "qs_pg:id":1248021
     },
     "wof:country":"RU",
@@ -118,7 +117,7 @@
         }
     ],
     "wof:id":102004113,
-    "wof:lastmodified":1564109299,
+    "wof:lastmodified":1566615612,
     "wof:name":"Issa",
     "wof:parent_id":1108734031,
     "wof:placetype":"locality",

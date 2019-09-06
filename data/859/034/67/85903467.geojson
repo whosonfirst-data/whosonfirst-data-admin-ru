@@ -15,6 +15,7 @@
     "iso:country":"RU",
     "lbl:latitude":55.81005,
     "lbl:longitude":37.503572,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.795521,
     "mps:longitude":37.522192,
     "mz:hierarchy_label":1,
@@ -84,16 +85,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043a\u0456\u043b"
     ],
-    "name:und_x_preferred":[
-        "Sokol"
-    ],
-    "name:und_x_variant":[
-        "\u0421\u043e\u043a\u043e\u043b"
-    ],
-    "name:unk_x_variant":[
-        "\u0421\u043e\u043a\u043e\u043b",
-        "Sokol"
-    ],
     "name:zho_x_preferred":[
         "\u96bc\u9ce5\u7ad9"
     ],
@@ -138,7 +129,6 @@
     "wof:concordances":{
         "gn:id":491280,
         "gp:id":2086395,
-        "qs:id":238524,
         "qs_pg:id":238524,
         "wd:id":"Q376831",
         "wk:page":"Sokol (Moscow Metro)"
@@ -160,7 +150,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247575,
+    "wof:lastmodified":1566618501,
     "wof:name":"Sokol",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

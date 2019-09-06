@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000628,
-    "geom:area_square_m":4712440.48734,
+    "geom:area_square_m":4712440.487341,
     "geom:bbox":"40.2433891296,52.6202507019,40.2750816345,52.6506958008",
     "geom:latitude":52.635439,
     "geom:longitude":40.260142,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.635408,
     "lbl:longitude":40.25984,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.635408,
     "mps:longitude":40.25984,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Petrovskoye"
     ],
@@ -30,7 +33,7 @@
     "name:rus_x_variant":[
         "Murav\u2019y\u00ebvka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Petrovka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":163,
     "wof:belongsto":[
         102191581,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":102004741,
-    "wof:lastmodified":1527637843,
+    "wof:lastmodified":1566615589,
     "wof:name":"Petrovskoye",
     "wof:parent_id":1108735853,
     "wof:placetype":"locality",

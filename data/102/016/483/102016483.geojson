@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000395,
-    "geom:area_square_m":3561620.059225,
+    "geom:area_square_m":3561620.059224,
     "geom:bbox":"44.492351532,43.1023178101,44.5211029053,43.1214904785",
     "geom:latitude":43.112253,
     "geom:longitude":44.508095,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.111863,
     "lbl:longitude":44.508095,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":43.111863,
     "mps:longitude":44.508095,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Arkhonskaya"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0410\u0440\u0445\u043e\u043d\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arkhohskaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +52,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687865
+        85687865,
+        1108735973
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":580942,
         "gp:id":2120081,
-        "qs:id":190170,
         "qs_pg:id":190170
     },
     "wof:country":"RU",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102016483,
-    "wof:lastmodified":1505338949,
+    "wof:lastmodified":1566615433,
     "wof:name":"Arkhonskaya",
     "wof:parent_id":1108735973,
     "wof:placetype":"locality",

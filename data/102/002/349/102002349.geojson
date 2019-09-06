@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":62.649111,
     "lbl:longitude":135.545238,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":62.649111,
     "mps:longitude":135.545238,
     "mz:hierarchy_label":1,
@@ -185,7 +187,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1087,
     "wof:belongsto":[
@@ -198,7 +200,6 @@
     "wof:concordances":{
         "gn:id":2022773,
         "gp:id":2121309,
-        "qs:id":570942,
         "qs_pg:id":570942,
         "wd:id":"Q2619416",
         "wk:page":"Khandyga"
@@ -214,7 +215,7 @@
         }
     ],
     "wof:id":102002349,
-    "wof:lastmodified":1563241530,
+    "wof:lastmodified":1566615686,
     "wof:name":"Khandyga",
     "wof:parent_id":1108737059,
     "wof:placetype":"locality",

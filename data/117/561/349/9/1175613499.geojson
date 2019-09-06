@@ -9,13 +9,15 @@
     "geom:bbox":"104.223114014,52.2239456177,104.392974854,52.328666687",
     "geom:latitude":52.278711,
     "geom:longitude":104.304955,
-    "geonames:id":"2023469,7536078",
     "gn:country":"RU",
     "gn:fcode":"PPLA",
-    "gn:pop":586695,
+    "gn:id":"2023469,7536078",
+    "gn:population":586695,
     "iso:country":"RU",
     "lbl:latitude":52.282563,
     "lbl:longitude":104.315805,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":52.282563,
     "mps:longitude":104.315805,
     "mz:hierarchy_label":1,
@@ -325,9 +327,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u0440\u043a\u0443\u0442\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "\u0418\u0440\u043a\u0443\u0446\u043a"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0631\u06a9\u062a\u0633\u06a9"
     ],
@@ -470,7 +469,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.283333,
     "wd:longitude":104.3,
@@ -487,7 +486,7 @@
     "wof:concordances":{
         "gn:id":2023469,
         "gp:id":90610293,
-        "qs:id":351523,
+        "qs_pg:id":351523,
         "wd:id":"Q6576",
         "wk:page":"Irkutsk"
     },
@@ -504,7 +503,7 @@
         }
     ],
     "wof:id":1175613499,
-    "wof:lastmodified":1563257446,
+    "wof:lastmodified":1566627438,
     "wof:name":"Irkutsk",
     "wof:parent_id":1108734013,
     "wof:placetype":"locality",

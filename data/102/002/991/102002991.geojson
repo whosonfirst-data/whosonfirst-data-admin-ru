@@ -9,18 +9,20 @@
     "geom:bbox":"37.9088058472,56.0933609009,37.9742240906,56.1744995117",
     "geom:latitude":56.137481,
     "geom:longitude":37.939087,
-    "geonames:id":"491351,491352",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
-    "gn:population":56,
+    "gn:id":"491351,491352",
+    "gn:population":0,
     "iso:country":"RU",
     "lbl:latitude":56.130149,
     "lbl:longitude":37.933636,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":56.130149,
     "mps:longitude":37.933636,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u043e\u0444\u0440\u044b\u043d\u0430"
     ],
@@ -45,9 +47,6 @@
     "name:rus_x_preferred":[
         "\u0421\u043e\u0444\u0440\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u043e\u0444\u0440\u0438\u043d\u043e"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"5002700007400",
@@ -66,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688161,
@@ -79,12 +78,11 @@
     "wof:concordances":{
         "gn:id":491351,
         "gp:id":2123543,
-        "qs:id":124854,
         "qs_pg:id":124854
     },
     "wof:concordances_alt":{
         "gn:id":491352,
-        "qs:id":190284
+        "qs_pg:id":190284
     },
     "wof:country":"RU",
     "wof:geomhash":"3bed8ae72e302069cd0e6587351526e2",
@@ -99,7 +97,7 @@
         }
     ],
     "wof:id":102002991,
-    "wof:lastmodified":1564109364,
+    "wof:lastmodified":1566615664,
     "wof:name":"Sofrino",
     "wof:parent_id":890481935,
     "wof:placetype":"locality",

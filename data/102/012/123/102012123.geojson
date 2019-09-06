@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000274,
-    "geom:area_square_m":1899293.604304,
+    "geom:area_square_m":1899293.604306,
     "geom:bbox":"71.7779464722,55.8545570374,71.8028869629,55.8698883057",
     "geom:latitude":55.863153,
     "geom:longitude":71.791701,
     "iso:country":"RU",
     "lbl:latitude":55.86281,
     "lbl:longitude":71.791938,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.86281,
     "mps:longitude":71.791938,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oglukhino"
     ],
@@ -23,9 +26,6 @@
         "Oglukhino"
     ],
     "name:rus_x_preferred":[
-        "\u041e\u0433\u043b\u0443\u0445\u0438\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u041e\u0433\u043b\u0443\u0445\u0438\u043d\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688189,
         102191581,
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":102012123,
-    "wof:lastmodified":1501220024,
+    "wof:lastmodified":1566615026,
     "wof:name":"Oglukhino",
     "wof:parent_id":1108734763,
     "wof:placetype":"locality",

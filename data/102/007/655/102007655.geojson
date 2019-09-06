@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000564,
-    "geom:area_square_m":4852871.179586,
+    "geom:area_square_m":4852871.179585,
     "geom:bbox":"38.8398323059,45.9103317261,38.876750946,45.9355010986",
     "geom:latitude":45.924732,
     "geom:longitude":38.856718,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.923637,
     "lbl:longitude":38.856366,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.923637,
     "mps:longitude":38.856366,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chepiginskaya"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0427\u0435\u043f\u0438\u0433\u0438\u043d\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stanitsa Chepeginskaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688029,
         102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102007655,
-    "wof:lastmodified":1501214767,
+    "wof:lastmodified":1566615189,
     "wof:name":"Chepiginskaya",
     "wof:parent_id":1108733111,
     "wof:placetype":"locality",

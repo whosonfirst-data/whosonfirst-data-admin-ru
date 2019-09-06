@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kirov",
     "iso:country":"RU",
+    "lbl:bbox":"47.76408,57.61921,47.80408,57.65921",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Soboli"
     ],
@@ -64,10 +68,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0431\u043e\u043b\u0456"
     ],
-    "name:und_x_variant":[
-        "\u0421\u043e\u0431\u043e\u043b\u0438",
-        "Soboli"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85687903,
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1293634553,
-    "wof:lastmodified":1564113148,
+    "wof:lastmodified":1566619010,
     "wof:name":"Soboli",
     "wof:parent_id":1108737121,
     "wof:placetype":"locality",

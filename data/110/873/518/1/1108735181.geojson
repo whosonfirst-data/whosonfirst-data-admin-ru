@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":55.329264,
     "lbl:longitude":36.80508,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Moskovskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":36.80508,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Molodjozhnyj"
     ],
@@ -63,9 +66,9 @@
         "\u041c\u043e\u043b\u043e\u0434\u0451\u0436\u043d\u044b\u0439"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1982",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Naro-Fominsk",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108735181,
-    "wof:lastmodified":1561582014,
+    "wof:lastmodified":1566627079,
     "wof:name":"Molodjozhnyj",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

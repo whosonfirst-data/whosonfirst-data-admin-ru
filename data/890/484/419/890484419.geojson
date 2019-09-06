@@ -11,11 +11,15 @@
     "geom:longitude":86.1816,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"86.1616,54.3449,86.2016,54.3849",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0648\u0641\u0648"
     ],
@@ -142,7 +146,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0454\u043b\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ulus Bekova"
     ],
     "name:urd_x_preferred":[
@@ -183,7 +187,7 @@
     "wof:concordances":{
         "gn:id":1510594,
         "gp:id":1987431,
-        "qs:id":1116876,
+        "qs_pg:id":1116876,
         "wd:id":"Q104717",
         "wk:page":"Bekovo"
     },
@@ -201,7 +205,7 @@
         }
     ],
     "wof:id":890484419,
-    "wof:lastmodified":1563262424,
+    "wof:lastmodified":1566630705,
     "wof:name":"Bekovo",
     "wof:parent_id":890485439,
     "wof:placetype":"locality",

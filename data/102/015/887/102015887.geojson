@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000326,
-    "geom:area_square_m":2875904.095236,
+    "geom:area_square_m":2875904.095238,
     "geom:bbox":"44.6423606873,44.5127220154,44.6795272827,44.5246391296",
     "geom:latitude":44.519123,
     "geom:longitude":44.660935,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.518809,
     "lbl:longitude":44.658723,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.518809,
     "mps:longitude":44.658723,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Karatyube"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0442\u044e\u0431\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mangit Russkiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687825,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102015887,
-    "wof:lastmodified":1501214702,
+    "wof:lastmodified":1566614934,
     "wof:name":"Karatyube",
     "wof:parent_id":1108735327,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.111785,
     "lbl:longitude":129.444733,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.111785,
     "mps:longitude":129.444733,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0632\u0627\u0641\u064a\u062a\u064a\u0646\u0633\u0643"
     ],
@@ -130,7 +133,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0432\u0456\u0442\u0456\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zavitaya"
     ],
     "name:urd_x_preferred":[
@@ -161,7 +164,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.116667,
     "wd:longitude":129.433333,
@@ -177,7 +180,6 @@
     "wof:concordances":{
         "gn:id":2012626,
         "gp:id":2124567,
-        "qs:id":137378,
         "qs_pg:id":137378,
         "wd:id":"Q136456",
         "wk:page":"Zavitinsk"
@@ -195,7 +197,7 @@
         }
     ],
     "wof:id":102015141,
-    "wof:lastmodified":1563239822,
+    "wof:lastmodified":1566614976,
     "wof:name":"Zavitinsk",
     "wof:parent_id":890479549,
     "wof:placetype":"locality",

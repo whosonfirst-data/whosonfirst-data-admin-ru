@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001253,
-    "geom:area_square_m":9358635.932372,
+    "geom:area_square_m":9358635.93237,
     "geom:bbox":"80.880821228,52.8257713318,80.9421691895,52.8583908081",
     "geom:latitude":52.84116,
     "geom:longitude":80.914046,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.840694,
     "lbl:longitude":80.914046,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.840694,
     "mps:longitude":80.914046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0632\u0627\u0641\u064a\u0627\u0644\u0648\u0641\u0648"
     ],
@@ -40,7 +43,7 @@
     "name:rus_x_preferred":[
         "\u0417\u0430\u0432\u044c\u044f\u043b\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zav\u2019yalovo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -59,7 +62,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":106,
     "wof:belongsto":[
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":1485339,
         "gp:id":2116857,
-        "qs:id":244445
+        "qs_pg:id":244445
     },
     "wof:country":"RU",
     "wof:geomhash":"8ff527685b5733e031e279df308b08f5",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":102013469,
-    "wof:lastmodified":1527636666,
+    "wof:lastmodified":1566615074,
     "wof:name":"Zavyalovo",
     "wof:parent_id":1108737953,
     "wof:placetype":"locality",

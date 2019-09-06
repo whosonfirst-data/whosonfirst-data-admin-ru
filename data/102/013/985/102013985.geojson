@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000504,
-    "geom:area_square_m":3521342.617269,
+    "geom:area_square_m":3521342.617267,
     "geom:bbox":"101.480697632,55.5598869324,101.530189514,55.5783691406",
     "geom:latitude":55.568208,
     "geom:longitude":101.508088,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.569972,
     "lbl:longitude":101.512213,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.569972,
     "mps:longitude":101.512213,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Leonovo"
     ],
@@ -30,7 +33,7 @@
     "name:rus_x_variant":[
         "\u041b\u0435\u043e\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Leonovka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688173,
         102191581,
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":2020831,
         "gp:id":2036031,
-        "qs:id":277792,
         "qs_pg:id":277792
     },
     "wof:country":"RU",
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":102013985,
-    "wof:lastmodified":1497291251,
+    "wof:lastmodified":1566615056,
     "wof:name":"Leonovo",
     "wof:parent_id":890484113,
     "wof:placetype":"locality",

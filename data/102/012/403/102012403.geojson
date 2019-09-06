@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":54.910174,
     "lbl:longitude":64.434257,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":54.910174,
     "mps:longitude":64.434257,
     "mz:hierarchy_label":1,
@@ -110,9 +112,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0440\u0442\u0430\u043c\u0438\u0448"
-    ],
-    "name:unk_x_variant":[
-        "\u041a\u0443\u0440\u0442\u0430\u043c\u044b\u0448"
     ],
     "name:vep_x_preferred":[
         "Kurtami\u0161"
@@ -233,7 +232,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -245,7 +244,6 @@
     "wof:concordances":{
         "gn:id":1501255,
         "gp:id":2121790,
-        "qs:id":556168,
         "qs_pg:id":556168,
         "wd:id":"Q156209",
         "wk:page":"Kurtamysh (town)"
@@ -261,7 +259,7 @@
         }
     ],
     "wof:id":102012403,
-    "wof:lastmodified":1563239937,
+    "wof:lastmodified":1566615025,
     "wof:name":"Kurtamysh",
     "wof:parent_id":1108734837,
     "wof:placetype":"locality",

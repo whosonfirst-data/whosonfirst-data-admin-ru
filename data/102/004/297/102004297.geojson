@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.529171,
     "lbl:longitude":43.675827,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":53.529171,
     "mps:longitude":43.675827,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u062c\u0646\u064a \u0644\u0648\u0645\u0648\u0641"
     ],
@@ -115,7 +118,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0436\u043d\u0456\u0439 \u041b\u043e\u043c\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nizhni Lamov"
     ],
     "name:war_x_preferred":[
@@ -145,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.533333,
     "wd:longitude":43.683333,
@@ -160,7 +163,6 @@
     "wof:concordances":{
         "gn:id":520574,
         "gp:id":2052909,
-        "qs:id":125090,
         "qs_pg:id":125090,
         "wd:id":"Q172696",
         "wk:page":"Nizhny Lomov"
@@ -176,7 +178,7 @@
         }
     ],
     "wof:id":102004297,
-    "wof:lastmodified":1563241316,
+    "wof:lastmodified":1566615605,
     "wof:name":"Nizhniy Lomov",
     "wof:parent_id":1108735393,
     "wof:placetype":"locality",

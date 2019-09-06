@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":44.271331,
     "lbl:longitude":44.540336,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Stavropol'skij kraj",
     "meso:admin1r_en":"Severo-Kavkazskij federal'nyj okrug",
     "meso:admin_1":"\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":44.540336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Stepnovskiy Rayon"
     ],
@@ -93,9 +96,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0435\u043f\u043d\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0421\u0442\u0435\u043f\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Stepnovsky"
     ],
@@ -103,9 +103,9 @@
         "\u65af\u6377\u666e\u8afe\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1904",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Stepnoye",
@@ -139,7 +139,7 @@
         }
     ],
     "wof:id":1108736809,
-    "wof:lastmodified":1563256642,
+    "wof:lastmodified":1566626948,
     "wof:name":"Stepnovskiy",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

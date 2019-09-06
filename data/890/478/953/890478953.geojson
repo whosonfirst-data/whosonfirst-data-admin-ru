@@ -11,10 +11,14 @@
     "geom:longitude":40.29588,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":8284,
+    "gn:population":8284,
     "iso:country":"RU",
+    "lbl:bbox":"40.27588,48.31633,40.31588,48.35633",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Staraya Stanitsa"
     ],
@@ -22,9 +26,6 @@
         "Staraja Stanitsa"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u0442\u0430\u0440\u0430\u044f \u0421\u0442\u0430\u043d\u0438\u0446\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u0442\u0430\u0440\u0430\u044f \u0421\u0442\u0430\u043d\u0438\u0446\u0430"
     ],
     "qs:name":"Staraya Stanitsa",
@@ -44,7 +45,7 @@
     "wof:concordances":{
         "gn:id":489062,
         "gp:id":2088915,
-        "qs:id":124831,
+        "qs_pg:id":124831,
         "wd:id":"Q18127314",
         "wk:page":"List of districts in Russia"
     },
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":890478953,
-    "wof:lastmodified":1527727114,
+    "wof:lastmodified":1566630477,
     "wof:name":"Staraya Stanitsa",
     "wof:parent_id":890486923,
     "wof:placetype":"locality",

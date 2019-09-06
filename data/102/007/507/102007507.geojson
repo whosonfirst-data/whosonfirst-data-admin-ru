@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001305,
-    "geom:area_square_m":11134778.219832,
+    "geom:area_square_m":11134778.219836,
     "geom:bbox":"41.8295288086,46.3681106567,41.8995819092,46.4106407166",
     "geom:latitude":46.386028,
     "geom:longitude":41.862774,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":46.383688,
     "lbl:longitude":41.873919,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.383688,
     "mps:longitude":41.873919,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Novyy Yegorlyk"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_variant":[
         "\u041d\u043e\u0432\u044b\u0439 \u0415\u0433\u043e\u0440\u043b\u044b\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novy-Yegorlyk"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +52,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688033
+        85688033,
+        1108736367
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":516801,
         "gp:id":2122569,
-        "qs:id":549408,
         "qs_pg:id":549408
     },
     "wof:country":"RU",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102007507,
-    "wof:lastmodified":1505338927,
+    "wof:lastmodified":1566615177,
     "wof:name":"Novyy Yegorlyk",
     "wof:parent_id":1108736367,
     "wof:placetype":"locality",

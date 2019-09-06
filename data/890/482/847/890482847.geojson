@@ -11,11 +11,15 @@
     "geom:longitude":38.04886,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":3572,
+    "gn:population":3572,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"38.02886,44.8742,38.06886,44.9142",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Novoukrainskoye"
     ],
@@ -29,7 +33,7 @@
         "\u041d\u043e\u0432\u043e\u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0439",
         "\u041d\u043e\u0432\u043e\u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ukrainskiy"
     ],
     "qs:name":"Novoukrainskoye",
@@ -54,7 +58,9 @@
     "wof:concordances":{
         "gn:id":517767,
         "gp:id":2057050,
-        "qs:id":447629,
+        "qs_pg:id":447629
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":549412
     },
     "wof:country":"RU",
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":890482847,
-    "wof:lastmodified":1509410067,
+    "wof:lastmodified":1566630605,
     "wof:name":"Novoukrainskoye",
     "wof:parent_id":890483377,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":52.3944,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"52.3744,53.0176,52.4144,53.0576",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lokhovka"
     ],
@@ -23,9 +27,6 @@
         "Lokhovka"
     ],
     "name:rus_x_preferred":[
-        "\u041b\u043e\u0445\u043e\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041b\u043e\u0445\u043e\u0432\u043a\u0430"
     ],
     "qs:name":"Lokhovka",
@@ -47,7 +48,7 @@
     "wof:concordances":{
         "gn:id":534443,
         "gp:id":2037568,
-        "qs:id":1159136
+        "qs_pg:id":1159136
     },
     "wof:country":"RU",
     "wof:created":1469054402,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":890482199,
-    "wof:lastmodified":1505343752,
+    "wof:lastmodified":1566630600,
     "wof:name":"Lokhovka",
     "wof:parent_id":1108733151,
     "wof:placetype":"locality",

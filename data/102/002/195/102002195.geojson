@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000453,
-    "geom:area_square_m":2136344.116643,
+    "geom:area_square_m":2136344.116646,
     "geom:bbox":"64.113609314,67.5604705811,64.1521148682,67.5793304443",
     "geom:latitude":67.568757,
     "geom:longitude":64.132941,
     "iso:country":"RU",
     "lbl:latitude":67.569665,
     "lbl:longitude":64.132574,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":67.569665,
     "mps:longitude":64.132574,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oktyabr'skiy"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oktyabr\u2019skiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u043f\u0433\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":111,
     "wof:belongsto":[
         85688077,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102002195,
-    "wof:lastmodified":1527637963,
+    "wof:lastmodified":1566615665,
     "wof:name":"Oktyabrskiy",
     "wof:parent_id":890487129,
     "wof:placetype":"locality",

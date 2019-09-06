@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000663,
-    "geom:area_square_m":4748054.889229,
+    "geom:area_square_m":4748054.889231,
     "geom:bbox":"46.7617492676,54.5630569458,46.7864723206,54.5961380005",
     "geom:latitude":54.578863,
     "geom:longitude":46.77533,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.578342,
     "lbl:longitude":46.774329,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.578342,
     "mps:longitude":46.774329,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Baryshskaya Sloboda"
     ],
@@ -25,9 +28,6 @@
         "Barysjskaja Sloboda"
     ],
     "name:rus_x_preferred":[
-        "\u0411\u0430\u0440\u044b\u0448\u0441\u043a\u0430\u044f \u0421\u043b\u043e\u0431\u043e\u0434\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0411\u0430\u0440\u044b\u0448\u0441\u043a\u0430\u044f \u0421\u043b\u043e\u0431\u043e\u0434\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687907,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102009781,
-    "wof:lastmodified":1501214800,
+    "wof:lastmodified":1566615250,
     "wof:name":"Baryshskaya Sloboda",
     "wof:parent_id":1108736851,
     "wof:placetype":"locality",

@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":57.022856,
     "lbl:longitude":49.09317,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Marij EHl",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u041c\u0430\u0440\u0438\u0439 \u042d\u043b",
@@ -53,6 +55,7 @@
     "mps:longitude":49.09317,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Sernurskiy Rayon"
     ],
@@ -105,9 +108,6 @@
     "name:tgl_x_preferred":[
         "Sernurskij rajon"
     ],
-    "name:und_x_variant":[
-        "\u0421\u0435\u0440\u043d\u0443\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Sernursky"
     ],
@@ -115,9 +115,9 @@
         "\u8b1d\u723e\u52aa\u723e\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"914",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Sernur",
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":1108736449,
-    "wof:lastmodified":1563256599,
+    "wof:lastmodified":1566626921,
     "wof:name":"Sernurskiy",
     "wof:parent_id":85688043,
     "wof:placetype":"county",

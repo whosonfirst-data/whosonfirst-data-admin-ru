@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000108,
-    "geom:area_square_m":905336.952997,
+    "geom:area_square_m":905336.952998,
     "geom:bbox":"38.5902481079,47.2221107483,38.6078605652,47.2336387634",
     "geom:latitude":47.227527,
     "geom:longitude":38.599153,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":47.227504,
     "lbl:longitude":38.599287,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.227504,
     "mps:longitude":38.599287,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041c\u0430\u043b\u043e\u0444\u0451\u0434\u043e\u0440\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fursovo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +43,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688033,
         102191581,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":102007303,
-    "wof:lastmodified":1501214627,
+    "wof:lastmodified":1566615176,
     "wof:name":"Malofedorovka",
     "wof:parent_id":890484449,
     "wof:placetype":"locality",

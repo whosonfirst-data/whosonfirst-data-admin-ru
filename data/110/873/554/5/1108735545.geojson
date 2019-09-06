@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":56.424835,
     "lbl:longitude":29.974861,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Pskovskaja oblast'",
     "meso:admin1r_en":"Severo-Zapadnyj federal'nyj okrug",
     "meso:admin_1":"\u041f\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":29.974861,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041d\u0430\u0432\u0430\u0441\u0430\u043a\u043e\u043b\u044c\u043d\u0456\u0446\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -102,9 +105,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u043e\u043a\u043e\u043b\u044c\u043d\u0456\u0447\u0435\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041d\u043e\u0432\u043e\u0441\u043e\u043a\u043e\u043b\u044c\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Novosokol'nichesky"
     ],
@@ -112,9 +112,9 @@
         "\u65b0\u7d22\u79d1\u5229\u5c3c\u5207\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1746",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Novosokol'nichi",
@@ -148,7 +148,7 @@
         }
     ],
     "wof:id":1108735545,
-    "wof:lastmodified":1563257004,
+    "wof:lastmodified":1566627168,
     "wof:name":"Novosokol'nicheskiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",

@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":42.825744,
     "lbl:longitude":47.112981,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":42.825744,
     "mps:longitude":47.112981,
     "mz:hierarchy_label":1,
@@ -170,7 +172,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0439\u043d\u0430\u043a\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Temir-Khan-Shura"
     ],
     "name:uzb_x_preferred":[
@@ -301,7 +303,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":42.816667,
     "wd:longitude":47.116667,
@@ -317,7 +319,6 @@
         "gn:id":570479,
         "gp:id":2120447,
         "loc:id":"no2001076270",
-        "qs:id":212274,
         "qs_pg:id":212274,
         "wd:id":"Q132931",
         "wk:page":"Buynaksk"
@@ -333,7 +334,7 @@
         }
     ],
     "wof:id":102016759,
-    "wof:lastmodified":1563240913,
+    "wof:lastmodified":1566615449,
     "wof:name":"Buynaksk",
     "wof:parent_id":1108733713,
     "wof:placetype":"locality",

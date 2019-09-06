@@ -5,29 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00056,
-    "geom:area_square_m":4919073.304295,
+    "geom:area_square_m":4919073.304297,
     "geom:bbox":"39.1957206726,44.6886100769,39.2273902893,44.7274169922",
     "geom:latitude":44.706045,
     "geom:longitude":39.212206,
-    "geonames:id":"840990,498672",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":6117,
+    "gn:id":"840990,498672",
+    "gn:population":6117,
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:latitude":44.704828,
     "lbl:longitude":39.208248,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.704828,
     "mps:longitude":39.208248,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:nor_x_preferred":[
         "Saratovskaja"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -55,7 +55,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":50,
     "wof:belongsto":[
@@ -69,7 +69,7 @@
     "wof:concordances":{
         "gn:id":498672,
         "gp:id":2078243,
-        "qs:id":878030,
+        "qs_pg:id":878030,
         "wk:page":"Saratovsky"
     },
     "wof:country":"RU",
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":102015803,
-    "wof:lastmodified":1527636464,
+    "wof:lastmodified":1566614941,
     "wof:name":"Saratovskaya",
     "wof:parent_id":1108733609,
     "wof:placetype":"locality",

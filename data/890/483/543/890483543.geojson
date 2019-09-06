@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":46.874404,
     "lbl:longitude":40.503868,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Rostovskaja oblast'",
     "meso:admin1r_en":"JUzhnyj federal'nyj okrug",
     "meso:admin_1":"\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":40.503868,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Zernogradskiy Rayon"
     ],
@@ -91,9 +94,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u0435\u0440\u043d\u043e\u0433\u0440\u0430\u0434\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0417\u0435\u0440\u043d\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Zernogradsky"
     ],
@@ -114,9 +114,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2686",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Zernograd",
@@ -138,7 +138,7 @@
     "wof:concordances":{
         "gp:id":12599154,
         "hasc:id":"RU.RO.ZE",
-        "qs:id":995606,
+        "qs_pg:id":995606,
         "wd:id":"Q2220385",
         "wk:page":"Zernogradsky District"
     },
@@ -155,7 +155,7 @@
         }
     ],
     "wof:id":890483543,
-    "wof:lastmodified":1563262273,
+    "wof:lastmodified":1566630644,
     "wof:name":"Zernogradskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

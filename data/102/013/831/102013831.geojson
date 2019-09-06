@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001248,
-    "geom:area_square_m":9651752.082741,
+    "geom:area_square_m":9651752.082734,
     "geom:bbox":"81.0784072876,51.267868042,81.1232223511,51.3094215393",
     "geom:latitude":51.290366,
     "geom:longitude":81.100836,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.29125,
     "lbl:longitude":81.100409,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.29125,
     "mps:longitude":81.100409,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Veseloyarsk"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0412\u0435\u0441\u0435\u043b\u043e\u044f\u0440\u0441\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Veseloyarskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -43,7 +46,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687835,
@@ -56,7 +59,7 @@
     "wof:concordances":{
         "gn:id":1487164,
         "gp:id":2106162,
-        "qs:id":1092712
+        "qs_pg:id":1092712
     },
     "wof:country":"RU",
     "wof:geomhash":"aadbd6ef8cd30b2dd161bb4773bea32b",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102013831,
-    "wof:lastmodified":1505338942,
+    "wof:lastmodified":1566615074,
     "wof:name":"Veselyy Yar",
     "wof:parent_id":1108736323,
     "wof:placetype":"locality",

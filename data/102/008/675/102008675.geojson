@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":57.040942,
     "lbl:longitude":53.994277,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":57.040942,
     "mps:longitude":53.994277,
     "mz:hierarchy_label":1,
@@ -344,7 +346,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":57.05,
     "wd:longitude":54.0,
@@ -359,7 +361,6 @@
     "wof:concordances":{
         "gn:id":471430,
         "gp:id":2124351,
-        "qs:id":8520,
         "qs_pg:id":8520,
         "wd:id":"Q133838",
         "wk:page":"Votkinsk"
@@ -375,7 +376,7 @@
         }
     ],
     "wof:id":102008675,
-    "wof:lastmodified":1563240421,
+    "wof:lastmodified":1566615262,
     "wof:name":"Votkinsk",
     "wof:parent_id":1108733687,
     "wof:placetype":"locality",

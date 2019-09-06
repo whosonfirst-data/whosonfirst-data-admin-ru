@@ -14,6 +14,8 @@
     "iso:country":"RU",
     "lbl:latitude":54.707178,
     "lbl:longitude":20.513181,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":54.707178,
     "mps:longitude":20.513181,
     "mz:hierarchy_label":1,
@@ -387,7 +389,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0456\u043d\u0456\u043d\u0433\u0440\u0430\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00ebnisberg"
     ],
     "name:urd_x_preferred":[
@@ -547,7 +549,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.716667,
     "wd:longitude":20.5,
@@ -563,10 +565,12 @@
     "wof:concordances":{
         "gn:id":554234,
         "gp:id":7224124,
-        "qs:id":1080343,
         "qs_pg:id":349664,
         "wd:id":"Q1829",
         "wk:page":"Kaliningrad"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1080343
     },
     "wof:country":"RU",
     "wof:geomhash":"3757e2c8acfa3611ed68b05190607f7d",
@@ -581,7 +585,7 @@
         }
     ],
     "wof:id":102002441,
-    "wof:lastmodified":1563241482,
+    "wof:lastmodified":1566615673,
     "wof:name":"Kaliningrad",
     "wof:parent_id":890485683,
     "wof:placetype":"locality",

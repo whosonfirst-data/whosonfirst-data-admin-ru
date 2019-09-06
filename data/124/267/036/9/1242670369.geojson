@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Yakutsk",
     "iso:country":"RU",
+    "lbl:bbox":"128.03566,51.04876,128.07566,51.08876",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0437\u0430\u043d\u043a\u0430"
     ],
@@ -61,10 +65,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0437\u0430\u043d\u043a\u0430"
     ],
-    "name:und_x_variant":[
-        "\u041a\u0430\u0437\u0430\u043d\u043a\u0430",
-        "Kazanka"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85687951,
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1242670369,
-    "wof:lastmodified":1564130623,
+    "wof:lastmodified":1566631875,
     "wof:name":"Kazanka",
     "wof:parent_id":890480831,
     "wof:placetype":"locality",

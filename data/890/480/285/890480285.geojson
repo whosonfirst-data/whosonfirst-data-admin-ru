@@ -11,11 +11,15 @@
     "geom:longitude":38.16635,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"38.14635,54.69634,38.18635,54.73634",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Barabanovo"
     ],
@@ -23,9 +27,6 @@
         "Barabanovo"
     ],
     "name:rus_x_preferred":[
-        "\u0411\u0430\u0440\u0430\u0431\u0430\u043d\u043e\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u0411\u0430\u0440\u0430\u0431\u0430\u043d\u043e\u0432\u043e"
     ],
     "qs:name":"Barabanovo",
@@ -49,7 +50,7 @@
     "wof:concordances":{
         "gn:id":579291,
         "gp:id":1986079,
-        "qs:id":270189
+        "qs_pg:id":270189
     },
     "wof:country":"RU",
     "wof:created":1469054298,
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":890480285,
-    "wof:lastmodified":1505343742,
+    "wof:lastmodified":1566630986,
     "wof:name":"Barabanovo",
     "wof:parent_id":890483557,
     "wof:placetype":"locality",

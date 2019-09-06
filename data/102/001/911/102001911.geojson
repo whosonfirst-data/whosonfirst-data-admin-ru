@@ -9,17 +9,20 @@
     "geom:bbox":"30.3145675659,66.9477157593,30.3749294281,66.9812698364",
     "geom:latitude":66.965358,
     "geom:longitude":30.341756,
-    "geonames:id":"466563,583472",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":6293,
+    "gn:id":"466563,583472",
+    "gn:population":6293,
     "iso:country":"RU",
     "lbl:latitude":66.961953,
     "lbl:longitude":30.341756,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":66.961953,
     "mps:longitude":30.341756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u0627\u0643\u0648\u0631\u062a\u064a"
     ],
@@ -74,7 +77,7 @@
     "name:tat_x_preferred":[
         "\u0410\u043b\u0430\u043a\u0443\u0440\u0442\u0442\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Allakurtti"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -95,7 +98,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":27,
     "wof:belongsto":[
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gn:id":583472,
         "gp:id":2119965,
-        "qs:id":276066,
+        "qs_pg:id":276066,
         "wd:id":"Q2097419",
         "wk:page":"Alakurtti"
     },
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":102001911,
-    "wof:lastmodified":1563240610,
+    "wof:lastmodified":1566615326,
     "wof:name":"Alakurtti",
     "wof:parent_id":1108734251,
     "wof:placetype":"locality",

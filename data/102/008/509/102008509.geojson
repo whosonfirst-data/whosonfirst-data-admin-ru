@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001329,
-    "geom:area_square_m":8770079.02194,
+    "geom:area_square_m":8770079.021938,
     "geom:bbox":"59.8455848694,57.7116928101,59.9059181213,57.7542228699",
     "geom:latitude":57.735199,
     "geom:longitude":59.87921,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.741095,
     "lbl:longitude":59.884695,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.741095,
     "mps:longitude":59.884695,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Chernoistochinsk"
     ],
@@ -26,7 +29,7 @@
     "name:rus_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u0438\u0441\u0442\u043e\u0447\u0438\u043d\u0441\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chernoistochinskiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,18 +50,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688183
+        85688183,
+        1108733615
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":568797,
         "gp:id":2120525,
-        "qs:id":1029908,
         "qs_pg:id":1029908
     },
     "wof:country":"RU",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102008509,
-    "wof:lastmodified":1505338931,
+    "wof:lastmodified":1566615286,
     "wof:name":"Chernoistochinsk",
     "wof:parent_id":1108733615,
     "wof:placetype":"locality",

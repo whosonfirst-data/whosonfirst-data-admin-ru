@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00054,
-    "geom:area_square_m":3847686.634363,
+    "geom:area_square_m":3847686.634362,
     "geom:bbox":"85.0316696167,54.7682495117,85.0759963989,54.7909431458",
     "geom:latitude":54.780583,
     "geom:longitude":85.05655,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.779766,
     "lbl:longitude":85.058045,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":54.779766,
     "mps:longitude":85.058045,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Zhuravlevo"
     ],
@@ -26,7 +29,7 @@
     "name:rus_x_preferred":[
         "\u0416\u0443\u0440\u0430\u0432\u043b\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zhuravleva"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -41,7 +44,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688105,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":102012991,
-    "wof:lastmodified":1505338941,
+    "wof:lastmodified":1566614982,
     "wof:name":"Zhuravlevo",
     "wof:parent_id":1108736015,
     "wof:placetype":"locality",

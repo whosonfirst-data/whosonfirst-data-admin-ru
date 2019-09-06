@@ -9,14 +9,17 @@
     "geom:bbox":"43.065410614,44.0775604248,43.1027641296,44.108089447",
     "geom:latitude":44.090933,
     "geom:longitude":43.08348,
-    "geonames:id":"841374,522060,556320",
+    "gn:id":"841374,522060,556320",
     "iso:country":"RU",
     "lbl:latitude":44.093372,
     "lbl:longitude":43.082207,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.093372,
     "mps:longitude":43.082207,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Nikolayevka"
     ],
@@ -81,7 +84,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":41,
     "wof:belongsto":[
         85687825,
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":102016095,
-    "wof:lastmodified":1564109129,
+    "wof:lastmodified":1566615458,
     "wof:name":"Nikolayevka",
     "wof:parent_id":1108738091,
     "wof:placetype":"locality",

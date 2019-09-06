@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":43.056452,
     "lbl:longitude":44.358372,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"North Ossetia",
     "meso:name_alt2":"Severnaja Osetija - Alanija",
     "meso:name_local":"\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041e\u0441\u0435\u0442\u0438\u044f - \u0410\u043b\u0430\u043d\u0438\u044f",
@@ -370,9 +371,6 @@
     ],
     "name:und_x_variant":[
         "Severnaja Osetija - Alanija",
-        "North Ossetia"
-    ],
-    "name:unk_x_variant":[
         "North Ossetian A.S.S.R."
     ],
     "name:urd_x_preferred":[
@@ -471,7 +469,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685,
@@ -521,7 +519,7 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734453,
+    "wof:lastmodified":1566618601,
     "wof:name":"North Ossetia-Alania",
     "wof:parent_id":85632685,
     "wof:placetype":"region",

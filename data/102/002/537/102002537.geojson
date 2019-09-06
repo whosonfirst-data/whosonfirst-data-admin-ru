@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":59.223128,
     "lbl:longitude":39.904401,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":59.223128,
     "mps:longitude":39.904401,
     "mz:hierarchy_label":1,
@@ -261,9 +263,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043b\u043e\u0433\u0434\u0430"
     ],
-    "name:unk_x_variant":[
-        "Wologda"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u0644\u0648\u06af\u062f\u0627"
     ],
@@ -398,7 +397,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":59.216667,
     "wd:longitude":39.9,
@@ -414,10 +413,12 @@
     "wof:concordances":{
         "gn:id":472459,
         "gp:id":2124305,
-        "qs:id":277850,
         "qs_pg:id":239373,
         "wd:id":"Q1957",
         "wk:page":"Vologda"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":277850
     },
     "wof:country":"RU",
     "wof:geomhash":"f4d403cd9ed227f42cc9b7a14e01edc7",
@@ -432,7 +433,7 @@
         }
     ],
     "wof:id":102002537,
-    "wof:lastmodified":1563241542,
+    "wof:lastmodified":1566615688,
     "wof:name":"Vologda",
     "wof:parent_id":890485369,
     "wof:placetype":"locality",

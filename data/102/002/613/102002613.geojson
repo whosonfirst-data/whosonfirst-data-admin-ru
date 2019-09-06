@@ -5,21 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000326,
-    "geom:area_square_m":2131902.290628,
+    "geom:area_square_m":2131902.290627,
     "geom:bbox":"38.678565979,58.0818099976,38.7020111084,58.1023864746",
     "geom:latitude":58.090725,
     "geom:longitude":38.688339,
     "iso:country":"RU",
     "lbl:latitude":58.090539,
     "lbl:longitude":38.688115,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.090539,
     "mps:longitude":38.688115,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0411\u043e\u043b\u0442\u0438\u043d\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Boltinskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -38,7 +41,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687959,
         102191581,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102002613,
-    "wof:lastmodified":1501214783,
+    "wof:lastmodified":1566615696,
     "wof:name":"Boltino",
     "wof:parent_id":890480337,
     "wof:placetype":"locality",

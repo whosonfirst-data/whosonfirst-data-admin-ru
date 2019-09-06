@@ -9,15 +9,18 @@
     "geom:bbox":"38.13333,56.3,38.13333,56.3",
     "geom:latitude":56.3,
     "geom:longitude":38.13333,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":109252,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":109252,
     "iso:country":"RU",
+    "lbl:bbox":"38.11333,56.28,38.15333,56.32",
     "lbl:latitude":56.3,
     "lbl:longitude":38.13333,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u0631\u063a\u064a\u0627\u064a\u0641 \u0628\u0648\u0633\u0627\u062f"
@@ -226,7 +229,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0440\u0433\u0456\u0454\u0432 \u041f\u043e\u0441\u0430\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zagorsk"
     ],
     "name:urd_x_preferred":[
@@ -271,7 +274,7 @@
     "qs_pg:woe_adm0":23424936,
     "qs_pg:woe_id":2080463,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424936,
     "woe:name_adm0":"Russia",
@@ -305,7 +308,7 @@
         }
     ],
     "wof:id":1125782425,
-    "wof:lastmodified":1563263159,
+    "wof:lastmodified":1566631034,
     "wof:name":"Sergiyev Posad",
     "wof:parent_id":890480075,
     "wof:placetype":"locality",

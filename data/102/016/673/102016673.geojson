@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000578,
-    "geom:area_square_m":5209084.354901,
+    "geom:area_square_m":5209084.3549,
     "geom:bbox":"45.9787826538,43.2249412537,46.0101203918,43.2541465759",
     "geom:latitude":43.238011,
     "geom:longitude":45.994717,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.238014,
     "lbl:longitude":45.995016,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":43.238014,
     "mps:longitude":45.995016,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:che_x_preferred":[
         "\u00c7a\u00e7an-Yurt"
     ],
@@ -41,7 +44,7 @@
         "\u0426\u043e\u0446\u0438\u043d-\u042e\u0440\u0442",
         "Oktjabr\u2019skoe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cocin-\u018fvla"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -60,7 +63,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688015,
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":515804,
         "gp:id":2059219,
-        "qs:id":125033
+        "qs_pg:id":125033
     },
     "wof:country":"RU",
     "wof:geomhash":"a3abd5e1f902ef3c8e591c95a43ede27",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":102016673,
-    "wof:lastmodified":1505338950,
+    "wof:lastmodified":1566615434,
     "wof:name":"Oktyabr'Skoye",
     "wof:parent_id":1108734819,
     "wof:placetype":"locality",

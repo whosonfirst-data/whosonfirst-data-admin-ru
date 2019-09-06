@@ -13,15 +13,18 @@
     "gn:fcode":"PPL",
     "gn:latitude":54.08818,
     "gn:longitude":38.57598,
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:latitude":54.071541,
     "lbl:longitude":38.481263,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.071541,
     "mps:longitude":38.481263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0643\u0648\u0644\u0646\u064a\u0643\u064a"
     ],
@@ -103,7 +106,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043a\u043e\u043b\u044c\u043d\u0438\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Trosnikovo"
     ],
     "name:war_x_preferred":[
@@ -135,7 +138,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":175,
     "wof:belongsto":[
@@ -149,7 +152,7 @@
     "wof:concordances":{
         "gn:id":491251,
         "gp:id":2086403,
-        "qs:id":194371,
+        "qs_pg:id":194371,
         "wd:id":"Q988340",
         "wk:page":"Sokolniki"
     },
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":102003979,
-    "wof:lastmodified":1563241131,
+    "wof:lastmodified":1566615535,
     "wof:name":"Sokol'Niki",
     "wof:parent_id":1108735517,
     "wof:placetype":"locality",

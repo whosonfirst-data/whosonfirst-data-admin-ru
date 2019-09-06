@@ -11,10 +11,14 @@
     "geom:longitude":38.2362,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":1800,
+    "gn:population":1800,
     "iso:country":"RU",
+    "lbl:bbox":"38.2162,58.04532,38.2562,58.08532",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Borok"
     ],
@@ -24,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u0440\u043e\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grigorovo"
     ],
     "qs:name":"Borok",
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":572220,
         "gp:id":1994068,
-        "qs:id":125687,
+        "qs_pg:id":125687,
         "wk:page":"Borok"
     },
     "wof:country":"RU",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":890478781,
-    "wof:lastmodified":1527727123,
+    "wof:lastmodified":1566630516,
     "wof:name":"Borok",
     "wof:parent_id":890487131,
     "wof:placetype":"locality",

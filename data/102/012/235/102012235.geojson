@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000371,
-    "geom:area_square_m":2599753.298683,
+    "geom:area_square_m":2599753.298685,
     "geom:bbox":"65.0613632202,55.4599990845,65.0995864868,55.4804992676",
     "geom:latitude":55.470735,
     "geom:longitude":65.079977,
-    "geonames:id":"1486677,1542680",
+    "gn:id":"1486677,1542680",
     "iso:country":"RU",
     "lbl:latitude":55.472217,
     "lbl:longitude":65.079687,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.472217,
     "mps:longitude":65.079687,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Vved\u011bnskij"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         102191581,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":102012235,
-    "wof:lastmodified":1527636470,
+    "wof:lastmodified":1566614995,
     "wof:name":"Vvedenskoye",
     "wof:parent_id":1108734325,
     "wof:placetype":"locality",

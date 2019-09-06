@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000274,
-    "geom:area_square_m":1967097.917196,
+    "geom:area_square_m":1967097.917197,
     "geom:bbox":"51.0770263672,54.5310821533,51.1106109619,54.5478897095",
     "geom:latitude":54.540363,
     "geom:longitude":51.094673,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.538747,
     "lbl:longitude":51.094673,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.538747,
     "mps:longitude":51.094673,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sidel'kino"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0438\u0434\u0435\u043b\u044c\u043a\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sedel\u2019kino"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687781,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102009811,
-    "wof:lastmodified":1501214489,
+    "wof:lastmodified":1566615212,
     "wof:name":"Sidel'Kino",
     "wof:parent_id":1108733219,
     "wof:placetype":"locality",

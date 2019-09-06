@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000613,
-    "geom:area_square_m":4575800.937456,
+    "geom:area_square_m":4575800.937454,
     "geom:bbox":"49.9477767944,52.880027771,49.990776062,52.9059448242",
     "geom:latitude":52.893234,
     "geom:longitude":49.967163,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.893793,
     "lbl:longitude":49.967163,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.893793,
     "mps:longitude":49.967163,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kamennyy Brod"
     ],
@@ -29,9 +32,6 @@
     ],
     "name:rus_x_variant":[
         "\u041a\u0430\u043c\u0435\u043d\u043d\u044b\u0439 \u0411\u0440\u043e\u0434"
-    ],
-    "name:unk_x_variant":[
-        "Kamennyy Brod"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -49,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687781,
         102191581,
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":102010709,
-    "wof:lastmodified":1501214706,
+    "wof:lastmodified":1566615471,
     "wof:name":"Kamenny Brod",
     "wof:parent_id":1108734671,
     "wof:placetype":"locality",

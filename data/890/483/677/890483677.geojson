@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":52.506416,
     "lbl:longitude":118.551802,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Zabajkal'skij kraj",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u0417\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -54,6 +56,7 @@
     "mps:longitude":118.551802,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0421\u0440\u044d\u0446\u0435\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -94,9 +97,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0440\u0435\u0442\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0421\u0440\u0435\u0442\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Sretensky"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":865,
     "wof:belongsto":[
         102191581,
@@ -128,7 +128,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598187,
-        "qs:id":99116,
+        "qs_pg:id":99116,
         "wd:id":"Q1884322",
         "wk:page":"Sretensky District"
     },
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":890483677,
-    "wof:lastmodified":1563262314,
+    "wof:lastmodified":1566630660,
     "wof:name":"Sretenskiy",
     "wof:parent_id":85688005,
     "wof:placetype":"county",

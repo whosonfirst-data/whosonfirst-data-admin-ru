@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":62.158038,
     "lbl:longitude":117.63104,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":62.158038,
     "mps:longitude":117.63104,
     "mz:hierarchy_label":1,
@@ -81,7 +83,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043d\u0442\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Suntarskoye"
     ],
     "ne:ADM0CAP":0.0,
@@ -194,7 +196,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -206,7 +208,6 @@
     "wof:concordances":{
         "gn:id":2015913,
         "gp:id":2124757,
-        "qs:id":90375,
         "qs_pg:id":90375,
         "wd:id":"Q1275240",
         "wk:page":"Suntar (rural locality)"
@@ -222,7 +223,7 @@
         }
     ],
     "wof:id":102002309,
-    "wof:lastmodified":1563241434,
+    "wof:lastmodified":1566615662,
     "wof:name":"Suntar",
     "wof:parent_id":1108736839,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":55.83396,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"55.81396,54.76042,55.85396,54.80042",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Milovka"
     ],
@@ -23,9 +27,6 @@
         "Milovka"
     ],
     "name:rus_x_preferred":[
-        "\u041c\u0438\u043b\u043e\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041c\u0438\u043b\u043e\u0432\u043a\u0430"
     ],
     "qs:name":"Milovka",
@@ -49,7 +50,7 @@
     "wof:concordances":{
         "gn:id":526532,
         "gp:id":2046265,
-        "qs:id":1159829
+        "qs_pg:id":1159829
     },
     "wof:country":"RU",
     "wof:created":1469054536,
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":890484955,
-    "wof:lastmodified":1505343764,
+    "wof:lastmodified":1566630680,
     "wof:name":"Milovka",
     "wof:parent_id":890487019,
     "wof:placetype":"locality",

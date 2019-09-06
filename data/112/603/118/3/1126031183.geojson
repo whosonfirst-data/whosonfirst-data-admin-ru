@@ -9,15 +9,18 @@
     "geom:bbox":"34.15183,53.62362,34.15183,53.62362",
     "geom:latitude":53.62362,
     "geom:longitude":34.15183,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4994,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":4994,
     "iso:country":"RU",
+    "lbl:bbox":"34.13183,53.60362,34.17183,53.64362",
     "lbl:latitude":53.62362,
     "lbl:longitude":34.15183,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u0440"
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Star\u2019"
     ],
     "qs_pg:aaroncc":"RU",
@@ -75,7 +78,7 @@
     "qs_pg:woe_adm0":23424936,
     "qs_pg:woe_id":2092470,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424936,
     "woe:name_adm0":"Russia",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1126031183,
-    "wof:lastmodified":1563263094,
+    "wof:lastmodified":1566631006,
     "wof:name":"Svara",
     "wof:parent_id":1108733375,
     "wof:placetype":"locality",

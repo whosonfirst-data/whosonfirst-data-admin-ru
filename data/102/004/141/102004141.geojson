@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.805433,
     "lbl:longitude":36.152547,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.805433,
     "mps:longitude":36.152547,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u064a\u0641"
     ],
@@ -151,7 +154,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0454\u043b\u044c\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belve"
     ],
     "name:war_x_preferred":[
@@ -178,7 +181,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.8,
     "wd:longitude":36.133333,
@@ -193,7 +196,6 @@
     "wof:concordances":{
         "gn:id":578091,
         "gp:id":2120219,
-        "qs:id":125738,
         "qs_pg:id":125738,
         "wd:id":"Q104707",
         "wk:page":"Belyov"
@@ -209,7 +211,7 @@
         }
     ],
     "wof:id":102004141,
-    "wof:lastmodified":1563241326,
+    "wof:lastmodified":1566615609,
     "wof:name":"Belev",
     "wof:parent_id":1108732929,
     "wof:placetype":"locality",

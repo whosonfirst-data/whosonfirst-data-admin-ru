@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.163386,
     "lbl:longitude":97.218364,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.163386,
     "mps:longitude":97.218364,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041d\u0456\u0436\u043d\u044f\u044f \u041f\u043e\u0439\u043c\u0430"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688139,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":1497397,
         "gp:id":2122443,
-        "qs:id":903422,
         "qs_pg:id":903422
     },
     "wof:country":"RU",
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":102013917,
-    "wof:lastmodified":1564108732,
+    "wof:lastmodified":1566615084,
     "wof:name":"Nizhnyaya Poyma",
     "wof:parent_id":890479275,
     "wof:placetype":"locality",

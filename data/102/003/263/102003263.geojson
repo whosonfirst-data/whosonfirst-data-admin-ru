@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.598186,
     "lbl:longitude":44.543852,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.598186,
     "mps:longitude":44.543852,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0641\u0648\u0632"
     ],
@@ -106,7 +109,7 @@
     "name:tur_x_preferred":[
         "Perevoz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u2019yanyy Perevoz"
     ],
     "name:war_x_preferred":[
@@ -133,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -145,7 +148,6 @@
     "wof:concordances":{
         "gn:id":511287,
         "gp:id":2122809,
-        "qs:id":870807,
         "qs_pg:id":870807,
         "wd:id":"Q178152",
         "wk:page":"Perevoz, Nizhny Novgorod Oblast"
@@ -161,7 +163,7 @@
         }
     ],
     "wof:id":102003263,
-    "wof:lastmodified":1563241198,
+    "wof:lastmodified":1566615558,
     "wof:name":"Perevoz",
     "wof:parent_id":1108735807,
     "wof:placetype":"locality",

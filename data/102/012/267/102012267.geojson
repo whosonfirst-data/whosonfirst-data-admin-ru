@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000422,
-    "geom:area_square_m":2964789.395545,
+    "geom:area_square_m":2964789.395544,
     "geom:bbox":"72.0503921509,55.3395843506,72.0991363525,55.3577766418",
     "geom:latitude":55.348991,
     "geom:longitude":72.074779,
     "iso:country":"RU",
     "lbl:latitude":55.348852,
     "lbl:longitude":72.074779,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.348852,
     "mps:longitude":72.074779,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Alekseyevka"
     ],
@@ -23,9 +26,6 @@
         "Aleksejevka"
     ],
     "name:rus_x_preferred":[
-        "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u043a\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":98,
     "wof:belongsto":[
         85688189,
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":102012267,
-    "wof:lastmodified":1527636470,
+    "wof:lastmodified":1566614997,
     "wof:name":"Alekseyevka",
     "wof:parent_id":1108734967,
     "wof:placetype":"locality",

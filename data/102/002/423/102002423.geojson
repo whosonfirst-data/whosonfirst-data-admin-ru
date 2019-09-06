@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.009889,
     "lbl:longitude":29.950345,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.009889,
     "mps:longitude":29.950345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u0641\u0644"
     ],
@@ -140,9 +143,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0432\u0435\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "Newel"
-    ],
     "name:vep_x_preferred":[
         "Nevel'"
     ],
@@ -168,7 +168,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688167,
@@ -181,7 +181,7 @@
     "wof:concordances":{
         "gn:id":522410,
         "gp:id":2050876,
-        "qs:id":369378,
+        "qs_pg:id":369378,
         "wd:id":"Q165773",
         "wk:page":"Nevel (town)"
     },
@@ -198,7 +198,7 @@
         }
     ],
     "wof:id":102002423,
-    "wof:lastmodified":1563241489,
+    "wof:lastmodified":1566615675,
     "wof:name":"Nevel",
     "wof:parent_id":1108735357,
     "wof:placetype":"locality",

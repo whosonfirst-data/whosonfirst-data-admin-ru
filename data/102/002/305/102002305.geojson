@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":62.260819,
     "lbl:longitude":116.162849,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":62.260819,
     "mps:longitude":116.162849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u041a\u0440\u0435\u0441\u0442\u044f\u0445"
     ],
@@ -37,9 +40,6 @@
     "name:sah_x_preferred":[
         "\u041a\u0438\u0440\u0438\u044d\u0441\u0442\u044d\u044d\u0445"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0440\u0435\u0441\u0442\u044f\u0445"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u0445\u0430 (\u042f\u043a\u0443\u0442\u0438\u044f)",
     "qs:a1_lc":"1402600000700",
@@ -56,7 +56,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":62.249486,
     "wd:longitude":116.176028,
     "wd:wordcount":469,
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":102002305,
-    "wof:lastmodified":1561831732,
+    "wof:lastmodified":1566615695,
     "wof:name":"Krestyakh",
     "wof:parent_id":1108736839,
     "wof:placetype":"locality",

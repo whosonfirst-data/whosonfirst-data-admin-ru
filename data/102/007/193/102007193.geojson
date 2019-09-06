@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":47.514732,
     "lbl:longitude":40.801348,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":47.514732,
     "mps:longitude":40.801348,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u0645\u064a\u0643\u0627\u0631\u0627\u0643\u0648\u0631\u0633\u0643"
     ],
@@ -115,7 +118,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043c\u0438\u043a\u0430\u0440\u0430\u043a\u043e\u0440\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Semikarakorskiy"
     ],
     "name:war_x_preferred":[
@@ -145,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":47.516667,
     "wd:longitude":40.8,
@@ -160,7 +163,6 @@
     "wof:concordances":{
         "gn:id":497218,
         "gp:id":2123324,
-        "qs:id":369230,
         "qs_pg:id":369230,
         "wd:id":"Q193941",
         "wk:page":"Semikarakorsk"
@@ -176,7 +178,7 @@
         }
     ],
     "wof:id":102007193,
-    "wof:lastmodified":1563240202,
+    "wof:lastmodified":1566615148,
     "wof:name":"Semikarakorsk",
     "wof:parent_id":1108736423,
     "wof:placetype":"locality",

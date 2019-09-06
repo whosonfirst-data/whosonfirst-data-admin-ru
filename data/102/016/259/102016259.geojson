@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.680163,
     "lbl:longitude":43.533219,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":43.680163,
     "mps:longitude":43.533219,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0643\u0633\u0627\u0646"
     ],
@@ -136,7 +139,7 @@
     "name:tur_x_preferred":[
         "Baksan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baksanskie"
     ],
     "name:urd_x_preferred":[
@@ -172,7 +175,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -184,7 +187,6 @@
     "wof:concordances":{
         "gn:id":579574,
         "gp:id":2120144,
-        "qs:id":1178868,
         "qs_pg:id":1178868,
         "wd:id":"Q104538",
         "wk:page":"Baksan (town)"
@@ -200,7 +202,7 @@
         }
     ],
     "wof:id":102016259,
-    "wof:lastmodified":1563240882,
+    "wof:lastmodified":1566615436,
     "wof:name":"Baksan",
     "wof:parent_id":1108732859,
     "wof:placetype":"locality",

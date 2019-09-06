@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":55.439233,
     "lbl:longitude":54.281068,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Bashkortostan",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d",
@@ -53,6 +55,7 @@
     "mps:longitude":54.281068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "\u0130le\u015f rayonu"
     ],
@@ -108,9 +111,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u043b\u0456\u0448\u0435\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0418\u043b\u0438\u0448\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Ilishevsky"
     ],
@@ -121,9 +121,9 @@
         "\u4f0a\u5229\u820d\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1984",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Verkhneyarkeevo",
@@ -157,7 +157,7 @@
         }
     ],
     "wof:id":1108733989,
-    "wof:lastmodified":1563256515,
+    "wof:lastmodified":1566626865,
     "wof:name":"Ilishevskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

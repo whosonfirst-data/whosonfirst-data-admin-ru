@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":53.166069,
     "lbl:longitude":48.670734,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Samarskaja oblast'",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":48.670734,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Oktjabr'sk"
     ],
@@ -60,7 +63,7 @@
         "\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687781,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108735647,
-    "wof:lastmodified":1561582031,
+    "wof:lastmodified":1566627135,
     "wof:name":"Oktjabr'sk",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

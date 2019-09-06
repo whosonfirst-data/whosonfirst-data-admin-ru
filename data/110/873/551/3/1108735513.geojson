@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":54.192733,
     "lbl:longitude":50.060116,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Ul'janovskaja oblast'",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":50.060116,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Novomalyklinskiy Rayon"
     ],
@@ -99,9 +102,6 @@
     "name:tat_x_preferred":[
         "\u042f\u04a3\u0430 \u041c\u0430\u043b\u044b\u043a\u043b\u044b \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
-    "name:und_x_variant":[
-        "\u041d\u043e\u0432\u043e\u043c\u0430\u043b\u044b\u043a\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Novomalyklinsky"
     ],
@@ -109,9 +109,9 @@
         "\u65b0\u99ac\u96f7\u514b\u6797\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1070",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Novaya Malykla",
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":1108735513,
-    "wof:lastmodified":1563256469,
+    "wof:lastmodified":1566626838,
     "wof:name":"Novomalyklinskiy",
     "wof:parent_id":85687907,
     "wof:placetype":"county",

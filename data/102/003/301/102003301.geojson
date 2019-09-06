@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.539346,
     "lbl:longitude":37.069671,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.539346,
     "mps:longitude":37.069671,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0623\u0628\u0631\u064a\u0644\u064a\u0641\u0643\u0627"
     ],
@@ -175,7 +178,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.533333,
     "wd:longitude":37.05,
@@ -191,7 +194,6 @@
     "wof:concordances":{
         "gn:id":581321,
         "gp:id":2120056,
-        "qs:id":277117,
         "qs_pg:id":277117,
         "wd:id":"Q103676",
         "wk:page":"Aprelevka"
@@ -209,7 +211,7 @@
         }
     ],
     "wof:id":102003301,
-    "wof:lastmodified":1563241075,
+    "wof:lastmodified":1566615519,
     "wof:name":"Aprelevka",
     "wof:parent_id":890487147,
     "wof:placetype":"locality",

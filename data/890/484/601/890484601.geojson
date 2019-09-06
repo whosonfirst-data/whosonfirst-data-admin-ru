@@ -11,11 +11,15 @@
     "geom:longitude":56.64101,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"56.62101,54.86957,56.66101,54.90957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tavtimanovo"
     ],
@@ -23,9 +27,6 @@
         "Tavtimanovo"
     ],
     "name:rus_x_preferred":[
-        "\u0422\u0430\u0432\u0442\u0438\u043c\u0430\u043d\u043e\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u0422\u0430\u0432\u0442\u0438\u043c\u0430\u043d\u043e\u0432\u043e"
     ],
     "qs:name":"Tavtimanovo",
@@ -49,7 +50,7 @@
     "wof:concordances":{
         "gn:id":483930,
         "gp:id":2094617,
-        "qs:id":1139496
+        "qs_pg:id":1139496
     },
     "wof:country":"RU",
     "wof:created":1469054521,
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":890484601,
-    "wof:lastmodified":1505343762,
+    "wof:lastmodified":1566630714,
     "wof:name":"Tavtimanovo",
     "wof:parent_id":1108733971,
     "wof:placetype":"locality",

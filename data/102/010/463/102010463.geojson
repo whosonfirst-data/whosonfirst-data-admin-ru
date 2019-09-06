@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000322,
-    "geom:area_square_m":2371150.114029,
+    "geom:area_square_m":2371150.114027,
     "geom:bbox":"47.6581382751,53.4473342896,47.6803894043,53.4693870544",
     "geom:latitude":53.45823,
     "geom:longitude":47.670924,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.457761,
     "lbl:longitude":47.671135,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.457761,
     "mps:longitude":47.671135,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kivat'"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0438\u0432\u0430\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuvat\u2019"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687907,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102010463,
-    "wof:lastmodified":1501214684,
+    "wof:lastmodified":1566615481,
     "wof:name":"Kivat'",
     "wof:parent_id":1108734859,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000204,
-    "geom:area_square_m":1717702.088138,
+    "geom:area_square_m":1717702.088139,
     "geom:bbox":"39.1696662903,47.0187225342,39.1963615417,47.0313873291",
     "geom:latitude":47.024706,
     "geom:longitude":39.185083,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":47.025114,
     "lbl:longitude":39.186163,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.025114,
     "mps:longitude":39.186163,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stefanidinodar"
     ],
@@ -25,9 +28,6 @@
         "Stefanidinodar"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u0442\u0435\u0444\u0430\u043d\u0438\u0434\u0438\u043d\u043e\u0434\u0430\u0440"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u0442\u0435\u0444\u0430\u043d\u0438\u0434\u0438\u043d\u043e\u0434\u0430\u0440"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688033,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102007351,
-    "wof:lastmodified":1501214467,
+    "wof:lastmodified":1566615177,
     "wof:name":"Stefanidin-Dar",
     "wof:parent_id":1108732827,
     "wof:placetype":"locality",

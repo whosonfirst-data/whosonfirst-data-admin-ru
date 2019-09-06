@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001588,
-    "geom:area_square_m":10780052.699294,
+    "geom:area_square_m":10780052.699291,
     "geom:bbox":"62.0373878479,56.6901092529,62.1589736938,56.7226104736",
     "geom:latitude":56.70725,
     "geom:longitude":62.10064,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.706078,
     "lbl:longitude":62.11484,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.706078,
     "mps:longitude":62.11484,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bayny"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u0439\u043d\u044b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bayni"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688183,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102011921,
-    "wof:lastmodified":1501220071,
+    "wof:lastmodified":1566615421,
     "wof:name":"Bayny",
     "wof:parent_id":1108733709,
     "wof:placetype":"locality",

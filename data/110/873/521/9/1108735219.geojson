@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":43.648518,
     "lbl:longitude":44.627899,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Severnaja Osetija - Alanija",
     "meso:admin1r_en":"Severo-Kavkazskij federal'nyj okrug",
     "meso:admin_1":"\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041e\u0441\u0435\u0442\u0438\u044f - \u0410\u043b\u0430\u043d\u0438\u044f",
@@ -53,6 +55,7 @@
     "mps:longitude":44.627899,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u041c\u043e\u0437\u0434\u043e\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -108,9 +111,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0437\u0434\u043e\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041c\u043e\u0437\u0434\u043e\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Mozdoksky"
     ],
@@ -118,9 +118,9 @@
         "\u83ab\u8332\u591a\u514b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1061",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Mozdok",
@@ -154,7 +154,7 @@
         }
     ],
     "wof:id":1108735219,
-    "wof:lastmodified":1563256808,
+    "wof:lastmodified":1566627050,
     "wof:name":"Mozdokskiy",
     "wof:parent_id":85687865,
     "wof:placetype":"county",

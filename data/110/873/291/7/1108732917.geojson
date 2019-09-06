@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":53.704984,
     "lbl:longitude":46.718066,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Ul'janovskaja oblast'",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":46.718066,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u0411\u0430\u0437\u0430\u0440\u043d\u044b\u0439 \u0421\u044b\u0437\u0433\u0430\u043d\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -93,9 +96,6 @@
     "name:tat_x_preferred":[
         "\u0411\u0430\u0437\u0430\u0440\u043b\u044b \u0421\u044b\u0437\u0433\u0430\u043d \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
-    "name:und_x_variant":[
-        "\u0411\u0430\u0437\u0430\u0440\u043d\u043e\u0441\u044b\u0437\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Bazarnosyzgansky"
     ],
@@ -103,7 +103,7 @@
         "\u5df4\u624e\u723e\u8afe\u745f\u8332\u7518\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687907,
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":1108732917,
-    "wof:lastmodified":1563257171,
+    "wof:lastmodified":1566627269,
     "wof:name":"Bazarnosyzganskiy",
     "wof:parent_id":85687907,
     "wof:placetype":"county",

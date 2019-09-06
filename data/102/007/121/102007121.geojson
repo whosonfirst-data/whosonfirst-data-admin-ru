@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000348,
-    "geom:area_square_m":2902028.675175,
+    "geom:area_square_m":2902028.675174,
     "geom:bbox":"40.894859314,47.6471939087,40.9287223816,47.667137146",
     "geom:latitude":47.658241,
     "geom:longitude":40.910552,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":47.659278,
     "lbl:longitude":40.910295,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.659278,
     "mps:longitude":40.910295,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aparinskiy"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0410\u043f\u0430\u0440\u0438\u043d\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aparinka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0445",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688033,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102007121,
-    "wof:lastmodified":1501214811,
+    "wof:lastmodified":1566615172,
     "wof:name":"Aparinskiy",
     "wof:parent_id":1108737227,
     "wof:placetype":"locality",

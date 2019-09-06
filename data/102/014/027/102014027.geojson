@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000239,
-    "geom:area_square_m":1710765.594445,
+    "geom:area_square_m":1710765.594444,
     "geom:bbox":"100.296913147,54.6287345886,100.33216095,54.6395378113",
     "geom:latitude":54.633835,
     "geom:longitude":100.315423,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.634632,
     "lbl:longitude":100.315087,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.634632,
     "mps:longitude":100.315087,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Utay"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688173,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102014027,
-    "wof:lastmodified":1501223618,
+    "wof:lastmodified":1566615124,
     "wof:name":"Utay",
     "wof:parent_id":890487453,
     "wof:placetype":"locality",

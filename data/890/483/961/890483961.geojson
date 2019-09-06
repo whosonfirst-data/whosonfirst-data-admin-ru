@@ -11,11 +11,15 @@
     "geom:longitude":49.10618,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"49.08618,57.94818,49.12618,57.98818",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moskva"
     ],
@@ -24,9 +28,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0441\u043a\u0432\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Moskva"
     ],
     "qs:name":"Moskvyata",
     "qs:name_adm0":"Russia",
@@ -47,7 +48,7 @@
     "wof:concordances":{
         "gn:id":524898,
         "gp:id":2048198,
-        "qs:id":1061022
+        "qs_pg:id":1061022
     },
     "wof:country":"RU",
     "wof:created":1469054490,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":890483961,
-    "wof:lastmodified":1505343761,
+    "wof:lastmodified":1566630648,
     "wof:name":"Moskvyata",
     "wof:parent_id":1108737373,
     "wof:placetype":"locality",

@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":43.178934,
     "lbl:longitude":132.005815,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Primorskij kraj",
     "meso:admin1r_en":"Dal'nevostochnyj federal'nyj okrug",
     "meso:admin_1":"\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":132.005815,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Vladivostokskiy"
     ],
@@ -63,7 +66,7 @@
         "\u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a\u0441\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688023,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108737535,
-    "wof:lastmodified":1561581951,
+    "wof:lastmodified":1566626879,
     "wof:name":"Vladivostokskiy",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

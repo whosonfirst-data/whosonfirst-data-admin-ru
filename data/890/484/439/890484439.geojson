@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":59.407965,
     "lbl:longitude":30.191172,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Leningradskaja oblast'",
     "meso:admin1r_en":"Severo-Zapadnyj federal'nyj okrug",
     "meso:admin_1":"\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":30.191172,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Qat\u00e7inski rayonu"
     ],
@@ -121,9 +124,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0442\u0447\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0413\u0430\u0442\u0447\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vep_x_preferred":[
         "Gat\u010dinan rajon"
     ],
@@ -147,9 +147,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2891",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Gatchina",
@@ -171,7 +171,7 @@
     "wof:concordances":{
         "gp:id":12598636,
         "hasc:id":"RU.LN.GR",
-        "qs:id":1119187,
+        "qs_pg:id":1119187,
         "wd:id":"Q7455",
         "wk:page":"Gatchinsky District"
     },
@@ -188,7 +188,7 @@
         }
     ],
     "wof:id":890484439,
-    "wof:lastmodified":1563262377,
+    "wof:lastmodified":1566630687,
     "wof:name":"Gatchinskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",

@@ -9,14 +9,17 @@
     "geom:bbox":"90.9393234253,54.9785881042,90.9787597656,55.0155029297",
     "geom:latitude":54.997336,
     "geom:longitude":90.958632,
-    "geonames:id":"1496770,1496780",
+    "gn:id":"1496770,1496780",
     "iso:country":"RU",
     "lbl:latitude":54.995993,
     "lbl:longitude":90.953403,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.995993,
     "mps:longitude":90.953403,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Nowosjolowo"
     ],
@@ -50,7 +53,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         85688139,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":102014011,
-    "wof:lastmodified":1563240153,
+    "wof:lastmodified":1566615125,
     "wof:name":"Novoselovo",
     "wof:parent_id":1108735535,
     "wof:placetype":"locality",

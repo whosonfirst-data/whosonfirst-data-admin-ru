@@ -11,10 +11,14 @@
     "geom:longitude":107.44166,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":7638,
+    "gn:population":7638,
     "iso:country":"RU",
+    "lbl:bbox":"107.42166,56.15148,107.46166,56.19148",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Magistral'nyy"
     ],
@@ -22,9 +26,6 @@
         "Magistralnyj"
     ],
     "name:rus_x_preferred":[
-        "\u041c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u041c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439"
     ],
     "qs:name":"Magistral\u2019nyy",
@@ -43,7 +44,7 @@
     "wof:concordances":{
         "gn:id":2020584,
         "gp:id":2039648,
-        "qs:id":90428
+        "qs_pg:id":90428
     },
     "wof:country":"RU",
     "wof:created":1469054554,
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":890485315,
-    "wof:lastmodified":1505343767,
+    "wof:lastmodified":1566630542,
     "wof:name":"Magistral\u2019nyy",
     "wof:parent_id":1108734313,
     "wof:placetype":"locality",

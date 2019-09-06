@@ -9,14 +9,17 @@
     "geom:bbox":"42.2524528503,51.9720535278,42.298412323,52.0082855225",
     "geom:latitude":51.991384,
     "geom:longitude":42.275525,
-    "geonames:id":"822686,477626",
+    "gn:id":"822686,477626",
     "iso:country":"RU",
     "lbl:latitude":51.991699,
     "lbl:longitude":42.275962,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.991699,
     "mps:longitude":42.275962,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0641\u0627\u0631\u0648\u0641\u0648"
     ],
@@ -134,7 +137,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":415,
     "wof:belongsto":[
         102191581,
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":102005157,
-    "wof:lastmodified":1563241338,
+    "wof:lastmodified":1566615616,
     "wof:name":"Uvarovo",
     "wof:parent_id":1108737271,
     "wof:placetype":"locality",

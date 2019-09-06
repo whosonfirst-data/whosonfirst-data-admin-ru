@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":64.538674,
     "lbl:longitude":40.426107,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":64.538674,
     "mps:longitude":40.426107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Archangelsk"
     ],
@@ -305,7 +308,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687971,
@@ -334,7 +337,7 @@
         }
     ],
     "wof:id":102001955,
-    "wof:lastmodified":1563240558,
+    "wof:lastmodified":1566615311,
     "wof:name":"Tsiglemen",
     "wof:parent_id":890481335,
     "wof:placetype":"locality",

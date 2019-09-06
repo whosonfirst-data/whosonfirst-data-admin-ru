@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000418,
-    "geom:area_square_m":3066193.175091,
+    "geom:area_square_m":3066193.175092,
     "geom:bbox":"54.9562492371,53.5881118774,54.9948616028,53.6155815125",
     "geom:latitude":53.600158,
     "geom:longitude":54.976485,
@@ -14,17 +14,20 @@
     "iso:country":"RU",
     "lbl:latitude":53.598266,
     "lbl:longitude":54.976777,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.598266,
     "mps:longitude":54.976777,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Anjasovo"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043d\u044f\u0441\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Anyaseva"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -39,7 +42,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687801,
         102191581,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":102010385,
-    "wof:lastmodified":1501214811,
+    "wof:lastmodified":1566615488,
     "wof:name":"Anyasevo",
     "wof:parent_id":1108735129,
     "wof:placetype":"locality",

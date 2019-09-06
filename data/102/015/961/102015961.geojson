@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001291,
-    "geom:area_square_m":11409658.356853,
+    "geom:area_square_m":11409658.356857,
     "geom:bbox":"41.4865264893,44.3594703674,41.531665802,44.4063873291",
     "geom:latitude":44.384084,
     "geom:longitude":41.513943,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.384021,
     "lbl:longitude":41.513513,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":44.384021,
     "mps:longitude":41.513513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u0410\u0442\u0440\u0430\u0434\u043d\u0430\u0435"
     ],
@@ -52,9 +55,6 @@
     "name:sco_x_preferred":[
         "Otradny"
     ],
-    "name:unk_x_variant":[
-        "Otradnaja"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
     "qs:a1_lc":"2302600000100",
@@ -73,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":62,
     "wof:belongsto":[
@@ -86,7 +86,6 @@
     "wof:concordances":{
         "gn:id":513911,
         "gp:id":2122701,
-        "qs:id":80661,
         "qs_pg:id":80661
     },
     "wof:country":"RU",
@@ -100,7 +99,7 @@
         }
     ],
     "wof:id":102015961,
-    "wof:lastmodified":1527636465,
+    "wof:lastmodified":1566614953,
     "wof:name":"Otradnaya",
     "wof:parent_id":1108735733,
     "wof:placetype":"locality",

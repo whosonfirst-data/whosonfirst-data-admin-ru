@@ -10,8 +10,10 @@
     "geom:latitude":59.703792,
     "geom:longitude":30.415651,
     "iso:country":"RU",
+    "lbl:bbox":"30.410651173,59.6987916454,30.420651173,59.7087916454",
     "lbl:latitude":59.703792,
     "lbl:longitude":30.415651,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0451\u043b\u043a\u0438"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108943555,
-    "wof:lastmodified":1510870347,
+    "wof:lastmodified":1566627402,
     "wof:name":"Novosyolky",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

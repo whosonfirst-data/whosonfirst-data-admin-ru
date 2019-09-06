@@ -5,29 +5,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000711,
-    "geom:area_square_m":6321446.123104,
+    "geom:area_square_m":6321446.123103,
     "geom:bbox":"41.5836677551,44.0419158936,41.6206665039,44.085723877",
     "geom:latitude":44.063188,
     "geom:longitude":41.602679,
-    "geonames:id":"555801,841082",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":4606,
+    "gn:id":"555801,841082",
+    "gn:population":4606,
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:latitude":44.065504,
     "lbl:longitude":41.604221,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.065504,
     "mps:longitude":41.604221,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:nor_x_preferred":[
         "Ispravnaja"
     ],
     "name:rus_x_preferred":[
-        "\u0418\u0441\u043f\u0440\u0430\u0432\u043d\u0430\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u0418\u0441\u043f\u0440\u0430\u0432\u043d\u0430\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -53,7 +53,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687913,
@@ -66,7 +66,7 @@
     "wof:concordances":{
         "gn:id":555801,
         "gp:id":2121057,
-        "qs:id":460037
+        "qs_pg:id":460037
     },
     "wof:country":"RU",
     "wof:geomhash":"1eace2e32acadb488604593baa15f51f",
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":102016103,
-    "wof:lastmodified":1505338948,
+    "wof:lastmodified":1566615425,
     "wof:name":"Ispravnaya",
     "wof:parent_id":890481333,
     "wof:placetype":"locality",

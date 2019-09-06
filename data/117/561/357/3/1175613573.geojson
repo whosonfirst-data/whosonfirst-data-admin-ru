@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":43.797866,
     "lbl:longitude":131.949522,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":43.797866,
     "mps:longitude":131.949522,
     "mz:hierarchy_label":1,
@@ -200,7 +202,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0441\u0441\u0443\u0440\u0456\u0439\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nikolaevsk-Ussuri"
     ],
     "name:urd_x_preferred":[
@@ -347,7 +349,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":43.8,
     "wd:longitude":131.95,
@@ -364,10 +366,12 @@
         "gn:id":2014006,
         "gp:id":2101262,
         "loc:id":"n87880709",
-        "qs:id":351506,
-        "qs_pg:id":1128072,
+        "qs_pg:id":351506,
         "wd:id":"Q196934",
         "wk:page":"Ussuriysk"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1128072
     },
     "wof:country":"RU",
     "wof:geomhash":"bb53271bd0079fc9b69c6310fec3db84",
@@ -380,7 +384,7 @@
         }
     ],
     "wof:id":1175613573,
-    "wof:lastmodified":1563257461,
+    "wof:lastmodified":1566627441,
     "wof:name":"Ussuriysk",
     "wof:parent_id":1108737217,
     "wof:placetype":"locality",

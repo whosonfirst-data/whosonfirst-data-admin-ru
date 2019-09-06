@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.953887,
     "lbl:longitude":47.28014,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.953887,
     "mps:longitude":47.28014,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sanchurskiy Rayon"
     ],
@@ -75,7 +78,7 @@
     "qs:type":"\u043f\u0433\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":747,
     "wof:belongsto":[
@@ -89,7 +92,7 @@
     "wof:concordances":{
         "gn:id":498877,
         "gp:id":90582072,
-        "qs:id":244928,
+        "qs_pg:id":244928,
         "wd:id":"Q2641054"
     },
     "wof:country":"RU",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":102008713,
-    "wof:lastmodified":1563240461,
+    "wof:lastmodified":1566615277,
     "wof:name":"Sanchursk",
     "wof:parent_id":1108736377,
     "wof:placetype":"locality",

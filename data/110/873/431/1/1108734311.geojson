@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":57.638194,
     "lbl:longitude":93.430039,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Krasnojarskij kraj",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":93.430039,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kazachinskiy Rayon"
     ],
@@ -93,9 +96,6 @@
     "name:tat_x_variant":[
         "\u041a\u0430\u0437\u0430\u0447\u0438\u043d\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
-    "name:und_x_variant":[
-        "\u041a\u0430\u0437\u0430\u0447\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Kazachinsky"
     ],
@@ -103,7 +103,7 @@
         "\u5361\u624e\u6b3d\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688139,
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":1108734311,
-    "wof:lastmodified":1563256745,
+    "wof:lastmodified":1566627012,
     "wof:name":"Kazachinskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

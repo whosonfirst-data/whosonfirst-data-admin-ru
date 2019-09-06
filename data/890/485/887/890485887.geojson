@@ -11,11 +11,15 @@
     "geom:longitude":44.80133,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":4636,
+    "gn:population":4636,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"44.78133,53.18837,44.82133,53.22837",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Bogoslovka"
     ],
@@ -23,9 +27,6 @@
         "Bogoslovka"
     ],
     "name:rus_x_preferred":[
-        "\u0411\u043e\u0433\u043e\u0441\u043b\u043e\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0411\u043e\u0433\u043e\u0441\u043b\u043e\u0432\u043a\u0430"
     ],
     "qs:name":"Bogoslovka",
@@ -50,7 +51,7 @@
     "wof:concordances":{
         "gn:id":575494,
         "gp:id":1990713,
-        "qs:id":887734,
+        "qs_pg:id":887734,
         "wk:page":"Bogoslovka"
     },
     "wof:country":"RU",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":890485887,
-    "wof:lastmodified":1527727128,
+    "wof:lastmodified":1566630529,
     "wof:name":"Bogoslovka",
     "wof:parent_id":890484343,
     "wof:placetype":"locality",
