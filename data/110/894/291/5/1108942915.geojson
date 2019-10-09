@@ -10,8 +10,10 @@
     "geom:latitude":55.749787,
     "geom:longitude":37.541205,
     "iso:country":"RU",
+    "lbl:bbox":"37.5362053751,55.7447871597,37.5462053751,55.7547871597",
     "lbl:latitude":55.749787,
     "lbl:longitude":37.541205,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -30,14 +32,14 @@
     "name:rus_x_variant":[
         "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0434\u0435\u043b\u043e\u0432\u043e\u0439 \u0446\u0435\u043d\u0442\u0440"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688085,
         102191581,
         85632685,
         102003033,
         874393555,
-        1108736095
+        1108736095,
+        85688085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1108942915,
-    "wof:lastmodified":1500066510,
+    "wof:lastmodified":1566627427,
     "wof:name":"Moscow City",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

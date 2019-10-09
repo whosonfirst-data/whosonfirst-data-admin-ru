@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":56.725619,
     "lbl:longitude":62.046279,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Sverdlovskaja oblast'",
     "meso:admin1r_en":"Ural'skij federal'nyj okrug",
     "meso:admin_1":"\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":62.046279,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Bogdanovic"
     ],
@@ -63,9 +66,9 @@
         "\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0411\u043e\u0433\u0434\u0430\u043d\u043e\u0432\u0438\u0447"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Bogdanovich",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108733709,
-    "wof:lastmodified":1564124447,
+    "wof:lastmodified":1566627054,
     "wof:name":"Bogdanovich",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

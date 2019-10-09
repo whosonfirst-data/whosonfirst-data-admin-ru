@@ -5,29 +5,32 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000598,
-    "geom:area_square_m":4215643.76638,
+    "geom:area_square_m":4215643.766379,
     "geom:bbox":"37.8820266724,55.2527236938,37.9272766113,55.2720565796",
     "geom:latitude":55.262309,
     "geom:longitude":37.904103,
-    "geonames:id":"578940,817505",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":3994,
+    "gn:id":"578940,817505",
+    "gn:population":3994,
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:latitude":55.26295,
     "lbl:longitude":37.904103,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.26295,
     "mps:longitude":37.904103,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Barybino"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0440\u044b\u0431\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Boribino"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -55,7 +58,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688161,
@@ -68,7 +71,7 @@
     "wof:concordances":{
         "gn:id":578940,
         "gp:id":2120174,
-        "qs:id":322360
+        "qs_pg:id":322360
     },
     "wof:country":"RU",
     "wof:geomhash":"1b280b2511994975cba96d863c76809b",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":102003451,
-    "wof:lastmodified":1505338919,
+    "wof:lastmodified":1566615554,
     "wof:name":"Barybino",
     "wof:parent_id":1108733735,
     "wof:placetype":"locality",

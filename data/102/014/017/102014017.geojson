@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000684,
-    "geom:area_square_m":4875260.737479,
+    "geom:area_square_m":4875260.737478,
     "geom:bbox":"99.1082687378,54.810382843,99.1445846558,54.841293335",
     "geom:latitude":54.824051,
     "geom:longitude":99.124303,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.824581,
     "lbl:longitude":99.124649,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.824581,
     "mps:longitude":99.124649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Shumskiy"
     ],
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":115,
     "wof:belongsto":[
@@ -66,7 +69,6 @@
     "wof:concordances":{
         "gn:id":1491977,
         "gp:id":2083995,
-        "qs:id":132841,
         "qs_pg:id":132841
     },
     "wof:country":"RU",
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":102014017,
-    "wof:lastmodified":1527636671,
+    "wof:lastmodified":1566615127,
     "wof:name":"Shumskiy",
     "wof:parent_id":890483471,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000316,
-    "geom:area_square_m":2481750.706909,
+    "geom:area_square_m":2481750.706908,
     "geom:bbox":"137.117156982,50.5803070068,137.141555786,50.6024017334",
     "geom:latitude":50.592469,
     "geom:longitude":137.127818,
@@ -14,17 +14,20 @@
     "iso:country":"RU",
     "lbl:latitude":50.592484,
     "lbl:longitude":137.126617,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.592484,
     "mps:longitude":137.126617,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Dzemgi"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0437\u0435\u043c\u0433\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dzhonko"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -43,7 +46,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687937,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102015415,
-    "wof:lastmodified":1501225172,
+    "wof:lastmodified":1566614937,
     "wof:name":"Dzemgi",
     "wof:parent_id":1108734559,
     "wof:placetype":"locality",

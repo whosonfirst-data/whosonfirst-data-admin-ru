@@ -14,6 +14,8 @@
     "iso:country":"RU",
     "lbl:latitude":66.539003,
     "lbl:longitude":66.593459,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":66.539003,
     "mps:longitude":66.593459,
     "mz:hierarchy_label":1,
@@ -187,7 +189,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043b\u0435\u0445\u0430\u0440\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Obdorsr"
     ],
     "name:urd_x_preferred":[
@@ -329,7 +331,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":66.533333,
     "wd:longitude":66.633333,
@@ -345,10 +347,12 @@
     "wof:concordances":{
         "gn:id":1493197,
         "gp:id":2123238,
-        "qs:id":1129411,
         "qs_pg:id":1031447,
         "wd:id":"Q6494",
         "wk:page":"Salekhard"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1129411
     },
     "wof:country":"RU",
     "wof:geomhash":"577c5b758d4b2d5c8de4d6431bf024dd",
@@ -363,7 +367,7 @@
         }
     ],
     "wof:id":102002207,
-    "wof:lastmodified":1563241601,
+    "wof:lastmodified":1566615703,
     "wof:name":"Salekhard",
     "wof:parent_id":890483515,
     "wof:placetype":"locality",

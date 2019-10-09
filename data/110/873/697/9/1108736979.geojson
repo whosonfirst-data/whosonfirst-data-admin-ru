@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":54.674562,
     "lbl:longitude":42.746851,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Respublika Mordovija",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u043e\u0440\u0434\u043e\u0432\u0438\u044f",
@@ -53,6 +55,7 @@
     "mps:longitude":42.746851,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Ten'gushevskiy Rayon"
     ],
@@ -96,9 +99,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043d\u044c\u0433\u0443\u0448\u0435\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0422\u0435\u043d\u044c\u0433\u0443\u0448\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Tengushevsky"
     ],
@@ -106,9 +106,9 @@
         "\u5805\u53e4\u820d\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1882",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Ten'gushevo",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":1108736979,
-    "wof:lastmodified":1563257142,
+    "wof:lastmodified":1566627247,
     "wof:name":"Ten'gushevskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",

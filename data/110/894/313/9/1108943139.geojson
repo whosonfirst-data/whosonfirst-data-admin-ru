@@ -10,8 +10,10 @@
     "geom:latitude":60.023546,
     "geom:longitude":30.247358,
     "iso:country":"RU",
+    "lbl:bbox":"30.2423577304,60.0185459305,30.2523577304,60.0285459305",
     "lbl:latitude":60.023546,
     "lbl:longitude":30.247358,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:rus_x_preferred":[
         "\u042e\u043d\u0442\u043e\u043b\u043e\u0432\u043e"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108943139,
-    "wof:lastmodified":1510870337,
+    "wof:lastmodified":1566627415,
     "wof:name":"Yuntolovo",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

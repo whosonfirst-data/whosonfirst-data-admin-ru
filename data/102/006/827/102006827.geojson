@@ -16,6 +16,8 @@
     "iso:country":"RU",
     "lbl:latitude":48.725589,
     "lbl:longitude":44.490645,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":48.725589,
     "mps:longitude":44.490645,
     "mz:hierarchy_label":1,
@@ -403,7 +405,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zarizyn"
     ],
     "name:urd_x_preferred":[
@@ -566,7 +568,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":80.0,
     "wd:latitude":48.7,
@@ -583,10 +585,12 @@
     "wof:concordances":{
         "gn:id":472757,
         "gp:id":2124298,
-        "qs:id":239372,
         "qs_pg:id":207830,
         "wd:id":"Q914",
         "wk:page":"Volgograd"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":239372
     },
     "wof:country":"RU",
     "wof:geomhash":"10b0ef68023b662668f25ab8dc79d850",
@@ -601,7 +605,7 @@
         }
     ],
     "wof:id":102006827,
-    "wof:lastmodified":1563240637,
+    "wof:lastmodified":1566615337,
     "wof:megacity":1,
     "wof:name":"Volgograd",
     "wof:parent_id":890480131,

@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":58.146939,
     "lbl:longitude":50.194111,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.146939,
     "mps:longitude":50.194111,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vozhgaly"
     ],
@@ -41,7 +44,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687903,
         102191581,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":102008401,
-    "wof:lastmodified":1501214414,
+    "wof:lastmodified":1566615269,
     "wof:name":"Vozhgaly",
     "wof:parent_id":1108734793,
     "wof:placetype":"locality",

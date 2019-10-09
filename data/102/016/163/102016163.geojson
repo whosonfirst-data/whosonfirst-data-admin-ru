@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.900898,
     "lbl:longitude":43.211438,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":43.900898,
     "mps:longitude":43.211438,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Zalukokoazhe"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -76,7 +79,6 @@
     "wof:concordances":{
         "gn:id":465174,
         "gp:id":2124548,
-        "qs:id":870826,
         "qs_pg:id":870826
     },
     "wof:country":"RU",
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":102016163,
-    "wof:lastmodified":1564109118,
+    "wof:lastmodified":1566615447,
     "wof:name":"Zalukokoazhe",
     "wof:parent_id":1108738313,
     "wof:placetype":"locality",

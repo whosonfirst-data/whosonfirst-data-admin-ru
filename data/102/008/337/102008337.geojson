@@ -9,17 +9,20 @@
     "geom:bbox":"46.2988891602,58.3426399231,46.3325843811,58.3740844727",
     "geom:latitude":58.357424,
     "geom:longitude":46.315108,
-    "geonames:id":"506695,506696",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":4568,
+    "gn:id":"506695,506696",
+    "gn:population":4568,
     "iso:country":"RU",
     "lbl:latitude":58.35528,
     "lbl:longitude":46.317114,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.35528,
     "mps:longitude":46.317114,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041f\u0430\u043d\u0430\u0437\u044b\u0440\u0430\u0432\u0430"
     ],
@@ -56,9 +59,6 @@
     "name:rus_x_preferred":[
         "\u041f\u043e\u043d\u0430\u0437\u044b\u0440\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u041f\u043e\u043d\u0430\u0437\u044b\u0440\u0435\u0432\u043e"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"4401800000100",
@@ -79,7 +79,7 @@
     "qs:type":"\u043f\u0433\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":987,
     "wof:belongsto":[
@@ -93,7 +93,7 @@
     "wof:concordances":{
         "gn:id":506696,
         "gp:id":2122980,
-        "qs:id":124984,
+        "qs_pg:id":124984,
         "wd:id":"Q3514779",
         "wk:page":"Ponazyrevsky District"
     },
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":102008337,
-    "wof:lastmodified":1563240413,
+    "wof:lastmodified":1566615259,
     "wof:name":"Ponazyrevo",
     "wof:parent_id":1108735933,
     "wof:placetype":"locality",

@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":67.373471,
     "lbl:longitude":33.377257,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Murmanskaja oblast'",
     "meso:admin1r_en":"Severo-Zapadnyj federal'nyj okrug",
     "meso:admin_1":"\u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":33.377257,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Apatitskiy"
     ],
@@ -63,7 +66,7 @@
         "\u0410\u043f\u0430\u0442\u0438\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687869,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108732751,
-    "wof:lastmodified":1561581979,
+    "wof:lastmodified":1566626965,
     "wof:name":"Apatitskiy",
     "wof:parent_id":85687869,
     "wof:placetype":"county",

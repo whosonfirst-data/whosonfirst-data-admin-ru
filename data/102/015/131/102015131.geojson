@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000258,
-    "geom:area_square_m":2040628.125185,
+    "geom:area_square_m":2040628.125181,
     "geom:bbox":"127.926445007,50.1994934082,127.959960938,50.2119369507",
     "geom:latitude":50.205031,
     "geom:longitude":127.944146,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.204761,
     "lbl:longitude":127.944465,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.204761,
     "mps:longitude":127.944465,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tolstovka"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687951,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102015131,
-    "wof:lastmodified":1501223623,
+    "wof:lastmodified":1566614954,
     "wof:name":"Tolstovka",
     "wof:parent_id":890480829,
     "wof:placetype":"locality",

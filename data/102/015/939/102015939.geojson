@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00066,
-    "geom:area_square_m":5831026.112762,
+    "geom:area_square_m":5831026.112761,
     "geom:bbox":"40.652973175,44.4016113281,40.6889457703,44.4255561829",
     "geom:latitude":44.413087,
     "geom:longitude":40.672537,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.413526,
     "lbl:longitude":40.672537,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.413526,
     "mps:longitude":40.672537,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Benokovo"
     ],
@@ -25,9 +28,6 @@
         "Benokovo"
     ],
     "name:rus_x_preferred":[
-        "\u0411\u0435\u043d\u043e\u043a\u043e\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u0411\u0435\u043d\u043e\u043a\u043e\u0432\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688029,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102015939,
-    "wof:lastmodified":1501214795,
+    "wof:lastmodified":1566614928,
     "wof:name":"Benokovo",
     "wof:parent_id":890484187,
     "wof:placetype":"locality",

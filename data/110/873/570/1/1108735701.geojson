@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":54.886356,
     "lbl:longitude":89.003997,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Respublika KHakasija",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0425\u0430\u043a\u0430\u0441\u0438\u044f",
@@ -53,6 +55,7 @@
     "mps:longitude":89.003997,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u041e\u0440\u0434\u0436\u043e\u043d\u0438\u043a\u0438\u0434\u0437\u0435\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -93,9 +96,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0434\u0436\u043e\u043d\u0456\u043a\u0456\u0434\u0437\u0435\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041e\u0440\u0434\u0436\u043e\u043d\u0438\u043a\u0438\u0434\u0437\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Ordzhonikidzevsky"
     ],
@@ -106,7 +106,7 @@
         "\u5967\u723e\u5fb7\u82e5\u5c3c\u57fa\u6fa4\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688061,
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1108735701,
-    "wof:lastmodified":1563257318,
+    "wof:lastmodified":1566627375,
     "wof:name":"Ordzhonikidzevskiy",
     "wof:parent_id":85688061,
     "wof:placetype":"county",

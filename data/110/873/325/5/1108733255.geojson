@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":53.824505,
     "lbl:longitude":91.29798,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Respublika KHakasija",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0425\u0430\u043a\u0430\u0441\u0438\u044f",
@@ -53,6 +55,7 @@
     "mps:longitude":91.29798,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u0631\u0646\u0648\u063a\u0648\u0631\u0633\u0643"
     ],
@@ -156,9 +159,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u043e\u0440\u043d\u043e\u0433\u043e\u0440\u0441\u044c\u043a"
     ],
-    "name:und_x_variant":[
-        "\u0427\u0435\u0440\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
-    ],
     "name:vep_x_preferred":[
         "\u010cernogorsk"
     ],
@@ -172,9 +172,9 @@
         "\u5207\u5c14\u8bfa\u6208\u5c14\u65af\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"6899",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Ust'-Abakan",
@@ -206,7 +206,7 @@
         }
     ],
     "wof:id":1108733255,
-    "wof:lastmodified":1564124477,
+    "wof:lastmodified":1566627109,
     "wof:name":"Chernogorsk",
     "wof:parent_id":85688061,
     "wof:placetype":"county",

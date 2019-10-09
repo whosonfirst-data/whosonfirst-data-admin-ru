@@ -9,17 +9,20 @@
     "geom:bbox":"38.6683349609,50.9279441833,38.7060852051,50.9481391907",
     "geom:latitude":50.938733,
     "geom:longitude":38.688135,
-    "geonames:id":"542713,542121",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":2352,
+    "gn:id":"542713,542121",
+    "gn:population":2352,
     "iso:country":"RU",
     "lbl:latitude":50.93887,
     "lbl:longitude":38.690995,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.93887,
     "mps:longitude":38.690995,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u044b"
     ],
@@ -62,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasnaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -85,7 +88,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":86,
     "wof:belongsto":[
@@ -99,7 +102,7 @@
     "wof:concordances":{
         "gn:id":542121,
         "gp:id":2121646,
-        "qs:id":125294,
+        "qs_pg:id":125294,
         "wk:page":"Krasny"
     },
     "wof:country":"RU",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":102006055,
-    "wof:lastmodified":1564108997,
+    "wof:lastmodified":1566615347,
     "wof:name":"Krasnoye",
     "wof:parent_id":1108734655,
     "wof:placetype":"locality",

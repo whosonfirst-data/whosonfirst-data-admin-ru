@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000303,
-    "geom:area_square_m":2221106.653419,
+    "geom:area_square_m":2221106.65342,
     "geom:bbox":"49.7822494507,53.6182518005,49.8137512207,53.6345825195",
     "geom:latitude":53.626149,
     "geom:longitude":49.799044,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.625528,
     "lbl:longitude":49.799344,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.625528,
     "mps:longitude":49.799344,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0413\u043c\u0456\u043d\u0430 \u0411\u044f\u043b\u0430 \u041f\u0456\u0441\u043a\u0430"
     ],
@@ -54,7 +57,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043c\u0456\u043d\u0430 \u0411\u0456\u043b\u0430 \u041f\u0456\u0441\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Piskali"
     ],
     "name:war_x_preferred":[
@@ -76,7 +79,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687781,
         102191581,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":102010359,
-    "wof:lastmodified":1501214548,
+    "wof:lastmodified":1566615492,
     "wof:name":"Piskaly",
     "wof:parent_id":890484433,
     "wof:placetype":"locality",

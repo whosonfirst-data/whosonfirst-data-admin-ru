@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":56.240303,
     "lbl:longitude":51.224232,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kirovskaja oblast'",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":51.224232,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u0412\u044f\u0442\u0441\u043a\u0438\u0435 \u041f\u043e\u043b\u044f\u043d\u044b\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -93,9 +96,6 @@
     "name:tat_x_preferred":[
         "\u041d\u043e\u043a\u0440\u0430\u0442 \u0410\u043b\u0430\u043d\u044b \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
-    "name:und_x_variant":[
-        "\u0412\u044f\u0442\u0441\u043a\u043e\u043f\u043e\u043b\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Vyatsko-Polyansky"
     ],
@@ -103,7 +103,7 @@
         "\u7dad\u4e9e\u7279\u65af\u79d1\u6ce2\u826f\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687903,
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":1108737487,
-    "wof:lastmodified":1563256875,
+    "wof:lastmodified":1566627094,
     "wof:name":"Vjatskopoljanskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",

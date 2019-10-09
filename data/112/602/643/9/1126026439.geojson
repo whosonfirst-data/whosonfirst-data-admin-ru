@@ -9,15 +9,18 @@
     "geom:bbox":"118.52283,53.3192,118.52283,53.3192",
     "geom:latitude":53.3192,
     "geom:longitude":118.52283,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":23,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":23,
     "iso:country":"RU",
+    "lbl:bbox":"118.50283,53.2992,118.54283,53.3392",
     "lbl:latitude":53.3192,
     "lbl:longitude":118.52283,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Sbega"
@@ -26,9 +29,6 @@
         "Sbega"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u0431\u0435\u0433\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u0431\u0435\u0433\u0430"
     ],
     "qs_pg:aaroncc":"RU",
@@ -43,7 +43,7 @@
     "qs_pg:qs_id":570897,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688005,
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":1126026439,
-    "wof:lastmodified":1509407577,
+    "wof:lastmodified":1566631003,
     "wof:name":"Sbega",
     "wof:parent_id":890485357,
     "wof:placetype":"locality",

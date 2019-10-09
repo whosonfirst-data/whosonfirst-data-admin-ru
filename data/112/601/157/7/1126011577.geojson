@@ -9,15 +9,18 @@
     "geom:bbox":"135.2909,43.74735,135.2909,43.74735",
     "geom:latitude":43.74735,
     "geom:longitude":135.2909,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4328,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":4328,
     "iso:country":"RU",
+    "lbl:bbox":"135.2709,43.72735,135.3109,43.76735",
     "lbl:latitude":43.74735,
     "lbl:longitude":135.2909,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Ol'ga"
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043b\u044c\u0433\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Permskaya"
     ],
     "name:yue_x_preferred":[
@@ -82,7 +85,7 @@
     "qs_pg:qs_id":570904,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688023,
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1126011577,
-    "wof:lastmodified":1563263137,
+    "wof:lastmodified":1566631023,
     "wof:name":"Ol\u2019ga",
     "wof:parent_id":1108735649,
     "wof:placetype":"locality",

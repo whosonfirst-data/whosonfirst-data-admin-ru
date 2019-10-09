@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":64.518426,
     "lbl:longitude":34.775127,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":64.518426,
     "mps:longitude":34.775127,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0648\u0645\u0648\u0631\u0633\u0643"
     ],
@@ -151,7 +154,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0456\u043b\u043e\u043c\u043e\u0440\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Byelomorsk"
     ],
     "name:urd_x_preferred":[
@@ -182,7 +185,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":64.516667,
     "wd:longitude":34.766667,
@@ -199,7 +202,6 @@
     "wof:concordances":{
         "gn:id":577922,
         "gp:id":2120231,
-        "qs:id":273789,
         "qs_pg:id":273789,
         "wd:id":"Q104773",
         "wk:page":"Belomorsk"
@@ -217,7 +219,7 @@
         }
     ],
     "wof:id":1175613565,
-    "wof:lastmodified":1563257465,
+    "wof:lastmodified":1566627442,
     "wof:name":"Belomorsk",
     "wof:parent_id":890483561,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001169,
-    "geom:area_square_m":8772018.303552,
+    "geom:area_square_m":8772018.303548,
     "geom:bbox":"81.1914367676,52.6089553833,81.2731628418,52.6392097473",
     "geom:latitude":52.622029,
     "geom:longitude":81.23203,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.618602,
     "lbl:longitude":81.225219,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.618602,
     "mps:longitude":81.225219,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0420\u0430\u043c\u0430\u043d\u0430\u0432\u0430"
     ],
@@ -37,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u043c\u0430\u043d\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Romanovskiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":971,
     "wof:belongsto":[
@@ -67,7 +70,6 @@
     "wof:concordances":{
         "gn:id":1493577,
         "gp:id":2075166,
-        "qs:id":556097,
         "qs_pg:id":556097
     },
     "wof:country":"RU",
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":102013545,
-    "wof:lastmodified":1527636664,
+    "wof:lastmodified":1566615057,
     "wof:name":"Romanovo",
     "wof:parent_id":1108736301,
     "wof:placetype":"locality",

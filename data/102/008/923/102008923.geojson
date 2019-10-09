@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.264896,
     "lbl:longitude":54.214781,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.264896,
     "mps:longitude":54.214781,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u0628\u0627\u0631\u0643\u0627"
     ],
@@ -125,7 +128,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043c\u0431\u0430\u0440\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kamarka"
     ],
     "name:vep_x_preferred":[
@@ -155,7 +158,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.266667,
     "wd:longitude":54.2,
@@ -170,7 +173,6 @@
     "wof:concordances":{
         "gn:id":553835,
         "gp:id":2121140,
-        "qs:id":870785,
         "qs_pg:id":870785,
         "wd:id":"Q143813",
         "wk:page":"Kambarka"
@@ -186,7 +188,7 @@
         }
     ],
     "wof:id":102008923,
-    "wof:lastmodified":1563240467,
+    "wof:lastmodified":1566615279,
     "wof:name":"Kambarka",
     "wof:parent_id":1108734215,
     "wof:placetype":"locality",

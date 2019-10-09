@@ -11,11 +11,15 @@
     "geom:longitude":56.3064,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":3402,
+    "gn:population":3402,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"56.2864,57.8816,56.3264,57.9216",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0424\u0435\u0440\u043c\u0430"
     ],
@@ -46,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0435\u0440\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u0424\u0435\u0440\u043c\u0430"
-    ],
     "name:uzb_x_preferred":[
         "Ferma"
     ],
@@ -74,7 +75,7 @@
     "wof:concordances":{
         "gn:id":824094,
         "gp:id":2005207,
-        "qs:id":211899,
+        "qs_pg:id":211899,
         "wk:page":"Ferma"
     },
     "wof:country":"RU",
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":890486949,
-    "wof:lastmodified":1564129246,
+    "wof:lastmodified":1566630863,
     "wof:name":"Ferma",
     "wof:parent_id":890484335,
     "wof:placetype":"locality",

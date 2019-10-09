@@ -9,17 +9,20 @@
     "geom:bbox":"35.9115562439,59.3769989014,35.9853897095,59.4191398621",
     "geom:latitude":59.397438,
     "geom:longitude":35.944558,
-    "geonames:id":"580006,488505",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":12300,
+    "gn:id":"580006,488505",
+    "gn:population":12300,
     "iso:country":"RU",
     "lbl:latitude":59.399603,
     "lbl:longitude":35.944554,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":59.399603,
     "mps:longitude":35.944554,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0628\u064a\u064a\u0641\u0648"
     ],
@@ -137,9 +140,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0431\u0430\u0454\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Babajewo"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0628\u0627\u06cc\u0641\u0648"
     ],
@@ -172,7 +172,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":376,
     "wof:belongsto":[
@@ -186,7 +186,7 @@
     "wof:concordances":{
         "gn:id":580006,
         "gp:id":2120129,
-        "qs:id":275091,
+        "qs_pg:id":275091,
         "wd:id":"Q104278",
         "wk:page":"Babayevo"
     },
@@ -203,7 +203,7 @@
         }
     ],
     "wof:id":102002529,
-    "wof:lastmodified":1563241531,
+    "wof:lastmodified":1566615686,
     "wof:name":"Babayevo",
     "wof:parent_id":1108732829,
     "wof:placetype":"locality",

@@ -12,17 +12,20 @@
     "iso:country":"RU",
     "lbl:latitude":56.748781,
     "lbl:longitude":55.091217,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.748781,
     "mps:longitude":55.091217,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0423\u0441\u0430"
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0423\u0441\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bol\u2019shaya Usa"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -41,7 +44,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687975,
         102191581,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":102008791,
-    "wof:lastmodified":1564108913,
+    "wof:lastmodified":1566615259,
     "wof:name":"Bolshaya Usa",
     "wof:parent_id":1108734771,
     "wof:placetype":"locality",

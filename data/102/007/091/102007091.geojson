@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":47.768411,
     "lbl:longitude":44.504409,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.768411,
     "mps:longitude":44.504409,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u0434\u043e\u0432\u0430\u0435"
     ],
@@ -58,9 +61,6 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u0434\u043e\u0432\u043e\u0435"
     ],
-    "name:unk_x_variant":[
-        "Sadowoje"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u043b\u043c\u044b\u043a\u0438\u044f",
     "qs:a1_lc":"0801000000100",
@@ -79,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":187,
     "wof:belongsto":[
@@ -92,9 +92,11 @@
     "wof:concordances":{
         "gn:id":499528,
         "gp:id":2077247,
-        "qs:id":194334,
-        "qs_pg:id":549219,
+        "qs_pg:id":194334,
         "wd:id":"Q4404723"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":549219
     },
     "wof:country":"RU",
     "wof:geomhash":"ef85a66dbab06ec58226a09d749cacb8",
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":102007091,
-    "wof:lastmodified":1563240221,
+    "wof:lastmodified":1566615159,
     "wof:name":"Sadovoye",
     "wof:parent_id":1108736399,
     "wof:placetype":"locality",

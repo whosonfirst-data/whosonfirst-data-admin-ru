@@ -11,11 +11,15 @@
     "geom:longitude":38.44358,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":18007,
+    "gn:population":18007,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"38.42358,55.43978,38.46358,55.47978",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Belooz\u00ebrskiy"
     ],
@@ -24,9 +28,6 @@
     ],
     "name:rus_x_variant":[
         "\u0411\u0435\u043b\u043e\u043e\u0437\u0451\u0440\u0441\u043a\u0438\u0439"
-    ],
-    "name:unk_x_variant":[
-        "Belooz\u00ebrskiy"
     ],
     "qs:name":"Beloozerskiy",
     "qs:name_adm0":"Russia",
@@ -49,7 +50,7 @@
     "wof:concordances":{
         "gn:id":577901,
         "gp:id":1987861,
-        "qs:id":344306
+        "qs_pg:id":344306
     },
     "wof:country":"RU",
     "wof:created":1469054341,
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":890481073,
-    "wof:lastmodified":1505343746,
+    "wof:lastmodified":1566630819,
     "wof:name":"Beloozerskiy",
     "wof:parent_id":1108737697,
     "wof:placetype":"locality",

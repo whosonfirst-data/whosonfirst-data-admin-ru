@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000471,
-    "geom:area_square_m":3650066.743226,
+    "geom:area_square_m":3650066.743224,
     "geom:bbox":"109.206085205,51.2039985657,109.238113403,51.2254714966",
     "geom:latitude":51.214681,
     "geom:longitude":109.222516,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.214929,
     "lbl:longitude":109.222516,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.214929,
     "mps:longitude":109.222516,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Novopavlovka"
     ],
@@ -26,9 +29,6 @@
         "Novopavlovka"
     ],
     "name:rus_x_preferred":[
-        "\u041d\u043e\u0432\u043e\u043f\u0430\u0432\u043b\u043e\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041d\u043e\u0432\u043e\u043f\u0430\u0432\u043b\u043e\u0432\u043a\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":22,
     "wof:belongsto":[
@@ -62,7 +62,6 @@
     "wof:concordances":{
         "gn:id":2018896,
         "gp:id":2056174,
-        "qs:id":1095611,
         "qs_pg:id":1095611
     },
     "wof:country":"RU",
@@ -76,7 +75,7 @@
         }
     ],
     "wof:id":102014745,
-    "wof:lastmodified":1527636673,
+    "wof:lastmodified":1566615141,
     "wof:name":"Novopavlovka",
     "wof:parent_id":1108735847,
     "wof:placetype":"locality",

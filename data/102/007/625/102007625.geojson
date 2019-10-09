@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000605,
-    "geom:area_square_m":5194319.091513,
+    "geom:area_square_m":5194319.091515,
     "geom:bbox":"38.5681877136,46.0152511597,38.6033554077,46.0418014526",
     "geom:latitude":46.029555,
     "geom:longitude":38.585605,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":46.028235,
     "lbl:longitude":38.585605,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.028235,
     "mps:longitude":38.585605,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Brin'kovskaya"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0440\u0438\u043d\u044c\u043a\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stanitsa Bryn\u2019kovskaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688029,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102007625,
-    "wof:lastmodified":1501214779,
+    "wof:lastmodified":1566615182,
     "wof:name":"Brin'Kovskaya",
     "wof:parent_id":1108735981,
     "wof:placetype":"locality",

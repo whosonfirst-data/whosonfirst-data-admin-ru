@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000598,
-    "geom:area_square_m":4306290.690214,
+    "geom:area_square_m":4306290.690212,
     "geom:bbox":"56.763999939,54.3956947327,56.8132514954,54.4159431458",
     "geom:latitude":54.404989,
     "geom:longitude":56.787503,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.405495,
     "lbl:longitude":56.790434,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.405495,
     "mps:longitude":56.790434,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maksim Gor'kiy"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0418\u043c\u0435\u043d\u0438 \u041c\u0430\u043a\u0441\u0438\u043c\u0430 \u0413\u043e\u0440\u044c\u043a\u043e\u0433\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Imeni Maksima Gor\u2019kogo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102009909,
-    "wof:lastmodified":1501214629,
+    "wof:lastmodified":1566615203,
     "wof:name":"Arkhangel'Skoye",
     "wof:parent_id":85687801,
     "wof:placetype":"locality",

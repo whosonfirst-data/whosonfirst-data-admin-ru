@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":54.100472,
     "lbl:longitude":89.97811,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Respublika KHakasija",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0425\u0430\u043a\u0430\u0441\u0438\u044f",
@@ -53,6 +55,7 @@
     "mps:longitude":89.97811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0421\u043e\u0440\u0441\u043a"
     ],
@@ -131,9 +134,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0440\u0441\u044c\u043a"
     ],
-    "name:und_x_variant":[
-        "\u0421\u043e\u0440\u0441\u043a"
-    ],
     "name:vep_x_preferred":[
         "Sorsk"
     ],
@@ -144,7 +144,7 @@
         "\u7d22\u5c14\u65af\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688061,
@@ -166,7 +166,7 @@
         }
     ],
     "wof:id":1108736719,
-    "wof:lastmodified":1564124515,
+    "wof:lastmodified":1566627190,
     "wof:name":"Sorsk",
     "wof:parent_id":85688061,
     "wof:placetype":"county",

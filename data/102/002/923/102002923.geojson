@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.32111,
     "lbl:longitude":36.561957,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.32111,
     "mps:longitude":36.561957,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0633\u0648\u0643\u0648\u0641\u0633\u0643"
     ],
@@ -107,7 +110,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0441\u043e\u043a\u043e\u0432\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vysokovskiy"
     ],
     "name:war_x_preferred":[
@@ -137,7 +140,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.316667,
     "wd:longitude":36.55,
@@ -153,7 +156,6 @@
     "wof:concordances":{
         "gn:id":470083,
         "gp:id":2124405,
-        "qs:id":912976,
         "qs_pg:id":912976,
         "wd:id":"Q134169",
         "wk:page":"Vysokovsk"
@@ -171,7 +173,7 @@
         }
     ],
     "wof:id":102002923,
-    "wof:lastmodified":1563241529,
+    "wof:lastmodified":1566615685,
     "wof:name":"Vysokovsk",
     "wof:parent_id":890487039,
     "wof:placetype":"locality",

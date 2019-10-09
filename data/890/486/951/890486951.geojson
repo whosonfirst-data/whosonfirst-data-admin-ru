@@ -11,11 +11,15 @@
     "geom:longitude":36.39417,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"36.37417,55.59278,36.41417,55.63278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Mars"
     ],
@@ -574,9 +578,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0441"
     ],
-    "name:unk_x_variant":[
-        "\u041c\u0430\u0440\u0441"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0631\u06cc\u062e"
     ],
@@ -659,7 +660,7 @@
     "wof:concordances":{
         "gn:id":529042,
         "gp:id":2043405,
-        "qs:id":212251,
+        "qs_pg:id":212251,
         "wd:id":"Q111",
         "wk:page":"Mars"
     },
@@ -677,7 +678,7 @@
         }
     ],
     "wof:id":890486951,
-    "wof:lastmodified":1563262789,
+    "wof:lastmodified":1566630870,
     "wof:name":"Mars",
     "wof:parent_id":890484215,
     "wof:placetype":"locality",

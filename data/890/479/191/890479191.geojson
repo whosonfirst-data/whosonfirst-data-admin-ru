@@ -11,10 +11,14 @@
     "geom:longitude":139.9274,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":2719,
+    "gn:population":2719,
     "iso:country":"RU",
+    "lbl:bbox":"139.9074,53.91345,139.9474,53.95345",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Mnogovershinnyy"
     ],
@@ -22,9 +26,6 @@
         "Mnogoversjinnyj"
     ],
     "name:rus_x_preferred":[
-        "\u041c\u043d\u043e\u0433\u043e\u0432\u0435\u0440\u0448\u0438\u043d\u043d\u044b\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u041c\u043d\u043e\u0433\u043e\u0432\u0435\u0440\u0448\u0438\u043d\u043d\u044b\u0439"
     ],
     "qs:name":"Mnogovershinnyy",
@@ -43,7 +44,7 @@
     "wof:concordances":{
         "gn:id":2019935,
         "gp:id":2046944,
-        "qs:id":137514
+        "qs_pg:id":137514
     },
     "wof:country":"RU",
     "wof:created":1469054228,
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":890479191,
-    "wof:lastmodified":1505343736,
+    "wof:lastmodified":1566630751,
     "wof:name":"Mnogovershinnyy",
     "wof:parent_id":890483493,
     "wof:placetype":"locality",

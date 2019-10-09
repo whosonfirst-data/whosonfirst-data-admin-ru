@@ -10,8 +10,10 @@
     "geom:latitude":59.969195,
     "geom:longitude":30.279466,
     "iso:country":"RU",
+    "lbl:bbox":"30.2744664121,59.9641954918,30.2844664121,59.9741954918",
     "lbl:latitude":59.969195,
     "lbl:longitude":30.279466,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:rus_x_preferred":[
         "\u0427\u043a\u0430\u043b\u043e\u0432\u0441\u043a\u043e\u0435"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108943403,
-    "wof:lastmodified":1510870339,
+    "wof:lastmodified":1566627414,
     "wof:name":"Chkalovskoye",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

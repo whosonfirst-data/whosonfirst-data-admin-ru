@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.238875,
     "lbl:longitude":79.194927,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.238875,
     "mps:longitude":79.194927,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u043b\u044e\u0447\u044b"
     ],
@@ -49,9 +52,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043b\u044e\u0447\u0456"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u043b\u044e\u0447\u0438"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
     "qs:a1r":"*",
@@ -66,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":119,
     "wof:belongsto":[
@@ -79,7 +79,6 @@
     "wof:concordances":{
         "gn:id":1503153,
         "gp:id":2121434,
-        "qs:id":132997,
         "qs_pg:id":132997
     },
     "wof:country":"RU",
@@ -93,7 +92,7 @@
         }
     ],
     "wof:id":102013673,
-    "wof:lastmodified":1564108686,
+    "wof:lastmodified":1566615044,
     "wof:name":"Klyuchi",
     "wof:parent_id":1108734499,
     "wof:placetype":"locality",

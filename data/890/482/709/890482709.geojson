@@ -11,9 +11,12 @@
     "geom:longitude":143.13871,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":10098,
+    "gn:population":10098,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"143.11871,51.77918,143.15871,51.81918",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Nogliki"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Noglik"
     ],
     "name:zho_x_preferred":[
@@ -194,7 +197,7 @@
     "wof:concordances":{
         "gn:id":2122783,
         "gp:id":2122451,
-        "qs:id":274170,
+        "qs_pg:id":274170,
         "wd:id":"Q705809",
         "wk:page":"Nogliki"
     },
@@ -212,7 +215,7 @@
         }
     ],
     "wof:id":890482709,
-    "wof:lastmodified":1563262104,
+    "wof:lastmodified":1566630576,
     "wof:name":"Nogliki",
     "wof:parent_id":890487719,
     "wof:placetype":"locality",

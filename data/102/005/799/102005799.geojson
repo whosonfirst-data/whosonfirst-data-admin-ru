@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001842,
-    "geom:area_square_m":14256417.795764,
+    "geom:area_square_m":14256417.795762,
     "geom:bbox":"38.6418876648,51.23777771,38.6993598938,51.2863044739",
     "geom:latitude":51.26231,
     "geom:longitude":38.671232,
     "iso:country":"RU",
     "lbl:latitude":51.26156,
     "lbl:longitude":38.670684,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.26156,
     "mps:longitude":38.670684,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Istobnoye"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u0418\u0441\u0442\u043e\u0431\u043d\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stebenki"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688051,
         102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102005799,
-    "wof:lastmodified":1501214717,
+    "wof:lastmodified":1566615615,
     "wof:name":"Istobnoye",
     "wof:parent_id":1108736281,
     "wof:placetype":"locality",

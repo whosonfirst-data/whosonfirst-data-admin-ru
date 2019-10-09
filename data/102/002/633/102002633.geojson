@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00051,
-    "geom:area_square_m":3342930.243214,
+    "geom:area_square_m":3342930.243216,
     "geom:bbox":"33.8920555115,57.9763069153,33.9289703369,57.9967765808",
     "geom:latitude":57.987704,
     "geom:longitude":33.910249,
@@ -13,17 +13,20 @@
     "iso:country":"RU",
     "lbl:latitude":57.98714,
     "lbl:longitude":33.909897,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.98714,
     "mps:longitude":33.909897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Berezayka"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0440\u0435\u0437\u0430\u0439\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Berezajaka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -42,7 +45,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":26,
     "wof:belongsto":[
@@ -56,7 +59,7 @@
     "wof:concordances":{
         "gn:id":577375,
         "gp:id":56452935,
-        "qs:id":125721
+        "qs_pg:id":125721
     },
     "wof:country":"RU",
     "wof:geomhash":"e6233cfddea9ae98b60936bc9d334529",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102002633,
-    "wof:lastmodified":1527637965,
+    "wof:lastmodified":1566615675,
     "wof:name":"Berezayka",
     "wof:parent_id":890486641,
     "wof:placetype":"locality",

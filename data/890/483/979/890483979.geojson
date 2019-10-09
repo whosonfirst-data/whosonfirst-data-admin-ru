@@ -11,11 +11,15 @@
     "geom:longitude":29.02973,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"29.00973,58.87934,29.04973,58.91934",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0441\u043a\u0438\u0439"
     ],
@@ -43,9 +47,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043a\u043e\u043b\u0430\u0454\u0432\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
-        "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0441\u043a\u043e\u0435"
-    ],
     "qs:name":"Nikolayevskoye",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Leningrad Oblast",
@@ -66,7 +67,7 @@
     "wof:concordances":{
         "gn:id":521834,
         "gp:id":2052011,
-        "qs:id":1061031,
+        "qs_pg:id":1061031,
         "wk:page":"Nikolayevsky"
     },
     "wof:country":"RU",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":890483979,
-    "wof:lastmodified":1564129035,
+    "wof:lastmodified":1566630642,
     "wof:name":"Nikolayevskoye",
     "wof:parent_id":1108734999,
     "wof:placetype":"locality",

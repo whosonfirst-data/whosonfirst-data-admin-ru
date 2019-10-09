@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000253,
-    "geom:area_square_m":2214924.123883,
+    "geom:area_square_m":2214924.123884,
     "geom:bbox":"38.486831665,44.8366928101,38.5021095276,44.8589706421",
     "geom:latitude":44.848137,
     "geom:longitude":38.494561,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.848784,
     "lbl:longitude":38.493943,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":44.848784,
     "mps:longitude":38.493943,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
     "qs:a1_lc":"2302900001700",
@@ -35,7 +38,7 @@
     "qs:type":"\u043f\u0433\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688029,
@@ -48,7 +51,7 @@
     "wof:concordances":{
         "gn:id":556951,
         "gp:id":2011859,
-        "qs:id":125476
+        "qs_pg:id":125476
     },
     "wof:country":"RU",
     "wof:geomhash":"47a2f734cc53818980f47197522d15bb",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102015687,
-    "wof:lastmodified":1505338947,
+    "wof:lastmodified":1566614937,
     "wof:name":"Ilskiy",
     "wof:parent_id":1108736479,
     "wof:placetype":"locality",

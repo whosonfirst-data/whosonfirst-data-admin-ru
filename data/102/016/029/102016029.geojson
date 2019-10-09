@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000358,
-    "geom:area_square_m":3173299.451497,
+    "geom:area_square_m":3173299.451496,
     "geom:bbox":"42.867816925,44.2228279114,42.8996810913,44.2406082153",
     "geom:latitude":44.230452,
     "geom:longitude":42.881958,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.231628,
     "lbl:longitude":42.878468,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.231628,
     "mps:longitude":42.878468,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Orbel'yanovka"
     ],
@@ -25,9 +28,6 @@
         "Orbeljanovka"
     ],
     "name:rus_x_preferred":[
-        "\u041e\u0440\u0431\u0435\u043b\u044c\u044f\u043d\u043e\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041e\u0440\u0431\u0435\u043b\u044c\u044f\u043d\u043e\u0432\u043a\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687825,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102016029,
-    "wof:lastmodified":1501214570,
+    "wof:lastmodified":1566615452,
     "wof:name":"Orbel'Yanovka",
     "wof:parent_id":1108735151,
     "wof:placetype":"locality",

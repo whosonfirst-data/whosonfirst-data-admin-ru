@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":56.668015,
     "lbl:longitude":47.922499,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":56.668015,
     "mps:longitude":47.922499,
     "mz:hierarchy_label":1,
@@ -378,7 +380,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688043,
@@ -391,7 +393,7 @@
     "wof:concordances":{
         "gn:id":466806,
         "gp:id":90598836,
-        "qs:id":887092,
+        "qs_pg:id":887092,
         "wd:id":"Q5449",
         "wk:page":"Yoshkar-Ola"
     },
@@ -408,7 +410,7 @@
         }
     ],
     "wof:id":102008809,
-    "wof:lastmodified":1563240511,
+    "wof:lastmodified":1566615295,
     "wof:name":"Krasnokokshaysk Yoshar-Ola",
     "wof:parent_id":1108735089,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.927657,
     "lbl:longitude":113.615691,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.927657,
     "mps:longitude":113.615691,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u062a\u0627\u0645\u0627\u0646\u0648\u0641\u0643\u0627"
     ],
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0442\u0430\u043c\u0430\u043d\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Atamanskaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":37,
     "wof:belongsto":[
@@ -92,7 +95,6 @@
     "wof:concordances":{
         "gn:id":2027373,
         "gp:id":1984643,
-        "qs:id":263270,
         "qs_pg:id":263270,
         "wd:id":"Q753344"
     },
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":102014625,
-    "wof:lastmodified":1563240150,
+    "wof:lastmodified":1566615123,
     "wof:name":"Atamanovka",
     "wof:parent_id":1108733281,
     "wof:placetype":"locality",

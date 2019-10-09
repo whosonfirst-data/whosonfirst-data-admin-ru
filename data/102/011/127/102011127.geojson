@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000278,
-    "geom:area_square_m":2138743.307761,
+    "geom:area_square_m":2138743.307763,
     "geom:bbox":"45.6877784729,51.5483627319,45.7099990845,51.5699157715",
     "geom:latitude":51.558928,
     "geom:longitude":45.698143,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.558956,
     "lbl:longitude":45.697974,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.558956,
     "mps:longitude":45.697974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Krasnyy Oktyabr'"
     ],
@@ -29,9 +32,6 @@
         "\u041a\u0440\u0430\u0441\u043d.\u041e\u043a\u0442\u044f\u0431\u0440\u044c"
     ],
     "name:rus_x_variant":[
-        "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041e\u043a\u0442\u044f\u0431\u0440\u044c"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041e\u043a\u0442\u044f\u0431\u0440\u044c"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -50,7 +50,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":131,
     "wof:belongsto":[
@@ -64,7 +64,7 @@
     "wof:concordances":{
         "gn:id":541573,
         "gp:id":2029705,
-        "qs:id":125287
+        "qs_pg:id":125287
     },
     "wof:country":"RU",
     "wof:geomhash":"c7d6feefb7498ac6f73c2745b8b1a5c6",
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":102011127,
-    "wof:lastmodified":1527637589,
+    "wof:lastmodified":1566615397,
     "wof:name":"Krasnyy Oktyabr'",
     "wof:parent_id":890479535,
     "wof:placetype":"locality",

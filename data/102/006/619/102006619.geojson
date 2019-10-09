@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":49.64006,
     "lbl:longitude":41.113838,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.64006,
     "mps:longitude":41.113838,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Konowalow"
     ],
@@ -56,7 +59,7 @@
     "qs:type":"\u0445",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":191,
     "wof:belongsto":[
         85688033,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":102006619,
-    "wof:lastmodified":1527637261,
+    "wof:lastmodified":1566615341,
     "wof:name":"Konovalov",
     "wof:parent_id":1108737331,
     "wof:placetype":"locality",

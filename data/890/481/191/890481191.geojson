@@ -11,11 +11,15 @@
     "geom:longitude":48.79837,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"48.77837,55.81236,48.81837,55.85236",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oktyabr'skiy"
     ],
@@ -26,9 +30,6 @@
         "Oktyabr\u2019skiy"
     ],
     "name:rus_x_variant":[
-        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439"
     ],
     "qs:name":"Oktyabr'skij",
@@ -55,7 +56,9 @@
     "wof:concordances":{
         "gn:id":515907,
         "gp:id":2059107,
-        "qs:id":344689,
+        "qs_pg:id":344689
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1159849
     },
     "wof:country":"RU",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":890481191,
-    "wof:lastmodified":1509410066,
+    "wof:lastmodified":1566630813,
     "wof:name":"Oktyabr'skij",
     "wof:parent_id":890480589,
     "wof:placetype":"locality",

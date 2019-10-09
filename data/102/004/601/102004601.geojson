@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00106,
-    "geom:area_square_m":7905775.339857,
+    "geom:area_square_m":7905775.339852,
     "geom:bbox":"37.608001709,52.8686676025,37.686668396,52.9022483826",
     "geom:latitude":52.884929,
     "geom:longitude":37.651546,
@@ -14,14 +14,14 @@
     "iso:country":"RU",
     "lbl:latitude":52.886442,
     "lbl:longitude":37.658697,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.886442,
     "mps:longitude":37.658697,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
-        "\u041b\u0443\u043d\u0430-\u0413\u0430\u0432\u0440\u0438\u043b\u043e\u0432\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041b\u0443\u043d\u0430-\u0413\u0430\u0432\u0440\u0438\u043b\u043e\u0432\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -36,7 +36,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687849,
         102191581,
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":102004601,
-    "wof:lastmodified":1501214633,
+    "wof:lastmodified":1566615604,
     "wof:name":"Luna-Gavrilova",
     "wof:parent_id":1108735491,
     "wof:placetype":"locality",

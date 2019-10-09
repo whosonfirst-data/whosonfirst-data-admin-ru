@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":58.602315,
     "lbl:longitude":125.383794,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":58.602315,
     "mps:longitude":125.383794,
     "mz:hierarchy_label":1,
@@ -164,7 +166,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0434\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nezametnyy"
     ],
     "name:urd_x_preferred":[
@@ -292,7 +294,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":58.6,
     "wd:longitude":125.383333,
@@ -307,7 +309,6 @@
     "wof:concordances":{
         "gn:id":2027968,
         "gp:id":2119966,
-        "qs:id":372707,
         "qs_pg:id":372707,
         "wd:id":"Q103273",
         "wk:page":"Aldan, Russia"
@@ -323,7 +324,7 @@
         }
     ],
     "wof:id":102014975,
-    "wof:lastmodified":1563240188,
+    "wof:lastmodified":1566615142,
     "wof:name":"Aldan",
     "wof:parent_id":1108732669,
     "wof:placetype":"locality",

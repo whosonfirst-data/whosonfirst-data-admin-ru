@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000837,
-    "geom:area_square_m":7327479.663174,
+    "geom:area_square_m":7327479.663178,
     "geom:bbox":"43.0092353821,44.9231491089,43.0586433411,44.9526367188",
     "geom:latitude":44.937861,
     "geom:longitude":43.035382,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.938047,
     "lbl:longitude":43.041184,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.938047,
     "mps:longitude":43.041184,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Grushevskoye"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0413\u0440\u0443\u0448\u0435\u0432\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grushovka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687825,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102015615,
-    "wof:lastmodified":1501214727,
+    "wof:lastmodified":1566614965,
     "wof:name":"Grushevskoye",
     "wof:parent_id":1108732691,
     "wof:placetype":"locality",

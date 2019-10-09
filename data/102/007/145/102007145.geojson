@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00035,
-    "geom:area_square_m":2916391.52879,
+    "geom:area_square_m":2916391.528793,
     "geom:bbox":"41.485748291,47.5996398926,41.5133895874,47.6209983826",
     "geom:latitude":47.608873,
     "geom:longitude":41.49921,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":47.609606,
     "lbl:longitude":41.496709,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.609606,
     "mps:longitude":41.496709,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Nikolayevskaya"
     ],
@@ -26,9 +29,6 @@
         "Nikolajevskaja"
     ],
     "name:rus_x_preferred":[
-        "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0441\u043a\u0430\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0441\u043a\u0430\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -45,7 +45,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688033,
@@ -58,7 +58,7 @@
     "wof:concordances":{
         "gn:id":521870,
         "gp:id":2051946,
-        "qs:id":80728
+        "qs_pg:id":80728
     },
     "wof:country":"RU",
     "wof:geomhash":"11d317eb69d3963bc01cca11610e78a0",
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":102007145,
-    "wof:lastmodified":1505338926,
+    "wof:lastmodified":1566615168,
     "wof:name":"Nikolayevskava",
     "wof:parent_id":1108734573,
     "wof:placetype":"locality",

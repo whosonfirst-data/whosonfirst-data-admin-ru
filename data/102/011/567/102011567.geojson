@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000112,
-    "geom:area_square_m":962345.801936,
+    "geom:area_square_m":962345.801935,
     "geom:bbox":"48.2858047485,45.9086112976,48.2994728088,45.9228057861",
     "geom:latitude":45.915324,
     "geom:longitude":48.293037,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.912924,
     "lbl:longitude":48.295212,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.912924,
     "mps:longitude":48.295212,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Karalat"
     ],
@@ -25,9 +28,6 @@
         "Karalat"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0430\u0440\u0430\u043b\u0430\u0442"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0430\u0440\u0430\u043b\u0430\u0442"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687985,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102011567,
-    "wof:lastmodified":1501214703,
+    "wof:lastmodified":1566615380,
     "wof:name":"Karalot",
     "wof:parent_id":1108734247,
     "wof:placetype":"locality",

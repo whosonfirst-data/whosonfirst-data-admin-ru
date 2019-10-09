@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.191231,
     "lbl:longitude":44.45239,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.191231,
     "mps:longitude":44.45239,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kosta"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":84,
     "wof:belongsto":[
         85687865,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":102016451,
-    "wof:lastmodified":1564109129,
+    "wof:lastmodified":1566615457,
     "wof:name":"Kosta",
     "wof:parent_id":1108732765,
     "wof:placetype":"locality",

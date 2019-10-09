@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001271,
-    "geom:area_square_m":9292561.360697,
+    "geom:area_square_m":9292561.360698,
     "geom:bbox":"84.8900527954,53.7333068848,84.9486923218,53.7687225342",
     "geom:latitude":53.751786,
     "geom:longitude":84.91809,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.752802,
     "lbl:longitude":84.920464,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.752802,
     "mps:longitude":84.920464,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Sorokino"
     ],
@@ -26,9 +29,6 @@
         "Sorokino"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u043e\u0440\u043e\u043a\u0438\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u043e\u0440\u043e\u043a\u0438\u043d\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":847,
     "wof:belongsto":[
@@ -63,7 +63,6 @@
     "wof:concordances":{
         "gn:id":1491378,
         "gp:id":2087225,
-        "qs:id":345878,
         "qs_pg:id":345878
     },
     "wof:country":"RU",
@@ -79,7 +78,7 @@
         }
     ],
     "wof:id":102013235,
-    "wof:lastmodified":1527636663,
+    "wof:lastmodified":1566615047,
     "wof:name":"Sorokino",
     "wof:parent_id":1108737901,
     "wof:placetype":"locality",

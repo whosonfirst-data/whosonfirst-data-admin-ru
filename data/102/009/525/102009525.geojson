@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.93552,
     "lbl:longitude":48.824657,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":54.93552,
     "mps:longitude":48.824657,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u062a\u0627\u064a\u0648\u0634\u064a"
     ],
@@ -157,7 +160,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -169,7 +172,6 @@
     "wof:concordances":{
         "gn:id":483150,
         "gp:id":2123892,
-        "qs:id":369147,
         "qs_pg:id":369147,
         "wd:id":"Q196651",
         "wk:page":"Tetyushi, Republic of Tatarstan"
@@ -185,7 +187,7 @@
         }
     ],
     "wof:id":102009525,
-    "wof:lastmodified":1563240397,
+    "wof:lastmodified":1566615251,
     "wof:name":"Tetyushi",
     "wof:parent_id":1108737003,
     "wof:placetype":"locality",

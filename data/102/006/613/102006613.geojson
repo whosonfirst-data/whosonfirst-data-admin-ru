@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000196,
-    "geom:area_square_m":1571740.700314,
+    "geom:area_square_m":1571740.700316,
     "geom:bbox":"42.3108901978,49.67552948,42.3368873596,49.688835144",
     "geom:latitude":49.682347,
     "geom:longitude":42.323137,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":49.680886,
     "lbl:longitude":42.320084,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.680886,
     "mps:longitude":42.320084,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bukanovskaya"
     ],
@@ -25,9 +28,6 @@
         "Bukanovskaja"
     ],
     "name:rus_x_preferred":[
-        "\u0411\u0443\u043a\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u0411\u0443\u043a\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688101,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102006613,
-    "wof:lastmodified":1501214778,
+    "wof:lastmodified":1566615362,
     "wof:name":"Bukanovskaya",
     "wof:parent_id":1108734799,
     "wof:placetype":"locality",

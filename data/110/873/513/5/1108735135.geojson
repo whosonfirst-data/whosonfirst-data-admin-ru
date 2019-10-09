@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":49.75374,
     "lbl:longitude":128.79974,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Amurskaja oblast'",
     "meso:admin1r_en":"Dal'nevostochnyj federal'nyj okrug",
     "meso:admin_1":"\u0410\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":128.79974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Mikhaylovskiy Rayon"
     ],
@@ -90,16 +93,13 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:zho_x_preferred":[
         "\u7c73\u54c8\u4f0a\u6d1b\u592b\u5361\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2946",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Poyarkovo",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1108735135,
-    "wof:lastmodified":1563257286,
+    "wof:lastmodified":1566627354,
     "wof:name":"Mikhajlovskiy",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

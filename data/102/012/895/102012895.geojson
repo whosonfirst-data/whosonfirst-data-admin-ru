@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001315,
-    "geom:area_square_m":9273371.171917,
+    "geom:area_square_m":9273371.171916,
     "geom:bbox":"87.6246643066,55.1915283203,87.6736907959,55.2368888855",
     "geom:latitude":55.213414,
     "geom:longitude":87.652073,
     "iso:country":"RU",
     "lbl:latitude":55.211014,
     "lbl:longitude":87.651606,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.211014,
     "mps:longitude":87.651606,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tsentral'nyy"
     ],
@@ -28,7 +31,7 @@
     "name:sco_x_preferred":[
         "Tsentralny"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Centralny"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":101,
     "wof:belongsto":[
         85688105,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102012895,
-    "wof:lastmodified":1527636470,
+    "wof:lastmodified":1566614993,
     "wof:name":"Tsentralnyy",
     "wof:parent_id":1108737019,
     "wof:placetype":"locality",

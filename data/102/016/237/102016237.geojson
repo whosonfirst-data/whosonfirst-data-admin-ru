@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000497,
-    "geom:area_square_m":4445641.20267,
+    "geom:area_square_m":4445641.202671,
     "geom:bbox":"44.4498596191,43.7083320618,44.5041656494,43.724609375",
     "geom:latitude":43.71715,
     "geom:longitude":44.473885,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.716214,
     "lbl:longitude":44.465245,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":43.716214,
     "mps:longitude":44.465245,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Pavlodol'skaya"
     ],
@@ -26,9 +29,6 @@
         "Pavlodolskaja"
     ],
     "name:rus_x_preferred":[
-        "\u041f\u0430\u0432\u043b\u043e\u0434\u043e\u043b\u044c\u0441\u043a\u0430\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u0430\u0432\u043b\u043e\u0434\u043e\u043b\u044c\u0441\u043a\u0430\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +49,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687865
+        85687865,
+        1108735219
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":512217,
         "gp:id":2063277,
-        "qs:id":275049,
         "qs_pg:id":275049
     },
     "wof:country":"RU",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":102016237,
-    "wof:lastmodified":1505338949,
+    "wof:lastmodified":1566615460,
     "wof:name":"Pavlodolskaya",
     "wof:parent_id":1108735219,
     "wof:placetype":"locality",

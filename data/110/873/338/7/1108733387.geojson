@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":52.164387,
     "lbl:longitude":40.365174,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Lipeckaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u041b\u0438\u043f\u0435\u0446\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":40.365174,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Dobrinskiy Rayon"
     ],
@@ -87,9 +90,6 @@
     "name:rus_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0414\u043e\u0431\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Dobrinsky"
     ],
@@ -97,9 +97,9 @@
         "\u591a\u5e03\u6797\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1647",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Dobrinka",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1108733387,
-    "wof:lastmodified":1563256470,
+    "wof:lastmodified":1566626839,
     "wof:name":"Dobrinskiy",
     "wof:parent_id":85687917,
     "wof:placetype":"county",

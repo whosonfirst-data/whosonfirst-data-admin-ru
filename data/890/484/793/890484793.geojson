@@ -11,11 +11,15 @@
     "geom:longitude":36.91667,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"36.89667,56.13,36.93667,56.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u0431\u0443\u0445\u0430\u0432\u0430"
     ],
@@ -43,9 +47,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0431\u0443\u0445\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u041e\u0431\u0443\u0445\u043e\u0432\u043e"
-    ],
     "qs:name":"Obukhovo",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Moscow Oblast",
@@ -66,7 +67,7 @@
     "wof:concordances":{
         "gn:id":516304,
         "gp:id":2058672,
-        "qs:id":1158136,
+        "qs_pg:id":1158136,
         "wd:id":"Q7075592",
         "wk:page":"Obukhovo"
     },
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":890484793,
-    "wof:lastmodified":1563262414,
+    "wof:lastmodified":1566630700,
     "wof:name":"Obukhovo",
     "wof:parent_id":890484217,
     "wof:placetype":"locality",

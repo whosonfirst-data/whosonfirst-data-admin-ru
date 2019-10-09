@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":60.693446,
     "lbl:longitude":60.447381,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":60.693446,
     "mps:longitude":60.447381,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0622\u064a\u0641\u062f\u064a\u0644"
     ],
@@ -153,7 +156,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":60.683333,
     "wd:longitude":60.433333,
@@ -169,7 +172,7 @@
     "wof:concordances":{
         "gn:id":1505260,
         "gp:id":2014028,
-        "qs:id":845588,
+        "qs_pg:id":845588,
         "wd:id":"Q141578",
         "wk:page":"Ivdel"
     },
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":102002257,
-    "wof:lastmodified":1563241491,
+    "wof:lastmodified":1566615675,
     "wof:name":"Ivdel",
     "wof:parent_id":1108734047,
     "wof:placetype":"locality",

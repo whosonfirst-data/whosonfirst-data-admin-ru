@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.042878,
     "lbl:longitude":44.454058,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":44.042878,
     "mps:longitude":44.454058,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:che_x_preferred":[
         "\u041a\u0443\u0440\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -65,9 +68,6 @@
     "name:ukr_x_variant":[
         "\u041a\u0443\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0443\u0440\u0441\u043a\u0430\u044f"
-    ],
     "name:zho_x_preferred":[
         "\u5eab\u723e\u65af\u57fa\u5340"
     ],
@@ -89,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":79,
     "wof:belongsto":[
@@ -102,7 +102,6 @@
     "wof:concordances":{
         "gn:id":538558,
         "gp:id":2121789,
-        "qs:id":1238021,
         "qs_pg:id":1238021,
         "wd:id":"Q1253843"
     },
@@ -117,7 +116,7 @@
         }
     ],
     "wof:id":102016109,
-    "wof:lastmodified":1563240906,
+    "wof:lastmodified":1566615447,
     "wof:name":"Kurskaya",
     "wof:parent_id":1108734835,
     "wof:placetype":"locality",

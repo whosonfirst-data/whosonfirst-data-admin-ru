@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":57.050581,
     "lbl:longitude":53.981553,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Udmurtskaja respublika",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0423\u0434\u043c\u0443\u0440\u0442\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
@@ -53,6 +55,7 @@
     "mps:longitude":53.981553,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u062a\u0643\u064a\u0646\u0633\u0643"
     ],
@@ -216,9 +219,9 @@
         "\u6c83\u7279\u91d1\u65af\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1864",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Votkinsk",
@@ -250,7 +253,7 @@
         }
     ],
     "wof:id":1108733687,
-    "wof:lastmodified":1564124486,
+    "wof:lastmodified":1566627124,
     "wof:name":"Votkinsk",
     "wof:parent_id":85687787,
     "wof:placetype":"county",

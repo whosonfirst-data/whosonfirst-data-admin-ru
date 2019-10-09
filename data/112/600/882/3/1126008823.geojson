@@ -9,15 +9,18 @@
     "geom:bbox":"40.28027,45.11414,40.28027,45.11414",
     "geom:latitude":45.11414,
     "geom:longitude":40.28027,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8588,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":8588,
     "iso:country":"RU",
+    "lbl:bbox":"40.26027,45.09414,40.30027,45.13414",
     "lbl:latitude":45.11414,
     "lbl:longitude":40.28027,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Temirgoyevskaya"
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0422\u0435\u043c\u0438\u0440\u0433\u043e\u0435\u0432\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Temirgofewskaja"
     ],
     "qs_pg:aaroncc":"RU",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":549058,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688029,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1126008823,
-    "wof:lastmodified":1509406551,
+    "wof:lastmodified":1566631027,
     "wof:name":"Temirgoyevskaya",
     "wof:parent_id":1108734825,
     "wof:placetype":"locality",

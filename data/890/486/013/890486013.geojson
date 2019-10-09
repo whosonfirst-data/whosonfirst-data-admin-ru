@@ -11,11 +11,15 @@
     "geom:longitude":37.39019,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":4069,
+    "gn:population":4069,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"37.37019,55.00219,37.41019,55.04219",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u043b\u0435\u0442\u0430\u0440\u0441\u043a\u0456"
     ],
@@ -49,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u043b\u0435\u0442\u0430\u0440\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
-        "\u041f\u0440\u043e\u043b\u0435\u0442\u0430\u0440\u0441\u043a\u0438\u0439"
-    ],
     "qs:name":"Proletarskiy",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Moscow Oblast",
@@ -74,7 +75,7 @@
     "wof:concordances":{
         "gn:id":504798,
         "gp:id":2071718,
-        "qs:id":124944,
+        "qs_pg:id":124944,
         "wk:page":"Proletarsky"
     },
     "wof:country":"RU",
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":890486013,
-    "wof:lastmodified":1564129232,
+    "wof:lastmodified":1566630848,
     "wof:name":"Proletarskiy",
     "wof:parent_id":890481785,
     "wof:placetype":"locality",

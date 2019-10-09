@@ -9,15 +9,18 @@
     "geom:bbox":"43.05844,49.31455,43.05844,49.31455",
     "geom:latitude":49.31455,
     "geom:longitude":43.05844,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5362,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":5362,
     "iso:country":"RU",
+    "lbl:bbox":"43.03844,49.29455,43.07844,49.33455",
     "lbl:latitude":49.31455,
     "lbl:longitude":43.05844,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u041a\u043b\u0435\u0446\u043a\u0430\u044f"
@@ -52,7 +55,7 @@
     "name:tgk_x_preferred":[
         "\u041a\u043b\u0435\u0442\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kletskiy"
     ],
     "qs_pg:aaroncc":"RU",
@@ -67,7 +70,7 @@
     "qs_pg:qs_id":80839,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688101,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125839433,
-    "wof:lastmodified":1563263175,
+    "wof:lastmodified":1566631041,
     "wof:name":"Kletskaya",
     "wof:parent_id":1108734483,
     "wof:placetype":"locality",

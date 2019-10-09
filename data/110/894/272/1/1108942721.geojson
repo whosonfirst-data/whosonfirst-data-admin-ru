@@ -11,10 +11,12 @@
     "geom:longitude":37.552607,
     "gn:country":"RU",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"RU",
+    "lbl:bbox":"37.5476065573,55.863206806,37.5576065573,55.873206806",
     "lbl:latitude":55.868207,
     "lbl:longitude":37.552607,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -60,7 +62,7 @@
     "name:zho_x_preferred":[
         "\u5225\u65af\u5eab\u5fb7\u5c3c\u79d1\u592b\u5340"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +76,7 @@
     "wof:concordances":{
         "gn:id":576699,
         "gp:id":55875707,
-        "qs:id":1014451,
+        "qs_pg:id":1014451,
         "wd:id":"Q425824",
         "wk:page":"Beskudnikovsky District"
     },
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":1108942721,
-    "wof:lastmodified":1563257371,
+    "wof:lastmodified":1566627405,
     "wof:name":"Beskudnikovsky",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

@@ -9,11 +9,13 @@
     "geom:bbox":"32.2937774658,59.8877792358,32.3801651001,59.9464988708",
     "geom:latitude":59.920881,
     "geom:longitude":32.3432,
-    "geonames:id":"472722,472723",
+    "gn:id":"472722,472723",
     "gn:population":45673,
     "iso:country":"RU",
     "lbl:latitude":59.92738,
     "lbl:longitude":32.346155,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.92738,
     "mps:longitude":32.346155,
     "mz:hierarchy_label":1,
@@ -166,7 +168,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043b\u0445\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zvanka"
     ],
     "name:vep_x_preferred":[
@@ -288,7 +290,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":59.916667,
     "wd:longitude":32.35,
@@ -303,7 +305,6 @@
     "wof:concordances":{
         "gn:id":472722,
         "gp:id":2107622,
-        "qs:id":446493,
         "qs_pg:id":446493,
         "wd:id":"Q15245",
         "wk:page":"Volkhov"
@@ -319,7 +320,7 @@
         }
     ],
     "wof:id":102002467,
-    "wof:lastmodified":1563241596,
+    "wof:lastmodified":1566615702,
     "wof:name":"Volkhov",
     "wof:parent_id":1108735431,
     "wof:placetype":"locality",

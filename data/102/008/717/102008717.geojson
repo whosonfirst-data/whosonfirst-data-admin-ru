@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.946225,
     "lbl:longitude":51.072509,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.946225,
     "mps:longitude":51.072509,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Kil'mez'"
     ],
@@ -26,7 +29,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u044c\u043c\u0435\u0437\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kil\u2019ma"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -45,7 +48,7 @@
     "qs:type":"\u043f\u0433\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":44,
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102008717,
-    "wof:lastmodified":1563240529,
+    "wof:lastmodified":1566615301,
     "wof:name":"Kilmez",
     "wof:parent_id":1108734415,
     "wof:placetype":"locality",

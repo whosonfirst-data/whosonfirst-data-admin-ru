@@ -9,15 +9,18 @@
     "geom:bbox":"34.07899,52.31834,34.07899,52.31834",
     "geom:latitude":52.31834,
     "geom:longitude":34.07899,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":9394,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":9394,
     "iso:country":"RU",
+    "lbl:bbox":"34.05899,52.29834,34.09899,52.33834",
     "lbl:latitude":52.31834,
     "lbl:longitude":34.07899,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Suz\u00ebmka"
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0443\u0437\u0435\u043c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Susemka"
     ],
     "qs_pg:aaroncc":"RU",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":549073,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688121,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1125826693,
-    "wof:lastmodified":1509394436,
+    "wof:lastmodified":1566631028,
     "wof:name":"Suz\u00ebmka",
     "wof:parent_id":1108736861,
     "wof:placetype":"locality",

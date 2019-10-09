@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":47.131107,
     "lbl:longitude":39.759883,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Rostovskaja oblast'",
     "meso:admin1r_en":"JUzhnyj federal'nyj okrug",
     "meso:admin_1":"\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":39.759883,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Batajsk"
     ],
@@ -60,7 +63,7 @@
         "\u0411\u0430\u0442\u0430\u0439\u0441\u043a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688033,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108732903,
-    "wof:lastmodified":1561582085,
+    "wof:lastmodified":1566627306,
     "wof:name":"Batajsk",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

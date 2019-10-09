@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.580999,
     "lbl:longitude":47.517685,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.580999,
     "mps:longitude":47.517685,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gorodishche"
     ],
@@ -33,7 +36,7 @@
     "name:tgl_x_preferred":[
         "Gorodishche"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gorodishchi"
     ],
     "name:zho_x_preferred":[
@@ -55,7 +58,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":63,
     "wof:belongsto":[
         85688065,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":102009775,
-    "wof:lastmodified":1564108902,
+    "wof:lastmodified":1566615250,
     "wof:name":"Gorodishche",
     "wof:parent_id":1108733415,
     "wof:placetype":"locality",

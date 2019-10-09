@@ -11,11 +11,15 @@
     "geom:longitude":38.76363,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"38.74363,53.93617,38.78363,53.97617",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Vozrozhdeniye"
     ],
@@ -55,9 +59,6 @@
     "name:spa_x_preferred":[
         "Vozrozhdenie"
     ],
-    "name:unk_x_variant":[
-        "\u0412\u043e\u0437\u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0435"
-    ],
     "qs:name":"Vozrozhdeniye",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Tula Oblast",
@@ -78,7 +79,7 @@
     "wof:concordances":{
         "gn:id":822131,
         "gp:id":2109148,
-        "qs:id":903418,
+        "qs_pg:id":903418,
         "wd:id":"Q3008915",
         "wk:page":"Vozrozhdeniye"
     },
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":890483213,
-    "wof:lastmodified":1563262315,
+    "wof:lastmodified":1566630660,
     "wof:name":"Vozrozhdeniye",
     "wof:parent_id":1108734421,
     "wof:placetype":"locality",

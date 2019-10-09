@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":53.219668,
     "lbl:longitude":50.613849,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Samarskaja oblast'",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":50.613849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kinel'"
     ],
@@ -60,7 +63,7 @@
         "\u041a\u0438\u043d\u0435\u043b\u044c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687781,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108734425,
-    "wof:lastmodified":1561582061,
+    "wof:lastmodified":1566627227,
     "wof:name":"Kinel'",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

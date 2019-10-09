@@ -9,15 +9,18 @@
     "geom:bbox":"48.51784,55.84376,48.51784,55.84376",
     "geom:latitude":55.84376,
     "geom:longitude":48.51784,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":99600,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":99600,
     "iso:country":"RU",
+    "lbl:bbox":"48.49784,55.82376,48.53784,55.86376",
     "lbl:latitude":55.84376,
     "lbl:longitude":48.51784,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0632\u064a\u0644\u064a\u0646\u0648\u062f\u0648\u0644\u0633\u0643"
@@ -163,7 +166,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0435\u043b\u0435\u043d\u043e\u0434\u043e\u043b\u044c\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zelendol\u2019sk"
     ],
     "name:vep_x_preferred":[
@@ -190,7 +193,7 @@
     "qs_pg:qs_id":207088,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688065,
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":1125857669,
-    "wof:lastmodified":1563263154,
+    "wof:lastmodified":1566631032,
     "wof:name":"Zel\u00ebnodol\u2019sk",
     "wof:parent_id":890480589,
     "wof:placetype":"locality",

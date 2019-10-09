@@ -11,10 +11,14 @@
     "geom:longitude":40.42511,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":2990,
+    "gn:population":2990,
     "iso:country":"RU",
+    "lbl:bbox":"40.40511,55.94128,40.44511,55.98128",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Golovino"
     ],
@@ -25,9 +29,6 @@
         "Golovino"
     ],
     "name:rus_x_preferred":[
-        "\u0413\u043e\u043b\u043e\u0432\u0438\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u0413\u043e\u043b\u043e\u0432\u0438\u043d\u043e"
     ],
     "qs:name":"Golovino",
@@ -47,7 +48,7 @@
     "wof:concordances":{
         "gn:id":560646,
         "gp:id":2007786,
-        "qs:id":80936,
+        "qs_pg:id":80936,
         "wk:page":"Golovino"
     },
     "wof:country":"RU",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":890485229,
-    "wof:lastmodified":1564128921,
+    "wof:lastmodified":1566630527,
     "wof:name":"Golovino",
     "wof:parent_id":890480539,
     "wof:placetype":"locality",

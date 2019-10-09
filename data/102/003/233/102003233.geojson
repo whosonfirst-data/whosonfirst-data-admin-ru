@@ -9,18 +9,21 @@
     "geom:bbox":"36.9687232971,55.5948066711,37.0527763367,55.630695343",
     "geom:latitude":55.612991,
     "geom:longitude":37.005339,
-    "geonames:id":"831153,560756",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":16056,
+    "gn:id":"831153,560756",
+    "gn:population":16056,
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:latitude":55.609958,
     "lbl:longitude":37.002473,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.609958,
     "mps:longitude":37.002473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u063a\u0648\u0644\u064a\u062a\u0633\u064a\u0646\u0648"
     ],
@@ -123,7 +126,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u043b\u0456\u0446\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Golytsyno"
     ],
     "name:war_x_preferred":[
@@ -162,7 +165,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":"55.614722222",
     "wd:longitude":"36.987222222",
@@ -178,7 +181,7 @@
     "wof:concordances":{
         "gn:id":560756,
         "gp:id":2120864,
-        "qs:id":8472,
+        "qs_pg:id":8472,
         "wd:id":"Q134446",
         "wk:page":"Golitsyno, Moscow Oblast"
     },
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":102003233,
-    "wof:lastmodified":1563241125,
+    "wof:lastmodified":1566615533,
     "wof:name":"Golitsino",
     "wof:parent_id":1108735599,
     "wof:placetype":"locality",

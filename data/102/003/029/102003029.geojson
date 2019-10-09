@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.015945,
     "lbl:longitude":36.229278,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.015945,
     "mps:longitude":36.229278,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chismena"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688161,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102003029,
-    "wof:lastmodified":1501214761,
+    "wof:lastmodified":1566615550,
     "wof:name":"Chismena",
     "wof:parent_id":890486787,
     "wof:placetype":"locality",

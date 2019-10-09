@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":54.836483,
     "lbl:longitude":60.617416,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"CHeljabinskaja oblast'",
     "meso:admin1r_en":"Ural'skij federal'nyj okrug",
     "meso:admin_1":"\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":60.617416,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bak_x_preferred":[
         "\u0421\u044b\u0431\u0430\u0440\u043a\u04af\u043b \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
@@ -96,9 +99,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0431\u0430\u0440\u043a\u0443\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0427\u0435\u0431\u0430\u0440\u043a\u0443\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Chebarkul'sky"
     ],
@@ -106,7 +106,7 @@
         "\u5207\u5df4\u723e\u5eab\u5229\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687791,
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1108733201,
-    "wof:lastmodified":1563257245,
+    "wof:lastmodified":1566627326,
     "wof:name":"Chebarkul'skiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000183,
-    "geom:area_square_m":1608948.078432,
+    "geom:area_square_m":1608948.078431,
     "geom:bbox":"39.3518333435,44.6915016174,39.368057251,44.7070274353",
     "geom:latitude":44.700099,
     "geom:longitude":39.360122,
@@ -14,14 +14,14 @@
     "iso:country":"RU",
     "lbl:latitude":44.699941,
     "lbl:longitude":39.360276,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.699941,
     "mps:longitude":39.360276,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
-        "\u0427\u0435\u0440\u043d\u043e\u043c\u043e\u0440\u0441\u043a\u0430\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u0427\u0435\u0440\u043d\u043e\u043c\u043e\u0440\u0441\u043a\u0430\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +40,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688029,
         102191581,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":102015797,
-    "wof:lastmodified":1501214764,
+    "wof:lastmodified":1566614924,
     "wof:name":"Chernomorskaya",
     "wof:parent_id":1108733609,
     "wof:placetype":"locality",

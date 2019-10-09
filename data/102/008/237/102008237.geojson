@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000557,
-    "geom:area_square_m":3549860.891005,
+    "geom:area_square_m":3549860.891006,
     "geom:bbox":"57.5619735718,58.9623069763,57.5871658325,58.9952774048",
     "geom:latitude":58.97848,
     "geom:longitude":57.57607,
     "iso:country":"RU",
     "lbl:latitude":58.976926,
     "lbl:longitude":57.57631,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.976926,
     "mps:longitude":57.57631,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shakhtnyy"
     ],
@@ -23,9 +26,6 @@
         "Sjakhtnyj"
     ],
     "name:rus_x_preferred":[
-        "\u0428\u0430\u0445\u0442\u043d\u044b\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u0428\u0430\u0445\u0442\u043d\u044b\u0439"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687975,
         102191581,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":102008237,
-    "wof:lastmodified":1501214499,
+    "wof:lastmodified":1566615297,
     "wof:name":"Shakhtnyy",
     "wof:parent_id":1108733943,
     "wof:placetype":"locality",

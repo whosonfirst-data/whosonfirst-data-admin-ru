@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.885518,
     "lbl:longitude":37.263993,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.885518,
     "mps:longitude":37.263993,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cheremisinovskiy Rayon"
     ],
@@ -59,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u0435\u043c\u0438\u0441\u0438\u043d\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "\u0427\u0435\u0440\u0435\u043c\u0438\u0441\u0438\u043d\u043e\u0432\u043e"
-    ],
     "name:vie_x_preferred":[
         "Cheremisinovsky"
     ],
@@ -86,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":751,
     "wof:belongsto":[
@@ -99,7 +99,6 @@
     "wof:concordances":{
         "gn:id":569339,
         "gp:id":1997587,
-        "qs:id":549943,
         "qs_pg:id":549943,
         "wd:id":"Q2629911"
     },
@@ -114,7 +113,7 @@
         }
     ],
     "wof:id":102005249,
-    "wof:lastmodified":1563241400,
+    "wof:lastmodified":1566615647,
     "wof:name":"Cheremisinovo",
     "wof:parent_id":1108733231,
     "wof:placetype":"locality",

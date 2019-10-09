@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":59.393391,
     "lbl:longitude":61.256557,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.393391,
     "mps:longitude":61.256557,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0421\u043e\u0442\u0440\u0438\u043d\u043e"
     ],
@@ -42,9 +45,6 @@
     "name:tgk_x_preferred":[
         "\u0421\u043e\u0442\u0440\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "Novoye Sotrino"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"6602200005400",
@@ -61,7 +61,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688183,
         102191581,
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":102011667,
-    "wof:lastmodified":1563240763,
+    "wof:lastmodified":1566615392,
     "wof:name":"Novosotrino",
     "wof:parent_id":1108736455,
     "wof:placetype":"locality",

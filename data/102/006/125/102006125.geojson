@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000517,
-    "geom:area_square_m":4037833.205292,
+    "geom:area_square_m":4037833.205291,
     "geom:bbox":"43.0369720459,50.8038063049,43.0716934204,50.8371391296",
     "geom:latitude":50.820225,
     "geom:longitude":43.051168,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.818499,
     "lbl:longitude":43.045644,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.818499,
     "mps:longitude":43.045644,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zavyazka"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688101,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102006125,
-    "wof:lastmodified":1501214397,
+    "wof:lastmodified":1566615375,
     "wof:name":"Zavyazka",
     "wof:parent_id":1108734413,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000541,
-    "geom:area_square_m":3904614.274023,
+    "geom:area_square_m":3904614.274021,
     "geom:bbox":"43.7462654114,54.2355270386,43.7724151611,54.2689056396",
     "geom:latitude":54.251881,
     "geom:longitude":43.760692,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.253621,
     "lbl:longitude":43.760444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.253621,
     "mps:longitude":43.760444,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rybkino"
     ],
@@ -25,9 +28,6 @@
         "Rybkino"
     ],
     "name:rus_x_preferred":[
-        "\u0420\u044b\u0431\u043a\u0438\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u0420\u044b\u0431\u043a\u0438\u043d\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687873,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102003901,
-    "wof:lastmodified":1501214516,
+    "wof:lastmodified":1566615518,
     "wof:name":"Rybkino",
     "wof:parent_id":1108734639,
     "wof:placetype":"locality",

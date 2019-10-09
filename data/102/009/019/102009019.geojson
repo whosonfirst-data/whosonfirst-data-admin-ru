@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.031642,
     "lbl:longitude":45.035072,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":56.031642,
     "mps:longitude":45.035072,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0633\u0643\u0648\u0641\u0648"
     ],
@@ -115,9 +118,6 @@
     "name:tur_x_preferred":[
         "L\u0131skovo"
     ],
-    "name:unk_x_variant":[
-        "\u041b\u044b\u0441\u043a\u043e\u0432\u043e"
-    ],
     "name:war_x_preferred":[
         "Lyskovo"
     ],
@@ -142,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688057,
@@ -155,7 +155,6 @@
     "wof:concordances":{
         "gn:id":532715,
         "gp:id":2122024,
-        "qs:id":446523,
         "qs_pg:id":446523,
         "wd:id":"Q157764",
         "wk:page":"Lyskovo, Nizhny Novgorod Oblast"
@@ -173,7 +172,7 @@
         }
     ],
     "wof:id":102009019,
-    "wof:lastmodified":1563240377,
+    "wof:lastmodified":1566615242,
     "wof:name":"Lyskovo",
     "wof:parent_id":890485349,
     "wof:placetype":"locality",

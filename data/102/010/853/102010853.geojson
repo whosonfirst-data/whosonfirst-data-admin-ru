@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00037,
-    "geom:area_square_m":2784113.37426,
+    "geom:area_square_m":2784113.374258,
     "geom:bbox":"45.5370445251,52.5361404419,45.5598754883,52.5597000122",
     "geom:latitude":52.548119,
     "geom:longitude":45.548641,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.548447,
     "lbl:longitude":45.549565,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.548447,
     "mps:longitude":45.549565,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vereshim"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687999,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102010853,
-    "wof:lastmodified":1501214429,
+    "wof:lastmodified":1566615506,
     "wof:name":"Vereshim",
     "wof:parent_id":1108734985,
     "wof:placetype":"locality",

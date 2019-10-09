@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0009,
-    "geom:area_square_m":7185626.670646,
+    "geom:area_square_m":7185626.670647,
     "geom:bbox":"43.7705039978,49.7627334595,43.8365097046,49.7853927612",
     "geom:latitude":49.774594,
     "geom:longitude":43.805678,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":49.772503,
     "lbl:longitude":43.806306,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.772503,
     "mps:longitude":43.806306,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ternovka"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0422\u0435\u0440\u043d\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ternovskiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0445",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":170,
     "wof:belongsto":[
         85688101,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102006591,
-    "wof:lastmodified":1527637263,
+    "wof:lastmodified":1566615360,
     "wof:name":"Ternovka",
     "wof:parent_id":1108733541,
     "wof:placetype":"locality",

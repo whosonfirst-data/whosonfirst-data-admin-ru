@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.827015,
     "lbl:longitude":48.702371,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.827015,
     "mps:longitude":48.702371,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0633\u064a\u0644\u064a\u064a\u0641\u0648"
     ],
@@ -64,9 +67,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0441\u0456\u043b\u044c\u0454\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Vasilevo"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d (\u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d)",
     "qs:a1_lc":"1602100002500",
@@ -83,7 +83,7 @@
     "qs:type":"\u043f\u0433\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688065,
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":102009093,
-    "wof:lastmodified":1563240390,
+    "wof:lastmodified":1566615248,
     "wof:name":"Vasileyevo",
     "wof:parent_id":890480589,
     "wof:placetype":"locality",

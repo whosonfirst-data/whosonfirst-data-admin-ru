@@ -14,6 +14,7 @@
     "iso:country":"RU",
     "lbl:latitude":55.73878,
     "lbl:longitude":37.777322,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.734275,
     "mps:longitude":37.782922,
     "mz:hierarchy_label":1,
@@ -36,9 +37,8 @@
     "name:rus_x_preferred":[
         "\u041f\u044b\u0445\u0447\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Pykhchevo",
-        "Plyushch\u00ebvo"
+    "name:und_x_variant":[
+        "Pykhchevo"
     ],
     "qs:gn_adm0_cc":"RU",
     "qs:gn_fcode":"PPL",
@@ -80,7 +80,6 @@
     "wof:concordances":{
         "gn:id":818093,
         "gp:id":2067047,
-        "qs:id":894763,
         "qs_pg:id":894763
     },
     "wof:country":"RU",
@@ -100,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247574,
+    "wof:lastmodified":1566618502,
     "wof:name":"Plyushch\u00ebvo",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

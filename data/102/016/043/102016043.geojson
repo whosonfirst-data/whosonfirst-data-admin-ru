@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000298,
-    "geom:area_square_m":2644719.292387,
+    "geom:area_square_m":2644719.292386,
     "geom:bbox":"40.8322219849,44.2045822144,40.8551940918,44.2230262756",
     "geom:latitude":44.213319,
     "geom:longitude":40.844165,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.214374,
     "lbl:longitude":40.844165,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.214374,
     "mps:longitude":40.844165,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Shedok"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0428\u0435\u0434\u043e\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shchedok"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688029,
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":495102,
         "gp:id":2082126,
-        "qs:id":1101719,
         "qs_pg:id":1101719
     },
     "wof:country":"RU",
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":102016043,
-    "wof:lastmodified":1505338948,
+    "wof:lastmodified":1566615453,
     "wof:name":"Shedok",
     "wof:parent_id":890484187,
     "wof:placetype":"locality",

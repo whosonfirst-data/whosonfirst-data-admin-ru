@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":58.266678,
     "lbl:longitude":31.988722,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Novgorod",
     "meso:name_alt2":"Novskaja oblast'",
     "meso:name_local":"\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -74,11 +75,7 @@
         "Novgorod"
     ],
     "name:und_x_variant":[
-        "Novskaja oblast'",
-        "Novgorod"
-    ],
-    "name:unk_x_variant":[
-        "Novgorod"
+        "Novskaja oblast'"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"RUS",
@@ -149,9 +146,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"55,300",
     "statoids:area_mi":"21,400",
     "statoids:as_of_date":"2010-10-14",
@@ -213,11 +210,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734407,
+    "wof:lastmodified":1566618515,
     "wof:name":"Novgorod",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":634111,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-ru",

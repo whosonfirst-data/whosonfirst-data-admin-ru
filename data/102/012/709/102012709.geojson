@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":56.076975,
     "lbl:longitude":86.029142,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":56.076975,
     "mps:longitude":86.029142,
     "mz:hierarchy_label":1,
@@ -141,7 +143,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0436\u0435\u0440\u043e-\u0421\u0443\u0434\u0436\u0435\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sudzhenka"
     ],
     "name:urd_x_preferred":[
@@ -269,7 +271,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.083333,
     "wd:longitude":86.033333,
@@ -300,7 +302,7 @@
         }
     ],
     "wof:id":102012709,
-    "wof:lastmodified":1563239841,
+    "wof:lastmodified":1566614984,
     "wof:name":"Anzhero-Sudzhensk",
     "wof:parent_id":1108732745,
     "wof:placetype":"locality",

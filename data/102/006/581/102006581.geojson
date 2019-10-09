@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":49.777684,
     "lbl:longitude":43.656112,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":49.777684,
     "mps:longitude":43.656112,
     "mz:hierarchy_label":1,
@@ -238,7 +240,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":49.766667,
     "wd:longitude":43.65,
@@ -253,7 +255,6 @@
     "wof:concordances":{
         "gn:id":562389,
         "gp:id":2039162,
-        "qs:id":369665,
         "qs_pg:id":369665,
         "wd:id":"Q197385",
         "wk:page":"Frolovo"
@@ -269,7 +270,7 @@
         }
     ],
     "wof:id":102006581,
-    "wof:lastmodified":1563240666,
+    "wof:lastmodified":1566615351,
     "wof:name":"Frolovo",
     "wof:parent_id":1108733539,
     "wof:placetype":"locality",

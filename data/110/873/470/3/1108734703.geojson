@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":45.778434,
     "lbl:longitude":41.510012,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Stavropol'skij kraj",
     "meso:admin1r_en":"Severo-Kavkazskij federal'nyj okrug",
     "meso:admin_1":"\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":41.510012,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Krasnogvardejskiy"
     ],
@@ -64,9 +67,9 @@
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u0432\u0430\u0440\u0434\u0435\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2259",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Krasnogvardeyskoye",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108734703,
-    "wof:lastmodified":1561581973,
+    "wof:lastmodified":1566626947,
     "wof:name":"Krasnogvardejskiy",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

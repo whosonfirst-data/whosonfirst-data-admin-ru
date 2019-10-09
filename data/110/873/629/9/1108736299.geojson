@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":53.872798,
     "lbl:longitude":33.60896,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Brjanskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u0411\u0440\u044f\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":33.60896,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Rognedinskiy Rayon"
     ],
@@ -90,9 +93,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0433\u043d\u0435\u0434\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0420\u043e\u0433\u043d\u0435\u0434\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Rognedinsky"
     ],
@@ -100,9 +100,9 @@
         "\u7f57\u683c\u6d85\u5b63\u8bfa\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1017",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Rognedino",
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":1108736299,
-    "wof:lastmodified":1563256662,
+    "wof:lastmodified":1566626958,
     "wof:name":"Rognedinskiy",
     "wof:parent_id":85688121,
     "wof:placetype":"county",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.069028,
     "lbl:longitude":132.951994,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.069028,
     "mps:longitude":132.951994,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u042d\u043a\u0456\u043c\u0447\u0430\u043d"
     ],
@@ -67,9 +70,6 @@
     "name:ukr_x_preferred":[
         "Velikoknyazheskoye"
     ],
-    "name:unk_x_variant":[
-        "\u042d\u043a\u0438\u043c\u0447\u0430\u043d"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u06a9\u06cc\u0645\u0686\u06cc\u0646"
     ],
@@ -94,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":407,
     "wof:belongsto":[
@@ -107,7 +107,6 @@
     "wof:concordances":{
         "gn:id":2024461,
         "gp:id":2120752,
-        "qs:id":570968,
         "qs_pg:id":570968,
         "wd:id":"Q4025621",
         "wk:page":"Ekimchan"
@@ -123,7 +122,7 @@
         }
     ],
     "wof:id":102015031,
-    "wof:lastmodified":1563239740,
+    "wof:lastmodified":1566614941,
     "wof:name":"Ekimchan",
     "wof:parent_id":1108736419,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.859565,
     "lbl:longitude":120.865824,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.859565,
     "mps:longitude":120.865824,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u0410\u043c\u0430\u0437\u0430\u0440"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688005,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":2027806,
         "gp:id":2120008,
-        "qs:id":137630,
         "qs_pg:id":137630
     },
     "wof:country":"RU",
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":102015005,
-    "wof:lastmodified":1564108606,
+    "wof:lastmodified":1566614972,
     "wof:name":"Amazar",
     "wof:parent_id":890485357,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.554633,
     "lbl:longitude":118.340131,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.554633,
     "mps:longitude":118.340131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u0627\u0632\u064a\u0645\u0648\u0631\u0633\u0643\u064a\u064a \u0632\u0627\u0641\u0648\u062f\u060c \u0633\u064a\u062a\u0627"
     ],
@@ -61,7 +64,7 @@
     "name:rus_x_preferred":[
         "\u0413\u0430\u0437\u0438\u043c\u0443\u0440\u0441\u043a\u0438\u0439 \u0417\u0430\u0432\u043e\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gazimurskizavod"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -80,7 +83,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688005,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":102014691,
-    "wof:lastmodified":1563240168,
+    "wof:lastmodified":1566615132,
     "wof:name":"Zavod",
     "wof:parent_id":1108733573,
     "wof:placetype":"locality",

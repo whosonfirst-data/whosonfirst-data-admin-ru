@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":46.045412,
     "lbl:longitude":38.166712,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.045412,
     "mps:longitude":38.166712,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0645\u0648\u0631\u0633\u0643\u0648-\u0623\u062e\u062a\u0627\u0631\u0633\u0643"
     ],
@@ -124,7 +127,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u044c\u043a\u043e-\u0410\u0445\u0442\u0430\u0440\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Akhtari"
     ],
     "name:vep_x_preferred":[
@@ -157,7 +160,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":46.05,
     "wd:longitude":38.183333,
@@ -172,7 +175,6 @@
     "wof:concordances":{
         "gn:id":505259,
         "gp:id":2123029,
-        "qs:id":369278,
         "qs_pg:id":369278,
         "wd:id":"Q184095",
         "wk:page":"Primorsko-Akhtarsk"
@@ -188,7 +190,7 @@
         }
     ],
     "wof:id":102007619,
-    "wof:lastmodified":1563240212,
+    "wof:lastmodified":1566615154,
     "wof:name":"Primorsko-Akhtarsk",
     "wof:parent_id":1108735981,
     "wof:placetype":"locality",

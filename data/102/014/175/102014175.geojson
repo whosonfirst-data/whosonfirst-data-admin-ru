@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000285,
-    "geom:area_square_m":2092085.604204,
+    "geom:area_square_m":2092085.604203,
     "geom:bbox":"92.0087509155,53.6250648499,92.0414810181,53.6404914856",
     "geom:latitude":53.633525,
     "geom:longitude":92.023667,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.633685,
     "lbl:longitude":92.023667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.633685,
     "mps:longitude":92.023667,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Malaya Nichka"
     ],
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688139,
         102191581,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102014175,
-    "wof:lastmodified":1501220036,
+    "wof:lastmodified":1566615113,
     "wof:name":"Malaya Nichka",
     "wof:parent_id":1108735153,
     "wof:placetype":"locality",

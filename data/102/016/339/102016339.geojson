@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000463,
-    "geom:area_square_m":4156543.527454,
+    "geom:area_square_m":4156543.527455,
     "geom:bbox":"44.2137870789,43.4567565918,44.2475395203,43.4879875183",
     "geom:latitude":43.471531,
     "geom:longitude":44.231958,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.471909,
     "lbl:longitude":44.233109,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.471909,
     "mps:longitude":44.233109,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043d\u0438\u0439 \u0410\u043a\u0431\u0430\u0448"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688089,
         102191581,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102016339,
-    "wof:lastmodified":1501214428,
+    "wof:lastmodified":1566615428,
     "wof:name":"Verkhniy Akbash",
     "wof:parent_id":1108736997,
     "wof:placetype":"locality",

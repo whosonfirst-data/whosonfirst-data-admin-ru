@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000793,
-    "geom:area_square_m":6214853.62524,
+    "geom:area_square_m":6214853.625242,
     "geom:bbox":"47.4181671143,50.6661682129,47.4628334045,50.6962776184",
     "geom:latitude":50.682731,
     "geom:longitude":47.438192,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.680912,
     "lbl:longitude":47.4333,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.680912,
     "mps:longitude":47.4333,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Piterka"
     ],
@@ -26,9 +29,6 @@
         "Piterka"
     ],
     "name:rus_x_preferred":[
-        "\u041f\u0438\u0442\u0435\u0440\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u0438\u0442\u0435\u0440\u043a\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":54,
     "wof:belongsto":[
@@ -62,7 +62,6 @@
     "wof:concordances":{
         "gn:id":509269,
         "gp:id":2122888,
-        "qs:id":124996,
         "qs_pg:id":124996,
         "wd:id":"Q7198910"
     },
@@ -77,7 +76,7 @@
         }
     ],
     "wof:id":102011349,
-    "wof:lastmodified":1527637589,
+    "wof:lastmodified":1566615398,
     "wof:name":"Piterka",
     "wof:parent_id":1108735877,
     "wof:placetype":"locality",

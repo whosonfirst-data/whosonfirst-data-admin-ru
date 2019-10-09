@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.841562,
     "lbl:longitude":86.477191,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.841562,
     "mps:longitude":86.477191,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Soltonskiy Rayon"
     ],
@@ -55,7 +58,7 @@
     "name:rus_x_variant":[
         "\u0421\u043e\u043b\u0442\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Soltonskoye"
     ],
     "name:vie_x_preferred":[
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":746,
     "wof:belongsto":[
@@ -95,7 +98,6 @@
     "wof:concordances":{
         "gn:id":1491428,
         "gp:id":2046464,
-        "qs:id":85074,
         "qs_pg:id":85074,
         "wd:id":"Q1822633"
     },
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":102013467,
-    "wof:lastmodified":1563240044,
+    "wof:lastmodified":1566615073,
     "wof:name":"Solton",
     "wof:parent_id":1108736709,
     "wof:placetype":"locality",

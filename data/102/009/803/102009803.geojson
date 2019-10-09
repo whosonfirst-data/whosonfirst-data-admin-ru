@@ -5,25 +5,28 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000701,
-    "geom:area_square_m":5024951.822748,
+    "geom:area_square_m":5024951.822747,
     "geom:bbox":"54.0876960754,54.5382499695,54.1279449463,54.566192627",
     "geom:latitude":54.551809,
     "geom:longitude":54.10932,
-    "geonames:id":"488808,553169",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":12100,
+    "gn:id":"488808,553169",
+    "gn:population":12100,
     "iso:country":"RU",
     "lbl:latitude":54.553172,
     "lbl:longitude":54.11095,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":54.553172,
     "mps:longitude":54.11095,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:rus_x_preferred":[
         "\u041a\u0430\u043d\u0434\u0440\u044b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kandry-Amineva"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687801,
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":553169,
         "gp:id":2121180,
-        "qs:id":125407
+        "qs_pg:id":125407
     },
     "wof:country":"RU",
     "wof:geomhash":"93450a85f687915908537de604278472",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102009803,
-    "wof:lastmodified":1505338933,
+    "wof:lastmodified":1566615220,
     "wof:name":"Kandry",
     "wof:parent_id":1108737103,
     "wof:placetype":"locality",

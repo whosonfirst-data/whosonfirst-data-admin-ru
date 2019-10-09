@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001041,
-    "geom:area_square_m":6145321.503699,
+    "geom:area_square_m":6145321.503705,
     "geom:bbox":"53.8639450073,61.4551124573,53.9543876648,61.4916114807",
     "geom:latitude":61.472567,
     "geom:longitude":53.91015,
     "iso:country":"RU",
     "lbl:latitude":61.472448,
     "lbl:longitude":53.91015,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.472448,
     "mps:longitude":53.91015,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kerchom\u201dya"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_variant":[
         "\u041a\u0435\u0440\u0447\u043e\u043c\u044a\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kerchemskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688077,
         102191581,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":102002061,
-    "wof:lastmodified":1501214696,
+    "wof:lastmodified":1566615704,
     "wof:name":"Kerchomya",
     "wof:parent_id":1108737249,
     "wof:placetype":"locality",

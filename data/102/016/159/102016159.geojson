@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000681,
-    "geom:area_square_m":6067517.292669,
+    "geom:area_square_m":6067517.292671,
     "geom:bbox":"43.2698898315,43.8929672241,43.3237380981,43.909702301",
     "geom:latitude":43.902058,
     "geom:longitude":43.296376,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.901255,
     "lbl:longitude":43.299581,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.901255,
     "mps:longitude":43.299581,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zol'skaya"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0417\u043e\u043b\u044c\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zol\u2019skaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":32,
     "wof:belongsto":[
         85687825,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":102016159,
-    "wof:lastmodified":1527637594,
+    "wof:lastmodified":1566615426,
     "wof:name":"Zolskaya",
     "wof:parent_id":1108734455,
     "wof:placetype":"locality",

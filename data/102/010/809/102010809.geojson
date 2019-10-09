@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000237,
-    "geom:area_square_m":1777541.378052,
+    "geom:area_square_m":1777541.378053,
     "geom:bbox":"48.6566390991,52.6843070984,48.6799430847,52.6999168396",
     "geom:latitude":52.693088,
     "geom:longitude":48.669022,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.692561,
     "lbl:longitude":48.670409,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.692561,
     "mps:longitude":48.670409,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:chv_x_preferred":[
         "\u0410\u043f\u0430\u0448"
     ],
@@ -32,9 +35,6 @@
     ],
     "name:rus_x_variant":[
         "\u0410\u0431\u0430\u0448\u0451\u0432\u043e",
-        "Abash\u00ebvo"
-    ],
-    "name:unk_x_variant":[
         "Abash\u00ebvo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -53,7 +53,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":109,
     "wof:belongsto":[
         85687781,
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":102010809,
-    "wof:lastmodified":1527637803,
+    "wof:lastmodified":1566615505,
     "wof:name":"Abashevo",
     "wof:parent_id":1108734403,
     "wof:placetype":"locality",

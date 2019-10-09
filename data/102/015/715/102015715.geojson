@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000499,
-    "geom:area_square_m":4374132.808916,
+    "geom:area_square_m":4374132.808914,
     "geom:bbox":"38.858417511,44.8164176941,38.886138916,44.8456954956",
     "geom:latitude":44.829222,
     "geom:longitude":38.872097,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.827143,
     "lbl:longitude":38.870975,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.827143,
     "mps:longitude":38.870975,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Novodmitriyevskaya"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0434\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novaya Dmitriyevskaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +52,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688029
+        85688029,
+        1108736479
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":518928,
         "gp:id":2122488,
-        "qs:id":460219,
         "qs_pg:id":460219
     },
     "wof:country":"RU",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102015715,
-    "wof:lastmodified":1505338947,
+    "wof:lastmodified":1566614949,
     "wof:name":"Novodmitriyevskaya",
     "wof:parent_id":1108736479,
     "wof:placetype":"locality",

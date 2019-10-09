@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.861344,
     "lbl:longitude":40.818748,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.861344,
     "mps:longitude":40.818748,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0631\u062a\u064a\u0644"
     ],
@@ -104,7 +107,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u0440\u0442\u0438\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ertil\u2019"
     ],
     "name:war_x_preferred":[
@@ -132,7 +135,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688051,
@@ -145,7 +148,7 @@
     "wof:concordances":{
         "gn:id":563420,
         "gp:id":1990975,
-        "qs:id":125594,
+        "qs_pg:id":125594,
         "wd:id":"Q198753",
         "wk:page":"Ertil, Voronezh Oblast"
     },
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":102005255,
-    "wof:lastmodified":1563241414,
+    "wof:lastmodified":1566615654,
     "wof:name":"Ertil",
     "wof:parent_id":1108733457,
     "wof:placetype":"locality",

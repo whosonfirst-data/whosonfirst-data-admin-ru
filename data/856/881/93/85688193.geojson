@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":63.548366,
     "lbl:longitude":33.191894,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Karelia",
     "meso:name_alt2":"Respublika Karelija",
     "meso:name_local":"\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0440\u0435\u043b\u0438\u044f",
@@ -489,13 +490,6 @@
     "name:ukr_x_variant":[
         "\u041a\u0430\u0440\u0435\u043b\u0456\u044f"
     ],
-    "name:und_x_variant":[
-        "Respublika Karelija",
-        "Karelia"
-    ],
-    "name:unk_x_variant":[
-        "Karelia"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0627\u0631\u06cc\u0644\u06cc\u0627"
     ],
@@ -618,9 +612,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"172,400",
     "statoids:area_mi":"66,600",
     "statoids:as_of_date":"2010-10-14",
@@ -683,11 +677,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734418,
+    "wof:lastmodified":1566618535,
     "wof:name":"Karelia",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":643548,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-ru",

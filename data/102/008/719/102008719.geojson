@@ -9,14 +9,17 @@
     "geom:bbox":"48.1362495422,56.9365272522,48.1651649475,56.9531402588",
     "geom:latitude":56.944743,
     "geom:longitude":48.150546,
-    "geonames:id":"6314467,493495",
+    "gn:id":"6314467,493495",
     "iso:country":"RU",
     "lbl:latitude":56.944832,
     "lbl:longitude":48.150546,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.944832,
     "mps:longitude":48.150546,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u015eulk\u0259"
     ],
@@ -60,7 +63,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688043,
         102191581,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":102008719,
-    "wof:lastmodified":1564108956,
+    "wof:lastmodified":1566615300,
     "wof:name":"Shulka",
     "wof:parent_id":1108735711,
     "wof:placetype":"locality",

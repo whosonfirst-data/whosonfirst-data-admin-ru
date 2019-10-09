@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":59.05696,
     "lbl:longitude":42.264475,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kostromskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":42.264475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Soligalichskiy Rayon"
     ],
@@ -90,9 +93,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043b\u0438\u0433\u0430\u043b\u0438\u0447\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0421\u043e\u043b\u0438\u0433\u0430\u043b\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Soligalichsky"
     ],
@@ -100,9 +100,9 @@
         "\u7d22\u5229\u52a0\u5229\u5947\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"3021",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Soligalich",
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":1108736689,
-    "wof:lastmodified":1563256775,
+    "wof:lastmodified":1566627030,
     "wof:name":"Soligalichskiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",

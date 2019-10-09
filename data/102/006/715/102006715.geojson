@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000581,
-    "geom:area_square_m":4689417.464512,
+    "geom:area_square_m":4689417.464514,
     "geom:bbox":"43.9812850952,49.245891571,44.0106964111,49.2762641907",
     "geom:latitude":49.260887,
     "geom:longitude":43.996656,
@@ -14,14 +14,14 @@
     "iso:country":"RU",
     "lbl:latitude":49.259619,
     "lbl:longitude":43.996656,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.259619,
     "mps:longitude":43.996656,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
-        "\u041a\u043e\u043b\u043e\u0442\u0441\u043a\u0438\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u043e\u043b\u043e\u0442\u0441\u043a\u0438\u0439"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +40,7 @@
     "qs:type":"\u0445",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688101,
         102191581,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":102006715,
-    "wof:lastmodified":1501214677,
+    "wof:lastmodified":1566615352,
     "wof:name":"Kolotskiy",
     "wof:parent_id":1108733991,
     "wof:placetype":"locality",

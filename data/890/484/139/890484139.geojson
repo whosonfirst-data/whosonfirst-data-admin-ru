@@ -11,11 +11,15 @@
     "geom:longitude":52.201,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"52.181,52.8199,52.221,52.8599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Palimovka"
     ],
@@ -23,9 +27,6 @@
         "Palimovka"
     ],
     "name:rus_x_preferred":[
-        "\u041f\u0430\u043b\u0438\u043c\u043e\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u0430\u043b\u0438\u043c\u043e\u0432\u043a\u0430"
     ],
     "qs:name":"Palimovka",
@@ -49,7 +50,7 @@
     "wof:concordances":{
         "gn:id":513067,
         "gp:id":2062387,
-        "qs:id":1072304
+        "qs_pg:id":1072304
     },
     "wof:country":"RU",
     "wof:created":1469054499,
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":890484139,
-    "wof:lastmodified":1505343761,
+    "wof:lastmodified":1566630704,
     "wof:name":"Palimovka",
     "wof:parent_id":1108733151,
     "wof:placetype":"locality",

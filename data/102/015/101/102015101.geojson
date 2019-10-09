@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.722642,
     "lbl:longitude":129.294973,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.722642,
     "mps:longitude":129.294973,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u0645\u0646\u064a"
     ],
@@ -118,9 +121,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u043c\u043d\u0438"
     ],
-    "name:unk_x_variant":[
-        "\u0420\u043e\u043c\u043d\u044b"
-    ],
     "name:vie_x_preferred":[
         "Romny"
     ],
@@ -145,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":171.0,
     "wd:latitude":50.742813,
@@ -162,7 +162,6 @@
     "wof:concordances":{
         "gn:id":2017409,
         "gp:id":2123169,
-        "qs:id":1243573,
         "qs_pg:id":1243573
     },
     "wof:country":"RU",
@@ -178,7 +177,7 @@
         }
     ],
     "wof:id":102015101,
-    "wof:lastmodified":1564108593,
+    "wof:lastmodified":1566614958,
     "wof:name":"Romny",
     "wof:parent_id":890487649,
     "wof:placetype":"locality",

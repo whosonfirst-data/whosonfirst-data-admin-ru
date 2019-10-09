@@ -10,8 +10,10 @@
     "geom:latitude":60.100649,
     "geom:longitude":30.19666,
     "iso:country":"RU",
+    "lbl:bbox":"30.1916603782,60.0956485268,30.2016603782,60.1056485268",
     "lbl:latitude":60.100649,
     "lbl:longitude":30.19666,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:rus_x_preferred":[
         "\u041b\u0435\u0432\u0430\u0448\u043e\u0432\u043e"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108943083,
-    "wof:lastmodified":1510870335,
+    "wof:lastmodified":1566627399,
     "wof:name":"Levashovo",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

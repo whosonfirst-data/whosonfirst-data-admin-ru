@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":52.713157,
     "lbl:longitude":58.656832,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Bashkortostan",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d",
@@ -53,6 +55,7 @@
     "mps:longitude":58.656832,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Sibaj"
     ],
@@ -63,9 +66,9 @@
         "\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0421\u0438\u0431\u0430\u0439"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"5754",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Baymak",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108733865,
-    "wof:lastmodified":1561582109,
+    "wof:lastmodified":1566627385,
     "wof:name":"Sibaj",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

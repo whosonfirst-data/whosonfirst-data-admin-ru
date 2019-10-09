@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":54.505051,
     "lbl:longitude":55.39592,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Bashkortostan",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d",
@@ -53,6 +55,7 @@
     "mps:longitude":55.39592,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "\u00c7i\u015fmi rayonu"
     ],
@@ -114,9 +117,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0438\u0448\u043c\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0427\u0438\u0448\u043c\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Chishminsky"
     ],
@@ -127,9 +127,9 @@
         "\u5947\u4ec0\u660e\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1817",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Chishmy",
@@ -163,7 +163,7 @@
         }
     ],
     "wof:id":1108733275,
-    "wof:lastmodified":1563257255,
+    "wof:lastmodified":1566627332,
     "wof:name":"Chishminskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

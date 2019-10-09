@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":50.301301,
     "lbl:longitude":95.994807,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tyva",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u0422\u044b\u0432\u0430",
@@ -53,6 +55,7 @@
     "mps:longitude":95.994807,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u042d\u0440\u0437\u0438\u043d\u0430\u043d \u043a\u043e\u0436\u0443\u0443\u043d"
     ],
@@ -96,9 +99,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u0440\u0437\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u043a\u043e\u0436\u0443\u0443\u043d"
     ],
-    "name:und_x_variant":[
-        "\u042d\u0440\u0437\u0438\u043d\u0441\u043a\u0438\u0439 \u043a\u043e\u0436\u0443\u0443\u043d"
-    ],
     "name:vie_x_preferred":[
         "Erzinsky"
     ],
@@ -106,9 +106,9 @@
         "\u57c3\u5c14\u6d25\u65d7"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"10661",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Erzin",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":1108733459,
-    "wof:lastmodified":1563257281,
+    "wof:lastmodified":1566627351,
     "wof:name":"EHrzinskiy",
     "wof:parent_id":85688039,
     "wof:placetype":"county",

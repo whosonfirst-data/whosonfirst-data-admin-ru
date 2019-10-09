@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.791086,
     "lbl:longitude":44.911818,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.791086,
     "mps:longitude":44.911818,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u0423\u0440\u043e\u0436\u0430\u0439\u043d\u0438"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":478640,
         "gp:id":2124085,
-        "qs:id":549009,
         "qs_pg:id":549009
     },
     "wof:country":"RU",
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":102015737,
-    "wof:lastmodified":1564108561,
+    "wof:lastmodified":1566614927,
     "wof:name":"Urozhaynoye",
     "wof:parent_id":1108734941,
     "wof:placetype":"locality",

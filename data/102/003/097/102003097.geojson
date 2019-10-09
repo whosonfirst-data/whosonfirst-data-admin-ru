@@ -15,17 +15,17 @@
     "iso:country":"RU",
     "lbl:latitude":55.908934,
     "lbl:longitude":37.487352,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":55.908934,
     "mps:longitude":37.487352,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:nor_x_preferred":[
         "Starbejevo"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u0442\u0430\u0440\u0431\u0435\u0435\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u0442\u0430\u0440\u0431\u0435\u0435\u0432\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,17 +46,17 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688161
+        85688161,
+        1108733731
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":488996,
-        "qs:id":80550,
         "qs_pg:id":80550
     },
     "wof:country":"RU",
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":102003097,
-    "wof:lastmodified":1505338918,
+    "wof:lastmodified":1566615532,
     "wof:name":"Starbeyevo",
     "wof:parent_id":1108733731,
     "wof:placetype":"locality",

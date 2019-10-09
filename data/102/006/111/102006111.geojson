@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001095,
-    "geom:area_square_m":8551088.1377,
+    "geom:area_square_m":8551088.137693,
     "geom:bbox":"40.1596374512,50.8105278015,40.2157783508,50.8636665344",
     "geom:latitude":50.842157,
     "geom:longitude":40.179806,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.838019,
     "lbl:longitude":40.172363,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.838019,
     "mps:longitude":40.172363,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Nizhniy Kislyay"
     ],
@@ -26,9 +29,6 @@
         "Nizjnij Kisljaj"
     ],
     "name:rus_x_preferred":[
-        "\u041d\u0438\u0436\u043d\u0438\u0439 \u041a\u0438\u0441\u043b\u044f\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u041d\u0438\u0436\u043d\u0438\u0439 \u041a\u0438\u0441\u043b\u044f\u0439"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,17 +49,17 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688051
+        85688051,
+        1108733141
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":520599,
-        "qs:id":549458,
         "qs_pg:id":549458
     },
     "wof:country":"RU",
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":102006111,
-    "wof:lastmodified":1505338925,
+    "wof:lastmodified":1566615352,
     "wof:name":"Nizhniy Kislyay",
     "wof:parent_id":1108733141,
     "wof:placetype":"locality",

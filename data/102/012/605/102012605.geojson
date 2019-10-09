@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000766,
-    "geom:area_square_m":5113440.201286,
+    "geom:area_square_m":5113440.201287,
     "geom:bbox":"83.9035568237,57.3288612366,83.9466094971,57.354637146",
     "geom:latitude":57.342948,
     "geom:longitude":83.924743,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.343036,
     "lbl:longitude":83.925153,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.343036,
     "mps:longitude":83.925153,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Krivosheino"
     ],
@@ -24,9 +27,6 @@
         "Krivosjeino"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0440\u0438\u0432\u043e\u0448\u0435\u0438\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0440\u0438\u0432\u043e\u0448\u0435\u0438\u043d\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":80,
     "wof:belongsto":[
@@ -60,7 +60,6 @@
     "wof:concordances":{
         "gn:id":1501795,
         "gp:id":2121692,
-        "qs:id":556169,
         "qs_pg:id":556169,
         "wd:id":"Q6438628"
     },
@@ -75,7 +74,7 @@
         }
     ],
     "wof:id":102012605,
-    "wof:lastmodified":1527636470,
+    "wof:lastmodified":1566614994,
     "wof:name":"Krivosheino",
     "wof:parent_id":1108734753,
     "wof:placetype":"locality",

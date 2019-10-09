@@ -11,11 +11,15 @@
     "geom:longitude":60.9135,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"60.8935,56.1704,60.9335,56.2104",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shcherbakovka"
     ],
@@ -23,9 +27,6 @@
         "Sjtsjerbakovka"
     ],
     "name:rus_x_preferred":[
-        "\u0429\u0435\u0440\u0431\u0430\u043a\u043e\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0429\u0435\u0440\u0431\u0430\u043a\u043e\u0432\u043a\u0430"
     ],
     "qs:name":"Shcherbakovo",
@@ -47,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1492338,
         "gp:id":2081940,
-        "qs:id":280994
+        "qs_pg:id":280994
     },
     "wof:country":"RU",
     "wof:created":1469054423,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":890482525,
-    "wof:lastmodified":1505343754,
+    "wof:lastmodified":1566630617,
     "wof:name":"Shcherbakovo",
     "wof:parent_id":1108734299,
     "wof:placetype":"locality",

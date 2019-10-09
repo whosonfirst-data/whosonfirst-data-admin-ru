@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000873,
-    "geom:area_square_m":7665725.869694,
+    "geom:area_square_m":7665725.869692,
     "geom:bbox":"44.1752967834,44.7255325317,44.2207489014,44.7666778564",
     "geom:latitude":44.746161,
     "geom:longitude":44.195369,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.745212,
     "lbl:longitude":44.193819,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":44.745212,
     "mps:longitude":44.193819,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Praskoveya"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041f\u0440\u0430\u0441\u043a\u043e\u0432\u0435\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Praskoveyskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687825,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":505641,
         "gp:id":2123050,
-        "qs:id":124961
+        "qs_pg:id":124961
     },
     "wof:country":"RU",
     "wof:geomhash":"968369c69ababfd2bde1a58edab57c73",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102015787,
-    "wof:lastmodified":1505338947,
+    "wof:lastmodified":1566614977,
     "wof:name":"Proskoveya",
     "wof:parent_id":1108733115,
     "wof:placetype":"locality",

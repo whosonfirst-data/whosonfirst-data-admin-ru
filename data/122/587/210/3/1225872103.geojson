@@ -23,8 +23,12 @@
     "gn:population":211,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"33.01728,69.02522,33.05728,69.06522",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mishukovo"
     ],
@@ -42,10 +46,6 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0448\u0443\u043a\u043e\u0432\u043e"
-    ],
-    "name:und_x_variant":[
-        "\u041c\u0438\u0448\u0443\u043a\u043e\u0432\u043e",
-        "Mishukovo"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1225872103,
-    "wof:lastmodified":1564136231,
+    "wof:lastmodified":1566635631,
     "wof:name":"Mishukovo",
     "wof:parent_id":890482741,
     "wof:placetype":"locality",

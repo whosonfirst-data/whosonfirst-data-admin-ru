@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":51.272396,
     "lbl:longitude":37.394027,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":51.272396,
     "mps:longitude":37.394027,
     "mz:hierarchy_label":1,
@@ -126,7 +128,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0431\u043a\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rabochiy Poselok Imeni Gubkina"
     ],
     "name:vep_x_preferred":[
@@ -251,7 +253,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.283333,
     "wd:longitude":37.55,
@@ -266,7 +268,6 @@
     "wof:concordances":{
         "gn:id":558146,
         "gp:id":2060894,
-        "qs:id":125495,
         "qs_pg:id":125495,
         "wd:id":"Q134679",
         "wk:page":"Gubkin"
@@ -282,7 +283,7 @@
         }
     ],
     "wof:id":102005797,
-    "wof:lastmodified":1563241334,
+    "wof:lastmodified":1566615614,
     "wof:name":"Gubkin",
     "wof:parent_id":1108733945,
     "wof:placetype":"locality",

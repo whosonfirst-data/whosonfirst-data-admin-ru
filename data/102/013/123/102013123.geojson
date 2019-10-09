@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00127,
-    "geom:area_square_m":9177789.125303,
+    "geom:area_square_m":9177789.125302,
     "geom:bbox":"86.1503295898,54.2195281982,86.2305297852,54.2633056641",
     "geom:latitude":54.236916,
     "geom:longitude":86.198654,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.234821,
     "lbl:longitude":86.205338,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.234821,
     "mps:longitude":86.205338,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Starobachaty"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e\u0431\u0430\u0447\u0430\u0442\u044b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Boghatyy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688105,
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":1491004,
         "gp:id":2089172,
-        "qs:id":1092569,
         "qs_pg:id":1092569
     },
     "wof:country":"RU",
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":102013123,
-    "wof:lastmodified":1505338941,
+    "wof:lastmodified":1566615080,
     "wof:name":"Starobachaty",
     "wof:parent_id":890485439,
     "wof:placetype":"locality",

@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":67.820497,
     "lbl:longitude":56.138587,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Nenets",
     "meso:name_alt2":"Neneckij avtonomnyj okrug",
     "meso:name_local":"\u041d\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
@@ -132,7 +133,7 @@
         "\u05d4\u05e0\u05d9\u05d9\u05e0\u05e5"
     ],
     "name:hin_x_preferred":[
-        "\u0928\u0947\u0928\u0947\u091f\u094d\u0938 \u0914\u091f\u094b\u0928\u094b\u092e\u0938  \u0913\u0915\u094d\u0930\u0941\u0917"
+        "\u0928\u0947\u0928\u0947\u091f\u094d\u0938 \u0914\u091f\u094b\u0928\u094b\u092e\u0938 \u0913\u0915\u094d\u0930\u0941\u0917"
     ],
     "name:hrv_x_preferred":[
         "Nene\u010dki autonomni okrug"
@@ -281,10 +282,6 @@
         "\u041d\u0435\u043d\u0435\u0446\u044c\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
     ],
     "name:und_x_variant":[
-        "Neneckij avtonomnyj okrug",
-        "Nenets"
-    ],
-    "name:unk_x_variant":[
         "Nenetskii Natsional\u2019nyi Okrug"
     ],
     "name:urd_x_preferred":[
@@ -380,9 +377,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"176,700",
     "statoids:area_mi":"68,200",
     "statoids:as_of_date":"2010-10-14",
@@ -445,11 +442,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734444,
+    "wof:lastmodified":1566618583,
     "wof:name":"Nenets",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":42090,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",

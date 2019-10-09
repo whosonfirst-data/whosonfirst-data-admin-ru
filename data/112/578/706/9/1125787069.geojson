@@ -9,15 +9,18 @@
     "geom:bbox":"132.07638,44.42631,132.07638,44.42631",
     "geom:latitude":44.42631,
     "geom:longitude":132.07638,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":11245,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":11245,
     "iso:country":"RU",
+    "lbl:bbox":"132.05638,44.40631,132.09638,44.44631",
     "lbl:latitude":44.42631,
     "lbl:longitude":132.07638,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Khorol"
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u0425\u043e\u0440\u043e\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khorol\u2019sk"
     ],
     "qs_pg:aaroncc":"RU",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":846662,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688023,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1125787069,
-    "wof:lastmodified":1509392039,
+    "wof:lastmodified":1566631033,
     "wof:name":"Khorol\u2019",
     "wof:parent_id":1108734387,
     "wof:placetype":"locality",

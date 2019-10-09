@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":48.817864,
     "lbl:longitude":44.841951,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":48.817864,
     "mps:longitude":44.841951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0644\u062c\u0633\u0643\u064a"
     ],
@@ -208,7 +211,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043b\u0437\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Volzh Sky"
     ],
     "name:urd_x_preferred":[
@@ -245,7 +248,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":20.0,
     "wd:latitude":48.783333,
@@ -278,7 +281,7 @@
         }
     ],
     "wof:id":102006831,
-    "wof:lastmodified":1563240698,
+    "wof:lastmodified":1566615368,
     "wof:name":"",
     "wof:parent_id":1108737647,
     "wof:placetype":"locality",

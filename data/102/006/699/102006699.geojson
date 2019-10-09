@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":49.310906,
     "lbl:longitude":43.981904,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.310906,
     "mps:longitude":43.981904,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:che_x_preferred":[
         "\u0418\u043b\u043e\u0432\u043b\u044f"
     ],
@@ -40,7 +43,7 @@
     "name:rus_x_preferred":[
         "\u0418\u043b\u043e\u0432\u043b\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ilovlinska"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":556961,
         "gp:id":2121007,
-        "qs:id":190191,
         "qs_pg:id":190191
     },
     "wof:country":"RU",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":102006699,
-    "wof:lastmodified":1564109026,
+    "wof:lastmodified":1566615368,
     "wof:name":"Ilovlya",
     "wof:parent_id":1108733991,
     "wof:placetype":"locality",

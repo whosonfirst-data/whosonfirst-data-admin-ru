@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":61.831089,
     "lbl:longitude":33.265778,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Respublika Karelija",
     "meso:admin1r_en":"Severo-Zapadnyj federal'nyj okrug",
     "meso:admin_1":"\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0440\u0435\u043b\u0438\u044f",
@@ -53,6 +55,7 @@
     "mps:longitude":33.265778,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u041f\u0440\u044f\u0436\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -99,9 +102,6 @@
     "name:sco_x_preferred":[
         "Pryazhinsky Destrict"
     ],
-    "name:und_x_variant":[
-        "\u041f\u0440\u044f\u0436\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vep_x_preferred":[
         "Pr\u00e4\u017ean rahvahaline rajon"
     ],
@@ -115,9 +115,9 @@
         "\u666e\u91cc\u4e9e\u4efb\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"6429",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Pryazha",
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":1108735995,
-    "wof:lastmodified":1563256939,
+    "wof:lastmodified":1566627133,
     "wof:name":"Prjazhinskiy",
     "wof:parent_id":85688193,
     "wof:placetype":"county",

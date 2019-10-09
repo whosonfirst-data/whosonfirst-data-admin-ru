@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.492615,
     "lbl:longitude":50.048355,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.492615,
     "mps:longitude":50.048355,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aar_x_preferred":[
         "Kurumoch"
     ],
@@ -547,9 +550,6 @@
     "name:twi_x_preferred":[
         "Kurumoch"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0443\u0440\u0443\u043c\u043e\u0447"
-    ],
     "name:vec_x_preferred":[
         "Kurumoch"
     ],
@@ -613,7 +613,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687781,
@@ -626,7 +626,6 @@
     "wof:concordances":{
         "gn:id":538508,
         "gp:id":2033375,
-        "qs:id":321988,
         "qs_pg:id":321988,
         "wd:id":"Q15874"
     },
@@ -643,7 +642,7 @@
         }
     ],
     "wof:id":102010445,
-    "wof:lastmodified":1563241028,
+    "wof:lastmodified":1566615503,
     "wof:name":"Kurumoch",
     "wof:parent_id":890484437,
     "wof:placetype":"locality",

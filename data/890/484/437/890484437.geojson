@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":52.97645,
     "lbl:longitude":50.340616,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Samarskaja oblast'",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":50.340616,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:chv_x_preferred":[
         "\u0410\u0442\u0103\u043b \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
@@ -79,9 +82,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043b\u0437\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0412\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Volzhsky"
     ],
@@ -99,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":568,
     "wof:belongsto":[
         102191581,
@@ -110,7 +110,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598631,
-        "qs:id":1119186,
+        "qs_pg:id":1119186,
         "wd:id":"Q4016415",
         "wk:page":"Volzhsky District"
     },
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":890484437,
-    "wof:lastmodified":1563262378,
+    "wof:lastmodified":1566630688,
     "wof:name":"Volzhskiy",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

@@ -10,8 +10,10 @@
     "geom:latitude":59.89124,
     "geom:longitude":30.264589,
     "iso:country":"RU",
+    "lbl:bbox":"30.2595890852,59.8862402307,30.2695890852,59.8962402307",
     "lbl:latitude":59.89124,
     "lbl:longitude":30.264589,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:rus_x_preferred":[
         "\u041d\u0430\u0440\u0432\u0441\u043a\u0438\u0439"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108943499,
-    "wof:lastmodified":1510870345,
+    "wof:lastmodified":1566627413,
     "wof:name":"Narvsky",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

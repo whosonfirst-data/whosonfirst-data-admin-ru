@@ -38,6 +38,7 @@
     ],
     "lbl:latitude":55.738054,
     "lbl:longitude":37.602646,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Moscow City",
     "meso:name_alt2":"Moskva",
     "meso:name_local":"\u041c\u043e\u0441\u043a\u0432\u0430",
@@ -756,10 +757,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0441\u043a\u0432\u0430"
     ],
-    "name:und_x_variant":[
-        "Moskva",
-        "Moscow City"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0633\u06a9\u0648"
     ],
@@ -895,9 +892,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"804",
     "statoids:area_mi":"300",
     "statoids:as_of_date":"2010-10-14",
@@ -965,11 +962,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734415,
+    "wof:lastmodified":1566618531,
     "wof:name":"Moscow",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":11503501,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-ru",

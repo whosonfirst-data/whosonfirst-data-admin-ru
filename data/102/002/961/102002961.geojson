@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.228319,
     "lbl:longitude":43.203249,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.228319,
     "mps:longitude":43.203249,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0644\u0648\u062f\u0627\u0631\u0633\u0643"
     ],
@@ -113,7 +116,7 @@
     "name:tur_x_preferred":[
         "Volodarsk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zolodary"
     ],
     "name:war_x_preferred":[
@@ -140,7 +143,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.233333,
     "wd:longitude":43.2,
@@ -155,7 +158,6 @@
     "wof:concordances":{
         "gn:id":472494,
         "gp:id":2124302,
-        "qs:id":388521,
         "qs_pg:id":388521,
         "wd:id":"Q133310",
         "wk:page":"Volodarsk, Russia"
@@ -171,7 +173,7 @@
         }
     ],
     "wof:id":102002961,
-    "wof:lastmodified":1563241546,
+    "wof:lastmodified":1566615689,
     "wof:name":"Volodarsk",
     "wof:parent_id":1108737609,
     "wof:placetype":"locality",

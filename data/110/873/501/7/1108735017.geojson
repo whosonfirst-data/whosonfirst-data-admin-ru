@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":57.77971,
     "lbl:longitude":44.041321,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kostromskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":44.041321,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u041c\u0430\u043a\u0430\u0440\u044c\u0435\u0432\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -87,16 +90,13 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u043a\u0430\u0440\u044c\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041c\u0430\u043a\u0430\u0440\u044c\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:zho_x_preferred":[
         "\u99ac\u5361\u91cc\u57c3\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"4781",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Makar'ev",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1108735017,
-    "wof:lastmodified":1563256924,
+    "wof:lastmodified":1566627125,
     "wof:name":"Makar'evskiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",

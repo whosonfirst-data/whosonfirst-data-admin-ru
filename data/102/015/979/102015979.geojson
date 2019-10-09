@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000717,
-    "geom:area_square_m":6338729.643204,
+    "geom:area_square_m":6338729.643207,
     "geom:bbox":"40.4815826416,44.336971283,40.5166130066,44.3678627014",
     "geom:latitude":44.351839,
     "geom:longitude":40.499139,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.35159,
     "lbl:longitude":40.498805,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.35159,
     "mps:longitude":40.498805,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Khamketinskaya"
     ],
@@ -25,9 +28,6 @@
         "Khamketinskaja"
     ],
     "name:rus_x_preferred":[
-        "\u0425\u0430\u043c\u043a\u0435\u0442\u0438\u043d\u0441\u043a\u0430\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u0425\u0430\u043c\u043a\u0435\u0442\u0438\u043d\u0441\u043a\u0430\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688029,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102015979,
-    "wof:lastmodified":1501214695,
+    "wof:lastmodified":1566614946,
     "wof:name":"Khamketinskaya",
     "wof:parent_id":890484187,
     "wof:placetype":"locality",

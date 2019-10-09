@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00072,
-    "geom:area_square_m":5280380.621511,
+    "geom:area_square_m":5280380.621513,
     "geom:bbox":"40.5929794312,53.5996398926,40.6407966614,53.637840271",
     "geom:latitude":53.617709,
     "geom:longitude":40.61949,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":53.615212,
     "lbl:longitude":40.615867,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.615212,
     "mps:longitude":40.615867,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041f\u0440\u043e\u043d\u0441\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pronsk"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +43,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":41,
     "wof:belongsto":[
         85687963,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":102004239,
-    "wof:lastmodified":1527637845,
+    "wof:lastmodified":1566615604,
     "wof:name":"Pronskoye",
     "wof:parent_id":1108737159,
     "wof:placetype":"locality",

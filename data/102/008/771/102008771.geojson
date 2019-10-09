@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000558,
-    "geom:area_square_m":3781862.437076,
+    "geom:area_square_m":3781862.437075,
     "geom:bbox":"55.7384986877,56.771194458,55.7804718018,56.7927780151",
     "geom:latitude":56.780998,
     "geom:longitude":55.758441,
     "iso:country":"RU",
     "lbl:latitude":56.779335,
     "lbl:longitude":55.758042,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.779335,
     "mps:longitude":55.758042,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0448"
     ],
@@ -34,9 +37,6 @@
     "name:tat_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0448"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u0430\u0440\u0430\u0448\u0438"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
     "qs:a1_lc":"5900200009800",
@@ -53,7 +53,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687975,
         102191581,
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":102008771,
-    "wof:lastmodified":1514503244,
+    "wof:lastmodified":1566615279,
     "wof:name":"Sarashi",
     "wof:parent_id":1108732891,
     "wof:placetype":"locality",

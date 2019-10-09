@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00038,
-    "geom:area_square_m":3404064.603679,
+    "geom:area_square_m":3404064.60368,
     "geom:bbox":"43.933429718,43.6291770935,43.9781951904,43.6439819336",
     "geom:latitude":43.63635,
     "geom:longitude":43.955682,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.636333,
     "lbl:longitude":43.955682,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.636333,
     "mps:longitude":43.955682,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Novoivanovskoye"
     ],
@@ -30,7 +33,7 @@
     "name:rus_x_variant":[
         "\u041d\u043e\u0432\u043e\u0438\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novoivanovka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688089,
         102191581,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102016275,
-    "wof:lastmodified":1501214586,
+    "wof:lastmodified":1566615435,
     "wof:name":"Novo-Ivanovskiy",
     "wof:parent_id":1108735015,
     "wof:placetype":"locality",

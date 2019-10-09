@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":57.630566,
     "lbl:longitude":66.114367,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tjumenskaja oblast'",
     "meso:admin1r_en":"Ural'skij federal'nyj okrug",
     "meso:admin_1":"\u0422\u044e\u043c\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":66.114367,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Nizhnetavdinskiy Rayon"
     ],
@@ -84,9 +87,6 @@
     "name:tat_x_preferred":[
         "\u0422\u04af\u0431\u04d9\u043d \u0422\u04d9\u04af\u0434\u0435 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
-    "name:und_x_variant":[
-        "\u041d\u0438\u0436\u043d\u0435\u0442\u0430\u0432\u0434\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Nizhnetavdinsky"
     ],
@@ -94,9 +94,9 @@
         "\u5c3c\u65e5\u6d85\u5854\u592b\u91d1\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"7379",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Nizhnaya Tavda",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1108735399,
-    "wof:lastmodified":1563256914,
+    "wof:lastmodified":1566627119,
     "wof:name":"Nizhnetavdinskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",

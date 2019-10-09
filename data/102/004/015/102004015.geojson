@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000617,
-    "geom:area_square_m":4479953.978573,
+    "geom:area_square_m":4479953.978571,
     "geom:bbox":"36.3389167786,54.0024452209,36.376914978,54.033000946",
     "geom:latitude":54.017423,
     "geom:longitude":36.356136,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.022407,
     "lbl:longitude":36.351674,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.022407,
     "mps:longitude":36.351674,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kuleshovo"
     ],
@@ -25,9 +28,6 @@
         "Kulesjovo"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0443\u043b\u0435\u0448\u043e\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0443\u043b\u0435\u0448\u043e\u0432\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688203,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102004015,
-    "wof:lastmodified":1501214653,
+    "wof:lastmodified":1566615572,
     "wof:name":"Kuleshovo",
     "wof:parent_id":1108736859,
     "wof:placetype":"locality",

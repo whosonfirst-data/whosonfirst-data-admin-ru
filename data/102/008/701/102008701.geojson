@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.980164,
     "lbl:longitude":52.192816,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.980164,
     "mps:longitude":52.192816,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "Uva"
     ],
@@ -47,7 +50,7 @@
     "name:swe_x_preferred":[
         "Uva"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Uya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":477656,
         "gp:id":2124122,
-        "qs:id":208155,
         "qs_pg:id":208155
     },
     "wof:country":"RU",
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":102008701,
-    "wof:lastmodified":1564108909,
+    "wof:lastmodified":1566615257,
     "wof:name":"Uva",
     "wof:parent_id":1108737275,
     "wof:placetype":"locality",

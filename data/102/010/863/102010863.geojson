@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000553,
-    "geom:area_square_m":4158540.169029,
+    "geom:area_square_m":4158540.169033,
     "geom:bbox":"52.8638343811,52.4973068237,52.9158592224,52.5140838623",
     "geom:latitude":52.506673,
     "geom:longitude":52.888746,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.506873,
     "lbl:longitude":52.888298,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.506873,
     "mps:longitude":52.888298,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kirsanovka"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0438\u0440\u0441\u0430\u043d\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kirsanovo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -43,7 +46,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688081,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102010863,
-    "wof:lastmodified":1501214684,
+    "wof:lastmodified":1566615509,
     "wof:name":"Kirsanovka",
     "wof:parent_id":1108737047,
     "wof:placetype":"locality",

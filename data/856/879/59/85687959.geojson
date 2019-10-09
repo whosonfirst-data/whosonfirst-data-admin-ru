@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":57.907539,
     "lbl:longitude":39.274603,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Yaroslavl'",
     "meso:name_alt2":"JAroslavskaja oblast'",
     "meso:name_local":"\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -300,9 +301,6 @@
     ],
     "name:und_x_variant":[
         "JAroslavskaja oblast'",
-        "Yaroslavl'"
-    ],
-    "name:unk_x_variant":[
         "Yaroslavl\u2019 Oblast"
     ],
     "name:urd_x_preferred":[
@@ -395,9 +393,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"36,400",
     "statoids:area_mi":"14,100",
     "statoids:as_of_date":"2010-10-14",
@@ -459,11 +457,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734429,
+    "wof:lastmodified":1566618553,
     "wof:name":"Yaroslavl",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":1272468,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

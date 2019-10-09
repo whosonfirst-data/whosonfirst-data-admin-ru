@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.960786,
     "lbl:longitude":43.41702,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.960786,
     "mps:longitude":43.41702,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u064a\u0646\u0633\u0643\u064a"
     ],
@@ -115,7 +118,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0454\u043b\u0456\u043d\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chembar"
     ],
     "name:war_x_preferred":[
@@ -145,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -157,7 +160,6 @@
     "wof:concordances":{
         "gn:id":578045,
         "gp:id":2120224,
-        "qs:id":125737,
         "qs_pg:id":125737,
         "wd:id":"Q104713",
         "wk:page":"Belinsky, Penza Oblast"
@@ -173,7 +175,7 @@
         }
     ],
     "wof:id":102004553,
-    "wof:lastmodified":1563241288,
+    "wof:lastmodified":1566615595,
     "wof:name":"Belinskiy",
     "wof:parent_id":1108732933,
     "wof:placetype":"locality",

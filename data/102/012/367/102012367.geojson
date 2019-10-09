@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":54.99444,
     "lbl:longitude":60.095291,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":54.99444,
     "mps:longitude":60.095291,
     "mz:hierarchy_label":1,
@@ -201,9 +203,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0430\u0441"
     ],
-    "name:unk_x_variant":[
-        "\u041c\u0438\u0430\u0441\u0441"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0627\u0633"
     ],
@@ -326,7 +325,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.05,
     "wd:longitude":60.1,
@@ -340,7 +339,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1498894,
-        "qs:id":132931,
         "qs_pg:id":132931,
         "wd:id":"Q105455",
         "wk:page":"Miass"
@@ -356,7 +354,7 @@
         }
     ],
     "wof:id":102012367,
-    "wof:lastmodified":1563239906,
+    "wof:lastmodified":1566615010,
     "wof:name":"Miass",
     "wof:parent_id":1108735125,
     "wof:placetype":"locality",

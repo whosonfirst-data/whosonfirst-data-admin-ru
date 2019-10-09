@@ -11,10 +11,14 @@
     "geom:longitude":31.47915,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":13090,
+    "gn:population":13090,
     "iso:country":"RU",
+    "lbl:bbox":"31.45915,61.5534,31.49915,61.5934",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u0643\u064a\u0627\u0631\u0627\u0646\u062a\u0627"
     ],
@@ -117,9 +121,6 @@
     "name:tur_x_preferred":[
         "Pitkyaranta"
     ],
-    "name:unk_x_variant":[
-        "\u041f\u0438\u0442\u043a\u044f\u0440\u0430\u043d\u0442\u0430"
-    ],
     "name:vep_x_preferred":[
         "Pit'krand"
     ],
@@ -148,7 +149,7 @@
     "wof:concordances":{
         "gn:id":509234,
         "gp:id":2122889,
-        "qs:id":124995,
+        "qs_pg:id":124995,
         "wd:id":"Q179454",
         "wk:page":"Pitkyaranta"
     },
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":890478769,
-    "wof:lastmodified":1563261900,
+    "wof:lastmodified":1566630501,
     "wof:name":"Pitkyaranta",
     "wof:parent_id":1108735879,
     "wof:placetype":"locality",

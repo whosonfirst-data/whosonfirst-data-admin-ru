@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":54.112516,
     "lbl:longitude":102.186539,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Irkutskaja oblast'",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u0418\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":102.186539,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Sajansk"
     ],
@@ -60,7 +63,7 @@
         "\u0421\u0430\u044f\u043d\u0441\u043a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688173,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108736363,
-    "wof:lastmodified":1561582088,
+    "wof:lastmodified":1566627317,
     "wof:name":"Sajansk",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

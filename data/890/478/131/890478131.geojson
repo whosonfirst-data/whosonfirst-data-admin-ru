@@ -11,10 +11,13 @@
     "geom:longitude":46.5825,
     "gn:country":"RU",
     "gn:fcode":"PPLX",
-    "gn:pop":6815,
+    "gn:population":6815,
     "iso:country":"RU",
+    "lbl:bbox":"46.5775,44.38111,46.5875,44.39111",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:eng_x_preferred":[
         "Kochubey"
     ],
@@ -22,9 +25,6 @@
         "Kotsjubej"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u043e\u0447\u0443\u0431\u0435\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u043e\u0447\u0443\u0431\u0435\u0439"
     ],
     "qs:name":"Kochubey",
@@ -43,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":868355,
-        "qs:id":129772,
+        "qs_pg:id":129772,
         "wk:page":"Kochubey"
     },
     "wof:country":"RU",
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890478131,
-    "wof:lastmodified":1527727119,
+    "wof:lastmodified":1566630500,
     "wof:name":"Kochubey",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

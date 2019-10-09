@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00251,
-    "geom:area_square_m":21786644.727253,
+    "geom:area_square_m":21786644.727246,
     "geom:bbox":"37.8998336792,45.3894462585,37.9896125793,45.453414917",
     "geom:latitude":45.419038,
     "geom:longitude":37.945814,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.415115,
     "lbl:longitude":37.948866,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.415115,
     "mps:longitude":37.948866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Petrovskaya"
     ],
@@ -26,9 +29,6 @@
         "Petrovskaja"
     ],
     "name:rus_x_preferred":[
-        "\u041f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u0430\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":163,
     "wof:belongsto":[
@@ -62,7 +62,6 @@
     "wof:concordances":{
         "gn:id":509985,
         "gp:id":2122861,
-        "qs:id":1305824,
         "qs_pg:id":1305824
     },
     "wof:country":"RU",
@@ -76,7 +75,7 @@
         }
     ],
     "wof:id":102007823,
-    "wof:lastmodified":1527637036,
+    "wof:lastmodified":1566615182,
     "wof:name":"Petrovskaya",
     "wof:parent_id":1108736647,
     "wof:placetype":"locality",

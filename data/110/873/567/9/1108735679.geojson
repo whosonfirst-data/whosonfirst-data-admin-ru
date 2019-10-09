@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":56.418861,
     "lbl:longitude":67.705106,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tjumenskaja oblast'",
     "meso:admin1r_en":"Ural'skij federal'nyj okrug",
     "meso:admin_1":"\u0422\u044e\u043c\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":67.705106,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Omutinskiy Rayon"
     ],
@@ -87,9 +90,6 @@
     "name:tat_x_preferred":[
         "\u041e\u043c\u0443\u0442\u0438\u043d\u0441\u043a\u043e\u0435 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
-    "name:und_x_variant":[
-        "\u041e\u043c\u0443\u0442\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Omutinsky"
     ],
@@ -97,9 +97,9 @@
         "\u5967\u7a46\u4eac\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2726",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Omutinskiy",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1108735679,
-    "wof:lastmodified":1563256490,
+    "wof:lastmodified":1566626850,
     "wof:name":"Omutinskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",

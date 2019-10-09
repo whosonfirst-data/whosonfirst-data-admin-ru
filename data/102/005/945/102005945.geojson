@@ -9,17 +9,20 @@
     "geom:bbox":"40.0024719238,51.0746116638,40.0876960754,51.1266098022",
     "geom:latitude":51.10304,
     "geom:longitude":40.045527,
-    "geonames:id":"575948,463729",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":20587,
+    "gn:id":"575948,463729",
+    "gn:population":20587,
     "iso:country":"RU",
     "lbl:latitude":51.100659,
     "lbl:longitude":40.042622,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.100659,
     "mps:longitude":40.042622,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0628\u0631\u0648\u0641"
     ],
@@ -119,7 +122,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0431\u0440\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Borrov"
     ],
     "name:war_x_preferred":[
@@ -151,7 +154,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":77,
     "wof:belongsto":[
@@ -165,7 +168,7 @@
     "wof:concordances":{
         "gn:id":575948,
         "gp:id":2120322,
-        "qs:id":125716,
+        "qs_pg:id":125716,
         "wd:id":"Q105215",
         "wk:page":"Bobrov"
     },
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":102005945,
-    "wof:lastmodified":1563241422,
+    "wof:lastmodified":1566615658,
     "wof:name":"Bobrov",
     "wof:parent_id":1108733023,
     "wof:placetype":"locality",

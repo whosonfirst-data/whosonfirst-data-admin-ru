@@ -11,10 +11,14 @@
     "geom:longitude":29.95018,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":9606,
+    "gn:population":9606,
     "iso:country":"RU",
+    "lbl:bbox":"29.93018,57.53166,29.97018,57.57166",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u062f\u0648\u0641\u064a\u062a\u0634\u064a\u060c \u0628\u0633\u0643\u0648\u0641"
     ],
@@ -66,9 +70,6 @@
     "name:srp_x_preferred":[
         "\u0414\u0435\u0434\u043e\u0432\u0438\u0447\u0438"
     ],
-    "name:unk_x_variant":[
-        "\u0414\u0435\u0434\u043e\u0432\u0438\u0447\u0438"
-    ],
     "qs:name":"Dedovichi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -86,7 +87,7 @@
     "wof:concordances":{
         "gn:id":566868,
         "gp:id":2120622,
-        "qs:id":80973,
+        "qs_pg:id":80973,
         "wd:id":"Q989537",
         "wk:page":"Dedovichi"
     },
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":890478583,
-    "wof:lastmodified":1563261955,
+    "wof:lastmodified":1566630519,
     "wof:name":"Dedovichi",
     "wof:parent_id":1108733353,
     "wof:placetype":"locality",

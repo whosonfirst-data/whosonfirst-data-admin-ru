@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":55.833016,
     "lbl:longitude":47.512741,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"CHuvashija",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0427\u0443\u0432\u0430\u0448\u0438\u044f",
@@ -53,6 +55,7 @@
     "mps:longitude":47.512741,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u0426\u0438\u0432\u0438\u043b\u044c\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -96,9 +99,6 @@
     "name:ukr_x_preferred":[
         "\u0426\u0438\u0432\u0456\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0426\u0438\u0432\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Tsivilsky"
     ],
@@ -109,9 +109,9 @@
         "\u9f4a\u7dad\u5229\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"791",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Tsivil'sk",
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":1108733315,
-    "wof:lastmodified":1563256492,
+    "wof:lastmodified":1566626852,
     "wof:name":"Civil'skiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",

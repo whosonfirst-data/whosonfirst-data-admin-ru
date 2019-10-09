@@ -11,10 +11,13 @@
     "geom:longitude":20.11396,
     "gn:country":"RU",
     "gn:fcode":"PPLX",
-    "gn:pop":1500,
+    "gn:population":1500,
     "iso:country":"RU",
+    "lbl:bbox":"20.10896,54.93614,20.11896,54.94614",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:deu_x_preferred":[
         "Otradny"
     ],
@@ -33,9 +36,6 @@
     "name:sco_x_preferred":[
         "Otradny"
     ],
-    "name:unk_x_variant":[
-        "\u041e\u0442\u0440\u0430\u0434\u043d\u043e\u0435"
-    ],
     "qs:name":"Otradnoye",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -52,7 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":825214,
-        "qs:id":554146,
+        "qs_pg:id":554146,
         "wk:page":"Otradny"
     },
     "wof:country":"RU",
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":890480765,
-    "wof:lastmodified":1564129331,
+    "wof:lastmodified":1566630949,
     "wof:name":"Otradnoye",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

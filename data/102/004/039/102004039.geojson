@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.973283,
     "lbl:longitude":38.526843,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":53.973283,
     "mps:longitude":38.526843,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0645\u0648\u0641\u0633\u0643"
     ],
@@ -106,7 +109,7 @@
     "name:tur_x_preferred":[
         "Kimovsk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mikhaylovka"
     ],
     "name:vie_x_preferred":[
@@ -136,7 +139,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.966667,
     "wd:longitude":38.533333,
@@ -151,7 +154,6 @@
     "wof:concordances":{
         "gn:id":548658,
         "gp:id":2121368,
-        "qs:id":210980,
         "qs_pg:id":210980,
         "wd:id":"Q146419",
         "wk:page":"Kimovsk"
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":102004039,
-    "wof:lastmodified":1563241262,
+    "wof:lastmodified":1566615585,
     "wof:name":"Kimovsk",
     "wof:parent_id":1108734421,
     "wof:placetype":"locality",

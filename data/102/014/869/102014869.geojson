@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000242,
-    "geom:area_square_m":1903803.866442,
+    "geom:area_square_m":1903803.866441,
     "geom:bbox":"113.872001648,50.5623321533,113.891418457,50.585193634",
     "geom:latitude":50.573341,
     "geom:longitude":113.882675,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.573313,
     "lbl:longitude":113.882822,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.573313,
     "mps:longitude":113.882822,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chindaley"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688005,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102014869,
-    "wof:lastmodified":1501225175,
+    "wof:lastmodified":1566615105,
     "wof:name":"Chindaley",
     "wof:parent_id":890484305,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.544364,
     "lbl:longitude":36.383084,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.544364,
     "mps:longitude":36.383084,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0414\u043e\u0440\u0430\u0445\u0430\u0432\u0430"
     ],
@@ -37,7 +40,7 @@
     "name:rus_x_preferred":[
         "\u0414\u043e\u0440\u043e\u0445\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dorochowo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":214,
     "wof:belongsto":[
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":565172,
         "gp:id":2120695,
-        "qs:id":1291613,
         "qs_pg:id":1291613,
         "wd:id":"Q4167029"
     },
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":102003293,
-    "wof:lastmodified":1563241121,
+    "wof:lastmodified":1566615532,
     "wof:name":"Dorokhovo",
     "wof:parent_id":890484215,
     "wof:placetype":"locality",

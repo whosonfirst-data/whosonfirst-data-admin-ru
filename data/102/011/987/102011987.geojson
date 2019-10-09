@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":56.453733,
     "lbl:longitude":60.193024,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":56.453733,
     "mps:longitude":60.193024,
     "mz:hierarchy_label":1,
@@ -134,7 +136,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u0435\u0432\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tolevskoy"
     ],
     "name:vep_x_preferred":[
@@ -259,7 +261,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.45,
     "wd:longitude":60.183333,
@@ -274,10 +276,12 @@
     "wof:concordances":{
         "gn:id":1494573,
         "gp:id":2068881,
-        "qs:id":1031458,
-        "qs_pg:id":1126210,
+        "qs_pg:id":1031458,
         "wd:id":"Q182871",
         "wk:page":"Polevskoy"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1126210
     },
     "wof:country":"RU",
     "wof:geomhash":"eeea5c6c92822cc0adfbb4b935a2c263",
@@ -290,7 +294,7 @@
         }
     ],
     "wof:id":102011987,
-    "wof:lastmodified":1563240842,
+    "wof:lastmodified":1566615419,
     "wof:name":"Polevskoy",
     "wof:parent_id":1108735919,
     "wof:placetype":"locality",

@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":56.205677,
     "lbl:longitude":95.7038,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Krasnojarskij kraj",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":95.7038,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u0633\u0643"
     ],
@@ -164,9 +167,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043d\u0441\u044c\u043a"
     ],
-    "name:und_x_variant":[
-        "\u041a\u0430\u043d\u0441\u043a"
-    ],
     "name:vep_x_preferred":[
         "Kansk"
     ],
@@ -180,7 +180,7 @@
         "\u574e\u65af\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688139,
@@ -202,7 +202,7 @@
         }
     ],
     "wof:id":1108734257,
-    "wof:lastmodified":1564124390,
+    "wof:lastmodified":1566626934,
     "wof:name":"Kansk",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

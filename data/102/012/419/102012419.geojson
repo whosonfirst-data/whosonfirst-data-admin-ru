@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000593,
-    "geom:area_square_m":4226510.835555,
+    "geom:area_square_m":4226510.835556,
     "geom:bbox":"61.5763893127,54.8112487793,61.6093330383,54.8408622742",
     "geom:latitude":54.826457,
     "geom:longitude":61.593039,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.823871,
     "lbl:longitude":61.591391,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.823871,
     "mps:longitude":61.591391,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Yetkul'"
     ],
@@ -26,7 +29,7 @@
     "name:rus_x_preferred":[
         "\u0415\u0442\u043a\u0443\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yetkul\u2019"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -45,7 +48,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687791,
@@ -58,7 +61,7 @@
     "wof:concordances":{
         "gn:id":1485849,
         "gp:id":2113703,
-        "qs:id":845517
+        "qs_pg:id":845517
     },
     "wof:country":"RU",
     "wof:geomhash":"bf6a45edac0e67e108c7a72fa35af431",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":102012419,
-    "wof:lastmodified":1505338939,
+    "wof:lastmodified":1566615013,
     "wof:name":"Yetkul'",
     "wof:parent_id":1108733521,
     "wof:placetype":"locality",

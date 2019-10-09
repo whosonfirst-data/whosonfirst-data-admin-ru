@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.400474,
     "lbl:longitude":83.656838,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.400474,
     "mps:longitude":83.656838,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ust'-Charyshskaya Pristan'"
     ],
@@ -52,7 +55,7 @@
     "name:rus_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u0427\u0430\u0440\u044b\u0448\u0441\u043a\u0430\u044f \u041f\u0440\u0438\u0441\u0442\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ust\u2019-Charysh"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -71,7 +74,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.4,
     "wd:longitude":83.65,
@@ -87,7 +90,7 @@
     "wof:concordances":{
         "gn:id":1488235,
         "gp:id":2101359,
-        "qs:id":194415,
+        "qs_pg:id":194415,
         "wd:id":"Q4478585",
         "wk:page":"Ust-Charyshskaya Pristan"
     },
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":102013627,
-    "wof:lastmodified":1563239984,
+    "wof:lastmodified":1566615044,
     "wof:name":"Ust Charyshskaya Pristan",
     "wof:parent_id":1108737255,
     "wof:placetype":"locality",

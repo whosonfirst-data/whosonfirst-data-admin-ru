@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000245,
-    "geom:area_square_m":1849271.9195,
+    "geom:area_square_m":1849271.919499,
     "geom:bbox":"45.8941955566,52.335723877,45.9177513123,52.3524703979",
     "geom:latitude":52.344263,
     "geom:longitude":45.905886,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.344377,
     "lbl:longitude":45.90611,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.344377,
     "mps:longitude":45.90611,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0411\u043e\u043e-\u0422\u0435\u0440\u0435\u043a"
     ],
@@ -30,7 +33,7 @@
     "name:tat_x_preferred":[
         "\u0411\u043e\u043e-\u0422\u0435\u0440\u0435\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Klyuch\u00ebvka"
     ],
     "name:uzb_x_preferred":[
@@ -52,7 +55,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687995,
         102191581,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":102010921,
-    "wof:lastmodified":1513814078,
+    "wof:lastmodified":1566615513,
     "wof:name":"Klyuchevka",
     "wof:parent_id":1108735487,
     "wof:placetype":"locality",

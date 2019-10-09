@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":56.540335,
     "lbl:longitude":57.662715,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Sverdlovskaja oblast'",
     "meso:admin1r_en":"Ural'skij federal'nyj okrug",
     "meso:admin_1":"\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":57.662715,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u0627\u0633\u0646\u0648\u0641\u0627\u064a\u0645\u0633\u0643"
     ],
@@ -156,7 +159,7 @@
         "\u514b\u62c9\u65af\u8afe\u70cf\u83f2\u59c6\u65af\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688183,
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":1108733797,
-    "wof:lastmodified":1564124439,
+    "wof:lastmodified":1566627042,
     "wof:name":"Krasnoufimsk",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

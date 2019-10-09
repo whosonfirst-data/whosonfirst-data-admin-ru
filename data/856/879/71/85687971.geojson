@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":63.574057,
     "lbl:longitude":43.053416,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Arkhangel'sk",
     "meso:name_alt2":"Arkhangel'skaja oblast'",
     "meso:name_local":"\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -282,9 +283,6 @@
     ],
     "name:und_x_variant":[
         "Arkhangel'skaja oblast'",
-        "Arkhangel'sk"
-    ],
-    "name:unk_x_variant":[
         "Arkhangel\u2019skaya Oblast\u2019"
     ],
     "name:urd_x_preferred":[
@@ -379,9 +377,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"410,700",
     "statoids:area_mi":"158,600",
     "statoids:as_of_date":"2010-10-14",
@@ -394,7 +392,6 @@
     "statoids:population":"1185536",
     "statoids:timezone":"+3",
     "statoids:type":"region",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191581,
         85632685,
@@ -444,11 +441,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734437,
+    "wof:lastmodified":1566618570,
     "wof:name":"Arkhangelsk",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":1185536,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

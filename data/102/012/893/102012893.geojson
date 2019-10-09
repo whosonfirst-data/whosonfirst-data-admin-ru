@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000824,
-    "geom:area_square_m":5814118.900647,
+    "geom:area_square_m":5814118.900648,
     "geom:bbox":"81.9164199829,55.200668335,81.9686355591,55.2242240906",
     "geom:latitude":55.211048,
     "geom:longitude":81.943552,
     "iso:country":"RU",
     "lbl:latitude":55.213184,
     "lbl:longitude":81.951384,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.213184,
     "mps:longitude":81.951384,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Novomikhaylovka"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mikhaylovskiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +43,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687925,
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":102012893,
-    "wof:lastmodified":1501220027,
+    "wof:lastmodified":1566614998,
     "wof:name":"Novomikhaylovka",
     "wof:parent_id":1108734509,
     "wof:placetype":"locality",

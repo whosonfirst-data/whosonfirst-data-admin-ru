@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":59.056025,
     "lbl:longitude":57.649603,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.056025,
     "mps:longitude":57.649603,
     "mz:hierarchy_label":1,
@@ -251,7 +253,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":59.05,
     "wd:longitude":57.65,
@@ -266,7 +268,6 @@
     "wof:concordances":{
         "gn:id":547875,
         "gp:id":2121412,
-        "qs:id":1242843,
         "qs_pg:id":1242843,
         "wd:id":"Q145735",
         "wk:page":"Kizel"
@@ -282,7 +283,7 @@
         }
     ],
     "wof:id":102008219,
-    "wof:lastmodified":1563240431,
+    "wof:lastmodified":1566615266,
     "wof:name":"Kizel",
     "wof:parent_id":1108734465,
     "wof:placetype":"locality",

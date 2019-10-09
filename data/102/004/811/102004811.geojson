@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002201,
-    "geom:area_square_m":16564383.745329,
+    "geom:area_square_m":16564383.74533,
     "geom:bbox":"39.4801101685,52.4743347168,39.5440292358,52.5431098938",
     "geom:latitude":52.510562,
     "geom:longitude":39.510445,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.508985,
     "lbl:longitude":39.508289,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.508985,
     "mps:longitude":39.508289,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Troitskoye"
     ],
@@ -25,9 +28,6 @@
         "Troitskoje"
     ],
     "name:rus_x_preferred":[
-        "\u0422\u0440\u043e\u0438\u0446\u043a\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u0422\u0440\u043e\u0438\u0446\u043a\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":95,
     "wof:belongsto":[
         85687917,
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":102004811,
-    "wof:lastmodified":1527637841,
+    "wof:lastmodified":1566615573,
     "wof:name":"Troitskoye",
     "wof:parent_id":1108734951,
     "wof:placetype":"locality",

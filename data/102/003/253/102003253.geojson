@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":55.573841,
     "lbl:longitude":42.042045,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":55.573841,
     "mps:longitude":42.042045,
     "mz:hierarchy_label":1,
@@ -230,7 +232,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0440\u043e\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Murom am Oka"
     ],
     "name:urd_x_preferred":[
@@ -361,7 +363,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.5725,
     "wd:longitude":42.051389,
@@ -376,7 +378,6 @@
     "wof:concordances":{
         "gn:id":524294,
         "gp:id":2122299,
-        "qs:id":1091295,
         "qs_pg:id":1091295,
         "wd:id":"Q162677",
         "wk:page":"Murom"
@@ -392,7 +393,7 @@
         }
     ],
     "wof:id":102003253,
-    "wof:lastmodified":1563241186,
+    "wof:lastmodified":1566615555,
     "wof:name":"Murom",
     "wof:parent_id":1108735283,
     "wof:placetype":"locality",

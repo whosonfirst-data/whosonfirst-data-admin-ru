@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":51.856841,
     "lbl:longitude":56.35426,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Orenburgskaja oblast'",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":56.35426,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bak_x_preferred":[
         "\u04ba\u0430\u0440\u044b\u04a1\u0442\u0430\u0448 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
@@ -96,9 +99,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043a\u0442\u0430\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0421\u0430\u0440\u0430\u043a\u0442\u0430\u0448\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Saraktashsky"
     ],
@@ -106,9 +106,9 @@
         "\u85a9\u62c9\u514b\u5854\u4ec0\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"3542",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Saraktash",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":1108736389,
-    "wof:lastmodified":1563257228,
+    "wof:lastmodified":1566627311,
     "wof:name":"Saraktashskiy",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

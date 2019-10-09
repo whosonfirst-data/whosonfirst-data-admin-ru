@@ -10,8 +10,10 @@
     "geom:latitude":55.755563,
     "geom:longitude":37.625805,
     "iso:country":"RU",
+    "lbl:bbox":"37.6208049238,55.7505630468,37.6308049238,55.7605630468",
     "lbl:latitude":55.755563,
     "lbl:longitude":37.625805,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -75,7 +77,7 @@
     "name:zho_x_preferred":[
         "\u57fa\u6cf0\u683c\u7f85\u5fb7"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85632685,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108942687,
-    "wof:lastmodified":1563257374,
+    "wof:lastmodified":1566627407,
     "wof:name":"Kitay-Gorod",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

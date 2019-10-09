@@ -11,11 +11,15 @@
     "geom:longitude":46.48281,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":4463,
+    "gn:population":4463,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"46.46281,43.09952,46.50281,43.13952",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ava_x_preferred":[
         "\u0426\u0406\u0438\u044f\u0431\u043b\u0430\u043a \u043c\u0443\u0445\u044a"
     ],
@@ -73,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043b\u0430\u043a\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Banay-Aul"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +109,7 @@
     "wof:concordances":{
         "gn:id":518648,
         "gp:id":2055860,
-        "qs:id":447380,
+        "qs_pg:id":447380,
         "wd:id":"Q1439254",
         "wk:page":"Novolaksky District"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":890482845,
-    "wof:lastmodified":1563262112,
+    "wof:lastmodified":1566630579,
     "wof:name":"Novolakskoye",
     "wof:parent_id":890480713,
     "wof:placetype":"locality",

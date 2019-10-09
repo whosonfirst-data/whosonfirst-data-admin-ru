@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":56.707203,
     "lbl:longitude":49.847807,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Marij EHl",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u041c\u0430\u0440\u0438\u0439 \u042d\u043b",
@@ -53,6 +55,7 @@
     "mps:longitude":49.847807,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Mari-Turekskiy Rayon"
     ],
@@ -102,9 +105,6 @@
     "name:tgl_x_preferred":[
         "Mari-Turekskij rajon"
     ],
-    "name:und_x_variant":[
-        "\u041c\u0430\u0440\u0438-\u0422\u0443\u0440\u0435\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Mari-Tureksky"
     ],
@@ -112,9 +112,9 @@
         "\u99ac\u91cc-\u5716\u5217\u514b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"3288",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Mari-Turek",
@@ -148,7 +148,7 @@
         }
     ],
     "wof:id":1108735059,
-    "wof:lastmodified":1563256520,
+    "wof:lastmodified":1566626869,
     "wof:name":"Mari-Turekskiy",
     "wof:parent_id":85688043,
     "wof:placetype":"county",

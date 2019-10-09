@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000429,
-    "geom:area_square_m":3717666.871383,
+    "geom:area_square_m":3717666.871382,
     "geom:bbox":"41.6476097107,45.4410552979,41.680305481,45.4678611755",
     "geom:latitude":45.453961,
     "geom:longitude":41.664969,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.457734,
     "lbl:longitude":41.670666,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.457734,
     "mps:longitude":41.670666,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Tishchenskoye"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0422\u0438\u0449\u0435\u043d\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gishchenskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +52,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687825
+        85687825,
+        1108734061
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":482742,
         "gp:id":2095970,
-        "qs:id":1304954,
         "qs_pg:id":1304954
     },
     "wof:country":"RU",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102007813,
-    "wof:lastmodified":1505338928,
+    "wof:lastmodified":1566615187,
     "wof:name":"Tishchenskoye",
     "wof:parent_id":1108734061,
     "wof:placetype":"locality",

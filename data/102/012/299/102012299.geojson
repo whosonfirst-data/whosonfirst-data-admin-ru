@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.225263,
     "lbl:longitude":63.27849,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.225263,
     "mps:longitude":63.27849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0634\u0648\u0645\u064a\u062e\u0627"
     ],
@@ -119,9 +122,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0443\u043c\u0438\u0445\u0430"
     ],
-    "name:unk_x_variant":[
-        "Schumicha"
-    ],
     "name:vep_x_preferred":[
         "\u0160umih"
     ],
@@ -149,7 +149,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -161,7 +161,6 @@
     "wof:concordances":{
         "gn:id":1491999,
         "gp:id":2123469,
-        "qs:id":132842,
         "qs_pg:id":132842,
         "wd:id":"Q145993",
         "wk:page":"Shumikha, Kurgan Oblast"
@@ -177,7 +176,7 @@
         }
     ],
     "wof:id":102012299,
-    "wof:lastmodified":1563239939,
+    "wof:lastmodified":1566615025,
     "wof:name":"Shumikha",
     "wof:parent_id":1108736611,
     "wof:placetype":"locality",

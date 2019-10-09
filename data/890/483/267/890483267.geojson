@@ -11,11 +11,15 @@
     "geom:longitude":34.15616,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"34.13616,53.25451,34.17616,53.29451",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Merkul'yevo"
     ],
@@ -23,9 +27,6 @@
         "Merkuljevo"
     ],
     "name:rus_x_preferred":[
-        "\u041c\u0435\u0440\u043a\u0443\u043b\u044c\u0435\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u041c\u0435\u0440\u043a\u0443\u043b\u044c\u0435\u0432\u043e"
     ],
     "qs:name":"Merkul'yevo",
@@ -47,7 +48,7 @@
     "wof:concordances":{
         "gn:id":527476,
         "gp:id":2045042,
-        "qs:id":905150
+        "qs_pg:id":905150
     },
     "wof:country":"RU",
     "wof:created":1469054457,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":890483267,
-    "wof:lastmodified":1505343758,
+    "wof:lastmodified":1566630638,
     "wof:name":"Merkul'yevo",
     "wof:parent_id":1108733109,
     "wof:placetype":"locality",

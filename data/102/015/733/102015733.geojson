@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000797,
-    "geom:area_square_m":6989051.094308,
+    "geom:area_square_m":6989051.094307,
     "geom:bbox":"44.2164421082,44.8021354675,44.2722969055,44.8218917847",
     "geom:latitude":44.811924,
     "geom:longitude":44.246221,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.812727,
     "lbl:longitude":44.249545,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.812727,
     "mps:longitude":44.249545,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Pokoynoye"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041f\u043e\u043a\u043e\u0439\u043d\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pokoinoe"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687825,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":507612,
         "gp:id":2068366,
-        "qs:id":549321
+        "qs_pg:id":549321
     },
     "wof:country":"RU",
     "wof:geomhash":"7354a13f67e48f7a1a3110160ddcf42d",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102015733,
-    "wof:lastmodified":1505338947,
+    "wof:lastmodified":1566614953,
     "wof:name":"",
     "wof:parent_id":1108733115,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.375689,
     "lbl:longitude":133.899586,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.375689,
     "mps:longitude":133.899586,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lazo"
     ],
@@ -49,7 +52,7 @@
     "name:tat_x_preferred":[
         "\u041b\u0430\u0437\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vangou"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":65,
     "wof:belongsto":[
@@ -86,7 +89,6 @@
     "wof:concordances":{
         "gn:id":2020888,
         "gp:id":2121872,
-        "qs:id":277796,
         "qs_pg:id":277796,
         "wd:id":"Q4253027"
     },
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":102001769,
-    "wof:lastmodified":1563240586,
+    "wof:lastmodified":1566615319,
     "wof:name":"Lazo",
     "wof:parent_id":1108734891,
     "wof:placetype":"locality",

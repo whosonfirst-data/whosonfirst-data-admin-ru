@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001677,
-    "geom:area_square_m":11722914.32751,
+    "geom:area_square_m":11722914.327508,
     "geom:bbox":"38.4393730164,55.5633926392,38.523563385,55.6008148193",
     "geom:latitude":55.583066,
     "geom:longitude":38.490409,
@@ -15,14 +15,17 @@
     "iso:country":"RU",
     "lbl:latitude":55.579099,
     "lbl:longitude":38.500933,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.579099,
     "mps:longitude":38.500933,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0445\u0430\u0440\u0438\u0442\u043e\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novokharitonovo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -41,7 +44,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688161,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":102003265,
-    "wof:lastmodified":1505338918,
+    "wof:lastmodified":1566615556,
     "wof:name":"Novokhritonovo",
     "wof:parent_id":890482739,
     "wof:placetype":"locality",

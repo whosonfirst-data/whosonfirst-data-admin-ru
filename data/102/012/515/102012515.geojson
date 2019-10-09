@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000312,
-    "geom:area_square_m":2268367.364519,
+    "geom:area_square_m":2268367.364521,
     "geom:bbox":"74.0122756958,53.9964447021,74.0352478027,54.0178070068",
     "geom:latitude":54.006612,
     "geom:longitude":74.025406,
     "iso:country":"RU",
     "lbl:latitude":54.006687,
     "lbl:longitude":74.025625,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.006687,
     "mps:longitude":74.025625,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yuzhnoye"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u042e\u0436\u043d\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pavlogradskiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":83,
     "wof:belongsto":[
         85688189,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102012515,
-    "wof:lastmodified":1527636476,
+    "wof:lastmodified":1566615032,
     "wof:name":"Yuzhnoye",
     "wof:parent_id":1108735781,
     "wof:placetype":"locality",

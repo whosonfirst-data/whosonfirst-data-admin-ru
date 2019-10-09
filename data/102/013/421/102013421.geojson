@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000804,
-    "geom:area_square_m":5975230.314328,
+    "geom:area_square_m":5975230.314322,
     "geom:bbox":"80.0930252075,53.028213501,80.1787872314,53.0590858459",
     "geom:latitude":53.041777,
     "geom:longitude":80.135059,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.04009,
     "lbl:longitude":80.135708,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.04009,
     "mps:longitude":80.135708,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dolino-Chernavka"
     ],
@@ -30,7 +33,7 @@
     "name:rus_x_variant":[
         "\u0414\u043e\u043b\u0438\u043d\u043e-\u0427\u0435\u0440\u043d\u0430\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chernovskiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -45,7 +48,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687835,
         102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102013421,
-    "wof:lastmodified":1501220060,
+    "wof:lastmodified":1566615067,
     "wof:name":"Dolino-Chernavka",
     "wof:parent_id":1108733019,
     "wof:placetype":"locality",

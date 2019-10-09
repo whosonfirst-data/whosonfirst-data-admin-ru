@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":53.019772,
     "lbl:longitude":85.661961,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Altajskij kraj",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":85.661961,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Celinnyj"
     ],
@@ -63,9 +66,9 @@
         "\u0426\u0435\u043b\u0438\u043d\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2870",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Tselinnoye",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108733161,
-    "wof:lastmodified":1561582097,
+    "wof:lastmodified":1566627345,
     "wof:name":"Celinnyj",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

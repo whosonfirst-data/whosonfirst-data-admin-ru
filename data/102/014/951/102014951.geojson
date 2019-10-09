@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001475,
-    "geom:area_square_m":11742092.57105,
+    "geom:area_square_m":11742092.571055,
     "geom:bbox":"116.816497803,49.9077758789,116.874137878,49.9483337402",
     "geom:latitude":49.926839,
     "geom:longitude":116.843684,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":49.92549,
     "lbl:longitude":116.846031,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.92549,
     "mps:longitude":116.846031,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Dauriya"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0414\u0430\u0443\u0440\u0438\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Daurskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +52,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688005
+        85688005,
+        1108737787
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2025099,
         "gp:id":2000328,
-        "qs:id":437489,
         "qs_pg:id":437489
     },
     "wof:country":"RU",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102014951,
-    "wof:lastmodified":1505338945,
+    "wof:lastmodified":1566615120,
     "wof:name":"Dauriya",
     "wof:parent_id":1108737787,
     "wof:placetype":"locality",

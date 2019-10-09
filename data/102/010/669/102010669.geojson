@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.975902,
     "lbl:longitude":50.292621,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.975902,
     "mps:longitude":50.292621,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Dubovyy Um\u00ebt"
     ],
@@ -31,7 +34,7 @@
     "name:rus_x_variant":[
         "\u0414\u0443\u0431\u043e\u0432\u044b\u0439 \u0423\u043c\u0451\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dubovy Umet"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687781,
@@ -65,7 +68,6 @@
     "wof:concordances":{
         "gn:id":564579,
         "gp:id":2120715,
-        "qs:id":870762,
         "qs_pg:id":870762
     },
     "wof:country":"RU",
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":102010669,
-    "wof:lastmodified":1505338935,
+    "wof:lastmodified":1566615481,
     "wof:name":"Dubovyy Umet",
     "wof:parent_id":890484437,
     "wof:placetype":"locality",

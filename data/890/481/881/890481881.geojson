@@ -11,11 +11,15 @@
     "geom:longitude":56.2895,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"56.2695,58.2147,56.3095,58.2547",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Skobelyovka"
     ],
@@ -29,9 +33,6 @@
         "Skobelevka"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u043a\u043e\u0431\u0435\u043b\u0435\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u043a\u043e\u0431\u0435\u043b\u0435\u0432\u043a\u0430"
     ],
     "qs:name":"Skobelevka",
@@ -58,7 +59,7 @@
     "wof:concordances":{
         "gn:id":492417,
         "gp:id":2085055,
-        "qs:id":1028890,
+        "qs_pg:id":1028890,
         "wk:page":"Skobelevka"
     },
     "wof:country":"RU",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":890481881,
-    "wof:lastmodified":1564129182,
+    "wof:lastmodified":1566630795,
     "wof:name":"Skobelevka",
     "wof:parent_id":890484335,
     "wof:placetype":"locality",

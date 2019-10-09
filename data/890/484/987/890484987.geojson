@@ -11,11 +11,15 @@
     "geom:longitude":38.18333,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"38.16333,56.48,38.20333,56.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bogorodskoye"
     ],
@@ -23,9 +27,6 @@
         "Bogorodskoje"
     ],
     "name:rus_x_preferred":[
-        "\u0411\u043e\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u0411\u043e\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0435"
     ],
     "qs:name":"Bogorodskoye",
@@ -50,7 +51,7 @@
     "wof:concordances":{
         "gn:id":575522,
         "gp:id":1990687,
-        "qs:id":1162133,
+        "qs_pg:id":1162133,
         "wk:page":"Bogorodsky"
     },
     "wof:country":"RU",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":890484987,
-    "wof:lastmodified":1527727210,
+    "wof:lastmodified":1566630719,
     "wof:name":"Bogorodskoye",
     "wof:parent_id":890480075,
     "wof:placetype":"locality",

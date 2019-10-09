@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000116,
-    "geom:area_square_m":946409.220007,
+    "geom:area_square_m":946409.220009,
     "geom:bbox":"132.978744507,48.6111373901,132.99319458,48.6225509644",
     "geom:latitude":48.617485,
     "geom:longitude":132.986924,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":48.617061,
     "lbl:longitude":132.987062,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.617061,
     "mps:longitude":132.987062,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pron'kino"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u041f\u0440\u043e\u043d\u044c\u043a\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pron\u2019kina Protoka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687991,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102015235,
-    "wof:lastmodified":1501225145,
+    "wof:lastmodified":1566614941,
     "wof:name":"Pronkino",
     "wof:parent_id":890486057,
     "wof:placetype":"locality",

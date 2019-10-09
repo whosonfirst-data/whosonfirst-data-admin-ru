@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000377,
-    "geom:area_square_m":2733433.9547,
+    "geom:area_square_m":2733433.954701,
     "geom:bbox":"37.5463905334,54.1109428406,37.5743904114,54.1272773743",
     "geom:latitude":54.119557,
     "geom:longitude":37.560116,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.120296,
     "lbl:longitude":37.560116,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":54.120296,
     "mps:longitude":37.560116,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Kosaya Gora"
     ],
@@ -26,9 +29,6 @@
         "Kosaja Gora"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u043e\u0441\u0430\u044f \u0413\u043e\u0440\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u043e\u0441\u0430\u044f \u0413\u043e\u0440\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +47,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688203,
@@ -60,7 +60,7 @@
     "wof:concordances":{
         "gn:id":544293,
         "gp:id":2026517,
-        "qs:id":1062256
+        "qs_pg:id":1062256
     },
     "wof:country":"RU",
     "wof:geomhash":"e9448d59ad321fa82bed8f09887e3307",
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":102003945,
-    "wof:lastmodified":1505338920,
+    "wof:lastmodified":1566615562,
     "wof:name":"Kosaya Gora",
     "wof:parent_id":890484353,
     "wof:placetype":"locality",

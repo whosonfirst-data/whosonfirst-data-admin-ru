@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"32.4097,52.4346,32.4497,52.4746",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Plavna"
     ],
@@ -61,10 +65,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043b\u0430\u0432\u043d\u0430"
     ],
-    "name:und_x_variant":[
-        "\u041f\u043b\u0430\u0432\u043d\u0430",
-        "Plavna"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688121,
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1360163107,
-    "wof:lastmodified":1564127638,
+    "wof:lastmodified":1566629585,
     "wof:name":"Plavna",
     "wof:parent_id":1108734487,
     "wof:placetype":"locality",

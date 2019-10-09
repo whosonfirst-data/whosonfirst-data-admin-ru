@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00064,
-    "geom:area_square_m":4047396.93677,
+    "geom:area_square_m":4047396.936769,
     "geom:bbox":"62.9748878479,59.2025566101,63.0183067322,59.2284431458",
     "geom:latitude":59.215989,
     "geom:longitude":62.999015,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":59.216072,
     "lbl:longitude":63.002633,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":59.216072,
     "mps:longitude":63.002633,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Andryushino"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688183,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102011671,
-    "wof:lastmodified":1501220073,
+    "wof:lastmodified":1566615408,
     "wof:name":"Andryushino",
     "wof:parent_id":1108733561,
     "wof:placetype":"locality",

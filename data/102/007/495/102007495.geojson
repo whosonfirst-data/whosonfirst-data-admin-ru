@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":46.428883,
     "lbl:longitude":44.258545,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.428883,
     "mps:longitude":44.258545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Troitskoye"
     ],
@@ -31,7 +34,7 @@
     "name:rus_x_preferred":[
         "\u0422\u0440\u043e\u0438\u0446\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bulgun"
     ],
     "name:xal_x_preferred":[
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":95,
     "wof:belongsto":[
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":481542,
         "gp:id":2123966,
-        "qs:id":40721,
         "qs_pg:id":40721
     },
     "wof:country":"RU",
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":102007495,
-    "wof:lastmodified":1527637038,
+    "wof:lastmodified":1566615192,
     "wof:name":"Troitskoye",
     "wof:parent_id":1108733165,
     "wof:placetype":"locality",

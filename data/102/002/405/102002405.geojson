@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":58.735836,
     "lbl:longitude":29.857069,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":58.735836,
     "mps:longitude":29.857069,
     "mz:hierarchy_label":1,
@@ -180,9 +182,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0433\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u041b\u0443\u0433\u0430"
-    ],
     "name:vep_x_preferred":[
         "Lug"
     ],
@@ -302,7 +301,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -314,7 +313,6 @@
     "wof:concordances":{
         "gn:id":533690,
         "gp:id":2121997,
-        "qs:id":194529,
         "qs_pg:id":194529,
         "wd:id":"Q15322",
         "wk:page":"Luga, Leningrad Oblast"
@@ -330,7 +328,7 @@
         }
     ],
     "wof:id":102002405,
-    "wof:lastmodified":1563241602,
+    "wof:lastmodified":1566615704,
     "wof:name":"Luga",
     "wof:parent_id":1108734999,
     "wof:placetype":"locality",

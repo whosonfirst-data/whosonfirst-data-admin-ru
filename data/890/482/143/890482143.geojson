@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":65.182035,
     "lbl:longitude":33.988355,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Respublika Karelija",
     "meso:admin1r_en":"Severo-Zapadnyj federal'nyj okrug",
     "meso:admin_1":"\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0440\u0435\u043b\u0438\u044f",
@@ -54,6 +56,7 @@
     "mps:longitude":33.988355,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u041a\u0435\u043c\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -106,9 +109,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u043c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041a\u0435\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vep_x_preferred":[
         "Kemin rajon"
     ],
@@ -135,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1211,
     "wof:belongsto":[
         102191581,
@@ -146,7 +146,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12597425,
-        "qs:id":1063278,
+        "qs_pg:id":1063278,
         "wd:id":"Q1036089",
         "wk:page":"Kemsky District"
     },
@@ -163,7 +163,7 @@
         }
     ],
     "wof:id":890482143,
-    "wof:lastmodified":1563262150,
+    "wof:lastmodified":1566630592,
     "wof:name":"Kemskiy",
     "wof:parent_id":85688193,
     "wof:placetype":"county",

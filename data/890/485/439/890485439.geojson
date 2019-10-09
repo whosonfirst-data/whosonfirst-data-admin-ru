@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":54.467417,
     "lbl:longitude":86.63957,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kemerovskaja oblast'",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":86.63957,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u0411\u0435\u043b\u043e\u0432\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -85,9 +88,6 @@
     "name:sco_x_preferred":[
         "Belovsky Destrict"
     ],
-    "name:und_x_variant":[
-        "\u0411\u0435\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Belovsky"
     ],
@@ -108,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":567,
     "wof:belongsto":[
         102191581,
@@ -119,7 +119,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598432,
-        "qs:id":13138,
+        "qs_pg:id":13138,
         "wd:id":"Q1651486",
         "wk:page":"Belovsky District"
     },
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":890485439,
-    "wof:lastmodified":1563261996,
+    "wof:lastmodified":1566630534,
     "wof:name":"Belovskiy",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"42.17716,57.79928,42.21716,57.83928",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632685
@@ -34,7 +38,7 @@
         "gn:id":6423287
     },
     "wof:country":"RU",
-    "wof:geomhash":"97b20d0ff2f81a0d53801a92c7d990df",
+    "wof:geomhash":"28f862bf66742b04e85048eee4839f89",
     "wof:hierarchy":[
         {
             "country_id":85632685,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209554097,
-    "wof:lastmodified":1536283606,
+    "wof:lastmodified":1566623562,
     "wof:name":"Gulyayevka",
     "wof:parent_id":85632685,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     42.19716,
-    57.819280000000006,
+    57.81928000000001,
     42.19716,
-    57.819280000000006
+    57.81928000000001
 ],
   "geometry": {"coordinates":[42.19716,57.81928000000001],"type":"Point"}
 }

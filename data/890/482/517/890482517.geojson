@@ -11,11 +11,15 @@
     "geom:longitude":132.18887,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":102300,
+    "gn:population":102300,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"132.16887,43.3395,132.20887,43.3795",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u062a\u064a\u0648\u0645"
     ],
@@ -190,9 +194,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0442\u0435\u043c"
     ],
-    "name:unk_x_variant":[
-        "Art\u00ebm"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0631\u062a\u06cc\u0648\u0645\u060c \u0631\u0648\u0633"
     ],
@@ -233,7 +234,7 @@
     "wof:concordances":{
         "gn:id":2027456,
         "gp:id":2120089,
-        "qs:id":137619,
+        "qs_pg:id":137619,
         "wd:id":"Q103993",
         "wk:page":"Artem"
     },
@@ -251,7 +252,7 @@
         }
     ],
     "wof:id":890482517,
-    "wof:lastmodified":1563262143,
+    "wof:lastmodified":1566630589,
     "wof:name":"Artem",
     "wof:parent_id":1108732787,
     "wof:placetype":"locality",

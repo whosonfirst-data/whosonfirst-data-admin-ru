@@ -11,11 +11,15 @@
     "geom:longitude":39.59895,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":500,
+    "gn:population":500,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"39.57895,54.84318,39.61895,54.88318",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u043d\u0441\u0442\u0430\u043d\u0446\u0456\u043d\u0430\u0432\u0430"
     ],
@@ -46,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432\u043e"
-    ],
     "qs:name":"Konstantinovo",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Ryazan Oblast",
@@ -69,7 +70,7 @@
     "wof:concordances":{
         "gn:id":545288,
         "gp:id":2025332,
-        "qs:id":194153,
+        "qs_pg:id":194153,
         "wk:page":"Konstantinovo"
     },
     "wof:country":"RU",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":890486509,
-    "wof:lastmodified":1564129254,
+    "wof:lastmodified":1566630870,
     "wof:name":"Konstantinovo",
     "wof:parent_id":890480101,
     "wof:placetype":"locality",

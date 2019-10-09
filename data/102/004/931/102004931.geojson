@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001235,
-    "geom:area_square_m":9328374.662752,
+    "geom:area_square_m":9328374.662755,
     "geom:bbox":"39.6054992676,52.3377494812,39.6938056946,52.3737487793",
     "geom:latitude":52.356212,
     "geom:longitude":39.651054,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.358035,
     "lbl:longitude":39.654064,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.358035,
     "mps:longitude":39.654064,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Soshki"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0421\u043e\u0448\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Soshka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -48,17 +51,17 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687917
+        85687917,
+        1108733935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":490433,
         "gp:id":2087324,
-        "qs:id":906781,
         "qs_pg:id":906781
     },
     "wof:country":"RU",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102004931,
-    "wof:lastmodified":1497294973,
+    "wof:lastmodified":1566615566,
     "wof:name":"Soshki",
     "wof:parent_id":1108733935,
     "wof:placetype":"locality",

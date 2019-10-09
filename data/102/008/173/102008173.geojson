@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":59.617873,
     "lbl:longitude":52.470786,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.617873,
     "mps:longitude":52.470786,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Rudnichnyy"
     ],
@@ -26,7 +29,7 @@
     "name:rus_x_preferred":[
         "\u0420\u0443\u0434\u043d\u0438\u0447\u043d\u044b\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Averbakhovskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":33,
     "wof:belongsto":[
@@ -60,7 +63,6 @@
     "wof:concordances":{
         "gn:id":500695,
         "gp:id":2123192,
-        "qs:id":549241,
         "qs_pg:id":549241
     },
     "wof:country":"RU",
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":102008173,
-    "wof:lastmodified":1527637246,
+    "wof:lastmodified":1566615276,
     "wof:name":"Rudnichnyy",
     "wof:parent_id":1108737335,
     "wof:placetype":"locality",

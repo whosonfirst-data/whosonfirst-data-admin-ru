@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000465,
-    "geom:area_square_m":3883884.411307,
+    "geom:area_square_m":3883884.411304,
     "geom:bbox":"40.4703598022,47.4673347473,40.5141944885,47.4850845337",
     "geom:latitude":47.476298,
     "geom:longitude":40.491622,
@@ -15,14 +15,17 @@
     "iso:country":"RU",
     "lbl:latitude":47.476739,
     "lbl:longitude":40.491622,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.476739,
     "mps:longitude":40.491622,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u041c\u0435\u043b\u0438\u0445\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Melekhovskaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -41,7 +44,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688033,
@@ -54,7 +57,7 @@
     "wof:concordances":{
         "gn:id":527751,
         "gp:id":2122174,
-        "qs:id":460175
+        "qs_pg:id":460175
     },
     "wof:country":"RU",
     "wof:geomhash":"a8b4fe76855f53750edc48e6e7a24992",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102007211,
-    "wof:lastmodified":1505338927,
+    "wof:lastmodified":1566615151,
     "wof:name":"Melikhovskaya",
     "wof:parent_id":1108737227,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.955619,
     "lbl:longitude":39.576576,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.955619,
     "mps:longitude":39.576576,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ryazanskaya"
     ],
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u044f\u0437\u0430\u043d\u0441\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Riazanskaia"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688029,
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":500060,
         "gp:id":2076636,
-        "qs:id":263323,
         "qs_pg:id":263323,
         "wd:id":"Q2025084",
         "wk:page":"Ryazanskaya (rural locality)"
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":102015607,
-    "wof:lastmodified":1563239813,
+    "wof:lastmodified":1566614973,
     "wof:name":"Ryazanskaya",
     "wof:parent_id":890485447,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000344,
-    "geom:area_square_m":2452860.736484,
+    "geom:area_square_m":2452860.736485,
     "geom:bbox":"47.3683891296,54.8049163818,47.4010276794,54.824054718",
     "geom:latitude":54.813791,
     "geom:longitude":47.383797,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.813944,
     "lbl:longitude":47.382684,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.813944,
     "mps:longitude":47.382684,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shlanga"
     ],
@@ -25,9 +28,6 @@
         "Sjlanga"
     ],
     "name:rus_x_preferred":[
-        "\u0428\u043b\u0430\u043d\u0433\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0428\u043b\u0430\u043d\u0433\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688065,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102009601,
-    "wof:lastmodified":1501214492,
+    "wof:lastmodified":1566615246,
     "wof:name":"Shlanga",
     "wof:parent_id":1108733415,
     "wof:placetype":"locality",

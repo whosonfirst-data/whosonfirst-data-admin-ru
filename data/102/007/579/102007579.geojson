@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":46.136691,
     "lbl:longitude":39.780133,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.136691,
     "mps:longitude":39.780133,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u041f\u0430\u045e\u043b\u0430\u045e\u0441\u043a\u0430\u044f"
     ],
@@ -58,9 +61,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0432\u043b\u0456\u0432\u0441\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Pawlowskaja"
-    ],
     "name:zho_x_preferred":[
         "\u5df4\u752b\u6d1b\u592b\u65af\u5361"
     ],
@@ -82,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -94,7 +94,6 @@
     "wof:concordances":{
         "gn:id":512051,
         "gp:id":2122775,
-        "qs:id":369337,
         "qs_pg:id":369337,
         "wd:id":"Q918470",
         "wk:page":"Pavlovskaya, Krasnodar Krai"
@@ -110,7 +109,7 @@
         }
     ],
     "wof:id":102007579,
-    "wof:lastmodified":1563240289,
+    "wof:lastmodified":1566615199,
     "wof:name":"Pavlovskaya",
     "wof:parent_id":1108735787,
     "wof:placetype":"locality",

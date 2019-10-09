@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":58.088516,
     "lbl:longitude":55.759048,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":58.088516,
     "mps:longitude":55.759048,
     "mz:hierarchy_label":1,
@@ -128,9 +130,6 @@
     ],
     "name:tur_x_preferred":[
         "Krasnokamsk"
-    ],
-    "name:unk_x_variant":[
-        "\u041a\u0440\u0430\u0441\u043d\u043e\u043a\u0430\u043c\u0441\u043a"
     ],
     "name:vep_x_preferred":[
         "Krasnokamsk"
@@ -257,7 +256,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":58.083333,
     "wd:longitude":55.75,
@@ -272,7 +271,6 @@
     "wof:concordances":{
         "gn:id":542327,
         "gp:id":90613776,
-        "qs:id":125297,
         "qs_pg:id":125297,
         "wd:id":"Q155632",
         "wk:page":"Krasnokamsk"
@@ -288,7 +286,7 @@
         }
     ],
     "wof:id":102008427,
-    "wof:lastmodified":1563240501,
+    "wof:lastmodified":1566615291,
     "wof:name":"Krasnokamsk",
     "wof:parent_id":1108734717,
     "wof:placetype":"locality",

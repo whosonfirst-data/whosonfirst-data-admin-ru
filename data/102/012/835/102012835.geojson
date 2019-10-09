@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000509,
-    "geom:area_square_m":3564384.156,
+    "geom:area_square_m":3564384.155996,
     "geom:bbox":"83.4792251587,55.5061950684,83.5276641846,55.5337791443",
     "geom:latitude":55.519916,
     "geom:longitude":83.503906,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.518792,
     "lbl:longitude":83.503905,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.518792,
     "mps:longitude":83.503905,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Tashara"
     ],
@@ -44,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687925,
@@ -57,7 +60,6 @@
     "wof:concordances":{
         "gn:id":1490054,
         "gp:id":2094224,
-        "qs:id":1304909,
         "qs_pg:id":1304909
     },
     "wof:country":"RU",
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":102012835,
-    "wof:lastmodified":1505338940,
+    "wof:lastmodified":1566614996,
     "wof:name":"Tashara",
     "wof:parent_id":890482003,
     "wof:placetype":"locality",

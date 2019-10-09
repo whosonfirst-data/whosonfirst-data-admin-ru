@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000201,
-    "geom:area_square_m":1458286.433015,
+    "geom:area_square_m":1458286.433017,
     "geom:bbox":"41.9155464172,54.0283508301,41.9385986328,54.0485038757",
     "geom:latitude":54.039487,
     "geom:longitude":41.925295,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.040781,
     "lbl:longitude":41.925295,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.040781,
     "mps:longitude":41.925295,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lesnoye Konobeyevo"
     ],
@@ -30,7 +33,7 @@
     "name:rus_x_variant":[
         "\u041b\u0435\u0441\u043d\u043e\u0435 \u041a\u043e\u043d\u043e\u0431\u0435\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Konobeyevo-Lesnoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687963,
         102191581,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102004001,
-    "wof:lastmodified":1501214640,
+    "wof:lastmodified":1566615584,
     "wof:name":"Lesnoye Konobeyevo",
     "wof:parent_id":1108736491,
     "wof:placetype":"locality",

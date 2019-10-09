@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000973,
-    "geom:area_square_m":8452907.343827,
+    "geom:area_square_m":8452907.343826,
     "geom:bbox":"42.5603904724,45.3729705811,42.6020278931,45.410610199",
     "geom:latitude":45.392065,
     "geom:longitude":42.582144,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.39102,
     "lbl:longitude":42.581747,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.39102,
     "mps:longitude":42.581747,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Blagodatnoye"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0411\u043b\u0430\u0433\u043e\u0434\u0430\u0442\u043d\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Berestovka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687825,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":576147,
         "gp:id":2120315,
-        "qs:id":1305548
+        "qs_pg:id":1305548
     },
     "wof:country":"RU",
     "wof:geomhash":"499b358acb5626aca07610411e5b2cdd",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102007847,
-    "wof:lastmodified":1505338929,
+    "wof:lastmodified":1566615185,
     "wof:name":"Blagonatnoye",
     "wof:parent_id":1108735851,
     "wof:placetype":"locality",

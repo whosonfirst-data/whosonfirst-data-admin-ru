@@ -11,10 +11,12 @@
     "geom:longitude":37.70334,
     "gn:country":"RU",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"RU",
+    "lbl:bbox":"37.6983396272,55.6138433164,37.7083396272,55.6238433164",
     "lbl:latitude":55.618843,
     "lbl:longitude":37.70334,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -51,13 +53,13 @@
     "name:rus_x_variant":[
         "\u041e\u0440\u0435\u0445\u043e\u0432\u043e-\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u043e \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Orekhovo"
     ],
     "name:zho_x_preferred":[
         "\u6838\u6843-\u535a\u91cc\u7d22\u6c83\u5317\u5340"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
     "wof:concordances":{
         "gn:id":515027,
         "gp:id":55875745,
-        "qs:id":500188,
+        "qs_pg:id":500188,
         "wd:id":"Q1962775",
         "wk:page":"Orekhovo-Borisovo Severnoye District"
     },
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":1108942847,
-    "wof:lastmodified":1563257399,
+    "wof:lastmodified":1566627422,
     "wof:name":"Orekhovo-Borisovo Severnoye",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":59.853182,
     "lbl:longitude":48.282724,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.853182,
     "mps:longitude":48.282724,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u041e\u043f\u0430\u0440\u0438\u043d\u043e"
     ],
@@ -53,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u043f\u0430\u0440\u0456\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u041e\u043f\u0430\u0440\u0438\u043d\u043e"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"4302400000100",
@@ -74,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":119,
     "wof:belongsto":[
@@ -87,7 +87,6 @@
     "wof:concordances":{
         "gn:id":515175,
         "gp:id":2122646,
-        "qs:id":80681,
         "qs_pg:id":80681,
         "wd:id":"Q3882808"
     },
@@ -102,7 +101,7 @@
         }
     ],
     "wof:id":102008155,
-    "wof:lastmodified":1563240488,
+    "wof:lastmodified":1566615286,
     "wof:name":"Oparino",
     "wof:parent_id":1108735691,
     "wof:placetype":"locality",

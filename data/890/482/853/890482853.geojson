@@ -11,15 +11,15 @@
     "geom:longitude":30.26667,
     "gn:country":"RU",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"30.26167,60.06167,30.27167,60.07167",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:rus_x_preferred":[
-        "\u041f\u0430\u0440\u0433\u043e\u043b\u043e\u0432\u043e \u0412\u0442\u043e\u0440\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u0430\u0440\u0433\u043e\u043b\u043e\u0432\u043e \u0412\u0442\u043e\u0440\u043e\u0435"
     ],
     "qs:name":"Pargolovo Vtoroye",
@@ -35,17 +35,17 @@
     "qs:pop_sr":"0",
     "src:population":"geonames",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":512564,
         "gp:id":2062862,
-        "qs:id":448658
+        "qs_pg:id":448658
     },
     "wof:country":"RU",
     "wof:created":1469054438,
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":890482853,
-    "wof:lastmodified":1510870348,
+    "wof:lastmodified":1566630610,
     "wof:name":"Pargolovo Vtoroye",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

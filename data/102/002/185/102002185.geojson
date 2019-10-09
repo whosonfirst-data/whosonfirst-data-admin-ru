@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":67.94447,
     "lbl:longitude":64.747452,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":67.94447,
     "mps:longitude":64.747452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u0644\u064a\u0632\u0646\u0648\u062f\u0648\u0631\u0648\u062c\u0646\u064a"
     ],
@@ -125,9 +128,6 @@
     "name:ukr_x_preferred":[
         "\u0416\u0435\u043b\u0454\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u0438\u0439"
     ],
-    "name:unk_x_variant":[
-        "Zheleznodorozhny"
-    ],
     "name:vie_x_preferred":[
         "Zheleznodorozhny"
     ],
@@ -151,7 +151,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688077,
@@ -164,7 +164,6 @@
     "wof:concordances":{
         "gn:id":463355,
         "gp:id":2117907,
-        "qs:id":277110,
         "qs_pg:id":277110,
         "wk:page":"Zheleznodorozhny, Moscow Oblast"
     },
@@ -181,7 +180,7 @@
         }
     ],
     "wof:id":102002185,
-    "wof:lastmodified":1564109393,
+    "wof:lastmodified":1566615716,
     "wof:name":"Zheleznodorozhnyy",
     "wof:parent_id":890487129,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":47.91318,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":1966,
+    "gn:population":1966,
     "iso:country":"RU",
+    "lbl:bbox":"47.89318,41.40245,47.93318,41.44245",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ava_x_preferred":[
         "\u0423\u0448\u0443\u0433\u044a \u043c\u0443\u0445\u044a"
     ],
@@ -72,9 +76,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043a\u0443\u0437\u043f\u0430\u0440\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "\u0423\u0441\u0443\u0445\u0447\u0430\u0439"
-    ],
     "name:vie_x_preferred":[
         "Dokuzparinsky"
     ],
@@ -101,7 +102,7 @@
     "wof:concordances":{
         "gn:id":477789,
         "gp:id":2102047,
-        "qs:id":80477,
+        "qs_pg:id":80477,
         "wd:id":"Q1439163",
         "wk:page":"Dokuzparinsky District"
     },
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":890478505,
-    "wof:lastmodified":1563261828,
+    "wof:lastmodified":1566630478,
     "wof:name":"Usukhchay",
     "wof:parent_id":1108733395,
     "wof:placetype":"locality",

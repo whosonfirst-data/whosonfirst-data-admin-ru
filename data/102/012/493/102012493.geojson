@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.210369,
     "lbl:longitude":72.96459,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.210369,
     "mps:longitude":72.96459,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u041e\u0434\u0435\u0441\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -53,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0434\u0435\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "\u041e\u0434\u0435\u0441\u0441\u043a\u043e\u0435"
-    ],
     "name:vie_x_preferred":[
         "Odessky"
     ],
@@ -80,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":726,
     "wof:belongsto":[
@@ -93,7 +93,6 @@
     "wof:concordances":{
         "gn:id":1496380,
         "gp:id":2058743,
-        "qs:id":1303974,
         "qs_pg:id":1303974,
         "wd:id":"Q1654424"
     },
@@ -108,7 +107,7 @@
         }
     ],
     "wof:id":102012493,
-    "wof:lastmodified":1563239925,
+    "wof:lastmodified":1566615018,
     "wof:name":"Odesskoye",
     "wof:parent_id":1108735597,
     "wof:placetype":"locality",

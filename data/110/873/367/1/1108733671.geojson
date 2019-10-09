@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":53.374468,
     "lbl:longitude":55.915686,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Bashkortostan",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d",
@@ -53,6 +55,7 @@
     "mps:longitude":55.915686,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Salavat"
     ],
@@ -93,7 +96,7 @@
         "\u0433\u043e\u0440\u043e\u0434 \u0421\u0430\u043b\u0430\u0432\u0430\u0442"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687801,
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1108733671,
-    "wof:lastmodified":1564124497,
+    "wof:lastmodified":1566627152,
     "wof:name":"Salavat",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.732807,
     "lbl:longitude":39.155473,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.732807,
     "mps:longitude":39.155473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u041f\u043e\u0434\u0433\u043e\u0440\u043d\u0438"
     ],
@@ -36,9 +39,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0434\u0433\u0456\u0440\u043d\u0435"
-    ],
-    "name:unk_x_variant":[
-        "\u041f\u043e\u0434\u0433\u043e\u0440\u043d\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -58,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":23,
     "wof:belongsto":[
@@ -72,7 +72,6 @@
     "wof:concordances":{
         "gn:id":508362,
         "gp:id":2067493,
-        "qs:id":275939,
         "qs_pg:id":275939
     },
     "wof:country":"RU",
@@ -88,7 +87,7 @@
         }
     ],
     "wof:id":102005375,
-    "wof:lastmodified":1564109362,
+    "wof:lastmodified":1566615660,
     "wof:name":"Podgornoye",
     "wof:parent_id":890484369,
     "wof:placetype":"locality",

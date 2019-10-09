@@ -16,6 +16,8 @@
     "iso:country":"RU",
     "lbl:latitude":52.049608,
     "lbl:longitude":113.460101,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":52.049608,
     "mps:longitude":113.460101,
     "mz:hierarchy_label":1,
@@ -261,9 +263,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0438\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "Tchita"
-    ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u062a\u0627\u060c \u0632\u0627\u0628\u0627\u06cc\u06a9\u0627\u0644\u0633\u06a9\u06cc \u06a9\u0631\u0627\u0626\u06cc"
     ],
@@ -410,7 +409,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":148,
     "wof:belongsto":[
@@ -424,10 +423,12 @@
     "wof:concordances":{
         "gn:id":2025339,
         "gp:id":1999123,
-        "qs:id":1122008,
         "qs_pg:id":351524,
         "wd:id":"Q53139",
         "wk:page":"Chita"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1122008
     },
     "wof:country":"RU",
     "wof:geomhash":"53ee3e03e67a1d29ecee9700b831a265",
@@ -442,7 +443,7 @@
         }
     ],
     "wof:id":102014609,
-    "wof:lastmodified":1563240175,
+    "wof:lastmodified":1566615136,
     "wof:megacity":0,
     "wof:name":"Chita",
     "wof:parent_id":1108733721,

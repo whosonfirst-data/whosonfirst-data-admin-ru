@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":46.397436,
     "lbl:longitude":48.7025,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.397436,
     "mps:longitude":48.7025,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Marfino"
     ],
@@ -37,9 +40,6 @@
     "name:tgk_x_preferred":[
         "\u041c\u0430\u0440\u0444\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u041c\u0430\u0440\u0444\u0438\u043d\u043e"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"3000300005000",
@@ -56,7 +56,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":480,
     "wof:belongsto":[
@@ -71,7 +71,6 @@
     "wof:concordances":{
         "gn:id":529376,
         "gp:id":2043113,
-        "qs:id":445163,
         "qs_pg:id":445163,
         "wd:id":"Q4283031"
     },
@@ -88,7 +87,7 @@
         }
     ],
     "wof:id":1175613545,
-    "wof:lastmodified":1563257423,
+    "wof:lastmodified":1566627434,
     "wof:name":"Marfino",
     "wof:parent_id":1108737601,
     "wof:placetype":"locality",

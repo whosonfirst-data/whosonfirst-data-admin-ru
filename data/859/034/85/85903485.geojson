@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8931482.964511,
+    "geom:area_square_m":0.0,
     "geom:bbox":"38.081156,55.934671,38.081156,55.934671",
     "geom:latitude":55.934671,
     "geom:longitude":38.081156,
@@ -13,8 +13,10 @@
     "gn:longitude":38.09167,
     "gn:population":117,
     "iso:country":"RU",
+    "lbl:bbox":"38.076156,55.929671,38.086156,55.939671",
     "lbl:latitude":55.934671,
     "lbl:longitude":38.081156,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.924984,
     "mps:longitude":38.081061,
     "mz:hierarchy_label":0,
@@ -34,10 +36,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430\u044f \u0421\u043b\u043e\u0431\u043e\u0434\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Staro-Sloboda",
-        "Staraya Sloboda"
     ],
     "qs:gn_adm0_cc":"RU",
     "qs:gn_fcode":"PPL",
@@ -68,7 +66,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:wordcount":91,
     "wof:belongsto":[
@@ -82,7 +80,6 @@
     "wof:concordances":{
         "gn:id":489067,
         "gp:id":2088906,
-        "qs:id":1159709,
         "qs_pg:id":1159709
     },
     "wof:country":"RU",
@@ -102,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936050,
+    "wof:lastmodified":1566618506,
     "wof:name":"Staraya Sloboda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

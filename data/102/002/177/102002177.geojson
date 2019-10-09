@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":60.019175,
     "lbl:longitude":30.681844,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":60.019175,
     "mps:longitude":30.681844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0641\u0633\u064a\u0641\u0648\u0644\u0648\u062c\u0633\u0643"
     ],
@@ -137,7 +140,7 @@
     "name:ukr_x_variant":[
         "\u0412\u0441\u0435\u0432\u043e\u043b\u043e\u0437\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vsevolozhskiy"
     ],
     "name:vep_x_preferred":[
@@ -167,7 +170,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":60.016667,
     "wd:longitude":30.65,
@@ -183,7 +186,6 @@
     "wof:concordances":{
         "gn:id":471101,
         "gp:id":2124370,
-        "qs:id":964842,
         "qs_pg:id":964842,
         "wd:id":"Q15248",
         "wk:page":"Vsevolozhsk"
@@ -201,7 +203,7 @@
         }
     ],
     "wof:id":102002177,
-    "wof:lastmodified":1563241633,
+    "wof:lastmodified":1566615711,
     "wof:name":"Vsevolozhsk",
     "wof:parent_id":890480071,
     "wof:placetype":"locality",

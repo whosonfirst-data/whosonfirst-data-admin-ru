@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.985518,
     "lbl:longitude":43.283763,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.985518,
     "mps:longitude":43.283763,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0631\u0633\u0645\u0627"
     ],
@@ -106,7 +109,7 @@
     "name:tur_x_preferred":[
         "Vorsma"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vorzima"
     ],
     "name:vep_x_preferred":[
@@ -136,7 +139,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.983333,
     "wd:longitude":43.266667,
@@ -151,7 +154,6 @@
     "wof:concordances":{
         "gn:id":471760,
         "gp:id":2124339,
-        "qs:id":888470,
         "qs_pg:id":888470,
         "wd:id":"Q133816",
         "wk:page":"Vorsma"
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":102003045,
-    "wof:lastmodified":1563241165,
+    "wof:lastmodified":1566615547,
     "wof:name":"Vorsma",
     "wof:parent_id":1108735789,
     "wof:placetype":"locality",

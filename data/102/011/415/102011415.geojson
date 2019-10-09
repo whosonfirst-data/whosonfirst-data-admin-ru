@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000161,
-    "geom:area_square_m":1283877.315423,
+    "geom:area_square_m":1283877.315424,
     "geom:bbox":"46.7218894958,49.9118881226,46.7344703674,49.9262771606",
     "geom:latitude":49.919122,
     "geom:longitude":46.728018,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":49.919176,
     "lbl:longitude":46.728018,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.919176,
     "mps:longitude":46.728018,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kalashniki"
     ],
@@ -25,9 +28,6 @@
         "Kalasjniki"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0430\u043b\u0430\u0448\u043d\u0438\u043a\u0438"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0430\u043b\u0430\u0448\u043d\u0438\u043a\u0438"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0445",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688101,
         102191581,
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":102011415,
-    "wof:lastmodified":1501214711,
+    "wof:lastmodified":1566615389,
     "wof:name":"Kalashniki",
     "wof:parent_id":1108735755,
     "wof:placetype":"locality",

@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":57.197378,
     "lbl:longitude":29.059062,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Pskov",
     "meso:name_alt2":"Pskovskaja oblast'",
     "meso:name_local":"\u041f\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -255,10 +256,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0441\u043a\u043e\u0432"
     ],
-    "name:und_x_variant":[
-        "Pskovskaja oblast'",
-        "Pskov"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0633\u06a9\u0648\u0641"
     ],
@@ -294,7 +291,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685,
@@ -340,7 +337,7 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734417,
+    "wof:lastmodified":1566618534,
     "wof:name":"Pskov",
     "wof:parent_id":85632685,
     "wof:placetype":"region",

@@ -9,15 +9,18 @@
     "geom:bbox":"44.95889,43.67306,44.95889,43.67306",
     "geom:latitude":43.67306,
     "geom:longitude":44.95889,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7200,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":7200,
     "iso:country":"RU",
+    "lbl:bbox":"44.93889,43.65306,44.97889,43.69306",
     "lbl:latitude":43.67306,
     "lbl:longitude":44.95889,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:che_x_preferred":[
         "Gvardeyskoe"
@@ -44,7 +47,7 @@
         "\u042d\u043b\u0438\u043d-\u042e\u0440\u0442",
         "\u00c8lin-Jurt"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ali-Yurt"
     ],
     "qs_pg:aaroncc":"RU",
@@ -59,7 +62,7 @@
     "qs_pg:qs_id":80921,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688015,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1125830487,
-    "wof:lastmodified":1509394648,
+    "wof:lastmodified":1566631040,
     "wof:name":"Elin-Yurt",
     "wof:parent_id":1108735293,
     "wof:placetype":"locality",

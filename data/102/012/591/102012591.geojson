@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.71926,
     "lbl:longitude":83.571051,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.71926,
     "mps:longitude":83.571051,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Molchanovo"
     ],
@@ -35,7 +38,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":300,
     "wof:belongsto":[
         85687809,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102012591,
-    "wof:lastmodified":1563239909,
+    "wof:lastmodified":1566615012,
     "wof:name":"Molchanovo",
     "wof:parent_id":1108735177,
     "wof:placetype":"locality",

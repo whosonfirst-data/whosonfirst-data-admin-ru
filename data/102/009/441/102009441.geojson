@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.051904,
     "lbl:longitude":57.710196,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.051904,
     "mps:longitude":57.710196,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0645\u060c \u062a\u0634\u064a\u0644\u064a\u0627\u0628\u064a\u0646\u0633\u0643 \u0623\u0648\u0628\u0644\u0627\u0633\u062a"
     ],
@@ -111,9 +114,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043c"
     ],
-    "name:unk_x_variant":[
-        "Sim"
-    ],
     "name:war_x_preferred":[
         "Sim"
     ],
@@ -136,7 +136,7 @@
     "qs:type":"\u0441\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":65,
     "wof:belongsto":[
         85687791,
@@ -164,7 +164,7 @@
         }
     ],
     "wof:id":102009441,
-    "wof:lastmodified":1563240322,
+    "wof:lastmodified":1566615216,
     "wof:name":"Simskaya",
     "wof:parent_id":890485449,
     "wof:placetype":"locality",

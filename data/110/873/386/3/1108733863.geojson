@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":58.380062,
     "lbl:longitude":45.50163,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kostromskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":45.50163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Shar'ja"
     ],
@@ -63,7 +66,7 @@
         "\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0428\u0430\u0440\u044c\u044f"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688115,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108733863,
-    "wof:lastmodified":1561582109,
+    "wof:lastmodified":1566627385,
     "wof:name":"Shar'ja",
     "wof:parent_id":85688115,
     "wof:placetype":"county",

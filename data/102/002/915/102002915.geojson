@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.342101,
     "lbl:longitude":37.523843,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":56.342101,
     "mps:longitude":37.523843,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062f\u0645\u064a\u062a\u0631\u0648\u0641"
     ],
@@ -185,9 +188,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u043c\u0438\u0442\u0440\u043e\u0432"
     ],
-    "name:unk_x_variant":[
-        "\u0414\u043c\u0438\u0442\u0440\u043e\u0432"
-    ],
     "name:vie_x_preferred":[
         "Dmitrov"
     ],
@@ -218,7 +218,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.35,
     "wd:longitude":37.533333,
@@ -234,7 +234,6 @@
     "wof:concordances":{
         "gn:id":565955,
         "gp:id":2120660,
-        "qs:id":1146241,
         "qs_pg:id":1146241,
         "wd:id":"Q102334",
         "wk:page":"Dmitrov"
@@ -252,7 +251,7 @@
         }
     ],
     "wof:id":102002915,
-    "wof:lastmodified":1563241521,
+    "wof:lastmodified":1566615683,
     "wof:name":"Dmitrov",
     "wof:parent_id":890485971,
     "wof:placetype":"locality",

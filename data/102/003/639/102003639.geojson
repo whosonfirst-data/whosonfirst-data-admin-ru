@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.861201,
     "lbl:longitude":43.80834,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":54.861201,
     "mps:longitude":43.80834,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0641\u0648\u0645\u0627\u064a\u0633\u0643"
     ],
@@ -112,7 +115,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tashino"
     ],
     "name:war_x_preferred":[
@@ -139,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":183,
     "wof:belongsto":[
@@ -152,7 +155,6 @@
     "wof:concordances":{
         "gn:id":511002,
         "gp:id":2064495,
-        "qs:id":194292,
         "qs_pg:id":194292,
         "wd:id":"Q178132",
         "wk:page":"Pervomaysk, Russia"
@@ -168,7 +170,7 @@
         }
     ],
     "wof:id":102003639,
-    "wof:lastmodified":1563241187,
+    "wof:lastmodified":1566615555,
     "wof:name":"Pervomaysk",
     "wof:parent_id":1108735813,
     "wof:placetype":"locality",

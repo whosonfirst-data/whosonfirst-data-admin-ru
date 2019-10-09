@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":53.721066,
     "lbl:longitude":49.459952,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Samarskaja oblast'",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":49.459952,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Stavropol'skiy Rayon"
     ],
@@ -103,9 +106,6 @@
     "name:tat_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430\u043f\u0443\u043b \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
-    "name:und_x_variant":[
-        "\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Stavropolsky"
     ],
@@ -129,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1065,
     "wof:belongsto":[
         102191581,
@@ -140,7 +140,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598627,
-        "qs:id":1119185,
+        "qs_pg:id":1119185,
         "wd:id":"Q52242",
         "wk:page":"Stavropolsky District"
     },
@@ -157,7 +157,7 @@
         }
     ],
     "wof:id":890484433,
-    "wof:lastmodified":1563262445,
+    "wof:lastmodified":1566630714,
     "wof:name":"Stavropol'skiy",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

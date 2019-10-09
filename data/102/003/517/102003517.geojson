@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000796,
-    "geom:area_square_m":5631505.601817,
+    "geom:area_square_m":5631505.601819,
     "geom:bbox":"38.7884712219,55.1038627625,38.8286399841,55.1406936646",
     "geom:latitude":55.1237,
     "geom:longitude":38.809267,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.122169,
     "lbl:longitude":38.808962,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.122169,
     "mps:longitude":38.808962,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Amerevo"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688161,
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":102003517,
-    "wof:lastmodified":1501214813,
+    "wof:lastmodified":1566615535,
     "wof:name":"Amerevo",
     "wof:parent_id":890487041,
     "wof:placetype":"locality",

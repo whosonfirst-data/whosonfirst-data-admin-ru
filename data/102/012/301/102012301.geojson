@@ -5,21 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006542,
-    "geom:area_square_m":46103322.994218,
+    "geom:area_square_m":46103322.994217,
     "geom:bbox":"61.3644180298,55.2060546875,61.4914703369,55.298248291",
     "geom:latitude":55.25374,
     "geom:longitude":61.425392,
     "iso:country":"RU",
     "lbl:latitude":55.253406,
     "lbl:longitude":61.429705,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.253406,
     "mps:longitude":61.429705,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041f\u0435\u0440\u0448\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pershinskiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -38,7 +41,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687791,
         102191581,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102012301,
-    "wof:lastmodified":1501220019,
+    "wof:lastmodified":1566614984,
     "wof:name":"Pershino",
     "wof:parent_id":1108733217,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14807297.386662,
+    "geom:area_square_m":0.0,
     "geom:bbox":"49.093939,55.823014,49.093939,55.823014",
     "geom:latitude":55.823014,
     "geom:longitude":49.093939,
     "gn:latitude":55.81667,
     "gn:longitude":49.05,
     "iso:country":"RU",
+    "lbl:bbox":"49.088939,55.818014,49.098939,55.828014",
     "lbl:latitude":55.823014,
     "lbl:longitude":49.093939,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.815547,
     "mps:longitude":49.060716,
     "mz:hierarchy_label":0,
@@ -30,10 +32,6 @@
     ],
     "name:eng_x_variant":[
         "Yagodnaya Svoboda"
-    ],
-    "name:unk_x_variant":[
-        "Yagodnaya Svoboda",
-        "Yagodnaya"
     ],
     "qs:gn_adm0_cc":"RU",
     "qs:gn_fcode":"PPLX",
@@ -63,20 +61,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688065,
         102191581,
         85632685,
         102009109,
         874393555,
-        890482737
+        890482737,
+        85688065
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":469753,
         "gp:id":2110574,
-        "qs:id":190147,
         "qs_pg:id":190147
     },
     "wof:country":"RU",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936051,
+    "wof:lastmodified":1566618497,
     "wof:name":"Yagodnaya",
     "wof:parent_id":102009109,
     "wof:placetype":"neighbourhood",

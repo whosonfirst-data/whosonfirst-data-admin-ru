@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000158,
-    "geom:area_square_m":1233851.870623,
+    "geom:area_square_m":1233851.870624,
     "geom:bbox":"110.328887939,50.9743881226,110.353057861,50.9836654663",
     "geom:latitude":50.978663,
     "geom:longitude":110.341802,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.979156,
     "lbl:longitude":110.345658,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.979156,
     "mps:longitude":110.345658,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Engorok"
     ],
@@ -25,9 +28,6 @@
         "Engorok"
     ],
     "name:rus_x_preferred":[
-        "\u042d\u043d\u0433\u043e\u0440\u043e\u043a"
-    ],
-    "name:unk_x_variant":[
         "\u042d\u043d\u0433\u043e\u0440\u043e\u043a"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688005,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102014789,
-    "wof:lastmodified":1501225172,
+    "wof:lastmodified":1566615140,
     "wof:name":"Engorok",
     "wof:parent_id":1108734361,
     "wof:placetype":"locality",

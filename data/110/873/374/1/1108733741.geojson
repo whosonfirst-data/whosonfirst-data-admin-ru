@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":55.786859,
     "lbl:longitude":38.460155,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Moskovskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":38.460155,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ehlektrostal'"
     ],
@@ -63,7 +66,7 @@
         "\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u042d\u043b\u0435\u043a\u0442\u0440\u043e\u0441\u0442\u0430\u043b\u044c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688161,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108733741,
-    "wof:lastmodified":1561582101,
+    "wof:lastmodified":1566627360,
     "wof:name":"Ehlektrostal'",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

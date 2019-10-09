@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003124,
-    "geom:area_square_m":23960757.819334,
+    "geom:area_square_m":23960757.819338,
     "geom:bbox":"36.0560569763,51.6400260925,36.1701927185,51.6824989319",
     "geom:latitude":51.662487,
     "geom:longitude":36.116085,
@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":51.660356,
     "lbl:longitude":36.126412,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":51.660356,
     "mps:longitude":36.126412,
     "mz:hierarchy_label":1,
@@ -89,9 +91,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0440\u0441\u044c\u043a"
-    ],
-    "name:unk_x_variant":[
-        "\u041a\u0443\u0440\u0441\u043a"
     ],
     "name:vie_x_preferred":[
         "Kursk"
@@ -210,7 +209,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688011,
@@ -237,7 +236,7 @@
         }
     ],
     "wof:id":102005417,
-    "wof:lastmodified":1505338924,
+    "wof:lastmodified":1566615644,
     "wof:name":"Klyakva",
     "wof:parent_id":890484315,
     "wof:placetype":"locality",

@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":48.540065,
     "lbl:longitude":45.284234,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Astrakhanskaja oblast'",
     "meso:admin1r_en":"JUzhnyj federal'nyj okrug",
     "meso:admin_1":"\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,12 +55,13 @@
     "mps:longitude":45.284234,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Akhtubinskiy"
     ],
     "name:eng_x_variant":[],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687985,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108735417,
-    "wof:lastmodified":1561582102,
+    "wof:lastmodified":1566627365,
     "wof:name":"Akhtubinskiy",
     "wof:parent_id":85687985,
     "wof:placetype":"county",

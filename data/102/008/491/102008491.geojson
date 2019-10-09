@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.837603,
     "lbl:longitude":50.080139,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.837603,
     "mps:longitude":50.080139,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0443\u043d\u0430"
     ],
@@ -50,9 +53,6 @@
     "name:tur_x_preferred":[
         "Suna"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u0443\u043d\u0430"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"4303300000100",
@@ -71,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":98,
     "wof:belongsto":[
@@ -84,7 +84,6 @@
     "wof:concordances":{
         "gn:id":486236,
         "gp:id":2123742,
-        "qs:id":202488,
         "qs_pg:id":202488
     },
     "wof:country":"RU",
@@ -98,7 +97,7 @@
         }
     ],
     "wof:id":102008491,
-    "wof:lastmodified":1564108928,
+    "wof:lastmodified":1566615276,
     "wof:name":"Suna",
     "wof:parent_id":1108736837,
     "wof:placetype":"locality",

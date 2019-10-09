@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.160472,
     "lbl:longitude":133.865694,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":44.160472,
     "mps:longitude":133.865694,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0427\u0443\u0433\u0443\u0435\u045e\u043a\u0430"
     ],
@@ -58,9 +61,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0443\u0433\u0443\u0457\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u0427\u0443\u0433\u0443\u0435\u0432\u043a\u0430"
-    ],
     "name:zho_x_preferred":[
         "\u4e18\u53e4\u8036\u592b\u5361"
     ],
@@ -82,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -95,7 +95,6 @@
         "gn:id":2025286,
         "gp:id":2120573,
         "icao:code":"UHS2",
-        "qs:id":137583,
         "qs_pg:id":137583,
         "wd:id":"Q7320272",
         "wk:page":"Chuguyevka Air Base"
@@ -111,7 +110,7 @@
         }
     ],
     "wof:id":102001705,
-    "wof:lastmodified":1563240582,
+    "wof:lastmodified":1566615319,
     "wof:name":"Chuguyevka",
     "wof:parent_id":1108733295,
     "wof:placetype":"locality",

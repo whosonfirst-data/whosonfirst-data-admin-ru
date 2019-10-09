@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.33853,
     "lbl:longitude":80.480302,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.33853,
     "mps:longitude":80.480302,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kochki"
     ],
@@ -49,7 +52,7 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u0447\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kochkovskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":85,
     "wof:belongsto":[
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":1503061,
         "gp:id":2028454,
-        "qs:id":85163,
         "qs_pg:id":85163,
         "wd:id":"Q3816717"
     },
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":102013097,
-    "wof:lastmodified":1563239996,
+    "wof:lastmodified":1566615050,
     "wof:name":"Kochki",
     "wof:parent_id":1108734513,
     "wof:placetype":"locality",

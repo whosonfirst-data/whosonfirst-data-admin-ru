@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":52.452456,
     "lbl:longitude":38.976503,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Lipeckaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u041b\u0438\u043f\u0435\u0446\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":38.976503,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0417\u0430\u0434\u043e\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -91,9 +94,6 @@
     "name:rus_x_preferred":[
         "\u0417\u0430\u0434\u043e\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0417\u0430\u0434\u043e\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Zadonsky"
     ],
@@ -114,9 +114,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1522",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Zadonsk",
@@ -138,7 +138,7 @@
     "wof:concordances":{
         "gp:id":12598690,
         "hasc:id":"RU.LP.ZA",
-        "qs:id":989707,
+        "qs_pg:id":989707,
         "wd:id":"Q2217766",
         "wk:page":"Zadonsky District"
     },
@@ -155,7 +155,7 @@
         }
     ],
     "wof:id":890485457,
-    "wof:lastmodified":1563262065,
+    "wof:lastmodified":1566630561,
     "wof:name":"Zadonskiy",
     "wof:parent_id":85687917,
     "wof:placetype":"county",

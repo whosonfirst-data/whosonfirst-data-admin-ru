@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000106,
-    "geom:area_square_m":829989.520017,
+    "geom:area_square_m":829989.520016,
     "geom:bbox":"142.656829834,50.7774429321,142.670059204,50.7929458618",
     "geom:latitude":50.784732,
     "geom:longitude":142.663409,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.784743,
     "lbl:longitude":142.663409,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.784743,
     "mps:longitude":142.663409,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Krasnaya Tym'"
     ],
@@ -25,9 +28,6 @@
         "Krasnaja Tym"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0440\u0430\u0441\u043d\u0430\u044f \u0422\u044b\u043c\u044c"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0440\u0430\u0441\u043d\u0430\u044f \u0422\u044b\u043c\u044c"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688125,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102015399,
-    "wof:lastmodified":1501229457,
+    "wof:lastmodified":1566614929,
     "wof:name":"Krasnaya Tym'",
     "wof:parent_id":1108737125,
     "wof:placetype":"locality",

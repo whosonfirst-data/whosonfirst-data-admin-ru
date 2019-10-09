@@ -9,15 +9,18 @@
     "geom:bbox":"44.20306,44.74444,44.20306,44.74444",
     "geom:latitude":44.74444,
     "geom:longitude":44.20306,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":11420,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":11420,
     "iso:country":"RU",
+    "lbl:bbox":"44.18306,44.72444,44.22306,44.76444",
     "lbl:latitude":44.74444,
     "lbl:longitude":44.20306,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Praskoveya"
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041f\u0440\u0430\u0441\u043a\u043e\u0432\u0435\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Proskoveya"
     ],
     "qs_pg:aaroncc":"RU",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":124961,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85687825,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1125780055,
-    "wof:lastmodified":1509391500,
+    "wof:lastmodified":1566631035,
     "wof:name":"Praskoveya",
     "wof:parent_id":1108733115,
     "wof:placetype":"locality",

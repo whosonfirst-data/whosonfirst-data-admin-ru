@@ -11,11 +11,15 @@
     "geom:longitude":37.42145,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":1700,
+    "gn:population":1700,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"37.40145,44.77945,37.44145,44.81945",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Sukk\u00f3"
     ],
@@ -46,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043a\u043a\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u0443\u043a\u043a\u043e"
-    ],
     "qs:name":"Sukko",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Krasnodar Krai",
@@ -75,7 +76,7 @@
     "wof:concordances":{
         "gn:id":486456,
         "gp:id":2091854,
-        "qs:id":8040,
+        "qs_pg:id":8040,
         "wd:id":"Q1965562",
         "wk:page":"Sukko"
     },
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":890486967,
-    "wof:lastmodified":1563262783,
+    "wof:lastmodified":1566630869,
     "wof:name":"Sukko",
     "wof:parent_id":890485869,
     "wof:placetype":"locality",

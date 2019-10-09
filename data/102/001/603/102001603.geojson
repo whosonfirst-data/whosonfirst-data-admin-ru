@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.931498,
     "lbl:longitude":133.687884,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.931498,
     "mps:longitude":133.687884,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Krylowka"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         85688023,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":102001603,
-    "wof:lastmodified":1564108966,
+    "wof:lastmodified":1566615314,
     "wof:name":"Krylovka",
     "wof:parent_id":1108734449,
     "wof:placetype":"locality",

@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":50.760001,
     "lbl:longitude":104.990117,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Burjatija",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u0411\u0443\u0440\u044f\u0442\u0438\u044f",
@@ -54,6 +56,7 @@
     "mps:longitude":104.990117,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bak_x_preferred":[
         "\u0414\u0436\u0438\u0434\u0438\u043d \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
@@ -109,9 +112,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0438\u0434\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0414\u0436\u0438\u0434\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Dzhidinsky"
     ],
@@ -135,9 +135,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"8464",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Dzhida",
@@ -159,7 +159,7 @@
     "wof:concordances":{
         "gp:id":12597282,
         "hasc:id":"RU.BU.DZ",
-        "qs:id":1105798,
+        "qs_pg:id":1105798,
         "wd:id":"Q674607",
         "wk:page":"Dzhidinsky District"
     },
@@ -176,7 +176,7 @@
         }
     ],
     "wof:id":890484265,
-    "wof:lastmodified":1563262444,
+    "wof:lastmodified":1566630713,
     "wof:name":"Dzhidinskiy",
     "wof:parent_id":85688207,
     "wof:placetype":"county",

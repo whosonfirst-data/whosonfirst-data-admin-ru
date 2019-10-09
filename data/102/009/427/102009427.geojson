@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001926,
-    "geom:area_square_m":13631358.748083,
+    "geom:area_square_m":13631358.748082,
     "geom:bbox":"47.5574989319,55.0559463501,47.6481666565,55.0943603516",
     "geom:latitude":55.074656,
     "geom:longitude":47.605318,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.072869,
     "lbl:longitude":47.598449,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.072869,
     "mps:longitude":47.598449,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Batyrevo"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_variant":[
         "\u0411\u0430\u0442\u044b\u0440\u0451\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bol\u2019shoye Batyrevo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":78,
     "wof:belongsto":[
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":578659,
         "gp:id":2041349,
-        "qs:id":125746,
+        "qs_pg:id":125746,
         "wd:id":"Q4873391"
     },
     "wof:country":"RU",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":102009427,
-    "wof:lastmodified":1527637049,
+    "wof:lastmodified":1566615241,
     "wof:name":"Batyrevo",
     "wof:parent_id":1108732909,
     "wof:placetype":"locality",

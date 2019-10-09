@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.235752,
     "lbl:longitude":117.694287,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.235752,
     "mps:longitude":117.694287,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0631\u064a\u062a\u0646\u0633\u0643"
     ],
@@ -118,7 +121,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0440\u0454\u0442\u0435\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sryetensk"
     ],
     "name:vep_x_preferred":[
@@ -148,7 +151,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.25,
     "wd:longitude":117.716667,
@@ -164,7 +167,6 @@
     "wof:concordances":{
         "gn:id":2016110,
         "gp:id":2123635,
-        "qs:id":90377,
         "qs_pg:id":90377,
         "wd:id":"Q196469",
         "wk:page":"Sretensk"
@@ -182,7 +184,7 @@
         }
     ],
     "wof:id":102014563,
-    "wof:lastmodified":1563240139,
+    "wof:lastmodified":1566615118,
     "wof:name":"Sretensk",
     "wof:parent_id":890483677,
     "wof:placetype":"locality",

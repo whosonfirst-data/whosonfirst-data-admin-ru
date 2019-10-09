@@ -9,11 +9,13 @@
     "geom:bbox":"40.0854454041,45.8302230835,40.1537780762,45.8758049011",
     "geom:latitude":45.850479,
     "geom:longitude":40.116843,
-    "geonames:id":"483029,512533",
+    "gn:id":"483029,512533",
     "gn:population":64387,
     "iso:country":"RU",
     "lbl:latitude":45.851274,
     "lbl:longitude":40.117494,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":45.851274,
     "mps:longitude":40.117494,
     "mz:hierarchy_label":1,
@@ -123,9 +125,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0438\u0445\u043e\u0440\u0454\u0446\u044c\u043a"
-    ],
-    "name:unk_x_variant":[
-        "Tichorezk"
     ],
     "name:vep_x_preferred":[
         "Tihoreck"
@@ -252,7 +251,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.85,
     "wd:longitude":40.116667,
@@ -267,7 +266,6 @@
     "wof:concordances":{
         "gn:id":483029,
         "gp:id":55875135,
-        "qs:id":124774,
         "qs_pg:id":124774,
         "wd:id":"Q196658",
         "wk:page":"Tikhoretsk"
@@ -283,7 +281,7 @@
         }
     ],
     "wof:id":102007673,
-    "wof:lastmodified":1563240216,
+    "wof:lastmodified":1566615156,
     "wof:name":"Tikhoretsk",
     "wof:parent_id":1108737013,
     "wof:placetype":"locality",

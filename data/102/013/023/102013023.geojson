@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000541,
-    "geom:area_square_m":3871010.800414,
+    "geom:area_square_m":3871010.800415,
     "geom:bbox":"81.9035263062,54.6333045959,81.9393310547,54.6584434509",
     "geom:latitude":54.645618,
     "geom:longitude":81.921989,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.646359,
     "lbl:longitude":81.92054,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.646359,
     "mps:longitude":81.92054,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Verkhniy Chik"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0412\u0435\u0440\u0445-\u0427\u0438\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verkhne Chikovskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687925,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102013023,
-    "wof:lastmodified":1501219991,
+    "wof:lastmodified":1566615040,
     "wof:name":"Verkh-Chik",
     "wof:parent_id":1108735699,
     "wof:placetype":"locality",

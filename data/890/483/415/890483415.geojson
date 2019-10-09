@@ -11,11 +11,15 @@
     "geom:longitude":130.65156,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":776,
+    "gn:population":776,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"130.63156,42.40387,130.67156,42.44387",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u0430\u0440\u0430\u0434\u0441\u043a\u0456 \u043f\u0430\u0441\u0451\u043b\u0430\u043a \u0425\u0430\u0441\u0430\u043d"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0441\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "\u0425\u0430\u0441\u0430\u043d"
-    ],
     "name:zho_x_preferred":[
         "\u54c8\u6851"
     ],
@@ -101,7 +102,7 @@
     "wof:concordances":{
         "gn:id":2022586,
         "gp:id":2019290,
-        "qs:id":970327,
+        "qs_pg:id":970327,
         "wd:id":"Q1010163",
         "wk:page":"Khasan"
     },
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":890483415,
-    "wof:lastmodified":1563262248,
+    "wof:lastmodified":1566630634,
     "wof:name":"Khasan",
     "wof:parent_id":1108734355,
     "wof:placetype":"locality",

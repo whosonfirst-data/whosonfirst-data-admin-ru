@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":54.944125,
     "lbl:longitude":95.060862,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Krasnojarskij kraj",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":95.060862,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Sayanskiy Rayon"
     ],
@@ -90,9 +93,6 @@
     "name:srp_x_preferred":[
         "\u0421\u0430\u0458\u0430\u043d\u0441\u043a\u0438 \u0440\u0435\u0458\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0421\u0430\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Sayansky"
     ],
@@ -100,7 +100,7 @@
         "\u85a9\u63da\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688139,
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":1108736359,
-    "wof:lastmodified":1563256753,
+    "wof:lastmodified":1566627016,
     "wof:name":"Sajanskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

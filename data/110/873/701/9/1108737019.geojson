@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":55.361307,
     "lbl:longitude":88.118473,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kemerovskaja oblast'",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":88.118473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0422\u044b\u0441\u0443\u043b\u044c\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -93,9 +96,6 @@
     "name:rus_x_preferred":[
         "\u0422\u0438\u0441\u0443\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0422\u0438\u0441\u0443\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Tisulsky"
     ],
@@ -103,7 +103,7 @@
         "\u5b63\u8607\u5229\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688105,
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":1108737019,
-    "wof:lastmodified":1563256497,
+    "wof:lastmodified":1566626855,
     "wof:name":"Tisul'skiy",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

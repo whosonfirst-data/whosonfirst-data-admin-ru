@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":55.54249,
     "lbl:longitude":158.14398,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kamchatskij kraj",
     "meso:admin1r_en":"Dal'nevostochnyj federal'nyj okrug",
     "meso:admin_1":"\u041a\u0430\u043c\u0447\u0430\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":158.14398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Bystrinskiy Rayon"
     ],
@@ -93,9 +96,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0438\u0441\u0442\u0440\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0411\u044b\u0441\u0442\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Bystrinsky"
     ],
@@ -103,7 +103,7 @@
         "\u8c9d\u65af\u7279\u6797\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687955,
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":1108733155,
-    "wof:lastmodified":1563256837,
+    "wof:lastmodified":1566627068,
     "wof:name":"Bystrinskiy",
     "wof:parent_id":85687955,
     "wof:placetype":"county",

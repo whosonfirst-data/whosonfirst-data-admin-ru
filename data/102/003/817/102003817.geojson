@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.424663,
     "lbl:longitude":40.387669,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.424663,
     "mps:longitude":40.387669,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0628\u0633\u0643-\u0631\u064a\u0627\u0632\u0627\u0646\u0633\u0643\u0627\u064a"
     ],
@@ -121,7 +124,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043f\u0430\u0441\u044c\u043a-\u0420\u044f\u0437\u0430\u043d\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Spassk"
     ],
     "name:war_x_preferred":[
@@ -146,7 +149,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.4,
     "wd:longitude":40.383333,
@@ -162,7 +165,7 @@
     "wof:concordances":{
         "gn:id":489741,
         "gp:id":2123618,
-        "qs:id":194585,
+        "qs_pg:id":194585,
         "wd:id":"Q196458",
         "wk:page":"Spassk-Ryazansky"
     },
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":102003817,
-    "wof:lastmodified":1563241099,
+    "wof:lastmodified":1566615525,
     "wof:name":"Spassk-Ryazanskiy",
     "wof:parent_id":1108736777,
     "wof:placetype":"locality",

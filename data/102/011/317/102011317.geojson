@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000487,
-    "geom:area_square_m":3794589.715841,
+    "geom:area_square_m":3794589.715843,
     "geom:bbox":"48.7257232666,50.9080276489,48.7747764587,50.9282226562",
     "geom:latitude":50.918387,
     "geom:longitude":48.750524,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.915706,
     "lbl:longitude":48.750524,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.915706,
     "mps:longitude":48.750524,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Verkhazovka"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687995,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102011317,
-    "wof:lastmodified":1501214429,
+    "wof:lastmodified":1566615421,
     "wof:name":"Verkhazovka",
     "wof:parent_id":1108733363,
     "wof:placetype":"locality",

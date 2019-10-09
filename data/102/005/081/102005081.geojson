@@ -5,21 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001,
-    "geom:area_square_m":7590779.427463,
+    "geom:area_square_m":7590779.427461,
     "geom:bbox":"39.5016098022,52.1101112366,39.577167511,52.1458892822",
     "geom:latitude":52.130258,
     "geom:longitude":39.539301,
     "iso:country":"RU",
     "lbl:latitude":52.131837,
     "lbl:longitude":39.539301,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.131837,
     "mps:longitude":39.539301,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041e\u0442\u0440\u043e\u0436\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Otrozhki"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -38,7 +41,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687917,
         102191581,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102005081,
-    "wof:lastmodified":1501214564,
+    "wof:lastmodified":1566615646,
     "wof:name":"Otrozhka",
     "wof:parent_id":1108737205,
     "wof:placetype":"locality",

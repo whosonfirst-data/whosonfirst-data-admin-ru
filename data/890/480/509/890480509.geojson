@@ -11,8 +11,11 @@
     "geom:longitude":124.63825,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":66320,
+    "gn:population":66320,
     "iso:country":"RU",
+    "lbl:bbox":"124.61825,56.64637,124.65825,56.68637",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -154,7 +157,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0440\u044e\u043d\u0433\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neryungra"
     ],
     "name:urd_x_preferred":[
@@ -283,7 +286,7 @@
     "wof:concordances":{
         "gn:id":2019309,
         "gp:id":2050745,
-        "qs:id":274101,
+        "qs_pg:id":274101,
         "wd:id":"Q172470",
         "wk:page":"Neryungri"
     },
@@ -301,7 +304,7 @@
         }
     ],
     "wof:id":890480509,
-    "wof:lastmodified":1563263041,
+    "wof:lastmodified":1566630980,
     "wof:name":"Neryungri",
     "wof:parent_id":1108735349,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000341,
-    "geom:area_square_m":3010645.867144,
+    "geom:area_square_m":3010645.867142,
     "geom:bbox":"42.7007331848,44.393825531,42.7359580994,44.4125709534",
     "geom:latitude":44.403226,
     "geom:longitude":42.720402,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.407272,
     "lbl:longitude":42.722137,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.407272,
     "mps:longitude":42.722137,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Soluno-Dmitriyevskoye"
     ],
@@ -34,9 +37,6 @@
     "name:rus_x_variant":[
         "\u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u0441\u043a\u0430\u044f",
         "\u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u0441\u043a\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
-        "\u0421\u043e\u043b\u0443\u043d\u043e-\u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u0441\u043a\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -56,18 +56,21 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687825
+        85687825,
+        1108732735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":565979,
         "gp:id":2086992,
-        "qs:id":124853,
+        "qs_pg:id":124853
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":453342
     },
     "wof:country":"RU",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":102015943,
-    "wof:lastmodified":1507750821,
+    "wof:lastmodified":1566614978,
     "wof:name":"Soluno-Dmitriyevskoye",
     "wof:parent_id":1108732735,
     "wof:placetype":"locality",

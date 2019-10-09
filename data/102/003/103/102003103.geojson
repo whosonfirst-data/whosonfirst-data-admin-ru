@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.834402,
     "lbl:longitude":38.430089,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":55.834402,
     "mps:longitude":38.430089,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0644\u064a\u0643\u062a\u0631\u0648\u0633\u062a\u0627\u0644"
     ],
@@ -235,7 +238,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.8,
     "wd:longitude":38.45,
@@ -251,7 +254,6 @@
     "wof:concordances":{
         "gn:id":563523,
         "gp:id":2004406,
-        "qs:id":810409,
         "qs_pg:id":810409,
         "wd:id":"Q198419",
         "wk:page":"Elektrostal"
@@ -269,7 +271,7 @@
         }
     ],
     "wof:id":102003103,
-    "wof:lastmodified":1563241063,
+    "wof:lastmodified":1566615517,
     "wof:name":"Elektrostal",
     "wof:parent_id":890479587,
     "wof:placetype":"locality",

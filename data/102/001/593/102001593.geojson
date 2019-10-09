@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":46.660877,
     "lbl:longitude":141.863039,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.660877,
     "mps:longitude":141.863039,
     "mz:hierarchy_label":1,
@@ -128,7 +130,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0432\u0435\u043b\u044c\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khonto"
     ],
     "name:urd_x_preferred":[
@@ -256,7 +258,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":46.65,
     "wd:longitude":141.866667,
@@ -272,7 +274,6 @@
     "wof:concordances":{
         "gn:id":2122894,
         "gp:id":2050877,
-        "qs:id":274171,
         "qs_pg:id":274171,
         "wd:id":"Q165790",
         "wk:page":"Nevelsk"
@@ -290,7 +291,7 @@
         }
     ],
     "wof:id":102001593,
-    "wof:lastmodified":1563240545,
+    "wof:lastmodified":1566615307,
     "wof:name":"Nevelsk",
     "wof:parent_id":890487717,
     "wof:placetype":"locality",

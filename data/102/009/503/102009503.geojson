@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000478,
-    "geom:area_square_m":3389393.500278,
+    "geom:area_square_m":3389393.500277,
     "geom:bbox":"46.5048332214,54.9625015259,46.5339736938,54.9885292053",
     "geom:latitude":54.974843,
     "geom:longitude":46.520009,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.975435,
     "lbl:longitude":46.520286,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.975435,
     "mps:longitude":46.520286,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mezhdurech'ye"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0435\u0436\u0434\u0443\u0440\u0435\u0447\u044c\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kladbishchi"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688111,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102009503,
-    "wof:lastmodified":1501214619,
+    "wof:lastmodified":1566615208,
     "wof:name":"Mezhdurech'Ye",
     "wof:parent_id":1108732667,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"34.6822,51.5655,34.6822,51.5655",
     "geom:latitude":51.5655,
     "geom:longitude":34.6822,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":17007,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":17007,
     "iso:country":"RU",
+    "lbl:bbox":"34.6622,51.5455,34.7022,51.5855",
     "lbl:latitude":51.5655,
     "lbl:longitude":34.6822,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0631\u0627\u064a\u0644\u0633\u0643"
@@ -121,9 +124,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0438\u043b\u044c\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "\u0420\u044b\u043b\u044c\u0441\u043a"
-    ],
     "name:war_x_preferred":[
         "Rylsk"
     ],
@@ -145,7 +145,7 @@
     "qs_pg:qs_id":128312,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688011,
@@ -174,7 +174,7 @@
         }
     ],
     "wof:id":1125864191,
-    "wof:lastmodified":1563263101,
+    "wof:lastmodified":1566631009,
     "wof:name":"Ryl\u2019sk",
     "wof:parent_id":1108736345,
     "wof:placetype":"locality",

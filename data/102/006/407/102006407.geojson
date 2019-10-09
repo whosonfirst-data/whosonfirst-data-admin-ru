@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000361,
-    "geom:area_square_m":2856538.917286,
+    "geom:area_square_m":2856538.917285,
     "geom:bbox":"43.7553901672,50.2328071594,43.8102226257,50.2454452515",
     "geom:latitude":50.239456,
     "geom:longitude":43.783936,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.241198,
     "lbl:longitude":43.786636,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.241198,
     "mps:longitude":43.786636,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sergiyevskaya"
     ],
@@ -25,9 +28,6 @@
         "Sergijevskaja"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u0435\u0440\u0433\u0438\u0435\u0432\u0441\u043a\u0430\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u0435\u0440\u0433\u0438\u0435\u0432\u0441\u043a\u0430\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":30,
     "wof:belongsto":[
         85688101,
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":102006407,
-    "wof:lastmodified":1527637262,
+    "wof:lastmodified":1566615347,
     "wof:name":"Sergiyevskaya",
     "wof:parent_id":1108733343,
     "wof:placetype":"locality",

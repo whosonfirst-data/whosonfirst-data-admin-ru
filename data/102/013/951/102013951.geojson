@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.009733,
     "lbl:longitude":90.378278,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":56.009733,
     "mps:longitude":90.378278,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0632\u0627\u0631\u0648\u0641\u0648"
     ],
@@ -151,7 +154,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -163,7 +166,6 @@
     "wof:concordances":{
         "gn:id":1497951,
         "gp:id":2050178,
-        "qs:id":845562,
         "qs_pg:id":845562,
         "wd:id":"Q163907",
         "wk:page":"Nazarovo, Krasnoyarsk Krai"
@@ -179,7 +181,7 @@
         }
     ],
     "wof:id":102013951,
-    "wof:lastmodified":1563240028,
+    "wof:lastmodified":1566615065,
     "wof:name":"Nazarovo",
     "wof:parent_id":1108735319,
     "wof:placetype":"locality",

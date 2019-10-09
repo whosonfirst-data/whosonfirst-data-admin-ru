@@ -11,11 +11,15 @@
     "geom:longitude":34.32049,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"34.30049,55.27202,34.34049,55.31202",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Novoye Selo"
     ],
@@ -23,9 +27,6 @@
         "Novoje Selo"
     ],
     "name:rus_x_preferred":[
-        "\u041d\u043e\u0432\u043e\u0435 \u0421\u0435\u043b\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u041d\u043e\u0432\u043e\u0435 \u0421\u0435\u043b\u043e"
     ],
     "qs:name":"Novoye Selo",
@@ -47,7 +48,7 @@
     "wof:concordances":{
         "gn:id":517415,
         "gp:id":2057439,
-        "qs:id":1061036
+        "qs_pg:id":1061036
     },
     "wof:country":"RU",
     "wof:created":1469054492,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":890483987,
-    "wof:lastmodified":1505343761,
+    "wof:lastmodified":1566630670,
     "wof:name":"Novoye Selo",
     "wof:parent_id":1108737499,
     "wof:placetype":"locality",

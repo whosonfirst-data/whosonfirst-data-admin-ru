@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001554,
-    "geom:area_square_m":12335204.407675,
+    "geom:area_square_m":12335204.407676,
     "geom:bbox":"41.158416748,50.0435829163,41.2641105652,50.0835571289",
     "geom:latitude":50.063258,
     "geom:longitude":41.216911,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.058529,
     "lbl:longitude":41.208103,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.058529,
     "mps:longitude":41.208103,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Krasnoflotskoye"
     ],
@@ -25,9 +28,6 @@
         "Krasnoflotskoje"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0440\u0430\u0441\u043d\u043e\u0444\u043b\u043e\u0442\u0441\u043a\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0444\u043b\u043e\u0442\u0441\u043a\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688051,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102006485,
-    "wof:lastmodified":1501214664,
+    "wof:lastmodified":1566615339,
     "wof:name":"Krasnoflotskoye",
     "wof:parent_id":1108735845,
     "wof:placetype":"locality",

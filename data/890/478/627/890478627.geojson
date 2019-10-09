@@ -11,10 +11,14 @@
     "geom:longitude":83.5498,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":6308,
+    "gn:population":6308,
     "iso:country":"RU",
+    "lbl:bbox":"83.5298,52.7759,83.5698,52.8159",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u041d\u0430\u0433\u043e\u0440\u043d\u044b\u0439"
     ],
@@ -36,9 +40,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0433\u043e\u0440\u043d\u0438\u0439"
     ],
-    "name:unk_x_variant":[
-        "\u041d\u0430\u0433\u043e\u0440\u043d\u044b\u0439"
-    ],
     "qs:name":"Nagornyy",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -56,7 +57,7 @@
     "wof:concordances":{
         "gn:id":1498067,
         "gp:id":2049610,
-        "qs:id":85129,
+        "qs_pg:id":85129,
         "wk:page":"Nagorny"
     },
     "wof:country":"RU",
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":890478627,
-    "wof:lastmodified":1564128878,
+    "wof:lastmodified":1566630486,
     "wof:name":"Nagornyy",
     "wof:parent_id":1108737067,
     "wof:placetype":"locality",

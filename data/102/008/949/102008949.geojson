@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000482,
-    "geom:area_square_m":3313935.854658,
+    "geom:area_square_m":3313935.854657,
     "geom:bbox":"50.3798599243,56.1769180298,50.4159431458,56.1958618164",
     "geom:latitude":56.18752,
     "geom:longitude":50.39877,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.186836,
     "lbl:longitude":50.398804,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.186836,
     "mps:longitude":50.398804,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Shemordan"
     ],
@@ -24,9 +27,6 @@
         "Sjemordan"
     ],
     "name:rus_x_preferred":[
-        "\u0428\u0435\u043c\u043e\u0440\u0434\u0430\u043d"
-    ],
-    "name:unk_x_variant":[
         "\u0428\u0435\u043c\u043e\u0440\u0434\u0430\u043d"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,18 +47,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688065
+        85688065,
+        1108736353
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":494925,
         "gp:id":2123432,
-        "qs:id":124865,
         "qs_pg:id":124865
     },
     "wof:country":"RU",
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102008949,
-    "wof:lastmodified":1505338932,
+    "wof:lastmodified":1566615280,
     "wof:name":"Shemordan",
     "wof:parent_id":1108736353,
     "wof:placetype":"locality",

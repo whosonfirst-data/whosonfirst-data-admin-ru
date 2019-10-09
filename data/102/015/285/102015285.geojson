@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":47.545325,
     "lbl:longitude":134.75098,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.545325,
     "mps:longitude":134.75098,
     "mz:hierarchy_label":1,
@@ -119,7 +121,7 @@
     "name:tur_x_preferred":[
         "Vyazemski"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vyazemskaya"
     ],
     "name:urd_x_preferred":[
@@ -247,7 +249,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -259,7 +261,6 @@
     "wof:concordances":{
         "gn:id":2013229,
         "gp:id":2124378,
-        "qs:id":277766,
         "qs_pg:id":277766,
         "wd:id":"Q134206",
         "wk:page":"Vyazemsky, Khabarovsk Krai"
@@ -275,7 +276,7 @@
         }
     ],
     "wof:id":102015285,
-    "wof:lastmodified":1563239798,
+    "wof:lastmodified":1566614965,
     "wof:name":"Vyazemskiy",
     "wof:parent_id":1108737493,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"52.9103,55.2884,52.9503,55.3284",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Atlas"
     ],
@@ -211,9 +215,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0442\u043b\u0430\u0441"
     ],
-    "name:und_x_variant":[
-        "\u0410\u0442\u043b\u0430\u0441"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0637\u0644\u0633"
     ],
@@ -260,7 +261,7 @@
         }
     ],
     "wof:id":1343883571,
-    "wof:lastmodified":1564112430,
+    "wof:lastmodified":1566618452,
     "wof:name":"Atlas",
     "wof:parent_id":1108735285,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"46.07118,53.71886,46.07118,53.71886",
     "geom:latitude":53.71886,
     "geom:longitude":46.07118,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":24300,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":24300,
     "iso:country":"RU",
+    "lbl:bbox":"46.05118,53.69886,46.09118,53.73886",
     "lbl:latitude":53.71886,
     "lbl:longitude":46.07118,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0646\u064a\u0643\u0648\u0644\u0633\u0643"
@@ -109,7 +112,7 @@
     "name:tur_x_preferred":[
         "Nikolsk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nikol\u2019skaya Pestravka"
     ],
     "name:war_x_preferred":[
@@ -133,7 +136,7 @@
     "qs_pg:qs_id":1029671,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85687999,
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":1125902615,
-    "wof:lastmodified":1563263125,
+    "wof:lastmodified":1566631019,
     "wof:name":"Nikol\u2019sk",
     "wof:parent_id":1108735369,
     "wof:placetype":"locality",

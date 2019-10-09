@@ -11,10 +11,14 @@
     "geom:longitude":39.18333,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":5857,
+    "gn:population":5857,
     "iso:country":"RU",
+    "lbl:bbox":"39.16333,51.31333,39.20333,51.35333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u041a\u043e\u043b\u043e\u0434\u0435\u0437\u043d\u044b\u0439"
     ],
@@ -25,9 +29,6 @@
         "Kolodeznyj"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u043e\u043b\u043e\u0434\u0435\u0437\u043d\u044b\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u043e\u043b\u043e\u0434\u0435\u0437\u043d\u044b\u0439"
     ],
     "qs:name":"Kolodeznyy",
@@ -46,7 +47,7 @@
     "wof:concordances":{
         "gn:id":546316,
         "gp:id":2057113,
-        "qs:id":275994,
+        "qs_pg:id":275994,
         "wd:id":"Q13663476"
     },
     "wof:country":"RU",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":890479733,
-    "wof:lastmodified":1514501819,
+    "wof:lastmodified":1566630751,
     "wof:name":"Kolodeznyy",
     "wof:parent_id":1108735563,
     "wof:placetype":"locality",

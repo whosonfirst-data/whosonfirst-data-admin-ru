@@ -9,23 +9,23 @@
     "geom:bbox":"46.68371,43.31866,46.68371,43.31866",
     "geom:latitude":43.31866,
     "geom:longitude":46.68371,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4093,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":4093,
     "iso:country":"RU",
+    "lbl:bbox":"46.66371,43.29866,46.70371,43.33866",
     "lbl:latitude":43.31866,
     "lbl:longitude":46.68371,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:nor_x_preferred":[
         "Batajurt"
     ],
     "name:rus_x_preferred":[
-        "\u0411\u043e\u0442\u0430\u044e\u0440\u0442"
-    ],
-    "name:unk_x_variant":[
         "\u0411\u043e\u0442\u0430\u044e\u0440\u0442"
     ],
     "qs_pg:aaroncc":"RU",
@@ -40,7 +40,7 @@
     "qs_pg:qs_id":81021,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688197,
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":1126035397,
-    "wof:lastmodified":1509408197,
+    "wof:lastmodified":1566631006,
     "wof:name":"Botayurt",
     "wof:parent_id":1108734357,
     "wof:placetype":"locality",

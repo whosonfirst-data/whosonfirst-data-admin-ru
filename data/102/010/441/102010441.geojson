@@ -16,6 +16,8 @@
     "iso:country":"RU",
     "lbl:latitude":53.527479,
     "lbl:longitude":49.272471,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":53.527479,
     "mps:longitude":49.272471,
     "mz:hierarchy_label":1,
@@ -839,7 +841,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":53.516667,
     "wd:longitude":49.416667,
@@ -856,7 +858,6 @@
     "wof:concordances":{
         "gn:id":482283,
         "gp:id":2096326,
-        "qs:id":237528,
         "qs_pg:id":237528,
         "wd:id":"Q1341",
         "wk:page":"Tolyatti"
@@ -874,7 +875,7 @@
         }
     ],
     "wof:id":102010441,
-    "wof:lastmodified":1563240974,
+    "wof:lastmodified":1566615477,
     "wof:name":"Tolyatti",
     "wof:parent_id":1108737055,
     "wof:placetype":"locality",

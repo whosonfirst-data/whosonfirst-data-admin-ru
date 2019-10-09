@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000523,
-    "geom:area_square_m":3489758.694024,
+    "geom:area_square_m":3489758.694027,
     "geom:bbox":"47.6343612671,57.3014984131,47.6848068237,57.3196105957",
     "geom:latitude":57.310251,
     "geom:longitude":47.65783,
     "iso:country":"RU",
     "lbl:latitude":57.312281,
     "lbl:longitude":47.64904,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.312281,
     "mps:longitude":47.64904,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kugalki"
     ],
@@ -23,9 +26,6 @@
         "Kugalki"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0443\u0433\u0430\u043b\u043a\u0438"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0443\u0433\u0430\u043b\u043a\u0438"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687903,
         102191581,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":102008605,
-    "wof:lastmodified":1501214654,
+    "wof:lastmodified":1566615270,
     "wof:name":"Kugalki",
     "wof:parent_id":1108734095,
     "wof:placetype":"locality",

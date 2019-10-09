@@ -9,17 +9,20 @@
     "geom:bbox":"42.9528884888,44.6935539246,43.0336380005,44.7284545898",
     "geom:latitude":44.708138,
     "geom:longitude":42.998054,
-    "geonames:id":"582993,841195",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":28006,
+    "gn:id":"582993,841195",
+    "gn:population":28006,
     "iso:country":"RU",
     "lbl:latitude":44.7075,
     "lbl:longitude":43.010901,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":44.7075,
     "mps:longitude":43.010901,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Aleksandrovskoye"
     ],
@@ -50,9 +53,6 @@
     "name:rus_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
-        "Alexandrowskoje"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
     "qs:a1_lc":"2600200000100",
@@ -73,7 +73,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":156,
     "wof:belongsto":[
@@ -87,7 +87,7 @@
     "wof:concordances":{
         "gn:id":582993,
         "gp:id":2119983,
-        "qs:id":125786,
+        "qs_pg:id":125786,
         "wd:id":"Q2643856",
         "wk:page":"Alexandrovsky"
     },
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":102015795,
-    "wof:lastmodified":1563239783,
+    "wof:lastmodified":1566614959,
     "wof:name":"Aleksandrovskoye",
     "wof:parent_id":1108732691,
     "wof:placetype":"locality",

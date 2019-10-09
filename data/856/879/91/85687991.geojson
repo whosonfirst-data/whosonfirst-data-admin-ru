@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":48.474504,
     "lbl:longitude":131.89228,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Yevrey",
     "meso:name_alt2":"Evrejskaja avtonomnaja oblast'",
     "meso:name_local":"\u0415\u0432\u0440\u0435\u0439\u0441\u043a\u0430\u044f \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -293,10 +294,6 @@
         "\u0404\u0432\u0440\u0435\u0439\u0441\u044c\u043a\u0430 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
     "name:und_x_variant":[
-        "Evrejskaja avtonomnaja oblast'",
-        "Yevrey"
-    ],
-    "name:unk_x_variant":[
         "Birobijan"
     ],
     "name:urd_x_preferred":[
@@ -398,9 +395,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"36,000",
     "statoids:area_mi":"13,900",
     "statoids:as_of_date":"2010-10-14",
@@ -463,11 +460,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734433,
+    "wof:lastmodified":1566618560,
     "wof:name":"Yevrey",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":176558,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ru",

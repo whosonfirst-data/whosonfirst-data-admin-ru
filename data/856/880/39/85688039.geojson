@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":51.739556,
     "lbl:longitude":95.742741,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Tuva",
     "meso:name_alt2":"Tyva",
     "meso:name_local":"\u0422\u044b\u0432\u0430",
@@ -343,13 +344,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0438\u0432\u0430"
     ],
-    "name:und_x_variant":[
-        "Tyva",
-        "Tuva"
-    ],
-    "name:unk_x_variant":[
-        "Tuva"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0648\u0648\u0627"
     ],
@@ -449,9 +443,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"170,500",
     "statoids:area_mi":"65,800",
     "statoids:as_of_date":"2010-10-14",
@@ -514,11 +508,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734413,
+    "wof:lastmodified":1566618525,
     "wof:name":"Tuva",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":307930,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ru",

@@ -11,7 +11,7 @@
     "geom:longitude":41.176701,
     "gn:country":"RU",
     "gn:fcode":"ADM2",
-    "gn:pop":20916,
+    "gn:population":20916,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
         "Tokarevskiy District"
@@ -33,6 +33,8 @@
     ],
     "lbl:latitude":52.070161,
     "lbl:longitude":41.203815,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tambovskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -56,6 +58,7 @@
     "mps:longitude":41.203815,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Tokarevskiy"
     ],
@@ -72,9 +75,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1444",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Tokarevka",
@@ -95,7 +98,7 @@
     "wof:concordances":{
         "gn:id":482496,
         "hasc:id":"RU.TB.TO",
-        "qs:id":80514
+        "qs_pg:id":80514
     },
     "wof:country":"RU",
     "wof:created":1469054190,
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":890478523,
-    "wof:lastmodified":1561582114,
+    "wof:lastmodified":1566630519,
     "wof:name":"Tokarevskiy",
     "wof:parent_id":85687829,
     "wof:placetype":"county",

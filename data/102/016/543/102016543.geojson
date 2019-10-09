@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.851398,
     "lbl:longitude":46.709284,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":43.851398,
     "mps:longitude":46.709284,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0632\u0644\u064a\u0627\u0631"
     ],
@@ -191,9 +194,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0437\u043b\u044f\u0440"
     ],
-    "name:unk_x_variant":[
-        "Kisljar"
-    ],
     "name:uzb_x_preferred":[
         "Kizlyar"
     ],
@@ -230,7 +230,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":43.85,
     "wd:longitude":46.716667,
@@ -245,7 +245,6 @@
     "wof:concordances":{
         "gn:id":547840,
         "gp:id":2022340,
-        "qs:id":125358,
         "qs_pg:id":125358,
         "wd:id":"Q145810",
         "wk:page":"Kizlyar"
@@ -261,7 +260,7 @@
         }
     ],
     "wof:id":102016543,
-    "wof:lastmodified":1563240896,
+    "wof:lastmodified":1566615442,
     "wof:name":"Kizlyar",
     "wof:parent_id":1108733781,
     "wof:placetype":"locality",

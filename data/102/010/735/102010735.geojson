@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.846559,
     "lbl:longitude":49.508535,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.846559,
     "mps:longitude":49.508535,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Osinki"
     ],
@@ -40,9 +43,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0456\u043d\u043a\u0456"
     ],
-    "name:unk_x_variant":[
-        "\u041e\u0441\u0438\u043d\u043a\u0438"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"6300300003600",
@@ -61,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":42,
     "wof:belongsto":[
@@ -74,7 +74,6 @@
     "wof:concordances":{
         "gn:id":514572,
         "gp:id":2122677,
-        "qs:id":870797,
         "qs_pg:id":870797
     },
     "wof:country":"RU",
@@ -88,7 +87,7 @@
         }
     ],
     "wof:id":102010735,
-    "wof:lastmodified":1564109172,
+    "wof:lastmodified":1566615495,
     "wof:name":"Osinki",
     "wof:parent_id":1108732985,
     "wof:placetype":"locality",

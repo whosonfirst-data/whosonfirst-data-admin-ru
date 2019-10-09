@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":43.577393,
     "lbl:longitude":47.145193,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Dagestan",
     "meso:admin1r_en":"Severo-Kavkazskij federal'nyj okrug",
     "meso:admin_1":"\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d",
@@ -53,6 +55,7 @@
     "mps:longitude":47.145193,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0628\u0627\u0628\u0627\u064a\u0648\u0631\u062a"
     ],
@@ -117,9 +120,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0431\u0430\u044e\u0440\u0442\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0411\u0430\u0431\u0430\u044e\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Babayurtovsky"
     ],
@@ -130,9 +130,9 @@
         "\u5df4\u5df4\u5c24\u723e\u6258\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"3386",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Babayurt",
@@ -166,7 +166,7 @@
         }
     ],
     "wof:id":1108732831,
-    "wof:lastmodified":1563257018,
+    "wof:lastmodified":1566627176,
     "wof:name":"Babajurtovskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

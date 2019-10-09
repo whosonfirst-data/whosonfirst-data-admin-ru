@@ -9,15 +9,18 @@
     "geom:bbox":"33.81595,57.43334,33.81595,57.43334",
     "geom:latitude":57.43334,
     "geom:longitude":33.81595,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2472,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":2472,
     "iso:country":"RU",
+    "lbl:bbox":"33.79595,57.41334,33.83595,57.45334",
     "lbl:latitude":57.43334,
     "lbl:longitude":33.81595,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u064a\u0643\u0648\u0648\u0643\u062a\u064a\u0627\u0628\u0631\u0633\u0643\u064a\u064a"
@@ -46,7 +49,7 @@
     "name:srp_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u043e\u043e\u043a\u0442\u0458\u0430\u0431\u0440\u0441\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Velikiy Oktyabr\u2019"
     ],
     "qs_pg:aaroncc":"RU",
@@ -61,7 +64,7 @@
     "qs_pg:qs_id":548963,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688047,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1126044667,
-    "wof:lastmodified":1563263093,
+    "wof:lastmodified":1566631005,
     "wof:name":"Velikooktyabr\u2019skiy",
     "wof:parent_id":1108733531,
     "wof:placetype":"locality",

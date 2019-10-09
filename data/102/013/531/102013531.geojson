@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.657389,
     "lbl:longitude":82.185389,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.657389,
     "mps:longitude":82.185389,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Borovskoye"
     ],
@@ -25,9 +28,6 @@
         "Borovskoje"
     ],
     "name:rus_x_preferred":[
-        "\u0411\u043e\u0440\u043e\u0432\u0441\u043a\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u0411\u043e\u0440\u043e\u0432\u0441\u043a\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":160,
     "wof:belongsto":[
         85687835,
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":102013531,
-    "wof:lastmodified":1527636665,
+    "wof:lastmodified":1566615064,
     "wof:name":"Borovskoye",
     "wof:parent_id":1108732675,
     "wof:placetype":"locality",

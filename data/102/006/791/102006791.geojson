@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000576,
-    "geom:area_square_m":4676165.736041,
+    "geom:area_square_m":4676165.736044,
     "geom:bbox":"43.8928833008,48.9332427979,43.9262466431,48.9591827393",
     "geom:latitude":48.946681,
     "geom:longitude":43.907906,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":48.945905,
     "lbl:longitude":43.906556,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.945905,
     "mps:longitude":43.906556,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vertyachiy"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0412\u0435\u0440\u0442\u044f\u0447\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vertyachi"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -48,17 +51,17 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688101
+        85688101,
+        1108733695
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":474193,
         "gp:id":2124252,
-        "qs:id":345127,
         "qs_pg:id":345127
     },
     "wof:country":"RU",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102006791,
-    "wof:lastmodified":1497291321,
+    "wof:lastmodified":1566615335,
     "wof:name":"Vertyachiy",
     "wof:parent_id":1108733695,
     "wof:placetype":"locality",

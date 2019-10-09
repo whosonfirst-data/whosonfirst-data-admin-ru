@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":50.719716,
     "lbl:longitude":136.625146,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Khabarovsk",
     "meso:name_alt2":"KHabarovskij kraj",
     "meso:name_local":"\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -291,9 +292,6 @@
     ],
     "name:und_x_variant":[
         "KHabarovskij kraj",
-        "Khabarovsk"
-    ],
-    "name:unk_x_variant":[
         "Khabarovsk Kray"
     ],
     "name:urd_x_preferred":[
@@ -383,9 +381,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"752,600",
     "statoids:area_mi":"290,600",
     "statoids:as_of_date":"2010-10-14",
@@ -447,11 +445,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734433,
+    "wof:lastmodified":1566618561,
     "wof:name":"Khabarovsk",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":1343869,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

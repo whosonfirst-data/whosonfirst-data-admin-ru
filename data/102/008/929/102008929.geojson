@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.243604,
     "lbl:longitude":51.149119,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.243604,
     "mps:longitude":51.149119,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0430\u044f \u041f\u0430\u043b\u044f\u043d\u0430"
     ],
@@ -59,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0430 \u041f\u043e\u043b\u044f\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0440\u0430\u0441\u043d\u0430\u044f \u041f\u043e\u043b\u044f\u043d\u0430"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"4300800001500",
@@ -80,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1487,
     "wof:belongsto":[
@@ -93,7 +93,6 @@
     "wof:concordances":{
         "gn:id":542640,
         "gp:id":2121604,
-        "qs:id":125306,
         "qs_pg:id":125306
     },
     "wof:country":"RU",
@@ -107,7 +106,7 @@
         }
     ],
     "wof:id":102008929,
-    "wof:lastmodified":1564108955,
+    "wof:lastmodified":1566615299,
     "wof:name":"Krasnaya Polyana",
     "wof:parent_id":1108737487,
     "wof:placetype":"locality",

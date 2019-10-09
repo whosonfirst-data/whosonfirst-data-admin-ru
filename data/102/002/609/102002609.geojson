@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":58.118795,
     "lbl:longitude":30.317008,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":58.118795,
     "mps:longitude":30.317008,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0644\u062a\u0633\u064a"
     ],
@@ -128,9 +131,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043b\u044c\u0446\u0456"
     ],
-    "name:unk_x_variant":[
-        "Solzy"
-    ],
     "name:vep_x_preferred":[
         "Sol'ci"
     ],
@@ -161,7 +161,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":58.116667,
     "wd:longitude":30.316667,
@@ -176,7 +176,6 @@
     "wof:concordances":{
         "gn:id":490750,
         "gp:id":2086606,
-        "qs:id":1226294,
         "qs_pg:id":1226294,
         "wd:id":"Q196390",
         "wk:page":"Soltsy"
@@ -192,7 +191,7 @@
         }
     ],
     "wof:id":102002609,
-    "wof:lastmodified":1563241622,
+    "wof:lastmodified":1566615709,
     "wof:name":"Soltsy",
     "wof:parent_id":1108736687,
     "wof:placetype":"locality",

@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":55.539321,
     "lbl:longitude":43.640397,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Nizheskaja oblast'",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":43.640397,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0410\u0440\u0437\u0430\u043c\u0430\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -94,9 +97,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0437\u0430\u043c\u0430\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0410\u0440\u0437\u0430\u043c\u0430\u0441\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Arzamassky"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":880,
     "wof:belongsto":[
         102191581,
@@ -128,7 +128,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598194,
-        "qs:id":1105846,
+        "qs_pg:id":1105846,
         "wd:id":"Q1650986",
         "wk:page":"Arzamassky District"
     },
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":890484307,
-    "wof:lastmodified":1563262348,
+    "wof:lastmodified":1566630675,
     "wof:name":"Arzamasskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

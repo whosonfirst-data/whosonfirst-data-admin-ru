@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000587,
-    "geom:area_square_m":5293293.086152,
+    "geom:area_square_m":5293293.086148,
     "geom:bbox":"44.6906318665,43.1359634399,44.7160987854,43.1703186035",
     "geom:latitude":43.155421,
     "geom:longitude":44.702623,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":43.154959,
     "lbl:longitude":44.703654,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.154959,
     "mps:longitude":44.703654,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041e\u043b\u044c\u0433\u0438\u043d\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ol\u2019ginskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +43,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687865,
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":102016465,
-    "wof:lastmodified":1501214571,
+    "wof:lastmodified":1566615440,
     "wof:name":"Ol'Ginskoye",
     "wof:parent_id":1108735973,
     "wof:placetype":"locality",

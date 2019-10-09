@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.984684,
     "lbl:longitude":79.235643,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.984684,
     "mps:longitude":79.235643,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Krasnoz\u00ebrskoye"
     ],
@@ -58,7 +61,7 @@
     "name:rus_x_variant":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0437\u0451\u0440\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasnozersk"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -77,7 +80,7 @@
     "qs:type":"\u0440\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":35,
     "wof:belongsto":[
@@ -91,7 +94,7 @@
     "wof:concordances":{
         "gn:id":1501988,
         "gp:id":2029266,
-        "qs:id":556185,
+        "qs_pg:id":556185,
         "wd:id":"Q919091"
     },
     "wof:country":"RU",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":102013181,
-    "wof:lastmodified":1563240009,
+    "wof:lastmodified":1566615056,
     "wof:name":"Krasnozerskoye",
     "wof:parent_id":1108734743,
     "wof:placetype":"locality",

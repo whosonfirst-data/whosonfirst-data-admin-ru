@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.210077,
     "lbl:longitude":104.095483,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.210077,
     "mps:longitude":104.095483,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u0644\u062e\u0648\u0641"
     ],
@@ -133,7 +136,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u043b\u0435\u0445\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shelikhov"
     ],
     "name:vep_x_preferred":[
@@ -163,7 +166,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.2,
     "wd:longitude":104.1,
@@ -178,7 +181,6 @@
     "wof:concordances":{
         "gn:id":2016764,
         "gp:id":2123423,
-        "qs:id":793613,
         "qs_pg:id":793613,
         "wd:id":"Q41993",
         "wk:page":"Shelekhov"
@@ -194,7 +196,7 @@
         }
     ],
     "wof:id":102014329,
-    "wof:lastmodified":1563240178,
+    "wof:lastmodified":1566615138,
     "wof:name":"Shelekhov",
     "wof:parent_id":1108736545,
     "wof:placetype":"locality",

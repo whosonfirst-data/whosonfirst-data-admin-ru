@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.366382,
     "lbl:longitude":56.182295,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.366382,
     "mps:longitude":56.182295,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bak_x_preferred":[
         "\u04a0\u044b\u0440\u043c\u044b\u04ab\u04a1\u0430\u043b\u044b"
     ],
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u043c\u0430\u0441\u043a\u0430\u043b\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karmakaly"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":76,
     "wof:belongsto":[
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":552312,
         "gp:id":2121227,
-        "qs:id":870782,
         "qs_pg:id":870782,
         "wd:id":"Q3792537"
     },
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":102009927,
-    "wof:lastmodified":1563240395,
+    "wof:lastmodified":1566615251,
     "wof:name":"Karmaskaly",
     "wof:parent_id":1108734283,
     "wof:placetype":"locality",

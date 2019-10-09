@@ -10,8 +10,10 @@
     "geom:latitude":59.917982,
     "geom:longitude":30.489122,
     "iso:country":"RU",
+    "lbl:bbox":"30.4841222793,59.91298183,30.4941222793,59.92298183",
     "lbl:latitude":59.917982,
     "lbl:longitude":30.489122,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:rus_x_preferred":[
         "\u041e\u043a\u043a\u0435\u0440\u0432\u0438\u043b\u044c"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108943459,
-    "wof:lastmodified":1510870351,
+    "wof:lastmodified":1566627430,
     "wof:name":"Okkervil",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

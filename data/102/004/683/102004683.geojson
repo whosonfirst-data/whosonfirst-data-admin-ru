@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":52.750464,
     "lbl:longitude":32.246791,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":52.750464,
     "mps:longitude":32.246791,
     "mz:hierarchy_label":1,
@@ -146,9 +148,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043b\u0438\u043d\u0446\u0456"
     ],
-    "name:unk_x_variant":[
-        "Klinzy"
-    ],
     "name:vep_x_preferred":[
         "Klincad"
     ],
@@ -277,7 +276,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.752778,
     "wd:longitude":32.236111,
@@ -292,7 +291,6 @@
     "wof:concordances":{
         "gn:id":547475,
         "gp:id":2022744,
-        "qs:id":1029794,
         "qs_pg:id":1029794,
         "wd:id":"Q153715",
         "wk:page":"Klintsy"
@@ -308,7 +306,7 @@
         }
     ],
     "wof:id":102004683,
-    "wof:lastmodified":1563241302,
+    "wof:lastmodified":1566615600,
     "wof:name":"Klintsy",
     "wof:parent_id":1108734495,
     "wof:placetype":"locality",

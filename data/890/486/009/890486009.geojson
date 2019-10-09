@@ -11,11 +11,15 @@
     "geom:longitude":29.94594,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":1968,
+    "gn:population":1968,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"29.92594,59.29812,29.96594,59.33812",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rozhdestveno"
     ],
@@ -49,9 +53,6 @@
     "name:rus_x_preferred":[
         "\u0420\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u0435\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u0420\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u0435\u043d\u043e"
-    ],
     "qs:name":"Rozhdestveno",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Leningrad Oblast",
@@ -74,7 +75,7 @@
     "wof:concordances":{
         "gn:id":500996,
         "gp:id":2075610,
-        "qs:id":124917,
+        "qs_pg:id":124917,
         "wd:id":"Q51001",
         "wk:page":"Rozhdestveno"
     },
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":890486009,
-    "wof:lastmodified":1563262753,
+    "wof:lastmodified":1566630854,
     "wof:name":"Rozhdestveno",
     "wof:parent_id":890484439,
     "wof:placetype":"locality",

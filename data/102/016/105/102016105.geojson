@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00022,
-    "geom:area_square_m":1956511.462228,
+    "geom:area_square_m":1956511.462227,
     "geom:bbox":"43.1401519775,44.0369300842,43.1648597717,44.0492973328",
     "geom:latitude":44.043545,
     "geom:longitude":43.151575,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.042956,
     "lbl:longitude":43.150104,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.042956,
     "mps:longitude":43.150104,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Konstantinowski"
     ],
@@ -33,9 +36,6 @@
     ],
     "name:sco_x_preferred":[
         "Konstantinovsky"
-    ],
-    "name:unk_x_variant":[
-        "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -55,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":91,
     "wof:belongsto":[
@@ -68,7 +68,6 @@
     "wof:concordances":{
         "gn:id":545276,
         "gp:id":2025345,
-        "qs:id":80835,
         "qs_pg:id":80835
     },
     "wof:country":"RU",
@@ -82,7 +81,7 @@
         }
     ],
     "wof:id":102016105,
-    "wof:lastmodified":1527637594,
+    "wof:lastmodified":1566615427,
     "wof:name":"Konstantinovskaya",
     "wof:parent_id":1108735963,
     "wof:placetype":"locality",

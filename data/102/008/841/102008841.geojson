@@ -5,25 +5,25 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000619,
-    "geom:area_square_m":4216957.18957,
+    "geom:area_square_m":4216957.189572,
     "geom:bbox":"57.113609314,56.545665741,57.161693573,56.5665550232",
     "geom:latitude":56.555927,
     "geom:longitude":57.13665,
-    "geonames:id":"498501,572882",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":5404,
+    "gn:id":"498501,572882",
+    "gn:population":5404,
     "iso:country":"RU",
     "lbl:latitude":56.556716,
     "lbl:longitude":57.136192,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.556716,
     "mps:longitude":57.136192,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
-        "\u0421\u0430\u0440\u0441"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u0430\u0440\u0441"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u043f\u0433\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687975,
@@ -59,7 +59,7 @@
     "wof:concordances":{
         "gn:id":498501,
         "gp:id":1992499,
-        "qs:id":80598
+        "qs_pg:id":80598
     },
     "wof:country":"RU",
     "wof:geomhash":"ba833c34cbd0d06c98889e27453ac373",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":102008841,
-    "wof:lastmodified":1505338932,
+    "wof:lastmodified":1566615288,
     "wof:name":"Sars",
     "wof:parent_id":1108735635,
     "wof:placetype":"locality",

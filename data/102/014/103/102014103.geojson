@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000276,
-    "geom:area_square_m":2004738.883503,
+    "geom:area_square_m":2004738.883505,
     "geom:bbox":"92.8011245728,54.0354270935,92.8180999756,54.0589866638",
     "geom:latitude":54.047368,
     "geom:longitude":92.810497,
@@ -14,11 +14,14 @@
     "iso:country":"RU",
     "lbl:latitude":54.046972,
     "lbl:longitude":92.810335,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.046972,
     "mps:longitude":92.810335,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Gryaznukha"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -37,7 +40,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688139,
         102191581,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102014103,
-    "wof:lastmodified":1501219994,
+    "wof:lastmodified":1566615088,
     "wof:name":"Ural'Skaya",
     "wof:parent_id":1108734817,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.025156,
     "lbl:longitude":93.050272,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":56.025156,
     "mps:longitude":93.050272,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:abk_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a"
     ],
@@ -361,7 +364,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.016667,
     "wd:longitude":92.866667,
@@ -394,7 +397,7 @@
         }
     ],
     "wof:id":102013953,
-    "wof:lastmodified":1563239964,
+    "wof:lastmodified":1566615035,
     "wof:megacity":1,
     "wof:name":"Krasnoyarsk",
     "wof:parent_id":1108734711,

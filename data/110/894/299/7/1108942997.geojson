@@ -10,8 +10,10 @@
     "geom:latitude":55.822612,
     "geom:longitude":37.525072,
     "iso:country":"RU",
+    "lbl:bbox":"37.5200715056,55.817612366,37.5300715056,55.827612366",
     "lbl:latitude":55.822612,
     "lbl:longitude":37.525072,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,14 +26,14 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u043f\u0442\u0435\u0432\u043e \u043d\u043e\u0432\u043e\u0435"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688085,
         102191581,
         85632685,
         102003033,
         874393555,
-        1108736095
+        1108736095,
+        85688085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1108942997,
-    "wof:lastmodified":1500066513,
+    "wof:lastmodified":1566627428,
     "wof:name":"Koptevo Novoe",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

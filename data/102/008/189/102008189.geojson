@@ -9,14 +9,16 @@
     "geom:bbox":"56.6694984436,59.3547782898,56.8609428406,59.4663619995",
     "geom:latitude":59.410272,
     "geom:longitude":56.775867,
-    "geonames:id":"577206,467386",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":167748,
+    "gn:id":"577206,467386",
+    "gn:population":167748,
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:latitude":59.41233,
     "lbl:longitude":56.753445,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":59.41233,
     "mps:longitude":56.753445,
     "mz:hierarchy_label":1,
@@ -208,7 +210,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0435\u0437\u043d\u0438\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Usol\u2019ye-Solikamskoye"
     ],
     "name:urd_x_preferred":[
@@ -344,7 +346,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":59.416667,
     "wd:longitude":56.783333,
@@ -360,7 +362,7 @@
     "wof:concordances":{
         "gn:id":577206,
         "gp:id":2120266,
-        "qs:id":29100,
+        "qs_pg:id":29100,
         "wd:id":"Q105002",
         "wk:page":"Berezniki"
     },
@@ -377,7 +379,7 @@
         }
     ],
     "wof:id":102008189,
-    "wof:lastmodified":1563240464,
+    "wof:lastmodified":1566615278,
     "wof:name":"Berezniki",
     "wof:parent_id":1108732971,
     "wof:placetype":"locality",

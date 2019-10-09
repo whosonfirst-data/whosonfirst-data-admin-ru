@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":44.160388,
     "lbl:longitude":133.280341,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":44.160388,
     "mps:longitude":133.280341,
     "mz:hierarchy_label":1,
@@ -185,7 +187,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0441\u0435\u043d\u044c\u0454\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Semenovka"
     ],
     "name:urd_x_preferred":[
@@ -314,7 +316,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":44.166667,
     "wd:longitude":133.266667,
@@ -331,7 +333,7 @@
         "gn:id":2027468,
         "gp:id":1984136,
         "loc:id":"n2005037432",
-        "qs:id":274114,
+        "qs_pg:id":274114,
         "wd:id":"Q103850",
         "wk:page":"Arsenyev"
     },
@@ -348,7 +350,7 @@
         }
     ],
     "wof:id":102001709,
-    "wof:lastmodified":1563240554,
+    "wof:lastmodified":1566615310,
     "wof:name":"Arsen'Yev",
     "wof:parent_id":1108732781,
     "wof:placetype":"locality",

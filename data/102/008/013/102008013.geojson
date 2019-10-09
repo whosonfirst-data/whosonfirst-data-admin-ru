@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0008,
-    "geom:area_square_m":6974716.069351,
+    "geom:area_square_m":6974716.06935,
     "geom:bbox":"38.101360321,45.1155815125,38.1468887329,45.1491127014",
     "geom:latitude":45.131118,
     "geom:longitude":38.12007,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.13383,
     "lbl:longitude":38.117828,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.13383,
     "mps:longitude":38.117828,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Troitskaya"
     ],
@@ -44,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":95,
     "wof:belongsto":[
@@ -58,7 +61,6 @@
     "wof:concordances":{
         "gn:id":481604,
         "gp:id":2123959,
-        "qs:id":124768,
         "qs_pg:id":124768
     },
     "wof:country":"RU",
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":102008013,
-    "wof:lastmodified":1527637244,
+    "wof:lastmodified":1566615266,
     "wof:name":"Troitskaya",
     "wof:parent_id":890483377,
     "wof:placetype":"locality",

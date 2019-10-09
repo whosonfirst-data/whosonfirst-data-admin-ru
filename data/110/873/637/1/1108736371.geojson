@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":53.237011,
     "lbl:longitude":50.219608,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Samarskaja oblast'",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":50.219608,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Samara"
     ],
@@ -332,9 +335,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043c\u0430\u0440\u0430"
     ],
-    "name:und_x_variant":[
-        "\u0421\u0430\u043c\u0430\u0440\u0430"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0645\u0627\u0631\u0627"
     ],
@@ -363,9 +363,9 @@
         "\u85a9\u99ac\u62c9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"190",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Samara",
@@ -397,7 +397,7 @@
         }
     ],
     "wof:id":1108736371,
-    "wof:lastmodified":1564124543,
+    "wof:lastmodified":1566627251,
     "wof:name":"Samara",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

@@ -9,13 +9,15 @@
     "geom:bbox":"87.8718032837,52.7549171448,87.929107666,52.782333374",
     "geom:latitude":52.76938,
     "geom:longitude":87.900262,
-    "geonames:id":"1490042,1492461",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":22779,
+    "gn:id":"1490042,1492461",
+    "gn:population":22779,
     "iso:country":"RU",
     "lbl:latitude":52.767953,
     "lbl:longitude":87.895077,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.767953,
     "mps:longitude":87.895077,
     "mz:hierarchy_label":1,
@@ -120,7 +122,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0448\u0442\u0430\u0433\u043e\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tashtapol"
     ],
     "name:vep_x_preferred":[
@@ -244,7 +246,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.766667,
     "wd:longitude":87.866667,
@@ -260,7 +262,7 @@
     "wof:concordances":{
         "gn:id":1490042,
         "gp:id":2094282,
-        "qs:id":273948,
+        "qs_pg:id":273948,
         "wd:id":"Q196629",
         "wk:page":"Tashtagol"
     },
@@ -277,7 +279,7 @@
         }
     ],
     "wof:id":102013493,
-    "wof:lastmodified":1563240044,
+    "wof:lastmodified":1566615073,
     "wof:name":"Tashtagol",
     "wof:parent_id":890484213,
     "wof:placetype":"locality",

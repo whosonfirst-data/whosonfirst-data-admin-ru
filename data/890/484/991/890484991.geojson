@@ -11,11 +11,15 @@
     "geom:longitude":55.8843,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"55.8643,54.4768,55.9043,54.5168",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u0411\u0443\u043b\u0433\u0430\u043a\u043e\u0432"
     ],
@@ -43,9 +47,6 @@
     "name:tat_x_preferred":[
         "\u0411\u043e\u043b\u0433\u0430\u043a"
     ],
-    "name:unk_x_variant":[
-        "\u0411\u0443\u043b\u0433\u0430\u043a\u043e\u0432\u043e"
-    ],
     "qs:name":"Bulgakovo",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Bashkortostan Republic",
@@ -68,7 +69,7 @@
     "wof:concordances":{
         "gn:id":571000,
         "gp:id":1995564,
-        "qs:id":1162163,
+        "qs_pg:id":1162163,
         "wd:id":"Q3951617",
         "wk:page":"Bulgakovo"
     },
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":890484991,
-    "wof:lastmodified":1563262353,
+    "wof:lastmodified":1566630677,
     "wof:name":"Bulgakovo",
     "wof:parent_id":890487019,
     "wof:placetype":"locality",

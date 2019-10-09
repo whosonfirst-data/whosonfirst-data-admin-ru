@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":45.045858,
     "lbl:longitude":41.97504,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.045858,
     "mps:longitude":41.97504,
     "mz:hierarchy_label":1,
@@ -279,7 +281,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Voroshilovsk"
     ],
     "name:urd_x_preferred":[
@@ -425,7 +427,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.05,
     "wd:longitude":41.983333,
@@ -441,10 +443,12 @@
     "wof:concordances":{
         "gn:id":487846,
         "gp:id":2090300,
-        "qs:id":349467,
-        "qs_pg:id":1127534,
+        "qs_pg:id":349467,
         "wd:id":"Q5206",
         "wk:page":"Stavropol"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1127534
     },
     "wof:country":"RU",
     "wof:geomhash":"6b5573545722a08e8cfe78cad5ce2cc6",
@@ -459,7 +463,7 @@
         }
     ],
     "wof:id":102008063,
-    "wof:lastmodified":1563240451,
+    "wof:lastmodified":1566615274,
     "wof:name":"Stavropol",
     "wof:parent_id":890487003,
     "wof:placetype":"locality",

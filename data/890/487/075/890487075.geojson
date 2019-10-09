@@ -11,11 +11,15 @@
     "geom:longitude":29.95,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424812,
     "iso:country":"RU",
+    "lbl:bbox":"29.93,61.61333,29.97,61.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Parikkala"
     ],
@@ -88,9 +92,6 @@
     "name:tur_x_preferred":[
         "Parikkala"
     ],
-    "name:unk_x_variant":[
-        "\u041f\u0430\u0440\u0438\u043a\u043a\u0430"
-    ],
     "name:zho_x_preferred":[
         "\u5e15\u91cc\u5361\u62c9"
     ],
@@ -118,7 +119,7 @@
     "wof:concordances":{
         "gn:id":512559,
         "gp:id":571052,
-        "qs:id":227094,
+        "qs_pg:id":227094,
         "wd:id":"Q240086",
         "wk:page":"Parikkala"
     },
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":890487075,
-    "wof:lastmodified":1563262929,
+    "wof:lastmodified":1566630927,
     "wof:name":"Parikkala",
     "wof:parent_id":890482597,
     "wof:placetype":"locality",

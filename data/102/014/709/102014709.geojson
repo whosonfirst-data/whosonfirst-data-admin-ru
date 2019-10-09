@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000231,
-    "geom:area_square_m":1782122.354447,
+    "geom:area_square_m":1782122.354446,
     "geom:bbox":"106.64944458,51.4024734497,106.675308228,51.419418335",
     "geom:latitude":51.410894,
     "geom:longitude":106.662722,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.411254,
     "lbl:longitude":106.662918,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.411254,
     "mps:longitude":106.662918,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zhargalanta"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0416\u0430\u0440\u0433\u0430\u043b\u0430\u043d\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zhergalanta"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0443",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688207,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102014709,
-    "wof:lastmodified":1501223613,
+    "wof:lastmodified":1566615091,
     "wof:name":"Zhargalanta",
     "wof:parent_id":890485355,
     "wof:placetype":"locality",

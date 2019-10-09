@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000557,
-    "geom:area_square_m":4276086.697746,
+    "geom:area_square_m":4276086.697744,
     "geom:bbox":"48.9895820618,51.6128349304,49.0603599548,51.631362915",
     "geom:latitude":51.620939,
     "geom:longitude":49.024159,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":51.618321,
     "lbl:longitude":49.024159,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.618321,
     "mps:longitude":49.024159,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0443\u0441\u043f\u0435\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novouspenka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +43,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687995,
         102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":102011111,
-    "wof:lastmodified":1501214589,
+    "wof:lastmodified":1566615397,
     "wof:name":"Novaya Uspenka",
     "wof:parent_id":1108734727,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":32.80488,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":7062,
+    "gn:population":7062,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"32.78488,69.29914,32.82488,69.33914",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u062f\u064a\u0627\u064a\u064a\u0641\u0648"
     ],
@@ -70,9 +74,6 @@
     "name:srp_x_preferred":[
         "\u0412\u0438\u0434\u0458\u0430\u0458\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u0412\u0438\u0434\u044f\u0435\u0432\u043e"
-    ],
     "qs:name":"Vidyayeva",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Murmansk Oblast",
@@ -92,7 +93,7 @@
     "wof:concordances":{
         "gn:id":795235,
         "gp:id":2106533,
-        "qs:id":457103,
+        "qs_pg:id":457103,
         "wd:id":"Q1249732"
     },
     "wof:country":"RU",
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":890486391,
-    "wof:lastmodified":1563262721,
+    "wof:lastmodified":1566630840,
     "wof:name":"Vidyayeva",
     "wof:parent_id":1108737431,
     "wof:placetype":"locality",

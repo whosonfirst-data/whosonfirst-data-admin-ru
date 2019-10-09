@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":56.989072,
     "lbl:longitude":67.835442,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tjumenskaja oblast'",
     "meso:admin1r_en":"Ural'skij federal'nyj okrug",
     "meso:admin_1":"\u0422\u044e\u043c\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":67.835442,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Jurginskiy"
     ],
@@ -64,9 +67,9 @@
         "\u042e\u0440\u0433\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"4499",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Lesnoy",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108734145,
-    "wof:lastmodified":1561581971,
+    "wof:lastmodified":1566626940,
     "wof:name":"Jurginskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",

@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":56.981661,
     "lbl:longitude":41.525445,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Ivanovo",
     "meso:name_alt2":"Ivanovskaja oblast'",
     "meso:name_local":"\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -257,13 +258,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u0432\u0430\u043d\u043e\u0432\u043e"
     ],
-    "name:und_x_variant":[
-        "Ivanovskaja oblast'",
-        "Ivanovo"
-    ],
-    "name:unk_x_variant":[
-        "Ivanovo Oblast"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0648\u0627\u0646\u0648\u0648"
     ],
@@ -354,9 +348,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"23,900",
     "statoids:area_mi":"9,200",
     "statoids:as_of_date":"2010-10-14",
@@ -418,11 +412,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734421,
+    "wof:lastmodified":1566618541,
     "wof:name":"Ivanovo",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":1061651,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

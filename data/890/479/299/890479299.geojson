@@ -11,8 +11,11 @@
     "geom:longitude":109.32297,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":25800,
+    "gn:population":25800,
     "iso:country":"RU",
+    "lbl:bbox":"109.30297,55.61695,109.34297,55.65695",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -132,9 +135,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0454\u0432\u0435\u0440\u043e\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u044c\u043a"
-    ],
-    "name:unk_x_variant":[
-        "\u0421\u0435\u0432\u0435\u0440\u043e\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u043a"
     ],
     "name:vep_x_preferred":[
         "Severobaikal'sk"
@@ -259,7 +259,7 @@
     "wof:concordances":{
         "gn:id":2016910,
         "gp:id":2080831,
-        "qs:id":274096,
+        "qs_pg:id":274096,
         "wd:id":"Q193662"
     },
     "wof:country":"RU",
@@ -276,7 +276,7 @@
         }
     ],
     "wof:id":890479299,
-    "wof:lastmodified":1563262578,
+    "wof:lastmodified":1566630771,
     "wof:name":"Severobaykal\u2019sk",
     "wof:parent_id":1108736475,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":44.09503,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":3182,
+    "gn:population":3182,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"44.07503,56.24201,44.11503,56.28201",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0641\u0648\u0646\u064a\u0646\u0648"
     ],
@@ -35,9 +39,6 @@
         "Afonino"
     ],
     "name:rus_x_preferred":[
-        "\u0410\u0444\u043e\u043d\u0438\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u0410\u0444\u043e\u043d\u0438\u043d\u043e"
     ],
     "qs:name":"Afonino",
@@ -60,7 +61,7 @@
     "wof:concordances":{
         "gn:id":584104,
         "gp:id":1980150,
-        "qs:id":433930,
+        "qs_pg:id":433930,
         "wd:id":"Q4072790",
         "wk:page":"Afonino"
     },
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":890486099,
-    "wof:lastmodified":1563262754,
+    "wof:lastmodified":1566630855,
     "wof:name":"Afonino",
     "wof:parent_id":890479255,
     "wof:placetype":"locality",

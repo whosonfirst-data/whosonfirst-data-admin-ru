@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":53.966913,
     "lbl:longitude":33.029525,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Smolenskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u0421\u043c\u043e\u043b\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":33.029525,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0420\u043e\u0441\u043b\u0430\u045e\u043b\u044c\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -103,9 +106,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0441\u043b\u0430\u0432\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0420\u043e\u0441\u043b\u0430\u0432\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Roslavlsky"
     ],
@@ -126,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":769,
     "wof:belongsto":[
         102191581,
@@ -137,7 +137,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12599278,
-        "qs:id":57734,
+        "qs_pg:id":57734,
         "wd:id":"Q2638901",
         "wk:page":"Roslavlsky District"
     },
@@ -154,7 +154,7 @@
         }
     ],
     "wof:id":890485717,
-    "wof:lastmodified":1563262078,
+    "wof:lastmodified":1566630566,
     "wof:name":"Roslavl'skiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002162,
-    "geom:area_square_m":15792030.093665,
+    "geom:area_square_m":15792030.093663,
     "geom:bbox":"87.2683639526,53.7515258789,87.3918075562,53.8043327332",
     "geom:latitude":53.785766,
     "geom:longitude":87.326466,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":53.78527,
     "lbl:longitude":87.341896,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.78527,
     "mps:longitude":87.341896,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0424\u0435\u0441\u044c\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fes\u2019ki"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -36,7 +39,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688105,
         102191581,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102013225,
-    "wof:lastmodified":1501220059,
+    "wof:lastmodified":1566615071,
     "wof:name":"Fes'Ki",
     "wof:parent_id":1108735509,
     "wof:placetype":"locality",

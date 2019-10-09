@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000423,
-    "geom:area_square_m":3473252.604729,
+    "geom:area_square_m":3473252.604726,
     "geom:bbox":"44.6071662903,48.3212509155,44.6341667175,48.3519439697",
     "geom:latitude":48.33762,
     "geom:longitude":44.619105,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":48.341437,
     "lbl:longitude":44.61665,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.341437,
     "mps:longitude":44.61665,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dubovyy Ovrag"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0414\u0443\u0431\u043e\u0432\u044b\u0439 \u041e\u0432\u0440\u0430\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dubovy Ovrag"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688101,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102006987,
-    "wof:lastmodified":1501214749,
+    "wof:lastmodified":1566615374,
     "wof:name":"Dubovyy Ovrag",
     "wof:parent_id":1108736877,
     "wof:placetype":"locality",

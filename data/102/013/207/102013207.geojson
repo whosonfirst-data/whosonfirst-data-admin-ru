@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.819357,
     "lbl:longitude":83.572011,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.819357,
     "mps:longitude":83.572011,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0422\u0430\u043b\u044c\u043c\u0435\u043d\u043a\u0430"
     ],
@@ -58,7 +61,7 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u043b\u044c\u043c\u0435\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tal\u2019menskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -73,7 +76,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":86,
     "wof:belongsto":[
@@ -87,7 +90,7 @@
     "wof:concordances":{
         "gn:id":1490266,
         "gp:id":2093469,
-        "qs:id":1026879,
+        "qs_pg:id":1026879,
         "wd:id":"Q201979"
     },
     "wof:country":"RU",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":102013207,
-    "wof:lastmodified":1563240046,
+    "wof:lastmodified":1566615074,
     "wof:name":"Talmenka",
     "wof:parent_id":1108736923,
     "wof:placetype":"locality",

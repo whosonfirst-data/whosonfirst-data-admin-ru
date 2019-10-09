@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001108,
-    "geom:area_square_m":7989777.343988,
+    "geom:area_square_m":7989777.343986,
     "geom:bbox":"40.842338562,54.2997055054,40.9081115723,54.331161499",
     "geom:latitude":54.317826,
     "geom:longitude":40.875412,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.318311,
     "lbl:longitude":40.874913,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":54.318311,
     "mps:longitude":40.874913,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Shilovo"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0428\u0438\u043b\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Schilowo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":965,
     "wof:belongsto":[
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":494427,
         "gp:id":2123446,
-        "qs:id":275917,
         "qs_pg:id":275917,
         "wd:id":"Q7496756"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":102003865,
-    "wof:lastmodified":1527637838,
+    "wof:lastmodified":1566615555,
     "wof:name":"Shilovo",
     "wof:parent_id":1108736583,
     "wof:placetype":"locality",

@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":49.299577,
     "lbl:longitude":44.729496,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Volgogradskaja oblast'",
     "meso:admin1r_en":"JUzhnyj federal'nyj okrug",
     "meso:admin_1":"\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":44.729496,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Dubovskiy"
     ],
@@ -73,9 +76,6 @@
     "name:rus_x_preferred":[
         "\u0414\u0443\u0431\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0414\u0443\u0431\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "qs:name":"Dubovskiy Raion",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Volgograd Oblast",
@@ -90,9 +90,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"3064",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Dubovka",
@@ -114,7 +114,7 @@
     "wof:concordances":{
         "gp:id":12599554,
         "hasc:id":"RU.VG.DU",
-        "qs:id":1209336,
+        "qs_pg:id":1209336,
         "wd:id":"Q3715781",
         "wk:page":"Dubovsky District"
     },
@@ -131,7 +131,7 @@
         }
     ],
     "wof:id":890480123,
-    "wof:lastmodified":1563263072,
+    "wof:lastmodified":1566630996,
     "wof:name":"Dubovskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

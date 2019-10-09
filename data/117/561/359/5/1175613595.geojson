@@ -9,17 +9,20 @@
     "geom:bbox":"32.6408882141,55.0480537415,32.7267227173,55.0801124573",
     "geom:latitude":55.066111,
     "geom:longitude":32.689974,
-    "geonames:id":"468866,468867",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":52706,
+    "gn:id":"468866,468867",
+    "gn:population":52706,
     "iso:country":"RU",
     "lbl:latitude":55.071562,
     "lbl:longitude":32.661393,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":55.071562,
     "mps:longitude":32.661393,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u064a\u0627\u0631\u062a\u0633\u064a\u0641\u0648"
     ],
@@ -134,9 +137,6 @@
     "name:ukr_x_preferred":[
         "\u042f\u0440\u0446\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u042f\u0440\u0446\u0435\u0432\u043e"
-    ],
     "name:vie_x_preferred":[
         "Yartsevo"
     ],
@@ -169,7 +169,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":435,
     "wof:belongsto":[
@@ -184,7 +184,7 @@
     "wof:concordances":{
         "gn:id":468866,
         "gp:id":90610526,
-        "qs:id":207393,
+        "qs_pg:id":207393,
         "wd:id":"Q199004",
         "wk:page":"Yartsevo"
     },
@@ -201,7 +201,7 @@
         }
     ],
     "wof:id":1175613595,
-    "wof:lastmodified":1563257456,
+    "wof:lastmodified":1566627440,
     "wof:name":"Yartsevo",
     "wof:parent_id":1108734097,
     "wof:placetype":"locality",

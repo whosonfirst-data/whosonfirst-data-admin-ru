@@ -20,6 +20,8 @@
     "lbl:bbox":"19.638524214,41.18535,179.98,81.86164",
     "lbl:latitude":63.314401,
     "lbl:longitude":93.884016,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":63.314401,
     "mps:longitude":93.884016,
     "mz:hierarchy_label":1,
@@ -1108,19 +1110,10 @@
     "name:und_x_colloquial":[
         "Rosia"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Rosija",
         "Ros\u00eda",
-        "Ruska",
-        "R\u00fassland",
-        "\u0420\u043e\u0441\u0441\u0438\u044f"
-    ],
-    "name:und_x_variant":[
         "Rossija",
-        "Rossiya",
-        "Ruska federacija"
-    ],
-    "name:unk_x_variant":[
         "Rossiyskaya Sovetskaya Federativnaya Sotsialisticheskaya Respublika"
     ],
     "name:urd_x_preferred":[
@@ -1291,7 +1284,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"7",
     "statoids:ds":"RUS",
@@ -1337,7 +1330,7 @@
         "mzb:id":"russian-federation",
         "ne:adm0_a3":"RUS",
         "nyt:id":"66221073798091489281",
-        "qs:id":351507,
+        "qs_pg:id":351507,
         "uncrt:id":"RUS",
         "wd:id":"Q159",
         "wmo:id":"RS"
@@ -1378,7 +1371,7 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734455,
+    "wof:lastmodified":1566618606,
     "wof:name":"Russia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

@@ -11,10 +11,14 @@
     "geom:longitude":36.04646,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":10977,
+    "gn:population":10977,
     "iso:country":"RU",
+    "lbl:bbox":"36.02646,54.40828,36.06646,54.44828",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:che_x_preferred":[
         "\u0412\u043e\u0440\u043e\u0442\u044b\u043d\u0441\u043a"
     ],
@@ -36,7 +40,7 @@
     "name:rus_x_preferred":[
         "\u0412\u043e\u0440\u043e\u0442\u044b\u043d\u0441\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pos\u00eblok Vorotynsk"
     ],
     "qs:name":"Vorotynsk",
@@ -59,10 +63,12 @@
     "wof:concordances":{
         "gn:id":471795,
         "gp:id":2108487,
-        "qs:id":129702,
-        "qs_pg:id":908897,
+        "qs_pg:id":129702,
         "wd:id":"Q4125957",
         "wk:page":"Vorotynsk"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":908897
     },
     "wof:country":"RU",
     "wof:created":1469054220,
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":890479075,
-    "wof:lastmodified":1563262555,
+    "wof:lastmodified":1566630760,
     "wof:name":"Vorotynsk",
     "wof:parent_id":1108735801,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000206,
-    "geom:area_square_m":1557139.411052,
+    "geom:area_square_m":1557139.41105,
     "geom:bbox":"117.004997253,52.3399429321,117.030586243,52.352306366",
     "geom:latitude":52.346347,
     "geom:longitude":117.018077,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.346072,
     "lbl:longitude":117.017833,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.346072,
     "mps:longitude":117.017833,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ukurey"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0423\u043a\u0443\u0440\u0435\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Okurei"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688005,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102014543,
-    "wof:lastmodified":1501223620,
+    "wof:lastmodified":1566615111,
     "wof:name":"Ukurey",
     "wof:parent_id":1108733267,
     "wof:placetype":"locality",

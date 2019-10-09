@@ -11,10 +11,12 @@
     "geom:longitude":37.659394,
     "gn:country":"RU",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"RU",
+    "lbl:bbox":"37.6543942926,55.6392970296,37.6643942926,55.6492970296",
     "lbl:latitude":55.644297,
     "lbl:longitude":37.659394,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -45,13 +47,13 @@
     "name:rus_x_preferred":[
         "\u041c\u043e\u0441\u043a\u0432\u043e\u0440\u0435\u0447\u044c\u0435-\u0421\u0430\u0431\u0443\u0440\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saburova"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u65af\u79d1\u85a9\u5e03\u7f85\u6c83\u5340"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +67,7 @@
     "wof:concordances":{
         "gn:id":499622,
         "gp:id":55875417,
-        "qs:id":1019848,
+        "qs_pg:id":1019848,
         "wd:id":"Q1963190",
         "wk:page":"Moskvorechye-Saburovo District"
     },
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":1108942837,
-    "wof:lastmodified":1563257400,
+    "wof:lastmodified":1566627422,
     "wof:name":"Moskvorechye-Saburovo",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

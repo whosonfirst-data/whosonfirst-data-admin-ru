@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.971807,
     "lbl:longitude":60.585066,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":56.971807,
     "mps:longitude":60.585066,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u062e\u0646\u064a\u0627\u064a\u0627 \u0628\u064a\u0634\u0645\u0627"
     ],
@@ -175,7 +178,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.966667,
     "wd:longitude":60.583333,
@@ -191,7 +194,6 @@
         "gn:id":1487281,
         "gp:id":2124241,
         "loc:id":"n2005021880",
-        "qs:id":410213,
         "qs_pg:id":410213,
         "wd:id":"Q133037",
         "wk:page":"Verkhnyaya Pyshma"
@@ -207,7 +209,7 @@
         }
     ],
     "wof:id":102011845,
-    "wof:lastmodified":1563240744,
+    "wof:lastmodified":1566615385,
     "wof:name":"Verkhnyaya Pyshma",
     "wof:parent_id":1108733893,
     "wof:placetype":"locality",

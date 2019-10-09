@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000937,
-    "geom:area_square_m":7242270.732379,
+    "geom:area_square_m":7242270.732376,
     "geom:bbox":"35.4761657715,51.3134460449,35.5374450684,51.345500946",
     "geom:latitude":51.328411,
     "geom:longitude":35.506301,
     "iso:country":"RU",
     "lbl:latitude":51.330777,
     "lbl:longitude":35.498177,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.330777,
     "mps:longitude":35.498177,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bol'shoye Soldatskoye"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u043b\u044c\u0448\u043e\u0435 \u0421\u043e\u043b\u0434\u0430\u0442\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Soldatskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688011,
         102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102005731,
-    "wof:lastmodified":1501214783,
+    "wof:lastmodified":1566615619,
     "wof:name":"Bol'Shoye Soldatskoye",
     "wof:parent_id":1108733077,
     "wof:placetype":"locality",

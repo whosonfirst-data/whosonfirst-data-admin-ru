@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000654,
-    "geom:area_square_m":4832381.530428,
+    "geom:area_square_m":4832381.530432,
     "geom:bbox":"89.8378601074,53.3100814819,89.8893356323,53.3365287781",
     "geom:latitude":53.321747,
     "geom:longitude":89.867247,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.32454,
     "lbl:longitude":89.877581,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.32454,
     "mps:longitude":89.877581,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Birikchul'"
     ],
@@ -25,9 +28,6 @@
         "Biriktsjul"
     ],
     "name:rus_x_preferred":[
-        "\u0411\u0438\u0440\u0438\u043a\u0447\u0443\u043b\u044c"
-    ],
-    "name:unk_x_variant":[
         "\u0411\u0438\u0440\u0438\u043a\u0447\u0443\u043b\u044c"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688061,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102013343,
-    "wof:lastmodified":1501220068,
+    "wof:lastmodified":1566615086,
     "wof:name":"Birikchul'",
     "wof:parent_id":1108732805,
     "wof:placetype":"locality",

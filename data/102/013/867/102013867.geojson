@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000724,
-    "geom:area_square_m":4755019.204723,
+    "geom:area_square_m":4755019.204722,
     "geom:bbox":"102.754417419,57.921081543,102.811470032,57.943195343",
     "geom:latitude":57.931635,
     "geom:longitude":102.786351,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.932518,
     "lbl:longitude":102.790673,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.932518,
     "mps:longitude":102.790673,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Zheleznodorozhnyy"
     ],
@@ -27,9 +30,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0416\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u0439"
-    ],
-    "name:unk_x_variant":[
-        "Zheleznodorozhnyy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0418\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -47,7 +47,7 @@
     "qs:type":"\u0440\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688173,
@@ -60,7 +60,7 @@
     "wof:concordances":{
         "gn:id":2012561,
         "gp:id":2117908,
-        "qs:id":137374
+        "qs_pg:id":137374
     },
     "wof:country":"RU",
     "wof:geomhash":"b43c36143301dc7eb5defa1774d50ed7",
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":102013867,
-    "wof:lastmodified":1505338943,
+    "wof:lastmodified":1566615050,
     "wof:name":"Zheleznodorozhnny",
     "wof:parent_id":890480045,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":40.33746,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":28000,
+    "gn:population":28000,
     "iso:country":"RU",
+    "lbl:bbox":"40.31746,62.74409,40.35746,62.78409",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0631\u0646\u064a\u060c \u0623\u0631\u062e\u0627\u0646\u062c\u064a\u0644\u0633\u0643 \u0623\u0648\u0628\u0644\u0627\u0633\u062a"
     ],
@@ -132,7 +136,7 @@
     "name:tur_x_preferred":[
         "Mirni"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Leningrad-300"
     ],
     "name:vep_x_preferred":[
@@ -161,7 +165,7 @@
     "wof:concordances":{
         "gn:id":831129,
         "gp:id":56123394,
-        "qs:id":129735,
+        "qs_pg:id":129735,
         "wd:id":"Q105465",
         "wk:page":"Mirny"
     },
@@ -179,7 +183,7 @@
         }
     ],
     "wof:id":890479083,
-    "wof:lastmodified":1563262487,
+    "wof:lastmodified":1566630732,
     "wof:name":"Mirnyy",
     "wof:parent_id":1108735161,
     "wof:placetype":"locality",

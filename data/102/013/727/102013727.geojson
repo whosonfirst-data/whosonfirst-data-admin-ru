@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001427,
-    "geom:area_square_m":10854743.956264,
+    "geom:area_square_m":10854743.956263,
     "geom:bbox":"80.3278808594,52.0042152405,80.3872909546,52.0451698303",
     "geom:latitude":52.024964,
     "geom:longitude":80.357866,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.026337,
     "lbl:longitude":80.360342,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.026337,
     "mps:longitude":80.360342,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Volchikha"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0412\u043e\u043b\u0447\u0438\u0445\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Voltchikha"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":217,
     "wof:belongsto":[
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":1486983,
         "gp:id":2124295,
-        "qs:id":132779,
         "qs_pg:id":132779,
         "wd:id":"Q7940102"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":102013727,
-    "wof:lastmodified":1527636667,
+    "wof:lastmodified":1566615086,
     "wof:name":"Volchikha",
     "wof:parent_id":1108737569,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":62.707087,
     "lbl:longitude":56.201935,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":62.707087,
     "mps:longitude":56.201935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0422\u0440\u043e\u0456\u0446\u043a\u0430-\u041f\u044f\u0447\u043e\u0440\u0441\u043a"
     ],
@@ -76,7 +79,7 @@
     "name:spa_x_preferred":[
         "Troitsko-Pechorsk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Troitsko-Pechorskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":801,
     "wof:belongsto":[
@@ -110,7 +113,6 @@
     "wof:concordances":{
         "gn:id":481548,
         "gp:id":2097339,
-        "qs:id":1242743,
         "qs_pg:id":1242743,
         "wd:id":"Q2627787",
         "wk:page":"Troitsko-Pechorsk"
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":102001997,
-    "wof:lastmodified":1563240556,
+    "wof:lastmodified":1566615310,
     "wof:name":"Troitsko-Pechorsk",
     "wof:parent_id":1108737089,
     "wof:placetype":"locality",

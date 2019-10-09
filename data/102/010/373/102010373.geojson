@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":53.649665,
     "lbl:longitude":55.965996,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":53.649665,
     "mps:longitude":55.965996,
     "mz:hierarchy_label":1,
@@ -221,9 +223,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0435\u0440\u043b\u0456\u0442\u0430\u043c\u0430\u043a"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u0442\u0435\u0440\u043b\u0438\u0442\u0430\u043c\u0430\u043a"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u062a\u06cc\u0631\u0644\u06cc\u062a\u0627\u0645\u0627\u06a9"
     ],
@@ -352,7 +351,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.633333,
     "wd:longitude":55.95,
@@ -367,7 +366,6 @@
     "wof:concordances":{
         "gn:id":487495,
         "gp:id":2123697,
-        "qs:id":349466,
         "qs_pg:id":349466,
         "wd:id":"Q196489",
         "wk:page":"Sterlitamak"
@@ -383,7 +381,7 @@
         }
     ],
     "wof:id":102010373,
-    "wof:lastmodified":1563241048,
+    "wof:lastmodified":1566615512,
     "wof:name":"Sterlitamak",
     "wof:parent_id":1108736815,
     "wof:placetype":"locality",

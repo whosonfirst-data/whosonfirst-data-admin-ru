@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":56.610177,
     "lbl:longitude":57.77311,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":56.610177,
     "mps:longitude":57.77311,
     "mz:hierarchy_label":1,
@@ -120,7 +122,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0443\u0444\u0438\u043c\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasnoutimsk"
     ],
     "name:vep_x_preferred":[
@@ -245,7 +247,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.616667,
     "wd:longitude":57.766667,
@@ -260,7 +262,6 @@
     "wof:concordances":{
         "gn:id":542199,
         "gp:id":2121638,
-        "qs:id":1029746,
         "qs_pg:id":1029746,
         "wd:id":"Q155785",
         "wk:page":"Krasnoufimsk"
@@ -276,7 +277,7 @@
         }
     ],
     "wof:id":102008833,
-    "wof:lastmodified":1563240454,
+    "wof:lastmodified":1566615275,
     "wof:name":"Krasnoufimsk",
     "wof:parent_id":1108733797,
     "wof:placetype":"locality",

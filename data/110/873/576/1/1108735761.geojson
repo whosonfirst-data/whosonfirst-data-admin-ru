@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":58.151306,
     "lbl:longitude":80.170914,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tomskaja oblast'",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u0422\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":80.170914,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Parabel'skiy"
     ],
@@ -63,9 +66,9 @@
         "\u041f\u0430\u0440\u0430\u0431\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"36284",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Parabel'",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108735761,
-    "wof:lastmodified":1561582091,
+    "wof:lastmodified":1566627327,
     "wof:name":"Parabel'skiy",
     "wof:parent_id":85687809,
     "wof:placetype":"county",

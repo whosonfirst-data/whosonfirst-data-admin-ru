@@ -11,11 +11,15 @@
     "geom:longitude":34.62262,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"34.60262,53.25633,34.64262,53.29633",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maloye Polpino"
     ],
@@ -23,9 +27,6 @@
         "Maloje Polpino"
     ],
     "name:rus_x_preferred":[
-        "\u041c\u0430\u043b\u043e\u0435 \u041f\u043e\u043b\u043f\u0438\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u041c\u0430\u043b\u043e\u0435 \u041f\u043e\u043b\u043f\u0438\u043d\u043e"
     ],
     "qs:name":"Maloye Polpino",
@@ -49,7 +50,7 @@
     "wof:concordances":{
         "gn:id":530599,
         "gp:id":2041578,
-        "qs:id":1159823
+        "qs_pg:id":1159823
     },
     "wof:country":"RU",
     "wof:created":1469054536,
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":890484951,
-    "wof:lastmodified":1505343764,
+    "wof:lastmodified":1566630703,
     "wof:name":"Maloye Polpino",
     "wof:parent_id":1108733109,
     "wof:placetype":"locality",

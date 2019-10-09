@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":60.419786,
     "lbl:longitude":38.046017,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Vologodskaja oblast'",
     "meso:admin1r_en":"Severo-Zapadnyj federal'nyj okrug",
     "meso:admin_1":"\u0412\u043e\u043b\u043e\u0433\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":38.046017,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u0412\u0430\u0448\u043a\u0438\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -90,9 +93,6 @@
     "name:sco_x_preferred":[
         "Vashkinsky Destrict"
     ],
-    "name:und_x_variant":[
-        "\u0412\u0430\u0448\u043a\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vep_x_preferred":[
         "Va\u0161kiden rajon"
     ],
@@ -103,9 +103,9 @@
         "\u74e6\u4ec0\u91d1\u65af\u57fa\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"3706",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Lipin Bor",
@@ -139,7 +139,7 @@
         }
     ],
     "wof:id":1108737305,
-    "wof:lastmodified":1563256511,
+    "wof:lastmodified":1566626863,
     "wof:name":"Vashkinskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",

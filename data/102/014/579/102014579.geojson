@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000319,
-    "geom:area_square_m":2418880.015284,
+    "geom:area_square_m":2418880.015281,
     "geom:bbox":"107.421691895,52.1266403198,107.450668335,52.1454429626",
     "geom:latitude":52.135906,
     "geom:longitude":107.435885,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.136569,
     "lbl:longitude":107.436104,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.136569,
     "mps:longitude":107.436104,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Tataurovo"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u0442\u0430\u0443\u0440\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verkhneye Tataurovo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +52,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688207
+        85688207,
+        1108735971
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2015470,
         "gp:id":2123846,
-        "qs:id":137441,
         "qs_pg:id":137441
     },
     "wof:country":"RU",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102014579,
-    "wof:lastmodified":1505338944,
+    "wof:lastmodified":1566615140,
     "wof:name":"Tataurovo",
     "wof:parent_id":1108735971,
     "wof:placetype":"locality",

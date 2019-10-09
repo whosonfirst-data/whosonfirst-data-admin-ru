@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.333584,
     "lbl:longitude":131.663439,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.333584,
     "mps:longitude":131.663439,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u041b\u044e\u0431\u043b\u0438\u043d\u043e"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u044e\u0431\u043b\u0456\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sergiyevskiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -63,7 +66,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":38,
     "wof:belongsto":[
@@ -77,7 +80,7 @@
     "wof:concordances":{
         "gn:id":2020626,
         "gp:id":2039429,
-        "qs:id":90422
+        "qs_pg:id":90422
     },
     "wof:country":"RU",
     "wof:geomhash":"4fd955c0552b2303aca14df282502980",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":102001685,
-    "wof:lastmodified":1564108972,
+    "wof:lastmodified":1566615322,
     "wof:name":"Lyublino",
     "wof:parent_id":1108735909,
     "wof:placetype":"locality",

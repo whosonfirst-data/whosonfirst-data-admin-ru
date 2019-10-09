@@ -11,10 +11,14 @@
     "geom:longitude":47.60338,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":2977,
+    "gn:population":2977,
     "iso:country":"RU",
+    "lbl:bbox":"47.58338,42.06598,47.62338,42.10598",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041f\u0430\u0441\u0451\u043b\u0430\u043a \u041a\u0443\u0431\u0430\u0447\u044b"
     ],
@@ -72,9 +76,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0431\u0430\u0447\u0438"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0443\u0431\u0430\u0447\u0438"
-    ],
     "qs:name":"Kubachi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -92,7 +93,7 @@
     "wof:concordances":{
         "gn:id":540078,
         "gp:id":2031563,
-        "qs:id":549666,
+        "qs_pg:id":549666,
         "wd:id":"Q1010931",
         "wk:page":"Kubachi"
     },
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":890478147,
-    "wof:lastmodified":1563261955,
+    "wof:lastmodified":1566630519,
     "wof:name":"Kubachi",
     "wof:parent_id":1108733325,
     "wof:placetype":"locality",

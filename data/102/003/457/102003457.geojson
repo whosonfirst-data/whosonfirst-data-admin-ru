@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.242363,
     "lbl:longitude":43.104832,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.242363,
     "mps:longitude":43.104832,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u062f\u0627\u062a\u0648\u0641\u060c \u0646\u064a\u062c\u0646\u064a \u0646\u0648\u0641\u063a\u0648\u0631\u0648\u062f \u0623\u0648\u0628\u0644\u0627\u0633\u062a"
     ],
@@ -61,7 +64,7 @@
     "name:rus_x_preferred":[
         "\u0410\u0440\u0434\u0430\u0442\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ardatovo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -80,7 +83,7 @@
     "qs:type":"\u0440\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688057,
@@ -93,7 +96,7 @@
     "wof:concordances":{
         "gn:id":581186,
         "gp:id":1983785,
-        "qs:id":275097,
+        "qs_pg:id":275097,
         "wd:id":"Q905459",
         "wk:page":"Ardatov, Nizhny Novgorod Oblast"
     },
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":102003457,
-    "wof:lastmodified":1563241194,
+    "wof:lastmodified":1566615556,
     "wof:name":"Ardatov",
     "wof:parent_id":1108732759,
     "wof:placetype":"locality",

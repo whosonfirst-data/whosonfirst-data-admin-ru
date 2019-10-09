@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":61.597788,
     "lbl:longitude":54.931125,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":61.597788,
     "mps:longitude":54.931125,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ust'-Nem"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u0423\u0441\u0442\u044c \u041d\u0435\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ust\u2019-Nem"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688077,
         102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102002057,
-    "wof:lastmodified":1501214434,
+    "wof:lastmodified":1566615705,
     "wof:name":"Ust-Nem",
     "wof:parent_id":1108737249,
     "wof:placetype":"locality",

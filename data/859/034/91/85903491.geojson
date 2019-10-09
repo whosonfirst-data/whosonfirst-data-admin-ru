@@ -12,10 +12,11 @@
     "gn:country":"RU",
     "gn:fcode":"PPLX",
     "gn:id":"",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"RU",
     "lbl:latitude":55.741819,
     "lbl:longitude":37.663362,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.735612,
     "mps:longitude":37.656761,
     "mz:hierarchy_label":1,
@@ -39,9 +40,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0433\u0430\u043d\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Taganka"
     ],
     "qs:gn_adm0_cc":"RU",
     "qs:gn_id":0,
@@ -83,13 +81,12 @@
     "wof:concordances":{
         "gn:id":484912,
         "gp:id":2093377,
-        "qs:id":1127744,
         "qs_pg:id":1127744,
         "wk:page":"Tagansky"
     },
     "wof:concordances_alt":{
         "gp:id":55874914,
-        "qs:id":247232
+        "qs_pg:id":247232
     },
     "wof:country":"RU",
     "wof:geomhash":"5d382e5a2a8559ea1d5430558820152a",
@@ -108,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247576,
+    "wof:lastmodified":1566618504,
     "wof:name":"Tagansky",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

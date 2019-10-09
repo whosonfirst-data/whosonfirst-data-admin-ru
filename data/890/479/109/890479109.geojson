@@ -11,10 +11,14 @@
     "geom:longitude":78.36929,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":9355,
+    "gn:population":9355,
     "iso:country":"RU",
+    "lbl:bbox":"78.34929,65.9455,78.38929,65.9855",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0423\u0440\u044d\u043d\u0433\u043e\u0439"
     ],
@@ -95,10 +99,12 @@
     "wof:concordances":{
         "gn:id":1488414,
         "gp:id":2100597,
-        "qs:id":132794,
-        "qs_pg:id":1128023,
+        "qs_pg:id":132794,
         "wd:id":"Q1810924",
         "wk:page":"Urengoy"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1128023
     },
     "wof:country":"RU",
     "wof:created":1469054222,
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":890479109,
-    "wof:lastmodified":1563262536,
+    "wof:lastmodified":1566630752,
     "wof:name":"Urengoy",
     "wof:parent_id":890484357,
     "wof:placetype":"locality",

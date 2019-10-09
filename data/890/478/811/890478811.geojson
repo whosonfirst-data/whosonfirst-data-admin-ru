@@ -11,10 +11,14 @@
     "geom:longitude":54.85598,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":11165,
+    "gn:population":11165,
     "iso:country":"RU",
+    "lbl:bbox":"54.83598,63.62451,54.87598,63.66451",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u041d\u0456\u0436\u043d\u0456 \u041e\u0434\u044d\u0441"
     ],
@@ -57,9 +61,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0436\u043d\u0456\u0439 \u041e\u0434\u0435\u0441"
     ],
-    "name:unk_x_variant":[
-        "\u041d\u0438\u0436\u043d\u0438\u0439 \u041e\u0434\u0435\u0441"
-    ],
     "qs:name":"Nizhniy Odes",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -76,7 +77,7 @@
     "wof:concordances":{
         "gn:id":520552,
         "gp:id":2122428,
-        "qs:id":275058,
+        "qs_pg:id":275058,
         "wd:id":"Q1400454"
     },
     "wof:country":"RU",
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":890478811,
-    "wof:lastmodified":1563261842,
+    "wof:lastmodified":1566630483,
     "wof:name":"Nizhniy Odes",
     "wof:parent_id":1108736227,
     "wof:placetype":"locality",

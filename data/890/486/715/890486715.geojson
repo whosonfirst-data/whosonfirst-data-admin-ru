@@ -11,11 +11,15 @@
     "geom:longitude":52.13265,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":2243,
+    "gn:population":2243,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"52.11265,54.48828,52.15265,54.52828",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0428\u0443\u0433\u0443\u0440\u043e\u0432\u043e"
     ],
@@ -40,9 +44,6 @@
     "name:tat_x_preferred":[
         "\u0428\u04e9\u0433\u0435\u0440"
     ],
-    "name:unk_x_variant":[
-        "\u0428\u0443\u0433\u0443\u0440\u043e\u0432\u043e"
-    ],
     "qs:name":"Shugurovo",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Tatarstan Republic",
@@ -65,7 +66,7 @@
     "wof:concordances":{
         "gn:id":493566,
         "gp:id":2083802,
-        "qs:id":1248013,
+        "qs_pg:id":1248013,
         "wd:id":"Q3626662",
         "wk:page":"Shugurovo"
     },
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":890486715,
-    "wof:lastmodified":1563262769,
+    "wof:lastmodified":1566630862,
     "wof:name":"Shugurovo",
     "wof:parent_id":1108734901,
     "wof:placetype":"locality",

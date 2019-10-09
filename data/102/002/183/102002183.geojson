@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":69.317885,
     "lbl:longitude":88.212264,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":69.317885,
     "mps:longitude":88.212264,
     "mz:hierarchy_label":1,
@@ -231,7 +233,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0440\u0438\u043b\u044c\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Norilskoe"
     ],
     "name:urd_x_preferred":[
@@ -365,7 +367,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":69.333333,
     "wd:longitude":88.216667,
@@ -381,10 +383,12 @@
     "wof:concordances":{
         "gn:id":1497337,
         "gp:id":2124771,
-        "qs:id":1031473,
         "qs_pg:id":963199,
         "wd:id":"Q175517",
         "wk:page":"Norilsk"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1031473
     },
     "wof:country":"RU",
     "wof:geomhash":"35b6637fd10a07b13af64646f9ee563d",
@@ -397,7 +401,7 @@
         }
     ],
     "wof:id":102002183,
-    "wof:lastmodified":1563241636,
+    "wof:lastmodified":1566615712,
     "wof:name":"Norilsk",
     "wof:parent_id":1108736913,
     "wof:placetype":"locality",

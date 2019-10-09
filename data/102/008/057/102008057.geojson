@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.067786,
     "lbl:longitude":40.180019,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.067786,
     "mps:longitude":40.180019,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u041f\u0448\u0438\u0447\u043e"
     ],
@@ -34,9 +37,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0448\u0438\u0447\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u041f\u0448\u0438\u0447\u043e"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u0434\u044b\u0433\u0435\u044f (\u0410\u0434\u044b\u0433\u0435\u044f)",
     "qs:a1_lc":"0100700002400",
@@ -53,7 +53,7 @@
     "qs:type":"\u0430\u0443\u043b",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688135,
         102191581,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":102008057,
-    "wof:lastmodified":1564108949,
+    "wof:lastmodified":1566615296,
     "wof:name":"Pshicho",
     "wof:parent_id":1108736601,
     "wof:placetype":"locality",

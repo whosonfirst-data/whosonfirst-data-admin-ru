@@ -12,8 +12,10 @@
     "gn:latitude":48.43296,
     "gn:longitude":135.42109,
     "iso:country":"RU",
+    "lbl:bbox":"135.118154,48.4139,135.128154,48.4239",
     "lbl:latitude":48.4189,
     "lbl:longitude":135.123154,
+    "lbl:max_zoom":18.0,
     "mps:latitude":48.416849,
     "mps:longitude":135.113193,
     "mz:hierarchy_label":0,
@@ -58,10 +60,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0438\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0430\u043b\u0438\u043d\u043a\u0430",
-        "Kalinka"
-    ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
     "qs:gn_namadm1":"30",
@@ -89,7 +87,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":98,
     "wof:belongsto":[
         102191581,
@@ -101,7 +99,6 @@
     "wof:concordances":{
         "gn:id":2023276,
         "gp:id":2014965,
-        "qs:id":1064604,
         "qs_pg:id":1064604
     },
     "wof:country":"RU",
@@ -119,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564112479,
+    "wof:lastmodified":1566618491,
     "wof:name":"Kalinka",
     "wof:parent_id":102015519,
     "wof:placetype":"neighbourhood",

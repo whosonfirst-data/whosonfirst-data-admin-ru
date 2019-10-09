@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":54.926162,
     "lbl:longitude":52.112643,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tatarstan",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d",
@@ -53,6 +55,7 @@
     "mps:longitude":52.112643,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bak_x_preferred":[
         "\u04d8\u043b\u043c\u04d9\u0442 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
@@ -108,9 +111,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u044c\u043c\u0435\u0442\u044c\u0454\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0410\u043b\u044c\u043c\u0435\u0442\u044c\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Al'met'evsky"
     ],
@@ -118,9 +118,9 @@
         "\u963f\u5229\u59c6\u5b63\u8036\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2560",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Al'met'evsk",
@@ -154,7 +154,7 @@
         }
     ],
     "wof:id":1108732659,
-    "wof:lastmodified":1563257173,
+    "wof:lastmodified":1566627270,
     "wof:name":"Al'met'evskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

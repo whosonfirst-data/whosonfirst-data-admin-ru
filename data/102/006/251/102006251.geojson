@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000589,
-    "geom:area_square_m":4625123.912385,
+    "geom:area_square_m":4625123.91239,
     "geom:bbox":"39.1070289612,50.575138092,39.1514167786,50.6012763977",
     "geom:latitude":50.589795,
     "geom:longitude":39.130896,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.588368,
     "lbl:longitude":39.134258,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.588368,
     "mps:longitude":39.134258,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tatarino"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688051,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102006251,
-    "wof:lastmodified":1501214455,
+    "wof:lastmodified":1566615347,
     "wof:name":"Tatarino",
     "wof:parent_id":1108734231,
     "wof:placetype":"locality",

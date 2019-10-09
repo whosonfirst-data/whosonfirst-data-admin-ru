@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":64.91425,
     "lbl:longitude":56.55125,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Respublika Komi",
     "meso:admin1r_en":"Severo-Zapadnyj federal'nyj okrug",
     "meso:admin_1":"\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043c\u0438",
@@ -54,6 +56,7 @@
     "mps:longitude":56.55125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u041f\u0435\u0447\u043e\u0440\u0430"
     ],
@@ -123,9 +126,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"28923",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Pechora",
@@ -146,7 +149,7 @@
     "wof:concordances":{
         "gp:id":12597449,
         "hasc:id":"RU.KO.PE",
-        "qs:id":911313,
+        "qs_pg:id":911313,
         "wd:id":"Q1075092"
     },
     "wof:country":"RU",
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":890483295,
-    "wof:lastmodified":1563262255,
+    "wof:lastmodified":1566630636,
     "wof:name":"Pechora",
     "wof:parent_id":85688077,
     "wof:placetype":"county",

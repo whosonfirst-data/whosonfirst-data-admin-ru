@@ -9,18 +9,21 @@
     "geom:bbox":"36.7458343506,54.5045547485,36.7855567932,54.5184440613",
     "geom:latitude":54.511227,
     "geom:longitude":36.76631,
-    "geonames:id":"562872,562873",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":4344,
+    "gn:id":"562872,562873",
+    "gn:population":4344,
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:latitude":54.511353,
     "lbl:longitude":36.76631,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.511353,
     "mps:longitude":36.76631,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ferzikovo"
     ],
@@ -48,7 +51,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0435\u0440\u0437\u0438\u043a\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pos\u00eblok Ferzikovo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -76,7 +79,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":325,
     "wof:belongsto":[
@@ -90,7 +93,7 @@
     "wof:concordances":{
         "gn:id":562873,
         "gp:id":2120792,
-        "qs:id":1026947,
+        "qs_pg:id":1026947,
         "wd:id":"Q4482976",
         "wk:page":"Ferzikovo"
     },
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":102003787,
-    "wof:lastmodified":1563241211,
+    "wof:lastmodified":1566615562,
     "wof:name":"Ferzikovo",
     "wof:parent_id":890483063,
     "wof:placetype":"locality",

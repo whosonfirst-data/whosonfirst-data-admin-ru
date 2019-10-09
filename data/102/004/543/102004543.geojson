@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000561,
-    "geom:area_square_m":4178656.724697,
+    "geom:area_square_m":4178656.724699,
     "geom:bbox":"43.0906944275,52.9774131775,43.1346588135,52.9984054565",
     "geom:latitude":52.987984,
     "geom:longitude":43.110376,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.989254,
     "lbl:longitude":43.105561,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.989254,
     "mps:longitude":43.105561,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Stud\u00ebnka"
     ],
@@ -29,9 +32,6 @@
     ],
     "name:rus_x_variant":[
         "\u0421\u0442\u0443\u0434\u0451\u043d\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Stud\u00ebnka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -49,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":224,
     "wof:belongsto":[
         85687999,
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":102004543,
-    "wof:lastmodified":1527637843,
+    "wof:lastmodified":1566615587,
     "wof:name":"Studenka",
     "wof:parent_id":1108732933,
     "wof:placetype":"locality",

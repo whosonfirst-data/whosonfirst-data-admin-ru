@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000971,
-    "geom:area_square_m":7354631.569245,
+    "geom:area_square_m":7354631.569244,
     "geom:bbox":"35.3385276794,52.2134437561,35.391998291,52.2382507324",
     "geom:latitude":52.226183,
     "geom:longitude":35.365304,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.225979,
     "lbl:longitude":35.364795,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.225979,
     "mps:longitude":35.364795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043a\u0430"
     ],
@@ -29,7 +32,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mikhailovka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -48,7 +51,7 @@
     "qs:type":"\u0441\u043b",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":98,
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":102005033,
-    "wof:lastmodified":1553815711,
+    "wof:lastmodified":1566615652,
     "wof:name":"Mikhaylovka",
     "wof:parent_id":1108738069,
     "wof:placetype":"locality",

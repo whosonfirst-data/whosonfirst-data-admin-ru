@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.277085,
     "lbl:longitude":35.236095,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.277085,
     "mps:longitude":35.236095,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u043b\u0430\u0448\u043d\u0456\u043a\u0430\u0432\u0430"
     ],
@@ -50,9 +53,6 @@
     "name:swe_x_preferred":[
         "Kalasjnikovo"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0430\u043b\u0430\u0448\u043d\u0438\u043a\u043e\u0432\u043e"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0422\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"6901900001100",
@@ -71,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688047,
@@ -84,7 +84,6 @@
     "wof:concordances":{
         "gn:id":554363,
         "gp:id":2121120,
-        "qs:id":1221942,
         "qs_pg:id":1221942,
         "wd:id":"Q1970073",
         "wk:page":"Kalashnikovo, Tver Oblast"
@@ -102,7 +101,7 @@
         }
     ],
     "wof:id":102002727,
-    "wof:lastmodified":1563241651,
+    "wof:lastmodified":1566615716,
     "wof:name":"Kalashnikovo",
     "wof:parent_id":890485453,
     "wof:placetype":"locality",

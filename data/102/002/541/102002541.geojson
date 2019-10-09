@@ -9,17 +9,20 @@
     "geom:bbox":"35.2977294922,59.1515846252,35.3841323853,59.178768158",
     "geom:latitude":59.163687,
     "geom:longitude":35.341641,
-    "geonames:id":"570086,570087",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":7288,
+    "gn:id":"570086,570087",
+    "gn:population":7288,
     "iso:country":"RU",
     "lbl:latitude":59.164929,
     "lbl:longitude":35.344586,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.164929,
     "mps:longitude":35.344586,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0427\u0430\u0433\u0430\u0434\u0430"
     ],
@@ -56,7 +59,7 @@
     "name:rus_x_preferred":[
         "\u0427\u0430\u0433\u043e\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belyy Bychek"
     ],
     "name:vep_x_preferred":[
@@ -82,7 +85,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1251,
     "wof:belongsto":[
@@ -96,7 +99,7 @@
     "wof:concordances":{
         "gn:id":570086,
         "gp:id":90568122,
-        "qs:id":80998,
+        "qs_pg:id":80998,
         "wd:id":"Q1968782",
         "wk:page":"Chagoda"
     },
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":102002541,
-    "wof:lastmodified":1563241638,
+    "wof:lastmodified":1566615713,
     "wof:name":"Chagoda",
     "wof:parent_id":1108733171,
     "wof:placetype":"locality",

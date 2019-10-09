@@ -9,15 +9,18 @@
     "geom:bbox":"40.5433,64.5401,40.5433,64.5401",
     "geom:latitude":64.5401,
     "geom:longitude":40.5433,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":356051,
+    "gn:country":"RU",
+    "gn:fcode":"PPLA",
     "gn:population":356051,
     "iso:country":"RU",
+    "lbl:bbox":"40.5233,64.5201,40.5633,64.5601",
     "lbl:latitude":64.5401,
     "lbl:longitude":40.5433,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Archangelsk"
@@ -271,7 +274,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novyye Kholmogory"
     ],
     "name:urd_x_preferred":[
@@ -310,7 +313,7 @@
     "qs_pg:qs_id":349749,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85687971,
@@ -339,7 +342,7 @@
         }
     ],
     "wof:id":1125960945,
-    "wof:lastmodified":1563263131,
+    "wof:lastmodified":1566631021,
     "wof:name":"Arkhangel\u2019sk",
     "wof:parent_id":890481335,
     "wof:placetype":"locality",

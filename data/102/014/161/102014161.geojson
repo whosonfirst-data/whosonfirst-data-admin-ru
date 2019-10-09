@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000162,
-    "geom:area_square_m":1185117.41777,
+    "geom:area_square_m":1185117.417771,
     "geom:bbox":"103.22983551,53.7472496033,103.246833801,53.7611961365",
     "geom:latitude":53.753878,
     "geom:longitude":103.239286,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.753763,
     "lbl:longitude":103.239286,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.753763,
     "mps:longitude":103.239286,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pervomayskoye"
     ],
@@ -25,9 +28,6 @@
         "Pervomajskoje"
     ],
     "name:rus_x_preferred":[
-        "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":161,
     "wof:belongsto":[
         85688173,
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":102014161,
-    "wof:lastmodified":1527636667,
+    "wof:lastmodified":1566615089,
     "wof:name":"Pervomayskoye",
     "wof:parent_id":1108735575,
     "wof:placetype":"locality",

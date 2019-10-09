@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":58.131568,
     "lbl:longitude":36.652944,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tverskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u0422\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":36.652944,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Molokovskiy Rayon"
     ],
@@ -102,9 +105,6 @@
     "name:srp_x_preferred":[
         "\u041c\u043e\u043b\u043e\u043a\u043e\u0432\u0441\u043a\u0438 \u0440\u0435\u0458\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041c\u043e\u043b\u043e\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Molokovsky"
     ],
@@ -112,9 +112,9 @@
         "\u99ac\u6d1b\u79d1\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1194",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Molokovo",
@@ -148,7 +148,7 @@
         }
     ],
     "wof:id":1108735183,
-    "wof:lastmodified":1563256851,
+    "wof:lastmodified":1566627079,
     "wof:name":"Molokovskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

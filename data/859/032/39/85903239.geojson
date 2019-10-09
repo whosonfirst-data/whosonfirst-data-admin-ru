@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14401372.245668,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.331962,57.821225,28.331962,57.821225",
     "geom:latitude":57.821225,
     "geom:longitude":28.331962,
     "gn:latitude":57.81667,
     "gn:longitude":28.31667,
     "iso:country":"RU",
+    "lbl:bbox":"28.326962,57.816225,28.336962,57.826225",
     "lbl:latitude":57.821225,
     "lbl:longitude":28.331962,
+    "lbl:max_zoom":18.0,
     "mps:latitude":57.818426,
     "mps:longitude":28.326938,
     "mz:hierarchy_label":0,
@@ -33,10 +35,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0413\u043d\u0438\u043b\u0438\u0449\u0435"
-    ],
-    "name:unk_x_variant":[
-        "\u0413\u043d\u0438\u043b\u0438\u0449\u0435",
-        "Gnilishche"
     ],
     "qs:gn_adm0_cc":"RU",
     "qs:gn_fcode":"PPLX",
@@ -66,20 +64,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688167,
         102191581,
         85632685,
         102002413,
         874393555,
-        890484337
+        890484337,
+        85688167
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":560920,
         "gp:id":2007458,
-        "qs:id":240623,
         "qs_pg:id":240623
     },
     "wof:country":"RU",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936040,
+    "wof:lastmodified":1566618491,
     "wof:name":"Gnilishche",
     "wof:parent_id":102002413,
     "wof:placetype":"neighbourhood",

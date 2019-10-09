@@ -11,11 +11,15 @@
     "geom:longitude":65.23132,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"65.21132,57.06242,65.25132,57.10242",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Perevalovo"
     ],
@@ -23,9 +27,6 @@
         "Perevalovo"
     ],
     "name:rus_x_preferred":[
-        "\u041f\u0435\u0440\u0435\u0432\u0430\u043b\u043e\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u0435\u0440\u0435\u0432\u0430\u043b\u043e\u0432\u043e"
     ],
     "qs:name":"Perevalovo",
@@ -49,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1495343,
         "gp:id":2064170,
-        "qs:id":317877
+        "qs_pg:id":317877
     },
     "wof:country":"RU",
     "wof:created":1469054333,
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":890480933,
-    "wof:lastmodified":1505343745,
+    "wof:lastmodified":1566630982,
     "wof:name":"Perevalovo",
     "wof:parent_id":1108737039,
     "wof:placetype":"locality",

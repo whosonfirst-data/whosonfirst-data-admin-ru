@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000166,
-    "geom:area_square_m":1168190.148278,
+    "geom:area_square_m":1168190.148277,
     "geom:bbox":"50.8448600769,55.4102516174,50.8704452515,55.4208602905",
     "geom:latitude":55.415108,
     "geom:longitude":50.859077,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.415563,
     "lbl:longitude":50.8606,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.415563,
     "mps:longitude":50.8606,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Buldyr'"
     ],
@@ -25,9 +28,6 @@
         "Buldyr"
     ],
     "name:rus_x_preferred":[
-        "\u0411\u0443\u043b\u0434\u044b\u0440\u044c"
-    ],
-    "name:unk_x_variant":[
         "\u0411\u0443\u043b\u0434\u044b\u0440\u044c"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688065,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102009243,
-    "wof:lastmodified":1501214777,
+    "wof:lastmodified":1566615216,
     "wof:name":"Buldyr'",
     "wof:parent_id":1108733279,
     "wof:placetype":"locality",

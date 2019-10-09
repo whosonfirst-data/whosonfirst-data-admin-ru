@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000382,
-    "geom:area_square_m":3444675.98449,
+    "geom:area_square_m":3444675.984491,
     "geom:bbox":"45.5481033325,43.2160491943,45.5774612427,43.2388153076",
     "geom:latitude":43.228516,
     "geom:longitude":45.564032,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.230649,
     "lbl:longitude":45.567701,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":43.230649,
     "mps:longitude":45.567701,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "Ayvazovskoe"
     ],
@@ -38,7 +41,7 @@
     "name:rus_x_preferred":[
         "\u0410\u043b\u0445\u0430\u043d-\u042e\u0440\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ayvazovskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -59,18 +62,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688015
+        85688015,
+        1108737197
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":582491,
         "gp:id":1982168,
-        "qs:id":125780,
         "qs_pg:id":125780
     },
     "wof:country":"RU",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":102016679,
-    "wof:lastmodified":1505338950,
+    "wof:lastmodified":1566615455,
     "wof:name":"Alkhan-Yurt",
     "wof:parent_id":1108737197,
     "wof:placetype":"locality",

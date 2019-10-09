@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.492184,
     "lbl:longitude":42.600887,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.492184,
     "mps:longitude":42.600887,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0632\u064a\u0645\u064a\u062a\u062a\u0634\u064a\u0646\u0648\u060c \u0628\u064a\u0646\u0632\u0627"
     ],
@@ -55,7 +58,7 @@
     "name:rus_x_preferred":[
         "\u0417\u0435\u043c\u0435\u0442\u0447\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zametchino"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":42,
     "wof:belongsto":[
@@ -89,7 +92,6 @@
     "wof:concordances":{
         "gn:id":463710,
         "gp:id":2124587,
-        "qs:id":207023,
         "qs_pg:id":207023,
         "wd:id":"Q1863045"
     },
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":102004309,
-    "wof:lastmodified":1563241220,
+    "wof:lastmodified":1566615566,
     "wof:name":"Zemetchino",
     "wof:parent_id":1108738039,
     "wof:placetype":"locality",

@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000271,
-    "geom:area_square_m":2006072.356004,
+    "geom:area_square_m":2006072.356002,
     "geom:bbox":"61.1383323669,53.2875556946,61.1657791138,53.3067512512",
     "geom:latitude":53.298219,
     "geom:longitude":61.150986,
     "iso:country":"RU",
     "lbl:latitude":53.298106,
     "lbl:longitude":61.15005,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.298106,
     "mps:longitude":61.15005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Novopokrovka"
     ],
@@ -23,9 +26,6 @@
         "Novopokrovka"
     ],
     "name:rus_x_preferred":[
-        "\u041d\u043e\u0432\u043e\u043f\u043e\u043a\u0440\u043e\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041d\u043e\u0432\u043e\u043f\u043e\u043a\u0440\u043e\u0432\u043a\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":46,
     "wof:belongsto":[
         85687791,
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":102012537,
-    "wof:lastmodified":1527636472,
+    "wof:lastmodified":1566615007,
     "wof:name":"Novopokrovka",
     "wof:parent_id":1108737303,
     "wof:placetype":"locality",

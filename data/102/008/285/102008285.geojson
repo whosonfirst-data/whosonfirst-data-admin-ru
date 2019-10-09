@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000536,
-    "geom:area_square_m":3452833.835612,
+    "geom:area_square_m":3452833.835611,
     "geom:bbox":"46.5893325806,58.6056671143,46.6293067932,58.623664856",
     "geom:latitude":58.614111,
     "geom:longitude":46.608609,
     "iso:country":"RU",
     "lbl:latitude":58.615277,
     "lbl:longitude":46.608229,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.615277,
     "mps:longitude":46.608229,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Poldnevitsa"
     ],
@@ -23,9 +26,6 @@
         "Poldnevitsa"
     ],
     "name:rus_x_preferred":[
-        "\u041f\u043e\u043b\u0434\u043d\u0435\u0432\u0438\u0446\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u043e\u043b\u0434\u043d\u0435\u0432\u0438\u0446\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688115,
         102191581,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":102008285,
-    "wof:lastmodified":1501214543,
+    "wof:lastmodified":1566615291,
     "wof:name":"Poldnevitsa",
     "wof:parent_id":1108735933,
     "wof:placetype":"locality",

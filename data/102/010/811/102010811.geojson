@@ -9,14 +9,17 @@
     "geom:bbox":"48.1697769165,52.6813049316,48.2190818787,52.7017784119",
     "geom:latitude":52.692099,
     "geom:longitude":48.196122,
-    "geonames:id":"471149,471150",
+    "gn:id":"471149,471150",
     "iso:country":"RU",
     "lbl:latitude":52.693509,
     "lbl:longitude":48.195749,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.693509,
     "mps:longitude":48.195749,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Vozrozhdeniye"
     ],
@@ -72,7 +75,7 @@
     "qs:type":"\u0440\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":138,
     "wof:belongsto":[
         85687995,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":102010811,
-    "wof:lastmodified":1563240968,
+    "wof:lastmodified":1566615475,
     "wof:name":"Vozrozhdeniye",
     "wof:parent_id":1108734395,
     "wof:placetype":"locality",

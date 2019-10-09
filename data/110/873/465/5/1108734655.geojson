@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":50.916082,
     "lbl:longitude":38.565779,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Belskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":38.565779,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Krasnenskiy Rayon"
     ],
@@ -90,9 +93,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041a\u0440\u0430\u0441\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Krasnensky"
     ],
@@ -100,9 +100,9 @@
         "\u514b\u62c9\u65af\u8bfa\u8036\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1768",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Krasnogvardeyskoye",
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":1108734655,
-    "wof:lastmodified":1563256780,
+    "wof:lastmodified":1566627034,
     "wof:name":"Krasnenskiy",
     "wof:parent_id":85687813,
     "wof:placetype":"county",

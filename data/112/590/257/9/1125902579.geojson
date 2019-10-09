@@ -9,15 +9,18 @@
     "geom:bbox":"33.48888,56.20917,33.48888,56.20917",
     "geom:latitude":56.20917,
     "geom:longitude":33.48888,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5079,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":5079,
     "iso:country":"RU",
+    "lbl:bbox":"33.46888,56.18917,33.50888,56.22917",
     "lbl:latitude":56.20917,
     "lbl:longitude":33.48888,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0410\u043b\u0435\u043d\u0456\u043d\u0430"
@@ -55,7 +58,7 @@
     "name:srp_x_preferred":[
         "\u041e\u043b\u0435\u045a\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oljenin"
     ],
     "qs_pg:aaroncc":"RU",
@@ -70,7 +73,7 @@
     "qs_pg:qs_id":1029659,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688047,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125902579,
-    "wof:lastmodified":1563263124,
+    "wof:lastmodified":1566631018,
     "wof:name":"Olenino",
     "wof:parent_id":1108735661,
     "wof:placetype":"locality",

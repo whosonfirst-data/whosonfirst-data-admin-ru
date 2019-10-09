@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.140391,
     "lbl:longitude":81.037456,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.140391,
     "mps:longitude":81.037456,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0414\u043e\u043b\u0433\u0430\u043d\u043a\u0430"
     ],
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687835,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102013147,
-    "wof:lastmodified":1564108733,
+    "wof:lastmodified":1566615085,
     "wof:name":"Dolganka",
     "wof:parent_id":890481637,
     "wof:placetype":"locality",

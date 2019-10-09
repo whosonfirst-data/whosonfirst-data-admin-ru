@@ -11,10 +11,14 @@
     "geom:longitude":48.0851,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":3080,
+    "gn:population":3080,
     "iso:country":"RU",
+    "lbl:bbox":"48.0651,53.2641,48.1051,53.3041",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u0627\u0634\u064a\u0643\u0627"
     ],
@@ -39,9 +43,6 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0448\u0435\u0439\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u0411\u0430\u043b\u0430\u0448\u0435\u0439\u043a\u0430"
-    ],
     "qs:name":"Balasheyka",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -58,7 +59,7 @@
     "wof:concordances":{
         "gn:id":579468,
         "gp:id":1985846,
-        "qs:id":81023
+        "qs_pg:id":81023
     },
     "wof:country":"RU",
     "wof:created":1469054193,
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":890478597,
-    "wof:lastmodified":1564128893,
+    "wof:lastmodified":1566630501,
     "wof:name":"Balasheyka",
     "wof:parent_id":1108736895,
     "wof:placetype":"locality",

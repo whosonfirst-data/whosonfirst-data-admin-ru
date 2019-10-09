@@ -11,11 +11,15 @@
     "geom:longitude":34.97658,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":6640,
+    "gn:population":6640,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"34.95658,57.39905,34.99658,57.43905",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u0421\u043f\u0438\u0440\u043e\u0432\u043e"
     ],
@@ -46,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043f\u0456\u0440\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u043f\u0438\u0440\u043e\u0432\u043e"
-    ],
     "qs:name":"Spiridovo",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Tver Oblast",
@@ -68,7 +69,7 @@
     "wof:concordances":{
         "gn:id":489686,
         "gp:id":2088091,
-        "qs:id":1027880,
+        "qs_pg:id":1027880,
         "wd:id":"Q4431330"
     },
     "wof:country":"RU",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":890481867,
-    "wof:lastmodified":1563262647,
+    "wof:lastmodified":1566630801,
     "wof:name":"Spiridovo",
     "wof:parent_id":1108736779,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.292189,
     "lbl:longitude":132.076935,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":43.292189,
     "mps:longitude":132.076935,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:che_x_preferred":[
         "\u0423\u0433\u043b\u043e\u0432\u0438"
     ],
@@ -34,7 +37,7 @@
     "name:tgk_x_preferred":[
         "\u0423\u0433\u043b\u043e\u0432\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Uglovaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -67,7 +70,6 @@
     "wof:concordances":{
         "gn:id":2014571,
         "gp:id":2099647,
-        "qs:id":137426,
         "qs_pg:id":137426
     },
     "wof:country":"RU",
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":102001789,
-    "wof:lastmodified":1564108978,
+    "wof:lastmodified":1566615328,
     "wof:name":"Uglovoye",
     "wof:parent_id":1108737535,
     "wof:placetype":"locality",

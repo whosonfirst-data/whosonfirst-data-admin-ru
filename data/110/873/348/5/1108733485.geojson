@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":52.642723,
     "lbl:longitude":38.708556,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Lipeckaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u041b\u0438\u043f\u0435\u0446\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":38.708556,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bak_x_preferred":[
         "\u0415\u043b\u0435\u0446 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
@@ -96,9 +99,6 @@
     "name:ukr_x_preferred":[
         "\u0404\u043b\u0435\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0415\u043b\u0435\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Eletsky"
     ],
@@ -106,9 +106,9 @@
         "\u8449\u5217\u8328\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1188",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Elets",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":1108733485,
-    "wof:lastmodified":1563256811,
+    "wof:lastmodified":1566627052,
     "wof:name":"Eleckij",
     "wof:parent_id":85687917,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000643,
-    "geom:area_square_m":5152490.774363,
+    "geom:area_square_m":5152490.77436,
     "geom:bbox":"128.628173828,49.6234436035,128.682052612,49.6405296326",
     "geom:latitude":49.631235,
     "geom:longitude":128.655649,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":49.632709,
     "lbl:longitude":128.658851,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.632709,
     "mps:longitude":128.658851,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Poyarkovo"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041f\u043e\u044f\u0440\u043a\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Poyarkov"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":82,
     "wof:belongsto":[
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":2017705,
         "gp:id":90594669,
-        "qs:id":137476,
         "qs_pg:id":137476,
         "wd:id":"Q7236975"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":102015187,
-    "wof:lastmodified":1527636464,
+    "wof:lastmodified":1566614946,
     "wof:name":"Poyarkovo",
     "wof:parent_id":1108735135,
     "wof:placetype":"locality",

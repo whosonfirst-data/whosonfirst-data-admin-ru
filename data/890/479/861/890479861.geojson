@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":55.702415,
     "lbl:longitude":93.018925,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Krasnojarskij kraj",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -54,6 +56,7 @@
     "mps:longitude":93.018925,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Berezovskiy"
     ],
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":38,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12597833,
-        "qs:id":1209246,
+        "qs_pg:id":1209246,
         "wk:page":"Beryozovsky District"
     },
     "wof:country":"RU",
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":890479861,
-    "wof:lastmodified":1564129134,
+    "wof:lastmodified":1566630738,
     "wof:name":"Berezovskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

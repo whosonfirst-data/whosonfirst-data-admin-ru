@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.261128,
     "lbl:longitude":60.106228,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.261128,
     "mps:longitude":60.106228,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u062e-\u0646\u064a\u0641\u064a\u0646\u0633\u0643\u064a\u064a"
     ],
@@ -52,7 +55,7 @@
     "name:tgk_x_preferred":[
         "\u0412\u0435\u0440\u0445-\u041d\u0435\u0439\u0432\u0438\u043d\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verkhniye-Nevinsk"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -85,7 +88,6 @@
     "wof:concordances":{
         "gn:id":1487504,
         "gp:id":2124208,
-        "qs:id":132785,
         "qs_pg:id":132785,
         "wd:id":"Q4108232"
     },
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":102011803,
-    "wof:lastmodified":1563240761,
+    "wof:lastmodified":1566615391,
     "wof:name":"Verkh-Neyvinskiy",
     "wof:parent_id":1108735557,
     "wof:placetype":"locality",

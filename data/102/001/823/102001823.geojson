@@ -9,10 +9,12 @@
     "geom:bbox":"135.51361084,44.5268058777,135.541671753,44.5486946106",
     "geom:latitude":44.536539,
     "geom:longitude":135.526834,
-    "geonames:id":"2051471,2025161",
+    "gn:id":"2051471,2025161",
     "iso:country":"RU",
     "lbl:latitude":44.535905,
     "lbl:longitude":135.525877,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":44.535905,
     "mps:longitude":135.525877,
     "mz:hierarchy_label":1,
@@ -257,7 +259,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":44.566667,
     "wd:longitude":135.616667,
@@ -288,7 +290,7 @@
         }
     ],
     "wof:id":102001823,
-    "wof:lastmodified":1563240596,
+    "wof:lastmodified":1566615322,
     "wof:name":"Dalnegorsk",
     "wof:parent_id":1108733327,
     "wof:placetype":"locality",

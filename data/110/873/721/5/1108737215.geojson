@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":44.852614,
     "lbl:longitude":41.402449,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Krasnodarskij kraj",
     "meso:admin1r_en":"JUzhnyj federal'nyj okrug",
     "meso:admin_1":"\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":41.402449,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u0423\u0441\u043f\u0435\u043d\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -87,9 +90,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u0441\u043f\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0423\u0441\u043f\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Uspensky"
     ],
@@ -97,9 +97,9 @@
         "\u70cf\u65af\u7247\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1167",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Uspenskoe",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1108737215,
-    "wof:lastmodified":1563257284,
+    "wof:lastmodified":1566627353,
     "wof:name":"Uspenskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":47.345417,
     "lbl:longitude":40.713649,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.345417,
     "mps:longitude":40.713649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u043b\u0456\u043d\u0456\u043d"
     ],
@@ -81,9 +84,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0456\u043d\u0456\u043d"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0430\u043b\u0438\u043d\u0438\u043d"
-    ],
     "name:zho_x_preferred":[
         "\u52a0\u91cc\u5b81"
     ],
@@ -103,7 +103,7 @@
     "qs:type":"\u0445",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":136,
     "wof:belongsto":[
         85688033,
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":102007261,
-    "wof:lastmodified":1564108808,
+    "wof:lastmodified":1566615160,
     "wof:name":"Kalinin",
     "wof:parent_id":1108732841,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.55406,
     "lbl:longitude":53.003471,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.55406,
     "mps:longitude":53.003471,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0623\u063a\u0631\u064a\u0632"
     ],
@@ -192,7 +195,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.516667,
     "wd:longitude":52.983333,
@@ -208,7 +211,7 @@
     "wof:concordances":{
         "gn:id":583983,
         "gp:id":1980303,
-        "qs:id":315734,
+        "qs_pg:id":315734,
         "wd:id":"Q102746",
         "wk:page":"Agryz"
     },
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":102008845,
-    "wof:lastmodified":1563240425,
+    "wof:lastmodified":1566615263,
     "wof:name":"Agryz",
     "wof:parent_id":890478285,
     "wof:placetype":"locality",

@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":57.726993,
     "lbl:longitude":69.708923,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tjumenskaja oblast'",
     "meso:admin1r_en":"Ural'skij federal'nyj okrug",
     "meso:admin_1":"\u0422\u044e\u043c\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":69.708923,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Vagayskiy Rayon"
     ],
@@ -84,9 +87,6 @@
     "name:tat_x_preferred":[
         "\u0412\u0430\u0433\u0430\u0439 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
-    "name:und_x_variant":[
-        "\u0412\u0430\u0433\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Vagaysky"
     ],
@@ -94,9 +94,9 @@
         "\u74e6\u84cb\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"18230",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Vagay",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1108737289,
-    "wof:lastmodified":1563257291,
+    "wof:lastmodified":1566627357,
     "wof:name":"Vagajskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000615,
-    "geom:area_square_m":4168596.131515,
+    "geom:area_square_m":4168596.131516,
     "geom:bbox":"85.3630523682,56.7241668701,85.4089202881,56.7487220764",
     "geom:latitude":56.735697,
     "geom:longitude":85.386164,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.737366,
     "lbl:longitude":85.390334,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.737366,
     "mps:longitude":85.390334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Aleksandrovskoye"
     ],
@@ -26,7 +29,7 @@
     "name:rus_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aleksandrovka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":156,
     "wof:belongsto":[
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":1511846,
         "gp:id":1981553,
-        "qs:id":133061,
         "qs_pg:id":133061
     },
     "wof:country":"RU",
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":102012655,
-    "wof:lastmodified":1527636474,
+    "wof:lastmodified":1566615019,
     "wof:name":"Aleksandrovskoye",
     "wof:parent_id":890483509,
     "wof:placetype":"locality",

@@ -11,11 +11,14 @@
     "geom:longitude":37.55,
     "gn:country":"RU",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"37.545,55.745,37.555,55.755",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:bel_x_preferred":[
         "\u041f\u0440\u044d\u0441\u043d\u0435\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -74,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u0441\u043d\u0435\u043d\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasnaya Presnya"
     ],
     "name:zho_x_preferred":[
@@ -105,7 +108,7 @@
     "wof:concordances":{
         "gn:id":542634,
         "gp:id":55875480,
-        "qs:id":232920,
+        "qs_pg:id":232920,
         "wd:id":"Q2320761",
         "wk:page":"Presnensky District"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":890487125,
-    "wof:lastmodified":1563262958,
+    "wof:lastmodified":1566630941,
     "wof:name":"Presnensky",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

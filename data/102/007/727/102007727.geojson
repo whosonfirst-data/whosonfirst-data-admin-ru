@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001465,
-    "geom:area_square_m":12648426.902652,
+    "geom:area_square_m":12648426.902656,
     "geom:bbox":"39.5453605652,45.682220459,39.6143875122,45.7275276184",
     "geom:latitude":45.705742,
     "geom:longitude":39.580523,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.703845,
     "lbl:longitude":39.580046,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.703845,
     "mps:longitude":39.580046,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Berezanskaya"
     ],
@@ -26,9 +29,6 @@
         "Berezanskaja"
     ],
     "name:rus_x_preferred":[
-        "\u0411\u0435\u0440\u0435\u0437\u0430\u043d\u0441\u043a\u0430\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u0411\u0435\u0440\u0435\u0437\u0430\u043d\u0441\u043a\u0430\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +49,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688029
+        85688029,
+        1108737763
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":577380,
         "gp:id":2120259,
-        "qs:id":550013,
         "qs_pg:id":550013
     },
     "wof:country":"RU",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":102007727,
-    "wof:lastmodified":1505338928,
+    "wof:lastmodified":1566615202,
     "wof:name":"Berezanskaya",
     "wof:parent_id":1108737763,
     "wof:placetype":"locality",

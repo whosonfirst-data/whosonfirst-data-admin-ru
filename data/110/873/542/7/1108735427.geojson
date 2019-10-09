@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":75.470795,
     "lbl:longitude":82.135619,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Krasnojarskij kraj",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,8 +55,9 @@
     "mps:longitude":82.135619,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688139,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108735427,
-    "wof:lastmodified":1561582021,
+    "wof:lastmodified":1566627101,
     "wof:name":"",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

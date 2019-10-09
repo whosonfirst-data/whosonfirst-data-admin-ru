@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001104,
-    "geom:area_square_m":8223416.585914,
+    "geom:area_square_m":8223416.585917,
     "geom:bbox":"80.4055557251,52.9310798645,80.4802246094,52.9571762085",
     "geom:latitude":52.942066,
     "geom:longitude":80.43699,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.942579,
     "lbl:longitude":80.430202,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.942579,
     "mps:longitude":80.430202,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Len'ki"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u041b\u0435\u043d\u044c\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Len\u2019kovskiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -42,7 +45,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687835,
         102191581,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":102013449,
-    "wof:lastmodified":1501220038,
+    "wof:lastmodified":1566615041,
     "wof:name":"Lenki",
     "wof:parent_id":1108733019,
     "wof:placetype":"locality",

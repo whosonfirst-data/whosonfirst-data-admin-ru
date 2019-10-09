@@ -9,15 +9,17 @@
     "geom:bbox":"37.60384,54.10152,37.60384,54.10152",
     "geom:latitude":54.10152,
     "geom:longitude":37.60384,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":13325,
+    "gn:country":"RU",
+    "gn:fcode":"PPLX",
     "gn:population":13325,
     "iso:country":"RU",
+    "lbl:bbox":"37.59884,54.09652,37.60884,54.10652",
     "lbl:latitude":54.10152,
     "lbl:longitude":37.60384,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Skuratovskiy"
@@ -28,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0421\u043a\u0443\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yuzhnyy"
     ],
     "qs_pg:aaroncc":"RU",
@@ -43,15 +45,15 @@
     "qs_pg:qs_id":549150,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
-        85688203,
         102191581,
         85632685,
         102003953,
         874393555,
-        890484353
+        890484353,
+        85688203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1126105583,
-    "wof:lastmodified":1509412353,
+    "wof:lastmodified":1566631003,
     "wof:name":"Skuratovskiy",
     "wof:parent_id":102003953,
     "wof:placetype":"neighbourhood",

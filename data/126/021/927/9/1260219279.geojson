@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"32.18684,58.0533,32.22684,58.0933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Russkaya Bolotnitsa"
     ],
@@ -33,10 +37,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0420\u0443\u0441\u0441\u043a\u0430\u044f \u0411\u043e\u043b\u043e\u0442\u043d\u0438\u0446\u0430"
-    ],
-    "name:und_x_variant":[
-        "\u0420\u0443\u0441\u0441\u043a\u0430\u044f \u0411\u043e\u043b\u043e\u0442\u043d\u0438\u0446\u0430",
-        "Russkaya Bolotnitsa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":1260219279,
-    "wof:lastmodified":1537686088,
+    "wof:lastmodified":1566626724,
     "wof:name":"Russkaya Bolotnitsa",
     "wof:parent_id":1108733359,
     "wof:placetype":"locality",

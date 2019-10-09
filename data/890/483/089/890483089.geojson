@@ -11,11 +11,15 @@
     "geom:longitude":48.07364,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":16191,
+    "gn:population":16191,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"48.05364,46.08995,48.09364,46.12995",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u064a\u0632\u064a\u0627\u0643"
     ],
@@ -106,9 +110,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043c\u0438\u0437\u044f\u043a"
     ],
-    "name:unk_x_variant":[
-        "Kamysjak"
-    ],
     "name:vep_x_preferred":[
         "Kamiz\u00e4k"
     ],
@@ -145,7 +146,7 @@
     "wof:concordances":{
         "gn:id":553248,
         "gp:id":2016022,
-        "qs:id":1233824,
+        "qs_pg:id":1233824,
         "wd:id":"Q144123",
         "wk:page":"Kamyzyak"
     },
@@ -163,7 +164,7 @@
         }
     ],
     "wof:id":890483089,
-    "wof:lastmodified":1563262301,
+    "wof:lastmodified":1566630654,
     "wof:name":"Kamyzyak",
     "wof:parent_id":1108734247,
     "wof:placetype":"locality",

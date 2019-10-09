@@ -9,18 +9,21 @@
     "geom:bbox":"82.1842803955,54.9946670532,82.2481689453,55.0424995422",
     "geom:latitude":55.017252,
     "geom:longitude":82.210062,
-    "geonames:id":"1503081,1503082",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":16446,
+    "gn:id":"1503081,1503082",
+    "gn:population":16446,
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:latitude":55.016952,
     "lbl:longitude":82.207884,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.016952,
     "mps:longitude":82.207884,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Kochen\u00ebvo"
     ],
@@ -54,7 +57,7 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u0447\u0435\u043d\u0451\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Konchenevo"
     ],
     "name:zho_x_preferred":[
@@ -85,7 +88,7 @@
     "qs:type":"\u0440\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1732,
     "wof:belongsto":[
@@ -99,7 +102,7 @@
     "wof:concordances":{
         "gn:id":1503082,
         "gp:id":2121445,
-        "qs:id":986809,
+        "qs_pg:id":986809,
         "wd:id":"Q916706",
         "wk:page":"Siberian Military District"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":102012929,
-    "wof:lastmodified":1563239941,
+    "wof:lastmodified":1566615026,
     "wof:name":"Kochenevo",
     "wof:parent_id":1108734509,
     "wof:placetype":"locality",

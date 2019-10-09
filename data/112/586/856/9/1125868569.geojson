@@ -9,15 +9,18 @@
     "geom:bbox":"156.12695,50.67531,156.12695,50.67531",
     "geom:latitude":50.67531,
     "geom:longitude":156.12695,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2422,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":2422,
     "iso:country":"RU",
+    "lbl:bbox":"156.10695,50.65531,156.14695,50.69531",
     "lbl:latitude":50.67531,
     "lbl:longitude":156.12695,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u0641\u064a\u0631\u0648-\u0643\u0648\u0631\u064a\u0644\u0633\u0643"
@@ -190,7 +193,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0454\u0432\u0435\u0440\u043e-\u041a\u0443\u0440\u0438\u043b\u044c\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kashiwabara"
     ],
     "name:urd_x_preferred":[
@@ -220,7 +223,7 @@
     "qs_pg:qs_id":138515,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688125,
@@ -249,7 +252,7 @@
         }
     ],
     "wof:id":1125868569,
-    "wof:lastmodified":1563263097,
+    "wof:lastmodified":1566631008,
     "wof:name":"Severo-Kuril\u2019sk",
     "wof:parent_id":1108736473,
     "wof:placetype":"locality",

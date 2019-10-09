@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000389,
-    "geom:area_square_m":3439698.852403,
+    "geom:area_square_m":3439698.852404,
     "geom:bbox":"132.369415283,44.3901939392,132.398895264,44.4090003967",
     "geom:latitude":44.399015,
     "geom:longitude":132.384574,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.398324,
     "lbl:longitude":132.384293,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":44.398324,
     "mps:longitude":132.384293,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Vadimovka"
     ],
@@ -44,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688023,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102001665,
-    "wof:lastmodified":1505338911,
+    "wof:lastmodified":1566615325,
     "wof:name":"Vadimovka",
     "wof:parent_id":1108733249,
     "wof:placetype":"locality",

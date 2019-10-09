@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.860123,
     "lbl:longitude":53.07508,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.860123,
     "mps:longitude":53.07508,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0632\u0646\u0627\u0643\u0627\u064a\u064a\u0641\u0648"
     ],
@@ -184,7 +187,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":54.85,
     "wd:longitude":53.066667,
     "wd:wordcount":910,
@@ -215,7 +218,7 @@
         }
     ],
     "wof:id":102009567,
-    "wof:lastmodified":1563240298,
+    "wof:lastmodified":1566615204,
     "wof:name":"Aznakayevo",
     "wof:parent_id":1108732821,
     "wof:placetype":"locality",

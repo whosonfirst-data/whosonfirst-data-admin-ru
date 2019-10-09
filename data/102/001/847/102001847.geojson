@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":60.624824,
     "lbl:longitude":28.578482,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":60.624824,
     "mps:longitude":28.578482,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0633\u0648\u062a\u0633\u0643"
     ],
@@ -167,7 +170,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0441\u043e\u0446\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Uuraa"
     ],
     "name:vep_x_preferred":[
@@ -200,7 +203,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":60.616667,
     "wd:longitude":28.566667,
@@ -215,7 +218,6 @@
     "wof:concordances":{
         "gn:id":469995,
         "gp:id":2124407,
-        "qs:id":207540,
         "qs_pg:id":207540,
         "wd:id":"Q15250",
         "wk:page":"Vysotsk"
@@ -231,7 +233,7 @@
         }
     ],
     "wof:id":102001847,
-    "wof:lastmodified":1563240600,
+    "wof:lastmodified":1566615322,
     "wof:name":"Vysotsk",
     "wof:parent_id":890485873,
     "wof:placetype":"locality",

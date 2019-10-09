@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000711,
-    "geom:area_square_m":6389442.606877,
+    "geom:area_square_m":6389442.606879,
     "geom:bbox":"43.7640037537,43.3870620728,43.8045272827,43.4246253967",
     "geom:latitude":43.407924,
     "geom:longitude":43.786135,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.408458,
     "lbl:longitude":43.785828,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":43.408458,
     "mps:longitude":43.785828,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Psygansu"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041f\u0441\u044b\u0433\u0430\u043d\u0441\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Psygasu"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +52,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688089
+        85688089,
+        1108737199
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":504327,
         "gp:id":2072229,
-        "qs:id":549295,
         "qs_pg:id":549295
     },
     "wof:country":"RU",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102016373,
-    "wof:lastmodified":1505338949,
+    "wof:lastmodified":1566615464,
     "wof:name":"Psygansu",
     "wof:parent_id":1108737199,
     "wof:placetype":"locality",

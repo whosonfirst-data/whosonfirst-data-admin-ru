@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000335,
-    "geom:area_square_m":2525985.671876,
+    "geom:area_square_m":2525985.671874,
     "geom:bbox":"85.4037780762,52.4395828247,85.4426040649,52.4618492126",
     "geom:latitude":52.451713,
     "geom:longitude":85.424697,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.451655,
     "lbl:longitude":85.424697,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.451655,
     "mps:longitude":85.424697,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Verkhne-Katunskoye"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0412\u0435\u0440\u0445-\u041a\u0430\u0442\u0443\u043d\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Varki"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687835,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":1487569,
         "gp:id":2104296,
-        "qs:id":315835
+        "qs_pg:id":315835
     },
     "wof:country":"RU",
     "wof:geomhash":"fc1bc9bb02d7971e3dfea931f2e74bd8",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102013607,
-    "wof:lastmodified":1505338942,
+    "wof:lastmodified":1566615078,
     "wof:name":"",
     "wof:parent_id":1108732997,
     "wof:placetype":"locality",

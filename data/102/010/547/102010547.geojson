@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000495,
-    "geom:area_square_m":3657462.256523,
+    "geom:area_square_m":3657462.256524,
     "geom:bbox":"49.4958343506,53.2695541382,49.530166626,53.2916946411",
     "geom:latitude":53.281337,
     "geom:longitude":49.512853,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.282871,
     "lbl:longitude":49.512853,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.282871,
     "mps:longitude":49.512853,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sosnovyy Solonets"
     ],
@@ -25,9 +28,6 @@
         "Sosnovyj Solonets"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u043e\u0441\u043d\u043e\u0432\u044b\u0439 \u0421\u043e\u043b\u043e\u043d\u0435\u0446"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u043e\u0441\u043d\u043e\u0432\u044b\u0439 \u0421\u043e\u043b\u043e\u043d\u0435\u0446"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687781,
         102191581,
@@ -58,7 +58,7 @@
     "wof:concordances":{
         "gn:id":490161,
         "gp:id":2087634,
-        "qs:id":354088
+        "qs_pg:id":354088
     },
     "wof:country":"RU",
     "wof:geomhash":"8da6b15acea47d40f2b34b0ff0dc2661",
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":102010547,
-    "wof:lastmodified":1501214479,
+    "wof:lastmodified":1566615511,
     "wof:name":"Sosnovy-Solonets",
     "wof:parent_id":890484433,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000292,
-    "geom:area_square_m":2081939.402985,
+    "geom:area_square_m":2081939.402986,
     "geom:bbox":"48.294418335,54.8116378784,48.3301124573,54.8252220154",
     "geom:latitude":54.818446,
     "geom:longitude":48.312503,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.818543,
     "lbl:longitude":48.312502,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.818543,
     "mps:longitude":48.312502,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Byurgany"
     ],
@@ -25,9 +28,6 @@
         "Bjurgany"
     ],
     "name:rus_x_preferred":[
-        "\u0411\u044e\u0440\u0433\u0430\u043d\u044b"
-    ],
-    "name:unk_x_variant":[
         "\u0411\u044e\u0440\u0433\u0430\u043d\u044b"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688065,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102009597,
-    "wof:lastmodified":1501214773,
+    "wof:lastmodified":1566615233,
     "wof:name":"Byurgany",
     "wof:parent_id":890487943,
     "wof:placetype":"locality",

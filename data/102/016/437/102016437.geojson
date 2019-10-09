@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000297,
-    "geom:area_square_m":2673435.709847,
+    "geom:area_square_m":2673435.70985,
     "geom:bbox":"43.6602554321,43.2143859863,43.68151474,43.2382087708",
     "geom:latitude":43.226508,
     "geom:longitude":43.670959,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.226728,
     "lbl:longitude":43.67112,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.226728,
     "mps:longitude":43.67112,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Zhemtala"
     ],
@@ -44,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688089,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102016437,
-    "wof:lastmodified":1505338949,
+    "wof:lastmodified":1566615436,
     "wof:name":"Zhemtala",
     "wof:parent_id":1108733227,
     "wof:placetype":"locality",

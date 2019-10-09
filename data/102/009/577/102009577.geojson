@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.840726,
     "lbl:longitude":46.226125,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.840726,
     "mps:longitude":46.226125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u062f\u0627\u062a\u0648\u0641"
     ],
@@ -172,7 +175,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -184,7 +187,6 @@
     "wof:concordances":{
         "gn:id":581187,
         "gp:id":2120066,
-        "qs:id":125768,
         "qs_pg:id":125768,
         "wd:id":"Q103747",
         "wk:page":"Ardatov (town), Republic of Mordovia"
@@ -200,7 +202,7 @@
         }
     ],
     "wof:id":102009577,
-    "wof:lastmodified":1563240402,
+    "wof:lastmodified":1566615253,
     "wof:name":"Ardatov",
     "wof:parent_id":1108732763,
     "wof:placetype":"locality",

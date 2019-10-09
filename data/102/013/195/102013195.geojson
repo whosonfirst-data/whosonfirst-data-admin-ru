@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000901,
-    "geom:area_square_m":6561796.373595,
+    "geom:area_square_m":6561796.373591,
     "geom:bbox":"83.7049865723,53.8817977905,83.7580871582,53.9124641418",
     "geom:latitude":53.896567,
     "geom:longitude":83.731615,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.894435,
     "lbl:longitude":83.729,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.894435,
     "mps:longitude":83.729,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Bezbozjnoje"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687835,
         102191581,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102013195,
-    "wof:lastmodified":1501220068,
+    "wof:lastmodified":1566615035,
     "wof:name":"Bezbozhnoye",
     "wof:parent_id":1108736923,
     "wof:placetype":"locality",

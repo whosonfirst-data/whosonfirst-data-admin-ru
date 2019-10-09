@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":54.994837,
     "lbl:longitude":57.267617,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":54.994837,
     "mps:longitude":57.267617,
     "mz:hierarchy_label":1,
@@ -262,7 +264,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.0,
     "wd:longitude":57.25,
@@ -278,7 +280,6 @@
     "wof:concordances":{
         "gn:id":580660,
         "gp:id":2120099,
-        "qs:id":369794,
         "qs_pg:id":369794,
         "wd:id":"Q104262",
         "wk:page":"Asha, Russia"
@@ -296,7 +297,7 @@
         }
     ],
     "wof:id":102009491,
-    "wof:lastmodified":1563240341,
+    "wof:lastmodified":1566615224,
     "wof:name":"Asha",
     "wof:parent_id":890485449,
     "wof:placetype":"locality",

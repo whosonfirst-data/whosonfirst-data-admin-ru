@@ -11,10 +11,14 @@
     "geom:longitude":38.9596,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":45334,
+    "gn:population":45334,
     "iso:country":"RU",
+    "lbl:bbox":"38.9396,46.0649,38.9796,46.1049",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u043d\u0435\u045e\u0441\u043a\u0430\u044f"
     ],
@@ -78,9 +82,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043d\u0456\u0432\u0441\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Kanewskaja"
-    ],
     "name:zho_x_preferred":[
         "\u5361\u6d85\u592b\u65af\u5361\u4e9a"
     ],
@@ -104,10 +105,12 @@
     "wof:concordances":{
         "gn:id":502542,
         "gp:id":2121182,
-        "qs:id":369589,
-        "qs_pg:id":1230596,
+        "qs_pg:id":369589,
         "wd:id":"Q1002706",
         "wk:page":"Kanevskaya"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1230596
     },
     "wof:country":"RU",
     "wof:created":1469054364,
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":890481565,
-    "wof:lastmodified":1563262673,
+    "wof:lastmodified":1566630817,
     "wof:name":"Kanevskaya",
     "wof:parent_id":1108733111,
     "wof:placetype":"locality",

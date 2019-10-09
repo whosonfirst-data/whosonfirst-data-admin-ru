@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.143588,
     "lbl:longitude":90.571122,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.143588,
     "mps:longitude":90.571122,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u041a\u044b\u0437\u044b\u043b-\u041c\u0430\u0436\u0430\u043b\u044b\u043a"
     ],
@@ -43,7 +46,7 @@
     "name:tur_x_preferred":[
         "K\u0131z\u0131l-Majal\u0131k"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kyzyl-Madzhalyk"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1500957,
-        "qs:id":556165,
         "qs_pg:id":556165
     },
     "wof:country":"RU",
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":102014399,
-    "wof:lastmodified":1564108741,
+    "wof:lastmodified":1566615092,
     "wof:name":"Kyzyl-Mazhalyk",
     "wof:parent_id":1108732895,
     "wof:placetype":"locality",

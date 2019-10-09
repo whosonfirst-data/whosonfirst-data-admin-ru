@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":58.251484,
     "lbl:longitude":57.608169,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.251484,
     "mps:longitude":57.608169,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kalino"
     ],
@@ -38,9 +41,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0456\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0430\u043b\u0438\u043d\u043e"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
     "qs:a1_lc":"5900001303100",
@@ -59,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":27,
     "wof:belongsto":[
@@ -72,7 +72,6 @@
     "wof:concordances":{
         "gn:id":554153,
         "gp:id":2121131,
-        "qs:id":460047,
         "qs_pg:id":460047
     },
     "wof:country":"RU",
@@ -86,7 +85,7 @@
         }
     ],
     "wof:id":102008381,
-    "wof:lastmodified":1564108959,
+    "wof:lastmodified":1566615304,
     "wof:name":"Kalino",
     "wof:parent_id":1108733309,
     "wof:placetype":"locality",

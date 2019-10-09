@@ -11,11 +11,15 @@
     "geom:longitude":52.58968,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"52.56968,55.59212,52.60968,55.63212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Knyazev"
     ],
@@ -46,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043d\u044f\u0437\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u043d\u044f\u0437\u0435\u0432\u043e"
-    ],
     "qs:name":"Knyazevo",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Tatarstan Republic",
@@ -68,7 +69,7 @@
     "wof:concordances":{
         "gn:id":547133,
         "gp:id":2023210,
-        "qs:id":1026545
+        "qs_pg:id":1026545
     },
     "wof:country":"RU",
     "wof:created":1469054481,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":890483757,
-    "wof:lastmodified":1564129046,
+    "wof:lastmodified":1566630653,
     "wof:name":"Knyazevo",
     "wof:parent_id":890480015,
     "wof:placetype":"locality",

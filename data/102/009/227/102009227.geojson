@@ -9,11 +9,13 @@
     "geom:bbox":"46.3720817566,55.4741401672,46.438331604,55.5097503662",
     "geom:latitude":55.494381,
     "geom:longitude":46.406585,
-    "geonames:id":"493462,493463",
+    "gn:id":"493462,493463",
     "gn:population":35220,
     "iso:country":"RU",
     "lbl:latitude":55.494499,
     "lbl:longitude":46.407216,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":55.494499,
     "mps:longitude":46.407216,
     "mz:hierarchy_label":1,
@@ -134,9 +136,6 @@
         "\u015eumerlya"
     ],
     "name:ukr_x_preferred":[
-        "\u0428\u0443\u043c\u0435\u0440\u043b\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u0428\u0443\u043c\u0435\u0440\u043b\u044f"
     ],
     "name:vep_x_preferred":[
@@ -264,7 +263,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.5,
     "wd:longitude":46.416667,
@@ -279,7 +278,6 @@
     "wof:concordances":{
         "gn:id":493463,
         "gp:id":2123468,
-        "qs:id":273781,
         "qs_pg:id":273781,
         "wd:id":"Q198349",
         "wk:page":"Shumerlya"
@@ -295,7 +293,7 @@
         }
     ],
     "wof:id":102009227,
-    "wof:lastmodified":1563240311,
+    "wof:lastmodified":1566615211,
     "wof:name":"Shumerlya",
     "wof:parent_id":1108733675,
     "wof:placetype":"locality",

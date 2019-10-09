@@ -9,14 +9,17 @@
     "geom:bbox":"39.8545265198,44.942527771,39.8713340759,44.9640846252",
     "geom:latitude":44.952873,
     "geom:longitude":39.863487,
-    "geonames:id":"564226,564227",
+    "gn:id":"564226,564227",
     "iso:country":"RU",
     "lbl:latitude":44.951839,
     "lbl:longitude":39.861646,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.951839,
     "mps:longitude":39.861646,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Dukm\u00e0ssov"
     ],
@@ -46,7 +49,7 @@
     "qs:type":"\u0445",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688029,
         102191581,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102015601,
-    "wof:lastmodified":1564108605,
+    "wof:lastmodified":1566614971,
     "wof:name":"Dukmasov",
     "wof:parent_id":890485447,
     "wof:placetype":"locality",

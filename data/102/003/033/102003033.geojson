@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":55.741469,
     "lbl:longitude":37.615561,
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":2.5,
     "mps:latitude":55.741469,
     "mps:longitude":37.615561,
     "mz:hierarchy_label":1,
@@ -762,16 +764,8 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0441\u043a\u0432\u0430"
     ],
-    "name:und_x_preferred":[
-        "Maskva",
-        "Moskwa",
-        "\u039c\u03bf\u03c3\u03c7\u03b1"
-    ],
     "name:und_x_variant":[
-        "\u041c\u043e\u0441\u043a\u0432\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Moskva"
+        "\u039c\u03bf\u03c3\u03c7\u03b1"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0633\u06a9\u0648"
@@ -956,7 +950,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":17623,
     "wof:belongsto":[
@@ -975,7 +969,6 @@
         "gp:id":2122265,
         "loc:id":"n79076156",
         "nyt:id":"N38458012876881079341",
-        "qs:id":467142,
         "qs_pg:id":467142,
         "wd:id":"Q649",
         "wk:page":"Moscow"
@@ -999,7 +992,7 @@
     "wof:lang_x_official":[
         "rus"
     ],
-    "wof:lastmodified":1563241193,
+    "wof:lastmodified":1566615556,
     "wof:megacity":1,
     "wof:name":"Moscow",
     "wof:parent_id":1108736095,

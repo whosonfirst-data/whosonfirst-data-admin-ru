@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00042,
-    "geom:area_square_m":2899763.104487,
+    "geom:area_square_m":2899763.104488,
     "geom:bbox":"36.4927215576,56.0804176331,36.5320014954,56.0971946716",
     "geom:latitude":56.088539,
     "geom:longitude":36.514084,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.087748,
     "lbl:longitude":36.514522,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.087748,
     "mps:longitude":36.514522,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Nudol'"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041d\u0443\u0434\u043e\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Spas-Nudel\u2019"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688161,
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":516762,
         "gp:id":2058271,
-        "qs:id":1159851,
         "qs_pg:id":1159851
     },
     "wof:country":"RU",
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":102003013,
-    "wof:lastmodified":1505338917,
+    "wof:lastmodified":1566615525,
     "wof:name":"Nudol Sharino",
     "wof:parent_id":890487039,
     "wof:placetype":"locality",

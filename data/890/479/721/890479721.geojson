@@ -11,8 +11,11 @@
     "geom:longitude":114.90048,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":10359,
+    "gn:population":10359,
     "iso:country":"RU",
+    "lbl:bbox":"114.88048,56.32162,114.92048,56.36162",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043a\u0441\u0438\u043c\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Toksimo"
     ],
     "name:urd_x_preferred":[
@@ -188,7 +191,7 @@
     "wof:concordances":{
         "gn:id":2015701,
         "gp:id":2123811,
-        "qs:id":137446,
+        "qs_pg:id":137446,
         "wd:id":"Q14208650",
         "wk:page":"Taksimo"
     },
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":890479721,
-    "wof:lastmodified":1563262585,
+    "wof:lastmodified":1566630774,
     "wof:name":"Taksimo",
     "wof:parent_id":1108735233,
     "wof:placetype":"locality",

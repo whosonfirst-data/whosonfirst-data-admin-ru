@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":51.985399,
     "lbl:longitude":116.572587,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.985399,
     "mps:longitude":116.572587,
     "mz:hierarchy_label":1,
@@ -149,9 +151,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0440\u0447\u0438\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "\u041d\u0435\u0440\u0447\u0438\u043d\u0441\u043a"
-    ],
     "name:vep_x_preferred":[
         "Ner\u010dinsk"
     ],
@@ -277,7 +276,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.983333,
     "wd:longitude":116.583333,
@@ -292,7 +291,6 @@
     "wof:concordances":{
         "gn:id":2019326,
         "gp:id":2049608,
-        "qs:id":274102,
         "qs_pg:id":274102,
         "wd:id":"Q146043",
         "wk:page":"Nerchinsk"
@@ -308,7 +306,7 @@
         }
     ],
     "wof:id":102014621,
-    "wof:lastmodified":1563240092,
+    "wof:lastmodified":1566615096,
     "wof:name":"Nerchinsk",
     "wof:parent_id":1108735343,
     "wof:placetype":"locality",

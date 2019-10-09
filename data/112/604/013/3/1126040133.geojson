@@ -9,15 +9,18 @@
     "geom:bbox":"44.77541,55.78261,44.77541,55.78261",
     "geom:latitude":55.78261,
     "geom:longitude":44.77541,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7000,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":7000,
     "iso:country":"RU",
+    "lbl:bbox":"44.75541,55.76261,44.79541,55.80261",
     "lbl:latitude":55.78261,
     "lbl:longitude":44.77541,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Bol'shoye Murashkino"
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u043b\u044c\u0448\u043e\u0435 \u041c\u0443\u0440\u0430\u0448\u043a\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Murashkino"
     ],
     "qs_pg:aaroncc":"RU",
@@ -50,7 +53,7 @@
     "qs_pg:woe_adm0":23424936,
     "qs_pg:woe_id":1992998,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424936,
     "woe:name_adm0":"Russia",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1126040133,
-    "wof:lastmodified":1509408455,
+    "wof:lastmodified":1566631005,
     "wof:name":"Bol'shoye Rybushkino",
     "wof:parent_id":1108733069,
     "wof:placetype":"locality",

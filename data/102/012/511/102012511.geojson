@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":54.108663,
     "lbl:longitude":61.575895,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":54.108663,
     "mps:longitude":61.575895,
     "mz:hierarchy_label":1,
@@ -144,9 +146,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u043e\u0457\u0446\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "Troizk"
-    ],
     "name:vie_x_preferred":[
         "Troitsk"
     ],
@@ -266,7 +265,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -278,7 +277,6 @@
     "wof:concordances":{
         "gn:id":1489246,
         "gp:id":2097243,
-        "qs:id":273946,
         "qs_pg:id":273946,
         "wd:id":"Q196694",
         "wk:page":"Troitsk, Chelyabinsk Oblast"
@@ -294,7 +292,7 @@
         }
     ],
     "wof:id":102012511,
-    "wof:lastmodified":1563239889,
+    "wof:lastmodified":1566615005,
     "wof:name":"Troitsk",
     "wof:parent_id":1108737083,
     "wof:placetype":"locality",

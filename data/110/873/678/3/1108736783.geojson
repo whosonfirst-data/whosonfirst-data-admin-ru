@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":67.693803,
     "lbl:longitude":153.419645,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Respublika Sakha (JAkutija)",
     "meso:admin1r_en":"Dal'nevostochnyj federal'nyj okrug",
     "meso:admin_1":"\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u0445\u0430 (\u042f\u043a\u0443\u0442\u0438\u044f)",
@@ -53,6 +55,7 @@
     "mps:longitude":153.419645,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Srednekolymsky District"
     ],
@@ -105,9 +108,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0440\u0435\u0434\u043d\u044c\u043e\u043a\u043e\u043b\u0438\u043c\u0441\u044c\u043a\u0438\u0439 \u0443\u043b\u0443\u0441"
     ],
-    "name:und_x_variant":[
-        "\u0421\u0440\u0435\u0434\u043d\u0435\u043a\u043e\u043b\u044b\u043c\u0441\u043a\u0438\u0439 \u0443\u043b\u0443\u0441"
-    ],
     "name:vie_x_preferred":[
         "Srednekolymsky"
     ],
@@ -115,9 +115,9 @@
         "\u65af\u5217\u5fb7\u6d85\u79d1\u96f7\u59c6\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"124617",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Srednekolymsk",
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":1108736783,
-    "wof:lastmodified":1563257058,
+    "wof:lastmodified":1566627197,
     "wof:name":"Srednekolymskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",

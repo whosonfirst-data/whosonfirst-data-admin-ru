@@ -10,8 +10,10 @@
     "geom:latitude":55.873793,
     "geom:longitude":37.636492,
     "iso:country":"RU",
+    "lbl:bbox":"37.6314917924,55.8687929046,37.6414917924,55.8787929046",
     "lbl:latitude":55.873793,
     "lbl:longitude":37.636492,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -27,14 +29,14 @@
     "name:rus_x_preferred":[
         "\u042e\u0301\u0436\u043d\u043e\u0435 \u041c\u0435\u0434\u0432\u0435\u0301\u0434\u043a\u043e\u0432\u043e"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688085,
         102191581,
         85632685,
         102003033,
         874393555,
-        1108736095
+        1108736095,
+        85688085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1108942769,
-    "wof:lastmodified":1500066507,
+    "wof:lastmodified":1566627424,
     "wof:name":"Yuzhnoye Medvedkovo",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

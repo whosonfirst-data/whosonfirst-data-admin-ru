@@ -11,11 +11,15 @@
     "geom:longitude":33.34537,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":2198,
+    "gn:population":2198,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"33.32537,59.10393,33.36537,59.14393",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041d\u0435\u0431\u0430\u043b\u0447\u044b"
     ],
@@ -58,9 +62,6 @@
     "name:srp_x_preferred":[
         "\u041d\u0435\u0431\u043e\u043b\u0447\u0438"
     ],
-    "name:unk_x_variant":[
-        "\u041d\u0435\u0431\u043e\u043b\u0447\u0438"
-    ],
     "qs:name":"Nebolchi",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Novgorod Oblast",
@@ -81,7 +82,7 @@
     "wof:concordances":{
         "gn:id":523051,
         "gp:id":2122353,
-        "qs:id":125098,
+        "qs_pg:id":125098,
         "wd:id":"Q1970488",
         "wk:page":"Nebolchi"
     },
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":890482397,
-    "wof:lastmodified":1563262107,
+    "wof:lastmodified":1566630577,
     "wof:name":"Nebolchi",
     "wof:parent_id":1108734969,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":61.09485,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"61.07485,58.77572,61.11485,58.81572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u041b\u0435\u0431\u0435\u0434\u0435\u0432"
     ],
@@ -140,9 +144,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0431\u0435\u0434\u0454\u0432"
     ],
-    "name:unk_x_variant":[
-        "\u041b\u0435\u0431\u0435\u0434\u0435\u0432\u0430"
-    ],
     "name:zho_x_preferred":[
         "\u5217\u522b\u6770\u592b"
     ],
@@ -166,7 +167,7 @@
     "wof:concordances":{
         "gn:id":1500811,
         "gp:id":2035452,
-        "qs:id":383997,
+        "qs_pg:id":383997,
         "wd:id":"Q385063",
         "wk:page":"Lebedev"
     },
@@ -184,7 +185,7 @@
         }
     ],
     "wof:id":890481731,
-    "wof:lastmodified":1563262615,
+    "wof:lastmodified":1566630788,
     "wof:name":"Lebedeva",
     "wof:parent_id":1108733899,
     "wof:placetype":"locality",

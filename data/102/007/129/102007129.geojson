@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":47.643357,
     "lbl:longitude":42.094587,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.643357,
     "mps:longitude":42.094587,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062a\u0633\u064a\u0645\u0644\u064a\u0627\u0646\u0633\u0643"
     ],
@@ -121,7 +124,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0438\u043c\u043b\u044f\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zymljanskaja"
     ],
     "name:war_x_preferred":[
@@ -151,7 +154,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":47.646667,
     "wd:longitude":42.094722,
@@ -166,7 +169,6 @@
     "wof:concordances":{
         "gn:id":480876,
         "gp:id":2123988,
-        "qs:id":275892,
         "qs_pg:id":275892,
         "wd:id":"Q197637",
         "wk:page":"Tsimlyansk"
@@ -182,7 +184,7 @@
         }
     ],
     "wof:id":102007129,
-    "wof:lastmodified":1563240237,
+    "wof:lastmodified":1566615169,
     "wof:name":"Tsimlyansk",
     "wof:parent_id":1108733313,
     "wof:placetype":"locality",

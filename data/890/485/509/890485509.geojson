@@ -11,11 +11,15 @@
     "geom:longitude":36.8876,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"36.8676,56.0254,36.9076,56.0654",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0422\u0440\u0443\u0441\u043e\u0432\u043e"
     ],
@@ -23,9 +27,6 @@
         "\u0422\u0440\u0443\u0441\u043e\u0432\u043e"
     ],
     "name:tgk_x_preferred":[
-        "\u0422\u0440\u0443\u0441\u043e\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u0422\u0440\u0443\u0441\u043e\u0432\u043e"
     ],
     "qs:name":"Trusovo",
@@ -49,7 +50,7 @@
     "wof:concordances":{
         "gn:id":7601524,
         "gp:id":2097791,
-        "qs:id":315834
+        "qs_pg:id":315834
     },
     "wof:country":"RU",
     "wof:created":1469054563,
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":890485509,
-    "wof:lastmodified":1564128944,
+    "wof:lastmodified":1566630551,
     "wof:name":"Trusovo",
     "wof:parent_id":890484217,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":35.19177,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":23,
+    "gn:population":23,
     "iso:country":"RU",
+    "lbl:bbox":"35.17177,62.05619,35.21177,62.09619",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0438\u0436\u0438"
     ],
@@ -129,9 +133,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0441\u044c\u043a\u0430 \u0446\u0435\u0440\u043a\u0432\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0438\u0436\u0438"
-    ],
     "name:vie_x_preferred":[
         "Kizhi"
     ],
@@ -157,7 +158,7 @@
     "wof:concordances":{
         "gn:id":547864,
         "gp:id":2122713,
-        "qs:id":244382,
+        "qs_pg:id":244382,
         "wd:id":"Q477462"
     },
     "wof:country":"RU",
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":890487293,
-    "wof:lastmodified":1563262883,
+    "wof:lastmodified":1566630908,
     "wof:name":"Kizhi",
     "wof:parent_id":890487561,
     "wof:placetype":"locality",

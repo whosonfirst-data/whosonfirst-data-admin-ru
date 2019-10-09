@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000968,
-    "geom:area_square_m":8410289.75525,
+    "geom:area_square_m":8410289.755251,
     "geom:bbox":"39.0489997864,45.3219184875,39.0928611755,45.3552780151",
     "geom:latitude":45.339358,
     "geom:longitude":39.070561,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.339246,
     "lbl:longitude":39.070978,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.339246,
     "mps:longitude":39.070978,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Staromyshastovskaya"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e\u043c\u044b\u0448\u0430\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Staromishastovskaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +52,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688029
+        85688029,
+        1108733369
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":488730,
         "gp:id":90615089,
-        "qs:id":80540,
         "qs_pg:id":80540
     },
     "wof:country":"RU",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102007891,
-    "wof:lastmodified":1505338929,
+    "wof:lastmodified":1566615191,
     "wof:name":"Staromyshastovskaya",
     "wof:parent_id":1108733369,
     "wof:placetype":"locality",

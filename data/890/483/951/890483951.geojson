@@ -11,11 +11,15 @@
     "geom:longitude":38.54168,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"38.52168,55.25992,38.56168,55.29992",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:lav_x_preferred":[
         "Maksimovka"
     ],
@@ -23,9 +27,6 @@
         "\u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432\u043a\u0430"
     ],
     "name:ukr_x_preferred":[
-        "\u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432\u043a\u0430"
     ],
     "qs:name":"Maksimovka",
@@ -48,7 +49,7 @@
     "wof:concordances":{
         "gn:id":531924,
         "gp:id":2040098,
-        "qs:id":1061005,
+        "qs_pg:id":1061005,
         "wk:page":"Maksimovka"
     },
     "wof:country":"RU",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":890483951,
-    "wof:lastmodified":1564129046,
+    "wof:lastmodified":1566630653,
     "wof:name":"Maksimovka",
     "wof:parent_id":1108737697,
     "wof:placetype":"locality",

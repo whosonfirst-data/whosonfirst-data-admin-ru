@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00022,
-    "geom:area_square_m":1815529.856402,
+    "geom:area_square_m":1815529.856398,
     "geom:bbox":"135.836608887,48.0791053772,135.859008789,48.0926055908",
     "geom:latitude":48.085962,
     "geom:longitude":135.848363,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":48.085471,
     "lbl:longitude":135.848363,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.085471,
     "mps:longitude":135.848363,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Durmin"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0414\u0443\u0440\u043c\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verkhne Durminskiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687937,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102015487,
-    "wof:lastmodified":1501225173,
+    "wof:lastmodified":1566614966,
     "wof:name":"",
     "wof:parent_id":1108733993,
     "wof:placetype":"locality",

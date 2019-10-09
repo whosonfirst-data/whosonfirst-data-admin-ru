@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001095,
-    "geom:area_square_m":9663815.358917,
+    "geom:area_square_m":9663815.358918,
     "geom:bbox":"43.91563797,44.4634437561,43.9674453735,44.5032501221",
     "geom:latitude":44.483164,
     "geom:longitude":43.939917,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.48173,
     "lbl:longitude":43.933442,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.48173,
     "mps:longitude":43.933442,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Niny"
     ],
@@ -26,9 +29,6 @@
         "Niny"
     ],
     "name:rus_x_preferred":[
-        "\u041d\u0438\u043d\u044b"
-    ],
-    "name:unk_x_variant":[
         "\u041d\u0438\u043d\u044b"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +49,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687825
+        85687825,
+        1108736761
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":521316,
         "gp:id":2122405,
-        "qs:id":549462,
         "qs_pg:id":549462
     },
     "wof:country":"RU",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":102015907,
-    "wof:lastmodified":1505338948,
+    "wof:lastmodified":1566614924,
     "wof:name":"Niny",
     "wof:parent_id":1108736761,
     "wof:placetype":"locality",

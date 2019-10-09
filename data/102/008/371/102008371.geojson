@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":58.291403,
     "lbl:longitude":57.821613,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":58.291403,
     "mps:longitude":57.821613,
     "mz:hierarchy_label":1,
@@ -135,7 +137,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0443\u0441\u043e\u0432\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zavod Chusovskoye"
     ],
     "name:vep_x_preferred":[
@@ -260,7 +262,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":58.283333,
     "wd:longitude":57.816667,
@@ -275,7 +277,6 @@
     "wof:concordances":{
         "gn:id":567434,
         "gp:id":1999725,
-        "qs:id":183986,
         "qs_pg:id":183986,
         "wd:id":"Q198143",
         "wk:page":"Chusovoy"
@@ -291,7 +292,7 @@
         }
     ],
     "wof:id":102008371,
-    "wof:lastmodified":1563240468,
+    "wof:lastmodified":1566615280,
     "wof:name":"Chusovoy",
     "wof:parent_id":1108733309,
     "wof:placetype":"locality",

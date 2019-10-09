@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17046164.848167,
+    "geom:area_square_m":0.0,
     "geom:bbox":"37.159418,56.735622,37.159418,56.735622",
     "geom:latitude":56.735622,
     "geom:longitude":37.159418,
     "gn:latitude":56.73333,
     "gn:longitude":37.15,
     "iso:country":"RU",
+    "lbl:bbox":"37.154418,56.730622,37.164418,56.740622",
     "lbl:latitude":56.735622,
     "lbl:longitude":37.159418,
+    "lbl:max_zoom":18.0,
     "mps:latitude":56.731634,
     "mps:longitude":37.150727,
     "mz:hierarchy_label":0,
@@ -34,9 +36,8 @@
     "name:rus_x_preferred":[
         "\u0418\u0432\u0430\u043d\u044c\u043a\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Bol\u2019shaya Volga",
-        "Ivan'kovo"
+    "name:und_x_variant":[
+        "Bol\u2019shaya Volga"
     ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -65,20 +66,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85688161,
         102191581,
         85632685,
         102002817,
         874393555,
-        890484323
+        890484323,
+        85688161
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":555554,
         "gp:id":2013221,
-        "qs:id":439863,
         "qs_pg:id":439863
     },
     "wof:country":"RU",
@@ -98,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936041,
+    "wof:lastmodified":1566618493,
     "wof:name":"Ivan'kovo",
     "wof:parent_id":102002817,
     "wof:placetype":"neighbourhood",

@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":52.534156,
     "lbl:longitude":31.939915,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.534156,
     "mps:longitude":31.939915,
     "mz:hierarchy_label":1,
@@ -140,7 +142,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0437\u0438\u0431\u043a\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nowosybkoff"
     ],
     "name:vep_x_preferred":[
@@ -268,7 +270,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.533333,
     "wd:longitude":31.933333,
@@ -283,7 +285,6 @@
     "wof:concordances":{
         "gn:id":517269,
         "gp:id":2122558,
-        "qs:id":125051,
         "qs_pg:id":125051,
         "wd:id":"Q174138",
         "wk:page":"Novozybkov"
@@ -299,7 +300,7 @@
         }
     ],
     "wof:id":102004795,
-    "wof:lastmodified":1563241288,
+    "wof:lastmodified":1566615595,
     "wof:name":"Novozybkov",
     "wof:parent_id":1108735565,
     "wof:placetype":"locality",

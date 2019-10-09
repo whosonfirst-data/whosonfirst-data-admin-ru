@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":60.788805,
     "lbl:longitude":30.030297,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Leningradskaja oblast'",
     "meso:admin1r_en":"Severo-Zapadnyj federal'nyj okrug",
     "meso:admin_1":"\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":30.030297,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041f\u0440\u044b\u0430\u0437\u0435\u0440\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -118,9 +121,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0438\u043e\u0437\u0435\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041f\u0440\u0438\u043e\u0437\u0435\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vep_x_preferred":[
         "Priozerskan rajon"
     ],
@@ -144,9 +144,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"3548",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Priozersk",
@@ -168,7 +168,7 @@
     "wof:concordances":{
         "gp:id":12598653,
         "hasc:id":"RU.LN.PR",
-        "qs:id":425064,
+        "qs_pg:id":425064,
         "wd:id":"Q7975",
         "wk:page":"Priozersky District"
     },
@@ -185,7 +185,7 @@
         }
     ],
     "wof:id":890486233,
-    "wof:lastmodified":1563262760,
+    "wof:lastmodified":1566630858,
     "wof:name":"Priozerskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",

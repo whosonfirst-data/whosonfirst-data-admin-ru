@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000361,
-    "geom:area_square_m":2958900.117348,
+    "geom:area_square_m":2958900.117347,
     "geom:bbox":"44.889415741,48.4203071594,44.9431648254,48.4353904724",
     "geom:latitude":48.428166,
     "geom:longitude":44.916455,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":48.425993,
     "lbl:longitude":44.916047,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.425993,
     "mps:longitude":44.916047,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Raygorod"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688101,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102006953,
-    "wof:lastmodified":1501214526,
+    "wof:lastmodified":1566615333,
     "wof:name":"Raygorod",
     "wof:parent_id":1108736877,
     "wof:placetype":"locality",

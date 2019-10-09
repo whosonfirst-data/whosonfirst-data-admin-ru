@@ -5,21 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000537,
-    "geom:area_square_m":3772812.562983,
+    "geom:area_square_m":3772812.562981,
     "geom:bbox":"61.4405288696,55.3446388245,61.4836654663,55.3725013733",
     "geom:latitude":55.36103,
     "geom:longitude":61.465217,
     "iso:country":"RU",
     "lbl:latitude":55.358292,
     "lbl:longitude":61.472733,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.358292,
     "mps:longitude":61.472733,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
-        "\u041f\u0440\u043e\u0445\u043e\u0440\u043e\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u0440\u043e\u0445\u043e\u0440\u043e\u0432\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -38,7 +38,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687791,
         102191581,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":102012263,
-    "wof:lastmodified":1501220015,
+    "wof:lastmodified":1566615024,
     "wof:name":"Prokhorovo",
     "wof:parent_id":890483501,
     "wof:placetype":"locality",

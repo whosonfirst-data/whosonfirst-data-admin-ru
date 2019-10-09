@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":44.712538,
     "lbl:longitude":37.771743,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":44.712538,
     "mps:longitude":37.771743,
     "mz:hierarchy_label":1,
@@ -267,7 +269,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0440\u043e\u0441\u0456\u0439\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Noworossiisk"
     ],
     "name:urd_x_preferred":[
@@ -404,7 +406,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":44.716667,
     "wd:longitude":37.766667,
@@ -419,7 +421,6 @@
     "wof:concordances":{
         "gn:id":518255,
         "gp:id":2056386,
-        "qs:id":561029,
         "qs_pg:id":561029,
         "wd:id":"Q15760",
         "wk:page":"Novorossiysk"
@@ -435,7 +436,7 @@
         }
     ],
     "wof:id":102015799,
-    "wof:lastmodified":1563239706,
+    "wof:lastmodified":1566614925,
     "wof:name":"Novorossiysk",
     "wof:parent_id":1108735527,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":31.03845,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":12115,
+    "gn:population":12115,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"31.01845,59.9273,31.05845,59.9673",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0634\u0644\u064a\u0633\u0644\u0628\u0648\u0631\u063a"
     ],
@@ -159,7 +163,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u043b\u0456\u0441\u0441\u0435\u043b\u044c\u0431\u0443\u0440\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Petrokrepost\u2019"
     ],
     "name:vep_x_preferred":[
@@ -200,7 +204,7 @@
     "wof:concordances":{
         "gn:id":493970,
         "gp:id":2083422,
-        "qs:id":236976,
+        "qs_pg:id":236976,
         "wd:id":"Q15339"
     },
     "wof:country":"RU",
@@ -217,7 +221,7 @@
         }
     ],
     "wof:id":890487143,
-    "wof:lastmodified":1563262898,
+    "wof:lastmodified":1566630915,
     "wof:name":"Shlissel'burg",
     "wof:parent_id":890484443,
     "wof:placetype":"locality",

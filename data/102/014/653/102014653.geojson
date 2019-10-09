@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000314,
-    "geom:area_square_m":2403826.348048,
+    "geom:area_square_m":2403826.348046,
     "geom:bbox":"112.513442993,51.8052787781,112.537445068,51.8241653442",
     "geom:latitude":51.815489,
     "geom:longitude":112.524391,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.815763,
     "lbl:longitude":112.52342,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.815763,
     "mps:longitude":112.52342,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sokhondo"
     ],
@@ -25,9 +28,6 @@
         "Sokhondo"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u043e\u0445\u043e\u043d\u0434\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u043e\u0445\u043e\u043d\u0434\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688005,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102014653,
-    "wof:lastmodified":1501223627,
+    "wof:lastmodified":1566615133,
     "wof:name":"Sokhondo",
     "wof:parent_id":1108733281,
     "wof:placetype":"locality",

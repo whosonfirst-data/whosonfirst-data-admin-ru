@@ -9,15 +9,18 @@
     "geom:bbox":"82.7166,54.9872,82.7166,54.9872",
     "geom:latitude":54.9872,
     "geom:longitude":82.7166,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":24238,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":24238,
     "iso:country":"RU",
+    "lbl:bbox":"82.6966,54.9672,82.7366,55.0072",
     "lbl:latitude":54.9872,
     "lbl:longitude":82.7166,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0623\u0648\u0628"
@@ -118,9 +121,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0431"
     ],
-    "name:unk_x_variant":[
-        "\u041e\u0431\u044c"
-    ],
     "name:vep_x_preferred":[
         "Ob'"
     ],
@@ -142,7 +142,7 @@
     "qs_pg:qs_id":132896,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85687925,
@@ -171,7 +171,7 @@
         }
     ],
     "wof:id":1125820447,
-    "wof:lastmodified":1563263145,
+    "wof:lastmodified":1566631029,
     "wof:name":"Ob\u2019",
     "wof:parent_id":1108735583,
     "wof:placetype":"locality",

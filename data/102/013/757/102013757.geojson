@@ -9,17 +9,20 @@
     "geom:bbox":"79.3944473267,51.9159736633,79.4349975586,51.9401931763",
     "geom:latitude":51.929568,
     "geom:longitude":79.411597,
-    "geonames:id":"1497729,1535283",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":1100,
+    "gn:id":"1497729,1535283",
+    "gn:population":1100,
     "iso:country":"RU",
     "lbl:latitude":51.92905,
     "lbl:longitude":79.406222,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.92905,
     "mps:longitude":79.406222,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Nikolayevka"
     ],
@@ -50,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043a\u043e\u043b\u0430\u0454\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043a\u0430"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
     "qs:a1r":"*",
@@ -69,7 +69,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":41,
     "wof:belongsto":[
@@ -83,7 +83,7 @@
     "wof:concordances":{
         "gn:id":1497729,
         "gp:id":2051721,
-        "qs:id":85125,
+        "qs_pg:id":85125,
         "wk:page":"Nikolayevka"
     },
     "wof:country":"RU",
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":102013757,
-    "wof:lastmodified":1564108708,
+    "wof:lastmodified":1566615065,
     "wof:name":"Nikolayevka",
     "wof:parent_id":1108735133,
     "wof:placetype":"locality",

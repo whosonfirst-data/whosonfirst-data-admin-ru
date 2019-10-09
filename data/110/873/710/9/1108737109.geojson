@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":53.708273,
     "lbl:longitude":115.866577,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Zabajkal'skij kraj",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u0417\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":115.866577,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0422\u0443\u043d\u0433\u0430\u043a\u043e\u0447\u0430\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -87,9 +90,6 @@
     "name:rus_x_preferred":[
         "\u0422\u0443\u043d\u0433\u043e\u043a\u043e\u0447\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0422\u0443\u043d\u0433\u043e\u043a\u043e\u0447\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Tungokochensky"
     ],
@@ -97,7 +97,7 @@
         "\u901a\u6208\u79d1\u7434\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688005,
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":1108737109,
-    "wof:lastmodified":1563257298,
+    "wof:lastmodified":1566627361,
     "wof:name":"Tungokochenskiy",
     "wof:parent_id":85688005,
     "wof:placetype":"county",

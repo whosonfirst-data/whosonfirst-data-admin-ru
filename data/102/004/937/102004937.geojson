@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001007,
-    "geom:area_square_m":7606738.088437,
+    "geom:area_square_m":7606738.088436,
     "geom:bbox":"37.6686096191,52.3306655884,37.712890625,52.3672790527",
     "geom:latitude":52.349697,
     "geom:longitude":37.688313,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.350308,
     "lbl:longitude":37.687892,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.350308,
     "mps:longitude":37.687892,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sergiyevskoye"
     ],
@@ -25,9 +28,6 @@
         "Sergijevskoje"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u0435\u0440\u0433\u0438\u0435\u0432\u0441\u043a\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u0435\u0440\u0433\u0438\u0435\u0432\u0441\u043a\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":30,
     "wof:belongsto":[
         85687849,
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":102004937,
-    "wof:lastmodified":1527637840,
+    "wof:lastmodified":1566615570,
     "wof:name":"Sergiyevskoye",
     "wof:parent_id":1108734959,
     "wof:placetype":"locality",

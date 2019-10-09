@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":59.530468,
     "lbl:longitude":45.454169,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.530468,
     "mps:longitude":45.454169,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0646\u06cc\u06a9\u0648\u0644\u0633\u06a9"
     ],
@@ -119,9 +122,6 @@
     "name:tur_x_preferred":[
         "Nikolsk"
     ],
-    "name:unk_x_variant":[
-        "\u041d\u0438\u043a\u043e\u043b\u044c\u0441\u043a"
-    ],
     "name:vep_x_preferred":[
         "Nikol'sk"
     ],
@@ -147,7 +147,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687853,
@@ -160,7 +160,7 @@
     "wof:concordances":{
         "gn:id":521773,
         "gp:id":2047452,
-        "qs:id":349579,
+        "qs_pg:id":349579,
         "wd:id":"Q173047",
         "wk:page":"Nikolsk, Vologda Oblast"
     },
@@ -177,7 +177,7 @@
         }
     ],
     "wof:id":102008179,
-    "wof:lastmodified":1563240532,
+    "wof:lastmodified":1566615302,
     "wof:name":"Nikolsk",
     "wof:parent_id":1108735373,
     "wof:placetype":"locality",

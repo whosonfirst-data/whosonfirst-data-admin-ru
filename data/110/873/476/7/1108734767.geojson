@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":59.017437,
     "lbl:longitude":54.652322,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Permskij kraj",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":54.652322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u062f\u064a\u0645\u0643\u0627\u0631"
     ],
@@ -176,9 +179,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0434\u0438\u043c\u043a\u0430\u0440"
     ],
-    "name:und_x_variant":[
-        "\u041a\u0443\u0434\u044b\u043c\u043a\u0430\u0440"
-    ],
     "name:vep_x_preferred":[
         "Kudimkar"
     ],
@@ -192,7 +192,7 @@
         "\u5eab\u5fb7\u59c6\u5361\u723e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687975,
@@ -214,7 +214,7 @@
         }
     ],
     "wof:id":1108734767,
-    "wof:lastmodified":1564124384,
+    "wof:lastmodified":1566626922,
     "wof:name":"Kudymkar",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

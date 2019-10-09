@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"36.4048,58.9317,36.4448,58.9717",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u0440\u043e\u043b"
     ],
@@ -73,10 +77,6 @@
     "name:swe_x_preferred":[
         "Orel"
     ],
-    "name:und_x_variant":[
-        "Or\u00ebl",
-        "\u041e\u0440\u0451\u043b"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85687853,
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1309729631,
-    "wof:lastmodified":1564128821,
+    "wof:lastmodified":1566630445,
     "wof:name":"Orel",
     "wof:parent_id":1108737267,
     "wof:placetype":"locality",

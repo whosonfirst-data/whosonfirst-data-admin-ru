@@ -9,17 +9,20 @@
     "geom:bbox":"59.4061927795,57.0072517395,59.4681930542,57.0406112671",
     "geom:latitude":57.02386,
     "geom:longitude":59.435711,
-    "geonames:id":"537892,537893",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":3213,
+    "gn:id":"537892,537893",
+    "gn:population":3213,
     "iso:country":"RU",
     "lbl:latitude":57.024274,
     "lbl:longitude":59.436181,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.024274,
     "mps:longitude":59.436181,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Kuzino"
     ],
@@ -36,9 +39,6 @@
         "Kuzino"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0443\u0437\u0438\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0443\u0437\u0438\u043d\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -61,7 +61,7 @@
     "qs:type":"\u043f\u0433\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":941,
     "wof:belongsto":[
@@ -75,7 +75,7 @@
     "wof:concordances":{
         "gn:id":537893,
         "gp:id":2121819,
-        "qs:id":80806,
+        "qs_pg:id":80806,
         "wk:page":"Kuzino"
     },
     "wof:country":"RU",
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":102008677,
-    "wof:lastmodified":1564108946,
+    "wof:lastmodified":1566615293,
     "wof:name":"Kuzino",
     "wof:parent_id":890486661,
     "wof:placetype":"locality",

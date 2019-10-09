@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":52.742623,
     "lbl:longitude":44.561389,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Penzenskaja oblast'",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u041f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":44.561389,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u041a\u043e\u043b\u044b\u0448\u043b\u0435\u0439\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -90,9 +93,6 @@
     "name:tat_x_preferred":[
         "\u041a\u043e\u043b\u044b\u0448\u043b\u044b \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
-    "name:und_x_variant":[
-        "\u041a\u043e\u043b\u044b\u0448\u043b\u0435\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Kolyshleysky"
     ],
@@ -100,9 +100,9 @@
         "\u79d1\u96f7\u4ec0\u5217\u4f0a\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1701",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Kolyshley",
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":1108734547,
-    "wof:lastmodified":1563256766,
+    "wof:lastmodified":1566627024,
     "wof:name":"Kolyshlejskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",

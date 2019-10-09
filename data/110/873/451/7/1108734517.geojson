@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":44.653314,
     "lbl:longitude":41.731884,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Stavropol'skij kraj",
     "meso:admin1r_en":"Severo-Kavkazskij federal'nyj okrug",
     "meso:admin_1":"\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":41.731884,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u0447\u0443\u0431\u0435\u0435\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -87,9 +90,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0447\u0443\u0431\u0435\u0454\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041a\u043e\u0447\u0443\u0431\u0435\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Kochubeevsky"
     ],
@@ -97,7 +97,7 @@
         "\u79d1\u4e18\u5225\u8036\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687825,
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":1108734517,
-    "wof:lastmodified":1563257146,
+    "wof:lastmodified":1566627249,
     "wof:name":"Kochubeevskiy",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

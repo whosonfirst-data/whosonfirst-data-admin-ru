@@ -9,11 +9,13 @@
     "geom:bbox":"118.120803833,50.0570259094,118.14666748,50.0737762451",
     "geom:latitude":50.064956,
     "geom:longitude":118.134437,
-    "geonames:id":"7842508,7842509,2021618",
+    "gn:id":"7842508,7842509,2021618",
     "gn:population":54316,
     "iso:country":"RU",
     "lbl:latitude":50.065575,
     "lbl:longitude":118.133555,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":50.065575,
     "mps:longitude":118.133555,
     "mz:hierarchy_label":1,
@@ -130,7 +132,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u043a\u0430\u043c\u0435\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chindachi"
     ],
     "name:vep_x_preferred":[
@@ -255,7 +257,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -267,7 +269,6 @@
     "wof:concordances":{
         "gn:id":2021618,
         "gp:id":2121630,
-        "qs:id":274107,
         "qs_pg:id":274107,
         "wd:id":"Q155624",
         "wk:page":"Krasnokamensk, Zabaykalsky Krai"
@@ -283,7 +284,7 @@
         }
     ],
     "wof:id":102014941,
-    "wof:lastmodified":1563240121,
+    "wof:lastmodified":1566615109,
     "wof:name":"Krasnokamensk",
     "wof:parent_id":1108734715,
     "wof:placetype":"locality",

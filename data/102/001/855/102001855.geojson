@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":60.249337,
     "lbl:longitude":29.62087,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":60.249337,
     "mps:longitude":29.62087,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Roshchino"
     ],
@@ -40,7 +43,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":466,
     "wof:belongsto":[
@@ -53,7 +56,6 @@
     "wof:concordances":{
         "gn:id":501296,
         "gp:id":2123173,
-        "qs:id":360507,
         "qs_pg:id":360507,
         "wd:id":"Q16882293",
         "wk:page":"Roshchino"
@@ -69,7 +71,7 @@
         }
     ],
     "wof:id":102001855,
-    "wof:lastmodified":1563240607,
+    "wof:lastmodified":1566615325,
     "wof:name":"Roschino",
     "wof:parent_id":890485873,
     "wof:placetype":"locality",

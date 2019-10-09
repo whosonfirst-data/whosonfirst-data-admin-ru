@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.083487,
     "lbl:longitude":55.528896,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.083487,
     "mps:longitude":55.528896,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u0415\u043b\u043f\u0430\u0447\u0438\u0445\u0430"
     ],
@@ -56,7 +59,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687975,
         102191581,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":102008665,
-    "wof:lastmodified":1563240516,
+    "wof:lastmodified":1566615296,
     "wof:name":"Yelpachikha",
     "wof:parent_id":1108732891,
     "wof:placetype":"locality",

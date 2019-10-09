@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000611,
-    "geom:area_square_m":4368271.129803,
+    "geom:area_square_m":4368271.129805,
     "geom:bbox":"83.2129135132,54.6659431458,83.2544708252,54.6892776489",
     "geom:latitude":54.677899,
     "geom:longitude":83.232885,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.678442,
     "lbl:longitude":83.232884,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.678442,
     "mps:longitude":83.232884,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lebedevka"
     ],
@@ -25,9 +28,6 @@
         "Lebedevka"
     ],
     "name:rus_x_preferred":[
-        "\u041b\u0435\u0431\u0435\u0434\u0435\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041b\u0435\u0431\u0435\u0434\u0435\u0432\u043a\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687925,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102013015,
-    "wof:lastmodified":1501220039,
+    "wof:lastmodified":1566615041,
     "wof:name":"Lebedevka",
     "wof:parent_id":1108734029,
     "wof:placetype":"locality",

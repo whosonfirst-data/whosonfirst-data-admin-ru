@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000404,
-    "geom:area_square_m":2939338.789832,
+    "geom:area_square_m":2939338.78983,
     "geom:bbox":"106.358261108,53.9246673584,106.391494751,53.9447364807",
     "geom:latitude":53.935502,
     "geom:longitude":106.376106,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.936364,
     "lbl:longitude":106.37579,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.936364,
     "mps:longitude":106.37579,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zalog"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688173,
         102191581,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":102014457,
-    "wof:lastmodified":1501223613,
+    "wof:lastmodified":1566615133,
     "wof:name":"Zalog",
     "wof:parent_id":1108734173,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.89469,
     "lbl:longitude":83.544654,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.89469,
     "mps:longitude":83.544654,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kalmanka"
     ],
@@ -43,7 +46,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043b\u043c\u0430\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kalmanskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -76,7 +79,6 @@
     "wof:concordances":{
         "gn:id":1504985,
         "gp:id":2121136,
-        "qs:id":460050,
         "qs_pg:id":460050
     },
     "wof:country":"RU",
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":102013459,
-    "wof:lastmodified":1564108723,
+    "wof:lastmodified":1566615077,
     "wof:name":"Kalmanka",
     "wof:parent_id":1108734209,
     "wof:placetype":"locality",

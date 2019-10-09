@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":60.365756,
     "lbl:longitude":28.634309,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":60.365756,
     "mps:longitude":28.634309,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0645\u0648\u0631\u0633\u0643"
     ],
@@ -139,7 +142,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u2019y\u00ebrk\u00eb"
     ],
     "name:vep_x_preferred":[
@@ -169,7 +172,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -181,7 +184,6 @@
     "wof:concordances":{
         "gn:id":505269,
         "gp:id":2123027,
-        "qs:id":275047,
         "qs_pg:id":275047,
         "wd:id":"Q15307",
         "wk:page":"Primorsk, Leningrad Oblast"
@@ -197,7 +199,7 @@
         }
     ],
     "wof:id":102001849,
-    "wof:lastmodified":1563240597,
+    "wof:lastmodified":1566615322,
     "wof:name":"Primorsk",
     "wof:parent_id":890485873,
     "wof:placetype":"locality",

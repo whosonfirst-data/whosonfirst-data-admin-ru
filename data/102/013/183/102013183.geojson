@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000917,
-    "geom:area_square_m":6670399.536932,
+    "geom:area_square_m":6670399.536939,
     "geom:bbox":"78.6777801514,53.9713058472,78.730140686,54.0033607483",
     "geom:latitude":53.98637,
     "geom:longitude":78.706366,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.990232,
     "lbl:longitude":78.712911,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.990232,
     "mps:longitude":78.712911,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0412\u0435\u0441\u044f\u043b\u043e\u045e\u0441\u043a\u0456"
     ],
@@ -42,7 +45,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0441\u0435\u043b\u043e\u0432\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Veselovka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -57,7 +60,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":41,
     "wof:belongsto":[
         85687925,
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":102013183,
-    "wof:lastmodified":1527636667,
+    "wof:lastmodified":1566615082,
     "wof:name":"Veselovskoye",
     "wof:parent_id":1108734743,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":62.856668,
     "lbl:longitude":51.886266,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":62.856668,
     "mps:longitude":51.886266,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0456\u043d\u0434\u0430\u0440"
     ],
@@ -52,7 +55,7 @@
     "name:tat_x_preferred":[
         "\u0421\u0438\u043d\u0434\u043e\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sindorskaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":763,
     "wof:belongsto":[
@@ -86,7 +89,6 @@
     "wof:concordances":{
         "gn:id":492860,
         "gp:id":2123490,
-        "qs:id":124860,
         "qs_pg:id":124860,
         "wd:id":"Q1400446"
     },
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":102001989,
-    "wof:lastmodified":1563240616,
+    "wof:lastmodified":1566615328,
     "wof:name":"Sindor",
     "wof:parent_id":1108734503,
     "wof:placetype":"locality",

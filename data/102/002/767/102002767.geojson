@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.030764,
     "lbl:longitude":40.384753,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.030764,
     "mps:longitude":40.384753,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645\u0633\u0648\u0645\u0648\u0644\u0633\u0643"
     ],
@@ -122,7 +125,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Komsomol\u2019sk"
     ],
     "name:war_x_preferred":[
@@ -149,7 +152,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -161,7 +164,6 @@
     "wof:concordances":{
         "gn:id":545736,
         "gp:id":2024775,
-        "qs:id":1060957,
         "qs_pg:id":1060957,
         "wd:id":"Q154785",
         "wk:page":"Komsomolsk, Ivanovo Oblast"
@@ -177,7 +179,7 @@
         }
     ],
     "wof:id":102002767,
-    "wof:lastmodified":1563241550,
+    "wof:lastmodified":1566615690,
     "wof:name":"Komsomolsk",
     "wof:parent_id":1108734565,
     "wof:placetype":"locality",

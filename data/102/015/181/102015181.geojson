@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000349,
-    "geom:area_square_m":2787238.824481,
+    "geom:area_square_m":2787238.824483,
     "geom:bbox":"128.231521606,49.7018623352,128.254867554,49.724609375",
     "geom:latitude":49.714531,
     "geom:longitude":128.24191,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":49.715249,
     "lbl:longitude":128.241688,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.715249,
     "mps:longitude":128.241688,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nizhnepoltavka"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u041d\u0438\u0436\u043d\u0435\u043f\u043e\u043b\u0442\u0430\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novo-Poltavka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687951,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102015181,
-    "wof:lastmodified":1501225152,
+    "wof:lastmodified":1566614950,
     "wof:name":"Nizhnyaya Poltavka",
     "wof:parent_id":1108734571,
     "wof:placetype":"locality",

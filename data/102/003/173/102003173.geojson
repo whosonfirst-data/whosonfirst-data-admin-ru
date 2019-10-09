@@ -5,26 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001779,
-    "geom:area_square_m":12378777.889207,
+    "geom:area_square_m":12378777.889203,
     "geom:bbox":"38.1044006348,55.7278022766,38.1849250793,55.7715454102",
     "geom:latitude":55.748726,
     "geom:longitude":38.143952,
-    "geonames:id":"489162,539069",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":11000,
+    "gn:id":"489162,539069",
+    "gn:population":11000,
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:latitude":55.748505,
     "lbl:longitude":38.137242,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.748505,
     "mps:longitude":38.137242,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:rus_x_preferred":[
-        "\u041a\u0443\u043f\u0430\u0432\u043d\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0443\u043f\u0430\u0432\u043d\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -54,7 +54,7 @@
     "qs:type":"\u043c\u043a\u0440",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688161,
@@ -67,7 +67,7 @@
     "wof:concordances":{
         "gn:id":539069,
         "gp:id":2032718,
-        "qs:id":1032717
+        "qs_pg:id":1032717
     },
     "wof:country":"RU",
     "wof:geomhash":"306c0f728390ede5fe93df0ac58cff0c",
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":102003173,
-    "wof:lastmodified":1505338918,
+    "wof:lastmodified":1566615535,
     "wof:name":"Kupavna",
     "wof:parent_id":890479587,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000578,
-    "geom:area_square_m":4345137.238651,
+    "geom:area_square_m":4345137.23865,
     "geom:bbox":"39.1093902588,52.5735549927,39.1473884583,52.6024169922",
     "geom:latitude":52.58773,
     "geom:longitude":39.129171,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.586906,
     "lbl:longitude":39.128884,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.586906,
     "mps:longitude":39.128884,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kazino"
     ],
@@ -25,9 +28,6 @@
         "Kazino"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0430\u0437\u0438\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0430\u0437\u0438\u043d\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687917,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102004765,
-    "wof:lastmodified":1501214697,
+    "wof:lastmodified":1566615569,
     "wof:name":"Kazino",
     "wof:parent_id":890485457,
     "wof:placetype":"locality",

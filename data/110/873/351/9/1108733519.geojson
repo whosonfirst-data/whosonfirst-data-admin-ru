@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":44.047629,
     "lbl:longitude":42.843068,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Stavropol'skij kraj",
     "meso:admin1r_en":"Severo-Kavkazskij federal'nyj okrug",
     "meso:admin_1":"\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":42.843068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Essentuki"
     ],
@@ -60,7 +63,7 @@
         "\u0415\u0441\u0441\u0435\u043d\u0442\u0443\u043a\u0438"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687825,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108733519,
-    "wof:lastmodified":1561582035,
+    "wof:lastmodified":1566627147,
     "wof:name":"Essentuki",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

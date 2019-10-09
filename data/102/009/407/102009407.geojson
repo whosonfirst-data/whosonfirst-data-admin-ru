@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000861,
-    "geom:area_square_m":6088598.227233,
+    "geom:area_square_m":6088598.227232,
     "geom:bbox":"46.1768341064,55.0770568848,46.2234153748,55.1239433289",
     "geom:latitude":55.099724,
     "geom:longitude":46.201296,
@@ -14,14 +14,14 @@
     "iso:country":"RU",
     "lbl:latitude":55.097755,
     "lbl:longitude":46.202868,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.097755,
     "mps:longitude":46.202868,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
-        "\u041c\u0438\u043b\u044e\u0442\u0438\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u041c\u0438\u043b\u044e\u0442\u0438\u043d\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +40,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688111,
         102191581,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":102009407,
-    "wof:lastmodified":1501214616,
+    "wof:lastmodified":1566615222,
     "wof:name":"Milyutino",
     "wof:parent_id":1108735941,
     "wof:placetype":"locality",

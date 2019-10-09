@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.999043,
     "lbl:longitude":90.237963,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.999043,
     "mps:longitude":90.237963,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u043e\u0440\u0441\u043a"
     ],
@@ -103,7 +106,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0440\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dzerzhinskiy"
     ],
     "name:vep_x_preferred":[
@@ -133,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.0,
     "wd:longitude":90.25,
@@ -148,7 +151,6 @@
     "wof:concordances":{
         "gn:id":1491360,
         "gp:id":2123577,
-        "qs:id":132826,
         "qs_pg:id":132826,
         "wd:id":"Q196394",
         "wk:page":"Sorsk"
@@ -164,7 +166,7 @@
         }
     ],
     "wof:id":102014115,
-    "wof:lastmodified":1563240177,
+    "wof:lastmodified":1566615137,
     "wof:name":"Sorsk",
     "wof:parent_id":1108736719,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":35.7983,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"35.7783,52.6002,35.8183,52.6402",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0420\u044d\u0447\u044b\u0446\u0430"
     ],
@@ -88,9 +92,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u0447\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
-        "\u0420\u0435\u0447\u0438\u0446\u0430"
-    ],
     "name:zho_x_preferred":[
         "\u5217\u5947\u5bdf"
     ],
@@ -113,7 +114,7 @@
     "wof:concordances":{
         "gn:id":502359,
         "gp:id":2074183,
-        "qs:id":1158166,
+        "qs_pg:id":1158166,
         "wk:page":"Rechytsa"
     },
     "wof:country":"RU",
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":890484845,
-    "wof:lastmodified":1564129075,
+    "wof:lastmodified":1566630681,
     "wof:name":"Rechitsa",
     "wof:parent_id":1108734755,
     "wof:placetype":"locality",

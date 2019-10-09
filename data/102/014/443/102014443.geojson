@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.151911,
     "lbl:longitude":107.59718,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.151911,
     "mps:longitude":107.59718,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "K\u0259r\u0259m"
     ],
@@ -45,9 +48,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043c"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0430\u0440\u0430\u043c"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0418\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"3800900000400",
@@ -64,7 +64,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":946,
     "wof:belongsto":[
         85688173,
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":102014443,
-    "wof:lastmodified":1564108776,
+    "wof:lastmodified":1566615124,
     "wof:name":"Karam",
     "wof:parent_id":1108734313,
     "wof:placetype":"locality",

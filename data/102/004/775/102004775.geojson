@@ -9,17 +9,20 @@
     "geom:bbox":"33.7579727173,52.5669441223,33.8435554504,52.5909461975",
     "geom:latitude":52.579457,
     "geom:longitude":33.794459,
-    "geonames:id":"481350,572295",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":16100,
+    "gn:id":"481350,572295",
+    "gn:population":16100,
     "iso:country":"RU",
     "lbl:latitude":52.579254,
     "lbl:longitude":33.779551,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":52.579254,
     "mps:longitude":33.779551,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062a\u0631\u0648\u0628\u062a\u0634\u064a\u0641\u0633\u0643"
     ],
@@ -131,9 +134,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0443\u0431\u0447\u0435\u0432\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "Trubtschewsk"
-    ],
     "name:vep_x_preferred":[
         "Trub\u010devsk"
     ],
@@ -166,7 +166,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.583333,
     "wd:longitude":33.766667,
@@ -182,7 +182,7 @@
     "wof:concordances":{
         "gn:id":481350,
         "gp:id":90588712,
-        "qs:id":1242742,
+        "qs_pg:id":1242742,
         "wd:id":"Q196700",
         "wk:page":"Trubchevsk"
     },
@@ -199,7 +199,7 @@
         }
     ],
     "wof:id":102004775,
-    "wof:lastmodified":1563241322,
+    "wof:lastmodified":1566615608,
     "wof:name":"Trubchevsk",
     "wof:parent_id":1108737093,
     "wof:placetype":"locality",

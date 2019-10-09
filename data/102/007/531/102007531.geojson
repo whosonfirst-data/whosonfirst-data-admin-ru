@@ -16,6 +16,8 @@
     "iso:country":"RU",
     "lbl:latitude":46.312529,
     "lbl:longitude":44.250802,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":46.312529,
     "mps:longitude":44.250802,
     "mz:hierarchy_label":1,
@@ -273,7 +275,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u0456\u0441\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stepnoy"
     ],
     "name:urd_x_preferred":[
@@ -424,7 +426,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":46.316667,
     "wd:longitude":44.266667,
@@ -439,10 +441,12 @@
     "wof:concordances":{
         "gn:id":563514,
         "gp:id":2120758,
-        "qs:id":1199858,
         "qs_pg:id":125616,
         "wd:id":"Q3977",
         "wk:page":"Elista"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1199858
     },
     "wof:country":"RU",
     "wof:geomhash":"26b928adb2394e2172e8ada143a6b0e2",
@@ -455,7 +459,7 @@
         }
     ],
     "wof:id":102007531,
-    "wof:lastmodified":1563240253,
+    "wof:lastmodified":1566615177,
     "wof:name":"Elista",
     "wof:parent_id":1108733453,
     "wof:placetype":"locality",

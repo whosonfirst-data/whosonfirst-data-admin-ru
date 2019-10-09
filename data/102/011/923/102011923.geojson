@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.706418,
     "lbl:longitude":60.086235,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.706418,
     "mps:longitude":60.086235,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u063a\u062a\u064a\u0627\u0631\u0633\u0643"
     ],
@@ -115,7 +118,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0433\u0442\u044f\u0440\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Degtyarka"
     ],
     "name:vep_x_preferred":[
@@ -145,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.7,
     "wd:longitude":60.1,
@@ -160,7 +163,6 @@
     "wof:concordances":{
         "gn:id":1507488,
         "gp:id":2120626,
-        "qs:id":1151769,
         "qs_pg:id":1151769,
         "wd:id":"Q105425",
         "wk:page":"Degtyarsk"
@@ -176,7 +178,7 @@
         }
     ],
     "wof:id":102011923,
-    "wof:lastmodified":1563240782,
+    "wof:lastmodified":1566615397,
     "wof:name":"Degtyarsk",
     "wof:parent_id":1108733725,
     "wof:placetype":"locality",

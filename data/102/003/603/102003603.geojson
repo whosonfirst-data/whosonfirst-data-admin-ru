@@ -9,11 +9,13 @@
     "geom:bbox":"41.3550491333,54.9196586609,41.4228820801,54.951335907",
     "geom:latitude":54.937596,
     "geom:longitude":41.395859,
-    "geonames:id":"551891,551892",
+    "gn:id":"551891,551892",
     "gn:population":35355,
     "iso:country":"RU",
     "lbl:latitude":54.936322,
     "lbl:longitude":41.403824,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":54.936322,
     "mps:longitude":41.403824,
     "mz:hierarchy_label":1,
@@ -169,9 +171,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0441\u0438\u043c\u043e\u0432"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0430\u0441\u0438\u043c\u043e\u0432"
-    ],
     "name:vie_x_preferred":[
         "Kasimov"
     ],
@@ -297,7 +296,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.958333,
     "wd:longitude":41.397222,
@@ -313,7 +312,6 @@
     "wof:concordances":{
         "gn:id":551891,
         "gp:id":2121244,
-        "qs:id":263784,
         "qs_pg:id":263784,
         "wd:id":"Q145457",
         "wk:page":"Kasimov"
@@ -331,7 +329,7 @@
         }
     ],
     "wof:id":102003603,
-    "wof:lastmodified":1563241121,
+    "wof:lastmodified":1566615532,
     "wof:name":"Kasimov",
     "wof:parent_id":1108734297,
     "wof:placetype":"locality",

@@ -11,10 +11,12 @@
     "geom:longitude":37.730805,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"RU",
+    "lbl:bbox":"37.7258054613,55.5988476079,37.7358054613,55.6088476079",
     "lbl:latitude":55.603848,
     "lbl:longitude":37.730805,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -55,7 +57,7 @@
     "name:zho_x_preferred":[
         "\u6838\u6843-\u535a\u91cc\u7d22\u6c83\u5357\u5340"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +70,7 @@
     "wof:concordances":{
         "gn:id":572449,
         "gp:id":55874353,
-        "qs:id":903431,
+        "qs_pg:id":903431,
         "wd:id":"Q2058744",
         "wk:page":"Orekhovo-Borisovo Yuzhnoye District"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":1108942849,
-    "wof:lastmodified":1563257399,
+    "wof:lastmodified":1566627422,
     "wof:name":"Orekhovo-Borisovo Yuzhnoye",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

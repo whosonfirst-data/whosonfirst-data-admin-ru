@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.225934,
     "lbl:longitude":50.628703,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":53.225934,
     "mps:longitude":50.628703,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0646\u064a\u0644"
     ],
@@ -127,7 +130,7 @@
     "name:tur_x_preferred":[
         "Kinel"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kinel\u2019"
     ],
     "name:vie_x_preferred":[
@@ -157,7 +160,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.233333,
     "wd:longitude":50.616667,
@@ -173,7 +176,6 @@
     "wof:concordances":{
         "gn:id":548625,
         "gp:id":2021499,
-        "qs:id":912336,
         "qs_pg:id":912336,
         "wd:id":"Q146468",
         "wk:page":"Kinel"
@@ -191,7 +193,7 @@
         }
     ],
     "wof:id":102010583,
-    "wof:lastmodified":1563241054,
+    "wof:lastmodified":1566615514,
     "wof:name":"Kinel",
     "wof:parent_id":1108734425,
     "wof:placetype":"locality",

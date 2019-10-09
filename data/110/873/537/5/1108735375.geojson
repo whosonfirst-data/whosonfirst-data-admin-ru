@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":53.114164,
     "lbl:longitude":47.191009,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Ul'janovskaja oblast'",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":47.191009,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -93,16 +96,13 @@
     "name:tat_x_preferred":[
         "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043a\u0430 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
-    "name:und_x_variant":[
-        "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:zho_x_preferred":[
         "\u5c3c\u79d1\u62c9\u8036\u592b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2070",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Nikolaevka",
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":1108735375,
-    "wof:lastmodified":1563256902,
+    "wof:lastmodified":1566627112,
     "wof:name":"Nikolaevskiy",
     "wof:parent_id":85687907,
     "wof:placetype":"county",

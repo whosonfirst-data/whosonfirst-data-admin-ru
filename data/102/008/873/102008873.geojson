@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":56.475969,
     "lbl:longitude":53.808394,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":56.475969,
     "mps:longitude":53.808394,
     "mz:hierarchy_label":1,
@@ -323,7 +325,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":56.466667,
     "wd:longitude":53.8,
@@ -340,7 +342,6 @@
     "wof:concordances":{
         "gn:id":498687,
         "gp:id":2123270,
-        "qs:id":446548,
         "qs_pg:id":446548,
         "wd:id":"Q193505",
         "wk:page":"Sarapul"
@@ -358,7 +359,7 @@
         }
     ],
     "wof:id":102008873,
-    "wof:lastmodified":1563240429,
+    "wof:lastmodified":1566615265,
     "wof:name":"Sarapul",
     "wof:parent_id":890486053,
     "wof:placetype":"locality",

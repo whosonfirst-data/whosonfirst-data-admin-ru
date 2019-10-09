@@ -11,11 +11,15 @@
     "geom:longitude":37.66471,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":4666,
+    "gn:population":4666,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"37.64471,53.96548,37.68471,54.00548",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Lomintsevskiy"
     ],
@@ -23,9 +27,6 @@
         "Lomintsevskij"
     ],
     "name:rus_x_preferred":[
-        "\u041b\u043e\u043c\u0438\u043d\u0446\u0435\u0432\u0441\u043a\u0438\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u041b\u043e\u043c\u0438\u043d\u0446\u0435\u0432\u0441\u043a\u0438\u0439"
     ],
     "qs:name":"Lomintsevskiy",
@@ -47,7 +48,7 @@
     "wof:concordances":{
         "gn:id":534352,
         "gp:id":2037661,
-        "qs:id":125210
+        "qs_pg:id":125210
     },
     "wof:country":"RU",
     "wof:created":1469054588,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":890486023,
-    "wof:lastmodified":1505343770,
+    "wof:lastmodified":1566630845,
     "wof:name":"Lomintsevskiy",
     "wof:parent_id":1108736569,
     "wof:placetype":"locality",

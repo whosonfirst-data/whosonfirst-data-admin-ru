@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.542669,
     "lbl:longitude":37.696281,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":55.542669,
     "mps:longitude":37.696281,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u062f\u0646\u0648\u064a\u064a"
     ],
@@ -139,7 +142,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0434\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pos\u00eblok Vidnoye"
     ],
     "name:vie_x_preferred":[
@@ -172,7 +175,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688161,
@@ -185,7 +188,6 @@
     "wof:concordances":{
         "gn:id":473778,
         "gp:id":2106519,
-        "qs:id":1299385,
         "qs_pg:id":1299385,
         "wd:id":"Q133075",
         "wk:page":"Vidnoye, Moscow Oblast"
@@ -203,7 +205,7 @@
         }
     ],
     "wof:id":102003299,
-    "wof:lastmodified":1563241201,
+    "wof:lastmodified":1566615559,
     "wof:name":"Poselok Vidnoye",
     "wof:parent_id":890487047,
     "wof:placetype":"locality",

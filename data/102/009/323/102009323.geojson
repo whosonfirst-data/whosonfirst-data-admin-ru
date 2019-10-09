@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.196846,
     "lbl:longitude":46.314736,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.196846,
     "mps:longitude":46.314736,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:chv_x_preferred":[
         "\u041f\u0103\u0440\u0430\u0447\u043a\u0430\u0432"
     ],
@@ -59,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0435\u0446\u044c\u043a\u0435"
     ],
-    "name:unk_x_variant":[
-        "Poretskoe"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0427\u0443\u0432\u0430\u0448\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
     "qs:a1_lc":"2101400000100",
@@ -80,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":59,
     "wof:belongsto":[
@@ -93,7 +93,6 @@
     "wof:concordances":{
         "gn:id":506286,
         "gp:id":90585745,
-        "qs:id":124976,
         "qs_pg:id":124976,
         "wd:id":"Q2371612"
     },
@@ -108,7 +107,7 @@
         }
     ],
     "wof:id":102009323,
-    "wof:lastmodified":1563240347,
+    "wof:lastmodified":1566615226,
     "wof:name":"Poretskoye",
     "wof:parent_id":1108735941,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.465607,
     "lbl:longitude":19.941207,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.465607,
     "mps:longitude":19.941207,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0645\u0648\u0646\u0648\u0641\u0648"
     ],
@@ -134,7 +137,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043c\u043e\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kheyligenbeyl"
     ],
     "name:vep_x_preferred":[
@@ -164,7 +167,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.466667,
     "wd:longitude":19.933333,
@@ -179,7 +182,6 @@
     "wof:concordances":{
         "gn:id":2609901,
         "gp:id":2125084,
-        "qs:id":1243727,
         "qs_pg:id":1243727,
         "wd:id":"Q158101",
         "wk:page":"Mamonovo"
@@ -195,7 +197,7 @@
         }
     ],
     "wof:id":102002459,
-    "wof:lastmodified":1563241613,
+    "wof:lastmodified":1566615707,
     "wof:name":"Mamonovo",
     "wof:parent_id":1108735043,
     "wof:placetype":"locality",

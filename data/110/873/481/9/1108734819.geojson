@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":43.191685,
     "lbl:longitude":46.15055,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"CHechenskaja respublika",
     "meso:admin1r_en":"Severo-Kavkazskij federal'nyj okrug",
     "meso:admin_1":"\u0427\u0435\u0447\u0435\u043d\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
@@ -53,6 +55,7 @@
     "mps:longitude":46.15055,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kurchaloevskiy"
     ],
@@ -63,7 +66,7 @@
         "\u041a\u0443\u0440\u0447\u0430\u043b\u043e\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688015,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108734819,
-    "wof:lastmodified":1561582051,
+    "wof:lastmodified":1566627192,
     "wof:name":"Kurchaloevskiy",
     "wof:parent_id":85688015,
     "wof:placetype":"county",

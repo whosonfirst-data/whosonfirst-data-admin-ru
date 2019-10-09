@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":58.651469,
     "lbl:longitude":52.178382,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":58.651469,
     "mps:longitude":52.178382,
     "mz:hierarchy_label":1,
@@ -102,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043c\u0443\u0442\u043d\u0456\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Omutinisk"
     ],
     "name:war_x_preferred":[
@@ -221,7 +223,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":58.666667,
     "wd:longitude":52.183333,
@@ -236,7 +238,6 @@
     "wof:concordances":{
         "gn:id":515267,
         "gp:id":2122643,
-        "qs:id":1029656,
         "qs_pg:id":1029656,
         "wd:id":"Q176395",
         "wk:page":"Omutninsk"
@@ -252,7 +253,7 @@
         }
     ],
     "wof:id":102008281,
-    "wof:lastmodified":1563240436,
+    "wof:lastmodified":1566615269,
     "wof:name":"Omutninsk",
     "wof:parent_id":1108735681,
     "wof:placetype":"locality",

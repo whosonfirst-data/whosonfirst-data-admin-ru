@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":57.516538,
     "lbl:longitude":79.798259,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tomskaja oblast'",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u0422\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":79.798259,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Pudinskoe"
     ],
@@ -60,7 +63,7 @@
         "\u041f\u0443\u0434\u0438\u043d\u0441\u043a\u043e\u0435"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687809,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108736023,
-    "wof:lastmodified":1561581983,
+    "wof:lastmodified":1566626979,
     "wof:name":"Pudinskoe",
     "wof:parent_id":85687809,
     "wof:placetype":"county",

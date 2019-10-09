@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":58.700045,
     "lbl:longitude":59.489238,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":58.700045,
     "mps:longitude":59.489238,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0435\u0434\u0432\u0435\u0434\u043a\u0430"
     ],
@@ -40,7 +43,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688183,
         102191581,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":102008273,
-    "wof:lastmodified":1564108916,
+    "wof:lastmodified":1566615264,
     "wof:name":"Medvedka",
     "wof:parent_id":1108734171,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000526,
-    "geom:area_square_m":3880775.532638,
+    "geom:area_square_m":3880775.532639,
     "geom:bbox":"48.7814445496,53.3226394653,48.814414978,53.3403625488",
     "geom:latitude":53.331926,
     "geom:longitude":48.798099,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.331539,
     "lbl:longitude":48.798099,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.331539,
     "mps:longitude":48.798099,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Klemens Mura\u0144ka"
     ],
@@ -51,9 +54,6 @@
     "name:swe_x_preferred":[
         "Klemens Mura\u0144ka"
     ],
-    "name:unk_x_variant":[
-        "\u041c\u0443\u0440\u0430\u043d\u043a\u0430"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"6302700003100",
@@ -72,17 +72,17 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687781
+        85687781,
+        1108736575
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":524424,
         "gp:id":2048698,
-        "qs:id":1159149,
         "qs_pg:id":1159149
     },
     "wof:country":"RU",
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":102010531,
-    "wof:lastmodified":1497290135,
+    "wof:lastmodified":1566615495,
     "wof:name":"Muranka",
     "wof:parent_id":1108736575,
     "wof:placetype":"locality",

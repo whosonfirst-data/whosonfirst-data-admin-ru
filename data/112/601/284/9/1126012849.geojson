@@ -9,15 +9,18 @@
     "geom:bbox":"60.2157,55.4808,60.2157,55.4808",
     "geom:latitude":55.4808,
     "geom:longitude":60.2157,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":15630,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":15630,
     "iso:country":"RU",
+    "lbl:bbox":"60.1957,55.4608,60.2357,55.5008",
     "lbl:latitude":55.4808,
     "lbl:longitude":60.2157,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0627\u0628\u0627\u0634"
@@ -124,9 +127,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0431\u0430\u0448"
     ],
-    "name:unk_x_variant":[
-        "Karabash"
-    ],
     "name:vie_x_preferred":[
         "Karabash"
     ],
@@ -153,7 +153,7 @@
     "qs_pg:woe_adm0":23424936,
     "qs_pg:woe_id":2016611,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424936,
     "woe:name_adm0":"Russia",
@@ -187,7 +187,7 @@
         }
     ],
     "wof:id":1126012849,
-    "wof:lastmodified":1563263138,
+    "wof:lastmodified":1566631024,
     "wof:name":"Karaoba",
     "wof:parent_id":1108734261,
     "wof:placetype":"locality",

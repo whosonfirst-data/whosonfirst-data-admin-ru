@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000182,
-    "geom:area_square_m":1336474.484077,
+    "geom:area_square_m":1336474.484079,
     "geom:bbox":"102.287696838,53.6514434814,102.311721802,53.6701660156",
     "geom:latitude":53.661204,
     "geom:longitude":102.300429,
@@ -15,14 +15,17 @@
     "iso:country":"RU",
     "lbl:latitude":53.661459,
     "lbl:longitude":102.300594,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.661459,
     "mps:longitude":102.300594,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0422\u044b\u0440\u0435\u0442\u044c \u041f\u0435\u0440\u0432\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pervaya Tyret\u2019"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -41,7 +44,7 @@
     "qs:type":"\u0440\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688173,
@@ -54,7 +57,7 @@
     "wof:concordances":{
         "gn:id":2014705,
         "gp:id":2099161,
-        "qs:id":90364
+        "qs_pg:id":90364
     },
     "wof:country":"RU",
     "wof:geomhash":"ad232c4054a1bb43da66d2b4d0139618",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102014173,
-    "wof:lastmodified":1505338943,
+    "wof:lastmodified":1566615108,
     "wof:name":"Tyret Pervaya",
     "wof:parent_id":890479385,
     "wof:placetype":"locality",

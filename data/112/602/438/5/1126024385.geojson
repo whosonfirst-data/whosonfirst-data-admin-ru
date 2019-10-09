@@ -9,15 +9,18 @@
     "geom:bbox":"54.15573,56.12422,54.15573,56.12422",
     "geom:latitude":56.12422,
     "geom:longitude":54.15573,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5981,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":5981,
     "iso:country":"RU",
+    "lbl:bbox":"54.13573,56.10422,54.17573,56.14422",
     "lbl:latitude":56.12422,
     "lbl:longitude":54.15573,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Nikolo-Ber\u00ebzovka"
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041d\u0438\u043a\u043e\u043b\u043e-\u0411\u0435\u0440\u0435\u0437\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nikolo-Berezovskoye"
     ],
     "qs_pg:aaroncc":"RU",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":1029672,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85687801,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1126024385,
-    "wof:lastmodified":1509407450,
+    "wof:lastmodified":1566631003,
     "wof:name":"Nikolo-Ber\u00ebzovka",
     "wof:parent_id":890480093,
     "wof:placetype":"locality",

@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.779136,
     "lbl:longitude":87.229263,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.779136,
     "mps:longitude":87.229263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u0441\u0442\u0440\u043e\u045e\u0441\u043a\u0456"
     ],
@@ -73,7 +76,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ostrovskaya Ploshchadka"
     ],
     "name:zho_x_preferred":[
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":33,
     "wof:belongsto":[
         102191581,
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":102013223,
-    "wof:lastmodified":1527636665,
+    "wof:lastmodified":1566615069,
     "wof:name":"Ostrovskoye",
     "wof:parent_id":1108735509,
     "wof:placetype":"locality",

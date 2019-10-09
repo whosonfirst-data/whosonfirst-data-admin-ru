@@ -11,11 +11,15 @@
     "geom:longitude":36.61924,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"36.59924,55.05361,36.63924,55.09361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dobrovskiy Rayon"
     ],
@@ -39,9 +43,6 @@
     ],
     "name:rus_x_variant":[
         "\u0414\u043e\u0431\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
-    "name:unk_x_variant":[
-        "\u0414\u043e\u0431\u0440\u043e\u0435"
     ],
     "name:vie_x_preferred":[
         "Dobrovsky"
@@ -69,7 +70,7 @@
     "wof:concordances":{
         "gn:id":565800,
         "gp:id":2001739,
-        "qs:id":194063,
+        "qs_pg:id":194063,
         "wk:page":"Dobrovsky District"
     },
     "wof:country":"RU",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":890486477,
-    "wof:lastmodified":1564129232,
+    "wof:lastmodified":1566630848,
     "wof:name":"Dobroye",
     "wof:parent_id":1108738169,
     "wof:placetype":"locality",

@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000287,
-    "geom:area_square_m":1975441.725579,
+    "geom:area_square_m":1975441.725578,
     "geom:bbox":"74.6039199829,56.1449432373,74.628692627,56.1575546265",
     "geom:latitude":56.151225,
     "geom:longitude":74.61649,
     "iso:country":"RU",
     "lbl:latitude":56.151259,
     "lbl:longitude":74.61649,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.151259,
     "mps:longitude":74.61649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Krasnoyarskiy"
     ],
@@ -34,7 +37,7 @@
     "name:sco_x_preferred":[
         "Krasnoyarsky"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasnyy Yar"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -53,7 +56,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":42,
     "wof:belongsto":[
         85688189,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":102012055,
-    "wof:lastmodified":1527636471,
+    "wof:lastmodified":1566614997,
     "wof:name":"Krasnoyarskiy",
     "wof:parent_id":1108733073,
     "wof:placetype":"locality",

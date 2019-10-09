@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":49.432546,
     "lbl:longitude":130.644423,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Amurskaja oblast'",
     "meso:admin1r_en":"Dal'nevostochnyj federal'nyj okrug",
     "meso:admin_1":"\u0410\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":130.644423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0410\u0440\u0445\u0430\u0440\u044b\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -97,9 +100,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0445\u0430\u0440\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0410\u0440\u0445\u0430\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Arkharinsky"
     ],
@@ -120,9 +120,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"14269",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Arkhara",
@@ -144,7 +144,7 @@
     "wof:concordances":{
         "gp:id":12597982,
         "hasc:id":"RU.AM.AR",
-        "qs:id":1002277,
+        "qs_pg:id":1002277,
         "wd:id":"Q2217182",
         "wk:page":"Arkharinsky District"
     },
@@ -161,7 +161,7 @@
         }
     ],
     "wof:id":890483563,
-    "wof:lastmodified":1563262292,
+    "wof:lastmodified":1566630651,
     "wof:name":"Arkharinskiy",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

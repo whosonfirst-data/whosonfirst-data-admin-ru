@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.615531,
     "lbl:longitude":101.846453,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.615531,
     "mps:longitude":101.846453,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Novoletniki"
     ],
@@ -25,9 +28,6 @@
         "Novoletniki"
     ],
     "name:rus_x_preferred":[
-        "\u041d\u043e\u0432\u043e\u043b\u0435\u0442\u043d\u0438\u043a\u0438"
-    ],
-    "name:unk_x_variant":[
         "\u041d\u043e\u0432\u043e\u043b\u0435\u0442\u043d\u0438\u043a\u0438"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688173,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102014177,
-    "wof:lastmodified":1501225151,
+    "wof:lastmodified":1566615138,
     "wof:name":"Novoletniki",
     "wof:parent_id":1108738241,
     "wof:placetype":"locality",

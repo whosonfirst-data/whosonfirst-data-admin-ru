@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":53.273401,
     "lbl:longitude":36.402564,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Orlovskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":36.402564,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Mtsenskiy Rayon"
     ],
@@ -87,9 +90,6 @@
     "name:rus_x_preferred":[
         "\u041c\u0446\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041c\u0446\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Mtsensky"
     ],
@@ -97,7 +97,7 @@
         "\u59c6\u5c91\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687849,
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":1108735081,
-    "wof:lastmodified":1563256898,
+    "wof:lastmodified":1566627109,
     "wof:name":"Mcenskiy",
     "wof:parent_id":85687849,
     "wof:placetype":"county",

@@ -9,15 +9,18 @@
     "geom:bbox":"35.87603,56.86049,35.87603,56.86049",
     "geom:latitude":56.86049,
     "geom:longitude":35.87603,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":400212,
+    "gn:country":"RU",
+    "gn:fcode":"PPLA",
     "gn:population":400212,
     "iso:country":"RU",
+    "lbl:bbox":"35.85603,56.84049,35.89603,56.88049",
     "lbl:latitude":56.86049,
     "lbl:longitude":35.87603,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Twer"
@@ -286,7 +289,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0432\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kalinin"
     ],
     "name:urd_x_preferred":[
@@ -325,7 +328,7 @@
     "qs_pg:qs_id":307406,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688047,
@@ -354,7 +357,7 @@
         }
     ],
     "wof:id":1126017185,
-    "wof:lastmodified":1563263141,
+    "wof:lastmodified":1566631025,
     "wof:name":"Tver\u2019",
     "wof:parent_id":890485421,
     "wof:placetype":"locality",

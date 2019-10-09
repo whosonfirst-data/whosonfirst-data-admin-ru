@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000358,
-    "geom:area_square_m":2932700.067645,
+    "geom:area_square_m":2932700.067639,
     "geom:bbox":"135.454177856,48.4777297974,135.476013184,48.5027008057",
     "geom:latitude":48.490338,
     "geom:longitude":135.464722,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":48.490547,
     "lbl:longitude":135.464722,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.490547,
     "mps:longitude":135.464722,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Knyaze-Volkonskoye"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041a\u043d\u044f\u0437\u0435-\u0412\u043e\u043b\u043a\u043e\u043d\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Knyaze-Volkonka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +52,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687937
+        85687937,
+        1108734333
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2021954,
         "gp:id":2023187,
-        "qs:id":137537,
         "qs_pg:id":137537
     },
     "wof:country":"RU",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102015465,
-    "wof:lastmodified":1505338946,
+    "wof:lastmodified":1566614945,
     "wof:name":"Knyaze-Volkonskoye",
     "wof:parent_id":1108734333,
     "wof:placetype":"locality",

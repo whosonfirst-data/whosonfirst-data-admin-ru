@@ -10,8 +10,10 @@
     "geom:latitude":59.815533,
     "geom:longitude":30.173752,
     "iso:country":"RU",
+    "lbl:bbox":"30.1687515609,59.8105327629,30.1787515609,59.8205327629",
     "lbl:latitude":59.815533,
     "lbl:longitude":30.173752,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e-\u041f\u0430\u043d\u043e\u0432\u043e"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108943579,
-    "wof:lastmodified":1510870346,
+    "wof:lastmodified":1566627417,
     "wof:name":"Staro-Panovo",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

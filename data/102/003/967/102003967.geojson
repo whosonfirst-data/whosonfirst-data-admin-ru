@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":54.068647,
     "lbl:longitude":34.318107,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":54.068647,
     "mps:longitude":34.318107,
     "mz:hierarchy_label":1,
@@ -110,7 +112,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0440\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pesochnaya"
     ],
     "name:war_x_preferred":[
@@ -229,7 +231,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -241,7 +243,6 @@
     "wof:concordances":{
         "gn:id":548410,
         "gp:id":2021773,
-        "qs:id":1158124,
         "qs_pg:id":1158124,
         "wd:id":"Q153490",
         "wk:page":"Kirov, Kaluga Oblast"
@@ -257,7 +258,7 @@
         }
     ],
     "wof:id":102003967,
-    "wof:lastmodified":1563241152,
+    "wof:lastmodified":1566615543,
     "wof:name":"Kirov",
     "wof:parent_id":1108734445,
     "wof:placetype":"locality",

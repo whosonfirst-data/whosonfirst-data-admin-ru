@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00021,
-    "geom:area_square_m":1374790.016622,
+    "geom:area_square_m":1374790.016623,
     "geom:bbox":"52.3544998169,57.9474449158,52.3771095276,57.9618873596",
     "geom:latitude":57.954539,
     "geom:longitude":52.365582,
     "iso:country":"RU",
     "lbl:latitude":57.954474,
     "lbl:longitude":52.365582,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.954474,
     "mps:longitude":52.365582,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Palagay"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u041f\u0430\u043b\u0430\u0433\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bol\u2019shoy Palagay"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687787,
         102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102008453,
-    "wof:lastmodified":1501214783,
+    "wof:lastmodified":1566615275,
     "wof:name":"Palagay",
     "wof:parent_id":1108734125,
     "wof:placetype":"locality",

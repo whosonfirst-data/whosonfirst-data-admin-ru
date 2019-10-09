@@ -11,11 +11,15 @@
     "geom:longitude":47.29436,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":6402,
+    "gn:population":6402,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"47.27436,43.00379,47.31436,43.04379",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Korkmaskala"
     ],
@@ -43,9 +47,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u043a\u043c\u0430\u0441\u043a\u0430\u043b\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u043e\u0440\u043a\u043c\u0430\u0441\u043a\u0430\u043b\u0430"
-    ],
     "qs:name":"Korkmaskala",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Dagestan Republic",
@@ -66,7 +67,7 @@
     "wof:concordances":{
         "gn:id":825035,
         "gp:id":2025845,
-        "qs:id":886389,
+        "qs_pg:id":886389,
         "wd:id":"Q4233137",
         "wk:page":"Kumtorkalinsky District"
     },
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":890486859,
-    "wof:lastmodified":1563262747,
+    "wof:lastmodified":1566630852,
     "wof:name":"Korkmaskala",
     "wof:parent_id":1108734797,
     "wof:placetype":"locality",

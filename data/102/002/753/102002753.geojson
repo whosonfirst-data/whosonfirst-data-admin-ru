@@ -5,21 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00028,
-    "geom:area_square_m":1877793.193548,
+    "geom:area_square_m":1877793.193547,
     "geom:bbox":"44.5023345947,57.1388626099,44.5299453735,57.1561927795",
     "geom:latitude":57.1469,
     "geom:longitude":44.516975,
     "iso:country":"RU",
     "lbl:latitude":57.1488,
     "lbl:longitude":44.516766,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.1488,
     "mps:longitude":44.516766,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
-        "\u041f\u043e\u043b\u043e\u043c\u043d\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u043e\u043b\u043e\u043c\u043d\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -38,7 +38,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688057,
         102191581,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":102002753,
-    "wof:lastmodified":1501214542,
+    "wof:lastmodified":1566615666,
     "wof:name":"Polomnoye",
     "wof:parent_id":1108736427,
     "wof:placetype":"locality",

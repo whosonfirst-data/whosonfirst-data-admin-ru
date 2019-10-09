@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.849308,
     "lbl:longitude":38.390005,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":44.849308,
     "mps:longitude":38.390005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "Kholmskaia"
     ],
@@ -55,9 +58,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u043b\u043c\u0441\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Cholmskaja"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
     "qs:a1_lc":"2300200003600",
@@ -74,7 +74,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":196,
     "wof:belongsto":[
@@ -88,7 +88,7 @@
     "wof:concordances":{
         "gn:id":549741,
         "gp:id":2120986,
-        "qs:id":1116925,
+        "qs_pg:id":1116925,
         "wd:id":"Q1968861",
         "wk:page":"Kholmskaya"
     },
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":102015701,
-    "wof:lastmodified":1563239708,
+    "wof:lastmodified":1566614925,
     "wof:name":"Kholmskiy",
     "wof:parent_id":1108732603,
     "wof:placetype":"locality",

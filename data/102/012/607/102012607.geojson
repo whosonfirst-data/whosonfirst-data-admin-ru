@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.303173,
     "lbl:longitude":88.170178,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.303173,
     "mps:longitude":88.170178,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u0422\u0435\u0433\u0443\u043b\u044c\u0434\u0435\u0442\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -56,7 +59,7 @@
     "name:tur_x_preferred":[
         "Teg\u00fcldet rayonu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tegul\u2019det"
     ],
     "name:zho_x_preferred":[
@@ -78,7 +81,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":777,
     "wof:belongsto":[
@@ -92,7 +95,7 @@
     "wof:concordances":{
         "gn:id":1489822,
         "gp:id":2094766,
-        "qs:id":556034,
+        "qs_pg:id":556034,
         "wd:id":"Q1967972"
     },
     "wof:country":"RU",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":102012607,
-    "wof:lastmodified":1563239935,
+    "wof:lastmodified":1566615024,
     "wof:name":"Teguldet",
     "wof:parent_id":1108736967,
     "wof:placetype":"locality",

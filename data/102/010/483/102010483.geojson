@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000254,
-    "geom:area_square_m":1873429.98491,
+    "geom:area_square_m":1873429.984909,
     "geom:bbox":"50.5305557251,53.3867225647,50.5517234802,53.4048881531",
     "geom:latitude":53.395934,
     "geom:longitude":50.540281,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.395351,
     "lbl:longitude":50.54008,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.395351,
     "mps:longitude":50.54008,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chubovka"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687781,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102010483,
-    "wof:lastmodified":1501214760,
+    "wof:lastmodified":1566615476,
     "wof:name":"Chubovka",
     "wof:parent_id":890486911,
     "wof:placetype":"locality",

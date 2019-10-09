@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000309,
-    "geom:area_square_m":2265851.844654,
+    "geom:area_square_m":2265851.84466,
     "geom:bbox":"48.2514457703,53.6641120911,48.2868881226,53.6796951294",
     "geom:latitude":53.671738,
     "geom:longitude":48.269637,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.671538,
     "lbl:longitude":48.269637,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.671538,
     "mps:longitude":48.269637,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gladchikha"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0413\u043b\u0430\u0434\u0447\u0438\u0445\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Glachikha"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687907,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102010323,
-    "wof:lastmodified":1501214736,
+    "wof:lastmodified":1566615486,
     "wof:name":"Gladchikha",
     "wof:parent_id":1108736989,
     "wof:placetype":"locality",

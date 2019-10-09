@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00039,
-    "geom:area_square_m":3423943.458684,
+    "geom:area_square_m":3423943.458683,
     "geom:bbox":"133.085021973,44.7098884583,133.116195679,44.7258338928",
     "geom:latitude":44.718382,
     "geom:longitude":133.101607,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.717897,
     "lbl:longitude":133.102869,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":44.717897,
     "mps:longitude":133.102869,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Kronshtadtka"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0440\u043e\u043d\u0448\u0442\u0430\u0434\u0442\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kronshtadskaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +52,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688023
+        85688023,
+        1108736773
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2021507,
         "gp:id":2030737,
-        "qs:id":442950,
         "qs_pg:id":442950
     },
     "wof:country":"RU",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102001629,
-    "wof:lastmodified":1505338911,
+    "wof:lastmodified":1566615313,
     "wof:name":"Kronshtadtka",
     "wof:parent_id":1108736773,
     "wof:placetype":"locality",

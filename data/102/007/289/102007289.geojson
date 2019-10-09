@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":47.2335,
     "lbl:longitude":38.907032,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.2335,
     "mps:longitude":38.907032,
     "mz:hierarchy_label":1,
@@ -394,7 +396,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":47.233333,
     "wd:longitude":38.9,
@@ -410,7 +412,6 @@
     "wof:concordances":{
         "gn:id":484907,
         "gp:id":2123805,
-        "qs:id":240014,
         "qs_pg:id":240014,
         "wd:id":"Q170513",
         "wk:page":"Taganrog"
@@ -428,7 +429,7 @@
         }
     ],
     "wof:id":102007289,
-    "wof:lastmodified":1563240212,
+    "wof:lastmodified":1566615153,
     "wof:name":"Taganrog",
     "wof:parent_id":1108736905,
     "wof:placetype":"locality",

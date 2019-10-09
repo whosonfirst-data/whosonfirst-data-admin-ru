@@ -11,11 +11,15 @@
     "geom:longitude":61.67692,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":17673,
+    "gn:population":17673,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"61.65692,57.07013,61.69692,57.11013",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Reftinskiy"
     ],
@@ -52,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0444\u0442\u0438\u043d\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
-        "\u0420\u0435\u0444\u0442\u0438\u043d\u0441\u043a\u0438\u0439"
-    ],
     "name:zho_x_preferred":[
         "\u5217\u592b\u4eac\u65af\u57fa"
     ],
@@ -79,7 +80,7 @@
     "wof:concordances":{
         "gn:id":1493687,
         "gp:id":2074333,
-        "qs:id":344775,
+        "qs_pg:id":344775,
         "wd:id":"Q617472"
     },
     "wof:country":"RU",
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":890481197,
-    "wof:lastmodified":1563262671,
+    "wof:lastmodified":1566630815,
     "wof:name":"Reftinskiy",
     "wof:parent_id":1108736277,
     "wof:placetype":"locality",

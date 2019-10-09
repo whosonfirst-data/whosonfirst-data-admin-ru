@@ -11,9 +11,12 @@
     "geom:longitude":47.37993,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":70500,
+    "gn:population":70500,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"47.35993,52.02541,47.39993,52.06541",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -149,9 +152,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043b\u044c\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "Wolsk"
-    ],
     "name:vie_x_preferred":[
         "Volsk"
     ],
@@ -279,7 +279,7 @@
     "wof:concordances":{
         "gn:id":472278,
         "gp:id":2107499,
-        "qs:id":263968,
+        "qs_pg:id":263968,
         "wd:id":"Q133416"
     },
     "wof:country":"RU",
@@ -296,7 +296,7 @@
         }
     ],
     "wof:id":890487715,
-    "wof:lastmodified":1563262897,
+    "wof:lastmodified":1566630914,
     "wof:name":"Vol'sk",
     "wof:parent_id":890478413,
     "wof:placetype":"locality",

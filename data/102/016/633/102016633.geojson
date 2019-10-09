@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.314992,
     "lbl:longitude":45.045642,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":43.314992,
     "mps:longitude":45.045642,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u043d\u0456\u0446\u0430 \u0410\u0440\u0434\u0436\u0430\u043d\u0456\u043a\u0456\u0434\u0437\u0430\u045e\u0441\u043a\u0430\u044f"
     ],
@@ -112,7 +115,7 @@
     "name:ukr_x_variant":[
         "\u041e\u0440\u0434\u0436\u043e\u043d\u0456\u043a\u0456\u0434\u0437\u0435\u0432\u0441\u044c\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Slyeptsovskaya"
     ],
     "name:vep_x_preferred":[
@@ -139,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":391,
     "wof:belongsto":[
@@ -152,7 +155,6 @@
     "wof:concordances":{
         "gn:id":515083,
         "gp:id":2122651,
-        "qs:id":125032,
         "qs_pg:id":125032,
         "wd:id":"Q2029443",
         "wk:page":"Ordzhonikidzevskaya"
@@ -168,7 +170,7 @@
         }
     ],
     "wof:id":102016633,
-    "wof:lastmodified":1563240880,
+    "wof:lastmodified":1566615436,
     "wof:name":"Ordzhonikidzevskaya",
     "wof:parent_id":1108736841,
     "wof:placetype":"locality",

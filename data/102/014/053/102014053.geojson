@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000376,
-    "geom:area_square_m":2706549.036476,
+    "geom:area_square_m":2706549.036472,
     "geom:bbox":"101.208641052,54.3742294312,101.244400024,54.3959236145",
     "geom:latitude":54.386262,
     "geom:longitude":101.225475,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.38786,
     "lbl:longitude":101.224256,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.38786,
     "mps:longitude":101.224256,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chebotarikha"
     ],
@@ -25,9 +28,6 @@
         "Tsjebotarikha"
     ],
     "name:rus_x_preferred":[
-        "\u0427\u0435\u0431\u043e\u0442\u0430\u0440\u0438\u0445\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0427\u0435\u0431\u043e\u0442\u0430\u0440\u0438\u0445\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688173,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102014053,
-    "wof:lastmodified":1501225176,
+    "wof:lastmodified":1566615102,
     "wof:name":"Chebotarikha",
     "wof:parent_id":1108734783,
     "wof:placetype":"locality",

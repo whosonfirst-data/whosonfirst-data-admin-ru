@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000338,
-    "geom:area_square_m":2924961.671812,
+    "geom:area_square_m":2924961.671811,
     "geom:bbox":"38.7924995422,45.6032791138,38.8127212524,45.6258888245",
     "geom:latitude":45.614246,
     "geom:longitude":38.801716,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.614105,
     "lbl:longitude":38.801524,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.614105,
     "mps:longitude":38.801524,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Dneprovskaya"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0414\u043d\u0435\u043f\u0440\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dnjeprowskaja"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688029,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":565892,
         "gp:id":55874438,
-        "qs:id":72353
+        "qs_pg:id":72353
     },
     "wof:country":"RU",
     "wof:geomhash":"ac8e3ff81faa97f02e05183e5bfb9119",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102007767,
-    "wof:lastmodified":1505338928,
+    "wof:lastmodified":1566615175,
     "wof:name":"Dneprovskaya",
     "wof:parent_id":890483057,
     "wof:placetype":"locality",

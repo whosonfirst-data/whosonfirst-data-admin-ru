@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000392,
-    "geom:area_square_m":2982445.84095,
+    "geom:area_square_m":2982445.840953,
     "geom:bbox":"45.5886383057,51.9620285034,45.6274986267,51.9794425964",
     "geom:latitude":51.970539,
     "geom:longitude":45.607006,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.970408,
     "lbl:longitude":45.607006,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.970408,
     "mps:longitude":45.607006,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yagodnaya Polyana"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u042f\u0433\u043e\u0434\u043d\u0430\u044f \u041f\u043e\u043b\u044f\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yagodnaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687995,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102011023,
-    "wof:lastmodified":1501214410,
+    "wof:lastmodified":1566615384,
     "wof:name":"Yagodnaya Polyana",
     "wof:parent_id":1108736949,
     "wof:placetype":"locality",

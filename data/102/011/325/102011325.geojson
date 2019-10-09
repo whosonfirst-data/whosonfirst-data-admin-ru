@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000398,
-    "geom:area_square_m":3111675.440934,
+    "geom:area_square_m":3111675.440933,
     "geom:bbox":"45.8653068542,50.8205566406,45.9066963196,50.840221405",
     "geom:latitude":50.829606,
     "geom:longitude":45.887192,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.827233,
     "lbl:longitude":45.885467,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.827233,
     "mps:longitude":45.885467,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zolotoye"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687995,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102011325,
-    "wof:lastmodified":1501214391,
+    "wof:lastmodified":1566615400,
     "wof:name":"Zolotoye",
     "wof:parent_id":1108734673,
     "wof:placetype":"locality",

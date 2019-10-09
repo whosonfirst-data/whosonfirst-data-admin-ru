@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000926,
-    "geom:area_square_m":7012895.590024,
+    "geom:area_square_m":7012895.590033,
     "geom:bbox":"83.7189025879,52.2079200745,83.7862930298,52.2319755554",
     "geom:latitude":52.221374,
     "geom:longitude":83.754133,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.220466,
     "lbl:longitude":83.765875,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.220466,
     "mps:longitude":83.765875,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nizhneoz\u00ebrnoye"
     ],
@@ -30,7 +33,7 @@
     "name:rus_x_variant":[
         "\u041d\u0438\u0436\u043d\u0435\u043e\u0437\u0451\u0440\u043d\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nizhne-Ozerninskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687835,
         102191581,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102013681,
-    "wof:lastmodified":1501220029,
+    "wof:lastmodified":1566615040,
     "wof:name":"Nizhneozernoye",
     "wof:parent_id":1108737255,
     "wof:placetype":"locality",

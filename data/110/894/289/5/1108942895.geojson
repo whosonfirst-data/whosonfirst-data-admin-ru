@@ -10,8 +10,10 @@
     "geom:latitude":55.695252,
     "geom:longitude":37.437179,
     "iso:country":"RU",
+    "lbl:bbox":"37.4321785283,55.6902516267,37.4421785283,55.7002516267",
     "lbl:latitude":55.695252,
     "lbl:longitude":37.437179,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,14 +26,14 @@
     "name:rus_x_preferred":[
         "\u041e\u0447\u0430\u043a\u043e\u0432\u043e-\u041c\u0430\u0442\u0432\u0435\u0435\u0432\u0441\u043a\u043e\u0435"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85688085,
         102191581,
         85632685,
         102003033,
         874393555,
-        1108736095
+        1108736095,
+        85688085
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1108942895,
-    "wof:lastmodified":1500066522,
+    "wof:lastmodified":1566627404,
     "wof:name":"Ochakovo-Matvejevskoe",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

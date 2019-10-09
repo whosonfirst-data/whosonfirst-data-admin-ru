@@ -11,11 +11,15 @@
     "geom:longitude":37.2083,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":5056,
+    "gn:population":5056,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"37.1883,55.61893,37.2283,55.65893",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lesnoy Gorodok"
     ],
@@ -29,9 +33,6 @@
         "Lesnoj Gorodok"
     ],
     "name:rus_x_preferred":[
-        "\u041b\u0435\u0441\u043d\u043e\u0439 \u0413\u043e\u0440\u043e\u0434\u043e\u043a"
-    ],
-    "name:unk_x_variant":[
         "\u041b\u0435\u0441\u043d\u043e\u0439 \u0413\u043e\u0440\u043e\u0434\u043e\u043a"
     ],
     "qs:name":"Lesnoy Gorodok",
@@ -57,7 +58,7 @@
     "wof:concordances":{
         "gn:id":535695,
         "gp:id":2036324,
-        "qs:id":8349
+        "qs_pg:id":8349
     },
     "wof:country":"RU",
     "wof:created":1469054648,
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":890486971,
-    "wof:lastmodified":1564129246,
+    "wof:lastmodified":1566630862,
     "wof:name":"Lesnoy Gorodok",
     "wof:parent_id":1108735599,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"45.51558,58.36909,45.51558,58.36909",
     "geom:latitude":58.36909,
     "geom:longitude":45.51558,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":29800,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":29800,
     "iso:country":"RU",
+    "lbl:bbox":"45.49558,58.34909,45.53558,58.38909",
     "lbl:latitude":58.36909,
     "lbl:longitude":45.51558,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0634\u0627\u0631\u0627\u064a\u0627"
@@ -127,9 +130,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u0440'\u044f"
     ],
-    "name:unk_x_variant":[
-        "\u0428\u0430\u0440\u044c\u044f"
-    ],
     "name:vep_x_preferred":[
         "\u0160arj"
     ],
@@ -154,7 +154,7 @@
     "qs_pg:qs_id":1029558,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688115,
@@ -183,7 +183,7 @@
         }
     ],
     "wof:id":1125902483,
-    "wof:lastmodified":1563263126,
+    "wof:lastmodified":1566631019,
     "wof:name":"Shar\u2019ya",
     "wof:parent_id":1108733863,
     "wof:placetype":"locality",

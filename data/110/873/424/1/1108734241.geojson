@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":50.066357,
     "lbl:longitude":45.386262,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Volgogradskaja oblast'",
     "meso:admin1r_en":"JUzhnyj federal'nyj okrug",
     "meso:admin_1":"\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":45.386262,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u064a\u0634\u064a\u0646"
     ],
@@ -191,9 +194,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043c\u0438\u0448\u0438\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041a\u0430\u043c\u044b\u0448\u0438\u043d"
-    ],
     "name:vep_x_preferred":[
         "Kami\u0161in"
     ],
@@ -210,9 +210,9 @@
         "\u5361\u6885\u7533"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"3501",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Kamyshin",
@@ -244,7 +244,7 @@
         }
     ],
     "wof:id":1108734241,
-    "wof:lastmodified":1564124401,
+    "wof:lastmodified":1566626961,
     "wof:name":"Kamyshin",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

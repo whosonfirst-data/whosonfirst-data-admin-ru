@@ -9,15 +9,18 @@
     "geom:bbox":"135.35262,44.62807,135.35262,44.62807",
     "geom:latitude":44.62807,
     "geom:longitude":135.35262,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3833,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":3833,
     "iso:country":"RU",
+    "lbl:bbox":"135.33262,44.60807,135.37262,44.64807",
     "lbl:latitude":44.62807,
     "lbl:longitude":135.35262,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Krasnorechenskiy"
@@ -26,9 +29,6 @@
         "Krasnoretsjenskij"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0440\u0430\u0441\u043d\u043e\u0440\u0435\u0447\u0435\u043d\u0441\u043a\u0438\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0440\u0435\u0447\u0435\u043d\u0441\u043a\u0438\u0439"
     ],
     "qs_pg:aaroncc":"RU",
@@ -43,7 +43,7 @@
     "qs_pg:qs_id":277806,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688023,
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":1125771571,
-    "wof:lastmodified":1509391004,
+    "wof:lastmodified":1566631038,
     "wof:name":"Krasnorechenskiy",
     "wof:parent_id":1108733327,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000402,
-    "geom:area_square_m":3219424.04696,
+    "geom:area_square_m":3219424.046957,
     "geom:bbox":"41.2220001221,49.6566963196,41.2511405945,49.6819458008",
     "geom:latitude":49.668127,
     "geom:longitude":41.239037,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":49.666867,
     "lbl:longitude":41.240031,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.666867,
     "mps:longitude":41.240031,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Migulinskaya"
     ],
@@ -25,9 +28,6 @@
         "Migulinskaja"
     ],
     "name:rus_x_preferred":[
-        "\u041c\u0438\u0433\u0443\u043b\u0438\u043d\u0441\u043a\u0430\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u041c\u0438\u0433\u0443\u043b\u0438\u043d\u0441\u043a\u0430\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688033,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102006615,
-    "wof:lastmodified":1501214619,
+    "wof:lastmodified":1566615366,
     "wof:name":"Migulinskaya",
     "wof:parent_id":1108737331,
     "wof:placetype":"locality",

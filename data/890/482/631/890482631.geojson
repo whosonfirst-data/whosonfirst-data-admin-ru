@@ -11,11 +11,15 @@
     "geom:longitude":38.20908,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":20000,
+    "gn:population":20000,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"38.18908,55.70445,38.22908,55.74445",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0644\u064a\u0643\u062a\u0631\u0648\u063a\u0644\u064a"
     ],
@@ -133,9 +137,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u0435\u043a\u0442\u0440\u043e\u0443\u0433\u043b\u0456"
     ],
-    "name:unk_x_variant":[
-        "\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u0443\u0433\u043b\u0438"
-    ],
     "name:war_x_preferred":[
         "Elektrougli"
     ],
@@ -169,7 +170,7 @@
     "wof:concordances":{
         "gn:id":563522,
         "gp:id":2004407,
-        "qs:id":1221732,
+        "qs_pg:id":1221732,
         "wd:id":"Q198427",
         "wk:page":"Elektrougli"
     },
@@ -187,7 +188,7 @@
         }
     ],
     "wof:id":890482631,
-    "wof:lastmodified":1563262207,
+    "wof:lastmodified":1566630614,
     "wof:name":"Elektrougli",
     "wof:parent_id":890479587,
     "wof:placetype":"locality",

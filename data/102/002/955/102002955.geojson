@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000338,
-    "geom:area_square_m":2319366.235263,
+    "geom:area_square_m":2319366.235264,
     "geom:bbox":"32.3640823364,56.2416648865,32.4082794189,56.2530822754",
     "geom:latitude":56.247756,
     "geom:longitude":32.385419,
     "iso:country":"RU",
     "lbl:latitude":56.247464,
     "lbl:longitude":32.38584,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.247464,
     "mps:longitude":32.38584,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zemtsy"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u0417\u0435\u043c\u0446\u044b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pos\u00eblok Zemtsy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688047,
         102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102002955,
-    "wof:lastmodified":1501214395,
+    "wof:lastmodified":1566615668,
     "wof:name":"Zemtsy",
     "wof:parent_id":890480053,
     "wof:placetype":"locality",

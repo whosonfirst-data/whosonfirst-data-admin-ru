@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":47.713219,
     "lbl:longitude":40.256478,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Rostovskaja oblast'",
     "meso:admin1r_en":"JUzhnyj federal'nyj okrug",
     "meso:admin_1":"\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":40.256478,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0634\u0627\u062e\u062a\u0627\u064a"
     ],
@@ -176,9 +179,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u0445\u0442\u0438"
     ],
-    "name:und_x_variant":[
-        "\u0428\u0430\u0445\u0442\u044b"
-    ],
     "name:vie_x_preferred":[
         "Shakhty"
     ],
@@ -192,9 +192,9 @@
         "\u6c99\u8d6b\u8482"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"179",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Shakhty",
@@ -226,7 +226,7 @@
         }
     ],
     "wof:id":1108736497,
-    "wof:lastmodified":1564124514,
+    "wof:lastmodified":1566627187,
     "wof:name":"Shakhty",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

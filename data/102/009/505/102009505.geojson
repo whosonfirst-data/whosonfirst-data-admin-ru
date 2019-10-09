@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.970306,
     "lbl:longitude":48.288834,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":54.970306,
     "mps:longitude":48.288834,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0646\u0633\u0643"
     ],
@@ -166,7 +169,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688065,
@@ -179,7 +182,6 @@
     "wof:concordances":{
         "gn:id":571155,
         "gp:id":2120421,
-        "qs:id":125684,
         "qs_pg:id":125684,
         "wd:id":"Q132846",
         "wk:page":"Buinsk, Republic of Tatarstan"
@@ -197,7 +199,7 @@
         }
     ],
     "wof:id":102009505,
-    "wof:lastmodified":1563240301,
+    "wof:lastmodified":1566615205,
     "wof:name":"Buinsk",
     "wof:parent_id":890487943,
     "wof:placetype":"locality",

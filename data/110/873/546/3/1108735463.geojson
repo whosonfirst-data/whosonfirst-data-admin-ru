@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":51.098334,
     "lbl:longitude":114.548881,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Zabajkal'skij kraj",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u0417\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,12 +55,13 @@
     "mps:longitude":114.548881,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Uletovskiy"
     ],
     "name:eng_x_variant":[],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688005,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108735463,
-    "wof:lastmodified":1561582105,
+    "wof:lastmodified":1566627372,
     "wof:name":"Uletovskiy",
     "wof:parent_id":85688005,
     "wof:placetype":"county",

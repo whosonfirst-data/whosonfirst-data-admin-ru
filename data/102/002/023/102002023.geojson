@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":62.198108,
     "lbl:longitude":34.281097,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":62.198108,
     "mps:longitude":34.281097,
     "mz:hierarchy_label":1,
@@ -144,7 +146,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0434\u043e\u043f\u043e\u0433\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tonopoga"
     ],
     "name:vep_x_preferred":[
@@ -269,7 +271,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":62.2,
     "wd:longitude":34.266667,
@@ -285,7 +287,6 @@
     "wof:concordances":{
         "gn:id":545626,
         "gp:id":2121494,
-        "qs:id":445136,
         "qs_pg:id":445136,
         "wd:id":"Q155108",
         "wk:page":"Kondopoga"
@@ -303,7 +304,7 @@
         }
     ],
     "wof:id":102002023,
-    "wof:lastmodified":1563241459,
+    "wof:lastmodified":1566615669,
     "wof:name":"Kondopoga",
     "wof:parent_id":890486097,
     "wof:placetype":"locality",

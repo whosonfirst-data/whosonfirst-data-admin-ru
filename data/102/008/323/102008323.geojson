@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":58.378764,
     "lbl:longitude":54.388164,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":58.378764,
     "mps:longitude":54.388164,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Sjiwa"
     ],
@@ -299,9 +302,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0438\u0432\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u0438\u0432\u0430"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u06cc\u0648"
     ],
@@ -344,7 +344,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":9432,
     "wof:belongsto":[
@@ -357,7 +357,6 @@
     "wof:concordances":{
         "gn:id":492592,
         "gp:id":2123503,
-        "qs:id":124857,
         "qs_pg:id":124857,
         "wd:id":"Q2949626"
     },
@@ -372,7 +371,7 @@
         }
     ],
     "wof:id":102008323,
-    "wof:lastmodified":1563240464,
+    "wof:lastmodified":1566615278,
     "wof:name":"Siva",
     "wof:parent_id":1108736627,
     "wof:placetype":"locality",

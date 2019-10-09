@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000704,
-    "geom:area_square_m":4690406.175794,
+    "geom:area_square_m":4690406.175792,
     "geom:bbox":"46.4458885193,57.3605003357,46.4866104126,57.3896942139",
     "geom:latitude":57.373725,
     "geom:longitude":46.466502,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.372103,
     "lbl:longitude":46.46651,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.372103,
     "mps:longitude":46.46651,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Tonkino"
     ],
@@ -27,9 +30,6 @@
         "Tonkino"
     ],
     "name:rus_x_preferred":[
-        "\u0422\u043e\u043d\u043a\u0438\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u0422\u043e\u043d\u043a\u0438\u043d\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -50,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":46,
     "wof:belongsto":[
@@ -63,7 +63,6 @@
     "wof:concordances":{
         "gn:id":482230,
         "gp:id":2123928,
-        "qs:id":80510,
         "qs_pg:id":80510
     },
     "wof:country":"RU",
@@ -77,7 +76,7 @@
         }
     ],
     "wof:id":102008595,
-    "wof:lastmodified":1527637243,
+    "wof:lastmodified":1566615259,
     "wof:name":"Tonkino",
     "wof:parent_id":1108737061,
     "wof:placetype":"locality",

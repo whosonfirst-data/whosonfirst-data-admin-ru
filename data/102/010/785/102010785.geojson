@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":52.78371,
     "lbl:longitude":52.270155,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":52.78371,
     "mps:longitude":52.270155,
     "mz:hierarchy_label":1,
@@ -149,9 +151,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0437\u0443\u043b\u0443\u043a"
     ],
-    "name:unk_x_variant":[
-        "\u0411\u0443\u0437\u0443\u043b\u0443\u043a"
-    ],
     "name:vep_x_preferred":[
         "Buzuluk"
     ],
@@ -274,7 +273,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -286,7 +285,6 @@
     "wof:concordances":{
         "gn:id":570427,
         "gp:id":2120450,
-        "qs:id":8465,
         "qs_pg:id":8465,
         "wd:id":"Q42234",
         "wk:page":"Buzuluk, Orenburg Oblast"
@@ -302,7 +300,7 @@
         }
     ],
     "wof:id":102010785,
-    "wof:lastmodified":1563240994,
+    "wof:lastmodified":1566615487,
     "wof:name":"Buzuluk",
     "wof:parent_id":1108733149,
     "wof:placetype":"locality",

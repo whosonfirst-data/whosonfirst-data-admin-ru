@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":60.583609,
     "lbl:longitude":136.208646,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Respublika Sakha (JAkutija)",
     "meso:admin1r_en":"Dal'nevostochnyj federal'nyj okrug",
     "meso:admin_1":"\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u0445\u0430 (\u042f\u043a\u0443\u0442\u0438\u044f)",
@@ -53,6 +55,7 @@
     "mps:longitude":136.208646,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0423\u0441\u0446\u044c-\u041c\u0430\u0439\u0441\u043a\u0456 \u045e\u043b\u0443\u0441"
     ],
@@ -108,9 +111,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u041c\u0430\u0439\u0441\u044c\u043a\u0438\u0439 \u0443\u043b\u0443\u0441"
     ],
-    "name:und_x_variant":[
-        "\u0423\u0441\u0442\u044c-\u041c\u0430\u0439\u0441\u043a\u0438\u0439 \u0443\u043b\u0443\u0441"
-    ],
     "name:vie_x_preferred":[
         "Ust-Maysky"
     ],
@@ -118,9 +118,9 @@
         "\u70cf\u65af\u5b63\u99ac\u4e9e\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"95617",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Ust'-Maya",
@@ -154,7 +154,7 @@
         }
     ],
     "wof:id":1108737253,
-    "wof:lastmodified":1561832339,
+    "wof:lastmodified":1566627044,
     "wof:name":"Ust'-Majskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",

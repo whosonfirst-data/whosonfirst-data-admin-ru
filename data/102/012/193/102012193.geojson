@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000555,
-    "geom:area_square_m":3874184.627,
+    "geom:area_square_m":3874184.627003,
     "geom:bbox":"62.2961959839,55.6149711609,62.3337516785,55.6376953125",
     "geom:latitude":55.628136,
     "geom:longitude":62.312464,
     "iso:country":"RU",
     "lbl:latitude":55.626959,
     "lbl:longitude":62.306473,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.626959,
     "mps:longitude":62.306473,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Terenkul'"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u0422\u0435\u0440\u0435\u043d\u043a\u0443\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Terenkul\u2019"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687791,
         102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102012193,
-    "wof:lastmodified":1501220000,
+    "wof:lastmodified":1566614985,
     "wof:name":"Terenkul'",
     "wof:parent_id":1108734661,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.296796,
     "lbl:longitude":53.203487,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.296796,
     "mps:longitude":53.203487,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Muslyumovo"
     ],
@@ -26,9 +29,6 @@
         "Musljumovo"
     ],
     "name:rus_x_preferred":[
-        "\u041c\u0443\u0441\u043b\u044e\u043c\u043e\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u041c\u0443\u0441\u043b\u044e\u043c\u043e\u0432\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":60,
     "wof:belongsto":[
@@ -62,7 +62,6 @@
     "wof:concordances":{
         "gn:id":524183,
         "gp:id":2122301,
-        "qs:id":549487,
         "qs_pg:id":549487,
         "wd:id":"Q6943034"
     },
@@ -77,7 +76,7 @@
         }
     ],
     "wof:id":102009291,
-    "wof:lastmodified":1527637049,
+    "wof:lastmodified":1566615245,
     "wof:name":"Muslyumovo",
     "wof:parent_id":1108735285,
     "wof:placetype":"locality",

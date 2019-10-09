@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":54.698196,
     "lbl:longitude":55.616705,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Bashkortostan",
     "meso:name_alt2":"Bashkortostan",
     "meso:name_local":"\u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d",
@@ -366,9 +367,6 @@
         "\u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d"
     ],
     "name:und_x_variant":[
-        "Bashkortostan"
-    ],
-    "name:unk_x_variant":[
         "Bashkirskaya ASSR"
     ],
     "name:urd_x_preferred":[
@@ -473,9 +471,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"143,600",
     "statoids:area_mi":"55,400",
     "statoids:as_of_date":"2010-10-14",
@@ -538,11 +536,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734454,
+    "wof:lastmodified":1566618603,
     "wof:name":"Bashkortostan",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":4072292,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

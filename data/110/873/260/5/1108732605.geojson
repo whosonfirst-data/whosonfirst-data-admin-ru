@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":68.088205,
     "lbl:longitude":144.479358,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Respublika Sakha (JAkutija)",
     "meso:admin1r_en":"Dal'nevostochnyj federal'nyj okrug",
     "meso:admin_1":"\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u0445\u0430 (\u042f\u043a\u0443\u0442\u0438\u044f)",
@@ -53,6 +55,7 @@
     "mps:longitude":144.479358,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0410\u0431\u044b\u0439\u0441\u043a\u0456 \u045e\u043b\u0443\u0441"
     ],
@@ -114,9 +117,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0438\u0439\u0441\u044c\u043a\u0438\u0439 \u0443\u043b\u0443\u0441"
     ],
-    "name:und_x_variant":[
-        "\u0410\u0431\u044b\u0439\u0441\u043a\u0438\u0439 \u0443\u043b\u0443\u0441"
-    ],
     "name:vie_x_preferred":[
         "Abyysky"
     ],
@@ -124,9 +124,9 @@
         "\u963f\u8c9d\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"72804",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Belaya Gora",
@@ -160,7 +160,7 @@
         }
     ],
     "wof:id":1108732605,
-    "wof:lastmodified":1563256739,
+    "wof:lastmodified":1566627009,
     "wof:name":"Abyjskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",

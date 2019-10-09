@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.703791,
     "lbl:longitude":60.824644,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.703791,
     "mps:longitude":60.824644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u0627\u0645\u064a\u0644"
     ],
@@ -178,7 +181,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.7,
     "wd:longitude":60.833333,
@@ -194,7 +197,6 @@
     "wof:concordances":{
         "gn:id":1511466,
         "gp:id":1983692,
-        "qs:id":1233758,
         "qs_pg:id":1233758,
         "wd:id":"Q103694",
         "wk:page":"Aramil"
@@ -212,7 +214,7 @@
         }
     ],
     "wof:id":102011915,
-    "wof:lastmodified":1563240779,
+    "wof:lastmodified":1566615396,
     "wof:name":"Aramil'",
     "wof:parent_id":1108732755,
     "wof:placetype":"locality",

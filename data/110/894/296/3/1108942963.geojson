@@ -10,8 +10,10 @@
     "geom:latitude":55.502063,
     "geom:longitude":37.561976,
     "iso:country":"RU",
+    "lbl:bbox":"37.5569764122,55.4970633075,37.5669764122,55.5070633075",
     "lbl:latitude":55.502063,
     "lbl:longitude":37.561976,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -102,7 +104,7 @@
     "name:zho_x_preferred":[
         "\u8b1d\u723e\u8cd3\u5361"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85632685,
@@ -134,7 +136,7 @@
         }
     ],
     "wof:id":1108942963,
-    "wof:lastmodified":1564124660,
+    "wof:lastmodified":1566627426,
     "wof:name":"Shcherbinka",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

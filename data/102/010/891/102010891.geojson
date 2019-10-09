@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.425516,
     "lbl:longitude":53.157332,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.425516,
     "mps:longitude":53.157332,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0631\u0648\u062a\u0634\u064a\u0646\u0633\u0643"
     ],
@@ -121,9 +124,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0440\u043e\u0447\u0438\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u043e\u0440\u043e\u0447\u0438\u043d\u0441\u043a"
-    ],
     "name:vep_x_preferred":[
         "Soro\u010dinsk"
     ],
@@ -154,7 +154,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.433333,
     "wd:longitude":53.15,
@@ -169,7 +169,6 @@
     "wof:concordances":{
         "gn:id":490554,
         "gp:id":2123575,
-        "qs:id":124851,
         "qs_pg:id":124851,
         "wd:id":"Q196392",
         "wk:page":"Sorochinsk"
@@ -185,7 +184,7 @@
         }
     ],
     "wof:id":102010891,
-    "wof:lastmodified":1563241036,
+    "wof:lastmodified":1566615505,
     "wof:name":"Sorochinsk",
     "wof:parent_id":1108736715,
     "wof:placetype":"locality",

@@ -9,20 +9,23 @@
     "geom:bbox":"102.31056,53.67028,102.31056,53.67028",
     "geom:latitude":53.67028,
     "geom:longitude":102.31056,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4082,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":4082,
     "iso:country":"RU",
+    "lbl:bbox":"102.29056,53.65028,102.33056,53.69028",
     "lbl:latitude":53.67028,
     "lbl:longitude":102.31056,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u0422\u044b\u0440\u0435\u0442\u044c \u041f\u0435\u0440\u0432\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pervaya Tyret\u2019"
     ],
     "qs_pg:aaroncc":"RU",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":90364,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688173,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1126036523,
-    "wof:lastmodified":1509408253,
+    "wof:lastmodified":1566631006,
     "wof:name":"Tyret\u2019 Pervaya",
     "wof:parent_id":890479385,
     "wof:placetype":"locality",

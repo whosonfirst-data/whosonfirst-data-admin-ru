@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000386,
-    "geom:area_square_m":3129288.203445,
+    "geom:area_square_m":3129288.203446,
     "geom:bbox":"43.0859184265,48.9656944275,43.1110572815,48.9948616028",
     "geom:latitude":48.979836,
     "geom:longitude":43.098023,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":48.980333,
     "lbl:longitude":43.098023,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.980333,
     "mps:longitude":43.098023,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yerik"
     ],
@@ -25,9 +28,6 @@
         "Jerik"
     ],
     "name:rus_x_preferred":[
-        "\u0415\u0440\u0438\u043a"
-    ],
-    "name:unk_x_variant":[
         "\u0415\u0440\u0438\u043a"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0445",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688101,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102006785,
-    "wof:lastmodified":1501214404,
+    "wof:lastmodified":1566615352,
     "wof:name":"Yerik",
     "wof:parent_id":1108734483,
     "wof:placetype":"locality",

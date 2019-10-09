@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.43452,
     "lbl:longitude":101.36542,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.43452,
     "mps:longitude":101.36542,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0628"
     ],
@@ -168,9 +171,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0431"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u043e\u0431\u044c"
-    ],
     "name:vie_x_preferred":[
         "Linh d\u01b0\u01a1ng Kob"
     ],
@@ -199,7 +199,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1505,
     "wof:belongsto":[
         85688173,
@@ -227,7 +227,7 @@
         }
     ],
     "wof:id":102013997,
-    "wof:lastmodified":1563239969,
+    "wof:lastmodified":1566615038,
     "wof:name":"Kob'",
     "wof:parent_id":890484113,
     "wof:placetype":"locality",

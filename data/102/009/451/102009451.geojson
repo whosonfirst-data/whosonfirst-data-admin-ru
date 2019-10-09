@@ -9,25 +9,28 @@
     "geom:bbox":"52.0927772522,55.0256652832,52.1298904419,55.0437240601",
     "geom:latitude":55.034434,
     "geom:longitude":52.11086,
-    "geonames:id":"500432,583573",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":4195,
+    "gn:id":"500432,583573",
+    "gn:population":4195,
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:latitude":55.034959,
     "lbl:longitude":52.11086,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.034959,
     "mps:longitude":52.11086,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0410\u043a\u0442\u0430\u0448"
     ],
     "name:rus_x_variant":[
         "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0410\u043a\u0442\u0430\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aktash"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -53,7 +56,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688065,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":583573,
         "gp:id":2123204,
-        "qs:id":460285
+        "qs_pg:id":460285
     },
     "wof:country":"RU",
     "wof:geomhash":"8c8166f1a06ac49d419fe1e81a7f28d2",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":102009451,
-    "wof:lastmodified":1505338933,
+    "wof:lastmodified":1566615244,
     "wof:name":"Russkiy Aktash",
     "wof:parent_id":1108732659,
     "wof:placetype":"locality",

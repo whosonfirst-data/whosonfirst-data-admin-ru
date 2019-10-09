@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.937205,
     "lbl:longitude":37.719136,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.937205,
     "mps:longitude":37.719136,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0628\u0643\u064a"
     ],
@@ -111,7 +114,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0438\u043f\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lipovskiy"
     ],
     "name:war_x_preferred":[
@@ -138,7 +141,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685,
@@ -149,7 +152,6 @@
     "wof:concordances":{
         "gn:id":535088,
         "gp:id":2036881,
-        "qs:id":904681,
         "qs_pg:id":904681,
         "wd:id":"Q157613",
         "wk:page":"Lipki, Kireyevsky District, Tula Oblast"
@@ -165,7 +167,7 @@
         }
     ],
     "wof:id":102004063,
-    "wof:lastmodified":1563241258,
+    "wof:lastmodified":1566615583,
     "wof:name":"Lipki",
     "wof:parent_id":1108734431,
     "wof:placetype":"locality",

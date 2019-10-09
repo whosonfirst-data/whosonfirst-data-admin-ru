@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000316,
-    "geom:area_square_m":2470978.976643,
+    "geom:area_square_m":2470978.976644,
     "geom:bbox":"35.7660484314,50.7936439514,35.7975692749,50.8062515259",
     "geom:latitude":50.800243,
     "geom:longitude":35.780849,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.800316,
     "lbl:longitude":35.780849,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.800316,
     "mps:longitude":35.780849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u043b\u0435\u0442\u0430\u0440\u0441\u043a\u0456"
     ],
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u043b\u0435\u0442\u0430\u0440\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gotnya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":74,
     "wof:belongsto":[
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":504806,
         "gp:id":2123047,
-        "qs:id":194558,
         "qs_pg:id":194558
     },
     "wof:country":"RU",
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":102006147,
-    "wof:lastmodified":1527637265,
+    "wof:lastmodified":1566615376,
     "wof:name":"Proletarskiy",
     "wof:parent_id":1108736269,
     "wof:placetype":"locality",

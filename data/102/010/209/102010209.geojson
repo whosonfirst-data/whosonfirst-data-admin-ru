@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.895636,
     "lbl:longitude":51.208783,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.895636,
     "mps:longitude":51.208783,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0421\u0443\u0445\u043e\u0434\u043e\u043b"
     ],
@@ -40,9 +43,6 @@
     "name:rus_x_preferred":[
         "\u0421\u0443\u0445\u043e\u0434\u043e\u043b"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u0443\u0445\u043e\u0434\u043e\u043b"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"6302100004500",
@@ -61,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -73,7 +73,6 @@
     "wof:concordances":{
         "gn:id":486626,
         "gp:id":2091679,
-        "qs:id":202520,
         "qs_pg:id":202520
     },
     "wof:country":"RU",
@@ -87,7 +86,7 @@
         }
     ],
     "wof:id":102010209,
-    "wof:lastmodified":1564109183,
+    "wof:lastmodified":1566615504,
     "wof:name":"Sukhodol",
     "wof:parent_id":1108736445,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000365,
-    "geom:area_square_m":2598646.065158,
+    "geom:area_square_m":2598646.065159,
     "geom:bbox":"43.0402755737,54.8834381104,43.0766677856,54.8970870972",
     "geom:latitude":54.890807,
     "geom:longitude":43.057933,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.889887,
     "lbl:longitude":43.057933,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.889887,
     "mps:longitude":43.057933,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Naryshkino"
     ],
@@ -25,9 +28,6 @@
         "Narysjkino"
     ],
     "name:rus_x_preferred":[
-        "\u041d\u0430\u0440\u044b\u0448\u043a\u0438\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u041d\u0430\u0440\u044b\u0448\u043a\u0438\u043d\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":183,
     "wof:belongsto":[
         85688057,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":102003631,
-    "wof:lastmodified":1527637838,
+    "wof:lastmodified":1566615558,
     "wof:name":"Naryshkino",
     "wof:parent_id":1108737725,
     "wof:placetype":"locality",

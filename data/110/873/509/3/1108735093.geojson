@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":55.073948,
     "lbl:longitude":35.846452,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kaluzhskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u041a\u0430\u043b\u0443\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":35.846452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041c\u0435\u0434\u044b\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -96,9 +99,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0434\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041c\u0435\u0434\u044b\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Medynsky"
     ],
@@ -106,9 +106,9 @@
         "\u6885\u767b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1360",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Iznosky",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":1108735093,
-    "wof:lastmodified":1563256977,
+    "wof:lastmodified":1566627154,
     "wof:name":"Medynskiy",
     "wof:parent_id":85688131,
     "wof:placetype":"county",

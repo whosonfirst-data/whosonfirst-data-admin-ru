@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.087967,
     "lbl:longitude":40.754089,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.087967,
     "mps:longitude":40.754089,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041c\u0430\u0440\u0434\u043e\u0432\u0430"
     ],
@@ -47,7 +50,7 @@
     "name:rus_x_preferred":[
         "\u041c\u043e\u0440\u0434\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Murdovo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":88,
     "wof:belongsto":[
@@ -81,7 +84,6 @@
     "wof:concordances":{
         "gn:id":525365,
         "gp:id":2122245,
-        "qs:id":80751,
         "qs_pg:id":80751,
         "wd:id":"Q3862887"
     },
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":102005111,
-    "wof:lastmodified":1563241372,
+    "wof:lastmodified":1566615633,
     "wof:name":"Mordovo",
     "wof:parent_id":1108735195,
     "wof:placetype":"locality",

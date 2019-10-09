@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000849,
-    "geom:area_square_m":5112740.906794,
+    "geom:area_square_m":5112740.9068,
     "geom:bbox":"60.407081604,60.858833313,60.4675292969,60.880695343",
     "geom:latitude":60.868612,
     "geom:longitude":60.434543,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":60.869611,
     "lbl:longitude":60.4249,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":60.869611,
     "mps:longitude":60.4249,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Polunochnoye"
     ],
@@ -26,7 +29,7 @@
     "name:rus_x_preferred":[
         "\u041f\u043e\u043b\u0443\u043d\u043e\u0447\u043d\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Polynochye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,18 +50,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688183
+        85688183,
+        1108734047
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1494482,
         "gp:id":2122975,
-        "qs:id":85101,
         "qs_pg:id":85101
     },
     "wof:country":"RU",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102002253,
-    "wof:lastmodified":1505338913,
+    "wof:lastmodified":1566615704,
     "wof:name":"Polunochnoye",
     "wof:parent_id":1108734047,
     "wof:placetype":"locality",

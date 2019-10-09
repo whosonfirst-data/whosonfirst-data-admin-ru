@@ -11,11 +11,15 @@
     "geom:longitude":37.62861,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"37.60861,55.42362,37.64861,55.46362",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Pokrow"
     ],
@@ -49,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043a\u0440\u043e\u0432"
     ],
-    "name:unk_x_variant":[
-        "\u041f\u043e\u043a\u0440\u043e\u0432"
-    ],
     "qs:name":"Pokrov",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Moscow Oblast",
@@ -74,7 +75,7 @@
     "wof:concordances":{
         "gn:id":507601,
         "gp:id":2068378,
-        "qs:id":1043894,
+        "qs_pg:id":1043894,
         "wk:page":"Pokrov"
     },
     "wof:country":"RU",
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":890482087,
-    "wof:lastmodified":1564128996,
+    "wof:lastmodified":1566630602,
     "wof:name":"Pokrov",
     "wof:parent_id":890486993,
     "wof:placetype":"locality",

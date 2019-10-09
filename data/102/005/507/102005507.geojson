@@ -13,17 +13,17 @@
     "iso:country":"RU",
     "lbl:latitude":51.596259,
     "lbl:longitude":39.152578,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.596259,
     "mps:longitude":39.152578,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Shilovo"
     ],
     "name:rus_x_preferred":[
-        "\u0428\u0438\u043b\u043e\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u0428\u0438\u043b\u043e\u0432\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":965,
     "wof:belongsto":[
@@ -58,7 +58,6 @@
     "wof:concordances":{
         "gn:id":494430,
         "gp:id":2082864,
-        "qs:id":1221856,
         "qs_pg:id":1221856,
         "wd:id":"Q7496756"
     },
@@ -75,7 +74,7 @@
         }
     ],
     "wof:id":102005507,
-    "wof:lastmodified":1563241389,
+    "wof:lastmodified":1566615640,
     "wof:name":"Shilovo",
     "wof:parent_id":890484369,
     "wof:placetype":"locality",

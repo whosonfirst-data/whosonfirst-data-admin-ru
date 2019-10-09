@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":58.720356,
     "lbl:longitude":61.602867,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Sverdlovsk",
     "meso:name_alt2":"Sverdlovskaja oblast'",
     "meso:name_local":"\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -119,13 +120,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u044c\u043a"
     ],
-    "name:und_x_variant":[
-        "Sverdlovskaja oblast'",
-        "Sverdlovsk"
-    ],
-    "name:unk_x_variant":[
-        "Sverdlovsk Oblast"
-    ],
     "name:vie_x_preferred":[
         "Sverdlovsk"
     ],
@@ -198,9 +192,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"194,800",
     "statoids:area_mi":"75,200",
     "statoids:as_of_date":"2010-10-14",
@@ -262,11 +256,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734426,
+    "wof:lastmodified":1566618549,
     "wof:name":"Sverdlovsk",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":4297747,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

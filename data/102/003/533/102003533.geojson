@@ -9,15 +9,18 @@
     "geom:bbox":"38.159942627,55.092666626,38.2104148865,55.1164703369",
     "geom:latitude":55.105469,
     "geom:longitude":38.184693,
-    "geonames:id":"529281,531098",
+    "gn:id":"529281,531098",
     "gn:population":4327,
     "iso:country":"RU",
     "lbl:latitude":55.106115,
     "lbl:longitude":38.184212,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.106115,
     "mps:longitude":38.184212,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Malino"
     ],
@@ -35,9 +38,6 @@
     ],
     "name:swe_x_preferred":[
         "Malino"
-    ],
-    "name:unk_x_variant":[
-        "\u041c\u0430\u043b\u0438\u043d\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -57,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":26,
     "wof:belongsto":[
@@ -71,7 +71,6 @@
     "wof:concordances":{
         "gn:id":531098,
         "gp:id":2122072,
-        "qs:id":322477,
         "qs_pg:id":322477
     },
     "wof:country":"RU",
@@ -87,7 +86,7 @@
         }
     ],
     "wof:id":102003533,
-    "wof:lastmodified":1564109199,
+    "wof:lastmodified":1566615517,
     "wof:name":"Malino",
     "wof:parent_id":890487149,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000919,
-    "geom:area_square_m":6706195.834551,
+    "geom:area_square_m":6706195.834558,
     "geom:bbox":"80.3168029785,53.8191375732,80.3733596802,53.8459739685",
     "geom:latitude":53.832277,
     "geom:longitude":80.344835,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.833205,
     "lbl:longitude":80.345374,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.833205,
     "mps:longitude":80.345374,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Pankrushikha"
     ],
@@ -26,9 +29,6 @@
         "Pankrusjikha"
     ],
     "name:rus_x_preferred":[
-        "\u041f\u0430\u043d\u043a\u0440\u0443\u0448\u0438\u0445\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u0430\u043d\u043a\u0440\u0443\u0448\u0438\u0445\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":151,
     "wof:belongsto":[
@@ -62,7 +62,6 @@
     "wof:concordances":{
         "gn:id":1495613,
         "gp:id":2062617,
-        "qs:id":132893,
         "qs_pg:id":132893,
         "wd:id":"Q7131328"
     },
@@ -77,7 +76,7 @@
         }
     ],
     "wof:id":102013203,
-    "wof:lastmodified":1527636663,
+    "wof:lastmodified":1566615048,
     "wof:name":"Pankrushikha",
     "wof:parent_id":1108735759,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"34.8809738159,51.368221283,34.9458045959,51.4253044128",
     "geom:latitude":51.396542,
     "geom:longitude":34.908508,
-    "geonames:id":"544906,544907",
+    "gn:id":"544906,544907",
     "iso:country":"RU",
     "lbl:latitude":51.390723,
     "lbl:longitude":34.900895,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.390723,
     "mps:longitude":34.900895,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Korenevo"
     ],
@@ -36,7 +39,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":130,
     "wof:belongsto":[
         85688011,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102005657,
-    "wof:lastmodified":1563241366,
+    "wof:lastmodified":1566615631,
     "wof:name":"Korenevo",
     "wof:parent_id":1108734585,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000426,
-    "geom:area_square_m":3250563.725731,
+    "geom:area_square_m":3250563.725733,
     "geom:bbox":"94.5621109009,51.8764457703,94.6039962769,51.8936958313",
     "geom:latitude":51.88552,
     "geom:longitude":94.587351,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.884133,
     "lbl:longitude":94.58775,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.884133,
     "mps:longitude":94.58775,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cherbi"
     ],
@@ -25,9 +28,6 @@
         "Tsjerbi"
     ],
     "name:rus_x_preferred":[
-        "\u0427\u0435\u0440\u0431\u0438"
-    ],
-    "name:unk_x_variant":[
         "\u0427\u0435\u0440\u0431\u0438"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688039,
         102191581,
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":102014339,
-    "wof:lastmodified":1501220063,
+    "wof:lastmodified":1566615091,
     "wof:name":"Cherbi",
     "wof:parent_id":1108734873,
     "wof:placetype":"locality",

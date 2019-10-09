@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":44.119585,
     "lbl:longitude":42.650289,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Stavropol'skij kraj",
     "meso:admin1r_en":"Severo-Kavkazskij federal'nyj okrug",
     "meso:admin_1":"\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":42.650289,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u041f\u0440\u0435\u0434\u0433\u043e\u0440\u043d\u0435\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -86,9 +89,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u0434\u0433\u0456\u0440\u043d\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041f\u0440\u0435\u0434\u0433\u043e\u0440\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Predgornyy"
     ],
@@ -96,7 +96,7 @@
         "\u666e\u5217\u5fb7\u6208\u723e\u5167\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687825,
@@ -120,7 +120,7 @@
         }
     ],
     "wof:id":1108735963,
-    "wof:lastmodified":1563256986,
+    "wof:lastmodified":1566627158,
     "wof:name":"Predgornyj",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

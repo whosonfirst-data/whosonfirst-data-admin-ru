@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":57.297574,
     "lbl:longitude":41.794583,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Ivanovskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":41.794583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Vichugskiy Rayon"
     ],
@@ -90,9 +93,6 @@
     "name:sco_x_preferred":[
         "Vichugsky Destrict"
     ],
-    "name:und_x_variant":[
-        "\u0412\u0438\u0447\u0443\u0433\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Vichugsky"
     ],
@@ -100,9 +100,9 @@
         "\u7ef4\u4e18\u52a0\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"998",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Vichuga",
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":1108737425,
-    "wof:lastmodified":1563257316,
+    "wof:lastmodified":1566627375,
     "wof:name":"Vichugskiy",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

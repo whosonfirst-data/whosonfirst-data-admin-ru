@@ -11,7 +11,7 @@
     "geom:longitude":127.993899,
     "gn:country":"RU",
     "gn:fcode":"ADM2",
-    "gn:pop":24987,
+    "gn:population":24987,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
         "Tambovskiy District"
@@ -33,6 +33,8 @@
     ],
     "lbl:latitude":50.064192,
     "lbl:longitude":128.029524,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Amurskaja oblast'",
     "meso:admin1r_en":"Dal'nevostochnyj federal'nyj okrug",
     "meso:admin_1":"\u0410\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -56,6 +58,7 @@
     "mps:longitude":128.029524,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Tambovskiy Rayon"
     ],
@@ -93,12 +96,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043c\u0431\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Tambovskiy Rayon"
-    ],
     "name:zho_x_preferred":[
         "\u5766\u6ce2\u592b\u5361\u533a"
     ],
@@ -110,9 +107,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2399",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Tambovka",
@@ -133,7 +130,7 @@
     "wof:concordances":{
         "gn:id":2015607,
         "hasc:id":"RU.AM.TA",
-        "qs:id":570871,
+        "qs_pg:id":570871,
         "wd:id":"Q1761129"
     },
     "wof:country":"RU",
@@ -149,7 +146,7 @@
         }
     ],
     "wof:id":890480829,
-    "wof:lastmodified":1563262987,
+    "wof:lastmodified":1566630953,
     "wof:name":"Tambovskiy",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

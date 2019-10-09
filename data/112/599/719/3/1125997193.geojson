@@ -9,15 +9,18 @@
     "geom:bbox":"45.19798,48.70233,45.19798,48.70233",
     "geom:latitude":48.70233,
     "geom:longitude":45.19798,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":15167,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":15167,
     "iso:country":"RU",
+    "lbl:bbox":"45.17798,48.68233,45.21798,48.72233",
     "lbl:latitude":48.70233,
     "lbl:longitude":45.19798,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0644\u0646\u064a\u0646\u0633\u0643"
@@ -109,7 +112,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u043d\u0456\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Leninskiy"
     ],
     "name:vep_x_preferred":[
@@ -141,7 +144,7 @@
     "qs_pg:woe_adm0":23424936,
     "qs_pg:woe_id":2035961,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424936,
     "woe:name_adm0":"Russia",
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":1125997193,
-    "wof:lastmodified":1563263123,
+    "wof:lastmodified":1566631018,
     "wof:name":"Leninskoye",
     "wof:parent_id":1108734913,
     "wof:placetype":"locality",

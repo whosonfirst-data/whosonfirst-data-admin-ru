@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":67.58737,
     "lbl:longitude":63.811553,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":67.58737,
     "mps:longitude":63.811553,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0631\u063a\u0627\u0634\u0648\u0631"
     ],
@@ -65,9 +68,6 @@
     "name:rus_x_preferred":[
         "\u0412\u043e\u0440\u0433\u0430\u0448\u043e\u0440"
     ],
-    "name:unk_x_variant":[
-        "Vorgashor"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043c\u0438",
     "qs:a1_lc":"1100000200300",
@@ -86,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688077,
@@ -99,7 +99,6 @@
     "wof:concordances":{
         "gn:id":1486913,
         "gp:id":2108059,
-        "qs:id":946166,
         "qs_pg:id":946166,
         "wd:id":"Q2032287"
     },
@@ -116,7 +115,7 @@
         }
     ],
     "wof:id":102002191,
-    "wof:lastmodified":1563241549,
+    "wof:lastmodified":1566615690,
     "wof:name":"Vorga-Shor",
     "wof:parent_id":890487129,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001346,
-    "geom:area_square_m":10246816.98064,
+    "geom:area_square_m":10246816.980644,
     "geom:bbox":"113.538360596,51.9815292358,113.606498718,52.0161933899",
     "geom:latitude":51.996304,
     "geom:longitude":113.569367,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.995672,
     "lbl:longitude":113.568833,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.995672,
     "mps:longitude":113.568833,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041f\u044f\u0441\u0447\u0430\u043d\u043a\u0430"
     ],
@@ -50,7 +53,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":846,
     "wof:belongsto":[
         85688005,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":102014615,
-    "wof:lastmodified":1527636671,
+    "wof:lastmodified":1566615126,
     "wof:name":"Peschanka",
     "wof:parent_id":1108733721,
     "wof:placetype":"locality",

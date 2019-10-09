@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"36.84667,56.44667,36.88667,56.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u043b\u0430\u0431\u0430\u0434\u0430"
     ],
@@ -88,10 +92,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043b\u043e\u0431\u043e\u0434\u0430"
     ],
-    "name:und_x_variant":[
-        "\u0421\u043b\u043e\u0431\u043e\u0434\u0430",
-        "Sloboda"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688161,
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":1309836279,
-    "wof:lastmodified":1564128064,
+    "wof:lastmodified":1566629903,
     "wof:name":"Sloboda",
     "wof:parent_id":890487039,
     "wof:placetype":"locality",

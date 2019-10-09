@@ -38,6 +38,7 @@
     ],
     "lbl:latitude":59.821127,
     "lbl:longitude":30.388194,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Saint Petersburg City",
     "meso:name_alt2":"Sankt-Peterburg",
     "meso:name_local":"\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
@@ -604,10 +605,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433"
     ],
-    "name:und_x_variant":[
-        "Sankt-Peterburg",
-        "Saint Petersburg City"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679 \u067e\u06cc\u0679\u0631\u0632 \u0628\u0631\u06af"
     ],
@@ -676,9 +673,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"570",
     "statoids:area_mi":"200",
     "statoids:as_of_date":"2010-10-14",
@@ -692,7 +689,6 @@
     "statoids:timezone":"+3",
     "statoids:type":"federal city",
     "unlc:subdivision":"RU-SPE",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191581,
         85632685,
@@ -745,7 +741,7 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734408,
+    "wof:lastmodified":1566618517,
     "wof:name":"Saint Petersburg",
     "wof:parent_id":85632685,
     "wof:placetype":"region",

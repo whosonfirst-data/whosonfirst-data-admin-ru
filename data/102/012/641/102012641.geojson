@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.905524,
     "lbl:longitude":85.251048,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.905524,
     "mps:longitude":85.251048,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Yi Yuk-sa"
     ],
@@ -55,7 +58,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":854,
     "wof:belongsto":[
         85687809,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":102012641,
-    "wof:lastmodified":1563239923,
+    "wof:lastmodified":1566615018,
     "wof:name":"Yuksa",
     "wof:parent_id":890483509,
     "wof:placetype":"locality",

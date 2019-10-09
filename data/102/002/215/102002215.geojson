@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":63.934421,
     "lbl:longitude":65.047503,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":63.934421,
     "mps:longitude":65.047503,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0648\u0632\u0648\u0641\u0648"
     ],
@@ -77,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0435\u0437\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sugmut-Vozh"
     ],
     "name:zho_x_preferred":[
@@ -99,7 +102,7 @@
     "qs:type":"\u043f\u0433\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1369,
     "wof:belongsto":[
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gn:id":1510214,
         "gp:id":2120278,
-        "qs:id":556311,
+        "qs_pg:id":556311,
         "wd:id":"Q820767"
     },
     "wof:country":"RU",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":102002215,
-    "wof:lastmodified":1563241578,
+    "wof:lastmodified":1566615698,
     "wof:name":"Berezovo",
     "wof:parent_id":1108732981,
     "wof:placetype":"locality",

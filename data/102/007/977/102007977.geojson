@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001156,
-    "geom:area_square_m":10067122.661237,
+    "geom:area_square_m":10067122.661235,
     "geom:bbox":"37.855304718,45.2030830383,37.9199714661,45.225692749",
     "geom:latitude":45.214663,
     "geom:longitude":37.886729,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.214036,
     "lbl:longitude":37.886729,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.214036,
     "mps:longitude":37.886729,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Anastasiyevskaya"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0410\u043d\u0430\u0441\u0442\u0430\u0441\u0438\u0435\u0432\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Anastasevskaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +52,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688029
+        85688029,
+        1108736647
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":582163,
         "gp:id":2120019,
-        "qs:id":125777,
         "qs_pg:id":125777
     },
     "wof:country":"RU",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102007977,
-    "wof:lastmodified":1505338929,
+    "wof:lastmodified":1566615166,
     "wof:name":"Anastasiyevskaya",
     "wof:parent_id":1108736647,
     "wof:placetype":"locality",

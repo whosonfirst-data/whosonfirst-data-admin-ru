@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":70.13459,
     "lbl:longitude":70.589495,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"JAmalo-Neneckij avtonomnyj okrug",
     "meso:admin1r_en":"Ural'skij federal'nyj okrug",
     "meso:admin_1":"\u042f\u043c\u0430\u043b\u043e-\u041d\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
@@ -53,6 +55,7 @@
     "mps:longitude":70.589495,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u042f\u043c\u0430\u043b\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -96,9 +99,6 @@
     "name:ukr_x_preferred":[
         "\u042f\u043c\u0430\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u042f\u043c\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Yamalsky"
     ],
@@ -106,7 +106,7 @@
         "\u4e9e\u99ac\u5229\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687931,
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1108734085,
-    "wof:lastmodified":1563256702,
+    "wof:lastmodified":1566626987,
     "wof:name":"Jamal'skiy",
     "wof:parent_id":85687931,
     "wof:placetype":"county",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.782423,
     "lbl:longitude":82.317011,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.782423,
     "mps:longitude":82.317011,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0421\u0443\u0437\u0443\u043d"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +91,6 @@
     "wof:concordances":{
         "gn:id":1490551,
         "gp:id":90566938,
-        "qs:id":132804,
         "qs_pg:id":132804
     },
     "wof:country":"RU",
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":102013215,
-    "wof:lastmodified":1564108713,
+    "wof:lastmodified":1566615069,
     "wof:name":"Suzun",
     "wof:parent_id":1108736863,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":59.003231,
     "lbl:longitude":52.417507,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":59.003231,
     "mps:longitude":52.417507,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Lesnyye Polyany"
     ],
@@ -24,9 +27,6 @@
         "Lesnye Poljany"
     ],
     "name:rus_x_preferred":[
-        "\u041b\u0435\u0441\u043d\u044b\u0435 \u041f\u043e\u043b\u044f\u043d\u044b"
-    ],
-    "name:unk_x_variant":[
         "\u041b\u0435\u0441\u043d\u044b\u0435 \u041f\u043e\u043b\u044f\u043d\u044b"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,18 +47,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687903
+        85687903,
+        1108735681
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":535678,
         "gp:id":2121910,
-        "qs:id":125217,
         "qs_pg:id":125217
     },
     "wof:country":"RU",
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102008231,
-    "wof:lastmodified":1505338930,
+    "wof:lastmodified":1566615293,
     "wof:name":"Lesnyye Polyany",
     "wof:parent_id":1108735681,
     "wof:placetype":"locality",

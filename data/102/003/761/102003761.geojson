@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.576784,
     "lbl:longitude":33.190494,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":54.576784,
     "mps:longitude":33.190494,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u064a\u064a\u0644\u0646\u064a\u0627"
     ],
@@ -121,7 +124,7 @@
     "name:ukr_x_preferred":[
         "\u0404\u043b\u044c\u043d\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Elna"
     ],
     "name:war_x_preferred":[
@@ -148,7 +151,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -160,7 +163,6 @@
     "wof:concordances":{
         "gn:id":467753,
         "gp:id":2112443,
-        "qs:id":878346,
         "qs_pg:id":878346,
         "wd:id":"Q102364",
         "wk:page":"Yelnya, Yelninsky District, Smolensk Oblast"
@@ -176,7 +178,7 @@
         }
     ],
     "wof:id":102003761,
-    "wof:lastmodified":1563241160,
+    "wof:lastmodified":1566615546,
     "wof:name":"Yelnya",
     "wof:parent_id":1108733477,
     "wof:placetype":"locality",

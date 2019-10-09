@@ -11,10 +11,14 @@
     "geom:longitude":30.75333,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":3060,
+    "gn:population":3060,
     "iso:country":"RU",
+    "lbl:bbox":"30.73333,55.72556,30.77333,55.76556",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041f\u0430\u0441\u0451\u043b\u0430\u043a \u0433\u0430\u0440\u0430\u0434\u0441\u043a\u043e\u0433\u0430 \u0442\u044b\u043f\u0443 \u0423\u0441\u0432\u044f\u0442\u044b"
     ],
@@ -63,7 +67,7 @@
     "name:srp_x_preferred":[
         "\u0423\u0441\u0432\u0458\u0430\u0442\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Usvyat"
     ],
     "qs:name":"Usvyaty",
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":477774,
         "gp:id":2124116,
-        "qs:id":987975,
+        "qs_pg:id":987975,
         "wd:id":"Q2625702",
         "wk:page":"Usvyaty"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":890479389,
-    "wof:lastmodified":1563262583,
+    "wof:lastmodified":1566630773,
     "wof:name":"Usvyaty",
     "wof:parent_id":1108737269,
     "wof:placetype":"locality",

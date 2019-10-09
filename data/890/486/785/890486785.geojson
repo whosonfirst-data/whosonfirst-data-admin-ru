@@ -11,11 +11,15 @@
     "geom:longitude":36.71667,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"36.69667,56.18,36.73667,56.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Troitskoye"
     ],
@@ -24,9 +28,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0440\u043e\u0438\u0446\u043a\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Troitskoye"
     ],
     "qs:name":"Troitskoe",
     "qs:name_adm0":"Russia",
@@ -47,7 +48,7 @@
     "wof:concordances":{
         "gn:id":481491,
         "gp:id":55875665,
-        "qs:id":207691
+        "qs_pg:id":207691
     },
     "wof:country":"RU",
     "wof:created":1469054635,
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":890486785,
-    "wof:lastmodified":1505343774,
+    "wof:lastmodified":1566630861,
     "wof:name":"Troitskoe",
     "wof:parent_id":890487039,
     "wof:placetype":"locality",

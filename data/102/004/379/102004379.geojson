@@ -9,14 +9,17 @@
     "geom:bbox":"43.3064613342,53.3169822693,43.3430747986,53.3375778198",
     "geom:latitude":53.328093,
     "geom:longitude":43.323432,
-    "geonames:id":"513308,513309",
+    "gn:id":"513308,513309",
     "iso:country":"RU",
     "lbl:latitude":53.327844,
     "lbl:longitude":43.323781,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.327844,
     "mps:longitude":43.323781,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pachelma"
     ],
@@ -36,7 +39,7 @@
     "qs:type":"\u0440\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":36,
     "wof:belongsto":[
         85687999,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102004379,
-    "wof:lastmodified":1563241262,
+    "wof:lastmodified":1566615585,
     "wof:name":"Pachelma",
     "wof:parent_id":1108735747,
     "wof:placetype":"locality",

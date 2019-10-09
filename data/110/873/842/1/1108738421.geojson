@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":48.047833,
     "lbl:longitude":40.159695,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Rostovskaja oblast'",
     "meso:admin1r_en":"JUzhnyj federal'nyj okrug",
     "meso:admin_1":"\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":40.159695,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0632\u0641\u064a\u0631\u064a\u0641\u0648"
     ],
@@ -137,9 +140,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u0432\u0454\u0440\u0435\u0432\u043e"
     ],
-    "name:und_x_variant":[
-        "\u0417\u0432\u0435\u0440\u0435\u0432\u043e"
-    ],
     "name:vie_x_preferred":[
         "Zverevo"
     ],
@@ -153,9 +153,9 @@
         "\u5179\u97e6\u5217\u6c83"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2110",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Krasnyy Sulin",
@@ -187,7 +187,7 @@
         }
     ],
     "wof:id":1108738421,
-    "wof:lastmodified":1564124388,
+    "wof:lastmodified":1566626930,
     "wof:name":"Zverevo",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

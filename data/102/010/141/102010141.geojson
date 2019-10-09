@@ -9,18 +9,21 @@
     "geom:bbox":"55.875831604,53.9800834656,55.9295005798,54.0318069458",
     "geom:latitude":54.008858,
     "geom:longitude":55.902571,
-    "geonames:id":"482432,491372",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":10183,
+    "gn:id":"482432,491372",
+    "gn:population":10183,
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:latitude":54.01514,
     "lbl:longitude":55.895456,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":54.01514,
     "mps:longitude":55.895456,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:deu_x_preferred":[
         "Tolbasy"
     ],
@@ -35,9 +38,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043b\u0431\u0430\u0437\u0438"
-    ],
-    "name:unk_x_variant":[
-        "\u0422\u043e\u043b\u0431\u0430\u0437\u044b"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d",
@@ -62,7 +62,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":38,
     "wof:belongsto":[
@@ -76,7 +76,7 @@
     "wof:concordances":{
         "gn:id":482432,
         "gp:id":2123921,
-        "qs:id":194589,
+        "qs_pg:id":194589,
         "wk:page":"Tolbazy"
     },
     "wof:country":"RU",
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":102010141,
-    "wof:lastmodified":1564109193,
+    "wof:lastmodified":1566615512,
     "wof:name":"Tolbazy",
     "wof:parent_id":1108732817,
     "wof:placetype":"locality",

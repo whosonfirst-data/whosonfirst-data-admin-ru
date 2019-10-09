@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":55.67148,
     "lbl:longitude":37.642374,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Moskva",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u041c\u043e\u0441\u043a\u0432\u0430",
@@ -53,6 +55,7 @@
     "mps:longitude":37.642374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nagatino-Sadovniki"
     ],
@@ -60,7 +63,7 @@
         "\u0440\u0430\u0439\u043e\u043d \u041d\u0430\u0433\u0430\u0442\u0438\u043d\u043e-\u0421\u0430\u0434\u043e\u0432\u043d\u0438\u043a\u0438"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688085,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108736161,
-    "wof:lastmodified":1561581979,
+    "wof:lastmodified":1566626962,
     "wof:name":"Nagatino-Sadovniki",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":61.820714,
     "lbl:longitude":130.541865,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Respublika Sakha (JAkutija)",
     "meso:admin1r_en":"Dal'nevostochnyj federal'nyj okrug",
     "meso:admin_1":"\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u0445\u0430 (\u042f\u043a\u0443\u0442\u0438\u044f)",
@@ -53,6 +55,7 @@
     "mps:longitude":130.541865,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041c\u0435\u0433\u0456\u043d\u0430-\u041a\u0430\u043d\u0434\u0430\u043b\u0430\u0441\u043a\u0456 \u045e\u043b\u0443\u0441"
     ],
@@ -105,16 +108,13 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0433\u0456\u043d\u043e-\u041a\u0430\u043d\u0433\u0430\u043b\u0430\u0441\u044c\u043a\u0438\u0439 \u0443\u043b\u0443\u0441"
     ],
-    "name:und_x_variant":[
-        "\u041c\u0435\u0433\u0438\u043d\u043e-\u041a\u0430\u043d\u0433\u0430\u043b\u0430\u0441\u0441\u043a\u0438\u0439 \u0443\u043b\u0443\u0441"
-    ],
     "name:vie_x_preferred":[
         "Megino-Kangalassky"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"10361",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Mayya",
@@ -148,7 +148,7 @@
         }
     ],
     "wof:id":1108735095,
-    "wof:lastmodified":1563256978,
+    "wof:lastmodified":1566627154,
     "wof:name":"Megino-Kangalasskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",

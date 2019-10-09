@@ -9,18 +9,21 @@
     "geom:bbox":"50.0152511597,58.6713066101,50.0478630066,58.6920280457",
     "geom:latitude":58.681724,
     "geom:longitude":50.031659,
-    "geonames:id":"477340,6268599",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":10330,
+    "gn:id":"477340,6268599",
+    "gn:population":10330,
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:latitude":58.682066,
     "lbl:longitude":50.031348,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":58.682066,
     "mps:longitude":50.031348,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0643\u0631\u0648\u0634\u064a"
     ],
@@ -51,7 +54,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0445\u0440\u0443\u0448\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vakhrushevo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -77,7 +80,7 @@
     "qs:type":"\u043f\u0433\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687903,
@@ -90,7 +93,7 @@
     "wof:concordances":{
         "gn:id":477340,
         "gp:id":2124139,
-        "qs:id":1116940
+        "qs_pg:id":1116940
     },
     "wof:country":"RU",
     "wof:geomhash":"7210e54a302fd0a1886985c249e64469",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":102008275,
-    "wof:lastmodified":1564108922,
+    "wof:lastmodified":1566615269,
     "wof:name":"Vakhrushi",
     "wof:parent_id":1108736659,
     "wof:placetype":"locality",

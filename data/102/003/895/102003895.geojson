@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.26713,
     "lbl:longitude":36.158874,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.26713,
     "mps:longitude":36.158874,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Peremyshl'"
     ],
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u0435\u043c\u0438\u0448\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Peremishl"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.263611,
     "wd:longitude":36.163056,
@@ -88,7 +91,6 @@
     "wof:concordances":{
         "gn:id":511400,
         "gp:id":2064070,
-        "qs:id":948613,
         "qs_pg:id":948613,
         "wd:id":"Q4350653",
         "wk:page":"Peremyshl, Russia"
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":102003895,
-    "wof:lastmodified":1563241109,
+    "wof:lastmodified":1566615529,
     "wof:name":"Peremyshl",
     "wof:parent_id":1108735801,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":73.54451,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"73.52451,55.23828,73.56451,55.27828",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Petrovka"
     ],
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Petrovskiy"
-    ],
     "qs:name":"Petrovka",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Omsk Oblast",
@@ -95,7 +96,7 @@
     "wof:concordances":{
         "gn:id":1495058,
         "gp:id":2065646,
-        "qs:id":1012937,
+        "qs_pg:id":1012937,
         "wk:page":"Petrovka"
     },
     "wof:country":"RU",
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":890483613,
-    "wof:lastmodified":1564129047,
+    "wof:lastmodified":1566630655,
     "wof:name":"Petrovka",
     "wof:parent_id":890480089,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":39.29098,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"39.27098,55.84445,39.31098,55.88445",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u0430\u0440\u043a\u0430\u0432\u0430"
     ],
@@ -58,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u043a\u043e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
-        "\u041c\u0430\u0440\u043a\u043e\u0432\u043e"
-    ],
     "qs:name":"Markovo",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Vladimir Oblast",
@@ -85,7 +86,7 @@
     "wof:concordances":{
         "gn:id":529121,
         "gp:id":2043314,
-        "qs:id":267293,
+        "qs_pg:id":267293,
         "wk:page":"Markovo"
     },
     "wof:country":"RU",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":890478101,
-    "wof:lastmodified":1564128895,
+    "wof:lastmodified":1566630503,
     "wof:name":"Markovo",
     "wof:parent_id":890480499,
     "wof:placetype":"locality",

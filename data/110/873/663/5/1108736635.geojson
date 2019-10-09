@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":53.808404,
     "lbl:longitude":39.550171,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Rjazanskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":39.550171,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0643\u0648\u0628\u064a\u0646"
     ],
@@ -143,9 +146,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043a\u043e\u043f\u0438\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0421\u043a\u043e\u043f\u0438\u043d"
-    ],
     "name:war_x_preferred":[
         "Skopin"
     ],
@@ -153,9 +153,9 @@
         "\u65af\u79d1\u5e73"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1726",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Skopin",
@@ -187,7 +187,7 @@
         }
     ],
     "wof:id":1108736635,
-    "wof:lastmodified":1564124541,
+    "wof:lastmodified":1566627248,
     "wof:name":"Skopin",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

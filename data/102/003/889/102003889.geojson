@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00058,
-    "geom:area_square_m":4187042.59629,
+    "geom:area_square_m":4187042.596288,
     "geom:bbox":"40.9245185852,54.2674789429,40.9600791931,54.2935752869",
     "geom:latitude":54.279779,
     "geom:longitude":40.943216,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.280057,
     "lbl:longitude":40.944655,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.280057,
     "mps:longitude":40.944655,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Timoshkino"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687963,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102003889,
-    "wof:lastmodified":1501214450,
+    "wof:lastmodified":1566615524,
     "wof:name":"Timoshkino",
     "wof:parent_id":1108736583,
     "wof:placetype":"locality",

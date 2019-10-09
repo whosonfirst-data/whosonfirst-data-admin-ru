@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000353,
-    "geom:area_square_m":2664930.252748,
+    "geom:area_square_m":2664930.252749,
     "geom:bbox":"51.8941955566,52.3011932373,51.9236373901,52.3209457397",
     "geom:latitude":52.310833,
     "geom:longitude":51.909389,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.312755,
     "lbl:longitude":51.908198,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.312755,
     "mps:longitude":51.908198,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Andreyevka"
     ],
@@ -25,9 +28,6 @@
         "Andrejevka"
     ],
     "name:rus_x_preferred":[
-        "\u0410\u043d\u0434\u0440\u0435\u0435\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0410\u043d\u0434\u0440\u0435\u0435\u0432\u043a\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2247,
     "wof:belongsto":[
         85688081,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":102010937,
-    "wof:lastmodified":1527637798,
+    "wof:lastmodified":1566615471,
     "wof:name":"Andreyevka",
     "wof:parent_id":1108734833,
     "wof:placetype":"locality",

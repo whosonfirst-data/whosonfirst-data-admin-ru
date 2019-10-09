@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.061433,
     "lbl:longitude":63.739614,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":57.061433,
     "mps:longitude":63.739614,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0644\u064a\u062a\u0633\u0627"
     ],
@@ -106,9 +109,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043b\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
-        "Talitsa"
-    ],
     "name:vep_x_preferred":[
         "Talic"
     ],
@@ -136,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -148,7 +148,6 @@
     "wof:concordances":{
         "gn:id":1490281,
         "gp:id":2097329,
-        "qs:id":370608,
         "qs_pg:id":370608,
         "wd:id":"Q196603",
         "wk:page":"Talitsa, Talitsky District, Sverdlovsk Oblast"
@@ -164,7 +163,7 @@
         }
     ],
     "wof:id":102011821,
-    "wof:lastmodified":1563240751,
+    "wof:lastmodified":1566615388,
     "wof:name":"Troitskiy Talitsa",
     "wof:parent_id":1108736925,
     "wof:placetype":"locality",

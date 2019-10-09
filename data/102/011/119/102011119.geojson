@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000616,
-    "geom:area_square_m":4729445.293528,
+    "geom:area_square_m":4729445.293527,
     "geom:bbox":"59.490196228,51.5813064575,59.525806427,51.6111679077",
     "geom:latitude":51.595641,
     "geom:longitude":59.506616,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.595629,
     "lbl:longitude":59.506616,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.595629,
     "mps:longitude":59.506616,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Terensay"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688081,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102011119,
-    "wof:lastmodified":1501214452,
+    "wof:lastmodified":1566615400,
     "wof:name":"Terensay",
     "wof:parent_id":1108732613,
     "wof:placetype":"locality",

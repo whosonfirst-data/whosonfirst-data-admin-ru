@@ -10,8 +10,10 @@
     "geom:latitude":55.602272,
     "geom:longitude":37.350947,
     "iso:country":"RU",
+    "lbl:bbox":"37.3459472533,55.5972717138,37.3559472533,55.6072717138",
     "lbl:latitude":55.602272,
     "lbl:longitude":37.350947,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -45,7 +47,7 @@
     "name:vie_x_preferred":[
         "Moskovsky"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85632685,
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1108942953,
-    "wof:lastmodified":1564124627,
+    "wof:lastmodified":1566627408,
     "wof:name":"Moskovsky",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

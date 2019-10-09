@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.993681,
     "lbl:longitude":79.535382,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.993681,
     "mps:longitude":79.535382,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Krasnoz\u00ebrskoye"
     ],
@@ -62,7 +65,7 @@
     "qs:type":"\u0440\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         85687925,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":102013177,
-    "wof:lastmodified":1563240061,
+    "wof:lastmodified":1566615082,
     "wof:name":"Krasnozerskoye",
     "wof:parent_id":1108734743,
     "wof:placetype":"locality",

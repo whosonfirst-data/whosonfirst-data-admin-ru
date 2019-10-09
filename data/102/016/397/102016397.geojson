@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000377,
-    "geom:area_square_m":3389790.745191,
+    "geom:area_square_m":3389790.74519,
     "geom:bbox":"43.6952857971,43.3179283142,43.7272605896,43.3403701782",
     "geom:latitude":43.328934,
     "geom:longitude":43.712529,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.329045,
     "lbl:longitude":43.712529,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.329045,
     "mps:longitude":43.712529,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zaragizh"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688089,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102016397,
-    "wof:lastmodified":1501214398,
+    "wof:lastmodified":1566615429,
     "wof:name":"Zaragizh",
     "wof:parent_id":1108733227,
     "wof:placetype":"locality",

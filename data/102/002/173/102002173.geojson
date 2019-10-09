@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":60.036226,
     "lbl:longitude":37.795857,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":60.036226,
     "mps:longitude":37.795857,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0648\u0632\u064a\u0631\u0633\u0643"
     ],
@@ -149,9 +152,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0454\u043b\u043e\u0437\u0435\u0440\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "Beloz\u00ebrsk"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0644\u0648\u0632\u0631\u0633\u06a9"
     ],
@@ -182,7 +182,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":60.033333,
     "wd:longitude":37.783333,
@@ -198,7 +198,6 @@
     "wof:concordances":{
         "gn:id":577711,
         "gp:id":2120239,
-        "qs:id":972355,
         "qs_pg:id":972355,
         "wd:id":"Q104764",
         "wk:page":"Belozersk"
@@ -216,7 +215,7 @@
         }
     ],
     "wof:id":102002173,
-    "wof:lastmodified":1563241515,
+    "wof:lastmodified":1566615682,
     "wof:name":"Belozersk",
     "wof:parent_id":890484519,
     "wof:placetype":"locality",

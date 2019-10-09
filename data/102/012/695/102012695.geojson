@@ -9,13 +9,15 @@
     "geom:bbox":"89.4865570068,56.1795539856,89.5636367798,56.2238883972",
     "geom:latitude":56.202448,
     "geom:longitude":89.528025,
-    "geonames:id":"1509852,1509853",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":23622,
+    "gn:id":"1509852,1509853",
+    "gn:population":23622,
     "iso:country":"RU",
     "lbl:latitude":56.204283,
     "lbl:longitude":89.528609,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":56.204283,
     "mps:longitude":89.528609,
     "mz:hierarchy_label":1,
@@ -117,7 +119,7 @@
     "name:tur_x_preferred":[
         "Bogotol"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Borotol"
     ],
     "name:vep_x_preferred":[
@@ -244,7 +246,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.2,
     "wd:longitude":89.516667,
@@ -260,7 +262,7 @@
     "wof:concordances":{
         "gn:id":1509852,
         "gp:id":1990742,
-        "qs:id":273974,
+        "qs_pg:id":273974,
         "wd:id":"Q105253",
         "wk:page":"Bogotol"
     },
@@ -277,7 +279,7 @@
         }
     ],
     "wof:id":102012695,
-    "wof:lastmodified":1563239878,
+    "wof:lastmodified":1566614999,
     "wof:name":"Bogotol",
     "wof:parent_id":1108733039,
     "wof:placetype":"locality",

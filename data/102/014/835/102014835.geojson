@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002598,
-    "geom:area_square_m":20319592.033339,
+    "geom:area_square_m":20319592.033326,
     "geom:bbox":"116.011611938,50.7359428406,116.106246948,50.7893333435",
     "geom:latitude":50.763631,
     "geom:longitude":116.056443,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.761391,
     "lbl:longitude":116.053217,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.761391,
     "mps:longitude":116.053217,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mirnaya"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0438\u0440\u043d\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Radost\u2019"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u043f/\u0441\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688005,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102014835,
-    "wof:lastmodified":1501225155,
+    "wof:lastmodified":1566615103,
     "wof:name":"Mirnaya",
     "wof:parent_id":1108735673,
     "wof:placetype":"locality",

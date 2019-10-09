@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":51.971167,
     "lbl:longitude":83.437168,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Altajskij kraj",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":83.437168,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u041a\u0430\u043b\u043c\u0430\u043d\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -81,9 +84,6 @@
     "name:rus_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u041a\u0430\u043b\u043c\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0423\u0441\u0442\u044c-\u041a\u0430\u043b\u043c\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Ust-Kalmansky"
     ],
@@ -91,9 +91,9 @@
         "\u70cf\u65af\u5b63-\u5361\u723e\u66fc\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2399",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Ust'-Kalmanka",
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":1108737239,
-    "wof:lastmodified":1563256870,
+    "wof:lastmodified":1566627090,
     "wof:name":"Ust'-Kalmanskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

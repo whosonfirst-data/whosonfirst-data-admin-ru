@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001184,
-    "geom:area_square_m":8276047.561088,
+    "geom:area_square_m":8276047.561089,
     "geom:bbox":"62.0455818176,55.5542221069,62.1158332825,55.5853881836",
     "geom:latitude":55.571221,
     "geom:longitude":62.078434,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.570999,
     "lbl:longitude":62.077902,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.570999,
     "mps:longitude":62.077902,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Brodokalmak"
     ],
@@ -26,7 +29,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0440\u043e\u0434\u043e\u043a\u0430\u043b\u043c\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brodokamlak"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,18 +50,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687791
+        85687791,
+        1108734661
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1508802,
         "gp:id":2120407,
-        "qs:id":370732,
         "qs_pg:id":370732
     },
     "wof:country":"RU",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102012211,
-    "wof:lastmodified":1505338939,
+    "wof:lastmodified":1566614987,
     "wof:name":"Brodokalmak",
     "wof:parent_id":1108734661,
     "wof:placetype":"locality",

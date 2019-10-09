@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.630858,
     "lbl:longitude":41.93822,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.630858,
     "mps:longitude":41.93822,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0632\u0648\u0628\u0627\u0633\u0646\u0648\u064a\u064a\u060c \u0633\u062a\u0627\u0641\u0631\u0648\u0628\u0648\u0644"
     ],
@@ -43,9 +46,6 @@
     "name:rus_x_preferred":[
         "\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0435"
     ],
-    "name:unk_x_variant":[
-        "\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0435"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
     "qs:a1_lc":"2602500000200",
@@ -64,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":45.637629,
     "wd:longitude":41.935797,
@@ -79,7 +79,6 @@
     "wof:concordances":{
         "gn:id":576519,
         "gp:id":2120294,
-        "qs:id":194483,
         "qs_pg:id":194483,
         "wd:id":"Q3335259",
         "wk:page":"Bezopasnoye"
@@ -95,7 +94,7 @@
         }
     ],
     "wof:id":102007741,
-    "wof:lastmodified":1563240244,
+    "wof:lastmodified":1566615173,
     "wof:name":"Bezopasnoye",
     "wof:parent_id":1108737095,
     "wof:placetype":"locality",

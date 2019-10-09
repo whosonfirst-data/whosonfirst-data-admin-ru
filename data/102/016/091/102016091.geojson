@@ -9,18 +9,21 @@
     "geom:bbox":"40.765335083,44.084526062,40.8157501221,44.1292228699",
     "geom:latitude":44.106947,
     "geom:longitude":40.788002,
-    "geonames:id":"839862,504391",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":10700,
+    "gn:id":"839862,504391",
+    "gn:population":10700,
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:latitude":44.105872,
     "lbl:longitude":40.788002,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":44.105872,
     "mps:longitude":40.788002,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u041f\u0441\u0435\u0431\u0430\u0439"
     ],
@@ -54,7 +57,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0441\u0435\u0431\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Isebay"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -80,7 +83,7 @@
     "qs:type":"\u043f\u0433\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688029,
@@ -93,7 +96,7 @@
     "wof:concordances":{
         "gn:id":504391,
         "gp:id":2123060,
-        "qs:id":354103
+        "qs_pg:id":354103
     },
     "wof:country":"RU",
     "wof:geomhash":"03c9a85b6b41f12bdb8f0e350244ca44",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":102016091,
-    "wof:lastmodified":1564109104,
+    "wof:lastmodified":1566615436,
     "wof:name":"Psebay",
     "wof:parent_id":890484187,
     "wof:placetype":"locality",

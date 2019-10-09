@@ -11,8 +11,11 @@
     "geom:longitude":133.38976,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":1388,
+    "gn:population":1388,
     "iso:country":"RU",
+    "lbl:bbox":"133.36976,67.53387,133.40976,67.57387",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -172,9 +175,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043e\u044f\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "Verkhoiansk"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0631\u062e\u0648\u06cc\u0627\u0646\u0633\u06a9"
     ],
@@ -298,7 +298,7 @@
     "wof:concordances":{
         "gn:id":2013465,
         "gp:id":90601878,
-        "qs:id":137410,
+        "qs_pg:id":137410,
         "wd:id":"Q133057",
         "wk:page":"Verkhoyansk"
     },
@@ -316,7 +316,7 @@
         }
     ],
     "wof:id":890479177,
-    "wof:lastmodified":1563262584,
+    "wof:lastmodified":1566630773,
     "wof:name":"Verkhoyansk",
     "wof:parent_id":1108737367,
     "wof:placetype":"locality",

@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":55.392167,
     "lbl:longitude":64.194128,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Kurgan",
     "meso:name_alt2":"Kurganskaja oblast'",
     "meso:name_local":"\u041a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -154,13 +155,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0440\u0433\u0430\u043d"
     ],
-    "name:und_x_variant":[
-        "Kurganskaja oblast'",
-        "Kurgan"
-    ],
-    "name:unk_x_variant":[
-        "Kurgan"
-    ],
     "name:uzb_x_preferred":[
         "Mozorqo\u02bbrg\u02bbon"
     ],
@@ -236,9 +230,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"71,000",
     "statoids:area_mi":"27,400",
     "statoids:as_of_date":"2010-10-14",
@@ -300,11 +294,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734416,
+    "wof:lastmodified":1566618533,
     "wof:name":"Kurgan",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":910807,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-ru",

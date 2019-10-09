@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.276678,
     "lbl:longitude":92.393362,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.276678,
     "mps:longitude":92.393362,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "Jermakovsk\u00fd raj\u00f3n"
     ],
@@ -61,7 +64,7 @@
     "name:srp_x_preferred":[
         "\u0408\u0435\u0440\u043c\u0430\u043a\u043e\u0432\u0441\u043a\u0438 \u0440\u0435\u0458\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yermakovskoe"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":985,
     "wof:belongsto":[
@@ -102,7 +105,6 @@
     "wof:concordances":{
         "gn:id":1485904,
         "gp:id":2113384,
-        "qs:id":263338,
         "qs_pg:id":263338,
         "wd:id":"Q2109898"
     },
@@ -119,7 +121,7 @@
         }
     ],
     "wof:id":102014229,
-    "wof:lastmodified":1563240087,
+    "wof:lastmodified":1566615093,
     "wof:name":"Yermakovskoye",
     "wof:parent_id":890482623,
     "wof:placetype":"locality",

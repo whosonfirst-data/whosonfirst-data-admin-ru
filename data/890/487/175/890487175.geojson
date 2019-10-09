@@ -11,11 +11,15 @@
     "geom:longitude":37.25998,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"37.23998,55.60395,37.27998,55.64395",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Izvaryne"
     ],
@@ -46,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u0437\u0432\u0430\u0440\u0438\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "\u0418\u0437\u0432\u0430\u0440\u0438\u043d\u043e"
-    ],
     "name:zho_x_preferred":[
         "\u4f0a\u8332\u74e6\u91cc\u6d85"
     ],
@@ -77,7 +78,7 @@
     "wof:concordances":{
         "gn:id":819561,
         "gp:id":2014302,
-        "qs:id":1187894,
+        "qs_pg:id":1187894,
         "wk:page":"Izvaryne"
     },
     "wof:country":"RU",
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":890487175,
-    "wof:lastmodified":1564129297,
+    "wof:lastmodified":1566630916,
     "wof:name":"Izvarino",
     "wof:parent_id":1108735435,
     "wof:placetype":"locality",

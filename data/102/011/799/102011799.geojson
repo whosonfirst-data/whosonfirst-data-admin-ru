@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001082,
-    "geom:area_square_m":7233021.295471,
+    "geom:area_square_m":7233021.295468,
     "geom:bbox":"61.9804458618,57.2591094971,62.0233879089,57.2985839844",
     "geom:latitude":57.278166,
     "geom:longitude":61.998703,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.278996,
     "lbl:longitude":61.998703,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":57.278996,
     "mps:longitude":61.998703,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Bulanash"
     ],
@@ -26,9 +29,6 @@
         "Bulanasj"
     ],
     "name:rus_x_preferred":[
-        "\u0411\u0443\u043b\u0430\u043d\u0430\u0448"
-    ],
-    "name:unk_x_variant":[
         "\u0411\u0443\u043b\u0430\u043d\u0430\u0448"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +49,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688183
+        85688183,
+        1108732791
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1508715,
         "gp:id":2120426,
-        "qs:id":556302,
         "qs_pg:id":556302
     },
     "wof:country":"RU",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":102011799,
-    "wof:lastmodified":1505338938,
+    "wof:lastmodified":1566615380,
     "wof:name":"Bulanash",
     "wof:parent_id":1108732791,
     "wof:placetype":"locality",

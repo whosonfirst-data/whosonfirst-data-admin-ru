@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":48.508957,
     "lbl:longitude":134.919367,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.508957,
     "mps:longitude":134.919367,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Pokrovka"
     ],
@@ -64,7 +67,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043a\u0440\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Povrovka"
     ],
     "name:zho_x_preferred":[
@@ -86,7 +89,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":94,
     "wof:belongsto":[
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":2017648,
         "gp:id":2070895,
-        "qs:id":344732
+        "qs_pg:id":344732
     },
     "wof:country":"RU",
     "wof:geomhash":"5e310383a5138b00b1d853af24fd19fc",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":102015239,
-    "wof:lastmodified":1564108605,
+    "wof:lastmodified":1566614971,
     "wof:name":"Pokrovka",
     "wof:parent_id":890481655,
     "wof:placetype":"locality",

@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.381919,
     "lbl:longitude":35.748425,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.381919,
     "mps:longitude":35.748425,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Babynino"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u0431\u044b\u043d\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Babinino"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":85,
     "wof:belongsto":[
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":579838,
         "gp:id":2120134,
-        "qs:id":125761,
         "qs_pg:id":125761,
         "wd:id":"Q4838539"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":102003843,
-    "wof:lastmodified":1527637834,
+    "wof:lastmodified":1566615527,
     "wof:name":"Babynino",
     "wof:parent_id":1108732837,
     "wof:placetype":"locality",

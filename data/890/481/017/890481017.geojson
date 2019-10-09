@@ -11,10 +11,14 @@
     "geom:longitude":51.1,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":6015,
+    "gn:population":6015,
     "iso:country":"RU",
+    "lbl:bbox":"51.08,54.41333,51.12,54.45333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u0427\u0435\u043b\u043d\u043e-\u0412\u0435\u0440\u0448\u0438\u043d\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -51,9 +55,6 @@
     "name:tat_x_preferred":[
         "\u0427\u0430\u043b\u043b\u044b\u0431\u0430\u0448 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
-    "name:unk_x_variant":[
-        "\u0427\u0435\u043b\u043d\u043e-\u0412\u0435\u0440\u0448\u0438\u043d\u044b"
-    ],
     "name:vie_x_preferred":[
         "Chelno-Vershinsky"
     ],
@@ -77,7 +78,7 @@
     "wof:concordances":{
         "gn:id":569497,
         "gp:id":1997401,
-        "qs:id":845103,
+        "qs_pg:id":845103,
         "wd:id":"Q2636705",
         "wk:page":"Chelno-Vershinsky District"
     },
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":890481017,
-    "wof:lastmodified":1563262688,
+    "wof:lastmodified":1566630823,
     "wof:name":"Chelno-Vershiny",
     "wof:parent_id":1108733219,
     "wof:placetype":"locality",

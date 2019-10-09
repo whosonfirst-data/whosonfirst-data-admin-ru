@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"42.81225,53.9398,42.85225,53.9798",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mordovskaya Polyana"
     ],
@@ -33,10 +37,6 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u0440\u0434\u043e\u0432\u0441\u043a\u0430\u044f \u041f\u043e\u043b\u044f\u043d\u0430"
-    ],
-    "name:und_x_variant":[
-        "\u041c\u043e\u0440\u0434\u043e\u0432\u0441\u043a\u0430\u044f \u041f\u043e\u043b\u044f\u043d\u0430",
-        "Mordovskaya Polyana"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":1343476021,
-    "wof:lastmodified":1537687883,
+    "wof:lastmodified":1566617181,
     "wof:name":"Mordovskaya Polyana",
     "wof:parent_id":1108738373,
     "wof:placetype":"locality",

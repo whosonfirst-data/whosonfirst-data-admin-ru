@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000363,
-    "geom:area_square_m":2459720.436699,
+    "geom:area_square_m":2459720.436698,
     "geom:bbox":"56.6893043518,56.707359314,56.7163887024,56.7315292358",
     "geom:latitude":56.719293,
     "geom:longitude":56.702677,
     "iso:country":"RU",
     "lbl:latitude":56.720361,
     "lbl:longitude":56.701344,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.720361,
     "mps:longitude":56.701344,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Urazmet'yevo"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u0423\u0440\u0430\u0437\u043c\u0435\u0442\u044c\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Urazmet\u2019yeva"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687975,
         102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102008793,
-    "wof:lastmodified":1501214437,
+    "wof:lastmodified":1566615284,
     "wof:name":"Urazmetyevo",
     "wof:parent_id":1108735635,
     "wof:placetype":"locality",

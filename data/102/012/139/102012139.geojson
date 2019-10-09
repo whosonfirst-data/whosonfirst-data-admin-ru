@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000395,
-    "geom:area_square_m":2741001.200714,
+    "geom:area_square_m":2741001.200712,
     "geom:bbox":"62.0418052673,55.8031959534,62.0678329468,55.8324165344",
     "geom:latitude":55.817777,
     "geom:longitude":62.05753,
     "iso:country":"RU",
     "lbl:latitude":55.811192,
     "lbl:longitude":62.058418,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.811192,
     "mps:longitude":62.058418,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kirdy"
     ],
@@ -23,9 +26,6 @@
         "Kirdy"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0438\u0440\u0434\u044b"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0438\u0440\u0434\u044b"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687791,
         102191581,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":102012139,
-    "wof:lastmodified":1501220049,
+    "wof:lastmodified":1566615011,
     "wof:name":"Kirdy",
     "wof:parent_id":1108734661,
     "wof:placetype":"locality",

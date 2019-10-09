@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":56.118736,
     "lbl:longitude":101.184236,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":56.118736,
     "mps:longitude":101.184236,
     "mz:hierarchy_label":1,
@@ -247,7 +249,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.116667,
     "wd:longitude":101.166667,
@@ -263,7 +265,6 @@
     "wof:concordances":{
         "gn:id":2013399,
         "gp:id":2124266,
-        "qs:id":194603,
         "qs_pg:id":194603,
         "wd:id":"Q133099",
         "wk:page":"Vikhorevka"
@@ -281,7 +282,7 @@
         }
     ],
     "wof:id":102013931,
-    "wof:lastmodified":1563239957,
+    "wof:lastmodified":1566615033,
     "wof:name":"Vikhorevka",
     "wof:parent_id":890484113,
     "wof:placetype":"locality",

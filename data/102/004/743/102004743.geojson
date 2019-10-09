@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.630893,
     "lbl:longitude":38.269315,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.630893,
     "mps:longitude":38.269315,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kazaki"
     ],
@@ -43,7 +46,7 @@
     "name:tat_x_preferred":[
         "\u041a\u0430\u0437\u0430\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kagaki"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.633333,
     "wd:longitude":38.271944,
@@ -79,7 +82,6 @@
     "wof:concordances":{
         "gn:id":551535,
         "gp:id":2027702,
-        "qs:id":276026,
         "qs_pg:id":276026,
         "wd:id":"Q4207525",
         "wk:page":"Kazaki"
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":102004743,
-    "wof:lastmodified":1563241320,
+    "wof:lastmodified":1566615607,
     "wof:name":"Kazaki",
     "wof:parent_id":1108733485,
     "wof:placetype":"locality",

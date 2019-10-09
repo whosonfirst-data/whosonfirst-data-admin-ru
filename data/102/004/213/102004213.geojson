@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.691085,
     "lbl:longitude":33.511098,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.691085,
     "mps:longitude":33.511098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Dubrovka"
     ],
@@ -214,9 +217,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0443\u0431\u0440\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u0414\u0443\u0431\u0440\u043e\u0432\u043a\u0430"
-    ],
     "name:urd_x_preferred":[
         "\u062f\u0628\u0631\u0648\u0641\u06a9\u0627"
     ],
@@ -259,7 +259,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":43,
     "wof:belongsto":[
@@ -272,7 +272,6 @@
     "wof:concordances":{
         "gn:id":564487,
         "gp:id":2120720,
-        "qs:id":276037,
         "qs_pg:id":276037,
         "wd:id":"Q1965217"
     },
@@ -287,7 +286,7 @@
         }
     ],
     "wof:id":102004213,
-    "wof:lastmodified":1563241302,
+    "wof:lastmodified":1566615600,
     "wof:name":"Dubrovka",
     "wof:parent_id":1108733423,
     "wof:placetype":"locality",

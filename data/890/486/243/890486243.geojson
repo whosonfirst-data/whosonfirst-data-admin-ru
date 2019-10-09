@@ -11,11 +11,15 @@
     "geom:longitude":30.45204,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":4977,
+    "gn:population":4977,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"30.43204,60.02796,30.47204,60.06796",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fin_x_preferred":[
         "Muurola"
     ],
@@ -23,9 +27,6 @@
         "Murino"
     ],
     "name:rus_x_preferred":[
-        "\u041c\u0443\u0440\u0438\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u041c\u0443\u0440\u0438\u043d\u043e"
     ],
     "qs:name":"Murino",
@@ -51,7 +52,7 @@
     "wof:concordances":{
         "gn:id":524311,
         "gp:id":2048827,
-        "qs:id":184004
+        "qs_pg:id":184004
     },
     "wof:country":"RU",
     "wof:created":1469054598,
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":890486243,
-    "wof:lastmodified":1505343771,
+    "wof:lastmodified":1566630850,
     "wof:name":"Murino",
     "wof:parent_id":890480071,
     "wof:placetype":"locality",

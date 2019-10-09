@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00126,
-    "geom:area_square_m":9927231.330009,
+    "geom:area_square_m":9927231.330008,
     "geom:bbox":"38.0552787781,50.408416748,38.1131095886,50.4504165649",
     "geom:latitude":50.428748,
     "geom:longitude":38.086083,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.425901,
     "lbl:longitude":38.086522,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.425901,
     "mps:longitude":38.086522,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Foshchevatovo"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0424\u043e\u0449\u0435\u0432\u0430\u0442\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fashchevatova"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687813,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102006329,
-    "wof:lastmodified":1501214741,
+    "wof:lastmodified":1566615374,
     "wof:name":"Foshchevatovo",
     "wof:parent_id":890487749,
     "wof:placetype":"locality",

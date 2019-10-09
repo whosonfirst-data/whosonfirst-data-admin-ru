@@ -11,11 +11,15 @@
     "geom:longitude":30.95,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":3200,
+    "gn:population":3200,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"30.93,61.78,30.97,61.82",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Kharlu"
     ],
@@ -40,9 +44,6 @@
     "name:rus_x_preferred":[
         "\u0425\u0430\u0440\u043b\u0443"
     ],
-    "name:unk_x_variant":[
-        "\u0425\u0430\u0440\u043b\u0443"
-    ],
     "qs:name":"Kharlu",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Karelia Republic",
@@ -64,7 +65,7 @@
     "wof:concordances":{
         "gn:id":550516,
         "gp:id":2121323,
-        "qs:id":1221941,
+        "qs_pg:id":1221941,
         "wd:id":"Q3433993"
     },
     "wof:country":"RU",
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":890486651,
-    "wof:lastmodified":1563262750,
+    "wof:lastmodified":1566630853,
     "wof:name":"Kharlu",
     "wof:parent_id":1108735879,
     "wof:placetype":"locality",

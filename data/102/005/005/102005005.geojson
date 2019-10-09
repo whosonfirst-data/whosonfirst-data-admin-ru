@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.25612,
     "lbl:longitude":43.799938,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.25612,
     "mps:longitude":43.799938,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0631\u062a\u064a\u0634\u062a\u0634\u064a\u0641\u0648"
     ],
@@ -146,9 +149,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0442\u0438\u0449\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Rtischtschewo"
-    ],
     "name:vie_x_preferred":[
         "Rtishchevo"
     ],
@@ -179,7 +179,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.25,
     "wd:longitude":43.783333,
@@ -194,10 +194,12 @@
     "wof:concordances":{
         "gn:id":484034,
         "gp:id":2123189,
-        "qs:id":124916,
-        "qs_pg:id":1152387,
+        "qs_pg:id":124916,
         "wd:id":"Q193371",
         "wk:page":"Rtishchevo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1152387
     },
     "wof:country":"RU",
     "wof:geomhash":"12256ef802f2768e95df941d0cd0c166",
@@ -210,7 +212,7 @@
         }
     ],
     "wof:id":102005005,
-    "wof:lastmodified":1563241411,
+    "wof:lastmodified":1566615652,
     "wof:name":"Rtishchevo",
     "wof:parent_id":1108736319,
     "wof:placetype":"locality",

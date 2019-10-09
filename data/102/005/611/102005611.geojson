@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002483,
-    "geom:area_square_m":19132569.629932,
+    "geom:area_square_m":19132569.629941,
     "geom:bbox":"40.9143600464,51.4038887024,40.9708061218,51.4850006104",
     "geom:latitude":51.446108,
     "geom:longitude":40.946444,
     "iso:country":"RU",
     "lbl:latitude":51.447592,
     "lbl:longitude":40.946872,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.447592,
     "mps:longitude":40.946872,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Arkhangel'skoye"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Archangelskoje"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":86,
     "wof:belongsto":[
         85688051,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":102005611,
-    "wof:lastmodified":1527637958,
+    "wof:lastmodified":1566615625,
     "wof:name":"Arkhangelskoye",
     "wof:parent_id":1108732737,
     "wof:placetype":"locality",

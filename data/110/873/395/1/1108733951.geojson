@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":48.049005,
     "lbl:longitude":39.942645,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Rostovskaja oblast'",
     "meso:admin1r_en":"JUzhnyj federal'nyj okrug",
     "meso:admin_1":"\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":39.942645,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u063a\u0648\u0643\u0648\u0641\u0648"
     ],
@@ -164,9 +167,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0443\u043a\u043e\u0432\u043e"
     ],
-    "name:und_x_variant":[
-        "\u0413\u0443\u043a\u043e\u0432\u043e"
-    ],
     "name:vie_x_preferred":[
         "Gukovo"
     ],
@@ -180,9 +180,9 @@
         "\u53e4\u79d1\u6c83"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"46",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Gukovo",
@@ -214,7 +214,7 @@
         }
     ],
     "wof:id":1108733951,
-    "wof:lastmodified":1564124480,
+    "wof:lastmodified":1566627114,
     "wof:name":"Gukovo",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

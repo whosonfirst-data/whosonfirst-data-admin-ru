@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":59.105875,
     "lbl:longitude":28.15042,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":59.105875,
     "mps:longitude":28.15042,
     "mz:hierarchy_label":1,
@@ -144,7 +146,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043b\u0430\u043d\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Olantsy"
     ],
     "name:vep_x_preferred":[
@@ -266,7 +268,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -293,7 +295,7 @@
         }
     ],
     "wof:id":102002403,
-    "wof:lastmodified":1563241620,
+    "wof:lastmodified":1566615709,
     "wof:name":"Slantsy",
     "wof:parent_id":1108736641,
     "wof:placetype":"locality",

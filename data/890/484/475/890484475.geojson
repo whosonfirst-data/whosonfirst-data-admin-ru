@@ -11,8 +11,12 @@
     "geom:longitude":53.20301,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"53.18301,56.832494,53.22301,56.872494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Izjefsk"
     ],
@@ -292,7 +296,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0436\u0435\u0432\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ishewsk"
     ],
     "name:urd_x_preferred":[
@@ -353,10 +357,12 @@
     "wof:concordances":{
         "gn:id":554840,
         "gp:id":2014199,
-        "qs:id":1123028,
         "qs_pg:id":307480,
         "wd:id":"Q5426",
         "wk:page":"Izhevsk"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1123028
     },
     "wof:country":"RU",
     "wof:created":1469054514,
@@ -372,7 +378,7 @@
         }
     ],
     "wof:id":890484475,
-    "wof:lastmodified":1563262431,
+    "wof:lastmodified":1566630707,
     "wof:name":"Izhevsk",
     "wof:parent_id":890487227,
     "wof:placetype":"locality",

@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":45.168558,
     "lbl:longitude":37.171147,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Krasnodarskij kraj",
     "meso:admin1r_en":"JUzhnyj federal'nyj okrug",
     "meso:admin_1":"\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":37.171147,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u0422\u0435\u043c\u0440\u044e\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -99,9 +102,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043c\u0440\u044e\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0422\u0435\u043c\u0440\u044e\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Temryuksky"
     ],
@@ -109,7 +109,7 @@
         "\u6377\u59c6\u7559\u514b\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688029,
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1108736977,
-    "wof:lastmodified":1563257143,
+    "wof:lastmodified":1566627247,
     "wof:name":"Temrjukskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

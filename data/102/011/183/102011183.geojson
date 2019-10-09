@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.38325,
     "lbl:longitude":46.845589,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.38325,
     "mps:longitude":46.845589,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Stepnoye"
     ],
@@ -31,7 +34,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0442\u0435\u043f\u043d\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Otrogovo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1956,
     "wof:belongsto":[
@@ -66,7 +69,6 @@
     "wof:concordances":{
         "gn:id":487543,
         "gp:id":2123695,
-        "qs:id":124814,
         "qs_pg:id":124814,
         "wd:id":"Q7611061"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":102011183,
-    "wof:lastmodified":1563240845,
+    "wof:lastmodified":1566615420,
     "wof:name":"Stepnoye",
     "wof:parent_id":890480491,
     "wof:placetype":"locality",

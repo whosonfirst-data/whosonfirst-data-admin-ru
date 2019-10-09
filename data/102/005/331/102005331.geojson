@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00063,
-    "geom:area_square_m":4818090.950508,
+    "geom:area_square_m":4818090.950504,
     "geom:bbox":"44.504650116,51.7797851562,44.5704345703,51.7996673584",
     "geom:latitude":51.78831,
     "geom:longitude":44.539646,
     "iso:country":"RU",
     "lbl:latitude":51.787948,
     "lbl:longitude":44.536406,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.787948,
     "mps:longitude":44.536406,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vyazhlya"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u0412\u044f\u0436\u043b\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vyazhlinskiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687995,
         102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102005331,
-    "wof:lastmodified":1501214413,
+    "wof:lastmodified":1566615615,
     "wof:name":"Vyazhlya",
     "wof:parent_id":1108732811,
     "wof:placetype":"locality",

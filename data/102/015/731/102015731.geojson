@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.823272,
     "lbl:longitude":44.648744,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":44.823272,
     "mps:longitude":44.648744,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:che_x_preferred":[
         "\u041b\u0435\u0432\u043e\u043a\u0443\u043c\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -61,9 +64,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0454\u0432\u043e\u043a\u0443\u043c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "\u041b\u0435\u0432\u043e\u043a\u0443\u043c\u0441\u043a\u043e\u0435"
-    ],
     "name:vie_x_preferred":[
         "Levokumsky"
     ],
@@ -88,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1030,
     "wof:belongsto":[
@@ -101,7 +101,6 @@
     "wof:concordances":{
         "gn:id":535438,
         "gp:id":2121924,
-        "qs:id":549572,
         "qs_pg:id":549572,
         "wd:id":"Q1255230"
     },
@@ -116,7 +115,7 @@
         }
     ],
     "wof:id":102015731,
-    "wof:lastmodified":1563239714,
+    "wof:lastmodified":1566614930,
     "wof:name":"Levokumskoye",
     "wof:parent_id":1108734941,
     "wof:placetype":"locality",

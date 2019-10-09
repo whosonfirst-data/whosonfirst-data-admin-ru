@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000258,
-    "geom:area_square_m":1825414.690413,
+    "geom:area_square_m":1825414.690414,
     "geom:bbox":"50.1669998169,55.1519737244,50.1933059692,55.169418335",
     "geom:latitude":55.160856,
     "geom:longitude":50.179522,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.160169,
     "lbl:longitude":50.178625,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.160169,
     "mps:longitude":50.178625,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sredniye Tigany"
     ],
@@ -25,9 +28,6 @@
         "Srednije Tigany"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u0440\u0435\u0434\u043d\u0438\u0435 \u0422\u0438\u0433\u0430\u043d\u044b"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u0440\u0435\u0434\u043d\u0438\u0435 \u0422\u0438\u0433\u0430\u043d\u044b"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688065,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102009351,
-    "wof:lastmodified":1501214475,
+    "wof:lastmodified":1566615234,
     "wof:name":"Sredniye Tigany",
     "wof:parent_id":1108732701,
     "wof:placetype":"locality",

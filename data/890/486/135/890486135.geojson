@@ -11,11 +11,15 @@
     "geom:longitude":84.63139,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"84.61139,53.19806,84.65139,53.23806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u0441\u0456\u0445\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -61,9 +65,6 @@
     "name:rus_x_variant":[
         "\u041a\u043e\u0441\u0438\u0445\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "\u041f\u043e\u043b\u043a\u043e\u0432\u043d\u0438\u043a\u043e\u0432\u043e"
-    ],
     "name:vie_x_preferred":[
         "Kosikhinsky"
     ],
@@ -92,7 +93,7 @@
     "wof:concordances":{
         "gn:id":1494559,
         "gp:id":2068969,
-        "qs:id":297909,
+        "qs_pg:id":297909,
         "wd:id":"Q1654174",
         "wk:page":"Kosikhinsky District"
     },
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":890486135,
-    "wof:lastmodified":1563262717,
+    "wof:lastmodified":1566630838,
     "wof:name":"Polkovnikovo",
     "wof:parent_id":1108734607,
     "wof:placetype":"locality",

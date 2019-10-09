@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"29.55241,56.60955,29.59241,56.64955",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u043e\u043d\u0456\u043d\u0430"
     ],
@@ -58,10 +62,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0456\u043d\u043e"
     ],
-    "name:und_x_variant":[
-        "\u041c\u043e\u043d\u0438\u043d\u043e",
-        "Monino"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688167,
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1293126447,
-    "wof:lastmodified":1564113807,
+    "wof:lastmodified":1566619472,
     "wof:name":"Monino",
     "wof:parent_id":1108735545,
     "wof:placetype":"locality",

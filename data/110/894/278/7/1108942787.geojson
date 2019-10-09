@@ -11,10 +11,12 @@
     "geom:longitude":37.751934,
     "gn:country":"RU",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"RU",
+    "lbl:bbox":"37.7469341265,55.8217675605,37.7569341265,55.8317675605",
     "lbl:latitude":55.826768,
     "lbl:longitude":37.751934,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -54,10 +56,10 @@
     "name:rus_x_variant":[
         "\u041c\u0435\u0442\u0440\u043e\u0433\u043e\u0440\u043e\u0434\u043e\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pos\u00eblok Metrostroya"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +72,7 @@
     "wof:concordances":{
         "gn:id":6418787,
         "gp:id":55874840,
-        "qs:id":232919,
+        "qs_pg:id":232919,
         "wd:id":"Q2626887",
         "wk:page":"Metrogorodok District"
     },
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":1108942787,
-    "wof:lastmodified":1563257403,
+    "wof:lastmodified":1566627424,
     "wof:name":"Metrogorodok",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

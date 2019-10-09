@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":61.604669,
     "lbl:longitude":66.754522,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Khanty-Mansiy",
     "meso:name_alt2":"KHanty-Mansijskij avtonomnyj okrug - JUgra",
     "meso:name_local":"\u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430",
@@ -283,9 +284,6 @@
     ],
     "name:und_x_variant":[
         "KHanty-Mansijskij avtonomnyj okrug - JUgra",
-        "Khanty-Mansiy"
-    ],
-    "name:unk_x_variant":[
         "Ostyako-Vogul\u2019skiy National\u2019nyy Okrug"
     ],
     "name:urd_x_preferred":[
@@ -381,9 +379,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"523,100",
     "statoids:area_mi":"202,000",
     "statoids:as_of_date":"2010-10-14",
@@ -446,11 +444,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734430,
+    "wof:lastmodified":1566618555,
     "wof:name":"Khanty-Mansi",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":1532243,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

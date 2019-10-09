@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000856,
-    "geom:area_square_m":3201972.184579,
+    "geom:area_square_m":7480883.501794,
     "geom:bbox":"43.7457923889,44.9844436646,43.8135375977,45.0183792114",
     "geom:latitude":45.001446,
     "geom:longitude":43.779937,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.992825,
     "lbl:longitude":43.794664,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.992825,
     "mps:longitude":43.794664,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Sotnikovskoye"
     ],
@@ -26,9 +29,6 @@
         "Sotnikovskoje"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u043e\u0442\u043d\u0438\u043a\u043e\u0432\u0441\u043a\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u043e\u0442\u043d\u0438\u043a\u043e\u0432\u0441\u043a\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687825,
@@ -61,7 +61,6 @@
     "wof:concordances":{
         "gn:id":490108,
         "gp:id":2123594,
-        "qs:id":549128,
         "qs_pg:id":549128
     },
     "wof:country":"RU",
@@ -77,7 +76,7 @@
         }
     ],
     "wof:id":1175613625,
-    "wof:lastmodified":1534985985,
+    "wof:lastmodified":1566627433,
     "wof:name":"Sotnikovskoye",
     "wof:parent_id":1108733011,
     "wof:placetype":"locality",

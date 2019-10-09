@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":56.478264,
     "lbl:longitude":53.802336,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Udmurtskaja respublika",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0423\u0434\u043c\u0443\u0440\u0442\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
@@ -54,6 +56,7 @@
     "mps:longitude":53.802336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Sarapul'skiy Rayon"
     ],
@@ -125,7 +128,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":812,
     "wof:belongsto":[
         102191581,
@@ -136,7 +139,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12597608,
-        "qs:id":125627,
+        "qs_pg:id":125627,
         "wd:id":"Q589335",
         "wk:page":"Sarapulsky District"
     },
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":890486053,
-    "wof:lastmodified":1563262750,
+    "wof:lastmodified":1566630853,
     "wof:name":"Sarapul",
     "wof:parent_id":85687787,
     "wof:placetype":"county",

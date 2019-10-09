@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000447,
-    "geom:area_square_m":3378546.727301,
+    "geom:area_square_m":3378546.727303,
     "geom:bbox":"46.5370826721,52.3445014954,46.5698623657,52.3648605347",
     "geom:latitude":52.356008,
     "geom:longitude":46.552572,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.35709,
     "lbl:longitude":46.55226,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.35709,
     "mps:longitude":46.55226,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Khvatovka"
     ],
@@ -26,9 +29,6 @@
         "Khvatovka"
     ],
     "name:rus_x_preferred":[
-        "\u0425\u0432\u0430\u0442\u043e\u0432\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0425\u0432\u0430\u0442\u043e\u0432\u043a\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +49,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687995
+        85687995,
+        1108732915
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":548964,
         "gp:id":2121361,
-        "qs:id":80856,
         "qs_pg:id":80856
     },
     "wof:country":"RU",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":102010913,
-    "wof:lastmodified":1505338935,
+    "wof:lastmodified":1566615490,
     "wof:name":"Khvatovka",
     "wof:parent_id":1108732915,
     "wof:placetype":"locality",

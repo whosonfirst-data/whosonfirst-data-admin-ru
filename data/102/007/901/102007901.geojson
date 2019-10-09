@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000209,
-    "geom:area_square_m":1817053.988767,
+    "geom:area_square_m":1817053.988766,
     "geom:bbox":"40.0340843201,45.3151931763,40.0536384583,45.3295822144",
     "geom:latitude":45.321546,
     "geom:longitude":40.044633,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":45.321829,
     "lbl:longitude":40.045424,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.321829,
     "mps:longitude":40.045424,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0421\u0435\u043c\u0451\u043d\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sem\u00ebnovskaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -38,7 +41,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":76,
     "wof:belongsto":[
         85688029,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":102007901,
-    "wof:lastmodified":1527637032,
+    "wof:lastmodified":1566615146,
     "wof:name":"Semenovskaya",
     "wof:parent_id":890479743,
     "wof:placetype":"locality",

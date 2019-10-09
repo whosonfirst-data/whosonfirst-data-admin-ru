@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":59.816285,
     "lbl:longitude":33.41922,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Leningradskaja oblast'",
     "meso:admin1r_en":"Severo-Zapadnyj federal'nyj okrug",
     "meso:admin_1":"\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":33.41922,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Tikhvinskiy Rayon"
     ],
@@ -109,9 +112,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0438\u0445\u0432\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0422\u0438\u0445\u0432\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vep_x_preferred":[
         "Tihvinan rajon"
     ],
@@ -135,9 +135,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"7090",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Tikhvin",
@@ -159,7 +159,7 @@
     "wof:concordances":{
         "gp:id":12598659,
         "hasc:id":"RU.LN.TV",
-        "qs:id":506351,
+        "qs_pg:id":506351,
         "wd:id":"Q506440",
         "wk:page":"Tikhvinsky District"
     },
@@ -176,7 +176,7 @@
         }
     ],
     "wof:id":890483069,
-    "wof:lastmodified":1563262330,
+    "wof:lastmodified":1566630667,
     "wof:name":"Tikhvinskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",

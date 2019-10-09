@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":43.59427,
     "lbl:longitude":39.725225,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.59427,
     "mps:longitude":39.725225,
     "mz:hierarchy_label":1,
@@ -383,9 +385,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0447\u0456"
     ],
-    "name:unk_x_variant":[
-        "Sotschi"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0686\u06cc"
     ],
@@ -535,7 +534,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":43.585278,
     "wd:longitude":39.720278,
@@ -555,7 +554,6 @@
         "gn:id":491422,
         "gp:id":2086230,
         "nyt:id":"N38390099867638263411",
-        "qs:id":221783,
         "qs_pg:id":221783,
         "wd:id":"Q39420"
     },
@@ -572,7 +570,7 @@
         }
     ],
     "wof:id":102016301,
-    "wof:lastmodified":1563240862,
+    "wof:lastmodified":1566615428,
     "wof:name":"Sochi",
     "wof:parent_id":890484191,
     "wof:placetype":"locality",

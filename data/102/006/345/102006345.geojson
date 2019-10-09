@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000494,
-    "geom:area_square_m":3896248.914947,
+    "geom:area_square_m":3896248.914946,
     "geom:bbox":"41.7334709167,50.396446228,41.7719459534,50.4133605957",
     "geom:latitude":50.404385,
     "geom:longitude":41.752381,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.404027,
     "lbl:longitude":41.752381,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.404027,
     "mps:longitude":41.752381,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Nekhayevskiy"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041d\u0435\u0445\u0430\u0435\u0432\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nekhayevskaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":31,
     "wof:belongsto":[
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":522902,
         "gp:id":2122362,
-        "qs:id":80731,
         "qs_pg:id":80731
     },
     "wof:country":"RU",
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":102006345,
-    "wof:lastmodified":1527637265,
+    "wof:lastmodified":1566615375,
     "wof:name":"Nekhayevskiy",
     "wof:parent_id":1108735331,
     "wof:placetype":"locality",

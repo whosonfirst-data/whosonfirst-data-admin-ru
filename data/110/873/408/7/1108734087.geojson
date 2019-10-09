@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":56.261046,
     "lbl:longitude":54.769259,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Bashkortostan",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d",
@@ -53,6 +55,7 @@
     "mps:longitude":54.769259,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Yanaul rayonu"
     ],
@@ -108,9 +111,6 @@
     "name:ukr_x_preferred":[
         "\u042f\u043d\u0430\u0443\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u042f\u043d\u0430\u0443\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Yanaulsky"
     ],
@@ -121,9 +121,9 @@
         "\u4e9e\u7459\u5229\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2184",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Yanaul",
@@ -157,7 +157,7 @@
         }
     ],
     "wof:id":1108734087,
-    "wof:lastmodified":1563256701,
+    "wof:lastmodified":1566626985,
     "wof:name":"Janaul'skiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

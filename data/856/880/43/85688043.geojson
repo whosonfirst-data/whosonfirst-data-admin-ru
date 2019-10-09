@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":56.501526,
     "lbl:longitude":48.355628,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Mariy-El",
     "meso:name_alt2":"Marij EHl",
     "meso:name_local":"\u041c\u0430\u0440\u0438\u0439 \u042d\u043b",
@@ -334,9 +335,6 @@
     ],
     "name:und_x_variant":[
         "Marij EHl",
-        "Mariy-El"
-    ],
-    "name:unk_x_variant":[
         "Mariyskaya ASSR"
     ],
     "name:urd_x_preferred":[
@@ -438,9 +436,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"23,200",
     "statoids:area_mi":"9,000",
     "statoids:as_of_date":"2010-10-14",
@@ -503,11 +501,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734412,
+    "wof:lastmodified":1566618524,
     "wof:name":"Mari El",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":696459,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-ru",

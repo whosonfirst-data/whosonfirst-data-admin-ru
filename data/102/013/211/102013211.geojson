@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.790098,
     "lbl:longitude":87.14383,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":53.790098,
     "mps:longitude":87.14383,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:afr_x_preferred":[
         "Nowokoeznetsk"
     ],
@@ -293,7 +296,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":53.75,
     "wd:longitude":87.116667,
@@ -309,7 +312,7 @@
     "wof:concordances":{
         "gn:id":1496990,
         "gp:id":2055851,
-        "qs:id":810551,
+        "qs_pg:id":810551,
         "wd:id":"Q93910",
         "wk:page":"Novokuznetsk"
     },
@@ -326,7 +329,7 @@
         }
     ],
     "wof:id":102013211,
-    "wof:lastmodified":1563239973,
+    "wof:lastmodified":1566615040,
     "wof:name":"Novokuznetsk",
     "wof:parent_id":1108735509,
     "wof:placetype":"locality",

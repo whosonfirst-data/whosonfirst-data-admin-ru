@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":65.032527,
     "lbl:longitude":78.360255,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Yamal-Nenets",
     "meso:name_alt2":"JAmalo-Neneckij avtonomnyj okrug",
     "meso:name_local":"\u042f\u043c\u0430\u043b\u043e-\u041d\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
@@ -273,9 +274,6 @@
     ],
     "name:und_x_variant":[
         "JAmalo-Neneckij avtonomnyj okrug",
-        "Yamal-Nenets"
-    ],
-    "name:unk_x_variant":[
         "Yamalo-Nenetskiy Natsional\u2019nyy Okrug"
     ],
     "name:urd_x_preferred":[
@@ -371,9 +369,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"750,300",
     "statoids:area_mi":"289,700",
     "statoids:as_of_date":"2010-10-14",
@@ -436,11 +434,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734431,
+    "wof:lastmodified":1566618557,
     "wof:name":"Yamalo-Nenets",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":522904,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-ru",

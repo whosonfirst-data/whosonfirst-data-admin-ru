@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000389,
-    "geom:area_square_m":2726645.081424,
+    "geom:area_square_m":2726645.081422,
     "geom:bbox":"48.0501403809,55.4124717712,48.0734443665,55.4328346252",
     "geom:latitude":55.422758,
     "geom:longitude":48.061966,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.422698,
     "lbl:longitude":48.061966,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.422698,
     "mps:longitude":48.061966,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ul'yankovo"
     ],
@@ -30,7 +33,7 @@
     "name:rus_x_variant":[
         "Ul\u2019yankovo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pobeda"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -51,17 +54,17 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688065
+        85688065,
+        1108734189
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":479171,
         "gp:id":2099951,
-        "qs:id":905160,
         "qs_pg:id":905160
     },
     "wof:country":"RU",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":102009241,
-    "wof:lastmodified":1497302239,
+    "wof:lastmodified":1566615237,
     "wof:name":"Ul'Yankovo",
     "wof:parent_id":1108734189,
     "wof:placetype":"locality",

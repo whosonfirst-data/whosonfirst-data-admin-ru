@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":55.247173,
     "lbl:longitude":47.482013,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"CHuvashija",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0427\u0443\u0432\u0430\u0448\u0438\u044f",
@@ -53,6 +55,7 @@
     "mps:longitude":47.482013,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Komsomol'skiy Rayon"
     ],
@@ -96,9 +99,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Komsomolsky"
     ],
@@ -109,9 +109,9 @@
         "\u79d1\u59c6\u7d22\u83ab\u5229\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"630",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Komsomol'sk",
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":1108734563,
-    "wof:lastmodified":1563257138,
+    "wof:lastmodified":1566627245,
     "wof:name":"Komsomol'skiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",

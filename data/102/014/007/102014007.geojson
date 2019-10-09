@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001218,
-    "geom:area_square_m":8589724.889934,
+    "geom:area_square_m":8589724.889931,
     "geom:bbox":"100.659233093,55.2053222656,100.716423035,55.237575531",
     "geom:latitude":55.220031,
     "geom:longitude":100.68727,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.220976,
     "lbl:longitude":100.684955,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.220976,
     "mps:longitude":100.684955,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Ilir"
     ],
@@ -26,9 +29,6 @@
         "Ilir"
     ],
     "name:rus_x_preferred":[
-        "\u0418\u043b\u0438\u0440"
-    ],
-    "name:unk_x_variant":[
         "\u0418\u043b\u0438\u0440"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688173,
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":102014007,
-    "wof:lastmodified":1505338943,
+    "wof:lastmodified":1566615103,
     "wof:name":"Ilir",
     "wof:parent_id":890484113,
     "wof:placetype":"locality",

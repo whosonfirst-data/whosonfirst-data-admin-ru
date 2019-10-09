@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":49.749096,
     "lbl:longitude":142.847769,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":49.749096,
     "mps:longitude":142.847769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u043c\u0456\u0440\u043d\u044b\u0445"
     ],
@@ -52,7 +55,7 @@
     "name:rus_x_preferred":[
         "\u0421\u043c\u0438\u0440\u043d\u044b\u0445"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ketongai"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":718,
     "wof:belongsto":[
@@ -89,7 +92,6 @@
     "wof:concordances":{
         "gn:id":2121126,
         "gp:id":2085886,
-        "qs:id":138511,
         "qs_pg:id":138511,
         "wd:id":"Q1002883",
         "wk:page":"Smirnykh"
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":102001515,
-    "wof:lastmodified":1563240622,
+    "wof:lastmodified":1566615329,
     "wof:name":"Smirnykh",
     "wof:parent_id":1108736663,
     "wof:placetype":"locality",

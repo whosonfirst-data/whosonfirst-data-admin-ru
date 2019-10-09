@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":55.464602,
     "lbl:longitude":63.213384,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kurganskaja oblast'",
     "meso:admin1r_en":"Ural'skij federal'nyj okrug",
     "meso:admin_1":"\u041a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":63.213384,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Shumikhinskiy Rayon"
     ],
@@ -93,9 +96,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0443\u043c\u0456\u0445\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0428\u0443\u043c\u0438\u0445\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Shumikhinsky"
     ],
@@ -103,9 +103,9 @@
         "\u8212\u7c73\u6b23\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2790",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Shumiha",
@@ -139,7 +139,7 @@
         }
     ],
     "wof:id":1108736611,
-    "wof:lastmodified":1563256771,
+    "wof:lastmodified":1566627028,
     "wof:name":"Shumikhinskiy",
     "wof:parent_id":85688157,
     "wof:placetype":"county",

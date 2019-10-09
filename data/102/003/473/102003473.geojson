@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000438,
-    "geom:area_square_m":3088376.053541,
+    "geom:area_square_m":3088376.053543,
     "geom:bbox":"41.7726669312,55.188331604,41.8136405945,55.2183036804",
     "geom:latitude":55.203515,
     "geom:longitude":41.793954,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.202416,
     "lbl:longitude":41.795969,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.202416,
     "mps:longitude":41.795969,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dmitriyevy Gory"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u044b \u0413\u043e\u0440\u044b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dmitriyevy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687981,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102003473,
-    "wof:lastmodified":1501214753,
+    "wof:lastmodified":1566615552,
     "wof:name":"Dmitriyevy Gory",
     "wof:parent_id":1108735099,
     "wof:placetype":"locality",

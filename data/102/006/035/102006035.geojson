@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.977202,
     "lbl:longitude":44.777827,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.977202,
     "mps:longitude":44.777827,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u0631\u0646\u0648\u0641\u0633\u0643"
     ],
@@ -106,7 +109,7 @@
     "name:ukr_x_preferred":[
         "\u0416\u0438\u0440\u043d\u043e\u0432\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zhirnovoye"
     ],
     "name:vep_x_preferred":[
@@ -139,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.983333,
     "wd:longitude":44.766667,
@@ -154,7 +157,6 @@
     "wof:concordances":{
         "gn:id":462984,
         "gp:id":56123376,
-        "qs:id":206938,
         "qs_pg:id":206938,
         "wd:id":"Q136361",
         "wk:page":"Zhirnovsk"
@@ -170,7 +172,7 @@
         }
     ],
     "wof:id":102006035,
-    "wof:lastmodified":1563240700,
+    "wof:lastmodified":1566615369,
     "wof:name":"Zhirnovsk",
     "wof:parent_id":1108738133,
     "wof:placetype":"locality",

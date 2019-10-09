@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.283123,
     "lbl:longitude":45.127611,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.283123,
     "mps:longitude":45.127611,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Lyambir'"
     ],
@@ -29,9 +32,6 @@
         "Ljambir"
     ],
     "name:rus_x_preferred":[
-        "\u041b\u044f\u043c\u0431\u0438\u0440\u044c"
-    ],
-    "name:unk_x_variant":[
         "\u041b\u044f\u043c\u0431\u0438\u0440\u044c"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -50,7 +50,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":26,
     "wof:belongsto":[
@@ -64,7 +64,7 @@
     "wof:concordances":{
         "gn:id":532895,
         "gp:id":2039079,
-        "qs:id":1029704
+        "qs_pg:id":1029704
     },
     "wof:country":"RU",
     "wof:geomhash":"8dac06c5d75b5b98baefeff5b3b631c9",
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":102009979,
-    "wof:lastmodified":1527637048,
+    "wof:lastmodified":1566615225,
     "wof:name":"Lyambir'",
     "wof:parent_id":1108734961,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001133,
-    "geom:area_square_m":8984655.796356,
+    "geom:area_square_m":8984655.796355,
     "geom:bbox":"116.65599823,50.0868873596,116.69719696,50.1261672974",
     "geom:latitude":50.105167,
     "geom:longitude":116.677241,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.106331,
     "lbl:longitude":116.676849,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.106331,
     "mps:longitude":116.676849,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kharanor"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0425\u0430\u0440\u0430\u043d\u043e\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khara-Nur"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -48,17 +51,17 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688005
+        85688005,
+        1108737787
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2022702,
         "gp:id":2121317,
-        "qs:id":1116932,
         "qs_pg:id":1116932
     },
     "wof:country":"RU",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102014931,
-    "wof:lastmodified":1497292340,
+    "wof:lastmodified":1566615087,
     "wof:name":"Kharanor",
     "wof:parent_id":1108737787,
     "wof:placetype":"locality",

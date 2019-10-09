@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000956,
-    "geom:area_square_m":8299585.477752,
+    "geom:area_square_m":8299585.477753,
     "geom:bbox":"43.0366401672,45.3583068848,43.0823898315,45.3955841064",
     "geom:latitude":45.376009,
     "geom:longitude":43.057039,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.375236,
     "lbl:longitude":43.05548,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.375236,
     "mps:longitude":43.05548,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kambulat"
     ],
@@ -25,9 +28,6 @@
         "Kambulat"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0430\u043c\u0431\u0443\u043b\u0430\u0442"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0430\u043c\u0431\u0443\u043b\u0430\u0442"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687825,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102007855,
-    "wof:lastmodified":1501214707,
+    "wof:lastmodified":1566615194,
     "wof:name":"Kambulat",
     "wof:parent_id":1108737113,
     "wof:placetype":"locality",

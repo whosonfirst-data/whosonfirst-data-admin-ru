@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":51.610972,
     "lbl:longitude":90.976907,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tyva",
     "meso:admin1r_en":"Sibirskij federal'nyj okrug",
     "meso:admin_1":"\u0422\u044b\u0432\u0430",
@@ -53,6 +55,7 @@
     "mps:longitude":90.976907,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ces_x_preferred":[
         "Sut-Cholsk\u00fd cho\u0161\u00fan"
     ],
@@ -102,9 +105,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0442-\u0425\u043e\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u043a\u043e\u0436\u0443\u0443\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0421\u0443\u0442-\u0425\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u043e\u0436\u0443\u0443\u043d"
-    ],
     "name:vie_x_preferred":[
         "Sut-Kholsky"
     ],
@@ -112,9 +112,9 @@
         "\u987b\u7279-\u970d\u52d2\u65d7"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"7572",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Sut-Aksy",
@@ -148,7 +148,7 @@
         }
     ],
     "wof:id":1108736857,
-    "wof:lastmodified":1563257044,
+    "wof:lastmodified":1566627188,
     "wof:name":"Sut-Khol'skiy",
     "wof:parent_id":85688039,
     "wof:placetype":"county",

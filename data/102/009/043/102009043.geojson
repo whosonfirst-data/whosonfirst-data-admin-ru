@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.971676,
     "lbl:longitude":48.009603,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.971676,
     "mps:longitude":48.009603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0632\u0641\u064a\u0646\u064a\u063a\u0648\u0641\u0648"
     ],
@@ -145,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0432\u0435\u043d\u0438\u0433\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zvenigovskiy Zaton"
     ],
     "name:vep_x_preferred":[
@@ -175,7 +178,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.966667,
     "wd:longitude":48.016667,
@@ -190,7 +193,6 @@
     "wof:concordances":{
         "gn:id":461916,
         "gp:id":2119626,
-        "qs:id":124672,
         "qs_pg:id":124672,
         "wd:id":"Q136813",
         "wk:page":"Zvenigovo"
@@ -206,7 +208,7 @@
         }
     ],
     "wof:id":102009043,
-    "wof:lastmodified":1563240374,
+    "wof:lastmodified":1566615240,
     "wof:name":"Zvenigovo",
     "wof:parent_id":1108738415,
     "wof:placetype":"locality",

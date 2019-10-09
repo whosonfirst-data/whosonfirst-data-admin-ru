@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"33.75639,58.73528,33.79639,58.77528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632685
@@ -34,7 +38,7 @@
         "gn:id":464206
     },
     "wof:country":"RU",
-    "wof:geomhash":"64c07d65da20f869df9e35a7b31f2d1b",
+    "wof:geomhash":"8748d2de8f65b63ef45a9b0a3463d183",
     "wof:hierarchy":[
         {
             "country_id":85632685,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209232157,
-    "wof:lastmodified":1536293604,
+    "wof:lastmodified":1566623916,
     "wof:name":"Zavechen'ye",
     "wof:parent_id":85632685,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     33.77639,
-    58.755280000000006,
+    58.75528000000001,
     33.77639,
-    58.755280000000006
+    58.75528000000001
 ],
   "geometry": {"coordinates":[33.77639,58.75528000000001],"type":"Point"}
 }

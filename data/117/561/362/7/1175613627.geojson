@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002469,
-    "geom:area_square_m":7863772.363267,
+    "geom:area_square_m":21592049.857455,
     "geom:bbox":"40.558971405,44.9693870544,40.6472511292,45.023223877",
     "geom:latitude":44.995704,
     "geom:longitude":40.600872,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.009849,
     "lbl:longitude":40.603187,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.009849,
     "mps:longitude":40.603187,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Mikhaylovskaya"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mikhaylovskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":106,
     "wof:belongsto":[
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":526814,
         "gp:id":2122193,
-        "qs:id":125149,
         "qs_pg:id":125149
     },
     "wof:country":"RU",
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":1175613627,
-    "wof:lastmodified":1534985986,
+    "wof:lastmodified":1566627432,
     "wof:name":"Mikhaylovskaya",
     "wof:parent_id":1108734825,
     "wof:placetype":"locality",

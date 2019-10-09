@@ -12,14 +12,14 @@
     "iso:country":"RU",
     "lbl:latitude":57.74562,
     "lbl:longitude":83.795977,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.74562,
     "mps:longitude":83.795977,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
-        "\u041b\u0443\u0433\u043e\u0432\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u041b\u0443\u0433\u043e\u0432\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -34,7 +34,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":11,
     "wof:belongsto":[
         85687809,
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":102012589,
-    "wof:lastmodified":1527636472,
+    "wof:lastmodified":1566615006,
     "wof:name":"Lugovoye",
     "wof:parent_id":1108735177,
     "wof:placetype":"locality",

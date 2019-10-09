@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000233,
-    "geom:area_square_m":2043388.174997,
+    "geom:area_square_m":2043388.174999,
     "geom:bbox":"39.7190551758,44.931137085,39.7367515564,44.9494171143",
     "geom:latitude":44.940267,
     "geom:longitude":39.727815,
@@ -14,11 +14,14 @@
     "iso:country":"RU",
     "lbl:latitude":44.940404,
     "lbl:longitude":39.727647,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.940404,
     "mps:longitude":39.727647,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Vochnoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -35,7 +38,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688029,
         102191581,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":102015613,
-    "wof:lastmodified":1501214430,
+    "wof:lastmodified":1566614960,
     "wof:name":"Vechnoye",
     "wof:parent_id":890485447,
     "wof:placetype":"locality",

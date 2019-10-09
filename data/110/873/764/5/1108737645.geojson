@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":56.06716,
     "lbl:longitude":48.5599,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Marij EHl",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u041c\u0430\u0440\u0438\u0439 \u042d\u043b",
@@ -53,6 +55,7 @@
     "mps:longitude":48.5599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Volzhskiy Rayon"
     ],
@@ -108,16 +111,13 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043b\u0437\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0412\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:zho_x_preferred":[
         "\u6c83\u723e\u65e5\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1022",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Volzhsk",
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":1108737645,
-    "wof:lastmodified":1563256473,
+    "wof:lastmodified":1566626841,
     "wof:name":"Volzhskiy",
     "wof:parent_id":85688043,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00124,
-    "geom:area_square_m":9711490.329235,
+    "geom:area_square_m":9711490.329237,
     "geom:bbox":"44.7007484436,50.674861908,44.7559165955,50.7232513428",
     "geom:latitude":50.696205,
     "geom:longitude":44.729406,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.6968,
     "lbl:longitude":44.728989,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.6968,
     "mps:longitude":44.728989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Krasnyy Yar"
     ],
@@ -31,7 +34,7 @@
     "name:rus_x_variant":[
         "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u042f\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasny Jar"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":33,
     "wof:belongsto":[
@@ -65,7 +68,6 @@
     "wof:concordances":{
         "gn:id":541344,
         "gp:id":2121671,
-        "qs:id":80819,
         "qs_pg:id":80819
     },
     "wof:country":"RU",
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":102006187,
-    "wof:lastmodified":1527637262,
+    "wof:lastmodified":1566615349,
     "wof:name":"Krasnyy Yar",
     "wof:parent_id":1108738133,
     "wof:placetype":"locality",

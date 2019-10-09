@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":44.397704,
     "lbl:longitude":41.75695,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Karachaevo-CHerkesskaja respublika",
     "meso:admin1r_en":"Severo-Kavkazskij federal'nyj okrug",
     "meso:admin_1":"\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
@@ -53,6 +55,7 @@
     "mps:longitude":41.75695,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u0410\u0434\u044b\u0433\u0435-\u0425\u0430\u0431\u043b\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -93,9 +96,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0434\u0438\u0433\u0435-\u0425\u0430\u0431\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0410\u0434\u044b\u0433\u0435-\u0425\u0430\u0431\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Adyge-Khabl'sky"
     ],
@@ -106,9 +106,9 @@
         "\u963f\u5091\u683c-\u54c8\u5e03\u5229\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"2468",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Stanitsa Otradnaya",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":1108732619,
-    "wof:lastmodified":1563256698,
+    "wof:lastmodified":1566626983,
     "wof:name":"Adyge-Khabl'skiy",
     "wof:parent_id":85687913,
     "wof:placetype":"county",

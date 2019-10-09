@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6185570.218787,
+    "geom:area_square_m":0.0,
     "geom:bbox":"39.7966,57.709281,39.7966,57.709281",
     "geom:latitude":57.709281,
     "geom:longitude":39.7966,
     "gn:id":"",
     "iso:country":"RU",
+    "lbl:bbox":"39.7916,57.704281,39.8016,57.714281",
     "lbl:latitude":57.709281,
     "lbl:longitude":39.7966,
+    "lbl:max_zoom":18.0,
     "mps:latitude":57.705615,
     "mps:longitude":39.795227,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Krasnyy Pereval"
-    ],
-    "name:unk_x_variant":[
         "Krasnyy Pereval"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85632685,
@@ -66,7 +65,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2029828,
-        "qs:id":1150625,
         "qs_pg:id":1150625
     },
     "wof:country":"RU",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936043,
+    "wof:lastmodified":1566618488,
     "wof:name":"Krasnyy Pereval",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

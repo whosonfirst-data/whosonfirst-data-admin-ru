@@ -9,15 +9,18 @@
     "geom:bbox":"44.54083,44.05111,44.54083,44.05111",
     "geom:latitude":44.05111,
     "geom:longitude":44.54083,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5775,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":5775,
     "iso:country":"RU",
+    "lbl:bbox":"44.52083,44.03111,44.56083,44.07111",
     "lbl:latitude":44.05111,
     "lbl:longitude":44.54083,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Edissiya"
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u042d\u0434\u0438\u0441\u0441\u0438\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Edisseya"
     ],
     "qs_pg:aaroncc":"RU",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":549891,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85687825,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1126008859,
-    "wof:lastmodified":1509406553,
+    "wof:lastmodified":1566631027,
     "wof:name":"Edissiya",
     "wof:parent_id":1108734835,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001499,
-    "geom:area_square_m":11493992.489469,
+    "geom:area_square_m":11493992.48947,
     "geom:bbox":"45.5680007935,51.6630821228,45.6480560303,51.7015838623",
     "geom:latitude":51.680646,
     "geom:longitude":45.60782,
@@ -15,17 +15,20 @@
     "iso:country":"RU",
     "lbl:latitude":51.67986,
     "lbl:longitude":45.59842,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.67986,
     "mps:longitude":45.59842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Tatischtschewo"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0442\u0438\u0449\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tatutsevo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0440\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":25,
     "wof:belongsto":[
@@ -58,7 +61,7 @@
     "wof:concordances":{
         "gn:id":484034,
         "gp:id":2123189,
-        "qs:id":1152387
+        "qs_pg:id":1152387
     },
     "wof:country":"RU",
     "wof:geomhash":"2d126c396a02400ffc4f0e4addc5a16b",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":102011105,
-    "wof:lastmodified":1527637586,
+    "wof:lastmodified":1566615382,
     "wof:name":"Tatishchevo",
     "wof:parent_id":1108736949,
     "wof:placetype":"locality",

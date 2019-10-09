@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.245939,
     "lbl:longitude":42.133641,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":56.245939,
     "mps:longitude":42.133641,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0627\u0632\u0646\u064a\u0643\u064a"
     ],
@@ -116,7 +119,7 @@
     "name:ukr_x_preferred":[
         "\u0412'\u044f\u0437\u043d\u0438\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wjasnik"
     ],
     "name:vep_x_preferred":[
@@ -146,7 +149,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -158,7 +161,6 @@
     "wof:concordances":{
         "gn:id":470666,
         "gp:id":2124379,
-        "qs:id":1062009,
         "qs_pg:id":1062009,
         "wd:id":"Q134296",
         "wk:page":"Vyazniki, Vladimir Oblast"
@@ -174,7 +176,7 @@
         }
     ],
     "wof:id":102002951,
-    "wof:lastmodified":1563241564,
+    "wof:lastmodified":1566615694,
     "wof:name":"Vyazniki",
     "wof:parent_id":1108737505,
     "wof:placetype":"locality",

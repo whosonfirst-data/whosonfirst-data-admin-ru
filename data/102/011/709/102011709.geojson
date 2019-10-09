@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":58.188953,
     "lbl:longitude":68.247279,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":58.188953,
     "mps:longitude":68.247279,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Tobolsk"
     ],
@@ -253,7 +256,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0431\u043e\u043b\u044c\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tobol\u2019sk"
     ],
     "name:urd_x_preferred":[
@@ -298,7 +301,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":58.195278,
     "wd:longitude":68.258056,
@@ -328,7 +331,7 @@
         }
     ],
     "wof:id":102011709,
-    "wof:lastmodified":1563240736,
+    "wof:lastmodified":1566615382,
     "wof:name":"Tobolsk",
     "wof:parent_id":1108737043,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":38.9102,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":4761,
+    "gn:population":4761,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"38.8902,51.5883,38.9302,51.6283",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u0421\u0442\u0440\u0435\u043b\u0438\u0446\u0430"
     ],
@@ -30,9 +34,6 @@
     ],
     "name:tgk_x_preferred":[
         "\u0421\u0442\u0440\u0435\u043b\u0438\u0442\u0441\u0430"
-    ],
-    "name:unk_x_variant":[
-        "\u0421\u0442\u0440\u0435\u043b\u0438\u0446\u0430"
     ],
     "qs:name":"Strelitsa",
     "qs:name_adm0":"Russia",
@@ -53,7 +54,7 @@
     "wof:concordances":{
         "gn:id":487255,
         "gp:id":2090999,
-        "qs:id":345887
+        "qs_pg:id":345887
     },
     "wof:country":"RU",
     "wof:created":1469054424,
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":890482573,
-    "wof:lastmodified":1564128989,
+    "wof:lastmodified":1566630594,
     "wof:name":"Strelitsa",
     "wof:parent_id":1108736425,
     "wof:placetype":"locality",

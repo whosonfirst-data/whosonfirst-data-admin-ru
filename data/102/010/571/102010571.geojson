@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.246953,
     "lbl:longitude":46.26026,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.246953,
     "mps:longitude":46.26026,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "Sosnovoborsk"
     ],
@@ -34,7 +37,7 @@
     "name:rus_x_preferred":[
         "\u0421\u043e\u0441\u043d\u043e\u0432\u043e\u0431\u043e\u0440\u0441\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Litvino"
     ],
     "name:vep_x_preferred":[
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":38,
     "wof:belongsto":[
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":490211,
         "gp:id":2012389,
-        "qs:id":549129,
         "qs_pg:id":549129
     },
     "wof:country":"RU",
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":102010571,
-    "wof:lastmodified":1527637803,
+    "wof:lastmodified":1566615510,
     "wof:name":"Sosnovoborsk",
     "wof:parent_id":1108736733,
     "wof:placetype":"locality",

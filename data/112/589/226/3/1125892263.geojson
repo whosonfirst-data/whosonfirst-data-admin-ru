@@ -9,15 +9,18 @@
     "geom:bbox":"88.2027,69.3535,88.2027,69.3535",
     "geom:latitude":69.3535,
     "geom:longitude":88.2027,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":140800,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":140800,
     "iso:country":"RU",
+    "lbl:bbox":"88.1827,69.3335,88.2227,69.3735",
     "lbl:latitude":69.3535,
     "lbl:longitude":88.2027,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0646\u0648\u0631\u064a\u0644\u0633\u0643"
@@ -229,7 +232,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0440\u0438\u043b\u044c\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Norilskoe"
     ],
     "name:urd_x_preferred":[
@@ -265,7 +268,7 @@
     "qs_pg:qs_id":1031473,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688139,
@@ -294,7 +297,7 @@
         }
     ],
     "wof:id":1125892263,
-    "wof:lastmodified":1563263114,
+    "wof:lastmodified":1566631014,
     "wof:name":"Noril\u2019sk",
     "wof:parent_id":1108736913,
     "wof:placetype":"locality",

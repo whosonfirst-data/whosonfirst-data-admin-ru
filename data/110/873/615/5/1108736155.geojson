@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":55.841033,
     "lbl:longitude":37.747189,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Moskva",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u041c\u043e\u0441\u043a\u0432\u0430",
@@ -53,6 +55,7 @@
     "mps:longitude":37.747189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Metrook"
     ],
@@ -60,7 +63,7 @@
         "\u0440\u0430\u0439\u043e\u043d \u041c\u0435\u0442\u0440\u043e\u0433\u043e\u0440\u043e\u0434\u043e\u043a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688085,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108736155,
-    "wof:lastmodified":1561582058,
+    "wof:lastmodified":1566627215,
     "wof:name":"Metrook",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

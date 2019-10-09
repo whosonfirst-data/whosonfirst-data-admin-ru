@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000508,
-    "geom:area_square_m":3097622.568871,
+    "geom:area_square_m":3097622.568872,
     "geom:bbox":"52.6343040466,60.4702224731,52.6773071289,60.4896659851",
     "geom:latitude":60.479997,
     "geom:longitude":52.65776,
     "iso:country":"RU",
     "lbl:latitude":60.481464,
     "lbl:longitude":52.65776,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.481464,
     "mps:longitude":52.65776,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ust'-Ch\u00ebrnaya"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u0427\u0435\u0440\u043d\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ust\u2019-Ch\u00ebrnaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687975,
         102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102002129,
-    "wof:lastmodified":1501214435,
+    "wof:lastmodified":1566615683,
     "wof:name":"Ust-Chernaya",
     "wof:parent_id":1108733555,
     "wof:placetype":"locality",

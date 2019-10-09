@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.000386,
     "lbl:longitude":61.524313,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":57.000386,
     "mps:longitude":61.524313,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0623\u0633\u0628\u064a\u0633\u062a"
     ],
@@ -185,7 +188,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":57.0,
     "wd:longitude":61.466667,
@@ -201,7 +204,7 @@
     "wof:concordances":{
         "gn:id":1511330,
         "gp:id":2120098,
-        "qs:id":1251755,
+        "qs_pg:id":1251755,
         "wd:id":"Q104059",
         "wk:page":"Asbest"
     },
@@ -218,7 +221,7 @@
         }
     ],
     "wof:id":102011833,
-    "wof:lastmodified":1563240769,
+    "wof:lastmodified":1566615394,
     "wof:name":"",
     "wof:parent_id":1108732795,
     "wof:placetype":"locality",

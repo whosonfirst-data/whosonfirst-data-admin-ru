@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.52596,
     "lbl:longitude":41.094575,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.52596,
     "mps:longitude":41.094575,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Zolotkovo"
     ],
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1575,
     "wof:belongsto":[
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":462203,
         "gp:id":2124640,
-        "qs:id":80389,
         "qs_pg:id":80389,
         "wd:id":"Q4945487"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":102003313,
-    "wof:lastmodified":1563241141,
+    "wof:lastmodified":1566615539,
     "wof:name":"Zolotkovo",
     "wof:parent_id":1108733959,
     "wof:placetype":"locality",

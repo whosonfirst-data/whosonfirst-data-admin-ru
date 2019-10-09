@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000355,
-    "geom:area_square_m":2485871.839091,
+    "geom:area_square_m":2485871.839092,
     "geom:bbox":"41.4044151306,55.483001709,41.4371681213,55.5021934509",
     "geom:latitude":55.493434,
     "geom:longitude":41.421564,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.49358,
     "lbl:longitude":41.421337,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.49358,
     "mps:longitude":41.421337,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maksimovo"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maksimovka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687981,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102003337,
-    "wof:lastmodified":1501214629,
+    "wof:lastmodified":1566615519,
     "wof:name":"Maksimovo",
     "wof:parent_id":1108735099,
     "wof:placetype":"locality",

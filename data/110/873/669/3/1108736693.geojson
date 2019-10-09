@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":59.628458,
     "lbl:longitude":56.760222,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Permskij kraj",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":56.760222,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0644\u0643\u0627\u0645\u0633\u0643"
     ],
@@ -179,9 +182,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043b\u0456\u043a\u0430\u043c\u0441\u044c\u043a"
     ],
-    "name:und_x_variant":[
-        "\u0421\u043e\u043b\u0438\u043a\u0430\u043c\u0441\u043a"
-    ],
     "name:uzb_x_preferred":[
         "Solikamsk"
     ],
@@ -198,9 +198,9 @@
         "\u7d22\u5229\u5361\u59c6\u65af\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"5671",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Solikamsk",
@@ -232,7 +232,7 @@
         }
     ],
     "wof:id":1108736693,
-    "wof:lastmodified":1564124416,
+    "wof:lastmodified":1566626993,
     "wof:name":"Solikamsk",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

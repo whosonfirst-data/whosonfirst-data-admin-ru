@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":54.708766,
     "lbl:longitude":135.316896,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":54.708766,
     "mps:longitude":135.316896,
     "mz:hierarchy_label":1,
@@ -68,7 +70,7 @@
     "name:srp_x_preferred":[
         "\u0427\u0443\u043c\u0438\u043a\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chumukan"
     ],
     "name:zho_x_preferred":[
@@ -188,7 +190,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.7,
     "wd:longitude":135.3,
@@ -203,7 +205,6 @@
     "wof:concordances":{
         "gn:id":2025256,
         "gp:id":2120580,
-        "qs:id":137561,
         "qs_pg:id":137561,
         "wd:id":"Q1140817",
         "wk:page":"Chumikan"
@@ -219,7 +220,7 @@
         }
     ],
     "wof:id":102015349,
-    "wof:lastmodified":1563239760,
+    "wof:lastmodified":1566614949,
     "wof:name":"Chumikan",
     "wof:parent_id":1108737101,
     "wof:placetype":"locality",

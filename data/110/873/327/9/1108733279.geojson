@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":55.244105,
     "lbl:longitude":50.726442,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tatarstan",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d",
@@ -53,6 +55,7 @@
     "mps:longitude":50.726442,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bak_x_preferred":[
         "\u0427\u0438\u0441\u0442\u0430\u0439 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
@@ -102,9 +105,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0438\u0441\u0442\u043e\u043f\u043e\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0427\u0438\u0441\u0442\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Chistopol'sky"
     ],
@@ -112,7 +112,7 @@
         "\u5947\u65af\u6258\u6ce2\u5229\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688065,
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":1108733279,
-    "wof:lastmodified":1563257253,
+    "wof:lastmodified":1566627331,
     "wof:name":"Chistopol'skiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

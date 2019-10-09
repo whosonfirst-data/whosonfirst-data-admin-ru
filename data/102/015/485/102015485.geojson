@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000245,
-    "geom:area_square_m":2021799.84567,
+    "geom:area_square_m":2021799.845671,
     "geom:bbox":"135.681289673,48.0817718506,135.705810547,48.09897995",
     "geom:latitude":48.090409,
     "geom:longitude":135.693304,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":48.09044,
     "lbl:longitude":135.693304,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.09044,
     "mps:longitude":135.693304,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Obor"
     ],
@@ -28,9 +31,6 @@
         "Obor"
     ],
     "name:rus_x_preferred":[
-        "\u041e\u0431\u043e\u0440"
-    ],
-    "name:unk_x_variant":[
         "\u041e\u0431\u043e\u0440"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +49,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":247,
     "wof:belongsto":[
         85687937,
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":102015485,
-    "wof:lastmodified":1527636463,
+    "wof:lastmodified":1566614932,
     "wof:name":"Obor",
     "wof:parent_id":1108733993,
     "wof:placetype":"locality",

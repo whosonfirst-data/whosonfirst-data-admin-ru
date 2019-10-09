@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001485,
-    "geom:area_square_m":11413777.465438,
+    "geom:area_square_m":11413777.465436,
     "geom:bbox":"41.7732658386,51.5586662292,41.8471107483,51.59375",
     "geom:latitude":51.576081,
     "geom:longitude":41.809932,
     "iso:country":"RU",
     "lbl:latitude":51.572531,
     "lbl:longitude":41.822799,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.572531,
     "mps:longitude":41.822799,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Narodnoye"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u041d\u0430\u0440\u043e\u0434\u043d\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Narodnaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688051,
         102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102005519,
-    "wof:lastmodified":1501214602,
+    "wof:lastmodified":1566615632,
     "wof:name":"Narodnoye",
     "wof:parent_id":1108736995,
     "wof:placetype":"locality",

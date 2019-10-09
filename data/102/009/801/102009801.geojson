@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.546537,
     "lbl:longitude":50.876921,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.546537,
     "mps:longitude":50.876921,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Kurmanay"
     ],
@@ -45,9 +48,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0440\u043c\u0430\u043d\u0430\u0454\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0443\u0440\u043c\u0430\u043d\u0430\u0435\u0432\u043e"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d (\u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d)",
     "qs:a1_lc":"1603300001700",
@@ -64,7 +64,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688065,
         102191581,
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":102009801,
-    "wof:lastmodified":1564108900,
+    "wof:lastmodified":1566615247,
     "wof:name":"Kurmanayevo",
     "wof:parent_id":1108735579,
     "wof:placetype":"locality",

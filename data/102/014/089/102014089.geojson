@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000246,
-    "geom:area_square_m":1783905.492083,
+    "geom:area_square_m":1783905.49208,
     "geom:bbox":"101.961524963,54.1359176636,101.995811462,54.1469802856",
     "geom:latitude":54.141674,
     "geom:longitude":101.978901,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.141091,
     "lbl:longitude":101.978575,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":54.141091,
     "mps:longitude":101.978575,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Kimil'tey"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0438\u043c\u0438\u043b\u044c\u0442\u0435\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kimiltei"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688173,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102014089,
-    "wof:lastmodified":1505338943,
+    "wof:lastmodified":1566615122,
     "wof:name":"Kimil'Tey",
     "wof:parent_id":1108738241,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":57.520101,
     "lbl:longitude":38.327053,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":57.520101,
     "mps:longitude":38.327053,
     "mz:hierarchy_label":1,
@@ -159,9 +161,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u0433\u043b\u0438\u0447"
     ],
-    "name:unk_x_variant":[
-        "Uglitsch"
-    ],
     "name:vep_x_preferred":[
         "Ugli\u010d"
     ],
@@ -281,7 +280,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":57.533333,
     "wd:longitude":38.333333,
@@ -297,10 +296,12 @@
     "wof:concordances":{
         "gn:id":479532,
         "gp:id":2099632,
-        "qs:id":277978,
-        "qs_pg:id":1127983,
+        "qs_pg:id":277978,
         "wd:id":"Q196786",
         "wk:page":"Uglich"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1127983
     },
     "wof:country":"RU",
     "wof:geomhash":"8e89986f8faa7c35cda64b516928168b",
@@ -315,7 +316,7 @@
         }
     ],
     "wof:id":102002691,
-    "wof:lastmodified":1563241607,
+    "wof:lastmodified":1566615706,
     "wof:name":"Uglich",
     "wof:parent_id":890484379,
     "wof:placetype":"locality",

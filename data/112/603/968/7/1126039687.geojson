@@ -9,15 +9,18 @@
     "geom:bbox":"36.9145,53.45232,36.9145,53.45232",
     "geom:latitude":53.45232,
     "geom:longitude":36.9145,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6689,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":6689,
     "iso:country":"RU",
+    "lbl:bbox":"36.8945,53.43232,36.9345,53.47232",
     "lbl:latitude":53.45232,
     "lbl:longitude":36.9145,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:che_x_preferred":[
         "\u0427\u0435\u0440\u043d\u044c"
@@ -49,9 +52,6 @@
     "name:rus_x_preferred":[
         "\u0427\u0435\u0440\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "\u0427\u0435\u0440\u043d\u044c"
-    ],
     "qs_pg:aaroncc":"RU",
     "qs_pg:gn_country":"RU",
     "qs_pg:gn_fcode":"PPL",
@@ -64,7 +64,7 @@
     "qs_pg:qs_id":1029915,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688203,
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1126039687,
-    "wof:lastmodified":1563263094,
+    "wof:lastmodified":1566631006,
     "wof:name":"Chern\u2019",
     "wof:parent_id":1108733261,
     "wof:placetype":"locality",

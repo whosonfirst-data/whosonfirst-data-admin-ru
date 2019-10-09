@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.542191,
     "lbl:longitude":52.858456,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.542191,
     "mps:longitude":52.858456,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gozhnya"
     ],
@@ -23,9 +26,6 @@
         "Gozjnja"
     ],
     "name:rus_x_preferred":[
-        "\u0413\u043e\u0436\u043d\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u0413\u043e\u0436\u043d\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687787,
         102191581,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":102008849,
-    "wof:lastmodified":1501214729,
+    "wof:lastmodified":1566615290,
     "wof:name":"Gozhnya",
     "wof:parent_id":890478285,
     "wof:placetype":"locality",

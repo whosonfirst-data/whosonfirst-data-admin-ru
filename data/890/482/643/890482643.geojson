@@ -11,11 +11,15 @@
     "geom:longitude":37.17347,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":2850,
+    "gn:population":2850,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"37.15347,55.72678,37.19347,55.76678",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0432\u043e-\u0414\u0430\u043b\u044c\u043d\u0435\u0435"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0432\u043e-\u0414\u0430\u043b\u044c\u043d\u0454"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Petrovskoye"
     ],
     "qs:name":"Petrovo-Dal'neye",
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":509998,
         "gp:id":2065739,
-        "qs:id":446454,
+        "qs_pg:id":446454,
         "wd:id":"Q4361100"
     },
     "wof:country":"RU",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890482643,
-    "wof:lastmodified":1561832733,
+    "wof:lastmodified":1566630579,
     "wof:name":"Petrovo-Dal'neye",
     "wof:parent_id":1108734693,
     "wof:placetype":"locality",

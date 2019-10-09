@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":47.243618,
     "lbl:longitude":47.025765,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.243618,
     "mps:longitude":47.025765,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u064a\u064a\u0646\u0648\u062a\u0627\u064a\u064a\u0641\u0643\u0627"
     ],
@@ -61,7 +64,7 @@
     "name:tgk_x_preferred":[
         "\u0415\u043d\u043e\u0442\u0430\u0435\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ekataevsk"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,6 @@
     "wof:concordances":{
         "gn:id":467479,
         "gp:id":2124490,
-        "qs:id":548918,
         "qs_pg:id":548918,
         "wd:id":"Q695151"
     },
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":102011491,
-    "wof:lastmodified":1563240773,
+    "wof:lastmodified":1566615394,
     "wof:name":"Yenotayevka",
     "wof:parent_id":1108733505,
     "wof:placetype":"locality",

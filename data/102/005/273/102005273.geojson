@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002211,
-    "geom:area_square_m":16885980.379531,
+    "geom:area_square_m":16885980.379532,
     "geom:bbox":"38.799861908,51.8365287781,38.8998603821,51.874584198",
     "geom:latitude":51.855023,
     "geom:longitude":38.849025,
     "iso:country":"RU",
     "lbl:latitude":51.854587,
     "lbl:longitude":38.849025,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.854587,
     "mps:longitude":38.849025,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Perl\u00ebvka"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_variant":[
         "\u041f\u0435\u0440\u043b\u0451\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tserlovka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688051,
         102191581,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":102005273,
-    "wof:lastmodified":1501214556,
+    "wof:lastmodified":1566615621,
     "wof:name":"Perlevka",
     "wof:parent_id":1108736425,
     "wof:placetype":"locality",

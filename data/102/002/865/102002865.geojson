@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000395,
-    "geom:area_square_m":2695907.439206,
+    "geom:area_square_m":2695907.439207,
     "geom:bbox":"42.995639801,56.5257759094,43.0269737244,56.5415267944",
     "geom:latitude":56.533665,
     "geom:longitude":43.012178,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.533582,
     "lbl:longitude":43.012178,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.533582,
     "mps:longitude":43.012178,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Chistoye"
     ],
@@ -44,18 +47,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688057
+        85688057,
+        1108733287
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":567972,
         "gp:id":2120562,
-        "qs:id":1305583,
         "qs_pg:id":1305583
     },
     "wof:country":"RU",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102002865,
-    "wof:lastmodified":1505338916,
+    "wof:lastmodified":1566615705,
     "wof:name":"Chistoye",
     "wof:parent_id":1108733287,
     "wof:placetype":"locality",

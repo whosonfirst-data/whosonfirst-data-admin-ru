@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":51.297036,
     "lbl:longitude":37.841698,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":51.297036,
     "mps:longitude":37.841698,
     "mz:hierarchy_label":1,
@@ -213,9 +215,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438\u0439 \u041e\u0441\u043a\u043e\u043b"
     ],
-    "name:unk_x_variant":[
-        "Stary Oskol"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0633\u0679\u0627\u0631\u06cc \u0648\u0633\u06a9\u0648\u0644"
     ],
@@ -344,7 +343,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.298056,
     "wd:longitude":37.835,
@@ -359,7 +358,6 @@
     "wof:concordances":{
         "gn:id":487928,
         "gp:id":2090044,
-        "qs:id":810630,
         "qs_pg:id":810630,
         "wd:id":"Q196486",
         "wk:page":"Stary Oskol"
@@ -375,7 +373,7 @@
         }
     ],
     "wof:id":102005741,
-    "wof:lastmodified":1563241381,
+    "wof:lastmodified":1566615636,
     "wof:name":"Staryy Oskol",
     "wof:parent_id":1108736799,
     "wof:placetype":"locality",

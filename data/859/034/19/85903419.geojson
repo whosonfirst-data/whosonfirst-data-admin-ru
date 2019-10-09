@@ -15,6 +15,7 @@
     "iso:country":"RU",
     "lbl:latitude":55.823667,
     "lbl:longitude":37.443225,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.819801,
     "mps:longitude":37.507004,
     "mz:hierarchy_label":1,
@@ -63,15 +64,9 @@
     "name:sco_x_preferred":[
         "Pokrovskoye-Streshnevo Destrict"
     ],
-    "name:und_x_preferred":[
-        "Pokrovskoe-Streshnevo"
-    ],
     "name:und_x_variant":[
-        "\u041f\u043e\u043a\u0440\u043e\u0432\u0441\u043a\u043e\u0435-\u0421\u0442\u0440\u0435\u0448\u043d\u0435\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Bsatsevo",
-        "Pokrovskoye-Streshnevo"
+        "Pokrovskoe-Streshnevo",
+        "Bsatsevo"
     ],
     "name:zho_x_preferred":[
         "\u6ce2\u514b\u7f85\u592b-\u65af\u7279\u5217\u4ec0\u634f\u6c83\u5340"
@@ -117,7 +112,6 @@
     "wof:concordances":{
         "gn:id":507338,
         "gp:id":2068767,
-        "qs:id":8405,
         "qs_pg:id":8405,
         "wd:id":"Q2367649",
         "wk:page":"Pokrovskoye-Streshnevo District"
@@ -138,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247575,
+    "wof:lastmodified":1566618503,
     "wof:name":"Pokrovskoye-Streshnevo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

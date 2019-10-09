@@ -9,15 +9,18 @@
     "geom:bbox":"38.80807,45.62359,38.80807,45.62359",
     "geom:latitude":45.62359,
     "geom:longitude":38.80807,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3236,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":3236,
     "iso:country":"RU",
+    "lbl:bbox":"38.78807,45.60359,38.82807,45.64359",
     "lbl:latitude":45.62359,
     "lbl:longitude":38.80807,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Dneprovskaya"
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0414\u043d\u0435\u043f\u0440\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dnjeprowskaja"
     ],
     "qs_pg:aaroncc":"RU",
@@ -48,7 +51,7 @@
     "qs_pg:woe_adm0":23424936,
     "qs_pg:woe_id":55874438,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424936,
     "woe:name_adm0":"Russia",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1125963357,
-    "wof:lastmodified":1509403450,
+    "wof:lastmodified":1566631020,
     "wof:name":"Dnepropetrovskaya",
     "wof:parent_id":890483057,
     "wof:placetype":"locality",

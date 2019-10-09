@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000369,
-    "geom:area_square_m":2686545.472419,
+    "geom:area_square_m":2686545.472418,
     "geom:bbox":"56.3742485046,53.9723320007,56.4016113281,53.9966125488",
     "geom:latitude":53.984664,
     "geom:longitude":56.387215,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.984866,
     "lbl:longitude":56.389288,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.984866,
     "mps:longitude":56.389288,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tabynskoye"
     ],
@@ -26,9 +29,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0431\u044b\u043d\u0441\u043a\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Tabynskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687801,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102010143,
-    "wof:lastmodified":1501214457,
+    "wof:lastmodified":1566615488,
     "wof:name":"Tabynsk",
     "wof:parent_id":1108733545,
     "wof:placetype":"locality",

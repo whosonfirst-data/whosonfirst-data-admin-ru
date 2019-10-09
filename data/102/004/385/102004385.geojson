@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00034,
-    "geom:area_square_m":2515183.854998,
+    "geom:area_square_m":2515183.855001,
     "geom:bbox":"40.6647338867,53.3013877869,40.6966590881,53.3218040466",
     "geom:latitude":53.311863,
     "geom:longitude":40.681708,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.313475,
     "lbl:longitude":40.680619,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.313475,
     "mps:longitude":40.680619,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Staroyur'yevo"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e\u044e\u0440\u044c\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Staroye Yur\u2019yevo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687829,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102004385,
-    "wof:lastmodified":1505338921,
+    "wof:lastmodified":1566615587,
     "wof:name":"Staroyur'Yevo",
     "wof:parent_id":1108736791,
     "wof:placetype":"locality",

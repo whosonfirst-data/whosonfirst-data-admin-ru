@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000333,
-    "geom:area_square_m":2608377.059707,
+    "geom:area_square_m":2608377.059708,
     "geom:bbox":"43.0421104431,50.7370262146,43.0723609924,50.754776001",
     "geom:latitude":50.745594,
     "geom:longitude":43.057706,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.746862,
     "lbl:longitude":43.056193,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.746862,
     "mps:longitude":43.056193,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Kikvidze"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_variant":[
         "\u041a\u0438\u043a\u0432\u0438\u0434\u0437\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Preobrazhenskaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +52,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688101
+        85688101,
+        1108734413
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":548740,
         "gp:id":2070847,
-        "qs:id":80852,
         "qs_pg:id":80852
     },
     "wof:country":"RU",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102006169,
-    "wof:lastmodified":1505338925,
+    "wof:lastmodified":1566615337,
     "wof:name":"Kikvidze",
     "wof:parent_id":1108734413,
     "wof:placetype":"locality",

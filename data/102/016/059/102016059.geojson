@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.195161,
     "lbl:longitude":42.647235,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":44.195161,
     "mps:longitude":42.647235,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:deu_x_preferred":[
         "Suworowskaja"
     ],
@@ -32,9 +35,6 @@
         "Suvorovskaja"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u0443\u0432\u043e\u0440\u043e\u0432\u0441\u043a\u0430\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u0443\u0432\u043e\u0440\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -55,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":32,
     "wof:belongsto":[
@@ -68,7 +68,6 @@
     "wof:concordances":{
         "gn:id":485871,
         "gp:id":2123766,
-        "qs:id":1305928,
         "qs_pg:id":1305928
     },
     "wof:country":"RU",
@@ -82,7 +81,7 @@
         }
     ],
     "wof:id":102016059,
-    "wof:lastmodified":1564109130,
+    "wof:lastmodified":1566615458,
     "wof:name":"Suvorovskaya",
     "wof:parent_id":1108735963,
     "wof:placetype":"locality",

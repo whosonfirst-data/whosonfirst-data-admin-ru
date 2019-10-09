@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000564,
-    "geom:area_square_m":4156289.510062,
+    "geom:area_square_m":4156289.510065,
     "geom:bbox":"38.1495361328,53.39112854,38.1828575134,53.4226837158",
     "geom:latitude":53.405831,
     "geom:longitude":38.168762,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.404594,
     "lbl:longitude":38.171791,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.404594,
     "mps:longitude":38.171791,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Boryatino"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u0440\u044f\u0442\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baryatino"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688203,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102004345,
-    "wof:lastmodified":1501214780,
+    "wof:lastmodified":1566615609,
     "wof:name":"Boryatino",
     "wof:parent_id":1108737629,
     "wof:placetype":"locality",

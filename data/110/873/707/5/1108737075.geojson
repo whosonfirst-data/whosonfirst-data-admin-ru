@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":59.922079,
     "lbl:longitude":42.435098,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Vologodskaja oblast'",
     "meso:admin1r_en":"Severo-Zapadnyj federal'nyj okrug",
     "meso:admin_1":"\u0412\u043e\u043b\u043e\u0433\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":42.435098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Totemskiy Rayon"
     ],
@@ -90,9 +93,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0442\u0435\u043c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0422\u043e\u0442\u0435\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vep_x_preferred":[
         "Tot'man rajon"
     ],
@@ -103,9 +103,9 @@
         "\u6258\u5b63\u9a6c\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"8265",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Tot'ma",
@@ -139,7 +139,7 @@
         }
     ],
     "wof:id":1108737075,
-    "wof:lastmodified":1563256569,
+    "wof:lastmodified":1566626901,
     "wof:name":"Totemskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",

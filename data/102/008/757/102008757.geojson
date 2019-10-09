@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.834669,
     "lbl:longitude":45.434189,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.834669,
     "mps:longitude":45.434189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0633\u0643\u0631\u064a\u0633\u064a\u0646\u0633\u0643\u0648\u064a\u064a"
     ],
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":86,
     "wof:belongsto":[
@@ -84,7 +87,6 @@
     "wof:concordances":{
         "gn:id":471607,
         "gp:id":2046487,
-        "qs:id":207702,
         "qs_pg:id":207702,
         "wd:id":"Q3739717"
     },
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":102008757,
-    "wof:lastmodified":1563240489,
+    "wof:lastmodified":1566615286,
     "wof:name":"Voskresenskoye",
     "wof:parent_id":1108737705,
     "wof:placetype":"locality",

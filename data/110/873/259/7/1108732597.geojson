@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":44.04258,
     "lbl:longitude":41.871888,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Karachaevo-CHerkesskaja respublika",
     "meso:admin1r_en":"Severo-Kavkazskij federal'nyj okrug",
     "meso:admin_1":"\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
@@ -53,6 +55,7 @@
     "mps:longitude":41.871888,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u0410\u0431\u0430\u0437\u0438\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -99,9 +102,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0430\u0437\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0410\u0431\u0430\u0437\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:war_x_preferred":[
         "Abazinsky"
     ],
@@ -109,7 +109,7 @@
         "\u963f\u5df4\u6d25\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687913,
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1108732597,
-    "wof:lastmodified":1563256693,
+    "wof:lastmodified":1566626980,
     "wof:name":"Abazinskiy",
     "wof:parent_id":85687913,
     "wof:placetype":"county",

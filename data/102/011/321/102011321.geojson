@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000235,
-    "geom:area_square_m":1833390.271235,
+    "geom:area_square_m":1833390.271234,
     "geom:bbox":"45.4749450684,50.8776092529,45.5114707947,50.8943061829",
     "geom:latitude":50.886174,
     "geom:longitude":45.494003,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.886117,
     "lbl:longitude":45.494007,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.886117,
     "mps:longitude":45.494007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Kamenski"
     ],
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grimm"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":85,
     "wof:belongsto":[
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":553416,
         "gp:id":2121166,
-        "qs:id":549822,
         "qs_pg:id":549822
     },
     "wof:country":"RU",
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":102011321,
-    "wof:lastmodified":1527637593,
+    "wof:lastmodified":1566615422,
     "wof:name":"Kamenskiy",
     "wof:parent_id":1108734673,
     "wof:placetype":"locality",

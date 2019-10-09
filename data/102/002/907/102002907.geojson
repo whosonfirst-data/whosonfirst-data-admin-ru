@@ -5,21 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000593,
-    "geom:area_square_m":4063885.865866,
+    "geom:area_square_m":4063885.865867,
     "geom:bbox":"38.1570014954,56.3532791138,38.2010269165,56.3764152527",
     "geom:latitude":56.36429,
     "geom:longitude":38.177973,
     "iso:country":"RU",
     "lbl:latitude":56.366841,
     "lbl:longitude":38.172136,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.366841,
     "mps:longitude":38.172136,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041d\u0430\u0443\u0433\u043e\u043b\u044c\u043d\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Naugol\u2019noye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -38,7 +41,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688161,
         102191581,
@@ -50,7 +53,7 @@
     "wof:concordances":{
         "gn:id":523267,
         "gp:id":55874534,
-        "qs:id":1013405
+        "qs_pg:id":1013405
     },
     "wof:country":"RU",
     "wof:geomhash":"491a16832130efd8e69597175091f788",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":102002907,
-    "wof:lastmodified":1501214601,
+    "wof:lastmodified":1566615662,
     "wof:name":"Naugolino",
     "wof:parent_id":890480075,
     "wof:placetype":"locality",

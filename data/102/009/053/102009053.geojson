@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.944524,
     "lbl:longitude":58.268147,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.944524,
     "mps:longitude":58.268147,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0634\u064a\u0648\u0633\u062a\u064a\u0643\u064a\u0646\u0633\u0643\u0648\u064a\u064a"
     ],
@@ -55,7 +58,7 @@
     "name:tat_x_preferred":[
         "\u041e\u043b\u044b \u042b\u043a\u0442\u0430\u043c\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bol\u2019she-Ust\u2019-Ikinsk"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -74,7 +77,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":55.945322,
     "wd:longitude":58.26794,
     "wd:wordcount":176,
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":102009053,
-    "wof:lastmodified":1563240329,
+    "wof:lastmodified":1566615219,
     "wof:name":"Bol'Sheust'Ikinskoye",
     "wof:parent_id":1108735085,
     "wof:placetype":"locality",

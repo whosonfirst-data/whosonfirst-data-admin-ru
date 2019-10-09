@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"33.22034,52.45532,33.26034,52.49532",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Peregon"
     ],
@@ -33,10 +37,6 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0440\u0435\u0433\u043e\u043d"
-    ],
-    "name:und_x_variant":[
-        "\u041f\u0435\u0440\u0435\u0433\u043e\u043d",
-        "Peregon"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":1276967631,
-    "wof:lastmodified":1537686862,
+    "wof:lastmodified":1566622803,
     "wof:name":"Peregon",
     "wof:parent_id":1108735907,
     "wof:placetype":"locality",

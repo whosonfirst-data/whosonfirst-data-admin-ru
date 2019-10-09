@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.275751,
     "lbl:longitude":80.772703,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.275751,
     "mps:longitude":80.772703,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u064a\u0641\u0648"
     ],
@@ -64,9 +67,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0454\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u0411\u0430\u0435\u0432\u043e"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
     "qs:a1_lc":"2200400000100",
@@ -85,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":151,
     "wof:belongsto":[
@@ -98,7 +98,6 @@
     "wof:concordances":{
         "gn:id":1510709,
         "gp:id":1987013,
-        "qs:id":556312,
         "qs_pg:id":556312,
         "wd:id":"Q93822"
     },
@@ -113,7 +112,7 @@
         }
     ],
     "wof:id":102013357,
-    "wof:lastmodified":1563240020,
+    "wof:lastmodified":1566615060,
     "wof:name":"Bayevo",
     "wof:parent_id":1108732839,
     "wof:placetype":"locality",

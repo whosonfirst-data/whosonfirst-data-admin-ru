@@ -11,10 +11,14 @@
     "geom:longitude":32.76333,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":18539,
+    "gn:population":18539,
     "iso:country":"RU",
+    "lbl:bbox":"32.74333,52.56444,32.78333,52.60444",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0627\u0631\u0648\u062f\u0648\u0628"
     ],
@@ -126,9 +130,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e\u0434\u0443\u0431"
     ],
-    "name:unk_x_variant":[
-        "\u0421\u0442\u0430\u0440\u043e\u0434\u0443\u0431"
-    ],
     "name:vep_x_preferred":[
         "Starodub"
     ],
@@ -160,7 +161,7 @@
     "wof:concordances":{
         "gn:id":488852,
         "gp:id":2123653,
-        "qs:id":124830,
+        "qs_pg:id":124830,
         "wd:id":"Q196483",
         "wk:page":"Starodub"
     },
@@ -178,7 +179,7 @@
         }
     ],
     "wof:id":890478951,
-    "wof:lastmodified":1563261908,
+    "wof:lastmodified":1566630502,
     "wof:name":"Starodub",
     "wof:parent_id":1108733869,
     "wof:placetype":"locality",

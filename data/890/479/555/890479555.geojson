@@ -11,10 +11,14 @@
     "geom:longitude":143.2,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":239,
+    "gn:population":239,
     "iso:country":"RU",
+    "lbl:bbox":"143.18,65.14667,143.22,65.18667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Predporozhnyy"
     ],
@@ -22,9 +26,6 @@
         "Predporozjnyj"
     ],
     "name:rus_x_preferred":[
-        "\u041f\u0440\u0435\u0434\u043f\u043e\u0440\u043e\u0436\u043d\u044b\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u0440\u0435\u0434\u043f\u043e\u0440\u043e\u0436\u043d\u044b\u0439"
     ],
     "qs:name":"Predporozhnyy",
@@ -43,7 +44,7 @@
     "wof:concordances":{
         "gn:id":2121854,
         "gp:id":12515802,
-        "qs:id":90897
+        "qs_pg:id":90897
     },
     "wof:country":"RU",
     "wof:created":1469054250,
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":890479555,
-    "wof:lastmodified":1505343738,
+    "wof:lastmodified":1566630751,
     "wof:name":"Predporozhnyy",
     "wof:parent_id":1108735603,
     "wof:placetype":"locality",

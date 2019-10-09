@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000282,
-    "geom:area_square_m":2109120.541009,
+    "geom:area_square_m":2109120.541006,
     "geom:bbox":"85.7932815552,52.7102203369,85.8204421997,52.72813797",
     "geom:latitude":52.717669,
     "geom:longitude":85.807218,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.717722,
     "lbl:longitude":85.807423,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.717722,
     "mps:longitude":85.807423,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marchikha"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687835,
         102191581,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":102013507,
-    "wof:lastmodified":1501220035,
+    "wof:lastmodified":1566615063,
     "wof:name":"Marchikha",
     "wof:parent_id":1108732997,
     "wof:placetype":"locality",

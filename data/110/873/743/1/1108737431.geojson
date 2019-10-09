@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":69.340347,
     "lbl:longitude":32.77539,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Murmanskaja oblast'",
     "meso:admin1r_en":"Severo-Zapadnyj federal'nyj okrug",
     "meso:admin_1":"\u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":32.77539,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Vidjaevo"
     ],
@@ -60,7 +63,7 @@
         "\u0412\u0438\u0434\u044f\u0435\u0432\u043e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687869,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108737431,
-    "wof:lastmodified":1561582092,
+    "wof:lastmodified":1566627330,
     "wof:name":"Vidjaevo",
     "wof:parent_id":85687869,
     "wof:placetype":"county",

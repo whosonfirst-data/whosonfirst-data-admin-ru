@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000512,
-    "geom:area_square_m":3525075.478378,
+    "geom:area_square_m":3525075.478379,
     "geom:bbox":"42.1492233276,56.1871376038,42.1860542297,56.215221405",
     "geom:latitude":56.200608,
     "geom:longitude":42.166279,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.200351,
     "lbl:longitude":42.166279,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.200351,
     "mps:longitude":42.166279,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"3300300010451",
@@ -35,18 +38,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687981
+        85687981,
+        1108737505
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":517698,
         "gp:id":2122553,
-        "qs:id":1305796,
         "qs_pg:id":1305796
     },
     "wof:country":"RU",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":102002975,
-    "wof:lastmodified":1505338917,
+    "wof:lastmodified":1566615716,
     "wof:name":"Novovyazniki",
     "wof:parent_id":1108737505,
     "wof:placetype":"locality",

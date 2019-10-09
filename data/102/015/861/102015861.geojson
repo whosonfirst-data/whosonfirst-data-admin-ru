@@ -16,6 +16,8 @@
     "iso:country":"RU",
     "lbl:latitude":44.605048,
     "lbl:longitude":40.113398,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":44.605048,
     "mps:longitude":40.113398,
     "mz:hierarchy_label":1,
@@ -285,9 +287,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0439\u043a\u043e\u043f"
     ],
-    "name:unk_x_variant":[
-        "Maikop"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u06cc\u06a9\u0648\u067e"
     ],
@@ -439,7 +438,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":44.6,
     "wd:longitude":40.083333,
@@ -454,10 +453,12 @@
     "wof:concordances":{
         "gn:id":528293,
         "gp:id":2044177,
-        "qs:id":1124717,
         "qs_pg:id":1026902,
         "wd:id":"Q3752",
         "wk:page":"Maykop"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1124717
     },
     "wof:country":"RU",
     "wof:geomhash":"d40aaf5b538d54b7fc103d3d2c26e2c2",
@@ -470,7 +471,7 @@
         }
     ],
     "wof:id":102015861,
-    "wof:lastmodified":1563239736,
+    "wof:lastmodified":1566614939,
     "wof:name":"Maykop",
     "wof:parent_id":1108733813,
     "wof:placetype":"locality",

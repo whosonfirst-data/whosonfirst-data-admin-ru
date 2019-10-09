@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7719810.027203,
+    "geom:area_square_m":0.0,
     "geom:bbox":"33.098923,68.925784,33.098923,68.925784",
     "geom:latitude":68.925784,
     "geom:longitude":33.098923,
     "gn:id":"",
     "iso:country":"RU",
+    "lbl:bbox":"33.093923,68.920784,33.103923,68.930784",
     "lbl:latitude":68.925784,
     "lbl:longitude":33.098923,
+    "lbl:max_zoom":18.0,
     "mps:latitude":68.94864,
     "mps:longitude":33.09638,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Bol'nichnyj"
-    ],
-    "name:unk_x_variant":[
         "Bol'nichnyj"
     ],
     "qs:gn_adm0_cc":"RU",
@@ -55,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85632685,
@@ -66,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1990848,
-        "qs:id":1121629
+        "qs_pg:id":1121629
     },
     "wof:country":"RU",
     "wof:geomhash":"48c187ed7931e6ba495678b7c7f9dbe5",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936037,
+    "wof:lastmodified":1566618494,
     "wof:name":"Bol'nichnyj",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":57.250545,
     "lbl:longitude":42.960951,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Ivanovskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":42.960951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u042e\u0440'\u0435\u0432\u0435\u0446\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -99,9 +102,6 @@
     "name:ukr_x_preferred":[
         "\u042e\u0440'\u0454\u0432\u0435\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u042e\u0440\u044c\u0435\u0432\u0435\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Yuryevetsky"
     ],
@@ -112,9 +112,9 @@
         "\u5c24\u91cc\u8036\u97e6\u8328\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"938",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Yur'evets",
@@ -148,7 +148,7 @@
         }
     ],
     "wof:id":1108734135,
-    "wof:lastmodified":1563256624,
+    "wof:lastmodified":1566626937,
     "wof:name":"Jur'eveckij",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

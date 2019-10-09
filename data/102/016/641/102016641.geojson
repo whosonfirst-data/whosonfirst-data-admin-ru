@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000173,
-    "geom:area_square_m":1559364.308531,
+    "geom:area_square_m":1559364.308527,
     "geom:bbox":"46.7122154236,43.2870483398,46.7266845703,43.3044815063",
     "geom:latitude":43.296138,
     "geom:longitude":46.719879,
@@ -14,17 +14,20 @@
     "iso:country":"RU",
     "lbl:latitude":43.296701,
     "lbl:longitude":46.720017,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.296701,
     "mps:longitude":46.720017,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Bajramaul"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0439\u0440\u0430\u043c\u0430\u0443\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bayram"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -43,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688197,
         102191581,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102016641,
-    "wof:lastmodified":1501214799,
+    "wof:lastmodified":1566615454,
     "wof:name":"Bayram-Aul",
     "wof:parent_id":1108734357,
     "wof:placetype":"locality",

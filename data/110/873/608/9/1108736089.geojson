@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":55.773476,
     "lbl:longitude":37.82401,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Moskva",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u041c\u043e\u0441\u043a\u0432\u0430",
@@ -53,6 +55,7 @@
     "mps:longitude":37.82401,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ivanovskoe"
     ],
@@ -60,7 +63,7 @@
         "\u0440\u0430\u0439\u043e\u043d \u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u043e\u0435"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688085,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108736089,
-    "wof:lastmodified":1561582069,
+    "wof:lastmodified":1566627253,
     "wof:name":"Ivanovskoe",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

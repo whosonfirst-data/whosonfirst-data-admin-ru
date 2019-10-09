@@ -16,6 +16,8 @@
     "iso:country":"RU",
     "lbl:latitude":47.236727,
     "lbl:longitude":39.702793,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":47.236727,
     "mps:longitude":39.702793,
     "mz:hierarchy_label":1,
@@ -339,9 +341,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443"
     ],
-    "name:unk_x_variant":[
-        "Rostov-on-Don"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u0633\u062a\u0648\u0641-\u0646\u0627-\u062f\u0648\u0646\u0648"
     ],
@@ -497,7 +496,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":47.233333,
     "wd:longitude":39.716667,
@@ -513,7 +512,7 @@
     "wof:concordances":{
         "gn:id":501175,
         "gp:id":2123177,
-        "qs:id":1129401,
+        "qs_pg:id":1129401,
         "wd:id":"Q908",
         "wk:page":"Rostov-on-Don"
     },
@@ -530,7 +529,7 @@
         }
     ],
     "wof:id":102007285,
-    "wof:lastmodified":1563240267,
+    "wof:lastmodified":1566615186,
     "wof:megacity":1,
     "wof:name":"Rostov-Na-Donu",
     "wof:parent_id":1108736311,

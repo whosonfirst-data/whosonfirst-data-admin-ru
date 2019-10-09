@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":56.009231,
     "lbl:longitude":47.800277,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"CHuvashija",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u0427\u0443\u0432\u0430\u0448\u0438\u044f",
@@ -53,6 +55,7 @@
     "mps:longitude":47.800277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Mariinsko-Posadskiy Rayon"
     ],
@@ -105,9 +108,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0456\u0457\u043d\u0441\u044c\u043a\u043e-\u041f\u043e\u0441\u0430\u0434\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041c\u0430\u0440\u0438\u0438\u043d\u0441\u043a\u043e-\u041f\u043e\u0441\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Mariinsko-Posadsky"
     ],
@@ -118,9 +118,9 @@
         "\u99ac\u91cc\u56e0\u65af\u79d1-\u6ce2\u85a9\u5fb7\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"686",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Mariinsky-Posad",
@@ -154,7 +154,7 @@
         }
     ],
     "wof:id":1108735063,
-    "wof:lastmodified":1563256921,
+    "wof:lastmodified":1566627124,
     "wof:name":"Mariinsko-Posadskiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",

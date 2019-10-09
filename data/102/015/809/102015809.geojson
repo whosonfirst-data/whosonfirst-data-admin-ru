@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00128,
-    "geom:area_square_m":11246081.939376,
+    "geom:area_square_m":11246081.939368,
     "geom:bbox":"40.8358612061,44.6806678772,40.9021377563,44.7320289612",
     "geom:latitude":44.70901,
     "geom:longitude":40.868247,
@@ -14,14 +14,14 @@
     "iso:country":"RU",
     "lbl:latitude":44.7126,
     "lbl:longitude":40.862724,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.7126,
     "mps:longitude":40.862724,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
-        "\u041b\u0435\u043d\u0438\u043d\u0441\u043a\u0438\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u041b\u0435\u043d\u0438\u043d\u0441\u043a\u0438\u0439"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +40,7 @@
     "qs:type":"\u0445",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":126,
     "wof:belongsto":[
         85688029,
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":102015809,
-    "wof:lastmodified":1527636467,
+    "wof:lastmodified":1566614969,
     "wof:name":"Leninskiy",
     "wof:parent_id":1108734879,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000227,
-    "geom:area_square_m":2049726.716988,
+    "geom:area_square_m":2049726.716989,
     "geom:bbox":"44.7211723328,43.0787887573,44.7416419983,43.0935249329",
     "geom:latitude":43.086206,
     "geom:longitude":44.73155,
@@ -15,14 +15,14 @@
     "iso:country":"RU",
     "lbl:latitude":43.086438,
     "lbl:longitude":44.731745,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.086438,
     "mps:longitude":44.731745,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
-        "\u0414\u0430\u0447\u043d\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u0414\u0430\u0447\u043d\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -43,7 +43,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":60,
     "wof:belongsto":[
@@ -56,7 +56,6 @@
     "wof:concordances":{
         "gn:id":567312,
         "gp:id":1999934,
-        "qs:id":437433,
         "qs_pg:id":437433
     },
     "wof:country":"RU",
@@ -70,7 +69,7 @@
         }
     ],
     "wof:id":102016489,
-    "wof:lastmodified":1527637600,
+    "wof:lastmodified":1566615455,
     "wof:name":"Dachnoye",
     "wof:parent_id":1108735973,
     "wof:placetype":"locality",

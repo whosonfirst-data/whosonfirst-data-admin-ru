@@ -11,10 +11,14 @@
     "geom:longitude":96.37917,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":3748,
+    "gn:population":3748,
     "iso:country":"RU",
+    "lbl:bbox":"96.35917,61.65694,96.39917,61.69694",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u0643\u064a\u062a\u060c \u0643\u0631\u0627\u0633\u0646\u0648\u064a\u0627\u0631\u0633\u0643 \u0643\u0631\u0627\u064a\u060c \u0631\u0648\u0633\u064a\u0627"
     ],
@@ -66,9 +70,6 @@
     "name:tat_x_preferred":[
         "\u0411\u0430\u0439\u043a\u0438\u0442"
     ],
-    "name:unk_x_variant":[
-        "Baikit"
-    ],
     "qs:name":"Baykit",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -88,7 +89,7 @@
     "wof:concordances":{
         "gn:id":1510689,
         "gp:id":1987072,
-        "qs:id":85205,
+        "qs_pg:id":85205,
         "wd:id":"Q591462",
         "wk:page":"Baykit"
     },
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":890485283,
-    "wof:lastmodified":1563262040,
+    "wof:lastmodified":1566630552,
     "wof:name":"Baykit",
     "wof:parent_id":1108733461,
     "wof:placetype":"locality",

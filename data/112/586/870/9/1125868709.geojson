@@ -9,15 +9,18 @@
     "geom:bbox":"37.29778,55.94806,37.29778,55.94806",
     "geom:latitude":55.94806,
     "geom:longitude":37.29778,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":18897,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":18897,
     "iso:country":"RU",
+    "lbl:bbox":"37.27778,55.92806,37.31778,55.96806",
     "lbl:latitude":55.94806,
     "lbl:longitude":37.29778,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Skhodnya"
@@ -43,9 +46,6 @@
     "name:rus_x_preferred":[
         "\u0421\u0445\u043e\u0434\u043d\u044f"
     ],
-    "name:unk_x_variant":[
-        "Skhodnya"
-    ],
     "qs_pg:aaroncc":"RU",
     "qs_pg:gn_country":"RU",
     "qs_pg:gn_fcode":"PPL",
@@ -67,7 +67,7 @@
     "qs_pg:woe_adm0":23424936,
     "qs_pg:woe_id":2123459,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424936,
     "woe:name_adm0":"Russia",
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":1125868709,
-    "wof:lastmodified":1563263101,
+    "wof:lastmodified":1566631009,
     "wof:name":"Shodnja",
     "wof:parent_id":1108733773,
     "wof:placetype":"locality",

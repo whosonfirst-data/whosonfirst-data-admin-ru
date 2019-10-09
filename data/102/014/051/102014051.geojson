@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000354,
-    "geom:area_square_m":2547916.868422,
+    "geom:area_square_m":2547916.86842,
     "geom:bbox":"101.100463867,54.3929290771,101.130371094,54.413482666",
     "geom:latitude":54.404011,
     "geom:longitude":101.114974,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.405443,
     "lbl:longitude":101.115994,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.405443,
     "mps:longitude":101.115994,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0423\u0445\u043e\u0432\u0441\u043a\u0438\u0439"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688173,
         102191581,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102014051,
-    "wof:lastmodified":1501225308,
+    "wof:lastmodified":1566615135,
     "wof:name":"Ukhovskiy",
     "wof:parent_id":1108734783,
     "wof:placetype":"locality",

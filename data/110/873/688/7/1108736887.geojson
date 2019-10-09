@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":51.405477,
     "lbl:longitude":127.580808,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Amurskaja oblast'",
     "meso:admin1r_en":"Dal'nevostochnyj federal'nyj okrug",
     "meso:admin_1":"\u0410\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":127.580808,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Svobodnenskiy Rayon"
     ],
@@ -90,9 +93,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Svobodnensky"
     ],
@@ -100,7 +100,7 @@
         "\u65af\u6c83\u535a\u5fb7\u5185\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85687951,
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":1108736887,
-    "wof:lastmodified":1563256596,
+    "wof:lastmodified":1566626918,
     "wof:name":"Svobodnenskiy",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

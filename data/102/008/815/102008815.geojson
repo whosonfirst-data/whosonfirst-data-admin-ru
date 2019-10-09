@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.650925,
     "lbl:longitude":59.297664,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.650925,
     "mps:longitude":59.297664,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u062c\u0646\u064a \u0633\u0631\u062c\u064a"
     ],
@@ -110,9 +113,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0436\u043d\u0456 \u0421\u0435\u0440\u0433\u0438"
     ],
-    "name:unk_x_variant":[
-        "\u041d\u0438\u0436\u043d\u0438\u0435 \u0421\u0435\u0440\u0433\u0438"
-    ],
     "name:vep_x_preferred":[
         "Alasergid"
     ],
@@ -140,7 +140,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.666667,
     "wd:longitude":59.3,
@@ -155,7 +155,6 @@
     "wof:concordances":{
         "gn:id":520667,
         "gp:id":2122434,
-        "qs:id":275966,
         "qs_pg:id":275966,
         "wd:id":"Q172685",
         "wk:page":"Nizhniye Sergi"
@@ -171,7 +170,7 @@
         }
     ],
     "wof:id":102008815,
-    "wof:lastmodified":1563240498,
+    "wof:lastmodified":1566615290,
     "wof:name":"Nizhniye Sergi",
     "wof:parent_id":1108735397,
     "wof:placetype":"locality",

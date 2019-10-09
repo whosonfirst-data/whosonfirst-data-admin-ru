@@ -11,11 +11,15 @@
     "geom:longitude":32.23025,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"32.21025,54.94567,32.25025,54.98567",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Berezhnyany"
     ],
@@ -24,9 +28,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0440\u0435\u0436\u043d\u044f\u043d\u044b"
-    ],
-    "name:unk_x_variant":[
-        "Berezhnyany"
     ],
     "qs:name":"Bereznjany",
     "qs:name_adm0":"Russia",
@@ -49,7 +50,7 @@
     "wof:concordances":{
         "gn:id":577338,
         "gp:id":2120268,
-        "qs:id":270236
+        "qs_pg:id":270236
     },
     "wof:country":"RU",
     "wof:created":1469054156,
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":890478209,
-    "wof:lastmodified":1505343731,
+    "wof:lastmodified":1566630510,
     "wof:name":"Bereznjany",
     "wof:parent_id":890483075,
     "wof:placetype":"locality",

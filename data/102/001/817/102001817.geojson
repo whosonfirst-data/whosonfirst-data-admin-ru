@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":42.814715,
     "lbl:longitude":132.88689,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":42.814715,
     "mps:longitude":132.88689,
     "mz:hierarchy_label":1,
@@ -224,9 +226,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0445\u043e\u0434\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Nahodka"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u062e\u0648\u062f\u06a9\u0627"
     ],
@@ -361,7 +360,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":42.816667,
     "wd:longitude":132.883333,
@@ -377,7 +376,6 @@
         "gn:id":2019528,
         "gp:id":2049649,
         "loc:id":"n85187108",
-        "qs:id":810526,
         "qs_pg:id":810526,
         "wd:id":"Q156658",
         "wk:page":"Nakhodka"
@@ -393,7 +391,7 @@
         }
     ],
     "wof:id":102001817,
-    "wof:lastmodified":1563240563,
+    "wof:lastmodified":1566615312,
     "wof:name":"Nakhodka",
     "wof:parent_id":1108735303,
     "wof:placetype":"locality",

@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":48.119238,
     "lbl:longitude":46.545038,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Astrakhanskaja oblast'",
     "meso:admin1r_en":"JUzhnyj federal'nyj okrug",
     "meso:admin_1":"\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":46.545038,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0410\u0445\u0442\u0443\u0431\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -100,9 +103,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0445\u0442\u0443\u0431\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0410\u0445\u0442\u0443\u0431\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Akhtubinsky"
     ],
@@ -123,9 +123,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"7904",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Akhtubinsk",
@@ -147,7 +147,7 @@
     "wof:concordances":{
         "gp:id":12598038,
         "hasc:id":"RU.AS.AR",
-        "qs:id":1002281,
+        "qs_pg:id":1002281,
         "wd:id":"Q2641435",
         "wk:page":"Akhtubinsky District"
     },
@@ -164,7 +164,7 @@
         }
     ],
     "wof:id":890483573,
-    "wof:lastmodified":1563262280,
+    "wof:lastmodified":1566630647,
     "wof:name":"Akhtubinskiy",
     "wof:parent_id":85687985,
     "wof:placetype":"county",

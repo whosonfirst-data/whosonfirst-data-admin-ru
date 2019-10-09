@@ -11,10 +11,12 @@
     "geom:longitude":37.412946,
     "gn:country":"RU",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"RU",
+    "lbl:bbox":"37.4079456518,55.7566284376,37.4179456518,55.7666284376",
     "lbl:latitude":55.761628,
     "lbl:longitude":37.412946,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -33,10 +35,7 @@
     "name:rus_x_variant":[
         "\u041a\u0440\u044b\u043b\u0430\u0442\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0440\u044b\u043b\u0430\u0442\u0441\u043a\u043e\u0435"
-    ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +48,7 @@
     "wof:concordances":{
         "gn:id":540286,
         "gp:id":56446228,
-        "qs:id":1026693,
+        "qs_pg:id":1026693,
         "wk:page":"Krylatskoye"
     },
     "wof:country":"RU",
@@ -66,7 +65,7 @@
         }
     ],
     "wof:id":1108942887,
-    "wof:lastmodified":1564124621,
+    "wof:lastmodified":1566627404,
     "wof:name":"Krylatskoye",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":52.166345,
     "lbl:longitude":82.234423,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Altay",
     "meso:name_alt2":"Altajskij kraj",
     "meso:name_local":"\u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -335,13 +336,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0410\u043b\u0442\u0430\u0439"
     ],
-    "name:und_x_variant":[
-        "Altajskij kraj",
-        "Altay"
-    ],
-    "name:unk_x_variant":[
-        "Altay"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u062a\u0627\u0626\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1"
     ],
@@ -441,9 +435,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-10-14",
+    "src:population_date":"2010-10-14",
     "statoids:area_km":"169,100",
     "statoids:area_mi":"65,300",
     "statoids:as_of_date":"2010-10-14",
@@ -506,11 +500,10 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1565734446,
+    "wof:lastmodified":1566618589,
     "wof:name":"Altai",
     "wof:parent_id":85632685,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:population":2419755,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ru",

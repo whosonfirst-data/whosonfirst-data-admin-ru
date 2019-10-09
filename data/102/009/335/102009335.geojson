@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000401,
-    "geom:area_square_m":2828168.427273,
+    "geom:area_square_m":2828168.427272,
     "geom:bbox":"58.1594429016,55.1670265198,58.1846961975,55.190776825",
     "geom:latitude":55.17835,
     "geom:longitude":58.171998,
@@ -14,14 +14,17 @@
     "iso:country":"RU",
     "lbl:latitude":55.177851,
     "lbl:longitude":58.171757,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.177851,
     "mps:longitude":58.171757,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041a\u0430\u043b\u043c\u0430\u043a\u043b\u0430\u0440\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kalmaklarova"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -36,7 +39,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687801,
         102191581,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102009335,
-    "wof:lastmodified":1501214708,
+    "wof:lastmodified":1566615233,
     "wof:name":"Kalmakulovo",
     "wof:parent_id":1108736369,
     "wof:placetype":"locality",

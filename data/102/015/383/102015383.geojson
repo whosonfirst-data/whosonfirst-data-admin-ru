@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000609,
-    "geom:area_square_m":4701627.127305,
+    "geom:area_square_m":4701627.127302,
     "geom:bbox":"139.225280762,51.3227233887,139.26663208,51.3472480774",
     "geom:latitude":51.333522,
     "geom:longitude":139.247526,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.333315,
     "lbl:longitude":139.24792,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":51.333315,
     "mps:longitude":139.24792,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u0426\u0438\u043c\u043c\u0435\u0440\u043c\u0430\u043d\u043e\u0432\u043a\u0430"
     ],
@@ -31,7 +34,7 @@
     "name:rus_x_preferred":[
         "\u0426\u0438\u043c\u043c\u0435\u0440\u043c\u0430\u043d\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tsimmermanovskaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -52,18 +55,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687937
+        85687937,
+        1108737161
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2015002,
         "gp:id":2123989,
-        "qs:id":570868,
         "qs_pg:id":570868,
         "wd:id":"Q4505726"
     },
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":102015383,
-    "wof:lastmodified":1514503642,
+    "wof:lastmodified":1566614946,
     "wof:name":"Tsimmermanovka",
     "wof:parent_id":1108737161,
     "wof:placetype":"locality",

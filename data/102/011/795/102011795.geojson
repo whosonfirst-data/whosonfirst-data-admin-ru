@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.336918,
     "lbl:longitude":60.156248,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":57.336918,
     "mps:longitude":60.156248,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Neyvo-Rudyanka"
     ],
@@ -26,9 +29,6 @@
         "Nejvo-Rudjanka"
     ],
     "name:rus_x_preferred":[
-        "\u041d\u0435\u0439\u0432\u043e-\u0420\u0443\u0434\u044f\u043d\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u041d\u0435\u0439\u0432\u043e-\u0420\u0443\u0434\u044f\u043d\u043a\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +49,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85688183
+        85688183,
+        1108734439
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1497780,
         "gp:id":2050953,
-        "qs:id":446644,
         "qs_pg:id":446644
     },
     "wof:country":"RU",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":102011795,
-    "wof:lastmodified":1505338938,
+    "wof:lastmodified":1566615406,
     "wof:name":"Neyvo-Rudyanka",
     "wof:parent_id":1108734439,
     "wof:placetype":"locality",

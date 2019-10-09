@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000282,
-    "geom:area_square_m":2411976.295952,
+    "geom:area_square_m":2411976.29595,
     "geom:bbox":"44.3384170532,46.2645568848,44.3641662598,46.2818336487",
     "geom:latitude":46.274597,
     "geom:longitude":44.349949,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":46.273804,
     "lbl:longitude":44.347374,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.273804,
     "mps:longitude":44.347374,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Voznesenovka"
     ],
@@ -28,9 +31,6 @@
         "\u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u043e\u0432\u043a\u0430"
     ],
     "name:rus_x_variant":[
-        "Keryul\u2019ta"
-    ],
-    "name:unk_x_variant":[
         "Keryul\u2019ta"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687953,
         102191581,
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":102007545,
-    "wof:lastmodified":1501214414,
+    "wof:lastmodified":1566615172,
     "wof:name":"Voznesenovka",
     "wof:parent_id":1108733165,
     "wof:placetype":"locality",

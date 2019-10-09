@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":58.555831,
     "lbl:longitude":30.396373,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Novskaja oblast'",
     "meso:admin1r_en":"Severo-Zapadnyj federal'nyj okrug",
     "meso:admin_1":"\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":30.396373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0411\u0430\u0446\u0435\u0446\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -99,9 +102,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0442\u0435\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0411\u0430\u0442\u0435\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Batetsky"
     ],
@@ -109,9 +109,9 @@
         "\u5df4\u6377\u8328\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1601",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Batetskiy",
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":1108732907,
-    "wof:lastmodified":1563257222,
+    "wof:lastmodified":1566627306,
     "wof:name":"Bateckij",
     "wof:parent_id":85688095,
     "wof:placetype":"county",

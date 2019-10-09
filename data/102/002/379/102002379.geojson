@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":60.343135,
     "lbl:longitude":120.439489,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":60.343135,
     "mps:longitude":120.439489,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "B\u00ebtyung"
     ],
@@ -28,7 +31,7 @@
     "name:sah_x_preferred":[
         "\u0411\u04e9\u0442\u04af\u04a5"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Betyun\u2019"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":424,
     "wof:belongsto":[
         85687843,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102002379,
-    "wof:lastmodified":1564109376,
+    "wof:lastmodified":1566615681,
     "wof:name":"Betyung",
     "wof:parent_id":1108735667,
     "wof:placetype":"locality",

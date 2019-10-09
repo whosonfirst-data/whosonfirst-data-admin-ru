@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00039,
-    "geom:area_square_m":2857486.609541,
+    "geom:area_square_m":2857486.60954,
     "geom:bbox":"51.0476112366,53.7050819397,51.0724983215,53.7286109924",
     "geom:latitude":53.71598,
     "geom:longitude":51.057928,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.715455,
     "lbl:longitude":51.057691,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.715455,
     "mps:longitude":51.057691,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Verkhnyaya Orlyanka"
     ],
@@ -25,9 +28,6 @@
         "Verkhnjaja Orljanka"
     ],
     "name:rus_x_preferred":[
-        "\u0412\u0435\u0440\u0445\u043d\u044f\u044f \u041e\u0440\u043b\u044f\u043d\u043a\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u0412\u0435\u0440\u0445\u043d\u044f\u044f \u041e\u0440\u043b\u044f\u043d\u043a\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687781,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102010279,
-    "wof:lastmodified":1501214426,
+    "wof:lastmodified":1566615499,
     "wof:name":"Verkhnyaya Orlyanka",
     "wof:parent_id":1108736445,
     "wof:placetype":"locality",

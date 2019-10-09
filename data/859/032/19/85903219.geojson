@@ -15,6 +15,7 @@
     "iso:country":"RU",
     "lbl:latitude":55.72074,
     "lbl:longitude":37.428243,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.713546,
     "mps:longitude":37.41862,
     "mz:hierarchy_label":1,
@@ -33,9 +34,8 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0421\u0435\u0442\u0443\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Bol\u2019shaya Setun\u2019",
-        "Bol'shaya Setun'"
+    "name:und_x_variant":[
+        "Bol\u2019shaya Setun\u2019"
     ],
     "qs:gn_adm0_cc":"RU",
     "qs:gn_fcode":"PPLX",
@@ -78,7 +78,6 @@
     "wof:concordances":{
         "gn:id":574675,
         "gp:id":1991389,
-        "qs:id":189693,
         "qs_pg:id":189693
     },
     "wof:country":"RU",
@@ -98,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247572,
+    "wof:lastmodified":1566618489,
     "wof:name":"Bol'shaya Setun'",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

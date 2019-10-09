@@ -9,14 +9,17 @@
     "geom:bbox":"39.7652206421,52.5273895264,39.8304443359,52.5684738159",
     "geom:latitude":52.546678,
     "geom:longitude":39.80378,
-    "geonames:id":"551328,551330",
+    "gn:id":"551328,551330",
     "iso:country":"RU",
     "lbl:latitude":52.541126,
     "lbl:longitude":39.809216,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.541126,
     "mps:longitude":39.809216,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kazinka"
     ],
@@ -51,7 +54,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":51,
     "wof:belongsto":[
         85687917,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":102004789,
-    "wof:lastmodified":1563241328,
+    "wof:lastmodified":1566615611,
     "wof:name":"Kazinka",
     "wof:parent_id":1108734949,
     "wof:placetype":"locality",

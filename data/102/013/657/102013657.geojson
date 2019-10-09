@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00068,
-    "geom:area_square_m":5141836.467649,
+    "geom:area_square_m":5141836.46765,
     "geom:bbox":"85.8098678589,52.2657966614,85.8397750854,52.3014183044",
     "geom:latitude":52.284139,
     "geom:longitude":85.825699,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.286103,
     "lbl:longitude":85.825984,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.286103,
     "mps:longitude":85.825984,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Bystryanka"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0411\u044b\u0441\u0442\u0440\u044f\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bystryanskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687835,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102013657,
-    "wof:lastmodified":1505338942,
+    "wof:lastmodified":1566615052,
     "wof:name":"Bystryanka",
     "wof:parent_id":1108734691,
     "wof:placetype":"locality",

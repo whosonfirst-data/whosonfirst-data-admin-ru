@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.34628,
     "lbl:longitude":39.306734,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.34628,
     "mps:longitude":39.306734,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u041a\u043e\u043b\u043e\u0434\u0435\u0437\u043d\u044b\u0439"
     ],
@@ -36,9 +39,6 @@
     "name:rus_x_variant":[
         "\u041a\u043e\u043b\u043e\u0434\u0435\u0437\u043d\u044b\u0439"
     ],
-    "name:unk_x_variant":[
-        "Kolodeznyy"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1r":"*",
@@ -51,7 +51,7 @@
     "qs:source":"SUnknown",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688051,
         102191581,
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":102005705,
-    "wof:lastmodified":1563241381,
+    "wof:lastmodified":1566615636,
     "wof:name":"Kolodeznaya",
     "wof:parent_id":1108734295,
     "wof:placetype":"locality",

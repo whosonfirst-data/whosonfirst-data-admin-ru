@@ -9,15 +9,18 @@
     "geom:bbox":"42.97333,44.10667,42.97333,44.10667",
     "geom:latitude":44.10667,
     "geom:longitude":42.97333,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":23369,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":23369,
     "iso:country":"RU",
+    "lbl:bbox":"42.95333,44.08667,42.99333,44.12667",
     "lbl:latitude":44.10667,
     "lbl:longitude":42.97333,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0644\u0631\u0645\u0648\u0646\u062a\u0648\u0641"
@@ -112,7 +115,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0440\u043c\u043e\u043d\u0442\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lumontov"
     ],
     "name:vep_x_preferred":[
@@ -146,7 +149,7 @@
     "qs_pg:woe_adm0":23424936,
     "qs_pg:woe_id":2124676,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424936,
     "woe:name_adm0":"Russia",
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":1125900199,
-    "wof:lastmodified":1563263128,
+    "wof:lastmodified":1566631019,
     "wof:name":"Lermontov",
     "wof:parent_id":1108734919,
     "wof:placetype":"locality",

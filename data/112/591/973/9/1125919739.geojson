@@ -9,15 +9,18 @@
     "geom:bbox":"38.84393,44.90212,38.84393,44.90212",
     "geom:latitude":44.90212,
     "geom:longitude":38.84393,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":18209,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":18209,
     "iso:country":"RU",
+    "lbl:bbox":"38.82393,44.88212,38.86393,44.92212",
     "lbl:latitude":44.90212,
     "lbl:longitude":38.84393,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0623\u0641\u064a\u0628\u0633\u0643\u064a\u064a"
@@ -67,7 +70,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0444\u0456\u043f\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Georgiafipskaya"
     ],
     "qs_pg:aaroncc":"RU",
@@ -89,7 +92,7 @@
     "qs_pg:woe_adm0":23424936,
     "qs_pg:woe_id":1980120,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424936,
     "woe:name_adm0":"Russia",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1125919739,
-    "wof:lastmodified":1563263133,
+    "wof:lastmodified":1566631021,
     "wof:name":"Afipskiy",
     "wof:parent_id":1108736479,
     "wof:placetype":"locality",

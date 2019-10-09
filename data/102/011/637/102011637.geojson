@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000452,
-    "geom:area_square_m":3350349.280266,
+    "geom:area_square_m":3350349.280264,
     "geom:bbox":"50.3445281982,53.1488876343,50.3846092224,53.1669998169",
     "geom:latitude":53.158698,
     "geom:longitude":50.364784,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.160637,
     "lbl:longitude":50.366412,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.160637,
     "mps:longitude":50.366412,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chernorech'ye"
     ],
@@ -28,9 +31,6 @@
         "\u0427\u0435\u0440\u043d\u043e\u0440\u0435\u0447\u044c\u0435"
     ],
     "name:rus_x_variant":[
-        "Chernorech\u2019ye"
-    ],
-    "name:unk_x_variant":[
         "Chernorech\u2019ye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687781,
         102191581,
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":102011637,
-    "wof:lastmodified":1501214764,
+    "wof:lastmodified":1566615412,
     "wof:name":"Chernorech'Ye",
     "wof:parent_id":890484437,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000433,
-    "geom:area_square_m":3119952.752717,
+    "geom:area_square_m":3119952.75272,
     "geom:bbox":"51.446056366,54.381526947,51.4817771912,54.404914856",
     "geom:latitude":54.392417,
     "geom:longitude":51.465324,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.390967,
     "lbl:longitude":51.465594,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.390967,
     "mps:longitude":51.465594,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Staraya Shentala"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430\u044f \u0428\u0435\u043d\u0442\u0430\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stepnaya Shentala"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687781,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102009913,
-    "wof:lastmodified":1501214474,
+    "wof:lastmodified":1566615230,
     "wof:name":"Staraya Shentala",
     "wof:parent_id":1108736557,
     "wof:placetype":"locality",

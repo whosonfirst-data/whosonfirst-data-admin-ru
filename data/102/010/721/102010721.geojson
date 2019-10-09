@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000688,
-    "geom:area_square_m":5136599.39097,
+    "geom:area_square_m":5136599.390968,
     "geom:bbox":"46.0677223206,52.844165802,46.098361969,52.8893623352",
     "geom:latitude":52.865659,
     "geom:longitude":46.081572,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.862234,
     "lbl:longitude":46.079251,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.862234,
     "mps:longitude":46.079251,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Russkiy Kameshkir"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u041a\u0430\u043c\u0435\u0448\u043a\u0438\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kameshkir Russkiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,18 +52,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687999
+        85687999,
+        1108734233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":500400,
         "gp:id":2123207,
-        "qs:id":80611,
         "qs_pg:id":80611
     },
     "wof:country":"RU",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102010721,
-    "wof:lastmodified":1505338935,
+    "wof:lastmodified":1566615511,
     "wof:name":"Russkiy Kameshkir",
     "wof:parent_id":1108734233,
     "wof:placetype":"locality",

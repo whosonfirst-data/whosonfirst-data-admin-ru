@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000453,
-    "geom:area_square_m":3221602.809902,
+    "geom:area_square_m":3221602.809906,
     "geom:bbox":"84.3185577393,54.9056129456,84.3616409302,54.9267501831",
     "geom:latitude":54.916106,
     "geom:longitude":84.34153,
     "iso:country":"RU",
     "lbl:latitude":54.918112,
     "lbl:longitude":84.342999,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.918112,
     "mps:longitude":84.342999,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lebedevo"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u041b\u0435\u0431\u0435\u0434\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lebedeva"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687925,
         102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102012951,
-    "wof:lastmodified":1501220039,
+    "wof:lastmodified":1566615011,
     "wof:name":"Lebedevo",
     "wof:parent_id":1108737051,
     "wof:placetype":"locality",

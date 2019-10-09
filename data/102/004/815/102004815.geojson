@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":52.512701,
     "lbl:longitude":39.987777,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.512701,
     "mps:longitude":39.987777,
     "mz:hierarchy_label":1,
@@ -242,7 +244,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.5,
     "wd:longitude":39.933333,
@@ -258,7 +260,7 @@
     "wof:concordances":{
         "gn:id":558312,
         "gp:id":2120953,
-        "qs:id":125497,
+        "qs_pg:id":125497,
         "wd:id":"Q134663",
         "wk:page":"Gryazi"
     },
@@ -275,7 +277,7 @@
         }
     ],
     "wof:id":102004815,
-    "wof:lastmodified":1563241295,
+    "wof:lastmodified":1566615598,
     "wof:name":"",
     "wof:parent_id":1108733935,
     "wof:placetype":"locality",

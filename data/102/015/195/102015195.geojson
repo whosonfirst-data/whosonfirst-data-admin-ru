@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":49.423148,
     "lbl:longitude":130.085755,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.423148,
     "mps:longitude":130.085755,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u0643\u0627\u0631\u0627"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":273,
     "wof:belongsto":[
@@ -108,7 +111,6 @@
     "wof:concordances":{
         "gn:id":2027487,
         "gp:id":2120079,
-        "qs:id":137620,
         "qs_pg:id":137620,
         "wd:id":"Q632454",
         "wk:page":"Arkhara"
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":102015195,
-    "wof:lastmodified":1563239709,
+    "wof:lastmodified":1566614926,
     "wof:name":"Arkhara",
     "wof:parent_id":890483563,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000407,
-    "geom:area_square_m":2842602.361114,
+    "geom:area_square_m":2842602.361112,
     "geom:bbox":"50.5873603821,55.6290016174,50.6412773132,55.6409988403",
     "geom:latitude":55.634299,
     "geom:longitude":50.614117,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.634106,
     "lbl:longitude":50.616299,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.634106,
     "mps:longitude":50.616299,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kutlu-Bukash"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0443\u0442\u043b\u0443-\u0411\u0443\u043a\u0430\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kul\u2019tubukashevo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688065,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102009181,
-    "wof:lastmodified":1501214648,
+    "wof:lastmodified":1566615228,
     "wof:name":"Kutlu-Bukash",
     "wof:parent_id":1108736341,
     "wof:placetype":"locality",

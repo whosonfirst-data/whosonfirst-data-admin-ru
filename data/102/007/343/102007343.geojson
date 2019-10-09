@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000204,
-    "geom:area_square_m":1718648.893698,
+    "geom:area_square_m":1718648.893699,
     "geom:bbox":"43.241859436,47.0462226868,43.2612762451,47.0620002747",
     "geom:latitude":47.054789,
     "geom:longitude":43.251143,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":47.055278,
     "lbl:longitude":43.249987,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.055278,
     "mps:longitude":43.249987,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Prisal'skiy"
     ],
@@ -25,9 +28,6 @@
         "Prisalskij"
     ],
     "name:rus_x_preferred":[
-        "\u041f\u0440\u0438\u0441\u0430\u043b\u044c\u0441\u043a\u0438\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u0440\u0438\u0441\u0430\u043b\u044c\u0441\u043a\u0438\u0439"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0445",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688033,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102007343,
-    "wof:lastmodified":1501214536,
+    "wof:lastmodified":1566615202,
     "wof:name":"Prisalskiy",
     "wof:parent_id":1108733421,
     "wof:placetype":"locality",

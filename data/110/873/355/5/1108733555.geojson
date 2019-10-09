@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":60.463614,
     "lbl:longitude":54.149811,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Permskij kraj",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":54.149811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u0413\u0430\u0439\u043d\u044b\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -90,9 +93,6 @@
     "name:udm_x_preferred":[
         "\u0413\u0430\u0439\u043d\u044b \u0451\u0440\u043e\u0441"
     ],
-    "name:und_x_variant":[
-        "\u0413\u0430\u0439\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Gaynsky"
     ],
@@ -100,9 +100,9 @@
         "\u52a0\u56e0\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"15085",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Gayniy",
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":1108733555,
-    "wof:lastmodified":1563256561,
+    "wof:lastmodified":1566626896,
     "wof:name":"Gajnskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

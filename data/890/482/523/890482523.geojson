@@ -11,9 +11,12 @@
     "geom:longitude":151.09388,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":691,
+    "gn:population":691,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"151.07388,60.18925,151.11388,60.22925",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -24,9 +27,6 @@
         "Karamken"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u0430\u0440\u0430\u043c\u043a\u0435\u043d"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u0430\u0440\u0430\u043c\u043a\u0435\u043d"
     ],
     "ne:ADM0CAP":0.0,
@@ -143,7 +143,7 @@
     "wof:concordances":{
         "gn:id":2124984,
         "gp:id":2121205,
-        "qs:id":138534
+        "qs_pg:id":138534
     },
     "wof:country":"RU",
     "wof:created":1469054423,
@@ -159,7 +159,7 @@
         }
     ],
     "wof:id":890482523,
-    "wof:lastmodified":1505343754,
+    "wof:lastmodified":1566630619,
     "wof:name":"Karamken",
     "wof:parent_id":1108734359,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":59.947255,
     "lbl:longitude":56.294525,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":59.947255,
     "mps:longitude":56.294525,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Kerchevskiy"
     ],
@@ -26,7 +29,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0435\u0440\u0447\u0435\u0432\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kercheva"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,18 +50,18 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85632685,
-        85687975
+        85687975,
+        1108733225
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":551047,
         "gp:id":2121289,
-        "qs:id":125384,
         "qs_pg:id":125384
     },
     "wof:country":"RU",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102008149,
-    "wof:lastmodified":1505338930,
+    "wof:lastmodified":1566615305,
     "wof:name":"Kerchevskiy",
     "wof:parent_id":1108733225,
     "wof:placetype":"locality",

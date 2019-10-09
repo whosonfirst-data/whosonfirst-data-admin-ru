@@ -9,14 +9,17 @@
     "geom:bbox":"59.4184455872,54.3540267944,59.4474716187,54.3856658936",
     "geom:latitude":54.36837,
     "geom:longitude":59.432099,
-    "geonames:id":"479703,479704",
+    "gn:id":"479703,479704",
     "iso:country":"RU",
     "lbl:latitude":54.369608,
     "lbl:longitude":59.433529,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.369608,
     "mps:longitude":59.433529,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u062a\u0634\u0627\u0644\u064a"
     ],
@@ -144,7 +147,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":43,
     "wof:belongsto":[
         85687801,
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":102009929,
-    "wof:lastmodified":1563240394,
+    "wof:lastmodified":1566615250,
     "wof:name":"Uchaly",
     "wof:parent_id":1108737133,
     "wof:placetype":"locality",

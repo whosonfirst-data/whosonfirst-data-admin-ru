@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kirov",
     "iso:country":"RU",
+    "lbl:bbox":"50.31864,58.34681,50.35864,58.38681",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Polom"
     ],
@@ -73,10 +77,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u043e\u043c"
     ],
-    "name:und_x_variant":[
-        "\u041f\u043e\u043b\u043e\u043c",
-        "Polom"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85687903,
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1277130929,
-    "wof:lastmodified":1564117020,
+    "wof:lastmodified":1566621888,
     "wof:name":"Polom",
     "wof:parent_id":1108734441,
     "wof:placetype":"locality",

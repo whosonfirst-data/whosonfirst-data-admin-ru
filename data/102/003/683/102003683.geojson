@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.762224,
     "lbl:longitude":42.724474,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.762224,
     "mps:longitude":42.724474,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u0422\u0435\u043d\u044c\u0433\u0443\u0448\u0435\u0432\u043e"
     ],
@@ -40,7 +43,7 @@
     "name:rus_x_preferred":[
         "\u0422\u0435\u043d\u044c\u0433\u0443\u0448\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ten\u2019gushevo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -59,7 +62,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85687873,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":483642,
         "gp:id":2094998,
-        "qs:id":124794
+        "qs_pg:id":124794
     },
     "wof:country":"RU",
     "wof:geomhash":"a7d13c24879a0112f060f9c7fdf19388",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":102003683,
-    "wof:lastmodified":1564109230,
+    "wof:lastmodified":1566615552,
     "wof:name":"Tengushevo",
     "wof:parent_id":1108736979,
     "wof:placetype":"locality",

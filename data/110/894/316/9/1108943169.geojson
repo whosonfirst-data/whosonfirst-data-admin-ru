@@ -10,8 +10,10 @@
     "geom:latitude":59.99191,
     "geom:longitude":30.413297,
     "iso:country":"RU",
+    "lbl:bbox":"30.4082971449,59.9869103963,30.4182971449,59.9969103963",
     "lbl:latitude":59.99191,
     "lbl:longitude":30.413297,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:rus_x_preferred":[
         "\u041f\u0438\u0441\u043a\u0430\u0440\u0451\u0432\u043a\u0430"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108943169,
-    "wof:lastmodified":1510870337,
+    "wof:lastmodified":1566627429,
     "wof:name":"Piskaryovka",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

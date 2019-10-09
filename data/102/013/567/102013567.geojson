@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.555695,
     "lbl:longitude":85.249365,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":52.555695,
     "mps:longitude":85.249365,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u064a\u0633\u0643"
     ],
@@ -248,7 +251,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.516667,
     "wd:longitude":85.166667,
@@ -264,7 +267,7 @@
     "wof:concordances":{
         "gn:id":1510018,
         "gp:id":1989860,
-        "qs:id":350288,
+        "qs_pg:id":350288,
         "wd:id":"Q102667",
         "wk:page":"Biysk"
     },
@@ -281,7 +284,7 @@
         }
     ],
     "wof:id":102013567,
-    "wof:lastmodified":1563239961,
+    "wof:lastmodified":1566615034,
     "wof:name":"Biysk",
     "wof:parent_id":1108732993,
     "wof:placetype":"locality",

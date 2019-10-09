@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":52.452003,
     "lbl:longitude":136.393865,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"KHabarovskij kraj",
     "meso:admin1r_en":"Dal'nevostochnyj federal'nyj okrug",
     "meso:admin_1":"\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -53,6 +55,7 @@
     "mps:longitude":136.393865,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:che_x_preferred":[
         "\u041f\u043e\u043b\u0438\u043d\u0430 \u041e\u0441\u0438\u043f\u0435\u043d\u043a\u043e\u043d \u0446\u04c0\u0430\u0440\u0430\u0445 \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -96,9 +99,9 @@
         "\u4f0a\u6885\u5c3c\u6ce2\u5229\u5167\u5967\u897f\u7247\u79d1\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"34553",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Poliny Osipenko",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":1108733995,
-    "wof:lastmodified":1563256552,
+    "wof:lastmodified":1566626890,
     "wof:name":"Imeni Poliny Osipenko",
     "wof:parent_id":85687937,
     "wof:placetype":"county",

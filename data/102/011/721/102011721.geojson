@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":58.043152,
     "lbl:longitude":63.702802,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":58.043152,
     "mps:longitude":63.702802,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0631\u064a\u0646\u0633\u0643"
     ],
@@ -121,9 +124,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0440\u0438\u043d\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "\u0422\u0443\u0440\u0438\u043d\u0441\u043a"
-    ],
     "name:vep_x_preferred":[
         "Turinsk"
     ],
@@ -151,7 +151,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":58.033333,
     "wd:longitude":63.7,
@@ -166,7 +166,6 @@
     "wof:concordances":{
         "gn:id":1488933,
         "gp:id":2124012,
-        "qs:id":370571,
         "qs_pg:id":370571,
         "wd:id":"Q196711",
         "wk:page":"Turinsk"
@@ -182,7 +181,7 @@
         }
     ],
     "wof:id":102011721,
-    "wof:lastmodified":1563240845,
+    "wof:lastmodified":1566615420,
     "wof:name":"Turinsk",
     "wof:parent_id":1108737111,
     "wof:placetype":"locality",

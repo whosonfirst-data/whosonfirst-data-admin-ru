@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.605377,
     "lbl:longitude":31.196588,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.605377,
     "mps:longitude":31.196588,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u064a\u062c"
     ],
@@ -164,7 +167,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.6,
     "wd:longitude":31.2,
@@ -179,7 +182,6 @@
     "wof:concordances":{
         "gn:id":475955,
         "gp:id":2103955,
-        "qs:id":208060,
         "qs_pg:id":208060,
         "wd:id":"Q132960",
         "wk:page":"Velizh"
@@ -195,7 +197,7 @@
         }
     ],
     "wof:id":102003249,
-    "wof:lastmodified":1563241174,
+    "wof:lastmodified":1566615551,
     "wof:name":"Velizh",
     "wof:parent_id":1108737323,
     "wof:placetype":"locality",

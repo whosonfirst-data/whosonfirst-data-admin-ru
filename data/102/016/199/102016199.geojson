@@ -5,25 +5,25 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000473,
-    "geom:area_square_m":4220739.591685,
+    "geom:area_square_m":4220739.591683,
     "geom:bbox":"43.8058586121,43.7984237671,43.8418655396,43.8238868713",
     "geom:latitude":43.811098,
     "geom:longitude":43.823897,
-    "geonames:id":"866901,491079",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":4651,
+    "gn:id":"866901,491079",
+    "gn:population":4651,
     "iso:country":"RU",
     "lbl:latitude":43.810662,
     "lbl:longitude":43.823624,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.810662,
     "mps:longitude":43.823624,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
-        "\u0421\u043e\u043b\u0434\u0430\u0442\u0441\u043a\u0430\u044f"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u043e\u043b\u0434\u0430\u0442\u0441\u043a\u0430\u044f"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688089,
@@ -59,7 +59,7 @@
     "wof:concordances":{
         "gn:id":491079,
         "gp:id":2086636,
-        "qs:id":80562
+        "qs_pg:id":80562
     },
     "wof:country":"RU",
     "wof:geomhash":"b7725f4d82f38aec0f46f0b290de42d1",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":102016199,
-    "wof:lastmodified":1505338948,
+    "wof:lastmodified":1566615448,
     "wof:name":"Soldatskaya",
     "wof:parent_id":1108735999,
     "wof:placetype":"locality",

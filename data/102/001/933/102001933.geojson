@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000808,
-    "geom:area_square_m":4202536.173597,
+    "geom:area_square_m":4202536.173603,
     "geom:bbox":"57.1310844421,65.1036682129,57.1701660156,65.1330795288",
     "geom:latitude":65.116679,
     "geom:longitude":57.153455,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":65.115981,
     "lbl:longitude":57.153829,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":65.115981,
     "mps:longitude":57.153829,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oz\u00ebrnyy"
     ],
@@ -29,9 +32,6 @@
     ],
     "name:rus_x_variant":[
         "\u041e\u0437\u0451\u0440\u043d\u044b\u0439"
-    ],
-    "name:unk_x_variant":[
-        "Oz\u00ebrnyy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043c\u0438",
@@ -49,7 +49,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688077,
         102191581,
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":102001933,
-    "wof:lastmodified":1501216274,
+    "wof:lastmodified":1566615321,
     "wof:name":"",
     "wof:parent_id":890483295,
     "wof:placetype":"locality",

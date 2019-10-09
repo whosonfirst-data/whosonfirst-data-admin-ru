@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001681,
-    "geom:area_square_m":12153912.205341,
+    "geom:area_square_m":12153912.205342,
     "geom:bbox":"80.1810302734,54.1981124878,80.2637786865,54.2440834045",
     "geom:latitude":54.220082,
     "geom:longitude":80.222254,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.215858,
     "lbl:longitude":80.214732,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.215858,
     "mps:longitude":80.214732,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Reshety"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0420\u0435\u0448\u0435\u0442\u044b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Reshetovskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687925,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102013131,
-    "wof:lastmodified":1501220014,
+    "wof:lastmodified":1566615060,
     "wof:name":"Reshety",
     "wof:parent_id":1108734513,
     "wof:placetype":"locality",

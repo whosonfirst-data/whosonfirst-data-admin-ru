@@ -9,11 +9,13 @@
     "geom:bbox":"47.7390632629,51.9659461975,47.830871582,52.0497741699",
     "geom:latitude":52.010742,
     "geom:longitude":47.787187,
-    "geonames:id":"6843513,579492",
+    "gn:id":"6843513,579492",
     "gn:population":199572,
     "iso:country":"RU",
     "lbl:latitude":52.000523,
     "lbl:longitude":47.803184,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":52.000523,
     "mps:longitude":47.803184,
     "mz:hierarchy_label":1,
@@ -345,7 +347,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.0,
     "wd:longitude":47.8,
@@ -360,7 +362,6 @@
     "wof:concordances":{
         "gn:id":579492,
         "gp:id":2120151,
-        "qs:id":349734,
         "qs_pg:id":349734,
         "wd:id":"Q104560",
         "wk:page":"Balakovo"
@@ -376,7 +377,7 @@
         }
     ],
     "wof:id":102011021,
-    "wof:lastmodified":1563240818,
+    "wof:lastmodified":1566615411,
     "wof:name":"Balakovo",
     "wof:parent_id":1108732867,
     "wof:placetype":"locality",

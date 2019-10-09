@@ -9,15 +9,18 @@
     "geom:bbox":"41.9734,45.0428,41.9734,45.0428",
     "geom:latitude":45.0428,
     "geom:longitude":41.9734,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":363064,
+    "gn:country":"RU",
+    "gn:fcode":"PPLA",
     "gn:population":363064,
     "iso:country":"RU",
+    "lbl:bbox":"41.9534,45.0228,41.9934,45.0628",
     "lbl:latitude":45.0428,
     "lbl:longitude":41.9734,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Stawropol"
@@ -265,7 +268,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Voroshilovsk"
     ],
     "name:urd_x_preferred":[
@@ -310,7 +313,7 @@
     "qs_pg:qs_id":349467,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85687825,
@@ -339,7 +342,7 @@
         }
     ],
     "wof:id":1125782385,
-    "wof:lastmodified":1563263163,
+    "wof:lastmodified":1566631035,
     "wof:name":"Stavropol\u2019",
     "wof:parent_id":890487003,
     "wof:placetype":"locality",

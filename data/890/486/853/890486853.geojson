@@ -11,11 +11,15 @@
     "geom:longitude":53.0254,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"53.0054,58.1604,53.0454,58.2004",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kabakovo"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:rus_x_variant":[
         "\u041a\u0430\u0431\u0430\u043a\u043e\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Kuregovo"
     ],
     "qs:name":"Kabakovo",
     "qs:name_adm0":"Russia",
@@ -50,7 +51,7 @@
     "wof:concordances":{
         "gn:id":554691,
         "gp:id":2014365,
-        "qs:id":886373
+        "qs_pg:id":886373
     },
     "wof:country":"RU",
     "wof:created":1469054640,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":890486853,
-    "wof:lastmodified":1505343775,
+    "wof:lastmodified":1566630880,
     "wof:name":"Kabakovo",
     "wof:parent_id":890480595,
     "wof:placetype":"locality",

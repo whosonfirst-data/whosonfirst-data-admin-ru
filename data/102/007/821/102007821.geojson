@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.440218,
     "lbl:longitude":41.976723,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.440218,
     "mps:longitude":41.976723,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Donskoye"
     ],
@@ -64,9 +67,6 @@
     "name:spa_x_preferred":[
         "Donsk\u00f3i"
     ],
-    "name:unk_x_variant":[
-        "\u0414\u043e\u043d\u0441\u043a\u043e\u0435"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
     "qs:a1_lc":"2602500000100",
@@ -85,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":93,
     "wof:belongsto":[
@@ -98,7 +98,6 @@
     "wof:concordances":{
         "gn:id":565289,
         "gp:id":2120689,
-        "qs:id":276040,
         "qs_pg:id":276040,
         "wd:id":"Q1242136"
     },
@@ -113,7 +112,7 @@
         }
     ],
     "wof:id":102007821,
-    "wof:lastmodified":1563240215,
+    "wof:lastmodified":1566615155,
     "wof:name":"Donskoye",
     "wof:parent_id":1108737095,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000123,
-    "geom:area_square_m":1094122.967803,
+    "geom:area_square_m":1094122.967802,
     "geom:bbox":"44.2086105347,43.9804725647,44.2244148254,43.9929161072",
     "geom:latitude":43.986551,
     "geom:longitude":44.216846,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.98736,
     "lbl:longitude":44.215905,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.98736,
     "mps:longitude":44.215905,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rostovanovskoye"
     ],
@@ -26,9 +29,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0420\u043e\u0441\u0442\u043e\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Rostovanovskoye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -46,7 +46,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687825,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102016127,
-    "wof:lastmodified":1501214521,
+    "wof:lastmodified":1566615442,
     "wof:name":"Rostovanovka",
     "wof:parent_id":1108734835,
     "wof:placetype":"locality",

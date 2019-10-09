@@ -11,18 +11,21 @@
     "geom:longitude":30.50824,
     "gn:country":"RU",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"30.50324,59.9661,30.51324,59.9761",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:fin_x_preferred":[
         "Ruutmylly"
     ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0440\u043e\u0445\u043e\u0432\u044b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Porokhovyye"
     ],
     "qs:name":"Porokhovaya",
@@ -38,17 +41,17 @@
     "qs:pop_sr":"0",
     "src:population":"geonames",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":506257,
         "gp:id":2070024,
-        "qs:id":232645
+        "qs_pg:id":232645
     },
     "wof:country":"RU",
     "wof:created":1469054657,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":890487121,
-    "wof:lastmodified":1510870351,
+    "wof:lastmodified":1566630916,
     "wof:name":"Porokhovaya",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

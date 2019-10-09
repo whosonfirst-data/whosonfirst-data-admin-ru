@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001529,
-    "geom:area_square_m":13165804.487294,
+    "geom:area_square_m":13165804.487296,
     "geom:bbox":"40.3678627014,45.8307228088,40.4341392517,45.8705825806",
     "geom:latitude":45.850832,
     "geom:longitude":40.398733,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.848693,
     "lbl:longitude":40.400992,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.848693,
     "mps:longitude":40.400992,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Ternovskaya"
     ],
@@ -31,7 +34,7 @@
     "name:rus_x_variant":[
         "\u0422\u0435\u0440\u043d\u0435\u0432\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ternevskaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -50,7 +53,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":30,
     "wof:belongsto":[
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":483326,
         "gp:id":2123884,
-        "qs:id":124782
+        "qs_pg:id":124782
     },
     "wof:country":"RU",
     "wof:geomhash":"a32578440218ee4e75dc7c21dad5402d",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":102007675,
-    "wof:lastmodified":1527637033,
+    "wof:lastmodified":1566615150,
     "wof:name":"Ternovskaya",
     "wof:parent_id":1108737013,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":60.73757,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"60.71757,57.43597,60.75757,57.47597",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0628\u0631\u064a\u0646\u0648\u0633"
     ],
@@ -55,9 +59,6 @@
     "name:tur_x_preferred":[
         "Sar\u0131h\u0131d\u0131r"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u0438\u043f\u0440\u0438\u043d\u043e"
-    ],
     "qs:name":"Kiprino",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Sverdlovsk Oblast",
@@ -80,7 +81,7 @@
     "wof:concordances":{
         "gn:id":1503381,
         "gp:id":2021572,
-        "qs:id":1158118,
+        "qs_pg:id":1158118,
         "wk:page":"Kyprinos"
     },
     "wof:country":"RU",
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":890484769,
-    "wof:lastmodified":1564129098,
+    "wof:lastmodified":1566630700,
     "wof:name":"Kiprino",
     "wof:parent_id":1108735355,
     "wof:placetype":"locality",

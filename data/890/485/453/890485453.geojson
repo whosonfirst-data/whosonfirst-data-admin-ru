@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":57.260322,
     "lbl:longitude":35.557676,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tverskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u0422\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":35.557676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bak_x_preferred":[
         "\u041b\u0438\u0445\u043e\u0441\u043b\u0430\u0432\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
@@ -103,9 +106,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0438\u0445\u043e\u0441\u043b\u0430\u0432\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u041b\u0438\u0445\u043e\u0441\u043b\u0430\u0432\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Likhoslavlsky"
     ],
@@ -126,9 +126,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1771",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Likhoslavl'",
@@ -150,7 +150,7 @@
     "wof:concordances":{
         "gp:id":12598363,
         "hasc:id":"RU.TV.LI",
-        "qs:id":989705,
+        "qs_pg:id":989705,
         "wd:id":"Q394722",
         "wk:page":"Likhoslavlsky District"
     },
@@ -167,7 +167,7 @@
         }
     ],
     "wof:id":890485453,
-    "wof:lastmodified":1563262007,
+    "wof:lastmodified":1566630538,
     "wof:name":"Likhoslavl'skiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

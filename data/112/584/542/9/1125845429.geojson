@@ -9,15 +9,18 @@
     "geom:bbox":"44.78096,48.4748,44.78096,48.4748",
     "geom:latitude":48.4748,
     "geom:longitude":44.78096,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":13131,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":13131,
     "iso:country":"RU",
+    "lbl:bbox":"44.76096,48.4548,44.80096,48.4948",
     "lbl:latitude":48.4748,
     "lbl:longitude":44.78096,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:che_x_preferred":[
         "\u0421\u0432\u0435\u0442\u043b\u0438 \u042f\u0440"
@@ -58,9 +61,6 @@
     "name:tgk_x_preferred":[
         "\u0421\u0432\u0435\u0442\u043b\u0438\u0439 \u042f\u0440"
     ],
-    "name:unk_x_variant":[
-        "Svetly Yar"
-    ],
     "qs_pg:aaroncc":"RU",
     "qs_pg:gn_country":"RU",
     "qs_pg:gn_fcode":"PPL",
@@ -78,7 +78,7 @@
     "qs_pg:woe_adm0":23424936,
     "qs_pg:woe_id":56451905,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424936,
     "woe:name_adm0":"Russia",
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":1125845429,
-    "wof:lastmodified":1563263168,
+    "wof:lastmodified":1566631037,
     "wof:name":"Svetliy Yar",
     "wof:parent_id":1108736877,
     "wof:placetype":"locality",

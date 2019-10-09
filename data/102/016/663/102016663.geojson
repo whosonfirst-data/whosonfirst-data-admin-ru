@@ -16,10 +16,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.29609,
     "lbl:longitude":45.674588,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.29609,
     "mps:longitude":45.674588,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Grozni"
     ],
@@ -354,7 +357,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u043e\u0437\u043d\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dzhokhar-Ghala"
     ],
     "name:urd_x_preferred":[
@@ -422,7 +425,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":43.316667,
     "wd:longitude":45.7,
@@ -437,10 +440,12 @@
     "wof:concordances":{
         "gn:id":558418,
         "gp:id":2010343,
-        "qs:id":1179166,
         "qs_pg:id":125518,
         "wd:id":"Q5196",
         "wk:page":"Grozny"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1179166
     },
     "wof:country":"RU",
     "wof:geomhash":"9e33b464dc9c03dcd093f640ae264f12",
@@ -453,7 +458,7 @@
         }
     ],
     "wof:id":102016663,
-    "wof:lastmodified":1563240928,
+    "wof:lastmodified":1566615457,
     "wof:name":"Groznyy",
     "wof:parent_id":1108733939,
     "wof:placetype":"locality",

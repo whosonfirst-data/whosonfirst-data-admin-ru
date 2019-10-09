@@ -11,11 +11,15 @@
     "geom:longitude":86.15,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":5406,
+    "gn:population":5406,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"86.13,50.73,86.17,50.77",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0410\u043d\u0433\u0443\u0434\u0430\u0439"
     ],
@@ -76,9 +80,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u043d\u0433\u0443\u0434\u0430\u0439"
     ],
-    "name:unk_x_variant":[
-        "\u041e\u043d\u0433\u0443\u0434\u0430\u0439"
-    ],
     "name:zho_x_preferred":[
         "\u7fc1\u53e4\u8fbe\u4f0a"
     ],
@@ -106,7 +107,7 @@
     "wof:concordances":{
         "gn:id":1496130,
         "gp:id":2059838,
-        "qs:id":189976,
+        "qs_pg:id":189976,
         "wd:id":"Q263111",
         "wk:page":"Onguday"
     },
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":890486363,
-    "wof:lastmodified":1563262731,
+    "wof:lastmodified":1566630844,
     "wof:name":"Onguday",
     "wof:parent_id":1108735687,
     "wof:placetype":"locality",

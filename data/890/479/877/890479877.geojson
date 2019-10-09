@@ -11,11 +11,15 @@
     "geom:longitude":37.41083,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"37.39083,55.965,37.43083,56.005",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chashnikovo"
     ],
@@ -27,9 +31,6 @@
     ],
     "name:rus_x_variant":[
         "\u0427\u0430\u0448\u043d\u0438\u043a\u043e\u0432\u043e (\u041b\u0443\u043d\u0451\u0432\u0441\u043a\u043e\u0435)"
-    ],
-    "name:unk_x_variant":[
-        "\u0427\u0430\u0448\u043d\u0438\u043a\u043e\u0432\u043e"
     ],
     "qs:name":"Chashnikovo",
     "qs:name_adm0":"Russia",
@@ -54,7 +55,7 @@
     "wof:concordances":{
         "gn:id":569842,
         "gp:id":1997033,
-        "qs:id":241150
+        "qs_pg:id":241150
     },
     "wof:country":"RU",
     "wof:created":1469054273,
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":890479877,
-    "wof:lastmodified":1505343740,
+    "wof:lastmodified":1566630757,
     "wof:name":"Chashnikovo",
     "wof:parent_id":1108733773,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.18325,
     "lbl:longitude":53.161546,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":57.18325,
     "mps:longitude":53.161546,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u042f\u043a\u0448\u0443\u0440-\u0411\u043e\u0434\u044c\u044f\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -61,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u043a\u0448\u0443\u0440-\u0411\u043e\u0434\u044c\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yakshur-Bod\u2019ya"
     ],
     "name:vie_x_preferred":[
@@ -86,7 +89,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":837,
     "wof:belongsto":[
         85687787,
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":102008635,
-    "wof:lastmodified":1563240449,
+    "wof:lastmodified":1566615274,
     "wof:name":"Yakshur Bodya",
     "wof:parent_id":1108734073,
     "wof:placetype":"locality",

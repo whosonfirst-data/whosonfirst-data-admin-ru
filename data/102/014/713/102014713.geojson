@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.399586,
     "lbl:longitude":110.651906,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.399586,
     "mps:longitude":110.651906,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0413\u044b\u0440\u0448\u0435\u043b\u0443\u043d"
     ],
@@ -33,7 +36,7 @@
     "name:rus_x_preferred":[
         "\u0413\u044b\u0440\u0448\u0435\u043b\u0443\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Girshelun"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -52,7 +55,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.396667,
     "wd:longitude":110.643611,
     "wd:wordcount":136,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":102014713,
-    "wof:lastmodified":1561831668,
+    "wof:lastmodified":1566615109,
     "wof:name":"Gyrshelun",
     "wof:parent_id":1108734361,
     "wof:placetype":"locality",

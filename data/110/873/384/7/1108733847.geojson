@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":54.879145,
     "lbl:longitude":37.213931,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Moskovskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":37.213931,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0648\u062a\u0641\u064a\u0646\u0648"
     ],
@@ -153,7 +156,7 @@
         "\u666e\u7f85\u7279\u7dad\u8afe"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85688161,
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":1108733847,
-    "wof:lastmodified":1564124449,
+    "wof:lastmodified":1566627054,
     "wof:name":"Protvino",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00142,
-    "geom:area_square_m":11106669.45,
+    "geom:area_square_m":11106669.450001,
     "geom:bbox":"46.0189437866,50.7549438477,46.0908050537,50.7892494202",
     "geom:latitude":50.770889,
     "geom:longitude":46.053483,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.771981,
     "lbl:longitude":46.055932,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.771981,
     "mps:longitude":46.055932,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Rovnoye"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0420\u043e\u0432\u043d\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zel\u2019man"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":30,
     "wof:belongsto":[
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":501091,
         "gp:id":2123182,
-        "qs:id":257448,
         "qs_pg:id":257448
     },
     "wof:country":"RU",
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":102011333,
-    "wof:lastmodified":1527637590,
+    "wof:lastmodified":1566615405,
     "wof:name":"Rovnoye",
     "wof:parent_id":1108736317,
     "wof:placetype":"locality",

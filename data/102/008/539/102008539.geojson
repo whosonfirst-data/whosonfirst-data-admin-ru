@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":57.610729,
     "lbl:longitude":47.933777,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":57.610729,
     "mps:longitude":47.933777,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Tuscha"
     ],
@@ -59,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":480085,
         "gp:id":2124023,
-        "qs:id":275019,
         "qs_pg:id":275019
     },
     "wof:country":"RU",
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":102008539,
-    "wof:lastmodified":1564108934,
+    "wof:lastmodified":1566615282,
     "wof:name":"Tuzha",
     "wof:parent_id":1108737121,
     "wof:placetype":"locality",

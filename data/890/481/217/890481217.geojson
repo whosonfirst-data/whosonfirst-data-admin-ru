@@ -11,11 +11,15 @@
     "geom:longitude":28.21625,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":11074,
+    "gn:population":11074,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"28.19625,59.35155,28.23625,59.39155",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0622\u064a\u0641\u0627\u0646\u063a\u0648\u0631\u0648\u062f"
     ],
@@ -163,9 +167,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u0432\u0430\u043d\u0433\u043e\u0440\u043e\u0434"
     ],
-    "name:unk_x_variant":[
-        "\u0418\u0432\u0430\u043d\u0433\u043e\u0440\u043e\u0434"
-    ],
     "name:vie_x_preferred":[
         "Ivangorod"
     ],
@@ -199,7 +200,7 @@
     "wof:concordances":{
         "gn:id":555624,
         "gp:id":2124691,
-        "qs:id":345173,
+        "qs_pg:id":345173,
         "wd:id":"Q15256",
         "wk:page":"Ivangorod"
     },
@@ -217,7 +218,7 @@
         }
     ],
     "wof:id":890481217,
-    "wof:lastmodified":1563262632,
+    "wof:lastmodified":1566630794,
     "wof:name":"Ivangorod",
     "wof:parent_id":890481557,
     "wof:placetype":"locality",

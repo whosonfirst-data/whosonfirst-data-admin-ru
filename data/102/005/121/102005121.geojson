@@ -9,17 +9,20 @@
     "geom:bbox":"44.3296356201,52.0439758301,44.3666954041,52.0640830994",
     "geom:latitude":52.053846,
     "geom:longitude":44.349132,
-    "geonames:id":"468205,468180",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":6435,
+    "gn:id":"468205,468180",
+    "gn:population":6435,
     "iso:country":"RU",
     "lbl:latitude":52.053955,
     "lbl:longitude":44.349132,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.053955,
     "mps:longitude":44.349132,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u064a\u064a\u0643\u0627\u062a\u064a\u0631\u064a\u0646\u0648\u0641\u0643\u0627"
     ],
@@ -62,9 +65,6 @@
     "name:ukr_x_variant":[
         "\u0404\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u043e\u0432\u043a\u0430"
-    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"6401300000100",
@@ -85,7 +85,7 @@
     "qs:type":"\u0440\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":22,
     "wof:belongsto":[
@@ -99,7 +99,7 @@
     "wof:concordances":{
         "gn:id":468180,
         "gp:id":2124468,
-        "qs:id":207343,
+        "qs_pg:id":207343,
         "wd:id":"Q3623617",
         "wk:page":"Yekaterinovka"
     },
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":102005121,
-    "wof:lastmodified":1563241377,
+    "wof:lastmodified":1566615635,
     "wof:name":"Yekaterinovka",
     "wof:parent_id":1108733471,
     "wof:placetype":"locality",

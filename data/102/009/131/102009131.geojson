@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000214,
-    "geom:area_square_m":1486546.953002,
+    "geom:area_square_m":1486546.953001,
     "geom:bbox":"46.8231124878,55.7374992371,46.8543624878,55.7519454956",
     "geom:latitude":55.744632,
     "geom:longitude":46.839142,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.746396,
     "lbl:longitude":46.843285,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.746396,
     "mps:longitude":46.843285,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043d\u0438\u0435 \u0422\u0430\u0442\u043c\u044b\u0448\u0438"
     ],
@@ -37,7 +40,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688111,
         102191581,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102009131,
-    "wof:lastmodified":1501214428,
+    "wof:lastmodified":1566615232,
     "wof:name":"Verkhniye Tatmyshi",
     "wof:parent_id":1108732711,
     "wof:placetype":"locality",

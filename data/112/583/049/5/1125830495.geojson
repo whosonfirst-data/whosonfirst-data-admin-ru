@@ -9,15 +9,18 @@
     "geom:bbox":"41.8968,46.78047,41.8968,46.78047",
     "geom:latitude":46.78047,
     "geom:longitude":41.8968,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5210,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":5210,
     "iso:country":"RU",
+    "lbl:bbox":"41.8768,46.76047,41.9168,46.80047",
     "lbl:latitude":46.78047,
     "lbl:longitude":41.8968,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Gundorovskiy"
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0413\u0443\u043d\u0434\u043e\u0440\u043e\u0432\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gundorov"
     ],
     "qs_pg:aaroncc":"RU",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":80922,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85688033,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1125830495,
-    "wof:lastmodified":1509394649,
+    "wof:lastmodified":1566631040,
     "wof:name":"Gundorovskiy",
     "wof:parent_id":1108735709,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000381,
-    "geom:area_square_m":2823582.202454,
+    "geom:area_square_m":2823582.202455,
     "geom:bbox":"56.1310539246,53.110748291,56.1633071899,53.1334991455",
     "geom:latitude":53.123299,
     "geom:longitude":56.147194,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.124826,
     "lbl:longitude":56.147193,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.124826,
     "mps:longitude":56.147193,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Voskresenskoye"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Voskresenskiy Zavod"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":86,
     "wof:belongsto":[
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":471633,
         "gp:id":2124345,
-        "qs:id":80439,
         "qs_pg:id":80439
     },
     "wof:country":"RU",
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":102010613,
-    "wof:lastmodified":1527637802,
+    "wof:lastmodified":1566615498,
     "wof:name":"Voskresenskoye",
     "wof:parent_id":1108735103,
     "wof:placetype":"locality",

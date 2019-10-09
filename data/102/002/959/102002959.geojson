@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":56.221347,
     "lbl:longitude":32.782536,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":56.221347,
     "mps:longitude":32.782536,
     "mz:hierarchy_label":1,
@@ -117,7 +119,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0435\u043b\u0456\u0434\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pos\u00eblok Delidovo"
     ],
     "name:vep_x_preferred":[
@@ -239,7 +241,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":140,
     "wof:belongsto":[
@@ -253,7 +255,6 @@
     "wof:concordances":{
         "gn:id":522775,
         "gp:id":2122367,
-        "qs:id":211133,
         "qs_pg:id":211133,
         "wd:id":"Q172366",
         "wk:page":"Nelidovo"
@@ -271,7 +272,7 @@
         }
     ],
     "wof:id":102002959,
-    "wof:lastmodified":1563241549,
+    "wof:lastmodified":1566615690,
     "wof:name":"Nelidovo",
     "wof:parent_id":890480053,
     "wof:placetype":"locality",

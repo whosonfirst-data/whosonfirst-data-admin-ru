@@ -15,6 +15,7 @@
     "iso:country":"RU",
     "lbl:latitude":55.690563,
     "lbl:longitude":37.545384,
+    "lbl:max_zoom":18.0,
     "mps:latitude":55.68997,
     "mps:longitude":37.546746,
     "mz:hierarchy_label":1,
@@ -42,9 +43,8 @@
     "name:rus_x_variant":[
         "\u0421\u0435\u043c\u0451\u043d\u043e\u0432\u0441\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
-        "Sem\u00ebnovskoye",
-        "Semenovskoye"
+    "name:und_x_variant":[
+        "Sem\u00ebnovskoye"
     ],
     "qs:gn_adm0_cc":"RU",
     "qs:gn_fcode":"PPLX",
@@ -87,7 +87,6 @@
     "wof:concordances":{
         "gn:id":497271,
         "gp:id":2079789,
-        "qs:id":1091158,
         "qs_pg:id":1091158
     },
     "wof:country":"RU",
@@ -107,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247575,
+    "wof:lastmodified":1566618507,
     "wof:name":"Semenovskoye",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001064,
-    "geom:area_square_m":6941750.077434,
+    "geom:area_square_m":9498355.08615,
     "geom:bbox":"43.2393302917,43.762878418,43.3596496582,43.8177909851",
     "geom:latitude":43.789627,
     "geom:longitude":43.30445,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":43.798304,
     "lbl:longitude":43.326631,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":43.798304,
     "mps:longitude":43.326631,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Malka"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u043b\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ashabovo"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":60,
     "wof:belongsto":[
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":530994,
         "gp:id":2122078,
-        "qs:id":80783,
         "qs_pg:id":80783
     },
     "wof:country":"RU",
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1175613477,
-    "wof:lastmodified":1534985978,
+    "wof:lastmodified":1566627439,
     "wof:name":"Malka",
     "wof:parent_id":1108738313,
     "wof:placetype":"locality",

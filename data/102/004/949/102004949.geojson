@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002767,
-    "geom:area_square_m":20913726.866952,
+    "geom:area_square_m":20913726.866951,
     "geom:bbox":"38.3003883362,52.284362793,38.3928070068,52.3485832214",
     "geom:latitude":52.321666,
     "geom:longitude":38.342523,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.326421,
     "lbl:longitude":38.343224,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.326421,
     "mps:longitude":38.343224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Dolgorukowo"
     ],
@@ -32,9 +35,6 @@
         "Dolgorukovo"
     ],
     "name:rus_x_preferred":[
-        "\u0414\u043e\u043b\u0433\u043e\u0440\u0443\u043a\u043e\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u0414\u043e\u043b\u0433\u043e\u0440\u0443\u043a\u043e\u0432\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -55,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":115,
     "wof:belongsto":[
@@ -68,7 +68,6 @@
     "wof:concordances":{
         "gn:id":565611,
         "gp:id":2120676,
-        "qs:id":549900,
         "qs_pg:id":549900
     },
     "wof:country":"RU",
@@ -82,7 +81,7 @@
         }
     ],
     "wof:id":102004949,
-    "wof:lastmodified":1527637843,
+    "wof:lastmodified":1566615588,
     "wof:name":"Dolgorukovo",
     "wof:parent_id":1108733397,
     "wof:placetype":"locality",

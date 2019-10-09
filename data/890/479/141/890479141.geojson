@@ -11,10 +11,14 @@
     "geom:longitude":83.1825,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":9976,
+    "gn:population":9976,
     "iso:country":"RU",
+    "lbl:bbox":"83.1625,54.9176,83.2025,54.9576",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u043b\u044c\u0446\u043e\u0432\u0430"
     ],
@@ -60,9 +64,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043b\u044c\u0446\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "\u041a\u043e\u043b\u044c\u0446\u043e\u0432\u043e"
-    ],
     "name:zho_x_preferred":[
         "\u65b0\u897f\u4f2f\u5229\u4e9e\u5dde\u79d1\u5229\u4f50\u6c83"
     ],
@@ -83,7 +84,7 @@
     "wof:concordances":{
         "gn:id":1502847,
         "gp:id":2023844,
-        "qs:id":132995,
+        "qs_pg:id":132995,
         "wd:id":"Q1002766",
         "wk:page":"Koltsovo"
     },
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":890479141,
-    "wof:lastmodified":1563262586,
+    "wof:lastmodified":1566630774,
     "wof:name":"Kol\u2019tsovo",
     "wof:parent_id":1108734529,
     "wof:placetype":"locality",

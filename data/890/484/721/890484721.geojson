@@ -11,11 +11,15 @@
     "geom:longitude":49.9467,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"49.9267,58.5835,49.9667,58.6235",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0432\u0438\u0446\u0430"
     ],
@@ -43,9 +47,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0432\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
-        "\u0411\u043e\u0440\u043e\u0432\u0438\u0446\u0430"
-    ],
     "qs:name":"Borovitsa",
     "qs:name_adm0":"Russia",
     "qs:name_adm1":"Kirov Oblast",
@@ -66,7 +67,7 @@
     "wof:concordances":{
         "gn:id":572137,
         "gp:id":1994166,
-        "qs:id":1158090,
+        "qs_pg:id":1158090,
         "wk:page":"Borowica"
     },
     "wof:country":"RU",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":890484721,
-    "wof:lastmodified":1564129118,
+    "wof:lastmodified":1566630719,
     "wof:name":"Borovitsa",
     "wof:parent_id":1108736659,
     "wof:placetype":"locality",

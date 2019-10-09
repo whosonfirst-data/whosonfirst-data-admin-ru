@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000453,
-    "geom:area_square_m":3100653.354875,
+    "geom:area_square_m":3100653.354878,
     "geom:bbox":"43.7025260925,56.3959999084,43.7341117859,56.4156951904",
     "geom:latitude":56.405117,
     "geom:longitude":43.719419,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.404903,
     "lbl:longitude":43.719419,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":56.404903,
     "mps:longitude":43.719419,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"5200400000400",
@@ -33,7 +36,7 @@
     "qs:type":"\u0440\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688057,
@@ -46,7 +49,7 @@
     "wof:concordances":{
         "gn:id":573559,
         "gp:id":1992801,
-        "qs:id":81013
+        "qs_pg:id":81013
     },
     "wof:country":"RU",
     "wof:geomhash":"731a639fff00a6d07f51f402a6ff8e29",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":102002893,
-    "wof:lastmodified":1505338916,
+    "wof:lastmodified":1566615680,
     "wof:name":"Bol'Shoye Kozino",
     "wof:parent_id":890483737,
     "wof:placetype":"locality",

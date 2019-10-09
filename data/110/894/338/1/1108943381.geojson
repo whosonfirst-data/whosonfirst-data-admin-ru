@@ -10,8 +10,10 @@
     "geom:latitude":59.975381,
     "geom:longitude":30.509951,
     "iso:country":"RU",
+    "lbl:bbox":"30.5049505368,59.9703805049,30.5149505368,59.9803805049",
     "lbl:latitude":59.975381,
     "lbl:longitude":30.509951,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,13 +26,13 @@
     "name:rus_x_preferred":[
         "\u0420\u0436\u0435\u0432\u043a\u0430"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85688069,
         102191581,
         85632685,
         1158857531,
-        874393555,
-        85688069
+        874393555
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108943381,
-    "wof:lastmodified":1510870340,
+    "wof:lastmodified":1566627397,
     "wof:name":"Rzhevka",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",

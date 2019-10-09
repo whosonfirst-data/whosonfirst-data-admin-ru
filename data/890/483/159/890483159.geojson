@@ -11,11 +11,15 @@
     "geom:longitude":42.8813,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":19956,
+    "gn:population":19956,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"42.8613,44.0128,42.9013,44.0528",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:che_x_preferred":[
         "\u041f\u0440\u0435\u0434\u0433\u043e\u0440\u043d\u0435\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -55,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0435\u0434\u0433\u0456\u0440\u043d\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "\u0415\u0441\u0441\u0435\u043d\u0442\u0443\u043a\u0441\u043a\u0430\u044f"
-    ],
     "name:vie_x_preferred":[
         "Predgornyy"
     ],
@@ -88,7 +89,7 @@
     "wof:concordances":{
         "gn:id":466989,
         "gp:id":2113688,
-        "qs:id":1255380,
+        "qs_pg:id":1255380,
         "wd:id":"Q1255181",
         "wk:page":"Predgorny District"
     },
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":890483159,
-    "wof:lastmodified":1563262227,
+    "wof:lastmodified":1566630623,
     "wof:name":"Yessentukskaya",
     "wof:parent_id":1108735963,
     "wof:placetype":"locality",

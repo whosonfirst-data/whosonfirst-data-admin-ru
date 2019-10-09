@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":52.819964,
     "lbl:longitude":37.25484,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.819964,
     "mps:longitude":37.25484,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Verkhov'ye"
     ],
@@ -31,7 +34,7 @@
     "name:rus_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043e\u0432\u044c\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verkhove"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -50,7 +53,7 @@
     "qs:type":"\u043f\u0433\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":672,
     "wof:belongsto":[
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":474324,
         "gp:id":2105870,
-        "qs:id":207976,
+        "qs_pg:id":207976,
         "wd:id":"Q7921479"
     },
     "wof:country":"RU",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":102004643,
-    "wof:lastmodified":1563241237,
+    "wof:lastmodified":1566615573,
     "wof:name":"Verkhovye",
     "wof:parent_id":1108737385,
     "wof:placetype":"locality",

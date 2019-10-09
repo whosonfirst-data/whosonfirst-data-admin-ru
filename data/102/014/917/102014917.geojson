@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000222,
-    "geom:area_square_m":1750930.191843,
+    "geom:area_square_m":1750930.191844,
     "geom:bbox":"119.028556824,50.3138046265,119.060974121,50.3236961365",
     "geom:latitude":50.319171,
     "geom:longitude":119.044196,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.318403,
     "lbl:longitude":119.042884,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.318403,
     "mps:longitude":119.042884,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Priargunsk"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041f\u0440\u0438\u0430\u0440\u0433\u0443\u043d\u0441\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tsurukhaytuy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u043f\u0433\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688005,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":102014917,
-    "wof:lastmodified":1505338945,
+    "wof:lastmodified":1566615141,
     "wof:name":"",
     "wof:parent_id":1108735969,
     "wof:placetype":"locality",

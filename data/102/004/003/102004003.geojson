@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.03633,
     "lbl:longitude":38.402429,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":54.03633,
     "mps:longitude":38.402429,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Severo-Zadonsk"
     ],
@@ -35,9 +38,6 @@
         "Severo-Zadonsk"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u0434\u043e\u043d\u0441\u043a"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u0434\u043e\u043d\u0441\u043a"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -58,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +70,6 @@
     "wof:concordances":{
         "gn:id":496269,
         "gp:id":2123375,
-        "qs:id":124886,
         "qs_pg:id":124886,
         "wd:id":"Q4412457"
     },
@@ -85,7 +84,7 @@
         }
     ],
     "wof:id":102004003,
-    "wof:lastmodified":1561831721,
+    "wof:lastmodified":1566615601,
     "wof:name":"Severo-Zadonsk",
     "wof:parent_id":1108733407,
     "wof:placetype":"locality",

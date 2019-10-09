@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000475,
-    "geom:area_square_m":3935766.93638,
+    "geom:area_square_m":3935766.936383,
     "geom:bbox":"135.236434937,47.945766449,135.266189575,47.9800262451",
     "geom:latitude":47.964362,
     "geom:longitude":135.249057,
@@ -14,14 +14,14 @@
     "iso:country":"RU",
     "lbl:latitude":47.966698,
     "lbl:longitude":135.245563,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.966698,
     "mps:longitude":135.245563,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
-        "\u041f\u0430\u0432\u043b\u0435\u043d\u043a\u043e\u0432\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u041f\u0430\u0432\u043b\u0435\u043d\u043a\u043e\u0432\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +40,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687937,
         102191581,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":102015493,
-    "wof:lastmodified":1501225148,
+    "wof:lastmodified":1566614968,
     "wof:name":"Pavlenkovo",
     "wof:parent_id":1108733993,
     "wof:placetype":"locality",

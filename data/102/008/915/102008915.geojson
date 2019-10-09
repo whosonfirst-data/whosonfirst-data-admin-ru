@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":56.293977,
     "lbl:longitude":55.856597,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":56.293977,
     "mps:longitude":55.856597,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u062e\u0646\u064a\u064a \u062a\u0627\u062a\u064a\u0634\u0644\u064a"
     ],
@@ -50,7 +53,7 @@
     "name:tat_x_preferred":[
         "\u042e\u0433\u0430\u0440\u044b \u0422\u04d9\u0442\u0435\u0448\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nizhniye Tatyshly"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.290275,
     "wd:longitude":55.853907,
@@ -86,7 +89,6 @@
     "wof:concordances":{
         "gn:id":475030,
         "gp:id":2124230,
-        "qs:id":1246618,
         "qs_pg:id":1246618,
         "wd:id":"Q2076095",
         "wk:page":"Verkhniye Tatyshly"
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":102008915,
-    "wof:lastmodified":1563240464,
+    "wof:lastmodified":1566615278,
     "wof:name":"Verkhniye Tatyshly",
     "wof:parent_id":1108736953,
     "wof:placetype":"locality",

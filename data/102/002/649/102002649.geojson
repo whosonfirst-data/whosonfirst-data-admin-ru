@@ -9,11 +9,13 @@
     "geom:bbox":"34.09400177,57.8586387634,34.1455574036,57.8928070068",
     "geom:latitude":57.877721,
     "geom:longitude":34.125016,
-    "geonames:id":"575349,452929,452987",
+    "gn:id":"575349,452929,452987",
     "gn:population":25142,
     "iso:country":"RU",
     "lbl:latitude":57.876856,
     "lbl:longitude":34.127164,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":57.876856,
     "mps:longitude":34.127164,
     "mz:hierarchy_label":1,
@@ -132,9 +134,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043b\u043e\u0433\u043e\u0454"
-    ],
-    "name:unk_x_variant":[
-        "Bologoje"
     ],
     "name:vep_x_preferred":[
         "Bologoje"
@@ -258,7 +257,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688047,
@@ -271,10 +270,12 @@
     "wof:concordances":{
         "gn:id":575349,
         "gp:id":2120359,
-        "qs:id":1029925,
         "qs_pg:id":250585,
         "wd:id":"Q105298",
         "wk:page":"Bologoye, Tver Oblast"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1029925
     },
     "wof:country":"RU",
     "wof:geomhash":"fffe517e3fbe32ea2f2da7863ccf93e2",
@@ -289,7 +290,7 @@
         }
     ],
     "wof:id":102002649,
-    "wof:lastmodified":1563241577,
+    "wof:lastmodified":1566615698,
     "wof:name":"Bologoye",
     "wof:parent_id":890486641,
     "wof:placetype":"locality",

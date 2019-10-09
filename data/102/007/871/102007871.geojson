@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.367218,
     "lbl:longitude":41.705239,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":45.367218,
     "mps:longitude":41.705239,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0622\u064a\u0632\u0648\u0628\u064a\u0644\u0646\u064a"
     ],
@@ -109,7 +112,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0437\u043e\u0431\u0456\u043b\u044c\u043d\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Izobil\u2019noye"
     ],
     "name:vep_x_preferred":[
@@ -145,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -157,7 +160,6 @@
     "wof:concordances":{
         "gn:id":554770,
         "gp:id":2014268,
-        "qs:id":194099,
         "qs_pg:id":194099,
         "wd:id":"Q141697",
         "wk:page":"Izobilny, Stavropol Krai"
@@ -173,7 +175,7 @@
         }
     ],
     "wof:id":102007871,
-    "wof:lastmodified":1563240265,
+    "wof:lastmodified":1566615185,
     "wof:name":"Izobilnyy",
     "wof:parent_id":1108734061,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":46.63454,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":8069,
+    "gn:population":8069,
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"46.61454,43.05099,46.65454,43.09099",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ava_x_preferred":[
         "\u041a\u0430\u0437\u0431\u0435\u043a \u043c\u0443\u0445\u044a"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0437\u0431\u0435\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "\u0414\u044b\u043b\u044b\u043c"
-    ],
     "name:vie_x_preferred":[
         "Kazbekovsky"
     ],
@@ -105,7 +106,7 @@
     "wof:concordances":{
         "gn:id":563792,
         "gp:id":2120738,
-        "qs:id":125607,
+        "qs_pg:id":125607,
         "wd:id":"Q1438424",
         "wk:page":"Kazbekovsky District"
     },
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":890482467,
-    "wof:lastmodified":1563262189,
+    "wof:lastmodified":1566630608,
     "wof:name":"Dylym",
     "wof:parent_id":890487925,
     "wof:placetype":"locality",

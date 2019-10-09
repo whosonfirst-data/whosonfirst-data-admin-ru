@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":66.601271,
     "lbl:longitude":36.629451,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Murmanskaja oblast'",
     "meso:admin1r_en":"Severo-Zapadnyj federal'nyj okrug",
     "meso:admin_1":"\u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":36.629451,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Terskiy"
     ],
@@ -63,9 +66,9 @@
         "w"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"19540",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Umba",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108736999,
-    "wof:lastmodified":1561582065,
+    "wof:lastmodified":1566627238,
     "wof:name":"Terskiy",
     "wof:parent_id":85687869,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"33.51316,58.50593,33.55316,58.54593",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632685
@@ -34,7 +38,7 @@
         "gn:id":543768
     },
     "wof:country":"RU",
-    "wof:geomhash":"f10c753e57097739d15ce7f19d9edf7b",
+    "wof:geomhash":"c978fbdd8909e1a8deabcb43d079cba6",
     "wof:hierarchy":[
         {
             "country_id":85632685,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209346283,
-    "wof:lastmodified":1536289901,
+    "wof:lastmodified":1566624632,
     "wof:name":"Kotashino",
     "wof:parent_id":85632685,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.533159999999995,
+    33.53316,
     58.52593,
-    33.533159999999995,
+    33.53316,
     58.52593
 ],
   "geometry": {"coordinates":[33.53316,58.52593],"type":"Point"}

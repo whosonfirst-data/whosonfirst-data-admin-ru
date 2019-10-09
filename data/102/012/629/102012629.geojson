@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":56.990363,
     "lbl:longitude":86.148222,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":56.990363,
     "mps:longitude":86.148222,
     "mz:hierarchy_label":1,
@@ -251,7 +253,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":57.0,
     "wd:longitude":86.15,
@@ -266,7 +268,6 @@
     "wof:concordances":{
         "gn:id":1511309,
         "gp:id":2120102,
-        "qs:id":1243146,
         "qs_pg:id":1243146,
         "wd:id":"Q104111",
         "wk:page":"Asino"
@@ -282,7 +283,7 @@
         }
     ],
     "wof:id":102012629,
-    "wof:lastmodified":1563239861,
+    "wof:lastmodified":1566614992,
     "wof:name":"Asino",
     "wof:parent_id":1108732801,
     "wof:placetype":"locality",

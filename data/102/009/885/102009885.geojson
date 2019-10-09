@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.426806,
     "lbl:longitude":48.643118,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.426806,
     "mps:longitude":48.643118,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u043e\u0435"
     ],
@@ -34,9 +37,6 @@
         "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u043e\u0435"
     ],
     "name:tat_x_preferred":[
-        "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -57,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632685,
@@ -68,7 +68,6 @@
     "wof:concordances":{
         "gn:id":581001,
         "gp:id":1983992,
-        "qs:id":1028819,
         "qs_pg:id":1028819,
         "wd:id":"Q18765788"
     },
@@ -83,7 +82,7 @@
         }
     ],
     "wof:id":102009885,
-    "wof:lastmodified":1563240373,
+    "wof:lastmodified":1566615240,
     "wof:name":"Arkhangel'Skoye",
     "wof:parent_id":1108733223,
     "wof:placetype":"locality",

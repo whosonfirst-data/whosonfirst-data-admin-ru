@@ -11,10 +11,14 @@
     "geom:longitude":38.49361,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":8454,
+    "gn:population":8454,
     "iso:country":"RU",
+    "lbl:bbox":"38.47361,44.83056,38.51361,44.87056",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Chernomorskiy"
     ],
@@ -22,9 +26,6 @@
         "Tsjernomorskij"
     ],
     "name:rus_x_preferred":[
-        "\u0427\u0435\u0440\u043d\u043e\u043c\u043e\u0440\u0441\u043a\u0438\u0439"
-    ],
-    "name:unk_x_variant":[
         "\u0427\u0435\u0440\u043d\u043e\u043c\u043e\u0440\u0441\u043a\u0438\u0439"
     ],
     "qs:name":"Chernomorskiy",
@@ -43,7 +44,7 @@
     "wof:concordances":{
         "gn:id":568785,
         "gp:id":1998168,
-        "qs:id":80987
+        "qs_pg:id":80987
     },
     "wof:country":"RU",
     "wof:created":1469054681,
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":890487599,
-    "wof:lastmodified":1505343778,
+    "wof:lastmodified":1566630920,
     "wof:name":"Chernomorskiy",
     "wof:parent_id":1108736479,
     "wof:placetype":"locality",

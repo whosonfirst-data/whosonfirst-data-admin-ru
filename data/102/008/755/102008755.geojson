@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00037,
-    "geom:area_square_m":2503252.391815,
+    "geom:area_square_m":2503252.391814,
     "geom:bbox":"58.2725296021,56.8205566406,58.3154983521,56.833946228",
     "geom:latitude":56.827436,
     "geom:longitude":58.292558,
     "iso:country":"RU",
     "lbl:latitude":56.82643,
     "lbl:longitude":58.288664,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.82643,
     "mps:longitude":58.288664,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Afanas'yevskoye"
     ],
@@ -25,7 +28,7 @@
     "name:rus_x_variant":[
         "\u0410\u0444\u0430\u043d\u0430\u0441\u044c\u0435\u0432\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bisert\u2019"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688183,
         102191581,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":102008755,
-    "wof:lastmodified":1501214820,
+    "wof:lastmodified":1566615257,
     "wof:name":"Afanas'Yevskoye",
     "wof:parent_id":1108732609,
     "wof:placetype":"locality",

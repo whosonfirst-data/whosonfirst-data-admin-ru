@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"29.76454,59.48802,29.80454,59.52802",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632685
@@ -34,7 +38,7 @@
         "gn:id":6644059
     },
     "wof:country":"RU",
-    "wof:geomhash":"a12cbff4ef94c725bec5437e4361e3b2",
+    "wof:geomhash":"e6008eda515fefc302453c1c4ae52458",
     "wof:hierarchy":[
         {
             "country_id":85632685,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209349607,
-    "wof:lastmodified":1536289789,
+    "wof:lastmodified":1566624669,
     "wof:name":"Alekseyevka",
     "wof:parent_id":85632685,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.784540000000003,
+    29.78454,
     59.50802,
-    29.784540000000003,
+    29.78454,
     59.50802
 ],
   "geometry": {"coordinates":[29.78454,59.50802],"type":"Point"}

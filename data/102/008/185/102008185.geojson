@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":59.392612,
     "lbl:longitude":48.971328,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":59.392612,
     "mps:longitude":48.971328,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0648\u0631\u0627\u0634\u064a"
     ],
@@ -98,9 +101,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0440\u0430\u0448\u0456"
     ],
-    "name:unk_x_variant":[
-        "\u041c\u0443\u0440\u0430\u0448\u0438"
-    ],
     "name:war_x_preferred":[
         "Murashi"
     ],
@@ -125,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -137,7 +137,6 @@
     "wof:concordances":{
         "gn:id":524414,
         "gp:id":2122294,
-        "qs:id":549488,
         "qs_pg:id":549488,
         "wd:id":"Q162640",
         "wk:page":"Murashi, Kirov Oblast"
@@ -153,7 +152,7 @@
         }
     ],
     "wof:id":102008185,
-    "wof:lastmodified":1563240540,
+    "wof:lastmodified":1566615305,
     "wof:name":"Murashi",
     "wof:parent_id":1108735275,
     "wof:placetype":"locality",

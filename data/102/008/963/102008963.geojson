@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0005,
-    "geom:area_square_m":3441978.649192,
+    "geom:area_square_m":3441978.649193,
     "geom:bbox":"46.4332237244,56.1604156494,46.4836654663,56.1758880615",
     "geom:latitude":56.167999,
     "geom:longitude":46.458008,
     "iso:country":"RU",
     "lbl:latitude":56.168014,
     "lbl:longitude":46.458008,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.168014,
     "mps:longitude":46.458008,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yelasy"
     ],
@@ -23,9 +26,6 @@
         "Jelasy"
     ],
     "name:rus_x_preferred":[
-        "\u0415\u043b\u0430\u0441\u044b"
-    ],
-    "name:unk_x_variant":[
         "\u0415\u043b\u0430\u0441\u044b"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688043,
         102191581,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":102008963,
-    "wof:lastmodified":1501214406,
+    "wof:lastmodified":1566615260,
     "wof:name":"Yelasy",
     "wof:parent_id":1108733613,
     "wof:placetype":"locality",

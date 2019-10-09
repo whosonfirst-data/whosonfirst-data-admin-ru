@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":44.66827,
     "lbl:longitude":40.017534,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Adygeja",
     "meso:admin1r_en":"JUzhnyj federal'nyj okrug",
     "meso:admin_1":"\u0410\u0434\u044b\u0433\u0435\u044f",
@@ -53,6 +55,7 @@
     "mps:longitude":40.017534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Majkop"
     ],
@@ -63,9 +66,9 @@
         "\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u041c\u0430\u0439\u043a\u043e\u043f"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"3729",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Tul'skyy",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108733813,
-    "wof:lastmodified":1561582109,
+    "wof:lastmodified":1566627384,
     "wof:name":"Majkop",
     "wof:parent_id":85688135,
     "wof:placetype":"county",

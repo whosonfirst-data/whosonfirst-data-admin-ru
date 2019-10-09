@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00078,
-    "geom:area_square_m":6841313.814911,
+    "geom:area_square_m":6841313.814912,
     "geom:bbox":"42.8259506226,44.8152618408,42.8728218079,44.843334198",
     "geom:latitude":44.828053,
     "geom:longitude":42.851484,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":44.827047,
     "lbl:longitude":42.851038,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.827047,
     "mps:longitude":42.851038,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Severnoye"
     ],
@@ -26,9 +29,6 @@
         "Severnoje"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":214,
     "wof:belongsto":[
@@ -62,7 +62,6 @@
     "wof:concordances":{
         "gn:id":496385,
         "gp:id":2123365,
-        "qs:id":247633,
         "qs_pg:id":247633
     },
     "wof:country":"RU",
@@ -76,7 +75,7 @@
         }
     ],
     "wof:id":102015717,
-    "wof:lastmodified":1527636467,
+    "wof:lastmodified":1566614976,
     "wof:name":"Severnoye",
     "wof:parent_id":1108732691,
     "wof:placetype":"locality",

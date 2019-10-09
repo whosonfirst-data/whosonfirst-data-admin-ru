@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000503,
-    "geom:area_square_m":3836527.985933,
+    "geom:area_square_m":3836527.985931,
     "geom:bbox":"44.0876197815,51.8562278748,44.1173667908,51.888381958",
     "geom:latitude":51.870713,
     "geom:longitude":44.104489,
     "iso:country":"RU",
     "lbl:latitude":51.869552,
     "lbl:longitude":44.104489,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.869552,
     "mps:longitude":44.104489,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "M\u0160K Fomat Martin"
     ],
@@ -26,9 +29,6 @@
         "Koleno"
     ],
     "name:rus_x_preferred":[
-        "\u041a\u043e\u043b\u0435\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u041a\u043e\u043b\u0435\u043d\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +47,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687995,
         102191581,
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":102005261,
-    "wof:lastmodified":1501214679,
+    "wof:lastmodified":1566615626,
     "wof:name":"Koleno",
     "wof:parent_id":1108733471,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000119,
-    "geom:area_square_m":929865.941952,
+    "geom:area_square_m":929865.941954,
     "geom:bbox":"132.312057495,50.832660675,132.326477051,50.8440856934",
     "geom:latitude":50.838246,
     "geom:longitude":132.319214,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":50.83816,
     "lbl:longitude":132.319214,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.83816,
     "mps:longitude":132.319214,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "El'ga"
     ],
@@ -25,9 +28,6 @@
         "Elga"
     ],
     "name:rus_x_preferred":[
-        "\u042d\u043b\u044c\u0433\u0430"
-    ],
-    "name:unk_x_variant":[
         "\u042d\u043b\u044c\u0433\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +46,7 @@
     "qs:type":"\u043f/\u0441\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687937,
         102191581,
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":102015093,
-    "wof:lastmodified":1501225172,
+    "wof:lastmodified":1566614973,
     "wof:name":"Elga",
     "wof:parent_id":890485445,
     "wof:placetype":"locality",

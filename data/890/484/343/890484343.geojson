@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":52.952821,
     "lbl:longitude":44.894654,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Penzenskaja oblast'",
     "meso:admin1r_en":"Privolzhskij federal'nyj okrug",
     "meso:admin_1":"\u041f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -54,6 +56,7 @@
     "mps:longitude":44.894654,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Penzenskiy Rayon"
     ],
@@ -91,9 +94,6 @@
     "name:tat_x_preferred":[
         "\u041f\u0435\u043d\u0437\u0430 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
-    "name:und_x_variant":[
-        "\u041f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Penzensky"
     ],
@@ -114,9 +114,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"932",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Kondol'",
@@ -138,7 +138,7 @@
     "wof:concordances":{
         "gp:id":12599012,
         "hasc:id":"RU.PZ.KO",
-        "qs:id":1105872,
+        "qs_pg:id":1105872,
         "wd:id":"Q1654000",
         "wk:page":"Penzensky District"
     },
@@ -155,7 +155,7 @@
         }
     ],
     "wof:id":890484343,
-    "wof:lastmodified":1563262462,
+    "wof:lastmodified":1566630723,
     "wof:name":"Penzenskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",

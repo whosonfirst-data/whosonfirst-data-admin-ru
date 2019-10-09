@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000384,
-    "geom:area_square_m":2847132.352555,
+    "geom:area_square_m":2847132.352559,
     "geom:bbox":"132.886032104,53.12657547,132.911087036,53.1485023499",
     "geom:latitude":53.137208,
     "geom:longitude":132.899108,
@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":53.137599,
     "lbl:longitude":132.90036,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.137599,
     "mps:longitude":132.90036,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Tokur"
     ],
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":29,
     "wof:belongsto":[
@@ -59,7 +62,6 @@
     "wof:concordances":{
         "gn:id":2015217,
         "gp:id":2096318,
-        "qs:id":137428,
         "qs_pg:id":137428
     },
     "wof:country":"RU",
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":102015025,
-    "wof:lastmodified":1527636463,
+    "wof:lastmodified":1566614937,
     "wof:name":"Tokur",
     "wof:parent_id":1108736419,
     "wof:placetype":"locality",

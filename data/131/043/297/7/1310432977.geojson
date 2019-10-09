@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"30.9363,54.81071,30.9763,54.85071",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041b\u044e\u0431\u0430\u0432\u0456\u0447\u044b"
     ],
@@ -67,10 +71,6 @@
     "name:srp_x_preferred":[
         "\u0409\u0443\u0431\u0430\u0432\u0438\u0447\u0438"
     ],
-    "name:und_x_variant":[
-        "\u041b\u044e\u0431\u0430\u0432\u0438\u0447\u0438",
-        "Lyubavichi"
-    ],
     "name:yid_x_preferred":[
         "\u05dc\u05d9\u05d5\u05d1\u05d0\u05d5\u05d5\u05d9\u05d8\u05e9"
     ],
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1310432977,
-    "wof:lastmodified":1564126114,
+    "wof:lastmodified":1566628435,
     "wof:name":"Lyubavichi",
     "wof:parent_id":1108736327,
     "wof:placetype":"locality",

@@ -9,17 +9,20 @@
     "geom:bbox":"48.3755912781,41.8650283813,48.4000854492,41.8831100464",
     "geom:latitude":41.874204,
     "geom:longitude":48.386716,
-    "geonames:id":"578060,828055",
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":16078,
+    "gn:id":"578060,828055",
+    "gn:population":16078,
     "iso:country":"RU",
     "lbl:latitude":41.87472,
     "lbl:longitude":48.38653,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":41.87472,
     "mps:longitude":48.38653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u064a\u062f\u062c\u064a"
     ],
@@ -79,7 +82,7 @@
     "qs:type":"\u043f\u0433\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":901,
     "wof:belongsto":[
@@ -93,7 +96,7 @@
     "wof:concordances":{
         "gn:id":828055,
         "gp:id":2120222,
-        "qs:id":276172,
+        "qs_pg:id":276172,
         "wd:id":"Q1975641",
         "wk:page":"Belidzhi"
     },
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":102016777,
-    "wof:lastmodified":1563240901,
+    "wof:lastmodified":1566615444,
     "wof:name":"Belidzhi",
     "wof:parent_id":1108733361,
     "wof:placetype":"locality",

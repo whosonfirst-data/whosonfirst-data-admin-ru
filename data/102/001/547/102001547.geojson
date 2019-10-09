@@ -15,6 +15,8 @@
     "iso:country":"RU",
     "lbl:latitude":49.079812,
     "lbl:longitude":142.086769,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.079812,
     "mps:longitude":142.086769,
     "mz:hierarchy_label":1,
@@ -113,7 +115,7 @@
     "name:tur_x_preferred":[
         "Uglegorsk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Esutoru-Hamashigai"
     ],
     "name:urd_x_preferred":[
@@ -241,7 +243,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -253,7 +255,6 @@
     "wof:concordances":{
         "gn:id":2120261,
         "gp:id":2124047,
-        "qs:id":274166,
         "qs_pg:id":274166,
         "wd:id":"Q196778",
         "wk:page":"Uglegorsk, Sakhalin Oblast"
@@ -269,7 +270,7 @@
         }
     ],
     "wof:id":102001547,
-    "wof:lastmodified":1563240611,
+    "wof:lastmodified":1566615326,
     "wof:name":"Uglegorsk",
     "wof:parent_id":1108737145,
     "wof:placetype":"locality",

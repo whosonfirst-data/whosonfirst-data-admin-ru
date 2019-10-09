@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":45.277881,
     "lbl:longitude":39.286225,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.277881,
     "mps:longitude":39.286225,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Plastunovskaya"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041f\u043b\u0430\u0441\u0442\u0443\u043d\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Plastunowskaja"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -47,7 +50,7 @@
     "qs:type":"\u0441\u0442-\u0446\u0430",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688029,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":102007943,
-    "wof:lastmodified":1505338929,
+    "wof:lastmodified":1566615201,
     "wof:name":"",
     "wof:parent_id":1108733369,
     "wof:placetype":"locality",

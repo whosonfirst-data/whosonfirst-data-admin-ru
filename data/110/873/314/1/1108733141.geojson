@@ -30,6 +30,8 @@
     ],
     "lbl:latitude":50.780954,
     "lbl:longitude":40.513292,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Voronezhskaja oblast'",
     "meso:admin1r_en":"Central'nyj federal'nyj okrug",
     "meso:admin_1":"\u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -53,6 +55,7 @@
     "mps:longitude":40.513292,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Buturlinovskiy Rayon"
     ],
@@ -87,9 +90,6 @@
     "name:rus_x_preferred":[
         "\u0411\u0443\u0442\u0443\u0440\u043b\u0438\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:und_x_variant":[
-        "\u0411\u0443\u0442\u0443\u0440\u043b\u0438\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
-    ],
     "name:vie_x_preferred":[
         "Buturlinovsky"
     ],
@@ -97,9 +97,9 @@
         "\u5e03\u56fe\u5c14\u5229\u8bfa\u592b\u5361\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"1831",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Buturlinovka",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1108733141,
-    "wof:lastmodified":1563256883,
+    "wof:lastmodified":1566627102,
     "wof:name":"Buturlinovskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

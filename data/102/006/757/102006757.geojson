@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":49.060223,
     "lbl:longitude":44.823617,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":49.060223,
     "mps:longitude":44.823617,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0628\u0648\u0641\u0643\u0627"
     ],
@@ -112,9 +115,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0443\u0431\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u0414\u0443\u0431\u043e\u0432\u043a\u0430"
-    ],
     "name:vep_x_preferred":[
         "Dubovk"
     ],
@@ -145,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85688101,
@@ -158,7 +158,6 @@
     "wof:concordances":{
         "gn:id":564654,
         "gp:id":2120710,
-        "qs:id":308719,
         "qs_pg:id":308719,
         "wd:id":"Q135473",
         "wk:page":"Dubovka, Dubovsky District, Volgograd Oblast"
@@ -176,7 +175,7 @@
         }
     ],
     "wof:id":102006757,
-    "wof:lastmodified":1563240681,
+    "wof:lastmodified":1566615360,
     "wof:name":"Dubovka",
     "wof:parent_id":890480123,
     "wof:placetype":"locality",

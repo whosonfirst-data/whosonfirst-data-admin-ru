@@ -16,6 +16,8 @@
     "iso:country":"RU",
     "lbl:latitude":52.607635,
     "lbl:longitude":39.590026,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":52.607635,
     "mps:longitude":39.590026,
     "mz:hierarchy_label":1,
@@ -267,9 +269,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0438\u043f\u0435\u0446\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "Lipezk"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u067e\u0679\u0633\u06a9"
     ],
@@ -415,7 +414,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.616667,
     "wd:longitude":39.6,
@@ -430,10 +429,12 @@
     "wof:concordances":{
         "gn:id":535121,
         "gp:id":2036843,
-        "qs:id":1124310,
         "qs_pg:id":349610,
         "wd:id":"Q3490",
         "wk:page":"Lipetsk"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1124310
     },
     "wof:country":"RU",
     "wof:geomhash":"7ad600d734937e92c449cc2967487a8e",
@@ -446,7 +447,7 @@
         }
     ],
     "wof:id":102004735,
-    "wof:lastmodified":1563241284,
+    "wof:lastmodified":1566615593,
     "wof:name":"Lipetsk",
     "wof:parent_id":1108734949,
     "wof:placetype":"locality",

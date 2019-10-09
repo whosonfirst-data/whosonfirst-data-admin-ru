@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000778,
-    "geom:area_square_m":5456314.923203,
+    "geom:area_square_m":5456314.923204,
     "geom:bbox":"86.0563583374,55.4296684265,86.1026916504,55.4591941833",
     "geom:latitude":55.443645,
     "geom:longitude":86.079707,
@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":55.442057,
     "lbl:longitude":86.078127,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.442057,
     "mps:longitude":86.078127,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0411\u0430\u0440\u0430\u0432\u044b"
     ],
@@ -32,7 +35,7 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0432\u043e\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Borovaya"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":63,
     "wof:belongsto":[
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":1508894,
         "gp:id":1994218,
-        "qs:id":1037343,
         "qs_pg:id":1037343
     },
     "wof:country":"RU",
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":102012847,
-    "wof:lastmodified":1527636474,
+    "wof:lastmodified":1566615017,
     "wof:name":"Borovoy",
     "wof:parent_id":1108734319,
     "wof:placetype":"locality",

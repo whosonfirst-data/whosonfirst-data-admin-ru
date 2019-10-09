@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000352,
-    "geom:area_square_m":2728419.501238,
+    "geom:area_square_m":2728419.50124,
     "geom:bbox":"119.498138428,51.1987228394,119.525497437,51.2244148254",
     "geom:latitude":51.212322,
     "geom:longitude":119.510789,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.211894,
     "lbl:longitude":119.508716,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.211894,
     "mps:longitude":119.508716,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gornyy Zerentuy"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_variant":[
         "\u0413\u043e\u0440\u043d\u044b\u0439 \u0417\u0435\u0440\u0435\u043d\u0442\u0443\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gorn\u00f6y Zerentuy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688005,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102014747,
-    "wof:lastmodified":1501225171,
+    "wof:lastmodified":1566615110,
     "wof:name":"Gornyy Zerentuy",
     "wof:parent_id":1108735345,
     "wof:placetype":"locality",

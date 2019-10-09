@@ -11,10 +11,14 @@
     "geom:longitude":50.1409,
     "gn:country":"RU",
     "gn:fcode":"PPL",
-    "gn:pop":7190,
+    "gn:population":7190,
     "iso:country":"RU",
+    "lbl:bbox":"50.1209,55.44129,50.1609,55.48129",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bak_x_preferred":[
         "\u0411\u0430\u043b\u044b\u04a1 \u0411\u0438\u04ab\u0442\u04d9\u04bb\u0435"
     ],
@@ -51,9 +55,6 @@
     "name:tat_x_preferred":[
         "\u0411\u0430\u043b\u044b\u043a \u0411\u0438\u0441\u0442\u04d9\u0441\u0435"
     ],
-    "name:unk_x_variant":[
-        "\u0420\u044b\u0431\u043d\u0430\u044f \u0421\u043b\u043e\u0431\u043e\u0434\u0430"
-    ],
     "qs:name":"Rybnaya Sloboda",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -71,7 +72,7 @@
     "wof:concordances":{
         "gn:id":499987,
         "gp:id":2076725,
-        "qs:id":80610,
+        "qs_pg:id":80610,
         "wd:id":"Q4401600",
         "wk:page":"Rybno-Slobodsky District"
     },
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":890485145,
-    "wof:lastmodified":1563262013,
+    "wof:lastmodified":1566630541,
     "wof:name":"Rybnaya Sloboda",
     "wof:parent_id":1108736341,
     "wof:placetype":"locality",

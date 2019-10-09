@@ -15,10 +15,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.572792,
     "lbl:longitude":116.636706,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.572792,
     "mps:longitude":116.636706,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u064a"
     ],
@@ -112,7 +115,7 @@
     "name:tur_x_preferred":[
         "Baley"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nowo Troizkoje"
     ],
     "name:urd_x_preferred":[
@@ -148,7 +151,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.583333,
     "wd:longitude":116.633333,
@@ -163,7 +166,6 @@
     "wof:concordances":{
         "gn:id":2027184,
         "gp:id":2120154,
-        "qs:id":351539,
         "qs_pg:id":351539,
         "wd:id":"Q104569",
         "wk:page":"Baley, Russia"
@@ -179,7 +181,7 @@
         }
     ],
     "wof:id":102014697,
-    "wof:lastmodified":1563240163,
+    "wof:lastmodified":1566615129,
     "wof:name":"Baley",
     "wof:parent_id":1108732873,
     "wof:placetype":"locality",

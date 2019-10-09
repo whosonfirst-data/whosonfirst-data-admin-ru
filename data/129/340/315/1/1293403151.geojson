@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"40.00083,44.35639,40.04083,44.39639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Daguest\u00e0nskaia"
     ],
@@ -45,10 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d\u0441\u044c\u043a\u0430"
-    ],
-    "name:und_x_variant":[
-        "\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f",
-        "Dagestanskaya"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":1293403151,
-    "wof:lastmodified":1564114101,
+    "wof:lastmodified":1566619670,
     "wof:name":"Dagestanskaya",
     "wof:parent_id":1108735007,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000239,
-    "geom:area_square_m":1832875.871371,
+    "geom:area_square_m":1832875.871372,
     "geom:bbox":"140.190582275,51.6961669922,140.216415405,51.7118339539",
     "geom:latitude":51.704353,
     "geom:longitude":140.20401,
@@ -14,10 +14,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.703804,
     "lbl:longitude":140.204256,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.703804,
     "mps:longitude":140.204256,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mariinskoye"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u0438\u0438\u043d\u0441\u043a\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mariinskiye"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -46,7 +49,7 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85687937,
         102191581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102015375,
-    "wof:lastmodified":1501229457,
+    "wof:lastmodified":1566614978,
     "wof:name":"Marinskoye",
     "wof:parent_id":1108737161,
     "wof:placetype":"locality",

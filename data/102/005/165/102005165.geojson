@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":51.980116,
     "lbl:longitude":43.270869,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.980116,
     "mps:longitude":43.270869,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bak_x_preferred":[
         "\u0422\u04e9\u0440\u043a\u0438"
     ],
@@ -48,9 +51,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0432\u0430 \u0442\u044e\u0440\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "\u0422\u0443\u0440\u043a\u0438"
-    ],
     "name:uzb_x_preferred":[
         "Turkiy til"
     ],
@@ -72,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":787,
     "wof:belongsto":[
@@ -85,7 +85,6 @@
     "wof:concordances":{
         "gn:id":480267,
         "gp:id":2098777,
-        "qs:id":275020,
         "qs_pg:id":275020,
         "wd:id":"Q1763658"
     },
@@ -100,7 +99,7 @@
         }
     ],
     "wof:id":102005165,
-    "wof:lastmodified":1563241384,
+    "wof:lastmodified":1566615637,
     "wof:name":"Turki",
     "wof:parent_id":1108737115,
     "wof:placetype":"locality",

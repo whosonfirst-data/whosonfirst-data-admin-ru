@@ -13,6 +13,8 @@
     "iso:country":"RU",
     "lbl:latitude":58.875528,
     "lbl:longitude":57.560946,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":58.875528,
     "mps:longitude":57.560946,
     "mz:hierarchy_label":1,
@@ -239,7 +241,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":58.866667,
     "wd:longitude":57.583333,
@@ -254,7 +256,6 @@
     "wof:concordances":{
         "gn:id":558209,
         "gp:id":2120957,
-        "qs:id":125496,
         "qs_pg:id":125496,
         "wd:id":"Q134670",
         "wk:page":"Gubakha"
@@ -270,7 +271,7 @@
         }
     ],
     "wof:id":102008251,
-    "wof:lastmodified":1563240450,
+    "wof:lastmodified":1566615274,
     "wof:name":"Gubakha",
     "wof:parent_id":1108733943,
     "wof:placetype":"locality",

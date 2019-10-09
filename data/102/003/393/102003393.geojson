@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000459,
-    "geom:area_square_m":3221561.378418,
+    "geom:area_square_m":3221561.378415,
     "geom:bbox":"38.3484191895,55.4065055847,38.379070282,55.4281005859",
     "geom:latitude":55.417796,
     "geom:longitude":38.362304,
@@ -14,14 +14,14 @@
     "iso:country":"RU",
     "lbl:latitude":55.417327,
     "lbl:longitude":38.361063,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.417327,
     "mps:longitude":38.361063,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
-        "\u0424\u043e\u043c\u0438\u043d\u043e"
-    ],
-    "name:unk_x_variant":[
         "\u0424\u043e\u043c\u0438\u043d\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
@@ -40,7 +40,7 @@
     "qs:type":"\u0434",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85688161,
         102191581,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":102003393,
-    "wof:lastmodified":1501214742,
+    "wof:lastmodified":1566615544,
     "wof:name":"Fomino",
     "wof:parent_id":890482739,
     "wof:placetype":"locality",

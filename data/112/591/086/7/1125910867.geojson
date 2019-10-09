@@ -9,15 +9,18 @@
     "geom:bbox":"38.86947,47.5645,38.86947,47.5645",
     "geom:latitude":47.5645,
     "geom:longitude":38.86947,
-    "gn:gn_country":"RU",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":14342,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:population":14342,
     "iso:country":"RU",
+    "lbl:bbox":"38.84947,47.5445,38.88947,47.5845",
     "lbl:latitude":47.5645,
     "lbl:longitude":38.86947,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:che_x_preferred":[
         "\u041c\u0430\u0442\u0432\u0435\u0435\u0432 \u041a\u0443\u0440\u0433\u0430\u043d"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0442\u0432\u0456\u0457\u0432 \u041a\u0443\u0440\u0433\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Motveyev Kurgan"
     ],
     "name:zho_x_preferred":[
@@ -72,7 +75,7 @@
     "qs_pg:woe_adm0":23424936,
     "qs_pg:woe_id":2043896,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424936,
     "woe:name_adm0":"Russia",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125910867,
-    "wof:lastmodified":1563263133,
+    "wof:lastmodified":1566631021,
     "wof:name":"Matveyev Kurgan",
     "wof:parent_id":1108735075,
     "wof:placetype":"locality",

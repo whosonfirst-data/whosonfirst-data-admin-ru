@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":45.034049,
     "lbl:longitude":41.956026,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Stavropol'skij kraj",
     "meso:admin1r_en":"Severo-Kavkazskij federal'nyj okrug",
     "meso:admin_1":"\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -54,6 +56,7 @@
     "mps:longitude":41.956026,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Stavropol'skiy Rayon"
     ],
@@ -104,9 +107,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:area_km":"290",
     "statoids:as_of_date":"2000-01-01",
     "statoids:capital":"Stavropol'",
@@ -128,7 +131,7 @@
     "wof:concordances":{
         "gp:id":12597973,
         "hasc:id":"RU.ST.SP",
-        "qs:id":221450,
+        "qs_pg:id":221450,
         "wk:page":"Stavropolsky District"
     },
     "wof:country":"RU",
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":890487003,
-    "wof:lastmodified":1564129315,
+    "wof:lastmodified":1566630930,
     "wof:name":"Stavropol'",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

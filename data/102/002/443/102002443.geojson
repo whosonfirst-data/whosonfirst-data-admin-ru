@@ -13,10 +13,13 @@
     "iso:country":"RU",
     "lbl:latitude":54.652537,
     "lbl:longitude":21.077206,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":54.652537,
     "mps:longitude":21.077206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u063a\u0641\u0627\u0631\u062f\u064a\u0633\u0643"
     ],
@@ -155,9 +158,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0432\u0430\u0440\u0434\u0456\u0439\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
-        "Gvardejsk"
-    ],
     "name:vep_x_preferred":[
         "Gvardeisk"
     ],
@@ -185,7 +185,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.65,
     "wd:longitude":21.066667,
@@ -200,7 +200,6 @@
     "wof:concordances":{
         "gn:id":557710,
         "gp:id":2126051,
-        "qs:id":8523,
         "qs_pg:id":8523,
         "wd:id":"Q5668",
         "wk:page":"Gvardeysk"
@@ -216,7 +215,7 @@
         }
     ],
     "wof:id":102002443,
-    "wof:lastmodified":1563241579,
+    "wof:lastmodified":1566615698,
     "wof:name":"Gvardeysk",
     "wof:parent_id":1108733961,
     "wof:placetype":"locality",
