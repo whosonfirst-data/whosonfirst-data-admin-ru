@@ -251,6 +251,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -273,6 +274,10 @@
         "wk:page":"Gubkin"
     },
     "wof:country":"RU",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3974d4f9676e61a7ea51824a1762b7a5",
     "wof:hierarchy":[
         {
@@ -283,7 +288,7 @@
         }
     ],
     "wof:id":102005797,
-    "wof:lastmodified":1566615614,
+    "wof:lastmodified":1582329807,
     "wof:name":"Gubkin",
     "wof:parent_id":1108733945,
     "wof:placetype":"locality",

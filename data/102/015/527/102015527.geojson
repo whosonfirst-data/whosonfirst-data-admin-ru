@@ -196,7 +196,8 @@
     "qs:type":"\u043f",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -216,6 +217,10 @@
         "wk:page":"Klyuchi, Kamchatka Krai"
     },
     "wof:country":"RU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"d090e92c31257ebf67debb40823d70d0",
     "wof:hierarchy":[
         {
@@ -228,7 +233,7 @@
         }
     ],
     "wof:id":102015527,
-    "wof:lastmodified":1566614949,
+    "wof:lastmodified":1582329753,
     "wof:name":"Klyuchi",
     "wof:parent_id":890481341,
     "wof:placetype":"locality",

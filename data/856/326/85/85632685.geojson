@@ -1282,6 +1282,7 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "naturalearth",
+        "naturalearth",
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -1337,6 +1338,12 @@
     },
     "wof:country":"RU",
     "wof:country_alpha3":"RUS",
+    "wof:geom_alt":[
+        "naturalearth-reversegeo",
+        "naturalearth",
+        "meso",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"18e1adc034597a1ac289a39922d3e2c6",
     "wof:hierarchy":[
         {
@@ -1371,7 +1378,7 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1566618606,
+    "wof:lastmodified":1582329975,
     "wof:name":"Russia",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

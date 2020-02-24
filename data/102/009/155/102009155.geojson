@@ -383,6 +383,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -406,6 +407,10 @@
         "wk:page":"Naberezhnye Chelny"
     },
     "wof:country":"RU",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"73d95542451aa2badde4552edf6435bb",
     "wof:hierarchy":[
         {
@@ -416,7 +421,7 @@
         }
     ],
     "wof:id":102009155,
-    "wof:lastmodified":1566615235,
+    "wof:lastmodified":1582329774,
     "wof:name":"Naberezhnyye Chelny",
     "wof:parent_id":1108735291,
     "wof:placetype":"locality",

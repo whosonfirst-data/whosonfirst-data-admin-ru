@@ -268,7 +268,8 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -291,6 +292,10 @@
         "wk:page":"Timashyovsk"
     },
     "wof:country":"RU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"6350db9f8b57f17ec2744f761179afd8",
     "wof:hierarchy":[
         {
@@ -303,7 +308,7 @@
         }
     ],
     "wof:id":102007763,
-    "wof:lastmodified":1566615143,
+    "wof:lastmodified":1582329767,
     "wof:name":"Timashevsk",
     "wof:parent_id":890483057,
     "wof:placetype":"locality",
