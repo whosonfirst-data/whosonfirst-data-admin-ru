@@ -221,6 +221,7 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -240,6 +241,10 @@
         "wk:page":"Topki (town), Kemerovo Oblast"
     },
     "wof:country":"RU",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4eddd4f758938d09a95ae6d1ef046ec8",
     "wof:hierarchy":[
         {
@@ -250,7 +255,7 @@
         }
     ],
     "wof:id":102012887,
-    "wof:lastmodified":1566614989,
+    "wof:lastmodified":1582329756,
     "wof:name":"Topki",
     "wof:parent_id":1108737069,
     "wof:placetype":"locality",

@@ -358,7 +358,8 @@
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -381,6 +382,10 @@
         "wk:page":"Nakhodka"
     },
     "wof:country":"RU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"35efa7c3f4fe704b3ac83ffeaf656167",
     "wof:hierarchy":[
         {
@@ -391,7 +396,7 @@
         }
     ],
     "wof:id":102001817,
-    "wof:lastmodified":1566615312,
+    "wof:lastmodified":1582329781,
     "wof:name":"Nakhodka",
     "wof:parent_id":1108735303,
     "wof:placetype":"locality",
