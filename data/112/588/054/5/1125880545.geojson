@@ -91,6 +91,9 @@
     "name:dan_x_preferred":[
         "Jekaterinburg"
     ],
+    "name:deu_ch_x_preferred":[
+        "Jekaterinburg"
+    ],
     "name:deu_x_preferred":[
         "Jekaterinburg"
     ],
@@ -102,6 +105,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0393\u03b5\u03ba\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03bc\u03c0\u03bf\u03c5\u03c1\u03b3\u03ba"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Yekaterinburg"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Yekaterinburg"
     ],
     "name:eng_x_preferred":[
         "Ekaterinburg"
@@ -256,6 +265,9 @@
     "name:nah_x_preferred":[
         "Yekaterinburg"
     ],
+    "name:nan_x_preferred":[
+        "Yekaterinburg"
+    ],
     "name:nep_x_preferred":[
         "\u092f\u0947\u0915\u093e\u091f\u0947\u0930\u093f\u0928\u092c\u0930\u094d\u0917"
     ],
@@ -282,6 +294,9 @@
     ],
     "name:pol_x_preferred":[
         "Jekaterynburg"
+    ],
+    "name:por_br_x_preferred":[
+        "Ecaterimburgo"
     ],
     "name:por_x_preferred":[
         "Yekaterinburg"
@@ -341,7 +356,8 @@
         "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440"
     ],
     "name:tat_x_variant":[
-        "\u0415\u043a\u0430\u0442\u0438\u0440\u0438\u043d\u0431\u0443\u0440"
+        "\u0415\u043a\u0430\u0442\u0438\u0440\u0438\u043d\u0431\u0443\u0440",
+        "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433"
     ],
     "name:tel_x_preferred":[
         "\u0c2f\u0c46\u0c15\u0c3e\u0c1f\u0c46\u0c30\u0c3f\u0c28\u0c4d\u0c2c\u0c41\u0c30\u0c4d\u0c17\u0c4d"
@@ -409,6 +425,21 @@
     "name:yue_x_preferred":[
         "\u8449\u5361\u6377\u7433\u5821"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u8449\u5361\u6377\u7433\u5821"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u8449\u5361\u6377\u7433\u5821"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u8449\u5361\u6377\u7433\u5821"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u53f6\u5361\u6377\u7433\u5821"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8449\u5361\u6377\u7433\u5821"
+    ],
     "name:zho_x_preferred":[
         "\u8449\u5361\u6377\u7433\u5821"
     ],
@@ -440,11 +471,11 @@
     "woe:name_adm1":"Sverdlovsk Oblast",
     "woe:placetype":"Town",
     "wof:belongsto":[
-        85688183,
         102191581,
         85632685,
+        1108735239,
         874393555,
-        1108735239
+        85688183
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -467,7 +498,7 @@
         }
     ],
     "wof:id":1125880545,
-    "wof:lastmodified":1566631013,
+    "wof:lastmodified":1587427667,
     "wof:name":"Yekaterinburg",
     "wof:parent_id":1108735239,
     "wof:placetype":"locality",
