@@ -4,9 +4,9 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000692,
-    "geom:area_square_m":5108875.181445,
-    "geom:bbox":"50.2152061462,53.2902832031,50.2478523254,53.3335494995",
+    "geom:area":0.000691,
+    "geom:area_square_m":5108840.972855,
+    "geom:bbox":"50.215206,53.290283,50.247852,53.333549",
     "geom:latitude":53.310115,
     "geom:longitude":50.232455,
     "gn:latitude":53.20007,
@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
+        "Samara"
+    ],
+    "name:aka_x_preferred":[
         "Samara"
     ],
     "name:amh_x_preferred":[
@@ -85,10 +88,16 @@
     "name:chv_x_preferred":[
         "\u0421\u0430\u043c\u0430\u0440"
     ],
+    "name:crh_x_preferred":[
+        "Samara"
+    ],
     "name:cym_x_preferred":[
         "Samara"
     ],
     "name:dan_x_preferred":[
+        "Samara"
+    ],
+    "name:deu_ch_x_preferred":[
         "Samara"
     ],
     "name:deu_x_preferred":[
@@ -99,6 +108,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bc\u03ac\u03c1\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Samara"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Samara"
     ],
     "name:eng_x_colloquial":[
         ""
@@ -127,6 +142,9 @@
     "name:fra_x_preferred":[
         "Samara"
     ],
+    "name:fry_x_preferred":[
+        "Samara"
+    ],
     "name:glg_x_preferred":[
         "Samara"
     ],
@@ -149,6 +167,9 @@
         "Szamara"
     ],
     "name:hye_x_preferred":[
+        "\u054d\u0561\u0574\u0561\u0580\u0561"
+    ],
+    "name:hyw_x_preferred":[
         "\u054d\u0561\u0574\u0561\u0580\u0561"
     ],
     "name:ido_x_preferred":[
@@ -256,6 +277,9 @@
     "name:pol_x_preferred":[
         "Samara"
     ],
+    "name:por_br_x_preferred":[
+        "Samara"
+    ],
     "name:por_x_preferred":[
         "Samara"
     ],
@@ -313,6 +337,9 @@
     "name:tel_x_preferred":[
         "\u0c38\u0c2e\u0c3e\u0c30\u0c3e"
     ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0430\u043c\u0430\u0440\u0430"
+    ],
     "name:tgl_x_preferred":[
         "Samara"
     ],
@@ -365,6 +392,24 @@
         "\u10e1\u10d0\u10db\u10d0\u10e0\u10d0"
     ],
     "name:yue_x_preferred":[
+        "\u85a9\u99ac\u62c9"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8428\u9a6c\u62c9"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u85a9\u99ac\u62c9"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u85a9\u99ac\u62c9"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u8428\u9a6c\u62c9"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u8428\u9a6c\u62c9"
+    ],
+    "name:zho_tw_x_preferred":[
         "\u85a9\u99ac\u62c9"
     ],
     "name:zho_x_preferred":[
@@ -484,11 +529,11 @@
     "wd:longitude":50.116667,
     "wd:wordcount":3448,
     "wof:belongsto":[
-        85687781,
         102191581,
         85632685,
+        1108736371,
         874393555,
-        1108736371
+        85687781
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -499,7 +544,7 @@
         "wk:page":"Samara, Russia"
     },
     "wof:country":"RU",
-    "wof:geomhash":"7ffe447466cab0696de3a4ec4fa25e0c",
+    "wof:geomhash":"87bb0622f4f93ad6c6f66b5ee678e6e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -511,7 +556,7 @@
         }
     ],
     "wof:id":102011627,
-    "wof:lastmodified":1566615389,
+    "wof:lastmodified":1587427399,
     "wof:megacity":1,
     "wof:name":"",
     "wof:parent_id":1108736371,
@@ -525,10 +570,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    50.21520614624023,
-    53.290283203125,
-    50.24785232543945,
-    53.33354949951172
+    50.215206,
+    53.290283,
+    50.247852,
+    53.333549
 ],
-  "geometry": {"coordinates":[[[50.22802734375,53.30885314941406],[50.23207855224609,53.30923461914062],[50.22949600219727,53.31294631958008],[50.22472381591797,53.31980895996094],[50.23638916015625,53.33177947998047],[50.23781204223633,53.33323669433594],[50.24016571044922,53.33354949951172],[50.24572372436523,53.32584381103516],[50.24246597290039,53.32301330566406],[50.24029541015625,53.32112884521484],[50.24785232543945,53.30732345581055],[50.22646713256836,53.290283203125],[50.22419357299805,53.29042434692383],[50.22179412841797,53.29425430297852],[50.21520614624023,53.29604339599609],[50.21587753295898,53.30427551269531],[50.22038269042969,53.30813217163086],[50.22802734375,53.30885314941406]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[50.228027,53.308853],[50.232079,53.309235],[50.229496,53.312946],[50.224724,53.319809],[50.236389,53.331779],[50.237812,53.333237],[50.240166,53.333549],[50.245724,53.325844],[50.242466,53.323013],[50.240295,53.321129],[50.247852,53.307323],[50.226467,53.290283],[50.224194,53.290424],[50.221794,53.294254],[50.215206,53.296043],[50.215878,53.304276],[50.220383,53.308132],[50.228027,53.308853]]],"type":"Polygon"}
 }
