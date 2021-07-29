@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.001035,
     "geom:area_square_m":5037309.670677,
-    "geom:bbox":"105.988203437,66.7852157462,106.031598633,66.8333750033",
+    "geom:bbox":"105.988203,66.785216,106.031599,66.833375",
     "geom:latitude":66.810312,
-    "geom:longitude":106.0067,
+    "geom:longitude":106.006699,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
         "Olenjokskiy District"
@@ -62,6 +62,9 @@
     "name:eng_x_variant":[
         "Olenjokskij ulus"
     ],
+    "name:fra_x_preferred":[
+        "Olenyoksky"
+    ],
     "name:und_x_variant":[
         "\u041e\u043b\u0435\u043d\u0451\u043a\u0441\u043a\u0438\u0439 \u0443\u043b\u0443\u0441"
     ],
@@ -77,7 +80,7 @@
     "wof:concordances":{},
     "wof:country":"RU",
     "wof:created":1478902357,
-    "wof:geomhash":"d0edc8b3eabe5a5c8d38339d400b9f03",
+    "wof:geomhash":"e72378ce26254421456d57952d267384",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108735663,
-    "wof:lastmodified":1566626873,
+    "wof:lastmodified":1627522649,
     "wof:name":"Olenjokskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",
@@ -98,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.98820343659982,
-    66.78521574624831,
-    106.03159863349609,
-    66.8333750033264
+    105.988203,
+    66.785216,
+    106.031599,
+    66.833375
 ],
-  "geometry": {"coordinates":[[[[105.99723733627664,66.78521574624831],[105.98820343659982,66.80143752338796],[106.00118718076401,66.8333750033264],[106.03159863349609,66.81625982838807],[106.03108831056869,66.81470211691173],[105.99723733627664,66.78521574624831]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[[105.997237,66.78521600000001],[105.988203,66.801438],[106.001187,66.833375],[106.031599,66.81626],[106.031088,66.814702],[105.997237,66.78521600000001]]]],"type":"MultiPolygon"}
 }
