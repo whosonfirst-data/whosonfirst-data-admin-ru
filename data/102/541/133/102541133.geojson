@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"50.155,53.5016666667,50.155,53.5016666667",
+    "geom:bbox":"50.155,53.501667,50.155,53.501667",
     "geom:latitude":53.501667,
     "geom:longitude":50.155,
     "iso:country":"RU",
@@ -15,6 +15,10 @@
     "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "Flughafen Samara"
+    ],
+    "name:eng_x_variant":[
+        "KUF",
+        "UWWW"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u06a9\u0648\u0631\u0648\u0645\u0686"
@@ -90,7 +94,7 @@
         "wd:id":"Q950834"
     },
     "wof:country":"RU",
-    "wof:geomhash":"4c6f53643f820064fd0a341a9c0823f8",
+    "wof:geomhash":"714547fbd90ac6ba96d1ca0b67058305",
     "wof:hierarchy":[
         {
             "campus_id":102541133,
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":102541133,
-    "wof:lastmodified":1566615717,
+    "wof:lastmodified":1631746970,
     "wof:name":"Kurumoch Airport",
     "wof:parent_id":85687781,
     "wof:placetype":"campus",
@@ -112,9 +116,9 @@
 },
   "bbox": [
     50.155,
-    53.501666666667,
+    53.501667,
     50.155,
-    53.501666666667
+    53.501667
 ],
-  "geometry": {"coordinates":[50.155,53.501666666667],"type":"Point"}
+  "geometry": {"coordinates":[50.155,53.501667],"type":"Point"}
 }

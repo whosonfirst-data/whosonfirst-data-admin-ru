@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"92.4933333333,56.1716666667,92.4933333333,56.1716666667",
+    "geom:bbox":"92.493333,56.171667,92.493333,56.171667",
     "geom:latitude":56.171667,
     "geom:longitude":92.493333,
     "iso:country":"RU",
@@ -18,6 +18,10 @@
     ],
     "name:deu_x_preferred":[
         "Flughafen Jemeljanowo"
+    ],
+    "name:eng_x_variant":[
+        "KJA",
+        "UNKL"
     ],
     "name:est_x_preferred":[
         "Jemeljanovo rahvusvaheline lennujaam"
@@ -108,7 +112,7 @@
         "wd:id":"Q1431601"
     },
     "wof:country":"RU",
-    "wof:geomhash":"c18576db4591acfa31301c1def1d11cc",
+    "wof:geomhash":"cad68fccef1094e981c501a2358fc562",
     "wof:hierarchy":[
         {
             "campus_id":102540387,
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":102540387,
-    "wof:lastmodified":1566615717,
+    "wof:lastmodified":1631746970,
     "wof:name":"Yemelyanovo Airport",
     "wof:parent_id":85688139,
     "wof:placetype":"campus",
@@ -129,10 +133,10 @@
     ]
 },
   "bbox": [
-    92.493333333333,
-    56.171666666667,
-    92.493333333333,
-    56.171666666667
+    92.493333,
+    56.171667,
+    92.493333,
+    56.171667
 ],
-  "geometry": {"coordinates":[92.493333333333,56.171666666667],"type":"Point"}
+  "geometry": {"coordinates":[92.49333300000001,56.171667],"type":"Point"}
 }

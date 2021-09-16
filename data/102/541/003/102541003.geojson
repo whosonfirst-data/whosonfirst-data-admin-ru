@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-173.243333333,64.3783333333,-173.243333333,64.3783333333",
+    "geom:bbox":"-173.243333,64.378333,-173.243333,64.378333",
     "geom:latitude":64.378333,
     "geom:longitude":-173.243333,
     "iso:country":"RU",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Provideniya Bay Airport"
+    ],
+    "name:eng_x_variant":[
+        "PVS",
+        "UHMD"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0631\u0648\u06cc\u062f\u0646\u06cc\u0627 \u0628\u0627\u06cc"
@@ -67,7 +71,7 @@
         "wd:id":"Q2560037"
     },
     "wof:country":"RU",
-    "wof:geomhash":"143fcbcaf4607f80b9477a6a81b36ace",
+    "wof:geomhash":"5cb0d64e8272d536c813c84aa7e1ae80",
     "wof:hierarchy":[
         {
             "campus_id":102541003,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":102541003,
-    "wof:lastmodified":1566615717,
+    "wof:lastmodified":1631746970,
     "wof:name":"Provideniya Urelik Airport",
     "wof:parent_id":85687795,
     "wof:placetype":"campus",
@@ -88,10 +92,10 @@
     ]
 },
   "bbox": [
-    -173.24333333333,
-    64.378333333333,
-    -173.24333333333,
-    64.378333333333
+    -173.243333,
+    64.378333,
+    -173.243333,
+    64.378333
 ],
-  "geometry": {"coordinates":[-173.24333333333001,64.378333333333],"type":"Point"}
+  "geometry": {"coordinates":[-173.24333300000001,64.378333],"type":"Point"}
 }

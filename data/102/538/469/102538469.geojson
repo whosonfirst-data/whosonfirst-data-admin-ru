@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.26,60.7883333333,46.26,60.7883333333",
+    "geom:bbox":"46.26,60.788333,46.26,60.788333",
     "geom:latitude":60.788333,
     "geom:longitude":46.26,
     "iso:country":"RU",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Veliky Ustyug Airport"
+    ],
+    "name:eng_x_variant":[
+        "VUS",
+        "ULWU"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0648\u0644\u06cc\u06a9\u06cc \u0627\u0648\u0633\u062a\u06cc\u0648\u06af"
@@ -55,7 +59,7 @@
         "wd:id":"Q7919017"
     },
     "wof:country":"RU",
-    "wof:geomhash":"b1abad406c6f0485b0790370a0ccd9bd",
+    "wof:geomhash":"fc4f3053934f8f6fe334ee6fab1aa86d",
     "wof:hierarchy":[
         {
             "campus_id":102538469,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":102538469,
-    "wof:lastmodified":1566615378,
+    "wof:lastmodified":1631746967,
     "wof:name":"Velikiy Ustyug Airport",
     "wof:parent_id":85687853,
     "wof:placetype":"campus",
@@ -77,9 +81,9 @@
 },
   "bbox": [
     46.26,
-    60.788333333333,
+    60.788333,
     46.26,
-    60.788333333333
+    60.788333
 ],
-  "geometry": {"coordinates":[46.26,60.788333333333],"type":"Point"}
+  "geometry": {"coordinates":[46.26,60.788333],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"49.3483333333,58.5033333333,49.3483333333,58.5033333333",
+    "geom:bbox":"49.348333,58.503333,49.348333,58.503333",
     "geom:latitude":58.503333,
     "geom:longitude":49.348333,
     "iso:country":"RU",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Pobedilovo Airport"
+    ],
+    "name:eng_x_variant":[
+        "KVX",
+        "USKK"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u06cc\u0631\u0648\u0641 \u067e\u0648\u0628\u062f\u06cc\u0644\u0648\u0641"
@@ -79,7 +83,7 @@
         "wd:id":"Q2608493"
     },
     "wof:country":"RU",
-    "wof:geomhash":"5852219f58550d665bb0f609b619c788",
+    "wof:geomhash":"029295cc377f7be759e92ef8f7547efd",
     "wof:hierarchy":[
         {
             "campus_id":102541209,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":102541209,
-    "wof:lastmodified":1566615717,
+    "wof:lastmodified":1631746970,
     "wof:name":"Lyangasovo Airport",
     "wof:parent_id":85687903,
     "wof:placetype":"campus",
@@ -100,10 +104,10 @@
     ]
 },
   "bbox": [
-    49.348333333333,
-    58.503333333333,
-    49.348333333333,
-    58.503333333333
+    49.348333,
+    58.503333,
+    49.348333,
+    58.503333
 ],
-  "geometry": {"coordinates":[49.348333333333,58.503333333333],"type":"Point"}
+  "geometry": {"coordinates":[49.348333,58.503333],"type":"Point"}
 }

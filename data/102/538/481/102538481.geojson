@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"132.151388889,43.3991666667,132.151388889,43.3991666667",
+    "geom:bbox":"132.151389,43.399167,132.151389,43.399167",
     "geom:latitude":43.399167,
     "geom:longitude":132.151389,
     "iso:country":"RU",
@@ -21,6 +21,10 @@
     ],
     "name:deu_x_preferred":[
         "Flughafen Wladiwostok"
+    ],
+    "name:eng_x_variant":[
+        "VVO",
+        "UHWW"
     ],
     "name:epo_x_preferred":[
         "Internacia Flughaveno Vladivostoko"
@@ -108,7 +112,7 @@
         "wd:id":"Q577067"
     },
     "wof:country":"RU",
-    "wof:geomhash":"8402daec6903dff30a345e9643e3eefd",
+    "wof:geomhash":"cec8e9c6dcf5166901fa6c915f954437",
     "wof:hierarchy":[
         {
             "campus_id":102538481,
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":102538481,
-    "wof:lastmodified":1566615378,
+    "wof:lastmodified":1631746967,
     "wof:name":"Vladivostok Airport",
     "wof:parent_id":85688023,
     "wof:placetype":"campus",
@@ -129,10 +133,10 @@
     ]
 },
   "bbox": [
-    132.15138888889,
-    43.399166666667,
-    132.15138888889,
-    43.399166666667
+    132.151389,
+    43.399167,
+    132.151389,
+    43.399167
 ],
-  "geometry": {"coordinates":[132.15138888889001,43.399166666667],"type":"Point"}
+  "geometry": {"coordinates":[132.15138899999999,43.399167],"type":"Point"}
 }
