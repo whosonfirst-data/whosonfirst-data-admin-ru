@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000438,
     "geom:area_square_m":3028546.999127,
-    "geom:bbox":"94.6813354492,55.9469680786,94.7122802734,55.9678382874",
+    "geom:bbox":"94.681335,55.946968,94.71228,55.967838",
     "geom:latitude":55.958085,
     "geom:longitude":94.698848,
     "gn:latitude":55.9618,
@@ -31,6 +31,9 @@
     "name:bel_x_preferred":[
         "\u0417\u0430\u0430\u0437\u0451\u0440\u043d\u044b"
     ],
+    "name:ben_x_preferred":[
+        "\u099c\u09be\u0993\u099c\u09c7\u09b0\u09a8\u09bf"
+    ],
     "name:cat_x_preferred":[
         "Zaoziorni"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:diq_x_preferred":[
         "Zaozyorny"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b1\u03bf\u03b6\u03ad\u03c1\u03bd\u03b9\u03b9"
     ],
     "name:eng_x_preferred":[
         "Zaoz\u00ebrnyy"
@@ -67,17 +73,26 @@
     "name:fra_x_preferred":[
         "Zaoziorny"
     ],
+    "name:hin_x_preferred":[
+        "\u091c\u093c\u093e\u0913\u091c\u093c\u0930\u094d\u0928\u0940"
+    ],
     "name:hsb_x_preferred":[
         "Zaozjornyj"
     ],
     "name:hun_x_preferred":[
         "Zaozjornij"
     ],
+    "name:ind_x_preferred":[
+        "Zaozernyy"
+    ],
     "name:ita_x_preferred":[
         "Zaoz\u00ebrnyj"
     ],
     "name:jpn_x_preferred":[
         "\u30b6\u30aa\u30b8\u30e7\u30fc\u30eb\u30cc\u30a4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc790\uc624\uccb4\ub974\ub2c8"
     ],
     "name:nld_x_preferred":[
         "Zaozjorniy"
@@ -94,6 +109,9 @@
     "name:pol_x_preferred":[
         "Zaoziornyj"
     ],
+    "name:por_x_preferred":[
+        "Zaozyorny"
+    ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u043e\u0437\u0435\u0440\u043d\u044b\u0439"
     ],
@@ -107,6 +125,9 @@
     "name:srp_x_preferred":[
         "\u0417\u0430\u043e\u0437\u0458\u043e\u0440\u043d\u0438"
     ],
+    "name:swe_x_preferred":[
+        "Zaozjorij"
+    ],
     "name:tat_x_preferred":[
         "\u0417\u0430\u043e\u0437\u04e9\u0440\u043d\u044b\u0439"
     ],
@@ -119,8 +140,14 @@
     "name:und_x_variant":[
         "Zaozernaya"
     ],
+    "name:urd_x_preferred":[
+        "\u0632\u0627\u0624\u0632\u0631\u0646\u06cc"
+    ],
     "name:vep_x_preferred":[
         "Zaoz\u00f6rnii"
+    ],
+    "name:vie_x_preferred":[
+        "Zaozernyy"
     ],
     "name:war_x_preferred":[
         "Zaozyorny"
@@ -257,7 +284,7 @@
     "wof:geom_alt":[
         "naturalearth"
     ],
-    "wof:geomhash":"2cf77fd0a95e46d0654f742897512a61",
+    "wof:geomhash":"b73fdff32101d8fff3f578ad7f0cbdc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -269,7 +296,7 @@
         }
     ],
     "wof:id":102013957,
-    "wof:lastmodified":1582329761,
+    "wof:lastmodified":1636496937,
     "wof:name":"Zaozernyy",
     "wof:parent_id":1108736339,
     "wof:placetype":"locality",
@@ -283,10 +310,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    94.68133544921875,
-    55.94696807861328,
-    94.7122802734375,
-    55.96783828735352
+    94.681335,
+    55.946968,
+    94.71228,
+    55.967838
 ],
-  "geometry": {"coordinates":[[[94.6937255859375,55.94886779785156],[94.68640899658203,55.95262908935547],[94.68626403808594,55.95447158813477],[94.68611907958984,55.95627212524414],[94.68855285644531,55.95632934570312],[94.69076538085938,55.95912551879883],[94.68977355957031,55.96138000488281],[94.68133544921875,55.96527862548828],[94.68199920654297,55.96712112426758],[94.68905639648438,55.96760177612305],[94.69251251220703,55.96783828735352],[94.69716644287109,55.96709442138672],[94.7122802734375,55.96467590332031],[94.71144866943359,55.95513916015625],[94.71111297607422,55.95133209228516],[94.71099853515625,55.95003890991211],[94.69742584228516,55.94696807861328],[94.6937255859375,55.94886779785156]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[94.693726,55.948868],[94.686409,55.952629],[94.68626399999999,55.954472],[94.68611900000001,55.956272],[94.688553,55.956329],[94.690765,55.959126],[94.689774,55.96138],[94.681335,55.965279],[94.681999,55.967121],[94.68905599999999,55.967602],[94.69251300000001,55.967838],[94.697166,55.967094],[94.71228000000001,55.964676],[94.711449,55.955139],[94.711113,55.951332],[94.710999,55.950039],[94.69742599999999,55.946968],[94.693726,55.948868]]],"type":"Polygon"}
 }

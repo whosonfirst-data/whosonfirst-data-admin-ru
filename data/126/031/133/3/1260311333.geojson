@@ -35,6 +35,9 @@
     "name:bel_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u0441\u043a\u0456 \u0414\u0430\u043d\u0435\u0446"
     ],
+    "name:ben_x_preferred":[
+        "\u09a1\u09a8\u09c7\u099f\u09b8"
+    ],
     "name:bos_x_preferred":[
         "Severski Donjec"
     ],
@@ -83,6 +86,9 @@
     "name:heb_x_preferred":[
         "\u05e1\u05d5\u05d5\u05e8\u05e1\u05e7\u05d9 \u05d3\u05d5\u05e0\u05e5"
     ],
+    "name:hin_x_preferred":[
+        "\u0921\u094b\u0928\u0947\u091f\u094d\u0938"
+    ],
     "name:hrv_x_preferred":[
         "Sjeverni Donjec"
     ],
@@ -91,6 +97,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054d\u0587\u0565\u0580\u057d\u056f\u056b \u0534\u0578\u0576\u0565\u0581"
+    ],
+    "name:ind_x_preferred":[
+        "Donets"
     ],
     "name:ita_x_preferred":[
         "Severskij Donec"
@@ -170,8 +179,14 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u0432\u0435\u0440\u0441\u044c\u043a\u0438\u0439 \u0414\u043e\u043d\u0435\u0446\u044c"
     ],
+    "name:urd_x_preferred":[
+        "\u0688\u0648\u0646\u06cc\u0679\u0633"
+    ],
     "name:uzb_x_preferred":[
         "Severskiy Donets"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Donets"
     ],
     "name:zho_x_preferred":[
         "\u5317\u9813\u6d85\u8328\u6cb3"
@@ -189,7 +204,7 @@
         "gn:id":565352
     },
     "wof:country":"RU",
-    "wof:geomhash":"ec3fb64f03c9448c24be436e34280328",
+    "wof:geomhash":"caed16cf34815fd93db94969b09cc2b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,7 +216,7 @@
         }
     ],
     "wof:id":1260311333,
-    "wof:lastmodified":1566626221,
+    "wof:lastmodified":1636497177,
     "wof:name":"Donets",
     "wof:parent_id":1108736687,
     "wof:placetype":"locality",
@@ -211,10 +226,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.29159000000001,
+    30.29159,
     58.21025,
-    30.29159000000001,
+    30.29159,
     58.21025
 ],
-  "geometry": {"coordinates":[30.29159000000001,58.21025],"type":"Point"}
+  "geometry": {"coordinates":[30.29159,58.21025],"type":"Point"}
 }

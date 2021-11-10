@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.39258907,60.5031919547,120.39258907,60.5031919547",
+    "geom:bbox":"120.392589,60.503192,120.392589,60.503192",
     "geom:latitude":60.503192,
     "geom:longitude":120.392589,
     "iso:country":"RU",
@@ -27,6 +27,9 @@
     "name:bel_x_preferred":[
         "\u0410\u043b\u0451\u043a\u043c\u0456\u043d\u0441\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u0993\u09b2\u09bf\u09df\u09cb\u0995\u09ae\u09bf\u09a8\u09b8\u09cd\u0995"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u043b\u044c\u043e\u043a\u043c\u0438\u043d\u0441\u043a"
     ],
@@ -45,6 +48,9 @@
     "name:deu_x_preferred":[
         "Oljokminsk"
     ],
+    "name:ell_x_preferred":[
+        "\u039f\u03bb\u03c5\u03bf\u03ba\u03bc\u03af\u03bd\u03c3\u03ba"
+    ],
     "name:epo_x_preferred":[
         "Olokminsk"
     ],
@@ -59,6 +65,9 @@
     ],
     "name:fra_x_preferred":[
         "Oliokminsk"
+    ],
+    "name:hin_x_preferred":[
+        "\u0913\u0932\u092f\u094b\u092e\u093f\u0902\u0938\u094d\u0915"
     ],
     "name:hrv_x_preferred":[
         "Oljokminsk"
@@ -105,6 +114,9 @@
     "name:srp_x_preferred":[
         "\u041e\u0459\u043e\u043a\u043c\u0438\u043d\u0441\u043a"
     ],
+    "name:swe_x_preferred":[
+        "Oljokminsk"
+    ],
     "name:tat_x_preferred":[
         "\u041e\u043b\u0451\u043a\u043c\u0438\u043d\u0441\u043a"
     ],
@@ -125,6 +137,9 @@
     ],
     "name:vep_x_preferred":[
         "Ol\u00f6kminsk"
+    ],
+    "name:vie_x_preferred":[
+        "Olyokminsk"
     ],
     "name:war_x_preferred":[
         "Olyokminsk"
@@ -239,7 +254,7 @@
     "wof:concordances":{},
     "wof:country":"RU",
     "wof:created":1499130709,
-    "wof:geomhash":"82463916e61cfb9f5eef0f4f230ae6c7",
+    "wof:geomhash":"78e29ab763e9280339009410b59e818e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -251,7 +266,7 @@
         }
     ],
     "wof:id":1141907313,
-    "wof:lastmodified":1566636802,
+    "wof:lastmodified":1636497390,
     "wof:name":"Olyokminsk",
     "wof:parent_id":1108735667,
     "wof:placetype":"locality",
@@ -261,10 +276,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.39258906970497,
-    60.50319195468558,
-    120.39258906970497,
-    60.50319195468558
+    120.392589,
+    60.503192,
+    120.392589,
+    60.503192
 ],
-  "geometry": {"coordinates":[120.39258906970497,60.50319195468558],"type":"Point"}
+  "geometry": {"coordinates":[120.392589,60.503192],"type":"Point"}
 }

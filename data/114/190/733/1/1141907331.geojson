@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"152.250179402,61.8669846793,152.250179402,61.8669846793",
+    "geom:bbox":"152.250179,61.866985,152.250179,61.866985",
     "geom:latitude":61.866985,
     "geom:longitude":152.250179,
     "iso:country":"RU",
@@ -43,7 +43,22 @@
         "Strelka"
     ],
     "name:ukr_x_preferred":[
+        "\u0421\u0442\u0440\u0454\u043b\u043a\u0430"
+    ],
+    "name:ukr_x_variant":[
         "\u0421\u0442\u0440\u0456\u043b\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0633\u0679\u0631\u06cc\u0644\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Strelka"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u65af\u7279\u96f7\u5c14\u5361"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u65af\u7279\u5217\u723e\u5361"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -152,7 +167,7 @@
     "wof:concordances":{},
     "wof:country":"RU",
     "wof:created":1499130711,
-    "wof:geomhash":"50d78900701f9af80579f35bfac61cec",
+    "wof:geomhash":"b4ea75345562562b7c9cb3377adee802",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,7 +179,7 @@
         }
     ],
     "wof:id":1141907331,
-    "wof:lastmodified":1566636807,
+    "wof:lastmodified":1636497396,
     "wof:name":"Strelka",
     "wof:parent_id":1108734359,
     "wof:placetype":"locality",
@@ -174,10 +189,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    152.25017940186365,
-    61.86698467930034,
-    152.25017940186365,
-    61.86698467930034
+    152.250179,
+    61.866985,
+    152.250179,
+    61.866985
 ],
-  "geometry": {"coordinates":[152.25017940186365,61.86698467930034],"type":"Point"}
+  "geometry": {"coordinates":[152.250179,61.866985],"type":"Point"}
 }

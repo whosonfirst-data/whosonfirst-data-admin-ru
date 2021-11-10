@@ -35,6 +35,9 @@
     "name:bel_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u043a\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09ae\u09c7\u0999\u09cd\u0995\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Kamenka"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:deu_x_preferred":[
         "Kamenka"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bc\u03ad\u03bd\u03ba\u03b1"
     ],
     "name:epo_x_preferred":[
         "Kamenka"
@@ -56,17 +62,32 @@
     "name:fra_x_preferred":[
         "Kamenka"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05de\u05e0\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u092e\u0947\u0902\u0915\u093e"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u0574\u0565\u0576\u056f\u0561"
     ],
+    "name:ind_x_preferred":[
+        "Kamenka"
+    ],
     "name:ita_x_preferred":[
         "Kamenka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30e1\u30f3\u30ab"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10db\u10d4\u10dc\u10d9\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u043a\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\uba58\uce74"
     ],
     "name:lav_x_preferred":[
         "Kamenka"
@@ -80,6 +101,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u043a\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Kamenka"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u043a\u0430"
     ],
@@ -88,6 +112,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0645\u06cc\u0646\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Kamenka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -102,7 +132,7 @@
         "gn:id":2125056
     },
     "wof:country":"RU",
-    "wof:geomhash":"7b1e44bd07bc86cd4f1fbd31e1745eaf",
+    "wof:geomhash":"5813c1281ca3bd58d4700ffae4354776",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,7 +144,7 @@
         }
     ],
     "wof:id":1293324871,
-    "wof:lastmodified":1566620114,
+    "wof:lastmodified":1636497059,
     "wof:name":"Kamenka",
     "wof:parent_id":890481341,
     "wof:placetype":"locality",
@@ -124,10 +154,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    159.91666999999995,
+    159.91667,
     56.16667,
-    159.91666999999995,
+    159.91667,
     56.16667
 ],
-  "geometry": {"coordinates":[159.91666999999995,56.16667],"type":"Point"}
+  "geometry": {"coordinates":[159.91667000000001,56.16667],"type":"Point"}
 }

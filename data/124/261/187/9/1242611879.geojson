@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0634\u064a\u0631\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09bf\u09b6\u09c7\u09b0\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Vishera"
     ],
@@ -41,6 +47,9 @@
     "name:deu_x_preferred":[
         "Wischera"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b9\u03c3\u03ad\u03c1\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Vishera"
     ],
@@ -50,11 +59,20 @@
     "name:fin_x_preferred":[
         "Vi\u0161era"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05e9\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093f\u0936\u0947\u0930\u093e "
+    ],
     "name:hrv_x_preferred":[
         "Vi\u0161era"
     ],
     "name:hye_x_preferred":[
         "\u054e\u056b\u0577\u0565\u0580\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Vishera"
     ],
     "name:ita_x_preferred":[
         "Vi\u0161era"
@@ -71,8 +89,17 @@
     "name:rus_x_preferred":[
         "\u0412\u0438\u0448\u0435\u0440\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Vishera"
+    ],
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0448\u0435\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0634\u06cc\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Vishera"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -87,7 +114,7 @@
         "gn:id":1487084
     },
     "wof:country":"RU",
-    "wof:geomhash":"c840e27d859507188e2fe6c8b3dc0180",
+    "wof:geomhash":"ac8a53b46790a7b0e6a20f3652a2b1be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +126,7 @@
         }
     ],
     "wof:id":1242611879,
-    "wof:lastmodified":1566631743,
+    "wof:lastmodified":1636497293,
     "wof:name":"Vishera",
     "wof:parent_id":1108734047,
     "wof:placetype":"locality",
@@ -110,9 +137,9 @@
 },
   "bbox": [
     60.45456,
-    60.21758000000001,
+    60.21758,
     60.45456,
-    60.21758000000001
+    60.21758
 ],
-  "geometry": {"coordinates":[60.45456,60.21758000000001],"type":"Point"}
+  "geometry": {"coordinates":[60.45456,60.21758],"type":"Point"}
 }

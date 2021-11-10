@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"49.0165948334,67.6897540379,49.0165948334,67.6897540379",
+    "geom:bbox":"49.016595,67.689754,49.016595,67.689754",
     "geom:latitude":67.689754,
     "geom:longitude":49.016595,
     "iso:country":"RU",
@@ -18,22 +18,61 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0625\u0646\u062f\u064a\u062c\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u0987\u09a8\u09cd\u09a1\u09bf\u0997\u09be"
+    ],
     "name:che_x_preferred":[
         "\u0418\u043d\u0434\u0438\u0433\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Indiga"
+    ],
+    "name:ell_x_preferred":[
+        "\u038a\u03bd\u03c4\u03b9\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Indiga"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0646\u062f\u06cc\u06af\u0627"
+    ],
     "name:fin_x_preferred":[
+        "Indiga"
+    ],
+    "name:fra_x_preferred":[
+        "Indiga"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05e0\u05d3\u05d9\u05d2\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0907\u0902\u0926\u093f\u0917\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Indiga"
+    ],
+    "name:ind_x_preferred":[
         "Indiga"
     ],
     "name:ita_x_preferred":[
         "Indiga"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30f3\u30b8\u30ac"
+    ],
+    "name:kor_x_preferred":[
+        "\uc778\ub514\uac00"
+    ],
     "name:nld_x_preferred":[
         "Indiga"
     ],
     "name:pol_x_preferred":[
+        "Indiga"
+    ],
+    "name:por_x_preferred":[
         "Indiga"
     ],
     "name:rus_x_preferred":[
@@ -42,8 +81,26 @@
     "name:spa_x_preferred":[
         "Indiga"
     ],
+    "name:swe_x_preferred":[
+        "Indiga"
+    ],
     "name:tat_x_preferred":[
         "\u0418\u043d\u0434\u0438\u0433\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Indiga"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0646\u0688\u06cc\u06af\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Indiga"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u56e0\u8fea\u52a0"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6620\u5730\u52a0"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -154,7 +211,7 @@
     },
     "wof:country":"RU",
     "wof:created":1499130923,
-    "wof:geomhash":"ddba8f78f8d3b7a5dbb3784675ecda33",
+    "wof:geomhash":"0b9bcd9de7341dbd003f328266e983b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,7 +223,7 @@
         }
     ],
     "wof:id":1141908531,
-    "wof:lastmodified":1566636809,
+    "wof:lastmodified":1636497398,
     "wof:name":"Indiga",
     "wof:parent_id":1108737869,
     "wof:placetype":"locality",
@@ -176,10 +233,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    49.01659483339273,
-    67.68975403787442,
-    49.01659483339273,
-    67.68975403787442
+    49.016595,
+    67.689754,
+    49.016595,
+    67.689754
 ],
-  "geometry": {"coordinates":[49.01659483339273,67.68975403787442],"type":"Point"}
+  "geometry": {"coordinates":[49.016595,67.68975399999999],"type":"Point"}
 }

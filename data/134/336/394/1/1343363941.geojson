@@ -38,6 +38,9 @@
     "name:bel_x_preferred":[
         "\u0411\u043e\u0440\u0437\u044f"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cb\u09b0\u099c\u09be\u09df\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u0437\u044f"
     ],
@@ -59,6 +62,9 @@
     "name:diq_x_preferred":[
         "Borzya"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03cc\u03c1\u03b6\u03b9\u03b1"
+    ],
     "name:epo_x_preferred":[
         "Borzja"
     ],
@@ -71,11 +77,20 @@
     "name:fra_x_preferred":[
         "Borzia"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e8\u05d6\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094b\u0930\u094d\u091c\u093c\u094d\u092f\u093e"
+    ],
     "name:hsb_x_preferred":[
         "Borzja"
     ],
     "name:hun_x_preferred":[
         "Borzja"
+    ],
+    "name:ind_x_preferred":[
+        "Borzya"
     ],
     "name:ita_x_preferred":[
         "Borzja"
@@ -101,8 +116,14 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u0440\u0437\u044f"
     ],
+    "name:spa_x_preferred":[
+        "Borzya"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u043e\u0440\u0437\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Borzja"
     ],
     "name:tat_x_preferred":[
         "\u0411\u043e\u0440\u0437\u044f"
@@ -118,6 +139,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u0437\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0631\u0632\u06cc\u0627"
     ],
     "name:vep_x_preferred":[
         "Borz'"
@@ -144,7 +168,7 @@
         "gn:id":6779633
     },
     "wof:country":"RU",
-    "wof:geomhash":"5e719029ec9b34862b29b18720767638",
+    "wof:geomhash":"894a5211412e847213021128220c4d09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,7 +180,7 @@
         }
     ],
     "wof:id":1343363941,
-    "wof:lastmodified":1566615778,
+    "wof:lastmodified":1636496989,
     "wof:name":"Borzya",
     "wof:parent_id":890483563,
     "wof:placetype":"locality",
@@ -166,10 +190,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.84091999999998,
+    129.84092,
     49.33037,
-    129.84091999999998,
+    129.84092,
     49.33037
 ],
-  "geometry": {"coordinates":[129.84091999999998,49.33037],"type":"Point"}
+  "geometry": {"coordinates":[129.84092000000001,49.33037],"type":"Point"}
 }

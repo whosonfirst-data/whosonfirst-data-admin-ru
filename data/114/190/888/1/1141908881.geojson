@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"61.6676981189,69.7630143424,61.6676981189,69.7630143424",
+    "geom:bbox":"61.667698,69.763014,61.667698,69.763014",
     "geom:latitude":69.763014,
     "geom:longitude":61.667698,
     "gn:country":"RU",
@@ -27,6 +27,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0430\u0441\u0451\u043b\u0430\u043a \u0410\u043c\u0434\u044d\u0440\u043c\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09ae\u09a6\u09c7\u09ae\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u043c\u0434\u0435\u0440\u043c\u0430"
     ],
@@ -42,11 +45,17 @@
     "name:deu_x_preferred":[
         "Amderma"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03bd\u03c4\u03ad\u03c1\u03bc\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Amderma"
     ],
     "name:est_x_preferred":[
         "Amderma"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0645\u062f\u0631\u0645\u0627"
     ],
     "name:fin_x_preferred":[
         "Amderma"
@@ -54,11 +63,23 @@
     "name:fra_x_preferred":[
         "Amderma"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05de\u05d3\u05e8\u05de\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u092e\u0921\u0930\u094d\u092e\u093e"
+    ],
     "name:hsb_x_preferred":[
+        "Amderma"
+    ],
+    "name:hun_x_preferred":[
         "Amderma"
     ],
     "name:hye_x_preferred":[
         "\u0531\u0574\u0564\u0565\u0580\u0574\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Amderma"
     ],
     "name:ita_x_preferred":[
         "Amderma"
@@ -66,10 +87,16 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30b8\u30a7\u30eb\u30de"
     ],
+    "name:kor_x_preferred":[
+        "\uc554\ub354\ub9c8"
+    ],
     "name:lit_x_preferred":[
         "Amderma"
     ],
     "name:nld_x_preferred":[
+        "Amderma"
+    ],
+    "name:por_x_preferred":[
         "Amderma"
     ],
     "name:rus_x_preferred":[
@@ -78,14 +105,26 @@
     "name:spa_x_preferred":[
         "Amderma"
     ],
+    "name:swe_x_preferred":[
+        "Amderma"
+    ],
     "name:tat_x_preferred":[
         "\u0410\u043c\u0434\u0435\u0440\u043c\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Amderma"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043c\u0434\u0435\u0440\u043c\u0430"
     ],
     "name:und_x_variant":[
         "Anderma"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0645\u0688\u0631\u0645\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Amderma"
     ],
     "name:zho_x_preferred":[
         "\u963f\u59c6\u5091\u723e\u99ac"
@@ -204,7 +243,7 @@
     },
     "wof:country":"RU",
     "wof:created":1499130993,
-    "wof:geomhash":"b16eea8c7d16acf7c0f2c1d39a1549f4",
+    "wof:geomhash":"c585c5a173cd845589ceb7bc4ebb99f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -216,7 +255,7 @@
         }
     ],
     "wof:id":1141908881,
-    "wof:lastmodified":1566636803,
+    "wof:lastmodified":1636497391,
     "wof:name":"Amderma",
     "wof:parent_id":1108737869,
     "wof:placetype":"locality",
@@ -230,10 +269,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    61.66769811894932,
-    69.76301434241788,
-    61.66769811894932,
-    69.76301434241788
+    61.667698,
+    69.763014,
+    61.667698,
+    69.763014
 ],
-  "geometry": {"coordinates":[61.66769811894932,69.76301434241788],"type":"Point"}
+  "geometry": {"coordinates":[61.667698,69.763014],"type":"Point"}
 }

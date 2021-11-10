@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"162.333594929,69.6510056754,162.333594929,69.6510056754",
+    "geom:bbox":"162.333595,69.651006,162.333595,69.651006",
     "geom:latitude":69.651006,
     "geom:longitude":162.333595,
     "iso:country":"RU",
@@ -18,20 +18,53 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0645\u0628\u0627\u0631\u0634\u064a\u0643"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09ae\u09cd\u09ac\u09be\u09b0\u099a\u09bf\u0995"
+    ],
     "name:che_x_preferred":[
         "\u0410\u043c\u0431\u0430\u0440\u0447\u0438\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "Ambarchik"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c0\u03b1\u03c1\u03c4\u03c3\u03af\u03ba"
     ],
     "name:eng_x_preferred":[
         "Ambarchik"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0645\u0628\u0627\u0631\u0686\u06cc\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Ambartchik"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05de\u05d1\u05e8\u05e6'\u05d9\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0902\u092c\u093e\u0930\u091a\u093f\u0915"
     ],
     "name:hrv_x_preferred":[
         "Ambar\u010dik"
     ],
+    "name:hun_x_preferred":[
+        "Ambarcsik"
+    ],
     "name:ind_x_preferred":[
         "Ambarchik"
+    ],
+    "name:ita_x_preferred":[
+        "Ambarchik"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30e0\u30d0\u30eb\u30c1\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\uc554\ubc14\ub974\uce58\ud06c"
     ],
     "name:lit_x_preferred":[
         "Ambar\u010dikas"
@@ -42,11 +75,38 @@
     "name:pol_x_preferred":[
         "Ambarczyk"
     ],
+    "name:por_x_preferred":[
+        "Ambarchik"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043c\u0431\u0430\u0440\u0447\u0438\u043a"
     ],
     "name:sah_x_preferred":[
         "\u0410\u043c\u0431\u0430\u0440\u0447\u0438\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Ambarchik"
+    ],
+    "name:swe_x_preferred":[
+        "Ambartjik"
+    ],
+    "name:tur_x_preferred":[
+        "Ambarchik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043c\u0431\u0430\u0440\u0447\u0438\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u0631\u0686\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Ambarchik"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5b89\u5df4\u5947\u514b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5b89\u5df4\u5947\u514b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -153,7 +213,7 @@
     },
     "wof:country":"RU",
     "wof:created":1499131042,
-    "wof:geomhash":"94b4762cea11d843afb35d07b46752a8",
+    "wof:geomhash":"5141f63e640bb84fc95276fafbbc10d9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -163,7 +223,7 @@
         }
     ],
     "wof:id":1141909207,
-    "wof:lastmodified":1566636811,
+    "wof:lastmodified":1636497400,
     "wof:name":"Ambarchik",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -173,10 +233,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    162.33359492924774,
-    69.65100567542538,
-    162.33359492924774,
-    69.65100567542538
+    162.333595,
+    69.651006,
+    162.333595,
+    69.651006
 ],
-  "geometry": {"coordinates":[162.33359492924774,69.65100567542538],"type":"Point"}
+  "geometry": {"coordinates":[162.333595,69.651006],"type":"Point"}
 }

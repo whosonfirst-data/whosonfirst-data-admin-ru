@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"177.699995483,64.733295511,177.699995483,64.733295511",
+    "geom:bbox":"177.699995,64.733296,177.699995,64.733296",
     "geom:latitude":64.733296,
     "geom:longitude":177.699995,
     "iso:country":"RU",
@@ -18,8 +18,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u063a\u0648\u0644\u0646\u064a \u0643\u0648\u0628\u064a"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u0443\u0433\u0430\u043b\u044c\u043d\u044b\u044f \u041a\u043e\u043f\u0456"
+    ],
+    "name:ben_x_preferred":[
+        "\u0989\u0997\u09cb\u09b2\u09a8\u09bf \u0995\u09cb\u09aa\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u0423\u0433\u043e\u043b\u043d\u0438\u0435 \u041a\u043e\u043f\u0438"
@@ -30,20 +36,44 @@
     "name:deu_x_preferred":[
         "Ugolnyje Kopi"
     ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03b3\u03ba\u03cc\u03bb\u03bd\u03b9\u03b5 \u039a\u03cc\u03c0\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Ugolnye Kopi"
     ],
     "name:est_x_preferred":[
         "Ugoln\u00f5je Kopi"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06af\u0648\u0644\u0646\u06cc\u0647 \u06a9\u0648\u067e\u06cc"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d2\u05d5\u05dc\u05e0\u05d9\u05d9\u05d4 \u05e7\u05d5\u05e4\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0909\u0917\u094b\u0932\u094d\u0928\u090f"
+    ],
+    "name:hun_x_preferred":[
+        "Ugolnye Kopi"
+    ],
     "name:hye_x_preferred":[
         "\u0548\u0582\u0563\u0578\u056c\u0576\u056b\u0565 \u053f\u0578\u057a\u056b"
+    ],
+    "name:ind_x_preferred":[
+        "Ugolnye Kopi"
     ],
     "name:ita_x_preferred":[
         "Ugol'nye Kopi"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30b4\u30ea\u30cb\u30a8\u30b3\u30d4"
+    ],
     "name:kaz_x_preferred":[
         "\u041a\u04e9\u043c\u0456\u0440 \u043a\u0435\u043d\u0456"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\uace8\ub2c8\uc608 \ucf54\ud53c"
     ],
     "name:nld_x_preferred":[
         "Oegolnie Kopi"
@@ -57,11 +87,32 @@
     "name:rus_x_preferred":[
         "\u0423\u0433\u043e\u043b\u044c\u043d\u044b\u0435 \u041a\u043e\u043f\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Ugolnye Kopi"
+    ],
+    "name:swe_x_preferred":[
+        "Ugolnje Kopi"
+    ],
+    "name:tur_x_preferred":[
+        "Ugolnye Kopi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0443\u0433\u043e\u043b\u044c\u043d\u0456 \u041a\u043e\u043f\u0438"
+    ],
     "name:urd_x_preferred":[
         "\u0627\u06af\u0644\u0646\u0626\u06d2 \u06a9\u0648\u067e\u06cc"
     ],
+    "name:vie_x_preferred":[
+        "Ugolnye Kopi"
+    ],
     "name:war_x_preferred":[
         "Ugolnye Kopi"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4e4c\u6208\u5c14\u5c3c\u79d1\u76ae"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u70cf\u6208\u723e\u5c3c\u79d1\u76ae"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -172,7 +223,7 @@
     },
     "wof:country":"RU",
     "wof:created":1499131041,
-    "wof:geomhash":"e600f3dc3d8dc33066a7907a54a29854",
+    "wof:geomhash":"fd0d74c85b95342f5debe5c327961707",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -184,7 +235,7 @@
         }
     ],
     "wof:id":1141909199,
-    "wof:lastmodified":1566636812,
+    "wof:lastmodified":1636497401,
     "wof:name":"Ugolnye Kopi",
     "wof:parent_id":1108732733,
     "wof:placetype":"locality",
@@ -194,10 +245,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    177.6999954826946,
-    64.73329551101756,
-    177.6999954826946,
-    64.73329551101756
+    177.699995,
+    64.733296,
+    177.699995,
+    64.733296
 ],
-  "geometry": {"coordinates":[177.69999548269459,64.73329551101756],"type":"Point"}
+  "geometry": {"coordinates":[177.699995,64.733296],"type":"Point"}
 }

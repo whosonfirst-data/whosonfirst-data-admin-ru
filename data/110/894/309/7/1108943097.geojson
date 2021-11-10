@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"30.2503331957,60.0787068884,30.2503331957,60.0787068884",
+    "geom:bbox":"30.250333,60.078707,30.250333,60.078707",
     "geom:latitude":60.078707,
     "geom:longitude":30.250333,
     "iso:country":"RU",
@@ -23,17 +23,44 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:ben_x_preferred":[
+        "\u09ae\u09bf\u0996\u09be\u0987\u09b2\u09cb\u09ad\u0995\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Mikhaylovka"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03c7\u03b1\u03b9\u03bb\u03bf\u03b2\u03ba\u03b1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05db\u05d0\u05d9\u05dc\u05d5\u05d1\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093f\u0916\u093e\u092f\u0932\u094b\u0935\u094d\u0915\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Mikhaylovka"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbf8\ud558\uc77c\ub85c\ud504\uce74"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Mikhaylovka"
     ],
     "name:swe_x_preferred":[
         "Mikhaylovka"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u06a9\u06be\u0627\u0626\u06d2\u0644\u0648\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Mikhaylovka"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -47,7 +74,7 @@
     "wof:concordances":{},
     "wof:country":"RU",
     "wof:created":1491363521,
-    "wof:geomhash":"130da8f42b0b758d49459511adf38ab6",
+    "wof:geomhash":"bc8a6409fb8420f556ea32c058915791",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1108943097,
-    "wof:lastmodified":1566627398,
+    "wof:lastmodified":1636497200,
     "wof:name":"Mikhaylovka",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",
@@ -69,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.25033319574613,
-    60.07870688837269,
-    30.25033319574613,
-    60.07870688837269
+    30.250333,
+    60.078707,
+    30.250333,
+    60.078707
 ],
-  "geometry": {"coordinates":[30.25033319574613,60.07870688837269],"type":"Point"}
+  "geometry": {"coordinates":[30.250333,60.078707],"type":"Point"}
 }

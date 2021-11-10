@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000571,
     "geom:area_square_m":4225141.181543,
-    "geom:bbox":"36.5692214966,53.2614440918,36.6112518311,53.2876396179",
+    "geom:bbox":"36.569221,53.261444,36.611252,53.28764",
     "geom:latitude":53.274414,
     "geom:longitude":36.589539,
     "gn:latitude":53.27657,
@@ -34,6 +34,9 @@
     "name:bel_x_variant":[
         "\u041c\u0446\u044d\u043d\u0441\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u098f\u09ae\u09a4\u09b8\u09c7\u09a8\u09cd\u09b8\u0995"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0446\u0435\u043d\u0441\u043a"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:deu_x_preferred":[
         "Mzensk"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c4\u03c3\u03ad\u03bd\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Mtsensk"
@@ -67,8 +73,17 @@
     "name:heb_x_preferred":[
         "\u05de\u05e6\u05e0\u05e1\u05e7"
     ],
+    "name:hin_x_preferred":[
+        "\u092e\u091f\u0947\u0902\u0938\u094d\u0915"
+    ],
     "name:hsb_x_preferred":[
         "Mcensk"
+    ],
+    "name:hun_x_preferred":[
+        "Mtsensk"
+    ],
+    "name:ind_x_preferred":[
+        "Mtsensk"
     ],
     "name:ita_x_preferred":[
         "Mcensk"
@@ -103,6 +118,9 @@
     "name:pol_x_preferred":[
         "Mce\u0144sk"
     ],
+    "name:por_x_preferred":[
+        "Mtsensk"
+    ],
     "name:ron_x_preferred":[
         "M\u021bensk"
     ],
@@ -114,6 +132,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u0446\u0435\u043d\u0441\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Mtsensk"
     ],
     "name:tat_x_preferred":[
         "\u041c\u0446\u0435\u043d\u0441\u043a"
@@ -132,6 +153,9 @@
     ],
     "name:und_x_variant":[
         "Misensk"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0645\u0633\u06cc\u0646\u0633\u06a9"
     ],
     "name:vie_x_preferred":[
         "Mtsensk"
@@ -278,7 +302,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4844da788a8654de33ef95e42715b029",
+    "wof:geomhash":"df7445374aeed36a16dc54d7ae04772e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -288,7 +312,7 @@
         }
     ],
     "wof:id":102004405,
-    "wof:lastmodified":1582329806,
+    "wof:lastmodified":1636496976,
     "wof:name":"Mtsensk",
     "wof:parent_id":1108735441,
     "wof:placetype":"locality",
@@ -300,10 +324,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    36.56922149658203,
-    53.26144409179688,
-    36.61125183105469,
-    53.28763961791992
+    36.569221,
+    53.261444,
+    36.611252,
+    53.28764
 ],
-  "geometry": {"coordinates":[[[36.58452606201172,53.26161193847656],[36.57661056518555,53.26564025878906],[36.57272338867188,53.27050018310547],[36.56922149658203,53.27488708496094],[36.57500076293945,53.27774810791016],[36.58430480957031,53.2823600769043],[36.594970703125,53.28763961791992],[36.60247039794922,53.28188705444336],[36.61125183105469,53.27516555786133],[36.60116577148438,53.26994323730469],[36.59327697753906,53.26583480834961],[36.58486175537109,53.26144409179688],[36.58452606201172,53.26161193847656]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[36.584526,53.261612],[36.576611,53.26564],[36.572723,53.2705],[36.569221,53.274887],[36.575001,53.277748],[36.584305,53.28236],[36.594971,53.28764],[36.60247,53.281887],[36.611252,53.275166],[36.601166,53.269943],[36.593277,53.265835],[36.584862,53.261444],[36.584526,53.261612]]],"type":"Polygon"}
 }

@@ -59,11 +59,17 @@
     "name:bel_x_preferred":[
         "\u0421\u0430\u0441\u043d\u0430\u0433\u043e\u0440\u0441\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cb\u09b8\u09a8\u09cb\u0997\u09b0\u09cd\u09b8\u09cd\u0995"
+    ],
     "name:che_x_preferred":[
         "\u0421\u043e\u0441\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
     ],
     "name:deu_x_preferred":[
         "Sosnogorsk"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c3\u03ba\u03bf\u03b3\u03ba\u03cc\u03c1\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Sosnogorsk"
@@ -77,20 +83,35 @@
     "name:fra_x_preferred":[
         "Sosnogorsk"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05e1\u05e0\u05d5\u05d2\u05d5\u05e8\u05e1\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094b\u0938\u094d\u0928\u094b\u0917\u094b\u0930\u094d\u0938\u094d\u0915"
+    ],
     "name:hun_x_preferred":[
         "Szosznogorszk \u00f6nkorm\u00e1nyzati j\u00e1r\u00e1s"
     ],
     "name:hye_x_preferred":[
         "\u054d\u0578\u057d\u0576\u0578\u0563\u0578\u0580\u057d\u056f\u056b \u0574\u0578\u0582\u0576\u056b\u0581\u056b\u057a\u0561\u056c \u0577\u0580\u057b\u0561\u0576"
     ],
+    "name:ind_x_preferred":[
+        "Sosnogorsk"
+    ],
     "name:ita_x_preferred":[
         "Sosnogorsk rajon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30b9\u30ce\u30b4\u30eb\u30b9\u30af"
     ],
     "name:koi_x_preferred":[
         "\u0421\u04e7\u0441\u043d\u0430\u0433\u043e\u0440\u0442 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:kom_x_preferred":[
         "\u0421\u04e7\u0441\u043d\u0430\u0433\u043e\u0440\u0442 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:kor_x_preferred":[
+        "\uc18c\uc2a4\ub178\uace0\ub974\uc2a4\ud06c"
     ],
     "name:myv_x_preferred":[
         "\u0421\u043e\u0441\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
@@ -101,11 +122,17 @@
     "name:rus_x_preferred":[
         "\u0421\u043e\u0441\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
     ],
+    "name:swe_x_preferred":[
+        "Sosnogorsk"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0441\u043d\u043e\u0433\u043e\u0440\u0441\u044c\u043a"
     ],
     "name:und_x_variant":[
         "\u0440\u0430\u0439\u043e\u043d \u0421\u043e\u0441\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u0633\u0646\u0648\u06af\u0648\u0631\u0633\u06a9"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -144,7 +171,7 @@
         }
     ],
     "wof:id":1108736227,
-    "wof:lastmodified":1627522691,
+    "wof:lastmodified":1636497196,
     "wof:name":"Sosnogorsk",
     "wof:parent_id":85688077,
     "wof:placetype":"county",

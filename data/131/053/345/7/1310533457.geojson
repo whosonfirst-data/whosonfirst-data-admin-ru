@@ -57,7 +57,22 @@
         "Strelka"
     ],
     "name:ukr_x_preferred":[
+        "\u0421\u0442\u0440\u0454\u043b\u043a\u0430"
+    ],
+    "name:ukr_x_variant":[
         "\u0421\u0442\u0440\u0456\u043b\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0633\u0679\u0631\u06cc\u0644\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Strelka"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u65af\u7279\u96f7\u5c14\u5361"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u65af\u7279\u5217\u723e\u5361"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +87,7 @@
         "gn:id":6608156
     },
     "wof:country":"RU",
-    "wof:geomhash":"d56122b01186b0736463ad15936663da",
+    "wof:geomhash":"1b852d7476bfbeb00a90527fe95d96fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +99,7 @@
         }
     ],
     "wof:id":1310533457,
-    "wof:lastmodified":1566627995,
+    "wof:lastmodified":1636497214,
     "wof:name":"Strelka",
     "wof:parent_id":1108733691,
     "wof:placetype":"locality",
@@ -95,9 +110,9 @@
 },
   "bbox": [
     43.81691,
-    56.57709000000001,
+    56.57709,
     43.81691,
-    56.57709000000001
+    56.57709
 ],
-  "geometry": {"coordinates":[43.81691,56.57709000000001],"type":"Point"}
+  "geometry": {"coordinates":[43.81691,56.57709],"type":"Point"}
 }

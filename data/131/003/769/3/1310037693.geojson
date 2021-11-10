@@ -29,13 +29,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09ac\u09c1\u099c\u09c1\u09b2\u09c1\u0995"
+    ],
     "name:ceb_x_preferred":[
         "Buzuluk"
     ],
     "name:ces_x_preferred":[
         "Buzuluk"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03b6\u03bf\u03c5\u03bb\u03bf\u03cd\u03ba"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0941\u091c\u0941\u0932\u0941\u0915"
+    ],
     "name:hrv_x_preferred":[
+        "Buzuluk"
+    ],
+    "name:ind_x_preferred":[
         "Buzuluk"
     ],
     "name:ita_x_preferred":[
@@ -50,6 +62,9 @@
     "name:swe_x_preferred":[
         "Buzuluk"
     ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0632\u0648\u0644\u06a9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688081,
@@ -63,7 +78,7 @@
         "gn:id":570429
     },
     "wof:country":"RU",
-    "wof:geomhash":"3907626d88c5ce131f528872af1d900b",
+    "wof:geomhash":"5022dc6b77da549f5aaa0453d9c9066e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +90,7 @@
         }
     ],
     "wof:id":1310037693,
-    "wof:lastmodified":1566628557,
+    "wof:lastmodified":1636497225,
     "wof:name":"Buzuluk",
     "wof:parent_id":1108736365,
     "wof:placetype":"locality",
@@ -85,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.63333000000001,
+    55.63333,
     52.15,
-    55.63333000000001,
+    55.63333,
     52.15
 ],
-  "geometry": {"coordinates":[55.63333000000001,52.15],"type":"Point"}
+  "geometry": {"coordinates":[55.63333,52.15],"type":"Point"}
 }

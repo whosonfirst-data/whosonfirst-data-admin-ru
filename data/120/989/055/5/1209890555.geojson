@@ -30,11 +30,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u099a\u09c7\u09b0\u09c7\u09aa\u09be\u09a8\u09cb\u09ad\u09cb"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b5\u03c1\u03b5\u03c0\u03ac\u03bd\u03bf\u03b2\u03bf"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05e8\u05e4\u05e0\u05d5\u05d1\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u0947\u0930\u0947\u092a\u093e\u0928\u094b\u0935\u094b"
+    ],
+    "name:ind_x_preferred":[
+        "Cherepanovo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30a7\u30ec\u30d1\u30ce\u30f4\u30a9"
+    ],
+    "name:kor_x_preferred":[
+        "\uccb4\ub808\ud30c\ub178\ubcf4"
+    ],
+    "name:por_x_preferred":[
+        "Cherepanovo"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u0440\u0435\u043f\u0430\u043d\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
         "Cherepanova",
+        "Cherepanovo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06cc\u0631\u06cc\u067e\u0627\u0646\u0648\u0648"
+    ],
+    "name:vie_x_preferred":[
         "Cherepanovo"
     ],
     "src:geom":"geonames",
@@ -50,7 +80,7 @@
         "gn:id":2025509
     },
     "wof:country":"RU",
-    "wof:geomhash":"1512058be668005938c2d9e0ce898050",
+    "wof:geomhash":"a73f5c49f6cf2cd8b169504016b9a0c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +92,7 @@
         }
     ],
     "wof:id":1209890555,
-    "wof:lastmodified":1566624953,
+    "wof:lastmodified":1636497150,
     "wof:name":"Cherepanovo",
     "wof:parent_id":1108732863,
     "wof:placetype":"locality",
@@ -73,9 +103,9 @@
 },
   "bbox": [
     103.16667,
-    54.96666999999999,
+    54.96667,
     103.16667,
-    54.96666999999999
+    54.96667
 ],
-  "geometry": {"coordinates":[103.16667,54.96666999999999],"type":"Point"}
+  "geometry": {"coordinates":[103.16667,54.96667],"type":"Point"}
 }

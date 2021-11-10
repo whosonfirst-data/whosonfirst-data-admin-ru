@@ -48,13 +48,20 @@
         "im.lenina"
     ],
     "name:rus_x_preferred":[
-        "\u0438\u043c.\u043b\u0435\u043d\u0438\u043d\u0430"
+        "\u043f\u0438\u043a \u041b\u0435\u043d\u0438\u043d\u0430"
     ],
     "name:rus_x_variant":[
-        "\u041b\u0435\u043d\u0438\u043d\u0430"
+        "\u041b\u0435\u043d\u0438\u043d\u0430",
+        "\u0438\u043c.\u043b\u0435\u043d\u0438\u043d\u0430"
     ],
     "name:spa_x_preferred":[
         "L\u00e9nina"
+    ],
+    "name:swe_x_preferred":[
+        "Pik Lenina"
+    ],
+    "name:tur_x_preferred":[
+        "Lenina"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0435\u043d\u0456\u043d\u0430"
@@ -62,6 +69,18 @@
     "name:und_x_variant":[
         "Imeni Lenina",
         "Lenin"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0646\u06cc\u0646\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "N\u00fai Lenina"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5217\u5b81\u5a1c\u5c71"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5217\u5be7\u5cf0"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +91,7 @@
         "gn:id":536214
     },
     "wof:country":"RU",
-    "wof:geomhash":"5b02f46283dce69d54ca978c1801b335",
+    "wof:geomhash":"4e1412cc963b6e4147c995441fa2ea67",
     "wof:hierarchy":[
         {
             "country_id":85632685,
@@ -80,7 +99,7 @@
         }
     ],
     "wof:id":1209346667,
-    "wof:lastmodified":1566624648,
+    "wof:lastmodified":1636497145,
     "wof:name":"Lenina",
     "wof:parent_id":85632685,
     "wof:placetype":"locality",
@@ -91,9 +110,9 @@
 },
   "bbox": [
     40.88111,
-    48.29584000000001,
+    48.29584,
     40.88111,
-    48.29584000000001
+    48.29584
 ],
-  "geometry": {"coordinates":[40.88111,48.29584000000001],"type":"Point"}
+  "geometry": {"coordinates":[40.88111,48.29584],"type":"Point"}
 }

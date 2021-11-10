@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000227,
     "geom:area_square_m":1803348.898835,
-    "geom:bbox":"118.120803833,50.0570259094,118.14666748,50.0737762451",
+    "geom:bbox":"118.120804,50.057026,118.146667,50.073776",
     "geom:latitude":50.064956,
     "geom:longitude":118.134437,
     "gn:id":"7842508,7842509,2021618",
@@ -33,6 +33,9 @@
     "name:bel_x_variant":[
         "\u041a\u0440\u0430\u0441\u043d\u0430\u043a\u0430\u043c\u0435\u043d\u0441\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cd\u09b0\u09be\u09b8\u09a8\u09cb\u0995\u09be\u09ae\u09c7\u09a8\u09b8\u09cd\u0995"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u043a\u0430\u043c\u0435\u043d\u0441\u043a"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:deu_x_preferred":[
         "Krasnokamensk"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03b1\u03c3\u03bd\u03bf\u03ba\u03b1\u03bc\u03ad\u03bd\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Krasnokamensk"
@@ -69,6 +75,12 @@
     "name:fra_x_preferred":[
         "Krasnokamensk"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05e1\u05e0\u05d5\u05e7\u05de\u05e0\u05e1\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u0930\u093e\u0938\u094d\u0928\u094b\u0915\u093e\u092e\u0947\u0902\u0938\u094d\u0915"
+    ],
     "name:hsb_x_preferred":[
         "Krasnokamjensk"
     ],
@@ -78,11 +90,17 @@
     "name:hye_x_preferred":[
         "\u053f\u0580\u0561\u057d\u0576\u0578\u056f\u0561\u0574\u0565\u0576\u057d\u056f"
     ],
+    "name:ind_x_preferred":[
+        "Krasnokamensk"
+    ],
     "name:ita_x_preferred":[
         "Krasnokamensk"
     ],
     "name:jpn_x_preferred":[
         "\u30af\u30e9\u30b9\u30ce\u30ab\u30fc\u30e1\u30f3\u30b9\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\ud06c\ub77c\uc2a4\ub178\uce74\uba58\uc2a4\ud06c"
     ],
     "name:lit_x_preferred":[
         "Krasnokamenskas"
@@ -108,11 +126,17 @@
     "name:pol_x_preferred":[
         "Krasnokamiensk"
     ],
+    "name:por_x_preferred":[
+        "Krasnokamensk"
+    ],
     "name:ron_x_preferred":[
         "Krasnokamensk"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u043a\u0430\u043c\u0435\u043d\u0441\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Krasnokamensk"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u043a\u0430\u043c\u0435\u043d\u0441\u043a"
@@ -134,6 +158,9 @@
     ],
     "name:und_x_variant":[
         "Chindachi"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0631\u0627\u0633\u0646\u0648\u06a9\u0627\u0645\u06cc\u0646\u0633\u06a9"
     ],
     "name:vep_x_preferred":[
         "Krasnokamensk"
@@ -277,7 +304,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"690d14649afe7df30d6f6de59702370a",
+    "wof:geomhash":"e6cb02c0ad3728814a95eacfa0fff77a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -287,7 +314,7 @@
         }
     ],
     "wof:id":102014941,
-    "wof:lastmodified":1582329764,
+    "wof:lastmodified":1636496943,
     "wof:name":"Krasnokamensk",
     "wof:parent_id":1108734715,
     "wof:placetype":"locality",
@@ -299,10 +326,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    118.12080383300781,
-    50.05702590942383,
-    118.14666748046875,
-    50.07377624511719
+    118.120804,
+    50.057026,
+    118.146667,
+    50.073776
 ],
-  "geometry": {"coordinates":[[[118.13333129882812,50.05902862548828],[118.13153076171875,50.05869293212891],[118.12738800048828,50.06022262573242],[118.12760925292969,50.06297302246094],[118.12080383300781,50.0664176940918],[118.12783050537109,50.07072067260742],[118.13083648681641,50.07255554199219],[118.13283538818359,50.07377624511719],[118.14419555664062,50.06558227539062],[118.144775390625,50.06460952758789],[118.14666748046875,50.06135940551758],[118.139892578125,50.05702590942383],[118.1358642578125,50.05947113037109],[118.13333129882812,50.05902862548828]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[118.133331,50.059029],[118.131531,50.058693],[118.127388,50.060223],[118.12760900000001,50.062973],[118.12080400000001,50.066418],[118.127831,50.070721],[118.130836,50.072556],[118.132835,50.073776],[118.14419599999999,50.065582],[118.144775,50.06461],[118.14666699999999,50.061359],[118.139893,50.057026],[118.135864,50.059471],[118.133331,50.059029]]],"type":"Polygon"}
 }

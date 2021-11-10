@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000396,
     "geom:area_square_m":2189340.886731,
-    "geom:bbox":"120.297363281,63.4367485046,120.335525513,63.4543876648",
+    "geom:bbox":"120.297363,63.436749,120.335526,63.454388",
     "geom:latitude":63.445398,
     "geom:longitude":120.316697,
     "gn:population":6341,
@@ -26,6 +26,9 @@
     "name:bel_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043d\u0435\u0432\u0456\u043b\u044e\u0439\u0441\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09c7\u09b0\u0996\u09a8\u09c7\u09ad\u09bf\u09b2\u09c1\u09df\u09be\u09b8\u09cd\u0995"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043d\u0435\u0432\u0438\u043b\u044e\u0439\u0441\u043a"
     ],
@@ -38,17 +41,41 @@
     "name:deu_x_preferred":[
         "Werchnewiljuisk"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b5\u03c1\u03ba\u03c7\u03bd\u03ad\u03b2\u03b9\u03bb\u03b3\u03b9\u03bf\u03c5\u03b3\u03c3\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Verkhnevilyuysk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u062e\u0646\u06cc\u0648\u06cc\u0644\u06cc\u0633\u06a9"
     ],
     "name:fin_x_preferred":[
         "\u00dc\u00f6hee B\u00fcl\u00fc\u00fc"
     ],
+    "name:fra_x_preferred":[
+        "Verkhnevilyuysk"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e8\u05d7\u05e0\u05d4\u05d5\u05d9\u05dc\u05d9\u05d5\u05d9\u05d9\u05e1\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0930\u094d\u0916\u0928\u0947\u0935\u093f\u0932\u094d\u092f\u0941\u092f\u094d\u0938\u094d\u0915"
+    ],
     "name:hun_x_preferred":[
         "Verhnyeviljujszk"
     ],
+    "name:ind_x_preferred":[
+        "Verkhnevilyuysk"
+    ],
     "name:ita_x_preferred":[
         "Verchneviljujsk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a7\u30eb\u30d5\u30cd\u30f4\u30a3\u30ea\u30e5\u30a4\u30b9\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\ub974\ud06c\ub124\ube4c\ub958\uc774\uc2a4\ud06c"
     ],
     "name:lit_x_preferred":[
         "Verchneviliujskas"
@@ -80,8 +107,26 @@
     "name:srp_x_preferred":[
         "\u0412\u0435\u0440\u0445\u045a\u0435\u0432\u0438\u0459\u0443\u0458\u0441\u043a"
     ],
+    "name:swe_x_preferred":[
+        "Verchneviljujsk"
+    ],
+    "name:tur_x_preferred":[
+        "Verkhnevilyuysk"
+    ],
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043d\u044c\u043e\u0432\u0456\u043b\u044e\u0439\u0441\u044c\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0631\u06a9\u06be\u06cc\u0646\u0648\u0648\u06cc\u0644\u06cc\u0648\u0633\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Verkhnevilyuysk"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4e0a\u7ef4\u67f3\u4f0a\u65af\u514b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7dad\u67f3\u4f0a\u65af\u514b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -216,7 +261,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ed36b2478753b0e27665783f4ee599e0",
+    "wof:geomhash":"9699889521264ac4b8bdde02e29040c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -226,7 +271,7 @@
         }
     ],
     "wof:id":102002345,
-    "wof:lastmodified":1582329816,
+    "wof:lastmodified":1636496987,
     "wof:name":"Verkhnevilyuysk",
     "wof:parent_id":1108737363,
     "wof:placetype":"locality",
@@ -238,10 +283,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.29736328125,
-    63.43674850463867,
-    120.33552551269531,
-    63.45438766479492
+    120.297363,
+    63.436749,
+    120.335526,
+    63.454388
 ],
-  "geometry": {"coordinates":[[[120.33469390869141,63.44752883911133],[120.332275390625,63.44327926635742],[120.32588958740234,63.4386100769043],[120.32530212402344,63.43819427490234],[120.30908203125,63.43674850463867],[120.30291748046875,63.43852615356445],[120.30374908447266,63.43947219848633],[120.30783081054688,63.44402694702148],[120.29736328125,63.45397186279297],[120.30044555664062,63.45308303833008],[120.30113983154297,63.45438766479492],[120.32952880859375,63.44994354248047],[120.33552551269531,63.44900131225586],[120.33469390869141,63.44752883911133]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[120.334694,63.447529],[120.332275,63.443279],[120.32589,63.43861],[120.32530199999999,63.438194],[120.309082,63.436749],[120.30291699999999,63.438526],[120.303749,63.439472],[120.30783099999999,63.444027],[120.297363,63.453972],[120.30044599999999,63.453083],[120.30114,63.454388],[120.32952899999999,63.449944],[120.335526,63.449001],[120.334694,63.447529]]],"type":"Polygon"}
 }

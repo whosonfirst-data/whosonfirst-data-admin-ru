@@ -32,6 +32,9 @@
     "name:bel_x_preferred":[
         "\u0421\u0430\u0444\u043e\u043d\u0430\u0432\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09ab\u09cb\u09a8\u09cb\u09ad\u09cb"
+    ],
     "name:ceb_x_preferred":[
         "Safonovo"
     ],
@@ -40,6 +43,21 @@
     ],
     "name:deu_x_preferred":[
         "Safonowo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c6\u03bf\u03bd\u03cc\u03b2\u03bf"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05e4\u05d5\u05e0\u05d5\u05d1\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u092b\u094b\u0928\u094b\u0935\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Safonovo"
+    ],
+    "name:ind_x_preferred":[
+        "Safonovo"
     ],
     "name:ita_x_preferred":[
         "Safonovo"
@@ -50,8 +68,14 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u0444\u043e\u043d\u043e\u0432\u043e"
     ],
+    "name:spa_x_preferred":[
+        "Safonovo"
+    ],
     "name:tat_x_preferred":[
         "\u0421\u0430\u0444\u043e\u043d\u043e\u0432\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0641\u0648\u0646\u0648\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +90,7 @@
         "gn:id":499444
     },
     "wof:country":"RU",
-    "wof:geomhash":"3d87daba2a187220eeb6e93cb7af2920",
+    "wof:geomhash":"3f4eeab211ca187d39e20431cc3ff662",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +102,7 @@
         }
     ],
     "wof:id":1276152995,
-    "wof:lastmodified":1566622353,
+    "wof:lastmodified":1636497097,
     "wof:name":"Safonovo",
     "wof:parent_id":1108733241,
     "wof:placetype":"locality",
@@ -89,9 +113,9 @@
 },
   "bbox": [
     37.65,
-    59.18333000000001,
+    59.18333,
     37.65,
-    59.18333000000001
+    59.18333
 ],
-  "geometry": {"coordinates":[37.65,59.18333000000001],"type":"Point"}
+  "geometry": {"coordinates":[37.65,59.18333],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000765,
     "geom:area_square_m":5897848.362357,
-    "geom:bbox":"57.5681648254,51.3963890076,57.6191673279,51.4290008545",
+    "geom:bbox":"57.568165,51.396389,57.619167,51.429001",
     "geom:latitude":51.412603,
     "geom:longitude":57.591729,
     "gn:latitude":51.4128,
@@ -40,6 +40,9 @@
     "name:bel_x_variant":[
         "\u041c\u0435\u0434\u043d\u0430\u0433\u043e\u0440\u0441\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09c7\u09a6\u09a8\u09cb\u0997\u09b0\u09cd\u09b8\u09cd\u0995"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0435\u0434\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:deu_x_preferred":[
         "Mednogorsk"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03bd\u03c4\u03bd\u03bf\u03b3\u03ba\u03cc\u03c1\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Mednogorsk"
@@ -67,14 +73,32 @@
     "name:fra_x_preferred":[
         "Mednogorsk"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d3\u05e0\u05d5\u05d2\u05d5\u05e8\u05e1\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0947\u0926\u094d\u0928\u094b\u0917\u094b\u0930\u094d\u0938\u094d\u0915"
+    ],
     "name:hrv_x_preferred":[
         "Mednogorsk"
     ],
     "name:hsb_x_preferred":[
         "Mjednogorsk"
     ],
+    "name:hun_x_preferred":[
+        "Mednogorsk"
+    ],
+    "name:ind_x_preferred":[
+        "Mednogorsk"
+    ],
     "name:ita_x_preferred":[
         "Mednogorsk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30c9\u30ce\u30b4\u30eb\u30b9\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\uba54\ub4dc\ub178\uace0\ub974\uc2a4\ud06c"
     ],
     "name:nld_x_preferred":[
         "Mednogorsk"
@@ -91,11 +115,20 @@
     "name:pol_x_preferred":[
         "Miednogorsk"
     ],
+    "name:por_x_preferred":[
+        "Mednogorsk"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0434\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
     ],
+    "name:spa_x_preferred":[
+        "Mednogorsk"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u0435\u0434\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Mednogorsk"
     ],
     "name:tat_x_preferred":[
         "\u041c\u0435\u0434\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
@@ -108,6 +141,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0454\u0434\u043d\u043e\u0433\u043e\u0440\u0441\u044c\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0688\u0646\u0648\u06af\u0648\u0631\u0633\u06a9"
     ],
     "name:vep_x_preferred":[
         "Mednogorsk"
@@ -254,7 +290,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3fc2989af9d655cfaba312052e04fe98",
+    "wof:geomhash":"0a3dbf0e31e9d2555e2d4d1186173eb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -264,7 +300,7 @@
         }
     ],
     "wof:id":102011177,
-    "wof:lastmodified":1582329790,
+    "wof:lastmodified":1636496967,
     "wof:name":"Mednogorsk",
     "wof:parent_id":1108735087,
     "wof:placetype":"locality",
@@ -276,10 +312,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    57.56816482543945,
-    51.39638900756836,
-    57.61916732788086,
-    51.42900085449219
+    57.568165,
+    51.396389,
+    57.619167,
+    51.429001
 ],
-  "geometry": {"coordinates":[[[57.56863784790039,51.42252731323242],[57.57936096191406,51.42900085449219],[57.58180618286133,51.42549896240234],[57.58594512939453,51.41958236694336],[57.59130477905273,51.41652679443359],[57.59416580200195,51.41708374023438],[57.6024169921875,51.4241943359375],[57.61916732788086,51.41552734375],[57.61233520507812,51.40936279296875],[57.60425186157227,51.40958404541016],[57.60144424438477,51.40813827514648],[57.60394287109375,51.40408325195312],[57.60258483886719,51.40330505371094],[57.59063720703125,51.39638900756836],[57.57294464111328,51.40774917602539],[57.57669448852539,51.41611099243164],[57.56816482543945,51.42224884033203],[57.56863784790039,51.42252731323242]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[57.568638,51.422527],[57.579361,51.429001],[57.581806,51.425499],[57.585945,51.419582],[57.591305,51.416527],[57.594166,51.417084],[57.602417,51.424194],[57.619167,51.415527],[57.612335,51.409363],[57.604252,51.409584],[57.601444,51.408138],[57.603943,51.404083],[57.602585,51.403305],[57.590637,51.396389],[57.572945,51.407749],[57.576694,51.416111],[57.568165,51.422249],[57.568638,51.422527]]],"type":"Polygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000211,
     "geom:area_square_m":1506929.065045,
-    "geom:bbox":"135.308227539,54.7036552429,135.337768315,54.7142486485",
+    "geom:bbox":"135.308228,54.703655,135.337768,54.714249",
     "geom:latitude":54.709108,
     "geom:longitude":135.321045,
     "gn:latitude":54.71857,
@@ -28,6 +28,9 @@
     "name:bel_x_preferred":[
         "\u0427\u0443\u043c\u0456\u043a\u0430\u043d"
     ],
+    "name:ben_x_preferred":[
+        "\u099a\u09c1\u09ae\u09bf\u0995\u09be\u09a8"
+    ],
     "name:ceb_x_preferred":[
         "Chumikan"
     ],
@@ -37,11 +40,32 @@
     "name:deu_x_preferred":[
         "Tschumikan"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03bf\u03c5\u03bc\u03b9\u03ba\u03ac\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Chumikan"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0645\u06cc\u06a9\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Tchoumikan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d5\u05de\u05d9\u05e7\u05d0\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u0941\u092e\u0940\u0915\u093e\u0928"
+    ],
     "name:hun_x_preferred":[
         "Csumikan"
+    ],
+    "name:ind_x_preferred":[
+        "Chumikan"
+    ],
+    "name:ita_x_preferred":[
+        "Chumikan"
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e5\u30df\u30ab\u30f3"
@@ -67,11 +91,29 @@
     "name:sah_x_preferred":[
         "\u0427\u0443\u043c\u0438\u043a\u0430\u0430\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Chumikan"
+    ],
     "name:srp_x_preferred":[
         "\u0427\u0443\u043c\u0438\u043a\u0430\u043d"
     ],
+    "name:swe_x_preferred":[
+        "Tjumikan"
+    ],
+    "name:tur_x_preferred":[
+        "Chumikan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u043c\u0456\u043a\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Chumukan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0645\u06cc\u06a9\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Chumikan"
     ],
     "name:zho_x_preferred":[
         "\u4e18\u7c73\u574e"
@@ -213,7 +255,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f7d7bfb8f031cad364479159bbb6fa76",
+    "wof:geomhash":"abd36a571cd01947dd571ed37cba4fa7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -223,7 +265,7 @@
         }
     ],
     "wof:id":102015349,
-    "wof:lastmodified":1582329753,
+    "wof:lastmodified":1636496928,
     "wof:name":"Chumikan",
     "wof:parent_id":1108737101,
     "wof:placetype":"locality",
@@ -235,10 +277,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    135.3082275390625,
-    54.70365524291992,
-    135.33776831497684,
-    54.71424864850424
+    135.308228,
+    54.703655,
+    135.337768,
+    54.714249
 ],
-  "geometry": {"coordinates":[[[135.32122868063769,54.71341964912242],[135.32510375976562,54.71313858032227],[135.32521528699385,54.71311365465861],[135.33776831497684,54.71030777803684],[135.3350830078125,54.70698165893555],[135.33026123046875,54.70524597167969],[135.32241821289062,54.70584869384766],[135.31756591796875,54.70365524291992],[135.31500244140625,54.70420455932617],[135.3082275390625,54.70565795898438],[135.3097991927402,54.71424864850424],[135.30979926000001,54.71424864338379],[135.32122868063769,54.71341964912242]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[135.32122899999999,54.71342],[135.32510400000001,54.713139],[135.32521499999999,54.713114],[135.33776800000001,54.710308],[135.335083,54.706982],[135.33026100000001,54.705246],[135.322418,54.705849],[135.317566,54.703655],[135.31500199999999,54.704205],[135.30822800000001,54.705658],[135.309799,54.714249],[135.309799,54.714249],[135.32122899999999,54.71342]]],"type":"Polygon"}
 }

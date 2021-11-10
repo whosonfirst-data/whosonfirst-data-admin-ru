@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00021,
     "geom:area_square_m":1439967.684112,
-    "geom:bbox":"160.827377319,56.3036231995,160.853317261,56.3162498474",
+    "geom:bbox":"160.827377,56.303623,160.853317,56.31625",
     "geom:latitude":56.310565,
     "geom:longitude":160.839805,
     "gn:latitude":56.32035,
@@ -22,8 +22,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0643\u0644\u064a\u0648\u062a\u0634\u064a"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u043b\u044e\u0447\u044b"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cd\u09b2\u0987\u0989\u099a\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u041a\u043b\u044e\u0447\u0438"
@@ -52,8 +58,23 @@
     "name:epo_x_preferred":[
         "Klu\u0109i"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u06cc\u0648\u0686\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Klioutchi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05dc\u05d9\u05d5\u05e6'\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u0932\u094d\u092f\u0942\u091a\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Klyuchi"
+    ],
+    "name:ind_x_preferred":[
+        "Klyuchi"
     ],
     "name:ita_x_preferred":[
         "Klju\u010di"
@@ -73,17 +94,38 @@
     "name:pol_x_preferred":[
         "Kluczi"
     ],
+    "name:por_x_preferred":[
+        "Klyuchi"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043b\u044e\u0447\u0438"
     ],
     "name:spa_x_preferred":[
         "Kliuch\u00ed"
     ],
+    "name:swe_x_preferred":[
+        "Klyutji"
+    ],
+    "name:tur_x_preferred":[
+        "Klyuchi"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u043b\u044e\u0447\u0456"
     ],
     "name:und_x_variant":[
         "Kluchi"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0644\u06cc\u0648\u0686\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Klyuchi"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u514b\u67f3\u5947"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u514b\u67f3\u5947"
     ],
     "name:zho_x_preferred":[
         "Novodmitriyevskaya"
@@ -221,7 +263,7 @@
         "quattroshapes_pg",
         "naturalearth"
     ],
-    "wof:geomhash":"d090e92c31257ebf67debb40823d70d0",
+    "wof:geomhash":"cbb6036719d1dc780360e06166d7cace",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -233,7 +275,7 @@
         }
     ],
     "wof:id":102015527,
-    "wof:lastmodified":1582329753,
+    "wof:lastmodified":1636496927,
     "wof:name":"Klyuchi",
     "wof:parent_id":890481341,
     "wof:placetype":"locality",
@@ -245,10 +287,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    160.82737731933594,
-    56.30362319946289,
-    160.8533172607422,
-    56.31624984741211
+    160.827377,
+    56.303623,
+    160.853317,
+    56.31625
 ],
-  "geometry": {"coordinates":[[[160.82737731933594,56.313720703125],[160.83493041992188,56.31624984741211],[160.84254455566406,56.31421279907227],[160.85267639160156,56.31568145751953],[160.85331726074219,56.30953598022461],[160.8448486328125,56.30789184570312],[160.839111328125,56.30382537841797],[160.83296203613281,56.30362319946289],[160.82737731933594,56.313720703125]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[160.82737700000001,56.313721],[160.83493000000001,56.31625],[160.842545,56.314213],[160.852676,56.315681],[160.853317,56.309536],[160.84484900000001,56.307892],[160.839111,56.303825],[160.83296200000001,56.303623],[160.82737700000001,56.313721]]],"type":"Polygon"}
 }

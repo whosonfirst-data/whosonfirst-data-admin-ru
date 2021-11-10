@@ -90,6 +90,9 @@
         "Lom"
     ],
     "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u041b\u043e\u043c"
+    ],
+    "name:rus_x_variant":[
         "\u041b\u043e\u043c"
     ],
     "name:slk_x_preferred":[
@@ -107,11 +110,26 @@
     "name:swe_x_preferred":[
         "Lom"
     ],
+    "name:tur_x_preferred":[
+        "Lom"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u043c"
     ],
     "name:und_x_variant":[
         "Sukhorech\u2019ye"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0645"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Lom"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6d1b\u59c6\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6d1b\u59c6\u6cb3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -122,7 +140,7 @@
         "gn:id":534382
     },
     "wof:country":"RU",
-    "wof:geomhash":"cc09fc5ce9f26ef37482a720f983f875",
+    "wof:geomhash":"070a111475a5b4d67dfc4eb1f200d7be",
     "wof:hierarchy":[
         {
             "country_id":85632685,
@@ -130,7 +148,7 @@
         }
     ],
     "wof:id":1209351133,
-    "wof:lastmodified":1566624264,
+    "wof:lastmodified":1636497135,
     "wof:name":"Lom",
     "wof:parent_id":85632685,
     "wof:placetype":"locality",
@@ -141,9 +159,9 @@
 },
   "bbox": [
     58.13907,
-    57.64823000000001,
+    57.64823,
     58.13907,
-    57.64823000000001
+    57.64823
 ],
-  "geometry": {"coordinates":[58.13907,57.64823000000001],"type":"Point"}
+  "geometry": {"coordinates":[58.13907,57.64823],"type":"Point"}
 }

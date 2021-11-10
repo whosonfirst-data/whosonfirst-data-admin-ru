@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"30.3891008666,59.7036761811,30.3891008666,59.7036761811",
+    "geom:bbox":"30.389101,59.703676,30.389101,59.703676",
     "geom:latitude":59.703676,
     "geom:longitude":30.389101,
     "iso:country":"RU",
@@ -504,6 +504,9 @@
         "\u0421\u043e\u0444\u0456\u044f"
     ],
     "name:urd_x_preferred":[
+        "\u0633\u0648\u0641\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
         "\u0635\u0648\u0641\u06cc\u06c1"
     ],
     "name:uzb_x_preferred":[
@@ -542,6 +545,12 @@
     "name:zea_x_preferred":[
         "Sofia"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u7d22\u975e\u4e9a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7d22\u83f2\u4e9e"
+    ],
     "name:zho_x_preferred":[
         "\u7d22\u83f2\u4e9e"
     ],
@@ -557,7 +566,7 @@
     "wof:concordances":{},
     "wof:country":"RU",
     "wof:created":1491363819,
-    "wof:geomhash":"b1771a0bc6eb899804a5f96aad288fb0",
+    "wof:geomhash":"351806f07b96cac38dc3752a67bf21a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -569,7 +578,7 @@
         }
     ],
     "wof:id":1108943553,
-    "wof:lastmodified":1566627401,
+    "wof:lastmodified":1636497200,
     "wof:name":"Sofia",
     "wof:parent_id":1158857531,
     "wof:placetype":"neighbourhood",
@@ -579,10 +588,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.3891008666453,
-    59.70367618105886,
-    30.3891008666453,
-    59.70367618105886
+    30.389101,
+    59.703676,
+    30.389101,
+    59.703676
 ],
-  "geometry": {"coordinates":[30.3891008666453,59.70367618105886],"type":"Point"}
+  "geometry": {"coordinates":[30.389101,59.703676],"type":"Point"}
 }

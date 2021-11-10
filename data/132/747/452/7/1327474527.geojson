@@ -42,6 +42,9 @@
     "name:bel_x_preferred":[
         "\u041f\u044f\u0447\u043e\u0440\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09c7\u099a\u09cb\u09b0\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0435\u0447\u043e\u0440\u0430"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:deu_x_preferred":[
         "Petschora"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c4\u03c3\u03cc\u03c1\u03b1"
     ],
     "name:epo_x_preferred":[
         "Pe\u0109oro"
@@ -75,6 +81,12 @@
     "name:fra_x_preferred":[
         "Petchora"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e6'\u05d5\u05e8\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u093f\u0915\u094b\u0930\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Pe\u010dora"
     ],
@@ -83,6 +95,9 @@
     ],
     "name:hun_x_preferred":[
         "Pecsora"
+    ],
+    "name:ind_x_preferred":[
+        "Pechora"
     ],
     "name:ita_x_preferred":[
         "Pe\u010dora"
@@ -144,8 +159,14 @@
     "name:und_x_variant":[
         "Krasnaya Pechora"
     ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0686\u0648\u0631\u0627"
+    ],
     "name:vep_x_preferred":[
         "Pe\u010dor"
+    ],
+    "name:vie_x_preferred":[
+        "Pechora"
     ],
     "name:war_x_preferred":[
         "Pechora"
@@ -169,7 +190,7 @@
         "gn:id":511793
     },
     "wof:country":"RU",
-    "wof:geomhash":"ccb18e2811bc22ee377576db401814f9",
+    "wof:geomhash":"32bfade0feae5a98c6f9c8c908673798",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -181,7 +202,7 @@
         }
     ],
     "wof:id":1327474527,
-    "wof:lastmodified":1566613728,
+    "wof:lastmodified":1636496899,
     "wof:name":"Pechora",
     "wof:parent_id":890483295,
     "wof:placetype":"locality",
@@ -191,10 +212,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    57.03333000000001,
+    57.03333,
     65.41667,
-    57.03333000000001,
+    57.03333,
     65.41667
 ],
-  "geometry": {"coordinates":[57.03333000000001,65.41667],"type":"Point"}
+  "geometry": {"coordinates":[57.03333,65.41667],"type":"Point"}
 }

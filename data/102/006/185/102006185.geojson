@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000366,
     "geom:area_square_m":2865713.558253,
-    "geom:bbox":"39.4152793884,50.7049179077,39.4524726868,50.7239723206",
+    "geom:bbox":"39.415279,50.704918,39.452473,50.723972",
     "geom:latitude":50.7137,
     "geom:longitude":39.43412,
     "gn:latitude":50.71499,
@@ -28,6 +28,9 @@
     "name:bel_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u043a\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09ae\u09c7\u0999\u09cd\u0995\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Kamenka"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:deu_x_preferred":[
         "Kamenka"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bc\u03ad\u03bd\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Kamenka"
@@ -52,17 +58,32 @@
     "name:fra_x_preferred":[
         "Kamenka"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05de\u05e0\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u092e\u0947\u0902\u0915\u093e"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u0574\u0565\u0576\u056f\u0561"
     ],
+    "name:ind_x_preferred":[
+        "Kamenka"
+    ],
     "name:ita_x_preferred":[
         "Kamenka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30e1\u30f3\u30ab"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10db\u10d4\u10dc\u10d9\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u043a\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\uba58\uce74"
     ],
     "name:lav_x_preferred":[
         "Kamenka"
@@ -79,6 +100,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u043a\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Kamenka"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u043a\u0430"
     ],
@@ -87,6 +111,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0645\u06cc\u0646\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Kamenka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -120,7 +150,7 @@
         "gp:id":2121146
     },
     "wof:country":"RU",
-    "wof:geomhash":"82a1966454b23dd3aa8999308fc7be3b",
+    "wof:geomhash":"e6b92faee5d88e839d6dd899d557241c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,7 +162,7 @@
         }
     ],
     "wof:id":102006185,
-    "wof:lastmodified":1566615377,
+    "wof:lastmodified":1636496962,
     "wof:name":"Kamenka",
     "wof:parent_id":1108734231,
     "wof:placetype":"locality",
@@ -144,10 +174,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.41527938842773,
-    50.70491790771484,
-    39.45247268676758,
-    50.72397232055664
+    39.415279,
+    50.704918,
+    39.452473,
+    50.723972
 ],
-  "geometry": {"coordinates":[[[39.41694259643555,50.71513748168945],[39.41527938842773,50.71614074707031],[39.4229736328125,50.71944427490234],[39.4334716796875,50.72397232055664],[39.44913864135742,50.71233367919922],[39.45247268676758,50.70986175537109],[39.44610977172852,50.70735931396484],[39.43986129760742,50.70491790771484],[39.43260955810547,50.70563888549805],[39.41694259643555,50.71513748168945]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[39.416943,50.715137],[39.415279,50.716141],[39.422974,50.719444],[39.433472,50.723972],[39.449139,50.712334],[39.452473,50.709862],[39.44611,50.707359],[39.439861,50.704918],[39.43261,50.705639],[39.416943,50.715137]]],"type":"Polygon"}
 }

@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000412,
     "geom:area_square_m":1833692.646975,
-    "geom:bbox":"33.0953598022,68.903503418,33.1325263977,68.9200592041",
+    "geom:bbox":"33.09536,68.903503,33.132526,68.920059",
     "geom:latitude":68.911768,
-    "geom:longitude":33.11376,
+    "geom:longitude":33.113761,
     "gn:latitude":68.88062,
     "gn:longitude":33.01842,
     "gn:population":10600,
@@ -37,6 +37,9 @@
     "name:bel_x_variant":[
         "\u041a\u043e\u043b\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u09b2\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u043b\u0430"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:deu_x_preferred":[
         "Kola"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Kola"
@@ -88,7 +94,16 @@
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05dc\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0932\u093e"
+    ],
     "name:hsb_x_preferred":[
+        "Kola"
+    ],
+    "name:hun_x_preferred":[
+        "Kola"
+    ],
+    "name:ind_x_preferred":[
         "Kola"
     ],
     "name:ita_x_preferred":[
@@ -127,6 +142,9 @@
     "name:pol_x_preferred":[
         "Kola"
     ],
+    "name:por_x_preferred":[
+        "Kola"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043b\u0430"
     ],
@@ -146,6 +164,9 @@
         "\u041a\u043e\u043b\u0430"
     ],
     "name:swe_x_preferred":[
+        "Kolafloden"
+    ],
+    "name:swe_x_variant":[
         "Kola"
     ],
     "name:tat_x_preferred":[
@@ -163,8 +184,14 @@
     "name:und_x_variant":[
         "Gorod Kola"
     ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0644\u0627"
+    ],
     "name:vep_x_preferred":[
         "Kol"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Kola"
     ],
     "name:war_x_preferred":[
         "Kola"
@@ -214,7 +241,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ac9bdfbece4752e4a99f4a222e9b944e",
+    "wof:geomhash":"b29fd2976d6983b474177f743d4ea7dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -226,7 +253,7 @@
         }
     ],
     "wof:id":102001885,
-    "wof:lastmodified":1582329782,
+    "wof:lastmodified":1636496959,
     "wof:name":"Kola",
     "wof:parent_id":890481183,
     "wof:placetype":"locality",
@@ -238,10 +265,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.09535980224609,
-    68.90350341796875,
-    33.13252639770508,
-    68.92005920410156
+    33.09536,
+    68.903503,
+    33.132526,
+    68.920059
 ],
-  "geometry": {"coordinates":[[[33.10683441162109,68.91041564941406],[33.10602951049805,68.91236114501953],[33.09535980224609,68.91616821289062],[33.09558486938477,68.91938781738281],[33.09977722167969,68.92005920410156],[33.11286163330078,68.91783142089844],[33.12472152709961,68.91850280761719],[33.13152694702148,68.91391754150391],[33.13252639770508,68.91061401367188],[33.12708282470703,68.90721893310547],[33.11933517456055,68.90447235107422],[33.10580444335938,68.90350341796875],[33.09814071655273,68.90577697753906],[33.09669494628906,68.90819549560547],[33.10683441162109,68.91041564941406]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[33.106834,68.910416],[33.10603,68.912361],[33.09536,68.916168],[33.095585,68.919388],[33.099777,68.92005899999999],[33.112862,68.91783100000001],[33.124722,68.918503],[33.131527,68.913918],[33.132526,68.910614],[33.127083,68.907219],[33.119335,68.904472],[33.105804,68.903503],[33.098141,68.905777],[33.096695,68.90819500000001],[33.106834,68.910416]]],"type":"Polygon"}
 }

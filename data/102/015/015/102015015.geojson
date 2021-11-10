@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.001478,
     "geom:area_square_m":10885418.236661,
-    "geom:bbox":"125.781112671,53.4315834045,125.843170166,53.46849823",
+    "geom:bbox":"125.781113,53.431583,125.84317,53.468498",
     "geom:latitude":53.449638,
     "geom:longitude":125.815047,
     "gn:latitude":53.45398,
@@ -28,6 +28,9 @@
     "name:bel_x_preferred":[
         "\u041c\u0430\u0433\u0434\u0430\u0433\u0430\u0447\u044b"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u0997\u09a6\u09be\u0997\u09be\u099a\u09bf"
+    ],
     "name:cat_x_preferred":[
         "Magdagatxi"
     ],
@@ -46,17 +49,35 @@
     "name:eng_x_preferred":[
         "Magdagachi"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06af\u062f\u0627\u06af\u0627\u0686\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Magdagachi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d2\u05d3\u05d0\u05e6'\u05d0\u05e6'\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0917\u0926\u093e\u0917\u093e\u091a\u0940"
+    ],
     "name:hun_x_preferred":[
         "Magdagacsi"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u0563\u0564\u0561\u0563\u0561\u0579\u056b"
     ],
+    "name:ind_x_preferred":[
+        "Magdagachi"
+    ],
     "name:ita_x_preferred":[
         "Magdaga\u010di"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30b0\u30c0\u30ac\u30c1"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c9\ub2e4\uac00\uce58"
     ],
     "name:nld_x_preferred":[
         "Magdagatsji"
@@ -73,14 +94,29 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0433\u0434\u0430\u0433\u0430\u0447\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Magdagachi"
+    ],
+    "name:swe_x_preferred":[
+        "Magdagatji"
+    ],
     "name:tgk_x_preferred":[
         "\u041c\u0430\u0433\u0434\u0430\u0433\u0430\u0447\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "Magdagachi"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0433\u0434\u0430\u0433\u0430\u0447\u0456"
     ],
     "name:und_x_variant":[
         "Magadagachi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0688\u06af\u0627\u06af\u0686\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Magdagachi"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u683c\u9054\u52a0\u5947"
@@ -217,7 +253,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"52621257f6c4dcfd3043bd703b8c683c",
+    "wof:geomhash":"e4df94ed11e5d15930232ce59afdaf8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -229,7 +265,7 @@
         }
     ],
     "wof:id":102015015,
-    "wof:lastmodified":1582329752,
+    "wof:lastmodified":1636496926,
     "wof:name":"Magdagachi",
     "wof:parent_id":890481659,
     "wof:placetype":"locality",
@@ -241,10 +277,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    125.78111267089844,
-    53.43158340454102,
-    125.84317016601562,
-    53.46849822998047
+    125.781113,
+    53.431583,
+    125.84317,
+    53.468498
 ],
-  "geometry": {"coordinates":[[[125.82391357421875,53.43202590942383],[125.80166625976562,53.43388748168945],[125.80049896240234,53.43399810791016],[125.78633117675781,53.44824981689453],[125.78111267089844,53.45349884033203],[125.79502868652344,53.46213912963867],[125.81130218505859,53.46125030517578],[125.81522369384766,53.46102905273438],[125.82475280761719,53.46849822998047],[125.82727813720703,53.46838760375977],[125.82939147949219,53.46830368041992],[125.84258270263672,53.46183395385742],[125.84278106689453,53.46175003051758],[125.84317016601562,53.45947265625],[125.83208465576172,53.4335823059082],[125.82933044433594,53.43158340454102],[125.82391357421875,53.43202590942383]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[125.823914,53.432026],[125.801666,53.433887],[125.800499,53.433998],[125.786331,53.44825],[125.781113,53.453499],[125.795029,53.462139],[125.811302,53.46125],[125.815224,53.461029],[125.824753,53.468498],[125.82727800000001,53.468388],[125.829391,53.468304],[125.842583,53.461834],[125.842781,53.46175],[125.84317,53.459473],[125.83208500000001,53.433582],[125.82933,53.431583],[125.823914,53.432026]]],"type":"Polygon"}
 }

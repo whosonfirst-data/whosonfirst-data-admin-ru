@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000348,
     "geom:area_square_m":2459977.549218,
-    "geom:bbox":"73.9021911621,55.1423873901,73.9276351929,55.1634712219",
+    "geom:bbox":"73.902191,55.142387,73.927635,55.163471",
     "geom:latitude":55.153168,
     "geom:longitude":73.915091,
     "iso:country":"RU",
@@ -31,14 +31,23 @@
     "name:bel_x_variant":[
         "\u0410\u043b\u044f\u043a\u0441\u0435\u0435\u045e\u043a\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2\u09c7\u0995\u09b8\u09c7\u0987\u09ad\u0995\u09be"
+    ],
     "name:che_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u043a\u0430"
     ],
     "name:deu_x_preferred":[
         "Alexejewka"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03b5\u03be\u03ad\u03b5\u03b2\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Alekseyevka"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0932\u0947\u0915\u094d\u0938\u0947\u092f\u0947\u0935\u094d\u0915\u093e"
     ],
     "name:hun_x_preferred":[
         "Alekszejevka"
@@ -46,14 +55,23 @@
     "name:hye_x_preferred":[
         "\u0531\u056c\u0565\u0584\u057d\u0565\u0587\u056f\u0561"
     ],
+    "name:ind_x_preferred":[
+        "Alekseyevka"
+    ],
     "name:ita_x_preferred":[
         "Alekseevka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ec\u30af\u30bb\u30a4\u30a8\u30d5\u30ab"
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10da\u10d4\u10e5\u10e1\u10d4\u10d4\u10d5\u10d9\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\uc54c\ub809\uc138\uc608\ud504\uce74"
     ],
     "name:lit_x_preferred":[
         "Aleksejevka"
@@ -70,8 +88,17 @@
     "name:sco_x_preferred":[
         "Alexeyevka"
     ],
+    "name:spa_x_preferred":[
+        "Alekseyevka"
+    ],
+    "name:swe_x_preferred":[
+        "Aleksejevka"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0454\u0454\u0432\u043a\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Alekseyevka"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -100,7 +127,7 @@
         "gp:id":1981735
     },
     "wof:country":"RU",
-    "wof:geomhash":"27542ae9df914581b530121855291491",
+    "wof:geomhash":"39d0e9df3a426c26f62eb283c113cbf9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,7 +139,7 @@
         }
     ],
     "wof:id":102012321,
-    "wof:lastmodified":1566615029,
+    "wof:lastmodified":1636496935,
     "wof:name":"Alekseyevka",
     "wof:parent_id":1108734593,
     "wof:placetype":"locality",
@@ -122,10 +149,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.90219116210938,
-    55.14238739013672,
-    73.9276351928711,
-    55.16347122192383
+    73.902191,
+    55.142387,
+    73.927635,
+    55.163471
 ],
-  "geometry": {"coordinates":[[[73.91458129882812,55.16249847412109],[73.92066955566406,55.16347122192383],[73.92763519287109,55.14822387695312],[73.92630767822266,55.14633178710938],[73.91764068603516,55.14422225952148],[73.91007995605469,55.14238739013672],[73.90219116210938,55.15850067138672],[73.90816497802734,55.1614990234375],[73.91458129882812,55.16249847412109]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[73.914581,55.162498],[73.92067,55.163471],[73.927635,55.148224],[73.92630800000001,55.146332],[73.917641,55.144222],[73.91007999999999,55.142387],[73.902191,55.158501],[73.908165,55.161499],[73.914581,55.162498]]],"type":"Polygon"}
 }

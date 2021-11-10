@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000223,
     "geom:area_square_m":1580480.23199,
-    "geom:bbox":"50.4676933289,54.9743347168,50.4888038635,54.9957237244",
+    "geom:bbox":"50.467693,54.974335,50.488804,54.995724",
     "geom:latitude":54.98581,
     "geom:longitude":50.477091,
     "gn:latitude":54.97811,
@@ -21,26 +21,89 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0634\u0627\u0645\u0629"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b6\u09be\u09ae\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Shama"
     ],
     "name:deu_x_preferred":[
         "Shama"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bc\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Shama"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0645\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Shama"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d0\u05de\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0936\u092e\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Shama"
+    ],
+    "name:ind_x_preferred":[
+        "Shama"
+    ],
+    "name:ita_x_preferred":[
+        "Shama"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30de\u5ddd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0e4\ub9c8"
+    ],
+    "name:nld_x_preferred":[
         "Shama"
     ],
     "name:nor_x_preferred":[
         "Sjama"
     ],
+    "name:pol_x_preferred":[
+        "Shama"
+    ],
+    "name:por_x_preferred":[
+        "Shama"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u0430\u043c\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Shama"
+    ],
     "name:swe_x_preferred":[
         "Shama"
+    ],
+    "name:tur_x_preferred":[
+        "Shama"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u043c\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0627\u0645\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Shama"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u838e\u739b\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6c99\u746a\u6cb3"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d (\u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d)",
@@ -73,7 +136,7 @@
         "gp:id":2081226
     },
     "wof:country":"RU",
-    "wof:geomhash":"6e877e069efb4369ce27c7bd57ee3939",
+    "wof:geomhash":"28afc46b49456be36097e641b1847f73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +148,7 @@
         }
     ],
     "wof:id":102009489,
-    "wof:lastmodified":1566615242,
+    "wof:lastmodified":1636496950,
     "wof:name":"Shama",
     "wof:parent_id":1108732701,
     "wof:placetype":"locality",
@@ -95,10 +158,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    50.46769332885742,
-    54.97433471679688,
-    50.48880386352539,
-    54.99572372436523
+    50.467693,
+    54.974335,
+    50.488804,
+    54.995724
 ],
-  "geometry": {"coordinates":[[[50.4693603515625,54.98272323608398],[50.46769332885742,54.98616790771484],[50.47666549682617,54.99572372436523],[50.48880386352539,54.98805618286133],[50.47785949707031,54.97827911376953],[50.47344589233398,54.97433471679688],[50.4693603515625,54.98272323608398]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[50.46936,54.982723],[50.467693,54.986168],[50.476665,54.995724],[50.488804,54.988056],[50.477859,54.978279],[50.473446,54.974335],[50.46936,54.982723]]],"type":"Polygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"60.051517699,58.3515145051,60.051517699,58.3515145051",
+    "geom:bbox":"60.051518,58.351515,60.051518,58.351515",
     "geom:latitude":58.351515,
     "geom:longitude":60.051518,
     "iso:country":"RU",
@@ -29,6 +29,9 @@
     ],
     "name:bel_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0430\u045e\u0440\u0430\u043b\u044c\u0441\u043a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cd\u09b0\u09be\u09b8\u09a8\u09cb\u0989\u09b0\u09be\u09b2\u09b8\u09cd\u0995"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0443\u0440\u0430\u043b\u0441\u043a"
@@ -66,10 +69,16 @@
     "name:haw_x_preferred":[
         "Krasinoukali"
     ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u0930\u0947\u0938\u094d\u0928\u094b\u0930\u093e\u0932\u094d\u0938\u094d\u0915"
+    ],
     "name:hsb_x_preferred":[
         "Krasnouralsk"
     ],
     "name:hun_x_preferred":[
+        "Krasnouralsk"
+    ],
+    "name:ind_x_preferred":[
         "Krasnouralsk"
     ],
     "name:ita_x_preferred":[
@@ -77,6 +86,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30af\u30e9\u30b9\u30ce\u30a6\u30e9\u30ea\u30b9\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\ud06c\ub77c\uc2a4\ub178\uc6b0\ub784\uc2a4\ud06c"
     ],
     "name:lit_x_preferred":[
         "Krasnouralskas"
@@ -99,6 +111,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0443\u0440\u0430\u043b\u044c\u0441\u043a"
     ],
+    "name:spa_x_preferred":[
+        "Krasnouralsk"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0443\u0440\u0430\u0459\u0441\u043a"
     ],
@@ -119,6 +134,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0443\u0440\u0430\u043b\u044c\u0441\u044c\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0631\u0627\u0633\u0646\u0648\u0631\u0627\u0644\u0633\u06a9"
     ],
     "name:vep_x_preferred":[
         "Krasnoural'sk"
@@ -241,7 +259,7 @@
     },
     "wof:country":"RU",
     "wof:created":1499130596,
-    "wof:geomhash":"cdd09206c710ef4531c7a8d2fedaa2c8",
+    "wof:geomhash":"2841093e0ec0cf5cace57333617fd7c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -253,7 +271,7 @@
         }
     ],
     "wof:id":1141906457,
-    "wof:lastmodified":1566636803,
+    "wof:lastmodified":1636497391,
     "wof:name":"Krasnouralsk",
     "wof:parent_id":1108733799,
     "wof:placetype":"locality",
@@ -263,10 +281,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    60.05151769902096,
-    58.35151450513268,
-    60.05151769902096,
-    58.35151450513268
+    60.051518,
+    58.351515,
+    60.051518,
+    58.351515
 ],
-  "geometry": {"coordinates":[60.05151769902096,58.35151450513268],"type":"Point"}
+  "geometry": {"coordinates":[60.051518,58.351515],"type":"Point"}
 }

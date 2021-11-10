@@ -25,6 +25,9 @@
     "name:bel_x_preferred":[
         "\u0411\u0435\u0440\u044b\u043d\u0433\u0430\u045e\u0441\u043a\u0456"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09b0\u09bf\u0982\u0997\u09cb\u09ad\u09b8\u09cd\u0995\u09bf"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u0438\u043d\u0433\u043e\u0432\u0441\u043a\u0438"
     ],
@@ -40,20 +43,44 @@
     "name:deu_x_preferred":[
         "Beringowski"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03c1\u03b9\u03b3\u03ba\u03bf\u03b2\u03c3\u03ba\u03b9\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Beringovskiy"
     ],
     "name:eng_x_variant":[
         "Beringovsky"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u06cc\u0646\u06af\u0648\u0641\u0633\u06a9\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Beringovski"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d9\u05e0\u05d2\u05d5\u05d1\u05e1\u05e7\u05d9\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0930\u093f\u0902\u0917\u094b\u0935\u0938\u094d\u0915\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Beringovskiy"
     ],
     "name:hye_x_preferred":[
         "\u0532\u0565\u0580\u056b\u0576\u0563\u0578\u057e\u057d\u056f\u056b\u0575"
     ],
+    "name:ind_x_preferred":[
+        "Beringovskiy"
+    ],
     "name:ita_x_preferred":[
         "Beringovskij"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30ea\u30f3\u30b4\u30d5\u30b9\u30ad\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\ub9c1\uace0\ud504\uc2a4\ud0a4"
     ],
     "name:nld_x_preferred":[
         "Beringovskiy"
@@ -67,14 +94,35 @@
     "name:rus_x_preferred":[
         "\u0411\u0435\u0440\u0438\u043d\u0433\u043e\u0432\u0441\u043a\u0438\u0439"
     ],
+    "name:spa_x_preferred":[
+        "Beringovskiy"
+    ],
+    "name:swe_x_preferred":[
+        "Beringovskij"
+    ],
+    "name:tur_x_preferred":[
+        "Beringovskiy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0456\u043d\u0433\u043e\u0432\u0441\u044c\u043a\u0438\u0439"
+    ],
     "name:und_x_variant":[
         "Ugolnoe"
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0631\u06cc\u0646\u06af\u0648\u0648\u0633\u06a9\u06cc"
     ],
+    "name:vie_x_preferred":[
+        "Beringovskiy"
+    ],
     "name:war_x_preferred":[
         "Beringovsky"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u767d\u4ee4\u6208\u592b\u65af\u57fa"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u767d\u4ee4\u6208\u592b\u65af\u57fa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -203,7 +251,7 @@
         }
     ],
     "wof:id":890482061,
-    "wof:lastmodified":1566630610,
+    "wof:lastmodified":1636497266,
     "wof:name":"Beringovskiy",
     "wof:parent_id":1108732733,
     "wof:placetype":"locality",

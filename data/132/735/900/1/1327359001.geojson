@@ -38,6 +38,9 @@
     "name:bel_x_preferred":[
         "\u0422\u0430\u045e\u0434\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09be\u09ad\u09a6\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0430\u0432\u0434\u0430"
     ],
@@ -71,11 +74,23 @@
     "name:fra_x_preferred":[
         "Tavda"
     ],
+    "name:hin_x_preferred":[
+        "\u0924\u093e\u0935\u0926\u093e"
+    ],
     "name:hsb_x_preferred":[
         "Tawda"
     ],
+    "name:ind_x_preferred":[
+        "Tavda"
+    ],
     "name:ita_x_preferred":[
         "Tavda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30f4\u30c0"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\ube0c\ub2e4"
     ],
     "name:nld_x_preferred":[
         "Tavda"
@@ -88,6 +103,9 @@
     ],
     "name:pol_x_preferred":[
         "Tawda"
+    ],
+    "name:por_x_preferred":[
+        "Tavda"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0432\u0434\u0430"
@@ -116,6 +134,9 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0432\u0434\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u0679\u06cc\u0648\u0688\u0627"
+    ],
     "name:vep_x_preferred":[
         "Tavd"
     ],
@@ -141,7 +162,7 @@
         "gn:id":483977
     },
     "wof:country":"RU",
-    "wof:geomhash":"def51004905ba60d6d467da49e0b1aca",
+    "wof:geomhash":"0825980c16d3df3f148f38be82286ffb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -153,7 +174,7 @@
         }
     ],
     "wof:id":1327359001,
-    "wof:lastmodified":1566613961,
+    "wof:lastmodified":1636496905,
     "wof:name":"Tavda",
     "wof:parent_id":1108735635,
     "wof:placetype":"locality",
@@ -163,10 +184,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    56.96666999999999,
+    56.96667,
     56.41667,
-    56.96666999999999,
+    56.96667,
     56.41667
 ],
-  "geometry": {"coordinates":[56.96666999999999,56.41667],"type":"Point"}
+  "geometry": {"coordinates":[56.96667,56.41667],"type":"Point"}
 }

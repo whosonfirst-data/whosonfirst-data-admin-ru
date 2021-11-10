@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000942,
     "geom:area_square_m":7069674.188848,
-    "geom:bbox":"42.7154960632,52.6316223145,42.7515106201,52.669593811",
+    "geom:bbox":"42.715496,52.631622,42.751511,52.669594",
     "geom:latitude":52.647821,
     "geom:longitude":42.733135,
     "gn:latitude":52.65494,
@@ -37,6 +37,9 @@
     "name:bel_x_variant":[
         "\u041a\u0456\u0440\u0441\u0430\u043d\u0430\u045e"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cd\u09b0\u09bf\u09b8\u09be\u09a8\u09ad"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0438\u0440\u0441\u0430\u043d\u043e\u0432"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:deu_x_preferred":[
         "Kirsanow"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03c1\u03c3\u03ac\u03bd\u03bf\u03c6"
     ],
     "name:eng_x_preferred":[
         "Kirsanov"
@@ -67,14 +73,29 @@
     "name:fra_x_preferred":[
         "Kirsanov"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05e8\u05e1\u05e0\u05d5\u05d1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093f\u0930\u094d\u0938\u093e\u0928\u094b\u0935"
+    ],
     "name:hsb_x_preferred":[
         "Kirsanow"
+    ],
+    "name:hun_x_preferred":[
+        "Kirsanov"
+    ],
+    "name:ind_x_preferred":[
+        "Kirsanov"
     ],
     "name:ita_x_preferred":[
         "Kirsanov"
     ],
     "name:jpn_x_preferred":[
         "\u30ad\u30eb\u30b5\u30ce\u30d5"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0a4\ub974\uc0ac\ub178\ud504"
     ],
     "name:nld_x_preferred":[
         "Kirsanov"
@@ -91,6 +112,9 @@
     "name:pol_x_preferred":[
         "Kirsanow"
     ],
+    "name:por_x_preferred":[
+        "Kirsanov"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0440\u0441\u0430\u043d\u043e\u0432"
     ],
@@ -99,6 +123,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041a\u0438\u0440\u0441\u0430\u043d\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Kirsanov"
     ],
     "name:tat_x_preferred":[
         "\u041a\u0438\u0440\u0441\u0430\u043d\u043e\u0432"
@@ -114,6 +141,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0440\u0441\u0430\u043d\u043e\u0432"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0631\u0633\u0627\u0646\u0648\u0648"
     ],
     "name:vie_x_preferred":[
         "Kirsanov"
@@ -260,7 +290,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c36b88bacbaaba455ec63ef61d42b70a",
+    "wof:geomhash":"69bfb4ee7092aa6551bf4eeb2567bde4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -270,7 +300,7 @@
         }
     ],
     "wof:id":102004723,
-    "wof:lastmodified":1582329805,
+    "wof:lastmodified":1636496975,
     "wof:name":"Kirsanov",
     "wof:parent_id":1108733777,
     "wof:placetype":"locality",
@@ -282,10 +312,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    42.71549606323242,
-    52.63162231445312,
-    42.75151062011719,
-    52.66959381103516
+    42.715496,
+    52.631622,
+    42.751511,
+    52.669594
 ],
-  "geometry": {"coordinates":[[[42.72146987915039,52.63210296630859],[42.71921920776367,52.63393402099609],[42.72147369384766,52.63713455200195],[42.71791839599609,52.65019607543945],[42.71549606323242,52.65908813476562],[42.73205184936523,52.66959381103516],[42.73849868774414,52.66277694702148],[42.74330139160156,52.65769577026367],[42.74591445922852,52.65336227416992],[42.74854278564453,52.64900207519531],[42.75052261352539,52.63802719116211],[42.75151062011719,52.63253784179688],[42.7492561340332,52.63162231445312],[42.72146987915039,52.63210296630859]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[42.72147,52.632103],[42.719219,52.633934],[42.721474,52.637135],[42.717918,52.650196],[42.715496,52.659088],[42.732052,52.669594],[42.738499,52.662777],[42.743301,52.657696],[42.745914,52.653362],[42.748543,52.649002],[42.750523,52.638027],[42.751511,52.632538],[42.749256,52.631622],[42.72147,52.632103]]],"type":"Polygon"}
 }

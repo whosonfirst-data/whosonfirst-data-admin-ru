@@ -29,8 +29,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09a6\u09cb\u09b2\u09bf\u09a8\u09b8\u09cd\u0995"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03cc\u03bb\u03b9\u03bd\u03c3\u03ba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05dc\u05d9\u05e0\u05e1\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u094b\u0932\u093f\u0902\u0938\u094d\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Dolinsk"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u043e\u043b\u0438\u043d\u0441\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Dolinsk"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -45,7 +63,7 @@
         "gn:id":565489
     },
     "wof:country":"RU",
-    "wof:geomhash":"c885f08278747a26faa7c87b6cc930c5",
+    "wof:geomhash":"a171030f253a55f95429a89d9686da25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1260107843,
-    "wof:lastmodified":1566626595,
+    "wof:lastmodified":1636497184,
     "wof:name":"Dolinsk",
     "wof:parent_id":1108734701,
     "wof:placetype":"locality",
@@ -67,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    53.43333000000001,
-    52.86666999999999,
-    53.43333000000001,
-    52.86666999999999
+    53.43333,
+    52.86667,
+    53.43333,
+    52.86667
 ],
-  "geometry": {"coordinates":[53.43333000000001,52.86666999999999],"type":"Point"}
+  "geometry": {"coordinates":[53.43333,52.86667],"type":"Point"}
 }

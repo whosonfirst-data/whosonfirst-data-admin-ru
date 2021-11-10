@@ -30,9 +30,27 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09a4\u09cd\u09b0\u09cb\u0987\u09a4\u09b8\u09cd\u0995"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u094d\u0930\u094b\u0907\u0924\u094d\u0938\u094d\u0915"
+    ],
+    "name:ind_x_preferred":[
+        "Troitsk"
+    ],
+    "name:por_x_preferred":[
+        "Troitsk"
+    ],
+    "name:swe_x_preferred":[
+        "Troitsk"
+    ],
     "name:und_x_variant":[
         "Troitskiy",
         "Troitsk"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0631\u0648\u0627\u0626\u0633\u06a9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +65,7 @@
         "gn:id":1537487
     },
     "wof:country":"RU",
-    "wof:geomhash":"e202c4263e259442cf2f15f5d49ed961",
+    "wof:geomhash":"ce1f4c3127e475db434c2860d62b2962",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1293131207,
-    "wof:lastmodified":1566619725,
+    "wof:lastmodified":1636497052,
     "wof:name":"Troitsk",
     "wof:parent_id":1108737029,
     "wof:placetype":"locality",
@@ -70,9 +88,9 @@
 },
   "bbox": [
     89.39444,
-    56.56444000000001,
+    56.56444,
     89.39444,
-    56.56444000000001
+    56.56444
 ],
-  "geometry": {"coordinates":[89.39444,56.56444000000001],"type":"Point"}
+  "geometry": {"coordinates":[89.39444,56.56444],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0004,
     "geom:area_square_m":1757950.563772,
-    "geom:bbox":"33.4621658325,69.1883087158,33.5061950684,69.2048873901",
+    "geom:bbox":"33.462166,69.188309,33.506195,69.204887",
     "geom:latitude":69.196138,
     "geom:longitude":33.481256,
     "gn:latitude":69.19889,
@@ -34,6 +34,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0430\u043b\u044f\u0440\u043d\u044b"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09cb\u09b2\u09bf\u09df\u09be\u09b0\u09cd\u09a8\u09ad\u09bf"
+    ],
     "name:cat_x_preferred":[
         "Poliarni"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:deu_x_preferred":[
         "Poljarny"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03bb\u03c5\u03b1\u03c1\u03bd\u03af\u03b9"
     ],
     "name:eng_x_preferred":[
         "Polyarnyy"
@@ -73,8 +79,20 @@
     "name:fra_x_preferred":[
         "Poliarny"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05dc\u05d9\u05d0\u05e8\u05e0\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0949\u0932\u0940\u0906\u0930\u094d\u0928\u0940"
+    ],
     "name:hsb_x_preferred":[
         "Poljarnyj"
+    ],
+    "name:hun_x_preferred":[
+        "Polyarnyy"
+    ],
+    "name:ind_x_preferred":[
+        "Polyarnyy"
     ],
     "name:ita_x_preferred":[
         "Poljarnyj"
@@ -136,8 +154,14 @@
     "name:und_x_variant":[
         "Alexandrovsk"
     ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0644\u06cc\u0627\u0645\u06cc"
+    ],
     "name:vep_x_preferred":[
         "Pol\u00e4rnii"
+    ],
+    "name:vie_x_preferred":[
+        "Polyarnyy"
     ],
     "name:war_x_preferred":[
         "Polyarny"
@@ -275,7 +299,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d0f48743787c82f98b512be53e6d85c7",
+    "wof:geomhash":"9f1611a3c0ac6deb75fbdf98ab15abed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -285,7 +309,7 @@
         }
     ],
     "wof:id":102001875,
-    "wof:lastmodified":1582329781,
+    "wof:lastmodified":1636496957,
     "wof:name":"Polyarnyy",
     "wof:parent_id":1108737905,
     "wof:placetype":"locality",
@@ -297,10 +321,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.46216583251953,
-    69.18830871582031,
-    33.50619506835938,
-    69.20488739013672
+    33.462166,
+    69.188309,
+    33.506195,
+    69.204887
 ],
-  "geometry": {"coordinates":[[[33.49893079757052,69.19747389889329],[33.50619506835938,69.19441986083984],[33.49758148193359,69.19239044189453],[33.46691513061523,69.18830871582031],[33.46335983276367,69.18924713134766],[33.46230697631836,69.18952941894531],[33.46216583251953,69.19186401367188],[33.47050094604492,69.19550323486328],[33.46769332885742,69.20030212402344],[33.47119522094727,69.20475006103516],[33.47422409057617,69.20488739013672],[33.47929090927062,69.204315633313],[33.47936244,69.20430750338379],[33.48908226,69.2016143433838],[33.49893079757052,69.19747389889329]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[33.498931,69.197474],[33.506195,69.19441999999999],[33.497581,69.19239],[33.466915,69.188309],[33.46336,69.18924699999999],[33.462307,69.18952899999999],[33.462166,69.191864],[33.470501,69.195503],[33.467693,69.20030199999999],[33.471195,69.20475],[33.474224,69.204887],[33.479291,69.20431600000001],[33.479362,69.204308],[33.489082,69.20161400000001],[33.498931,69.197474]]],"type":"Polygon"}
 }

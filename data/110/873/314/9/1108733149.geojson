@@ -56,11 +56,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ben_x_preferred":[
+        "\u09ac\u09c1\u099c\u09c1\u09b2\u09c1\u0995"
+    ],
     "name:ceb_x_preferred":[
         "Buzuluk"
     ],
     "name:ces_x_preferred":[
         "Buzuluk"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03b6\u03bf\u03c5\u03bb\u03bf\u03cd\u03ba"
     ],
     "name:eng_x_preferred":[
         "Buzuluk"
@@ -71,7 +77,13 @@
     "name:fra_x_preferred":[
         "Bouzoulouk"
     ],
+    "name:hin_x_preferred":[
+        "\u092c\u0941\u091c\u0941\u0932\u0941\u0915"
+    ],
     "name:hrv_x_preferred":[
+        "Buzuluk"
+    ],
+    "name:ind_x_preferred":[
         "Buzuluk"
     ],
     "name:ita_x_preferred":[
@@ -85,6 +97,9 @@
     ],
     "name:und_x_variant":[
         "\u0411\u0443\u0437\u0443\u043b\u0443\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0632\u0648\u0644\u06a9"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -121,7 +136,7 @@
         }
     ],
     "wof:id":1108733149,
-    "wof:lastmodified":1627522551,
+    "wof:lastmodified":1636497194,
     "wof:name":"Buzuluk",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

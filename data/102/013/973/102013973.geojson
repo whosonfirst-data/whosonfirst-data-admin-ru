@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.001248,
     "geom:area_square_m":8668499.698998,
-    "geom:bbox":"94.283782959,55.7920150757,94.3458633423,55.8285903931",
+    "geom:bbox":"94.283783,55.792015,94.345863,55.82859",
     "geom:latitude":55.809745,
     "geom:longitude":94.315462,
     "gn:latitude":55.8118,
@@ -31,6 +31,9 @@
     "name:bel_x_preferred":[
         "\u0423\u044f\u0440"
     ],
+    "name:ben_x_preferred":[
+        "\u0989\u09df\u09be\u09b0"
+    ],
     "name:cat_x_preferred":[
         "Uiar"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:deu_x_preferred":[
         "Ujar"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03b3\u03b9\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Uyar"
@@ -61,14 +67,29 @@
     "name:fra_x_preferred":[
         "Ou\u00efar"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d9\u05d0\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u090a\u092f\u093e\u0930"
+    ],
     "name:hsb_x_preferred":[
         "Ujar"
     ],
     "name:hun_x_preferred":[
         "Ujar"
     ],
+    "name:ind_x_preferred":[
+        "Uyar"
+    ],
     "name:ita_x_preferred":[
         "Ujar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30e4\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\uc57c\ub974"
     ],
     "name:nld_x_preferred":[
         "Oejar"
@@ -91,8 +112,14 @@
     "name:rus_x_preferred":[
         "\u0423\u044f\u0440"
     ],
+    "name:spa_x_preferred":[
+        "Uyar"
+    ],
     "name:srp_x_preferred":[
         "\u0423\u0458\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Uyar"
     ],
     "name:tat_x_preferred":[
         "\u0423\u044f\u0440"
@@ -109,8 +136,14 @@
     "name:ukr_x_preferred":[
         "\u0423\u044f\u0440"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u06cc\u0627\u0631"
+    ],
     "name:vep_x_preferred":[
         "Ujar"
+    ],
+    "name:vie_x_preferred":[
+        "Uyar"
     ],
     "name:war_x_preferred":[
         "Uyar"
@@ -244,7 +277,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"67297fc5e4bfdef42be9decd792e4e11",
+    "wof:geomhash":"6edc46a4602eb3b8f7b53bee1765267e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -254,7 +287,7 @@
         }
     ],
     "wof:id":102013973,
-    "wof:lastmodified":1582329762,
+    "wof:lastmodified":1636496939,
     "wof:name":"Uyar",
     "wof:parent_id":1108737155,
     "wof:placetype":"locality",
@@ -266,10 +299,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    94.28378295898438,
-    55.79201507568359,
-    94.34586334228516,
-    55.82859039306641
+    94.283783,
+    55.792015,
+    94.345863,
+    55.82859
 ],
-  "geometry": {"coordinates":[[[94.32035827636719,55.82324981689453],[94.34207153320312,55.82859039306641],[94.34586334228516,55.82229995727539],[94.34474182128906,55.81950378417969],[94.33921813964844,55.80568313598633],[94.32141876220703,55.80002975463867],[94.29982757568359,55.79317474365234],[94.291015625,55.79201507568359],[94.28479766845703,55.79929733276367],[94.28466033935547,55.79946517944336],[94.28378295898438,55.80048751831055],[94.29230499267578,55.81396865844727],[94.31918334960938,55.82156372070312],[94.31906127929688,55.82292938232422],[94.32035827636719,55.82324981689453]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[94.320358,55.82325],[94.342072,55.82859],[94.34586299999999,55.8223],[94.344742,55.819504],[94.339218,55.805683],[94.32141900000001,55.80003],[94.29982800000001,55.793175],[94.291016,55.792015],[94.28479799999999,55.799297],[94.28466,55.799465],[94.283783,55.800488],[94.292305,55.813969],[94.319183,55.821564],[94.319061,55.822929],[94.320358,55.82325]]],"type":"Polygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"116.300642455,50.5305965364,116.300642455,50.5305965364",
+    "geom:bbox":"116.300642,50.530597,116.300642,50.530597",
     "geom:latitude":50.530597,
     "geom:longitude":116.300642,
     "iso:country":"RU",
@@ -18,20 +18,86 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u0631\u0644\u0648\u0641\u0627\u064a\u0627 \u062c\u0648\u0631\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b6\u09c7\u09b0\u09b2\u09cb\u09ad\u09be\u09df\u09be \u0997\u09cb\u09b0\u09be"
+    ],
     "name:che_x_preferred":[
         "\u0428\u0435\u0440\u043b\u043e\u0432\u0438 \u0413\u043e\u0440\u0430"
     ],
     "name:deu_x_preferred":[
         "Scherlowaja Gora"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03c1\u03bb\u03cc\u03b2\u03b1\u03b3\u03b9\u03b1 \u0393\u03ba\u03cc\u03c1\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0631\u0644\u0648\u0648\u0627\u06cc\u0627 \u06af\u0648\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Sherlovaya Gora"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05e8\u05dc\u05d5\u05d1\u05d0\u05d9\u05d4 \u05d2\u05d5\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0936\u0947\u0930\u094d\u0932\u094b\u0935\u093e\u092f\u093e \u0917\u094b\u0930\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Sherlovaya Gora"
+    ],
     "name:hye_x_preferred":[
         "\u0547\u0565\u0580\u056c\u0578\u057e\u0561\u0575\u0561 \u0533\u0578\u0580\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Sherlovaya Gora"
+    ],
+    "name:ita_x_preferred":[
+        "Sherlovaya Gora"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30a7\u30eb\u30ed\u30f4\u30a1\u30e4\u30b4\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc15c\ub85c\ubc14\uc57c \uace0\ub77c"
     ],
     "name:lit_x_preferred":[
         "\u0160erlovaja Gora"
     ],
+    "name:pol_x_preferred":[
+        "Sherlovaya Gora"
+    ],
+    "name:por_x_preferred":[
+        "Sherlovaya Gora"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u0435\u0440\u043b\u043e\u0432\u0430\u044f \u0413\u043e\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Sherlovaya Gora"
+    ],
+    "name:swe_x_preferred":[
+        "Sjerlovaja Gora"
+    ],
+    "name:tur_x_preferred":[
+        "Sherlovaya Gora"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435\u0440\u043b\u043e\u0432\u0430\u044f \u0413\u043e\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u06cc\u0631\u0644\u0648\u0627\u06cc\u0627 \u06af\u0648\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Sherlovaya Gora"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5916\u8d1d\u52a0\u5c14\u8fb9\u7586\u533a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u96ea\u6d1b\u5a03\u5c71"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -140,7 +206,7 @@
     "wof:concordances":{},
     "wof:country":"RU",
     "wof:created":1499130597,
-    "wof:geomhash":"d784511f5255aeea640f8f9e54d6790d",
+    "wof:geomhash":"7323ad2768e4c23306d2142c84a904da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -152,7 +218,7 @@
         }
     ],
     "wof:id":1141906463,
-    "wof:lastmodified":1566636809,
+    "wof:lastmodified":1636497397,
     "wof:name":"Sherlovaya Gora",
     "wof:parent_id":890483503,
     "wof:placetype":"locality",
@@ -162,10 +228,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    116.30064245510528,
-    50.53059653635142,
-    116.30064245510528,
-    50.53059653635142
+    116.300642,
+    50.530597,
+    116.300642,
+    50.530597
 ],
-  "geometry": {"coordinates":[116.30064245510528,50.53059653635142],"type":"Point"}
+  "geometry": {"coordinates":[116.300642,50.530597],"type":"Point"}
 }

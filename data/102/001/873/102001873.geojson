@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000587,
     "geom:area_square_m":2551548.444237,
-    "geom:bbox":"30.2145271301,69.4060592651,30.2731666565,69.4250869751",
+    "geom:bbox":"30.214527,69.406059,30.273167,69.425087",
     "geom:latitude":69.41511,
-    "geom:longitude":30.243584,
+    "geom:longitude":30.243583,
     "gn:latitude":69.41285,
     "gn:longitude":30.22198,
     "gn:population":15596,
@@ -22,8 +22,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0643\u064a\u0644"
+    ],
     "name:bel_x_preferred":[
         "\u041d\u0456\u043a\u0435\u043b\u044c"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09bf\u0995\u09c7\u09b2"
     ],
     "name:bul_x_preferred":[
         "\u041d\u0438\u043a\u0435\u043b"
@@ -43,11 +49,17 @@
     "name:deu_x_preferred":[
         "Nikel"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03ba\u03ad\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Nikel"
     ],
     "name:eng_x_variant":[
         "Nikkeli"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u06a9\u0644"
     ],
     "name:fin_x_preferred":[
         "Nikkeli"
@@ -55,7 +67,16 @@
     "name:fra_x_preferred":[
         "Nikel"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05e7\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u093f\u0915\u0947\u0932"
+    ],
     "name:hsb_x_preferred":[
+        "Nikel"
+    ],
+    "name:hun_x_preferred":[
         "Nikel"
     ],
     "name:ind_x_preferred":[
@@ -63,6 +84,12 @@
     ],
     "name:ita_x_preferred":[
         "Nikel'"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30c3\u30b1\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ub2c8\ucf08"
     ],
     "name:lit_x_preferred":[
         "Nikelis"
@@ -85,6 +112,9 @@
     "name:pol_x_variant":[
         "Nikel"
     ],
+    "name:por_x_preferred":[
+        "Nikel"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0438\u043a\u0435\u043b\u044c"
     ],
@@ -100,11 +130,20 @@
     "name:swe_x_preferred":[
         "Nikel"
     ],
+    "name:tur_x_preferred":[
+        "Nikel"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043a\u0435\u043b\u044c"
     ],
     "name:und_x_variant":[
         "Kolosjoki"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u06a9\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Nikel"
     ],
     "name:zho_x_preferred":[
         "\u5c3c\u514b\u723e"
@@ -243,7 +282,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"456d27b61270aac91b32c8191bb1753a",
+    "wof:geomhash":"6cb22295f5467ff6829d4b0f6b3710ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -253,7 +292,7 @@
         }
     ],
     "wof:id":102001873,
-    "wof:lastmodified":1582329781,
+    "wof:lastmodified":1636496957,
     "wof:name":"Nikel",
     "wof:parent_id":890482745,
     "wof:placetype":"locality",
@@ -265,10 +304,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.21452713012695,
-    69.40605926513672,
-    30.27316665649414,
-    69.42508697509766
+    30.214527,
+    69.406059,
+    30.273167,
+    69.425087
 ],
-  "geometry": {"coordinates":[[[30.24919509887695,69.40714263916016],[30.23858261108398,69.40630340576172],[30.23544502258301,69.40605926513672],[30.23508262634277,69.40721893310547],[30.23436164855957,69.40922546386719],[30.23302841186523,69.41400146484375],[30.22963905334473,69.41552734375],[30.22016716003418,69.41455841064453],[30.21452713012695,69.4171142578125],[30.22125053405762,69.42508697509766],[30.23891639709473,69.42338562011719],[30.24616622924805,69.41802978515625],[30.26016616821289,69.41694641113281],[30.26836204528809,69.41796875],[30.27316665649414,69.41683197021484],[30.27044486999512,69.40914154052734],[30.24919509887695,69.40714263916016]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[30.249195,69.407143],[30.238583,69.40630299999999],[30.235445,69.406059],[30.235083,69.407219],[30.234362,69.40922500000001],[30.233028,69.414001],[30.229639,69.415527],[30.220167,69.414558],[30.214527,69.417114],[30.221251,69.425087],[30.238916,69.42338599999999],[30.246166,69.41803],[30.260166,69.416946],[30.268362,69.417969],[30.273167,69.416832],[30.270445,69.409142],[30.249195,69.407143]]],"type":"Polygon"}
 }

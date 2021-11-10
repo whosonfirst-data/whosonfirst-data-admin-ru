@@ -29,8 +29,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u0633\u062a\u0648\u0643"
+    ],
     "name:aze_x_preferred":[
         "Vostok"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09b8\u09cd\u099f\u0995"
     ],
     "name:bul_x_preferred":[
         "\u0412\u043e\u0441\u0442\u043e\u043a"
@@ -47,6 +53,9 @@
     "name:deu_x_preferred":[
         "Wostok"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03bf\u03c3\u03c4\u03cc\u03ba"
+    ],
     "name:est_x_preferred":[
         "Vostok"
     ],
@@ -61,6 +70,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05d5\u05e1\u05d8\u05d5\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u094b\u0938\u094d\u0924\u094b\u0915"
     ],
     "name:hun_x_preferred":[
         "Vosztok"
@@ -116,6 +128,12 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0441\u0442\u043e\u043a"
     ],
+    "name:urd_x_preferred":[
+        "\u0648\u0648\u0633\u0679\u0648\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Vostok"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85687831,
@@ -129,7 +147,7 @@
         "gn:id":1486781
     },
     "wof:country":"RU",
-    "wof:geomhash":"e0e729060360e6b2069d24266bcd1f56",
+    "wof:geomhash":"4efcd1565bc8374507cab6426e77b74a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,7 +159,7 @@
         }
     ],
     "wof:id":1360119047,
-    "wof:lastmodified":1566629525,
+    "wof:lastmodified":1636497240,
     "wof:name":"Vostok",
     "wof:parent_id":1108732593,
     "wof:placetype":"locality",
@@ -151,10 +169,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    70.55096999999998,
-    56.02673000000001,
-    70.55096999999998,
-    56.02673000000001
+    70.55097,
+    56.02673,
+    70.55097,
+    56.02673
 ],
-  "geometry": {"coordinates":[70.55096999999998,56.02673000000001],"type":"Point"}
+  "geometry": {"coordinates":[70.55097000000001,56.02673],"type":"Point"}
 }

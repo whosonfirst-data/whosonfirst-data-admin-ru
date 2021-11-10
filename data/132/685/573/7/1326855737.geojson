@@ -38,6 +38,9 @@
     "name:afr_x_preferred":[
         "Konotop"
     ],
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0646\u0648\u062a\u0648\u0628"
+    ],
     "name:azb_x_preferred":[
         "\u06a9\u0648\u0646\u0648\u062a\u0648\u067e"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0442\u043e\u043f"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u09a8\u09cb\u099f\u09aa"
     ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u043d\u043e\u0442\u043e\u043f"
@@ -71,6 +77,9 @@
     "name:dsb_x_preferred":[
         "Konotop"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bd\u03bf\u03c4\u03cc\u03c0"
+    ],
     "name:est_x_preferred":[
         "Konotop"
     ],
@@ -86,17 +95,29 @@
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05e0\u05d5\u05d8\u05d5\u05e4"
     ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0928\u094b\u091f\u0949\u092a"
+    ],
     "name:hsb_x_preferred":[
+        "Konotop"
+    ],
+    "name:hun_x_preferred":[
         "Konotop"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0576\u0578\u057f\u0578\u057a"
+    ],
+    "name:ind_x_preferred":[
+        "Konotop"
     ],
     "name:ita_x_preferred":[
         "Konotop"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10dc\u10dd\u10e2\u10dd\u10de\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf54\ub178\ud1b1"
     ],
     "name:lav_x_preferred":[
         "Konotopa"
@@ -114,6 +135,9 @@
         "Konotop"
     ],
     "name:pol_x_preferred":[
+        "Konotop"
+    ],
+    "name:por_x_preferred":[
         "Konotop"
     ],
     "name:ron_x_preferred":[
@@ -146,6 +170,9 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u043e\u0442\u043e\u043f"
     ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0646\u0648\u0679\u0627\u067e"
+    ],
     "name:vie_x_preferred":[
         "Konotop"
     ],
@@ -165,7 +192,7 @@
         "gn:id":545348
     },
     "wof:country":"RU",
-    "wof:geomhash":"18e9e63633d671e758dbbf02fc2e89b7",
+    "wof:geomhash":"13adeb0f0a3f742306169e9d36b975b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +204,7 @@
         }
     ],
     "wof:id":1326855737,
-    "wof:lastmodified":1566614122,
+    "wof:lastmodified":1636496909,
     "wof:name":"Konotop",
     "wof:parent_id":1108734755,
     "wof:placetype":"locality",
@@ -187,10 +214,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    36.01622000000001,
+    36.01622,
     52.54756,
-    36.01622000000001,
+    36.01622,
     52.54756
 ],
-  "geometry": {"coordinates":[36.01622000000001,52.54756],"type":"Point"}
+  "geometry": {"coordinates":[36.01622,52.54756],"type":"Point"}
 }

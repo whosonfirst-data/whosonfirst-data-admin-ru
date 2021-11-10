@@ -29,8 +29,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0632"
+    ],
     "name:bak_x_preferred":[
         "\u0422\u0430\u0499\u043b\u0430\u0440"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09be\u099c"
     ],
     "name:ceb_x_preferred":[
         "Taz"
@@ -44,7 +50,22 @@
     "name:deu_x_preferred":[
         "Taz"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03b6"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0632"
+    ],
     "name:fra_x_preferred":[
+        "Taz"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05d6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u093e\u091c\u093c\u0940"
+    ],
+    "name:ind_x_preferred":[
         "Taz"
     ],
     "name:nld_x_preferred":[
@@ -71,6 +92,12 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0437"
     ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Taz"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85687931,
@@ -84,7 +111,7 @@
         "gn:id":1489859
     },
     "wof:country":"RU",
-    "wof:geomhash":"79d37bafb04bb63e106d0e2ed58409ed",
+    "wof:geomhash":"718d3eaa55c572da484302cb40793895",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +123,7 @@
         }
     ],
     "wof:id":1193154029,
-    "wof:lastmodified":1566625528,
+    "wof:lastmodified":1636497161,
     "wof:name":"Taz",
     "wof:parent_id":1108734729,
     "wof:placetype":"locality",
@@ -107,9 +134,9 @@
 },
   "bbox": [
     82.18066,
-    66.00726999999999,
+    66.00727,
     82.18066,
-    66.00726999999999
+    66.00727
 ],
-  "geometry": {"coordinates":[82.18066,66.00726999999999],"type":"Point"}
+  "geometry": {"coordinates":[82.18066,66.00727000000001],"type":"Point"}
 }

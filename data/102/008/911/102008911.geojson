@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000426,
     "geom:area_square_m":2922771.081047,
-    "geom:bbox":"48.5803871155,56.3071670532,48.624332428,56.3220558167",
+    "geom:bbox":"48.580387,56.307167,48.624332,56.322056",
     "geom:latitude":56.31329,
     "geom:longitude":48.602566,
     "iso:country":"RU",
@@ -20,13 +20,64 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
+        "Oktyabrsky"
+    ],
+    "name:eng_x_variant":[
         "Oktyabr'skiy"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06a9\u062a\u0627\u06cc\u0628\u0631\u0633\u06a9\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Oktiabrski"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e7\u05d8\u05d9\u05d0\u05d1\u05e8\u05e1\u05e7\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0913\u0915\u0924\u094d\u092f\u093e\u092c\u094d\u0930\u093f\u0938\u094d\u0915\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Oktyabrszkij"
+    ],
+    "name:ind_x_preferred":[
+        "Oktyabrskiy"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30af\u30c1\u30e3\u30d6\u30ea\u30b9\u30ad\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\uc625\ud2f0\uc544\ube0c\ub974\uc2a4\ud0a4"
     ],
     "name:nor_x_preferred":[
         "Oktjabrskij"
     ],
+    "name:por_x_preferred":[
+        "Oktiabrski"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Oktyabrskiy"
+    ],
+    "name:swe_x_preferred":[
+        "Oktjabrskij"
+    ],
+    "name:tur_x_preferred":[
+        "Oktyabrskiy"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u06a9\u0679\u06cc\u0628\u0631\u0633\u06a9\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Oktyabrskiy"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5341\u6708"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5341\u6708\u93ae"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u0440\u0438\u0439 \u042d\u043b",
@@ -57,7 +108,7 @@
         "gp:id":2059188
     },
     "wof:country":"RU",
-    "wof:geomhash":"e33ec145d1829703331629cd304273ea",
+    "wof:geomhash":"4a5e9dbb036be5790930fb265f477ae7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +120,7 @@
         }
     ],
     "wof:id":102008911,
-    "wof:lastmodified":1566615299,
+    "wof:lastmodified":1636496955,
     "wof:name":"Oktyabrskiy",
     "wof:parent_id":1108735199,
     "wof:placetype":"locality",
@@ -79,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.58038711547852,
-    56.30716705322266,
-    48.62433242797852,
-    56.32205581665039
+    48.580387,
+    56.307167,
+    48.624332,
+    56.322056
 ],
-  "geometry": {"coordinates":[[[48.59088897705078,56.30722045898438],[48.58038711547852,56.30727767944336],[48.58258438110352,56.31380462646484],[48.59141540527344,56.31519317626953],[48.59472274780273,56.3199462890625],[48.60436248779297,56.32136154174805],[48.60922241210938,56.32205581665039],[48.61591720581055,56.31647109985352],[48.62252807617188,56.31633377075195],[48.6242790222168,56.31061172485352],[48.62433242797852,56.31047058105469],[48.60649871826172,56.30752944946289],[48.60430526733398,56.30716705322266],[48.59233474731445,56.30722045898438],[48.59088897705078,56.30722045898438]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[48.590889,56.30722],[48.580387,56.307278],[48.582584,56.313805],[48.591415,56.315193],[48.594723,56.319946],[48.604362,56.321362],[48.609222,56.322056],[48.615917,56.316471],[48.622528,56.316334],[48.624279,56.310612],[48.624332,56.310471],[48.606499,56.307529],[48.604305,56.307167],[48.592335,56.30722],[48.590889,56.30722]]],"type":"Polygon"}
 }

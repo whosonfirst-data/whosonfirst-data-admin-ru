@@ -38,6 +38,9 @@
     "name:bel_x_preferred":[
         "\u0423\u0440\u0430\u0439"
     ],
+    "name:ben_x_preferred":[
+        "\u0987\u0989\u09b0\u09c7"
+    ],
     "name:bul_x_preferred":[
         "\u0423\u0440\u0430\u0439"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:deu_x_preferred":[
         "Urai"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03c1\u03ac\u03b9"
     ],
     "name:epo_x_preferred":[
         "Urajo"
@@ -65,11 +71,26 @@
     "name:fra_x_preferred":[
         "Oura\u00ef"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8\u05d0\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0909\u0930\u0947"
+    ],
     "name:hsb_x_preferred":[
         "Uraj"
     ],
+    "name:hun_x_preferred":[
+        "Uray"
+    ],
+    "name:ind_x_preferred":[
+        "Uray"
+    ],
     "name:ita_x_preferred":[
         "Uraj"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\ub808\uc774"
     ],
     "name:nno_x_preferred":[
         "Uraj"
@@ -80,11 +101,20 @@
     "name:pol_x_preferred":[
         "Uraj"
     ],
+    "name:por_x_preferred":[
+        "Uray"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u0440\u0430\u0439"
     ],
+    "name:spa_x_preferred":[
+        "Uray"
+    ],
     "name:srp_x_preferred":[
         "\u0423\u0440\u0430\u0458"
+    ],
+    "name:swe_x_preferred":[
+        "Uraj"
     ],
     "name:tat_x_preferred":[
         "\u0423\u0440\u0430\u0439"
@@ -101,8 +131,14 @@
     "name:ukr_x_preferred":[
         "\u0423\u0440\u0430\u0439"
     ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0648\u0631\u06d2"
+    ],
     "name:vep_x_preferred":[
         "Urai"
+    ],
+    "name:vie_x_preferred":[
+        "Uray"
     ],
     "name:war_x_preferred":[
         "Uray"
@@ -123,7 +159,7 @@
         "gn:id":478810
     },
     "wof:country":"RU",
-    "wof:geomhash":"2a328d0fd11414828389874c15dce84c",
+    "wof:geomhash":"aa13a6cac514b02290b22f1631b959a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +171,7 @@
         }
     ],
     "wof:id":1310194959,
-    "wof:lastmodified":1566628490,
+    "wof:lastmodified":1636497224,
     "wof:name":"Uray",
     "wof:parent_id":1108734785,
     "wof:placetype":"locality",
@@ -146,9 +182,9 @@
 },
   "bbox": [
     55.56667,
-    52.86666999999999,
+    52.86667,
     55.56667,
-    52.86666999999999
+    52.86667
 ],
-  "geometry": {"coordinates":[55.56667,52.86666999999999],"type":"Point"}
+  "geometry": {"coordinates":[55.56667,52.86667],"type":"Point"}
 }

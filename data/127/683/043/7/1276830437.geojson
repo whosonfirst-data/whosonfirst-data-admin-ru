@@ -45,6 +45,9 @@
     "name:bel_x_preferred":[
         "\u041d\u0430\u0432\u0430\u0442\u0440\u043e\u0456\u0446\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09cb\u09ad\u09cb\u09a4\u09cd\u09b0\u0987\u09a4\u09b8\u09cd\u0995"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0442\u0440\u043e\u0438\u0446\u043a"
     ],
@@ -62,6 +65,9 @@
     ],
     "name:deu_x_preferred":[
         "Nowotroizk"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03b2\u03cc\u03c4\u03c1\u03bf\u03ca\u03c4\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Novotroitsk"
@@ -81,17 +87,29 @@
     "name:fra_x_preferred":[
         "Novotro\u00eftsk"
     ],
+    "name:hin_x_preferred":[
+        "\u0928\u094b\u0935\u094b\u091f\u094d\u0930\u094b\u0907\u0938\u094d\u0915"
+    ],
     "name:hrv_x_preferred":[
         "Novotroick"
     ],
     "name:hsb_x_preferred":[
         "Nowotroick"
     ],
+    "name:hun_x_preferred":[
+        "Novotroitsk"
+    ],
+    "name:ind_x_preferred":[
+        "Novotroitsk"
+    ],
     "name:ita_x_preferred":[
         "Novotroick"
     ],
     "name:kaz_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0442\u0440\u043e\u0438\u0446\u043a"
+    ],
+    "name:kor_x_preferred":[
+        "\ub178\ubcf4\ud2b8\ub85c\uc774\uce20\ud06c"
     ],
     "name:lit_x_preferred":[
         "Novotroickas"
@@ -119,6 +137,9 @@
     ],
     "name:pol_x_preferred":[
         "Nowotroick"
+    ],
+    "name:por_x_preferred":[
+        "Novotroitsk"
     ],
     "name:ron_x_preferred":[
         "Novotroi\u021bk"
@@ -156,6 +177,9 @@
     "name:und_x_variant":[
         "Novo-Troitskaya"
     ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0648\u0648\u0679\u0631\u0648\u0679\u0633\u06a9"
+    ],
     "name:vep_x_preferred":[
         "Novotroick"
     ],
@@ -181,7 +205,7 @@
         "gn:id":1496698
     },
     "wof:country":"RU",
-    "wof:geomhash":"54c52242a99fce010bdce5e8318b6b89",
+    "wof:geomhash":"60d028343cf6aa0f2b68ec5ccb01668a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -193,7 +217,7 @@
         }
     ],
     "wof:id":1276830437,
-    "wof:lastmodified":1566622569,
+    "wof:lastmodified":1636497101,
     "wof:name":"Novotroitsk",
     "wof:parent_id":1108733205,
     "wof:placetype":"locality",
@@ -204,9 +228,9 @@
 },
   "bbox": [
     87.38333,
-    55.86666999999999,
+    55.86667,
     87.38333,
-    55.86666999999999
+    55.86667
 ],
-  "geometry": {"coordinates":[87.38333,55.86666999999999],"type":"Point"}
+  "geometry": {"coordinates":[87.38333,55.86667],"type":"Point"}
 }

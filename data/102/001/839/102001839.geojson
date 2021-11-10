@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000452,
     "geom:area_square_m":2698908.302257,
-    "geom:bbox":"28.8565559387,61.0991096497,28.8855838776,61.1218338013",
+    "geom:bbox":"28.856556,61.09911,28.885584,61.121834",
     "geom:latitude":61.111934,
     "geom:longitude":28.872255,
     "gn:latitude":61.11213,
@@ -34,6 +34,9 @@
     "name:bel_x_variant":[
         "\u0421\u0432\u0435\u0442\u0430\u0433\u043e\u0440\u0441\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09ad\u09c7\u09a4\u09cb\u0997\u09b0\u09cd\u09b8\u09cd\u0995"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0432\u0435\u0442\u043e\u0433\u043e\u0440\u0441\u043a"
     ],
@@ -58,6 +61,9 @@
     "name:diq_x_preferred":[
         "Svetogorsk"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b2\u03b5\u03c4\u03bf\u03b3\u03ba\u03cc\u03c1\u03c3\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Svetogorsk"
     ],
@@ -76,14 +82,26 @@
     "name:fra_x_preferred":[
         "Svetogorsk"
     ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u0935\u0947\u0924\u094b\u0917\u094b\u0930\u094d\u0938\u094d\u0915"
+    ],
     "name:hsb_x_preferred":[
         "Swjetogorsk"
+    ],
+    "name:hun_x_preferred":[
+        "Szvetogorszk"
+    ],
+    "name:ind_x_preferred":[
+        "Svetogorsk"
     ],
     "name:ita_x_preferred":[
         "Svetogorsk"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d5\u10d4\u10e2\u10dd\u10d2\u10dd\u10e0\u10e1\u10d9\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ubca0\ud1a0\uace0\ub974\uc2a4\ud06c"
     ],
     "name:krl_x_preferred":[
         "En\u0161o"
@@ -142,7 +160,13 @@
     "name:und_x_variant":[
         "Esno"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u06cc\u062a\u0648\u06af\u0648\u0631\u0633\u06a9"
+    ],
     "name:vep_x_preferred":[
+        "Svetogorsk"
+    ],
+    "name:vie_x_preferred":[
         "Svetogorsk"
     ],
     "name:war_x_preferred":[
@@ -284,7 +308,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"72f2540accb16290a6a9a9ebcf7b347f",
+    "wof:geomhash":"030b4346d016f3e958d16723afbd2969",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -294,7 +318,7 @@
         }
     ],
     "wof:id":102001839,
-    "wof:lastmodified":1582329783,
+    "wof:lastmodified":1636496959,
     "wof:name":"Svetogorsk",
     "wof:parent_id":890485873,
     "wof:placetype":"locality",
@@ -306,10 +330,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.8565559387207,
-    61.0991096496582,
-    28.88558387756348,
-    61.12183380126953
+    28.856556,
+    61.09911,
+    28.885584,
+    61.121834
 ],
-  "geometry": {"coordinates":[[[28.86402702331543,61.10702896118164],[28.8565559387207,61.11436080932617],[28.85683250427246,61.11941528320312],[28.8615550994873,61.12060928344727],[28.86508369445801,61.12149810791016],[28.87636184692383,61.12183380126953],[28.88558387756348,61.11616516113281],[28.88277816772461,61.10874938964844],[28.88544464111328,61.10289001464844],[28.88122177124023,61.0991096496582],[28.86738967895508,61.10372161865234],[28.86477851867676,61.10630416870117],[28.86438941955566,61.10666656494141],[28.86402702331543,61.10702896118164]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.864027,61.107029],[28.856556,61.114361],[28.856833,61.119415],[28.861555,61.120609],[28.865084,61.121498],[28.876362,61.121834],[28.885584,61.116165],[28.882778,61.108749],[28.885445,61.10289],[28.881222,61.09911],[28.86739,61.103722],[28.864779,61.106304],[28.864389,61.106667],[28.864027,61.107029]]],"type":"Polygon"}
 }

@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000495,
     "geom:area_square_m":3173997.486619,
-    "geom:bbox":"49.4412231445,58.7288894653,49.4804458618,58.7499160767",
-    "geom:latitude":58.740173,
+    "geom:bbox":"49.441223,58.728889,49.480446,58.749916",
+    "geom:latitude":58.740174,
     "geom:longitude":49.459438,
     "iso:country":"RU",
     "lbl:latitude":58.740687,
@@ -31,6 +31,9 @@
     "name:bar_x_preferred":[
         "Slobodskoy"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u09b2\u09cb\u09ac\u09cb\u09a6\u09b8\u09cd\u0995\u09df"
+    ],
     "name:bre_x_preferred":[
         "Slobodskoy"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:deu_x_preferred":[
         "Slobodskoy"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bb\u03bf\u03bc\u03c0\u03bf\u03bd\u03c4\u03c3\u03ba\u03cc\u03b9"
     ],
     "name:eng_x_preferred":[
         "Slobodskoy"
@@ -88,6 +94,12 @@
     "name:gsw_x_preferred":[
         "Slobodskoy"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05dc\u05d5\u05d1\u05d5\u05d3\u05e1\u05e7\u05d5\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u0932\u094b\u092c\u094b\u0926\u094d\u0938\u0915\u094b\u092f"
+    ],
     "name:hrv_x_preferred":[
         "Slobodskoy"
     ],
@@ -109,8 +121,14 @@
     "name:ita_x_preferred":[
         "Slobodskoy"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30ed\u30dc\u30c4\u30b3\u30a4"
+    ],
     "name:kon_x_preferred":[
         "Slobodskoy"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2ac\ub85c\ubcf4\ub4dc\uc2a4\ucf54\uc774"
     ],
     "name:lij_x_preferred":[
         "Slobodskoy"
@@ -184,6 +202,7 @@
     "name:spa_x_preferred":[
         "Slobodskoy"
     ],
+    "name:spa_x_variant":[],
     "name:srd_x_preferred":[
         "Slobodskoy"
     ],
@@ -191,7 +210,13 @@
         "Slobodskoy"
     ],
     "name:swe_x_preferred":[
+        "Slobodskoj"
+    ],
+    "name:swe_x_variant":[
         "Slobodskoy"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0644\u0648\u0628\u0648\u062f\u0633\u06a9\u0648\u0626\u06d2"
     ],
     "name:vec_x_preferred":[
         "Slobodskoy"
@@ -245,7 +270,7 @@
         "wd:id":"Q7541219"
     },
     "wof:country":"RU",
-    "wof:geomhash":"6b290446d4d7fb2ec8d15b56442ae606",
+    "wof:geomhash":"6dba3ced337d98e3f094b8863b8866f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -257,7 +282,7 @@
         }
     ],
     "wof:id":102008269,
-    "wof:lastmodified":1566615274,
+    "wof:lastmodified":1636496952,
     "wof:name":"Slobodskoy",
     "wof:parent_id":1108734137,
     "wof:placetype":"locality",
@@ -267,10 +292,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    49.44122314453125,
-    58.72888946533203,
-    49.48044586181641,
-    58.74991607666016
+    49.441223,
+    58.728889,
+    49.480446,
+    58.749916
 ],
-  "geometry": {"coordinates":[[[49.45369338989258,58.72888946533203],[49.4521369934082,58.73222351074219],[49.4509162902832,58.73488998413086],[49.44180679321289,58.7368049621582],[49.44122314453125,58.74044418334961],[49.44475173950195,58.7460823059082],[49.4495849609375,58.74905395507812],[49.45914077758789,58.74991607666016],[49.4646110534668,58.74874877929688],[49.46933364868164,58.74541854858398],[49.48044586181641,58.73752593994141],[49.47977828979492,58.73663711547852],[49.47739028930664,58.73352813720703],[49.47452926635742,58.73389053344727],[49.45994567871094,58.73158264160156],[49.45477676391602,58.73088836669922],[49.45369338989258,58.72888946533203]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[49.453693,58.728889],[49.452137,58.732224],[49.450916,58.73489],[49.441807,58.736805],[49.441223,58.740444],[49.444752,58.746082],[49.449585,58.749054],[49.459141,58.749916],[49.464611,58.748749],[49.469334,58.745419],[49.480446,58.737526],[49.479778,58.736637],[49.47739,58.733528],[49.474529,58.733891],[49.459946,58.731583],[49.454777,58.730888],[49.453693,58.728889]]],"type":"Polygon"}
 }

@@ -41,6 +41,9 @@
     "name:bel_x_preferred":[
         "\u041c\u0456\u0447\u0443\u0440\u044b\u043d\u0441\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09bf\u099a\u09c1\u0987\u09b0\u09bf\u09a8\u09b8\u09cd\u0995"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0438\u0447\u0443\u0440\u0438\u043d\u0441\u043a"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:deu_x_preferred":[
         "Mitschurinsk"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03c7\u03bf\u03c5\u03c1\u03af\u03bd\u03c3\u03ba"
     ],
     "name:epo_x_preferred":[
         "Mi\u0109urinsk"
@@ -71,11 +77,17 @@
     "name:fra_x_preferred":[
         "Mitchourinsk"
     ],
+    "name:hin_x_preferred":[
+        "\u092e\u093f\u0936\u0941\u0930\u093f\u0902\u0938\u094d\u0915"
+    ],
     "name:hrv_x_preferred":[
         "Mi\u010durinsk"
     ],
     "name:hsb_x_preferred":[
         "Mi\u010durinsk"
+    ],
+    "name:ind_x_preferred":[
+        "Michurinsk"
     ],
     "name:ita_x_preferred":[
         "Mi\u010durinsk"
@@ -106,6 +118,9 @@
     ],
     "name:pol_x_preferred":[
         "Miczury\u0144sk"
+    ],
+    "name:por_x_preferred":[
+        "Michurinsk"
     ],
     "name:ron_x_preferred":[
         "Miciurinsk"
@@ -140,6 +155,9 @@
     "name:und_x_variant":[
         "Novoyumashevo"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0634\u0648\u0631\u0646\u0633\u06a9"
+    ],
     "name:vie_x_preferred":[
         "Michurinsk"
     ],
@@ -165,7 +183,7 @@
         "gn:id":527190
     },
     "wof:country":"RU",
-    "wof:geomhash":"5949fcab89e82967f8002cc839b69dfd",
+    "wof:geomhash":"7a42f0acdcfb814e8bbf96e8281b6e3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +195,7 @@
         }
     ],
     "wof:id":1293779325,
-    "wof:lastmodified":1566619343,
+    "wof:lastmodified":1636497045,
     "wof:name":"Michurinsk",
     "wof:parent_id":1108736511,
     "wof:placetype":"locality",
@@ -187,10 +205,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.18333000000001,
+    54.18333,
     54.95,
-    54.18333000000001,
+    54.18333,
     54.95
 ],
-  "geometry": {"coordinates":[54.18333000000001,54.95],"type":"Point"}
+  "geometry": {"coordinates":[54.18333,54.95],"type":"Point"}
 }

@@ -29,14 +29,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0986\u09b2\u09c7\u0995\u09b8\u09c7\u0987\u09ad\u0995\u09be"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03b5\u03be\u03ad\u03b5\u03b2\u03ba\u03b1"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0932\u0947\u0915\u094d\u0938\u0947\u092f\u0947\u0935\u094d\u0915\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Alekseyevka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ec\u30af\u30bb\u30a4\u30a8\u30d5\u30ab"
+    ],
+    "name:kor_x_preferred":[
+        "\uc54c\ub809\uc138\uc608\ud504\uce74"
+    ],
     "name:nor_x_preferred":[
         "Aleksejevka"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u043a\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Alekseyevka"
+    ],
+    "name:swe_x_preferred":[
+        "Aleksejevka"
+    ],
     "name:und_x_variant":[
         "Alekseyevskoye",
+        "Alekseyevka"
+    ],
+    "name:vie_x_preferred":[
         "Alekseyevka"
     ],
     "src:geom":"geonames",
@@ -52,7 +79,7 @@
         "gn:id":1511815
     },
     "wof:country":"RU",
-    "wof:geomhash":"07596f9a14730cb646ebf92702c02d70",
+    "wof:geomhash":"d4c04444224f34cd7f4fa0a557deb61c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +91,7 @@
         }
     ],
     "wof:id":1326762237,
-    "wof:lastmodified":1566614055,
+    "wof:lastmodified":1636496908,
     "wof:name":"Alekseyevka",
     "wof:parent_id":1108734865,
     "wof:placetype":"locality",
@@ -75,9 +102,9 @@
 },
   "bbox": [
     76.2,
-    56.63333000000001,
+    56.63333,
     76.2,
-    56.63333000000001
+    56.63333
 ],
-  "geometry": {"coordinates":[76.2,56.63333000000001],"type":"Point"}
+  "geometry": {"coordinates":[76.2,56.63333],"type":"Point"}
 }

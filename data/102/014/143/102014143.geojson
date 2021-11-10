@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000511,
     "geom:area_square_m":3728184.196707,
-    "geom:bbox":"91.1925811768,53.8121948242,91.2392196655,53.8275566101",
+    "geom:bbox":"91.192581,53.812195,91.23922,53.827557",
     "geom:latitude":53.818825,
     "geom:longitude":91.219055,
     "gn:latitude":53.82361,
@@ -31,6 +31,9 @@
     "name:bel_x_preferred":[
         "\u0427\u0430\u0440\u043d\u0430\u0433\u043e\u0440\u0441\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u099a\u09c7\u09b0\u09a8\u09cb\u0997\u09b0\u09cd\u09b8\u09cd\u0995"
+    ],
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:diq_x_preferred":[
         "Chernogorsk"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b5\u03c1\u03bd\u03bf\u03b3\u03ba\u03cc\u03c1\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Chernogorsk"
@@ -67,6 +73,12 @@
     "name:fra_x_preferred":[
         "Tchernogorsk"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05e8\u05e0\u05d5\u05d2\u05d5\u05e8\u05e1\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u0947\u0930\u094d\u0928\u094b\u0917\u094b\u0930\u094d\u0938\u094d\u0915"
+    ],
     "name:hrv_x_preferred":[
         "\u010cernogorsk"
     ],
@@ -76,8 +88,14 @@
     "name:hun_x_preferred":[
         "Csernogorszk"
     ],
+    "name:ind_x_preferred":[
+        "Chernogorsk"
+    ],
     "name:ita_x_preferred":[
         "\u010cernogorsk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30a7\u30eb\u30ce\u30b4\u30eb\u30b9\u30af"
     ],
     "name:kor_x_preferred":[
         "\uccb4\ub974\ub178\uace0\ub974\uc2a4\ud06c"
@@ -103,6 +121,9 @@
     "name:pol_x_preferred":[
         "Czernogorsk"
     ],
+    "name:por_x_preferred":[
+        "Chernogorsk"
+    ],
     "name:ron_x_preferred":[
         "Cernogorsk"
     ],
@@ -111,6 +132,9 @@
     ],
     "name:slv_x_preferred":[
         "\u010cernogorsk"
+    ],
+    "name:spa_x_preferred":[
+        "Chernogorsk"
     ],
     "name:srp_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
@@ -132,6 +156,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0427\u043e\u0440\u043d\u043e\u0433\u043e\u0440\u0441\u044c\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0631\u0646\u0648\u06af\u0648\u0631\u0633\u06a9"
     ],
     "name:vep_x_preferred":[
         "\u010cernogorsk"
@@ -182,7 +209,7 @@
         "wk:page":"Chernogorsk"
     },
     "wof:country":"RU",
-    "wof:geomhash":"c6f3faf83eebdf3fead39ae4349d7195",
+    "wof:geomhash":"a9b35af966c0e43c11d46023725fab79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,7 +221,7 @@
         }
     ],
     "wof:id":102014143,
-    "wof:lastmodified":1566615112,
+    "wof:lastmodified":1636496944,
     "wof:name":"Chernogorsk",
     "wof:parent_id":1108733255,
     "wof:placetype":"locality",
@@ -206,10 +233,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    91.19258117675781,
-    53.81219482421875,
-    91.23921966552734,
-    53.82755661010742
+    91.192581,
+    53.812195,
+    91.23922,
+    53.827557
 ],
-  "geometry": {"coordinates":[[[91.21544647216797,53.82210922241211],[91.21910858154297,53.82738876342773],[91.23921966552734,53.82755661010742],[91.23891448974609,53.82511138916016],[91.23752593994141,53.81369400024414],[91.21839141845703,53.81219482421875],[91.1927490234375,53.8126106262207],[91.19258117675781,53.81858444213867],[91.20102691650391,53.81905364990234],[91.20222473144531,53.82141494750977],[91.21544647216797,53.82210922241211]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[91.215446,53.822109],[91.219109,53.827389],[91.23922,53.827557],[91.23891399999999,53.825111],[91.237526,53.813694],[91.218391,53.812195],[91.19274900000001,53.812611],[91.192581,53.818584],[91.201027,53.819054],[91.202225,53.821415],[91.215446,53.822109]]],"type":"Polygon"}
 }

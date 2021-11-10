@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"129.616677205,49.7503857616,129.616677205,49.7503857616",
+    "geom:bbox":"129.616677,49.750386,129.616677,49.750386",
     "geom:latitude":49.750386,
     "geom:longitude":129.616677,
     "iso:country":"RU",
@@ -24,23 +24,50 @@
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0433\u0440\u044d\u0441"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09cd\u09b0\u09cb\u0997\u09cd\u09b0\u09c7\u09b8"
+    ],
     "name:cat_x_preferred":[
         "Progress"
     ],
     "name:deu_x_preferred":[
         "Progress"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03c1\u03cc\u03b3\u03ba\u03c1\u03b5\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Progress"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0648\u06af\u0631\u0633"
+    ],
     "name:fra_x_preferred":[
+        "Progress"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d5\u05d2\u05e8\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094d\u0930\u094b\u0917\u094d\u0930\u0947\u0938"
+    ],
+    "name:hun_x_preferred":[
         "Progress"
     ],
     "name:hye_x_preferred":[
         "\u054a\u0580\u0578\u0563\u0580\u0565\u057d"
     ],
+    "name:ind_x_preferred":[
+        "Progress"
+    ],
     "name:ita_x_preferred":[
         "Progress"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ed\u30b0\u30ec\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub85c\uadf8\ub808\uc2a4"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0440\u043e\u0433\u0440\u0435\u0441"
@@ -63,11 +90,23 @@
     "name:rus_x_preferred":[
         "\u041f\u0440\u043e\u0433\u0440\u0435\u0441\u0441"
     ],
+    "name:spa_x_preferred":[
+        "Progress"
+    ],
     "name:swe_x_preferred":[
         "Progress"
     ],
+    "name:tur_x_preferred":[
+        "Progress"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u043e\u0433\u0440\u0435\u0441"
+    ],
     "name:urd_x_preferred":[
         "\u067e\u0631\u0627\u06af\u0631\u06cc\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Progress"
     ],
     "name:war_x_preferred":[
         "Progress"
@@ -184,7 +223,7 @@
     },
     "wof:country":"RU",
     "wof:created":1499130708,
-    "wof:geomhash":"9e4aa035caf9368fb77b7de21a45edf9",
+    "wof:geomhash":"27aa3afaeca34680272e0542d8cc3e28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -196,7 +235,7 @@
         }
     ],
     "wof:id":1141907305,
-    "wof:lastmodified":1566636801,
+    "wof:lastmodified":1636497389,
     "wof:name":"Progress",
     "wof:parent_id":1108735997,
     "wof:placetype":"locality",
@@ -206,10 +245,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    129.6166772045077,
-    49.75038576160875,
-    129.6166772045077,
-    49.75038576160875
+    129.616677,
+    49.750386,
+    129.616677,
+    49.750386
 ],
-  "geometry": {"coordinates":[129.61667720450771,49.75038576160875],"type":"Point"}
+  "geometry": {"coordinates":[129.61667700000001,49.750386],"type":"Point"}
 }

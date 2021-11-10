@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"127.033682413,72.5996887402,127.033682413,72.5996887402",
+    "geom:bbox":"127.033682,72.599689,127.033682,72.599689",
     "geom:latitude":72.599689,
     "geom:longitude":127.033682,
     "iso:country":"RU",
@@ -18,6 +18,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062a\u0631\u0648\u0641\u064a\u0645\u0648\u0641\u0633\u0643"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09cd\u09b0\u09ab\u09bf\u09ae\u09cb\u09ad\u09b8\u09cd\u0995"
+    ],
+    "name:deu_x_preferred":[
+        "Trofimowsk"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03bf\u03c6\u03b9\u03bc\u03cc\u03c6\u03c3\u03ba"
+    ],
+    "name:eng_x_preferred":[
+        "Trofimovskaya"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0648\u0641\u06cc\u0645\u0648\u0641\u0633\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Trofimovskaya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05d5\u05e4\u05d9\u05de\u05d5\u05d1\u05e1\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u094d\u0930\u094b\u092b\u093c\u093f\u092e\u094b\u0935\u094d\u0938\u094d\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Trofimovsk"
+    ],
+    "name:ind_x_preferred":[
+        "Trofimovsk"
+    ],
+    "name:ita_x_preferred":[
+        "Trofimovsk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30ed\u30d5\u30a3\u30e2\u30d5\u30b9\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2b8\ub85c\ud53c\ubaa8\ud504\uc2a4\ud06c"
+    ],
+    "name:nld_x_preferred":[
+        "Trofimovsk"
+    ],
+    "name:pol_x_preferred":[
+        "Trofimovsk"
+    ],
+    "name:por_x_preferred":[
+        "Trofimovsk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u043e\u0444\u0438\u043c\u043e\u0432\u0441\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Trofimovsk"
+    ],
+    "name:swe_x_preferred":[
+        "Trofimovsk"
+    ],
+    "name:tur_x_preferred":[
+        "Trofimovsk"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u043e\u0444\u0456\u043c\u043e\u0432\u0441\u044c\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0631\u0648\u0641\u06cc\u0645\u0648\u0648\u0633\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Trofimovsk"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7279\u7f57\u83f2\u83ab\u592b\u65af\u514b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7279\u7f85\u83f2\u83ab\u592b\u65af\u514b"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
     "ne:ADM0_A3":"RUS",
@@ -125,7 +203,7 @@
     "wof:concordances":{},
     "wof:country":"RU",
     "wof:created":1499130710,
-    "wof:geomhash":"74dfdf85eb25fb251cf10393d97697da",
+    "wof:geomhash":"cbed8bc4688c976b39b011538a01832c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,7 +215,7 @@
         }
     ],
     "wof:id":1141907323,
-    "wof:lastmodified":1566636808,
+    "wof:lastmodified":1636497396,
     "wof:name":"Trofimovsk",
     "wof:parent_id":1108733129,
     "wof:placetype":"locality",
@@ -147,10 +225,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.03368241283044,
-    72.59968874021564,
-    127.03368241283044,
-    72.59968874021564
+    127.033682,
+    72.599689,
+    127.033682,
+    72.599689
 ],
-  "geometry": {"coordinates":[127.03368241283044,72.59968874021564],"type":"Point"}
+  "geometry": {"coordinates":[127.033682,72.599689],"type":"Point"}
 }

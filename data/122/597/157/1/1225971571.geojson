@@ -87,6 +87,9 @@
         "Lom"
     ],
     "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u041b\u043e\u043c"
+    ],
+    "name:rus_x_variant":[
         "\u041b\u043e\u043c"
     ],
     "name:slk_x_preferred":[
@@ -104,8 +107,23 @@
     "name:swe_x_preferred":[
         "Lom"
     ],
+    "name:tur_x_preferred":[
+        "Lom"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u043c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0645"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Lom"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6d1b\u59c6\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6d1b\u59c6\u6cb3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -120,7 +138,7 @@
         "gn:id":534378
     },
     "wof:country":"RU",
-    "wof:geomhash":"c248cdae98eb8e086d9fb52acc721eb0",
+    "wof:geomhash":"b098c1194289eb6128ff56f46e8cdfc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,7 +150,7 @@
         }
     ],
     "wof:id":1225971571,
-    "wof:lastmodified":1566635730,
+    "wof:lastmodified":1636497368,
     "wof:name":"Lom",
     "wof:parent_id":1108737075,
     "wof:placetype":"locality",
@@ -143,9 +161,9 @@
 },
   "bbox": [
     42.68373,
-    59.42319000000001,
+    59.42319,
     42.68373,
-    59.42319000000001
+    59.42319
 ],
-  "geometry": {"coordinates":[42.68373,59.42319000000001],"type":"Point"}
+  "geometry": {"coordinates":[42.68373,59.42319],"type":"Point"}
 }

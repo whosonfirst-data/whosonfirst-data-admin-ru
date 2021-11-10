@@ -41,6 +41,9 @@
     "name:bel_x_preferred":[
         "\u0411\u0430\u0440\u0430\u0432\u0456\u0447\u044b"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cb\u09b0\u09cb\u09ad\u09bf\u099a\u09bf"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0432\u0438\u0447\u0438"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:deu_x_preferred":[
         "Borowitschi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c1\u03bf\u03b2\u03af\u03c4\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Borovichi"
@@ -74,8 +80,17 @@
     "name:haw_x_preferred":[
         "W\u016blowini"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e8\u05d5\u05d1\u05d9\u05e6'\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094b\u0930\u094b\u0935\u093f\u091a\u093f"
+    ],
     "name:hsb_x_preferred":[
         "Borowi\u010di"
+    ],
+    "name:ind_x_preferred":[
+        "Borovichi"
     ],
     "name:ita_x_preferred":[
         "Borovi\u010di"
@@ -137,6 +152,9 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0432\u0438\u0447\u0456"
     ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u0648\u06cc\u0686\u06cc"
+    ],
     "name:vep_x_preferred":[
         "Borovi\u010di"
     ],
@@ -158,7 +176,7 @@
         "gn:id":572156
     },
     "wof:country":"RU",
-    "wof:geomhash":"748b70b421244d5d18d4a4d2981b8b1e",
+    "wof:geomhash":"d1d9199927495854d7a1d63799816a89",
     "wof:hierarchy":[
         {
             "country_id":85632685,
@@ -166,7 +184,7 @@
         }
     ],
     "wof:id":1209650485,
-    "wof:lastmodified":1566623299,
+    "wof:lastmodified":1636497118,
     "wof:name":"Borovichi",
     "wof:parent_id":85632685,
     "wof:placetype":"locality",
@@ -177,9 +195,9 @@
 },
   "bbox": [
     29.64666,
-    57.95614000000001,
+    57.95614,
     29.64666,
-    57.95614000000001
+    57.95614
 ],
-  "geometry": {"coordinates":[29.64666,57.95614000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.64666,57.95614],"type":"Point"}
 }

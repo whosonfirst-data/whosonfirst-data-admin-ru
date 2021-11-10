@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000447,
     "geom:area_square_m":2696670.713401,
-    "geom:bbox":"135.124832153,60.7606124878,135.154525757,60.7861099243",
+    "geom:bbox":"135.124832,60.760612,135.154526,60.78611",
     "geom:latitude":60.771933,
     "geom:longitude":135.141023,
     "iso:country":"RU",
@@ -19,8 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u064a\u0643\u0627\u0646"
+    ],
     "name:bel_x_preferred":[
         "\u042d\u043b\u044c\u0434\u0437\u0456\u043a\u0430\u043d"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b2\u09a6\u09bf\u0995\u09be\u09a8"
     ],
     "name:che_x_preferred":[
         "\u042d\u043b\u044c\u0434\u0438\u043a\u0430\u043d"
@@ -28,10 +34,31 @@
     "name:deu_x_preferred":[
         "Eldikan"
     ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb\u03bd\u03c4\u03b9\u03ba\u03ac\u03bd"
+    ],
     "name:eng_x_preferred":[
         "El'dikan"
     ],
     "name:eng_x_variant":[
+        "Eldikan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062f\u06cc\u06a9\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Eldikan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05d3\u05d9\u05e7\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0932\u094d\u0921\u093f\u0915\u093e\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Eldikan"
+    ],
+    "name:ind_x_preferred":[
         "Eldikan"
     ],
     "name:ita_x_preferred":[
@@ -39,6 +66,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a8\u30ea\u30c7\u30a3\u30ab\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\ub514\uce78"
     ],
     "name:lit_x_preferred":[
         "Eldikanas"
@@ -52,14 +82,35 @@
     "name:pol_x_preferred":[
         "Eldikan"
     ],
+    "name:por_x_preferred":[
+        "Eldikan"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u043b\u044c\u0434\u0438\u043a\u0430\u043d"
     ],
     "name:sah_x_preferred":[
         "\u042d\u043b\u0434\u044c\u0438\u043a\u044d\u044d\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Eldikan"
+    ],
+    "name:swe_x_preferred":[
+        "Eldikan"
+    ],
+    "name:tur_x_preferred":[
+        "Eldikan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c\u0434\u0456\u043a\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "El\u2019dikan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644\u0688\u06cc\u06a9\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Eldikan"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u5229\u5b63\u574e"
@@ -194,7 +245,7 @@
     "wof:geom_alt":[
         "naturalearth"
     ],
-    "wof:geomhash":"5d99b1dc8412faa55d8b934eb8ac036d",
+    "wof:geomhash":"90bf55bc783b865cd945344d46fcd8f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,7 +257,7 @@
         }
     ],
     "wof:id":102002375,
-    "wof:lastmodified":1582329817,
+    "wof:lastmodified":1636496987,
     "wof:name":"Eldikan",
     "wof:parent_id":1108737253,
     "wof:placetype":"locality",
@@ -216,10 +267,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    135.1248321533203,
-    60.76061248779297,
-    135.15452575683594,
-    60.78610992431641
+    135.124832,
+    60.760612,
+    135.154526,
+    60.78611
 ],
-  "geometry": {"coordinates":[[[135.14039611816406,60.78610992431641],[135.15121459960938,60.78385925292969],[135.15296936035156,60.77511215209961],[135.15452575683594,60.76736068725586],[135.14630126953125,60.76610946655273],[135.14080810546875,60.76111221313477],[135.12600708007812,60.76061248779297],[135.12483215332031,60.76386260986328],[135.12838745117188,60.76847076416016],[135.13961791992188,60.78263854980469],[135.13986206054688,60.7829704284668],[135.14039611816406,60.78610992431641]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[135.14039600000001,60.78611],[135.15121500000001,60.783859],[135.15296900000001,60.775112],[135.154526,60.767361],[135.14630099999999,60.766109],[135.14080799999999,60.761112],[135.12600699999999,60.760612],[135.124832,60.763863],[135.128387,60.768471],[135.13961800000001,60.782639],[135.13986199999999,60.78297],[135.14039600000001,60.78611]]],"type":"Polygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000548,
     "geom:area_square_m":3965516.931576,
-    "geom:bbox":"74.7863922119,54.143196106,74.8254470825,54.1692237854",
+    "geom:bbox":"74.786392,54.143196,74.825447,54.169224",
     "geom:latitude":54.156692,
     "geom:longitude":74.806316,
     "gn:population":12122,
@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u0631\u0644\u0627\u0643"
     ],
+    "name:ben_x_preferred":[
+        "\u099a\u09c7\u09b0\u09cd\u09b2\u09c7\u0995"
+    ],
     "name:ceb_x_preferred":[
         "Cherlak"
     ],
@@ -32,17 +35,41 @@
     "name:deu_x_preferred":[
         "Tscherlak"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b5\u03c1\u03bb\u03ac\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Cherlak"
     ],
     "name:est_x_preferred":[
         "T\u0161erlak"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0631\u0644\u0627\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Tcherlak"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u0947\u0930\u0932\u0948\u0915"
+    ],
     "name:hun_x_preferred":[
         "Cserlak"
     ],
     "name:hye_x_preferred":[
         "\u0549\u0565\u0580\u056c\u0561\u056f"
+    ],
+    "name:ind_x_preferred":[
+        "Cherlak"
+    ],
+    "name:ita_x_preferred":[
+        "Cherlak"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30a7\u30eb\u30e9\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\uccbc\ub77d"
     ],
     "name:nld_x_preferred":[
         "Tsjerlak"
@@ -59,8 +86,32 @@
     "name:rus_x_preferred":[
         "\u0427\u0435\u0440\u043b\u0430\u043a"
     ],
+    "name:spa_x_preferred":[
+        "Cherlak"
+    ],
+    "name:swe_x_preferred":[
+        "Tjerlak"
+    ],
+    "name:tur_x_preferred":[
+        "Cherlak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u043b\u0430\u043a"
+    ],
     "name:und_x_variant":[
         "Cherlakskiy"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06cc\u0631\u0644\u0627\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Cherlak"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5207\u62c9\u514b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5207\u723e\u62c9\u514b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -192,7 +243,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5a339c344d8f5b30e71b821d143c8200",
+    "wof:geomhash":"e416c2c609b248c1e62cd8be911db874",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -202,7 +253,7 @@
         }
     ],
     "wof:id":102012503,
-    "wof:lastmodified":1582329756,
+    "wof:lastmodified":1636496930,
     "wof:name":"Cherlak",
     "wof:parent_id":1108733245,
     "wof:placetype":"locality",
@@ -214,10 +265,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    74.78639221191406,
-    54.14319610595703,
-    74.82544708251953,
-    54.16922378540039
+    74.786392,
+    54.143196,
+    74.825447,
+    54.169224
 ],
-  "geometry": {"coordinates":[[[74.78997039794922,54.16655731201172],[74.79680633544922,54.16922378540039],[74.80158233642578,54.16849899291992],[74.81253051757812,54.16164016723633],[74.81944274902344,54.16236114501953],[74.82280731201172,54.15608215332031],[74.82544708251953,54.15116500854492],[74.81805419921875,54.14760971069336],[74.81644439697266,54.14683151245117],[74.80997467041016,54.14369583129883],[74.80819702148438,54.14319610595703],[74.80794525146484,54.14341735839844],[74.80644226074219,54.14477920532227],[74.80577850341797,54.14538955688477],[74.79819488525391,54.14991760253906],[74.79824829101562,54.15052795410156],[74.78639221191406,54.16513824462891],[74.78997039794922,54.16655731201172]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[74.78997,54.166557],[74.796806,54.169224],[74.801582,54.168499],[74.81253100000001,54.16164],[74.81944300000001,54.162361],[74.822807,54.156082],[74.825447,54.151165],[74.818054,54.14761],[74.816444,54.146832],[74.80997499999999,54.143696],[74.80819700000001,54.143196],[74.807945,54.143417],[74.806442,54.144779],[74.805779,54.14539],[74.79819500000001,54.149918],[74.798248,54.150528],[74.78639200000001,54.165138],[74.78997,54.166557]]],"type":"Polygon"}
 }

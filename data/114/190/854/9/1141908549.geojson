@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"91.2333353261,64.4833107698,91.2333353261,64.4833107698",
+    "geom:bbox":"91.233335,64.483311,91.233335,64.483311",
     "geom:latitude":64.483311,
     "geom:longitude":91.233335,
     "iso:country":"RU",
@@ -142,7 +142,13 @@
         "Noginsk"
     ],
     "name:ukr_x_preferred":[
+        "\u041d\u043e\u0433\u0456\u043d\u0441\u043a"
+    ],
+    "name:ukr_x_variant":[
         "\u041d\u043e\u0433\u0456\u043d\u0441\u044c\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u06af\u0646\u0633\u06a9"
     ],
     "name:vie_x_preferred":[
         "Noginsk"
@@ -152,6 +158,12 @@
     ],
     "name:xal_x_preferred":[
         "\u041d\u043e\u0433\u0438\u043d\u0441\u043a \u0431\u0430\u043b\u04bb\u0441\u043d"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8bfa\u91d1\u65af\u514b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8afe\u91d1\u65af\u514b"
     ],
     "name:zho_x_preferred":[
         "\u8afe\u91d1\u65af\u514b"
@@ -263,7 +275,7 @@
     "wof:concordances":{},
     "wof:country":"RU",
     "wof:created":1499130927,
-    "wof:geomhash":"655de43f0770b2737f7b86620529d282",
+    "wof:geomhash":"5d8753c2688e867998279e5f17011554",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -275,7 +287,7 @@
         }
     ],
     "wof:id":1141908549,
-    "wof:lastmodified":1566636810,
+    "wof:lastmodified":1636497398,
     "wof:name":"Noginsk",
     "wof:parent_id":1108733461,
     "wof:placetype":"locality",
@@ -285,10 +297,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    91.23333532609882,
-    64.4833107698056,
-    91.23333532609882,
-    64.4833107698056
+    91.233335,
+    64.483311,
+    91.233335,
+    64.483311
 ],
-  "geometry": {"coordinates":[91.23333532609882,64.4833107698056],"type":"Point"}
+  "geometry": {"coordinates":[91.233335,64.483311],"type":"Point"}
 }

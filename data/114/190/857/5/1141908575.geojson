@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"125.993280801,70.211359069,125.993280801,70.211359069",
+    "geom:bbox":"125.993281,70.211359,125.993281,70.211359",
     "geom:latitude":70.211359,
     "geom:longitude":125.993281,
     "iso:country":"RU",
@@ -25,16 +25,43 @@
         "\u10d2\u10dd\u10d5\u10dd\u10e0\u10dd\u10d5\u10dd"
     ],
     "name:kor_x_preferred":[
+        "\uace0\ubcf4\ub85c\ubcf4"
+    ],
+    "name:kor_x_variant":[
         "\uace0\ubcf4\ub85c\ubcf4 \uc5ed"
     ],
     "name:nld_x_preferred":[
         "Govorovo"
     ],
+    "name:pol_x_preferred":[
+        "Govorovo"
+    ],
+    "name:por_x_preferred":[
+        "Govorovo"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u0432\u043e\u0440\u043e\u0432\u043e"
     ],
+    "name:swe_x_preferred":[
+        "Govorovo"
+    ],
+    "name:tur_x_preferred":[
+        "Govorovo"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0432\u043e\u0440\u043e\u0432\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0648\u0648\u0631\u0648'\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Govorovo"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6208\u6c83\u7f57\u6c83"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6208\u6c83\u7f85\u6c83"
     ],
     "name:zho_x_preferred":[
         "\u6208\u6c83\u7f57\u6c83\u7ad9"
@@ -146,7 +173,7 @@
     "wof:concordances":{},
     "wof:country":"RU",
     "wof:created":1499130933,
-    "wof:geomhash":"f6b980f967398528e8f7c0c3ede11263",
+    "wof:geomhash":"89721b846557a64ba564d9c38349c43b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,7 +185,7 @@
         }
     ],
     "wof:id":1141908575,
-    "wof:lastmodified":1566636804,
+    "wof:lastmodified":1636497392,
     "wof:name":"Govorovo",
     "wof:parent_id":1108733129,
     "wof:placetype":"locality",
@@ -168,10 +195,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    125.99328080149814,
-    70.21135906898223,
-    125.99328080149814,
-    70.21135906898223
+    125.993281,
+    70.211359,
+    125.993281,
+    70.211359
 ],
-  "geometry": {"coordinates":[125.99328080149814,70.21135906898223],"type":"Point"}
+  "geometry": {"coordinates":[125.993281,70.211359],"type":"Point"}
 }

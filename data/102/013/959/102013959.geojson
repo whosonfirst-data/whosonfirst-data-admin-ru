@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000583,
     "geom:area_square_m":4036269.915405,
-    "geom:bbox":"97.8009262085,55.944519043,97.8496246338,55.9696006775",
+    "geom:bbox":"97.800926,55.944519,97.849625,55.969601",
     "geom:latitude":55.957844,
     "geom:longitude":97.822015,
     "gn:latitude":55.9634,
@@ -37,6 +37,9 @@
     "name:bel_x_variant":[
         "\u0411\u0456\u0440\u0443\u0441\u0456\u043d\u0441\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09bf\u09b0\u09bf\u09df\u09c1\u09b8\u09bf\u09a8\u09b8\u09cd\u0995"
+    ],
     "name:cat_x_preferred":[
         "Biriussinsk"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:diq_x_preferred":[
         "Biryusinsk"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03c1\u03b9\u03bf\u03c5\u03c3\u03b9\u03bd\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Biryusinsk"
@@ -67,14 +73,26 @@
     "name:fra_x_preferred":[
         "Birioussinsk"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05e8\u05d9\u05d5\u05e1\u05d9\u05e0\u05e1\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093f\u0930\u094d\u092f\u0941\u0938\u093f\u0902\u0938\u094d\u0915"
+    ],
     "name:hsb_x_preferred":[
         "Birjusinsk"
     ],
     "name:hun_x_preferred":[
         "Birjuszinszk"
     ],
+    "name:ind_x_preferred":[
+        "Biryusinsk"
+    ],
     "name:ita_x_preferred":[
         "Birjusinsk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30ea\u30e5\u30b7\u30f3\u30b9\u30af"
     ],
     "name:kor_x_preferred":[
         "\ube44\ub958\uc2e0\uc2a4\ud06c"
@@ -96,6 +114,9 @@
     ],
     "name:pol_x_preferred":[
         "Biriusinsk"
+    ],
+    "name:por_x_preferred":[
+        "Biryusinsk"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0438\u0440\u044e\u0441\u0438\u043d\u0441\u043a"
@@ -132,6 +153,9 @@
     ],
     "name:vep_x_preferred":[
         "Bir\u00fcsinsk"
+    ],
+    "name:vie_x_preferred":[
+        "Biryusinsk"
     ],
     "name:war_x_preferred":[
         "Biryusinsk"
@@ -272,7 +296,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8fa6de405e24b8c71c87a0e5fc3ddbd7",
+    "wof:geomhash":"3a96b279820ffe3c955b07ecae8270a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -282,7 +306,7 @@
         }
     ],
     "wof:id":102013959,
-    "wof:lastmodified":1582329761,
+    "wof:lastmodified":1636496937,
     "wof:name":"Biryusinsk",
     "wof:parent_id":1108736917,
     "wof:placetype":"locality",
@@ -294,10 +318,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    97.8009262084961,
-    55.94451904296875,
-    97.84962463378906,
-    55.96960067749023
+    97.800926,
+    55.944519,
+    97.849625,
+    55.969601
 ],
-  "geometry": {"coordinates":[[[97.84145355224609,55.96071624755859],[97.83826446533203,55.95866775512695],[97.83583831787109,55.95456314086914],[97.829345703125,55.95501327514648],[97.82529449462891,55.95045471191406],[97.81636810302734,55.94908142089844],[97.81231689453125,55.94451904296875],[97.80177307128906,55.94684600830078],[97.80092620849609,55.95271682739258],[97.81063842773438,55.96321105957031],[97.82282257080078,55.96458435058594],[97.82686614990234,55.96960067749023],[97.82802581787109,55.96941375732422],[97.82941436767578,55.96919250488281],[97.84962463378906,55.96596527099609],[97.84145355224609,55.96071624755859]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[97.841454,55.960716],[97.838264,55.958668],[97.835838,55.954563],[97.829346,55.955013],[97.825294,55.950455],[97.816368,55.949081],[97.81231699999999,55.944519],[97.801773,55.946846],[97.800926,55.952717],[97.810638,55.963211],[97.822823,55.964584],[97.826866,55.969601],[97.82802599999999,55.969414],[97.829414,55.969193],[97.849625,55.965965],[97.841454,55.960716]]],"type":"Polygon"}
 }

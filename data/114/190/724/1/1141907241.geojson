@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.4940986724,62.0446224153,74.4940986724,62.0446224153",
+    "geom:bbox":"74.494099,62.044622,74.494099,62.044622",
     "geom:latitude":62.044622,
     "geom:longitude":74.494099,
     "iso:country":"RU",
@@ -30,6 +30,9 @@
     "name:bel_x_preferred":[
         "\u041a\u0430\u0433\u0430\u043b\u044b\u043c"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u0997\u09be\u09b2\u09bf\u09ae"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u0433\u0430\u043b\u0438\u043c"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:deu_x_preferred":[
         "Kogalym"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03b3\u03ba\u03b1\u03bb\u03bf\u03cd\u03bc"
     ],
     "name:epo_x_preferred":[
         "Kogalimo"
@@ -57,7 +63,19 @@
     "name:fra_x_preferred":[
         "Kogalym"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d2\u05dc\u05d9\u05dd"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0917\u093e\u0932\u093f\u092e"
+    ],
     "name:hsb_x_preferred":[
+        "Kogalym"
+    ],
+    "name:hun_x_preferred":[
+        "Kogalym"
+    ],
+    "name:ind_x_preferred":[
         "Kogalym"
     ],
     "name:ita_x_preferred":[
@@ -65,6 +83,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30ac\u30ea\u30e0"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf54\uac08\ub9bc"
     ],
     "name:lit_x_preferred":[
         "Kogalymas"
@@ -87,11 +108,17 @@
     "name:pol_x_preferred":[
         "Koga\u0142ym"
     ],
+    "name:por_x_preferred":[
+        "Kogalym"
+    ],
     "name:ron_x_preferred":[
         "Kogal\u00eem"
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0433\u0430\u043b\u044b\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Kogalym"
     ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0433\u0430\u043b\u0438\u043c"
@@ -236,7 +263,7 @@
     "wof:concordances":{},
     "wof:country":"RU",
     "wof:created":1499130700,
-    "wof:geomhash":"a8fd3ee1d7e12f4058b969270d6b06bf",
+    "wof:geomhash":"8376bb42802614503c40729ba2756eba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -248,7 +275,7 @@
         }
     ],
     "wof:id":1141907241,
-    "wof:lastmodified":1566636806,
+    "wof:lastmodified":1636497395,
     "wof:name":"Kogalym",
     "wof:parent_id":890480111,
     "wof:placetype":"locality",
@@ -258,10 +285,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    74.49409867238609,
-    62.04462241530359,
-    74.49409867238609,
-    62.04462241530359
+    74.494099,
+    62.044622,
+    74.494099,
+    62.044622
 ],
-  "geometry": {"coordinates":[74.49409867238609,62.04462241530359],"type":"Point"}
+  "geometry": {"coordinates":[74.49409900000001,62.044622],"type":"Point"}
 }

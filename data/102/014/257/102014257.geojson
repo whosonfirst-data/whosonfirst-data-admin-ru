@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000904,
     "geom:area_square_m":6712349.140382,
-    "geom:bbox":"91.3678894043,53.0791168213,91.4130935669,53.1084823608",
+    "geom:bbox":"91.367889,53.079117,91.413094,53.108482",
     "geom:latitude":53.095543,
     "geom:longitude":91.392642,
     "gn:latitude":53.0875,
@@ -34,6 +34,9 @@
     "name:bel_x_variant":[
         "\u0421\u0430\u044f\u043d\u0430\u0433\u043e\u0440\u0441\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09df\u09be\u09a8\u09cb\u0997\u09b0\u09cd\u09b8\u09cd\u0995"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u044f\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:deu_x_preferred":[
         "Sajanogorsk"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03b3\u03b9\u03b1\u03bd\u03cc\u03b3\u03ba\u03bf\u03c1\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Sayanogorsk"
@@ -64,17 +70,35 @@
     "name:fra_x_preferred":[
         "Sa\u00efanogorsk"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05d9\u05d0\u05e0\u05d5\u05d2\u05d5\u05e8\u05e1\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u092f\u093e\u0928\u094b\u0917\u094b\u0930\u094d\u0938\u094d\u0915"
+    ],
     "name:hrv_x_preferred":[
         "Sajanogorsk"
     ],
     "name:hsb_x_preferred":[
         "Sajanogorsk"
     ],
+    "name:hun_x_preferred":[
+        "Szajanogorszk"
+    ],
+    "name:ind_x_preferred":[
+        "Sayanogorsk"
+    ],
     "name:ita_x_preferred":[
         "Sajanogorsk"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30e4\u30ce\u30b4\u30eb\u30b9\u30af"
+    ],
     "name:kjh_x_preferred":[
         "\u0421\u0430\u044f\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\uc57c\ub178\uace0\ub974\uc2a4\ud06c"
     ],
     "name:lit_x_preferred":[
         "Sajanogorskas"
@@ -97,6 +121,9 @@
     "name:pol_x_preferred":[
         "Sajanogorsk"
     ],
+    "name:por_x_preferred":[
+        "Sayanogorsk"
+    ],
     "name:ron_x_preferred":[
         "Saianogorsk"
     ],
@@ -111,6 +138,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0421\u0430\u0458\u0430\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Sajanogorsk"
     ],
     "name:tat_x_preferred":[
         "\u0421\u0430\u044f\u043d\u043e\u0433\u043e\u0440\u0441\u043a"
@@ -129,6 +159,9 @@
     ],
     "name:und_x_variant":[
         "Oznachennoye"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u06cc\u0627\u0646\u0648\u06af\u0648\u0631\u0633\u06a9"
     ],
     "name:vep_x_preferred":[
         "Sajanogorsk"
@@ -275,7 +308,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"15ec30f4a96c031cce5e24ed1779df97",
+    "wof:geomhash":"6f84c9e295a072cbab4a9d0e206e2912",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -285,7 +318,7 @@
         }
     ],
     "wof:id":102014257,
-    "wof:lastmodified":1582329764,
+    "wof:lastmodified":1636496942,
     "wof:name":"Sayanogorsk",
     "wof:parent_id":1108736357,
     "wof:placetype":"locality",
@@ -297,10 +330,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    91.36788940429688,
-    53.07911682128906,
-    91.41309356689453,
-    53.10848236083984
+    91.367889,
+    53.079117,
+    91.413094,
+    53.108482
 ],
-  "geometry": {"coordinates":[[[91.39766693115234,53.07961654663086],[91.38694763183594,53.08085250854492],[91.3857421875,53.08098983764648],[91.37647247314453,53.09196472167969],[91.37088012695312,53.10272979736328],[91.36788940429688,53.10848236083984],[91.3697509765625,53.10836410522461],[91.37247467041016,53.10819244384766],[91.38566589355469,53.10736083984375],[91.40680694580078,53.10602569580078],[91.41098785400391,53.10576248168945],[91.412841796875,53.10356521606445],[91.41295623779297,53.09816741943359],[91.41309356689453,53.09164810180664],[91.41190338134766,53.08943557739258],[91.41130828857422,53.08833694458008],[91.40388488769531,53.08702087402344],[91.40201568603516,53.07911682128906],[91.39766693115234,53.07961654663086]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[91.397667,53.079617],[91.386948,53.080853],[91.38574199999999,53.08099],[91.37647200000001,53.091965],[91.37088,53.10273],[91.36788900000001,53.108482],[91.36975099999999,53.108364],[91.37247499999999,53.108192],[91.385666,53.107361],[91.406807,53.106026],[91.410988,53.105762],[91.412842,53.103565],[91.41295599999999,53.098167],[91.413094,53.091648],[91.411903,53.089436],[91.41130800000001,53.088337],[91.403885,53.087021],[91.402016,53.079117],[91.397667,53.079617]]],"type":"Polygon"}
 }

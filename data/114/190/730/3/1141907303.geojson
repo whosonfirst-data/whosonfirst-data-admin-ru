@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"104.250008503,77.7169732861,104.250008503,77.7169732861",
+    "geom:bbox":"104.250009,77.716973,104.250009,77.716973",
     "geom:latitude":77.716973,
     "geom:longitude":104.250009,
     "iso:country":"RU",
@@ -37,10 +37,40 @@
         "\u010celjuskin"
     ],
     "name:nld_x_preferred":[
+        "Chelyuskin"
+    ],
+    "name:nld_x_variant":[
         "Tsjeljoeskin"
+    ],
+    "name:pol_x_preferred":[
+        "Chelyuskin"
+    ],
+    "name:por_x_preferred":[
+        "Chelyuskin"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u043b\u044e\u0441\u043a\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Cheljuskin"
+    ],
+    "name:tur_x_preferred":[
+        "Chelyuskin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u043b\u044e\u0441\u043a\u0456\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06cc\u0644\u06cc \u0627\u0633\u06a9\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Chelyuskin"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5207\u67f3\u65af\u91d1\u89d2"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5207\u67f3\u65af\u91d1"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -145,7 +175,7 @@
     "wof:concordances":{},
     "wof:country":"RU",
     "wof:created":1499130707,
-    "wof:geomhash":"0002af52b3af97ac72df75a3381d981b",
+    "wof:geomhash":"56324baad10e6cd3eedca3323569023f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -155,7 +185,7 @@
         }
     ],
     "wof:id":1141907303,
-    "wof:lastmodified":1566636801,
+    "wof:lastmodified":1636497389,
     "wof:name":"Chelyuskin",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -165,10 +195,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    104.2500085032342,
-    77.71697328613465,
-    104.2500085032342,
-    77.71697328613465
+    104.250009,
+    77.716973,
+    104.250009,
+    77.716973
 ],
-  "geometry": {"coordinates":[104.2500085032342,77.71697328613465],"type":"Point"}
+  "geometry": {"coordinates":[104.25000900000001,77.716973],"type":"Point"}
 }

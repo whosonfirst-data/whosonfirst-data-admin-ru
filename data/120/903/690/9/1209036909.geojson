@@ -38,6 +38,9 @@
     "name:bel_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0448"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09a8\u09be\u09b6"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0448"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:deu_x_preferred":[
         "Kanasch"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bd\u03ac\u03c2"
     ],
     "name:eng_x_preferred":[
         "Kanash"
@@ -74,11 +80,23 @@
     "name:fra_x_preferred":[
         "Kanach"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e0\u05d0\u05e9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0928\u093e\u0936"
+    ],
     "name:hrv_x_preferred":[
         "Kana\u0161"
     ],
     "name:hsb_x_preferred":[
         "Kana\u0161"
+    ],
+    "name:hun_x_preferred":[
+        "Kanash"
+    ],
+    "name:ind_x_preferred":[
+        "Kanash"
     ],
     "name:ita_x_preferred":[
         "Kana\u0161"
@@ -116,6 +134,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0448"
     ],
+    "name:spa_x_preferred":[
+        "Kanash"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0448"
     ],
@@ -133,6 +154,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0448"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0646\u0627\u0634"
     ],
     "name:vep_x_preferred":[
         "Kana\u0161"
@@ -155,7 +179,7 @@
         "gn:id":1504720
     },
     "wof:country":"RU",
-    "wof:geomhash":"08f0bac5322648087d8b2c5943712ad3",
+    "wof:geomhash":"b1ac5537b570abe99020f609c2182798",
     "wof:hierarchy":[
         {
             "country_id":85632685,
@@ -163,7 +187,7 @@
         }
     ],
     "wof:id":1209036909,
-    "wof:lastmodified":1566624340,
+    "wof:lastmodified":1636497138,
     "wof:name":"Kanash",
     "wof:parent_id":85632685,
     "wof:placetype":"locality",
@@ -173,10 +197,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    78.82316999999998,
+    78.82317,
     56.24841,
-    78.82316999999998,
+    78.82317,
     56.24841
 ],
-  "geometry": {"coordinates":[78.82316999999998,56.24841],"type":"Point"}
+  "geometry": {"coordinates":[78.82317,56.24841],"type":"Point"}
 }

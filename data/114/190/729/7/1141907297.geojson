@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"97.5000329173,70.766984069,97.5000329173,70.766984069",
+    "geom:bbox":"97.500033,70.766984,97.500033,70.766984",
     "geom:latitude":70.766984,
     "geom:longitude":97.500033,
     "iso:country":"RU",
@@ -82,7 +82,16 @@
         "\u0411\u043e\u044f\u0440\u043a\u0430"
     ],
     "name:vie_x_preferred":[
+        "Boyarka"
+    ],
+    "name:vie_x_variant":[
         "Boiarka"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u535a\u4e9a\u5c14\u5361"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u535a\u4e9e\u5361"
     ],
     "name:zho_x_preferred":[
         "\u535a\u4e9e\u723e\u5361"
@@ -194,7 +203,7 @@
     "wof:concordances":{},
     "wof:country":"RU",
     "wof:created":1499130707,
-    "wof:geomhash":"e338a6a3c607e6b1388fb67c18fd213d",
+    "wof:geomhash":"6662341a42a5aeb8b56fbe47a1d62768",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,7 +215,7 @@
         }
     ],
     "wof:id":1141907297,
-    "wof:lastmodified":1566636812,
+    "wof:lastmodified":1636497401,
     "wof:name":"Boyarka",
     "wof:parent_id":1108736913,
     "wof:placetype":"locality",
@@ -216,10 +225,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    97.50003291726966,
-    70.76698406898436,
-    97.50003291726966,
-    70.76698406898436
+    97.500033,
+    70.766984,
+    97.500033,
+    70.766984
 ],
-  "geometry": {"coordinates":[97.50003291726966,70.76698406898436],"type":"Point"}
+  "geometry": {"coordinates":[97.500033,70.76698399999999],"type":"Point"}
 }

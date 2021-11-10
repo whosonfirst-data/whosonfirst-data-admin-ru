@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"105.759993855,56.7649705191,105.759993855,56.7649705191",
+    "geom:bbox":"105.759994,56.764971,105.759994,56.764971",
     "geom:latitude":56.764971,
     "geom:longitude":105.759994,
     "iso:country":"RU",
@@ -30,6 +30,9 @@
     "name:bel_x_preferred":[
         "\u0423\u0441\u0446\u044c-\u041a\u0443\u0442"
     ],
+    "name:ben_x_preferred":[
+        "\u0989\u09b8\u09cd\u09a4 \u0995\u09c1\u09a4"
+    ],
     "name:cat_x_preferred":[
         "Ust-Kut"
     ],
@@ -51,6 +54,9 @@
     "name:deu_x_preferred":[
         "Ust-Kut"
     ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03c3\u03c4 \u039a\u03bf\u03c5\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Ust-Kut"
     ],
@@ -66,11 +72,20 @@
     "name:fra_x_preferred":[
         "Oust-Kout"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e1\u05d8 \u05e7\u05d5\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0909\u0938\u094d\u0924 \u0915\u0941\u0924"
+    ],
     "name:hsb_x_preferred":[
         "Ust-Kut"
     ],
     "name:hun_x_preferred":[
         "Uszty-Kut"
+    ],
+    "name:ind_x_preferred":[
+        "Ust Kut"
     ],
     "name:ita_x_preferred":[
         "Ust'-Kut"
@@ -92,6 +107,9 @@
     ],
     "name:pol_x_preferred":[
         "Ust'-Kut"
+    ],
+    "name:por_x_preferred":[
+        "Ust-Kut"
     ],
     "name:rus_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u041a\u0443\u0442"
@@ -122,6 +140,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u041a\u0443\u0442"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0633\u0679 \u06a9\u0679"
     ],
     "name:vep_x_preferred":[
         "Ust'-Kut"
@@ -241,7 +262,7 @@
     },
     "wof:country":"RU",
     "wof:created":1499130929,
-    "wof:geomhash":"c7a273065bd88aa1fdbafa481c494fd7",
+    "wof:geomhash":"b0ec0c3b6d64683badcfe88148296c84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -253,7 +274,7 @@
         }
     ],
     "wof:id":1141908553,
-    "wof:lastmodified":1566636811,
+    "wof:lastmodified":1636497399,
     "wof:name":"Ust Kut",
     "wof:parent_id":1108737251,
     "wof:placetype":"locality",
@@ -263,10 +284,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.75999385480276,
-    56.76497051912372,
-    105.75999385480276,
-    56.76497051912372
+    105.759994,
+    56.764971,
+    105.759994,
+    56.764971
 ],
-  "geometry": {"coordinates":[105.75999385480276,56.76497051912372],"type":"Point"}
+  "geometry": {"coordinates":[105.75999400000001,56.764971],"type":"Point"}
 }

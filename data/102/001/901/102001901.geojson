@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000541,
     "geom:area_square_m":2516425.381944,
-    "geom:bbox":"32.8130569458,67.9040527344,32.8522796631,67.927696228",
+    "geom:bbox":"32.813057,67.904053,32.85228,67.927696",
     "geom:latitude":67.914097,
     "geom:longitude":32.832027,
     "gn:latitude":67.93972,
@@ -37,6 +37,9 @@
     "name:bel_x_variant":[
         "\u041c\u0430\u043d\u0447\u0430\u0433\u043e\u0440\u0441\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09a8\u099a\u09c7\u0997\u09b0\u09cd\u09b8\u09cd\u0995"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u0447\u0435\u0433\u043e\u0440\u0441\u043a"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:deu_x_preferred":[
         "Montschegorsk"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03c4\u03c3\u03b5\u03c1\u03b3\u03cc\u03c1\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Monchegorsk"
@@ -79,8 +85,17 @@
     "name:haw_x_preferred":[
         "Nokenoski"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05e6'\u05d2\u05d5\u05e8\u05e1\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0902\u091a\u0947\u0917\u094b\u0930\u094d\u0938\u094d\u0915"
+    ],
     "name:hsb_x_preferred":[
         "Mon\u010degorsk"
+    ],
+    "name:hun_x_preferred":[
+        "Monchegorsk"
     ],
     "name:ind_x_preferred":[
         "Monchegorsk"
@@ -157,8 +172,14 @@
     "name:und_x_variant":[
         "Moncha Guba"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0646\u0686\u06cc\u06af\u0648\u0631\u0633\u06a9"
+    ],
     "name:vep_x_preferred":[
         "Mon\u010degorsk"
+    ],
+    "name:vie_x_preferred":[
+        "Monchegorsk"
     ],
     "name:war_x_preferred":[
         "Monchegorsk"
@@ -208,7 +229,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5e840ac360c83f893f6a282a45b44d6a",
+    "wof:geomhash":"53e0286edaa970e6ebc8035d6d4e26d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -220,7 +241,7 @@
         }
     ],
     "wof:id":102001901,
-    "wof:lastmodified":1582329781,
+    "wof:lastmodified":1636496956,
     "wof:name":"Monchegorsk",
     "wof:parent_id":890483467,
     "wof:placetype":"locality",
@@ -232,10 +253,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.81305694580078,
-    67.904052734375,
-    32.85227966308594,
-    67.92769622802734
+    32.813057,
+    67.904053,
+    32.85228,
+    67.927696
 ],
-  "geometry": {"coordinates":[[[32.82077789306641,67.904052734375],[32.81922149658203,67.90583038330078],[32.81305694580078,67.91513824462891],[32.81861114501953,67.91664123535156],[32.82619476318359,67.9254150390625],[32.83355712890625,67.9254150390625],[32.84194564819336,67.92769622802734],[32.84094619750977,67.914306640625],[32.85227966308594,67.91219329833984],[32.85227966308594,67.90941619873047],[32.84708404541016,67.90605926513672],[32.82077789306641,67.904052734375]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[32.820778,67.904053],[32.819221,67.90582999999999],[32.813057,67.915138],[32.818611,67.916641],[32.826195,67.925415],[32.833557,67.925415],[32.841946,67.927696],[32.840946,67.91430699999999],[32.85228,67.912193],[32.85228,67.90941599999999],[32.847084,67.906059],[32.820778,67.904053]]],"type":"Polygon"}
 }
