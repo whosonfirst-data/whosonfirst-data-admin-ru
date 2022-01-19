@@ -44,7 +44,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632685
+        85687865,
+        102191581,
+        85632685,
+        874393555,
+        1108737521
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +58,18 @@
     "wof:geomhash":"f4f06c553a83f4fd9e4b5a3ab1fade62",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632685,
-            "locality_id":1209441905
+            "county_id":1108737521,
+            "empire_id":874393555,
+            "locality_id":1209441905,
+            "region_id":85687865
         }
     ],
     "wof:id":1209441905,
-    "wof:lastmodified":1566625092,
+    "wof:lastmodified":1642622815,
     "wof:name":"Chernorechenskoye",
-    "wof:parent_id":85632685,
+    "wof:parent_id":1108737521,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],

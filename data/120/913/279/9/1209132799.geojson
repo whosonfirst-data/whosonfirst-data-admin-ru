@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632685
+        85687865,
+        102191581,
+        85632685,
+        874393555,
+        1108735973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"ca3da7d3318a605d0e95f6db395f4ff8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632685,
-            "locality_id":1209132799
+            "county_id":1108735973,
+            "empire_id":874393555,
+            "locality_id":1209132799,
+            "region_id":85687865
         }
     ],
     "wof:id":1209132799,
-    "wof:lastmodified":1566624106,
+    "wof:lastmodified":1642622814,
     "wof:name":"Barkhoyev",
-    "wof:parent_id":85632685,
+    "wof:parent_id":1108735973,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],

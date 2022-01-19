@@ -31,7 +31,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632685
+        85687865,
+        102191581,
+        85632685,
+        874393555,
+        890481985
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +45,18 @@
     "wof:geomhash":"186b4c76d6b69fd092e83c81493414ee",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632685,
-            "locality_id":1209123167
+            "county_id":890481985,
+            "empire_id":874393555,
+            "locality_id":1209123167,
+            "region_id":85687865
         }
     ],
     "wof:id":1209123167,
-    "wof:lastmodified":1566623801,
+    "wof:lastmodified":1642622812,
     "wof:name":"Mastidzhan",
-    "wof:parent_id":85632685,
+    "wof:parent_id":890481985,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],

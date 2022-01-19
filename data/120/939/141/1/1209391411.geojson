@@ -31,7 +31,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632685
+        85688015,
+        102191581,
+        85632685,
+        874393555,
+        1108734033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +45,18 @@
     "wof:geomhash":"4dded20545786a1d3b503d848ab86c4c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632685,
-            "locality_id":1209391411
+            "county_id":1108734033,
+            "empire_id":874393555,
+            "locality_id":1209391411,
+            "region_id":85688015
         }
     ],
     "wof:id":1209391411,
-    "wof:lastmodified":1566623344,
+    "wof:lastmodified":1642622913,
     "wof:name":"Kotty",
-    "wof:parent_id":85632685,
+    "wof:parent_id":1108734033,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],

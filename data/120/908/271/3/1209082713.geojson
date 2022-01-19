@@ -34,7 +34,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632685
+        85688015,
+        102191581,
+        85632685,
+        874393555,
+        1108734033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +48,18 @@
     "wof:geomhash":"69de17f58e61d48f8d2a72c0033d29bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632685,
-            "locality_id":1209082713
+            "county_id":1108734033,
+            "empire_id":874393555,
+            "locality_id":1209082713,
+            "region_id":85688015
         }
     ],
     "wof:id":1209082713,
-    "wof:lastmodified":1566623373,
+    "wof:lastmodified":1642622908,
     "wof:name":"Gugatoy",
-    "wof:parent_id":85632685,
+    "wof:parent_id":1108734033,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],

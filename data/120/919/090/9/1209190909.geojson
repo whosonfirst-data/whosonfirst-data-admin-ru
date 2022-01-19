@@ -40,7 +40,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632685
+        85688015,
+        102191581,
+        85632685,
+        874393555,
+        1108735573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +54,18 @@
     "wof:geomhash":"a958940128d2a7ac7fdea6c16cbb2c6f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632685,
-            "locality_id":1209190909
+            "county_id":1108735573,
+            "empire_id":874393555,
+            "locality_id":1209190909,
+            "region_id":85688015
         }
     ],
     "wof:id":1209190909,
-    "wof:lastmodified":1566624995,
+    "wof:lastmodified":1642622910,
     "wof:name":"Sogunty",
-    "wof:parent_id":85632685,
+    "wof:parent_id":1108735573,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],

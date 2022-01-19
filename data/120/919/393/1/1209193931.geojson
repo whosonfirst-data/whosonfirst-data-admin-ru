@@ -50,7 +50,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632685
+        85688015,
+        102191581,
+        85632685,
+        874393555,
+        1108737311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +64,18 @@
     "wof:geomhash":"061b543591449d28669df59d9dbdfe6d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632685,
-            "locality_id":1209193931
+            "county_id":1108737311,
+            "empire_id":874393555,
+            "locality_id":1209193931,
+            "region_id":85688015
         }
     ],
     "wof:id":1209193931,
-    "wof:lastmodified":1566624998,
+    "wof:lastmodified":1642622911,
     "wof:name":"Eshilkhatoy",
-    "wof:parent_id":85632685,
+    "wof:parent_id":1108737311,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],

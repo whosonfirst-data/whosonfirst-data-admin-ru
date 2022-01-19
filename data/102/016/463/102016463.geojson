@@ -208,9 +208,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85687865,
         102191581,
         85632685,
-        85687865,
+        874393555,
         1108732765
     ],
     "wof:breaches":[],
@@ -230,12 +231,14 @@
         {
             "continent_id":102191581,
             "country_id":85632685,
+            "county_id":1108732765,
+            "empire_id":874393555,
             "locality_id":102016463,
             "region_id":85687865
         }
     ],
     "wof:id":102016463,
-    "wof:lastmodified":1582329791,
+    "wof:lastmodified":1642622809,
     "wof:name":"Ardon",
     "wof:parent_id":1108732765,
     "wof:placetype":"locality",

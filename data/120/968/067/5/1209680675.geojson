@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632685
+        1762780975,
+        102191581,
+        85632685,
+        874393555,
+        1108736841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +52,18 @@
     "wof:geomhash":"914faa36f139f24b8866f48a2c6f365e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632685,
-            "locality_id":1209680675
+            "county_id":1108736841,
+            "empire_id":874393555,
+            "locality_id":1209680675,
+            "region_id":1762780975
         }
     ],
     "wof:id":1209680675,
-    "wof:lastmodified":1566624190,
+    "wof:lastmodified":1642622726,
     "wof:name":"Samiogoch",
-    "wof:parent_id":85632685,
+    "wof:parent_id":1108736841,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
