@@ -73,7 +73,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632685
+        85688015,
+        102191581,
+        85632685,
+        874393555,
+        1108736517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,14 +87,18 @@
     "wof:geomhash":"31ca90759320a29d916b6d592e5616e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632685,
-            "locality_id":1209300979
+            "county_id":1108736517,
+            "empire_id":874393555,
+            "locality_id":1209300979,
+            "region_id":85688015
         }
     ],
     "wof:id":1209300979,
-    "wof:lastmodified":1566623363,
+    "wof:lastmodified":1642622912,
     "wof:name":"Kiri",
-    "wof:parent_id":85632685,
+    "wof:parent_id":1108736517,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],

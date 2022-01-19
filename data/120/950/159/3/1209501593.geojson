@@ -34,7 +34,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632685
+        85688015,
+        102191581,
+        85632685,
+        874393555,
+        1108734033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +48,18 @@
     "wof:geomhash":"aa4ec9dd1cb7c63c9df275b2c47bb0c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632685,
-            "locality_id":1209501593
+            "county_id":1108734033,
+            "empire_id":874393555,
+            "locality_id":1209501593,
+            "region_id":85688015
         }
     ],
     "wof:id":1209501593,
-    "wof:lastmodified":1566624160,
+    "wof:lastmodified":1642622915,
     "wof:name":"Dzharkhoy",
-    "wof:parent_id":85632685,
+    "wof:parent_id":1108734033,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],

@@ -49,7 +49,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632685
+        85687865,
+        102191581,
+        85632685,
+        874393555,
+        890481985
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +63,18 @@
     "wof:geomhash":"90809c7f6bdb8f80e1607411fa28d65c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632685,
-            "locality_id":1209239963
+            "county_id":890481985,
+            "empire_id":874393555,
+            "locality_id":1209239963,
+            "region_id":85687865
         }
     ],
     "wof:id":1209239963,
-    "wof:lastmodified":1566623877,
+    "wof:lastmodified":1642622816,
     "wof:name":"Galon",
-    "wof:parent_id":85632685,
+    "wof:parent_id":890481985,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],

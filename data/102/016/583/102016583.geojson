@@ -58,9 +58,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85688015,
         102191581,
         85632685,
-        85688015,
+        874393555,
         1108736547
     ],
     "wof:breaches":[],
@@ -78,12 +79,14 @@
         {
             "continent_id":102191581,
             "country_id":85632685,
+            "county_id":1108736547,
+            "empire_id":874393555,
             "locality_id":102016583,
             "region_id":85688015
         }
     ],
     "wof:id":102016583,
-    "wof:lastmodified":1582329795,
+    "wof:lastmodified":1642622903,
     "wof:name":"Grebenskaya",
     "wof:parent_id":1108736547,
     "wof:placetype":"locality",

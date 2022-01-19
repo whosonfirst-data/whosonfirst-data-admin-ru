@@ -31,7 +31,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632685
+        85688015,
+        102191581,
+        85632685,
+        874393555,
+        1108737311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +45,18 @@
     "wof:geomhash":"cfccd52b0b598dba10c13ea1697c28b0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632685,
-            "locality_id":1209592217
+            "county_id":1108737311,
+            "empire_id":874393555,
+            "locality_id":1209592217,
+            "region_id":85688015
         }
     ],
     "wof:id":1209592217,
-    "wof:lastmodified":1566624239,
+    "wof:lastmodified":1642622916,
     "wof:name":"Zazergany",
-    "wof:parent_id":85632685,
+    "wof:parent_id":1108737311,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],

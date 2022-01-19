@@ -34,7 +34,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632685
+        85687865,
+        102191581,
+        85632685,
+        874393555,
+        890481985
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +48,18 @@
     "wof:geomhash":"538392e606a2ec85c1c9cfacb03e45ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632685,
-            "locality_id":1209036599
+            "county_id":890481985,
+            "empire_id":874393555,
+            "locality_id":1209036599,
+            "region_id":85687865
         }
     ],
     "wof:id":1209036599,
-    "wof:lastmodified":1566624299,
+    "wof:lastmodified":1642622816,
     "wof:name":"Nizhniy Biragzang",
-    "wof:parent_id":85632685,
+    "wof:parent_id":890481985,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],

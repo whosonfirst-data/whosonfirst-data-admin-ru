@@ -82,9 +82,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        1762780975,
         102191581,
         85632685,
-        85688015,
+        874393555,
         1108736841
     ],
     "wof:breaches":[],
@@ -104,12 +105,14 @@
         {
             "continent_id":102191581,
             "country_id":85632685,
+            "county_id":1108736841,
+            "empire_id":874393555,
             "locality_id":102016675,
-            "region_id":85688015
+            "region_id":1762780975
         }
     ],
     "wof:id":102016675,
-    "wof:lastmodified":1582329791,
+    "wof:lastmodified":1642622724,
     "wof:name":"Nesterovskaya",
     "wof:parent_id":1108736841,
     "wof:placetype":"locality",

@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632685
+        85688015,
+        102191581,
+        85632685,
+        874393555,
+        1108736527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +51,18 @@
     "wof:geomhash":"32a6362af9cfed14151aba3b079e6dd3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632685,
-            "locality_id":1209592219
+            "county_id":1108736527,
+            "empire_id":874393555,
+            "locality_id":1209592219,
+            "region_id":85688015
         }
     ],
     "wof:id":1209592219,
-    "wof:lastmodified":1566624239,
+    "wof:lastmodified":1642622916,
     "wof:name":"Basturzoy",
-    "wof:parent_id":85632685,
+    "wof:parent_id":1108736527,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],

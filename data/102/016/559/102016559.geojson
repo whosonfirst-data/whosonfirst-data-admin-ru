@@ -99,9 +99,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
+        85688015,
         102191581,
         85632685,
-        85688015,
+        874393555,
         1108735293
     ],
     "wof:breaches":[],
@@ -121,12 +122,14 @@
         {
             "continent_id":102191581,
             "country_id":85632685,
+            "county_id":1108735293,
+            "empire_id":874393555,
             "locality_id":102016559,
             "region_id":85688015
         }
     ],
     "wof:id":102016559,
-    "wof:lastmodified":1582329791,
+    "wof:lastmodified":1642622902,
     "wof:name":"Znamenskoye",
     "wof:parent_id":1108735293,
     "wof:placetype":"locality",
