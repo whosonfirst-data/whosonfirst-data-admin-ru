@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000082,
     "geom:area_square_m":649802.905335,
-    "geom:bbox":"136.917648315,50.3989143372,136.933380127,50.4069671631",
+    "geom:bbox":"136.917648,50.398914,136.93338,50.406967",
     "geom:latitude":50.402634,
     "geom:longitude":136.925218,
     "gn:latitude":50.40657,
@@ -22,6 +22,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Khurb\u00e0"
+    ],
+    "name:ceb_x_preferred":[
+        "Khurba"
+    ],
     "name:ces_x_preferred":[
         "Churba"
     ],
@@ -37,6 +43,12 @@
     "name:nld_x_preferred":[
         "Churba"
     ],
+    "name:nno_x_preferred":[
+        "Khurba"
+    ],
+    "name:nob_x_preferred":[
+        "Khurba"
+    ],
     "name:nor_x_preferred":[
         "Khurba"
     ],
@@ -46,8 +58,14 @@
     "name:slk_x_preferred":[
         "Churba"
     ],
+    "name:sqi_x_preferred":[
+        "Hurba"
+    ],
     "name:srp_x_preferred":[
         "Hurba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0443\u0440\u0431\u0430"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
@@ -81,7 +99,7 @@
         "wd:id":"Q4502408"
     },
     "wof:country":"RU",
-    "wof:geomhash":"e1291377e536b91a6e29d289dcfc110a",
+    "wof:geomhash":"fa7a524f854898c5f92409aed3469669",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +111,7 @@
         }
     ],
     "wof:id":102015427,
-    "wof:lastmodified":1566614965,
+    "wof:lastmodified":1690858703,
     "wof:name":"",
     "wof:parent_id":890480167,
     "wof:placetype":"locality",
@@ -105,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    136.9176483154297,
-    50.3989143371582,
-    136.93338012695312,
-    50.40696716308594
+    136.917648,
+    50.398914,
+    136.93338,
+    50.406967
 ],
-  "geometry": {"coordinates":[[[136.92744445800781,50.3989143371582],[136.91764831542969,50.40154266357422],[136.91952514648438,50.40696716308594],[136.92591857910156,50.40628814697266],[136.93338012695312,50.40145111083984],[136.93319702148438,50.399169921875],[136.92744445800781,50.3989143371582]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[136.92744400000001,50.398914],[136.91764800000001,50.401543],[136.91952499999999,50.406967],[136.92591899999999,50.406288],[136.93338,50.401451],[136.93319700000001,50.39917],[136.92744400000001,50.398914]]],"type":"Polygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000471,
     "geom:area_square_m":3414486.561204,
-    "geom:bbox":"37.8228874207,54.076915741,37.8597793579,54.0975837708",
+    "geom:bbox":"37.822887,54.076916,37.859779,54.097584",
     "geom:latitude":54.087833,
     "geom:longitude":37.840469,
     "gn:latitude":54.08378,
@@ -34,6 +34,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u043e\u043b\u0430\u0445\u0430\u0432\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u0411\u043e\u043b\u0430\u0445\u0430\u0432\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u043b\u043e\u0445\u043e\u0432\u043e"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:ceb_x_preferred":[
         "Bolokhovo"
+    ],
+    "name:ces_x_preferred":[
+        "Bolochovo"
     ],
     "name:che_x_preferred":[
         "\u0411\u043e\u043b\u043e\u0445\u043e\u0432\u043e"
@@ -57,6 +63,9 @@
     ],
     "name:epo_x_preferred":[
         "Bolo\u0125ovo"
+    ],
+    "name:est_x_preferred":[
+        "Bolohhovo"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0648\u0644\u0648\u062e\u0648\u0641\u0648"
@@ -82,6 +91,12 @@
     "name:lit_x_preferred":[
         "Bolochovas"
     ],
+    "name:mdf_x_preferred":[
+        "\u0411\u043e\u043b\u043e\u0445\u043e\u0432\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Bolokhovo"
+    ],
     "name:nld_x_preferred":[
         "Bolokhovo"
     ],
@@ -96,6 +111,9 @@
     ],
     "name:oci_x_preferred":[
         "Bolokhovo"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u043e\u043b\u043e\u0445\u043e\u0432\u043e"
     ],
     "name:pol_x_preferred":[
         "Bo\u0142ochowo"
@@ -118,8 +136,14 @@
     "name:tur_x_preferred":[
         "Bolohovo"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u043b\u043e\u0445\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Bolochevo"
+    ],
+    "name:vep_x_preferred":[
+        "Bolohovo"
     ],
     "name:war_x_preferred":[
         "Bolokhovo"
@@ -168,7 +192,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ff009fc4f160e7ef5917e647f8c7bd45",
+    "wof:geomhash":"a34537fb6c074f1348017fe0ae3d6426",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -178,7 +202,7 @@
         }
     ],
     "wof:id":102003963,
-    "wof:lastmodified":1582329799,
+    "wof:lastmodified":1690859048,
     "wof:name":"Bolokhovo",
     "wof:parent_id":1108734431,
     "wof:placetype":"locality",
@@ -190,10 +214,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    37.8228874206543,
-    54.0769157409668,
-    37.85977935791016,
-    54.09758377075195
+    37.822887,
+    54.076916,
+    37.859779,
+    54.097584
 ],
-  "geometry": {"coordinates":[[[37.82316589355469,54.09297180175781],[37.8245849609375,54.09758377075195],[37.85388946533203,54.09322357177734],[37.85652923583984,54.09058380126953],[37.85977935791016,54.08247375488281],[37.85013961791992,54.08127593994141],[37.84902954101562,54.08113861083984],[37.83472061157227,54.0769157409668],[37.8228874206543,54.0920295715332],[37.82316589355469,54.09297180175781]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[37.823166,54.092972],[37.824585,54.097584],[37.853889,54.093224],[37.856529,54.090584],[37.859779,54.082474],[37.85014,54.081276],[37.84903,54.081139],[37.834721,54.076916],[37.822887,54.09203],[37.823166,54.092972]]],"type":"Polygon"}
 }

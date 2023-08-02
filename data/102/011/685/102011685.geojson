@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000813,
     "geom:area_square_m":5198686.625794,
-    "geom:bbox":"60.7750549316,58.8516120911,60.8384170532,58.8738059998",
+    "geom:bbox":"60.775055,58.851612,60.838417,58.873806",
     "geom:latitude":58.864286,
-    "geom:longitude":60.808398,
+    "geom:longitude":60.808399,
     "gn:latitude":58.86271,
     "gn:longitude":60.80536,
     "gn:population":8500,
@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u062e\u0648\u062a\u0648\u0631\u064a\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0648\u0631\u062e\u0648\u062a\u0648\u0631\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Verxoturye"
     ],
@@ -38,11 +41,17 @@
     "name:bul_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043e\u0442\u0443\u0440\u0435"
     ],
+    "name:cat_x_preferred":[
+        "Verkhot\u00farie"
+    ],
     "name:ceb_x_preferred":[
         "Verkhotur'ye"
     ],
     "name:ces_x_preferred":[
         "Verchoturje"
+    ],
+    "name:ces_x_variant":[
+        "V\u011brchoturje"
     ],
     "name:che_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043e\u0442\u0443\u0440\u044c\u0435"
@@ -71,6 +80,9 @@
     "name:est_x_preferred":[
         "Verhoturje"
     ],
+    "name:eus_x_preferred":[
+        "Verkhoturie"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0631\u062e\u0648\u062a\u0648\u0631\u06cc\u0647"
     ],
@@ -80,8 +92,14 @@
     "name:fra_x_preferred":[
         "Verkhotouri\u00e9"
     ],
+    "name:fry_x_preferred":[
+        "Verchotoerje"
+    ],
     "name:haw_x_preferred":[
         "Welunkie"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e8\u05e7\u05d4\u05d5\u05d8\u05d5\u05e8\u05d9\u05d9\u05d4"
     ],
     "name:hsb_x_preferred":[
         "Wjerchoturje"
@@ -113,6 +131,9 @@
     "name:mhr_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043e\u0442\u0443\u0440\u044c\u0435"
     ],
+    "name:nan_x_preferred":[
+        "Verkhoturye"
+    ],
     "name:nld_x_preferred":[
         "Verchotoerje"
     ],
@@ -130,6 +151,9 @@
     ],
     "name:pol_x_preferred":[
         "Wierchoturie"
+    ],
+    "name:pol_x_variant":[
+        "Wierchoturje"
     ],
     "name:rus_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043e\u0442\u0443\u0440\u044c\u0435"
@@ -211,7 +235,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ee08de3a3196602dd3e15313ce21ac5f",
+    "wof:geomhash":"09994f1f3d90e581c0f07d859f7f551b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -221,7 +245,7 @@
         }
     ],
     "wof:id":102011685,
-    "wof:lastmodified":1582329789,
+    "wof:lastmodified":1690858976,
     "wof:name":"Verkhoturye",
     "wof:parent_id":1108733899,
     "wof:placetype":"locality",
@@ -233,10 +257,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    60.77505493164062,
-    58.85161209106445,
-    60.83841705322266,
-    58.87380599975586
+    60.775055,
+    58.851612,
+    60.838417,
+    58.873806
 ],
-  "geometry": {"coordinates":[[[60.80566787719727,58.85733413696289],[60.79555511474609,58.86199951171875],[60.78072357177734,58.86314010620117],[60.77719497680664,58.86816787719727],[60.77574920654297,58.87022399902344],[60.77505493164062,58.87122344970703],[60.77816772460938,58.87380599975586],[60.8177490234375,58.87241744995117],[60.82447052001953,58.8702507019043],[60.82941818237305,58.86627960205078],[60.83841705322266,58.85905456542969],[60.83808517456055,58.85722351074219],[60.83533477783203,58.85630416870117],[60.8211669921875,58.85161209106445],[60.81766510009766,58.85177612304688],[60.80566787719727,58.85733413696289]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[60.805668,58.857334],[60.795555,58.862],[60.780724,58.86314],[60.777195,58.868168],[60.775749,58.870224],[60.775055,58.871223],[60.778168,58.873806],[60.817749,58.872417],[60.824471,58.870251],[60.829418,58.86628],[60.838417,58.859055],[60.838085,58.857224],[60.835335,58.856304],[60.821167,58.851612],[60.817665,58.851776],[60.805668,58.857334]]],"type":"Polygon"}
 }

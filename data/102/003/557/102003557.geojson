@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000626,
     "geom:area_square_m":4438497.585342,
-    "geom:bbox":"43.2394142151,55.0241241455,43.2799682617,55.0520553589",
+    "geom:bbox":"43.239414,55.024124,43.279968,55.052055",
     "geom:latitude":55.039175,
     "geom:longitude":43.25775,
     "gn:latitude":55.04329,
@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Diveyevo"
     ],
+    "name:ces_x_preferred":[
+        "Diveyevo"
+    ],
     "name:che_x_preferred":[
         "\u0414\u0438\u0432\u0435\u0435\u0432\u043e"
     ],
@@ -33,6 +36,12 @@
     ],
     "name:eng_x_preferred":[
         "Diveyevo"
+    ],
+    "name:fra_x_preferred":[
+        "Dive\u00efevo"
+    ],
+    "name:fry_x_preferred":[
+        "Divejevo"
     ],
     "name:hun_x_preferred":[
         "Gyivejevo"
@@ -49,11 +58,23 @@
     "name:nld_x_preferred":[
         "Diveyevo"
     ],
+    "name:nno_x_preferred":[
+        "Divejevo"
+    ],
+    "name:nob_x_preferred":[
+        "Divejevo"
+    ],
     "name:nor_x_preferred":[
         "Divejevo"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0438\u0432\u0435\u0435\u0432\u043e"
+    ],
+    "name:sqi_x_preferred":[
+        "Diveevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0438\u0432\u0435\u0454\u0432\u043e"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -97,7 +118,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"884932bce20b0c0a9780d7b6c62cc413",
+    "wof:geomhash":"70acb697c285dbb3ca3922189342e54c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,7 +130,7 @@
         }
     ],
     "wof:id":102003557,
-    "wof:lastmodified":1582329799,
+    "wof:lastmodified":1690859047,
     "wof:name":"Diveyevo",
     "wof:parent_id":890485359,
     "wof:placetype":"locality",
@@ -121,10 +142,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.23941421508789,
-    55.02412414550781,
-    43.27996826171875,
-    55.05205535888672
+    43.239414,
+    55.024124,
+    43.279968,
+    55.052055
 ],
-  "geometry": {"coordinates":[[[43.24211120605469,55.04624938964844],[43.24355316162109,55.04997253417969],[43.24436187744141,55.05205535888672],[43.25466537475586,55.05017852783203],[43.26827621459961,55.04569244384766],[43.27996826171875,55.04183578491211],[43.26222991943359,55.02412414550781],[43.2425422668457,55.03562927246094],[43.23941421508789,55.0392951965332],[43.24211120605469,55.04624938964844]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[43.242111,55.046249],[43.243553,55.049973],[43.244362,55.052055],[43.254665,55.050179],[43.268276,55.045692],[43.279968,55.041836],[43.26223,55.024124],[43.242542,55.035629],[43.239414,55.039295],[43.242111,55.046249]]],"type":"Polygon"}
 }

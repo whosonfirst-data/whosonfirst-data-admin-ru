@@ -4,9 +4,9 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.00029,
+    "geom:area":0.000291,
     "geom:area_square_m":2181471.422961,
-    "geom:bbox":"38.9660835266,52.5989723206,38.992389679,52.6121101379",
+    "geom:bbox":"38.966084,52.598972,38.99239,52.61211",
     "geom:latitude":52.605324,
     "geom:longitude":38.979179,
     "gn:latitude":52.6174,
@@ -22,6 +22,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:azb_x_preferred":[
+        "\u062f\u0648\u0646\u0632\u06a9\u0648\u06cc"
+    ],
     "name:ceb_x_preferred":[
         "Donskoye"
     ],
@@ -40,11 +43,20 @@
     "name:nld_x_preferred":[
         "Donskoye"
     ],
+    "name:nno_x_preferred":[
+        "Donskoje"
+    ],
+    "name:nob_x_preferred":[
+        "Donskoje"
+    ],
     "name:nor_x_preferred":[
         "Donskoje"
     ],
     "name:rus_x_preferred":[
         "\u0414\u043e\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043d\u0441\u044c\u043a\u0435"
     ],
     "name:und_x_variant":[
         "Patriarsheye"
@@ -88,7 +100,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bb916e6e5805d33cb0aee227118145b1",
+    "wof:geomhash":"513c23c3bf54ea7abbc90450c7022cf4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":102004757,
-    "wof:lastmodified":1582329806,
+    "wof:lastmodified":1690859111,
     "wof:name":"Donskoye",
     "wof:parent_id":890485457,
     "wof:placetype":"locality",
@@ -112,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    38.96608352661133,
-    52.59897232055664,
-    38.99238967895508,
-    52.61211013793945
+    38.966084,
+    52.598972,
+    38.99239,
+    52.61211
 ],
-  "geometry": {"coordinates":[[[38.96744537353516,52.59897232055664],[38.96716690063477,52.59897232055664],[38.96608352661133,52.60305404663086],[38.96919631958008,52.61094284057617],[38.98372268676758,52.61166763305664],[38.99238967895508,52.61211013793945],[38.9908332824707,52.60536193847656],[38.9896125793457,52.60011291503906],[38.98444366455078,52.59902954101562],[38.96744537353516,52.59897232055664]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[38.967445,52.598972],[38.967167,52.598972],[38.966084,52.603054],[38.969196,52.610943],[38.983723,52.611668],[38.99239,52.61211],[38.990833,52.605362],[38.989613,52.600113],[38.984444,52.59903],[38.967445,52.598972]]],"type":"Polygon"}
 }

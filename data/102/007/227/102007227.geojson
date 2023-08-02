@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.001527,
     "geom:area_square_m":12775462.37573,
-    "geom:bbox":"40.0559158325,47.3945541382,40.1227226257,47.431388855",
+    "geom:bbox":"40.055916,47.394554,40.122723,47.431389",
     "geom:latitude":47.41304,
     "geom:longitude":40.089362,
     "gn:latitude":47.42018,
@@ -70,6 +70,12 @@
     "name:che_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0447\u0435\u0440\u043a\u0430\u0441\u0441\u043a"
     ],
+    "name:ckb_x_preferred":[
+        "\u0646\u06c6\u06a4\u06c6\u0686\u06ce\u0631\u06a9\u0627\u0633\u06a9"
+    ],
+    "name:crh_x_preferred":[
+        "Novo\u00e7erkassk"
+    ],
     "name:cym_x_preferred":[
         "Novocherkassk"
     ],
@@ -82,6 +88,9 @@
     "name:ell_x_preferred":[
         "\u039d\u03bf\u03b2\u03bf\u03c4\u03c3\u03b5\u03c1\u03ba\u03ac\u03c3\u03c3\u03ba"
     ],
+    "name:ell_x_variant":[
+        "\u039d\u03bf\u03b2\u03bf\u03c4\u03c3\u03b5\u03c1\u03ba\u03ac\u03c3\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Novocherkassk"
     ],
@@ -91,6 +100,9 @@
     "name:est_x_preferred":[
         "Novot\u0161erkassk"
     ],
+    "name:eus_x_preferred":[
+        "Novotxerkassk"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0648\u0648\u0686\u0631\u06a9\u0627\u0633\u06a9"
     ],
@@ -99,6 +111,9 @@
     ],
     "name:fra_x_preferred":[
         "Novotcherkassk"
+    ],
+    "name:gle_x_preferred":[
+        "Novocherkassk"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0ab5\u0acb\u0a9a\u0ac7\u0ab0\u0a95\u0abe\u0ab8\u0acd\u0a95"
@@ -145,11 +160,20 @@
     "name:kor_x_preferred":[
         "\ub178\ubcf4\uccb4\ub974\uce74\uc2a4\ud06c"
     ],
+    "name:lat_x_preferred":[
+        "Circassia Nova"
+    ],
     "name:lav_x_preferred":[
         "Novo\u010derkaska"
     ],
     "name:lit_x_preferred":[
         "Novo\u010derkaskas"
+    ],
+    "name:lld_x_preferred":[
+        "Novocherkassk"
+    ],
+    "name:ltz_x_preferred":[
+        "Nowotscherkassk"
     ],
     "name:mar_x_preferred":[
         "\u0928\u094b\u0935\u094b\u0915\u0930\u094d\u0915\u094d\u0938\u094d\u0915"
@@ -158,6 +182,9 @@
         "\u041d\u043e\u0432\u043e\u0447\u0435\u0440\u043a\u0430\u0441\u0441\u043a"
     ],
     "name:msa_x_preferred":[
+        "Novocherkassk"
+    ],
+    "name:nan_x_preferred":[
         "Novocherkassk"
     ],
     "name:nld_x_preferred":[
@@ -220,6 +247,9 @@
     "name:swe_x_preferred":[
         "Novotjerkassk"
     ],
+    "name:szl_x_preferred":[
+        "Nowoczerkassk"
+    ],
     "name:tam_x_preferred":[
         "\u0ba8\u0bcb\u0bb5\u0bcb\u0b9a\u0bc7\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bb8\u0bcd\u0b95\u0bcd"
     ],
@@ -244,14 +274,26 @@
     "name:urd_x_preferred":[
         "\u0646\u0648\u0648\u0648\u0686\u06cc\u0631\u06a9\u0627\u0633\u06a9"
     ],
+    "name:vec_x_preferred":[
+        "Novo\u010derkassk"
+    ],
+    "name:vep_x_preferred":[
+        "Novo\u010derkassk"
+    ],
     "name:vie_x_preferred":[
         "Novocherkassk"
     ],
     "name:war_x_preferred":[
         "Novocherkassk"
     ],
+    "name:wuu_x_preferred":[
+        "\u65b0\u5207\u5c14\u5361\u65af\u514b"
+    ],
     "name:xal_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0447\u0435\u0440\u043a\u0430\u0441\u0441\u043a \u0431\u0430\u043b\u04bb\u0441\u043d"
+    ],
+    "name:yue_x_preferred":[
+        "\u65b0\u5207\u723e\u5361\u65af\u514b"
     ],
     "name:zho_x_preferred":[
         "\u65b0\u5207\u723e\u5361\u65af\u514b"
@@ -389,7 +431,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"ccc98f579ac61c5eb15faf2da4eb896e",
+    "wof:geomhash":"205434bd5b6a2aba844aa8d751e22e1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -399,7 +441,7 @@
         }
     ],
     "wof:id":102007227,
-    "wof:lastmodified":1582329767,
+    "wof:lastmodified":1690858807,
     "wof:name":"Novocherkassk",
     "wof:parent_id":1108735489,
     "wof:placetype":"locality",
@@ -411,10 +453,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    40.05591583251953,
-    47.39455413818359,
-    40.12272262573242,
-    47.43138885498047
+    40.055916,
+    47.394554,
+    40.122723,
+    47.431389
 ],
-  "geometry": {"coordinates":[[[40.09713745117188,47.42652893066406],[40.10497283935547,47.42527770996094],[40.12247085571289,47.41483306884766],[40.12272262573242,47.41116714477539],[40.12077713012695,47.40683364868164],[40.11919403076172,47.40327835083008],[40.11655426025391,47.40230560302734],[40.10575103759766,47.40288925170898],[40.09008407592773,47.39511108398438],[40.08641815185547,47.39455413818359],[40.07311248779297,47.39736175537109],[40.0670280456543,47.3980827331543],[40.0642204284668,47.39983367919922],[40.06452941894531,47.40533447265625],[40.0677490234375,47.40772247314453],[40.06830596923828,47.4095573425293],[40.07222366333008,47.41105651855469],[40.06711196899414,47.41980743408203],[40.06619262695312,47.42139053344727],[40.05591583251953,47.42383193969727],[40.05641555786133,47.42658233642578],[40.06172180175781,47.42766571044922],[40.06419372558594,47.43138885498047],[40.07097244262695,47.43069458007812],[40.09713745117188,47.42652893066406]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[40.097137,47.426529],[40.104973,47.425278],[40.122471,47.414833],[40.122723,47.411167],[40.120777,47.406834],[40.119194,47.403278],[40.116554,47.402306],[40.105751,47.402889],[40.090084,47.395111],[40.086418,47.394554],[40.073112,47.397362],[40.067028,47.398083],[40.06422,47.399834],[40.064529,47.405334],[40.067749,47.407722],[40.068306,47.409557],[40.072224,47.411057],[40.067112,47.419807],[40.066193,47.421391],[40.055916,47.423832],[40.056416,47.426582],[40.061722,47.427666],[40.064194,47.431389],[40.070972,47.430695],[40.097137,47.426529]]],"type":"Polygon"}
 }

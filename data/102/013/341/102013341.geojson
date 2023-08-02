@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0004,
     "geom:area_square_m":2957510.051814,
-    "geom:bbox":"83.6548309326,53.3120536804,83.7074737549,53.3243331909",
+    "geom:bbox":"83.654831,53.312054,83.707474,53.324333",
     "geom:latitude":53.318762,
     "geom:longitude":83.679724,
     "gn:latitude":53.36056,
@@ -25,8 +25,17 @@
     "name:afr_x_preferred":[
         "Barnaoel"
     ],
+    "name:alt_x_preferred":[
+        "\u0411\u0430\u0440\u043d\u0430\u0443\u043b"
+    ],
+    "name:ang_x_preferred":[
+        "Barnaul"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0646\u0627\u0648\u0644"
+    ],
+    "name:avk_x_preferred":[
+        "Barnaul"
     ],
     "name:azb_x_preferred":[
         "\u0628\u0627\u0631\u0646\u0627\u0626\u0648\u0644"
@@ -106,6 +115,12 @@
     "name:fra_x_preferred":[
         "Barnaoul"
     ],
+    "name:frr_x_preferred":[
+        "Barnaul"
+    ],
+    "name:fry_x_preferred":[
+        "Barna\u00fbl"
+    ],
     "name:gle_x_preferred":[
         "Barnaul"
     ],
@@ -169,10 +184,19 @@
     "name:lit_x_preferred":[
         "Barnaulas"
     ],
+    "name:lld_x_preferred":[
+        "Barnaul"
+    ],
     "name:mar_x_preferred":[
         "\u092c\u0930\u094d\u0928\u093e\u0909\u0932"
     ],
+    "name:mdf_x_preferred":[
+        "\u0411\u0430\u0440\u043d\u0430\u0443\u043b"
+    ],
     "name:mhr_x_preferred":[
+        "\u0411\u0430\u0440\u043d\u0430\u0443\u043b"
+    ],
+    "name:mkd_x_preferred":[
         "\u0411\u0430\u0440\u043d\u0430\u0443\u043b"
     ],
     "name:mon_x_preferred":[
@@ -183,6 +207,9 @@
     ],
     "name:myv_x_preferred":[
         "\u0411\u0430\u0440\u043d\u0430\u0443\u043b \u043e\u0448"
+    ],
+    "name:nan_x_preferred":[
+        "Barnaul"
     ],
     "name:nld_x_preferred":[
         "Barnaoel"
@@ -235,6 +262,9 @@
     "name:swe_x_preferred":[
         "Barnaul"
     ],
+    "name:szl_x_preferred":[
+        "Barnau\u0142"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bb0\u0bcd\u0ba9\u0bbe\u0bb2\u0bcd"
     ],
@@ -259,6 +289,9 @@
     "name:tur_x_preferred":[
         "Barnaul"
     ],
+    "name:tyv_x_preferred":[
+        "\u0411\u0430\u0440\u043d\u0430\u0443\u043b"
+    ],
     "name:udm_x_preferred":[
         "\u0411\u0430\u0440\u043d\u0430\u0443\u043b"
     ],
@@ -271,6 +304,9 @@
     "name:uzb_x_preferred":[
         "Barnaul"
     ],
+    "name:vec_x_preferred":[
+        "Barnaul"
+    ],
     "name:vep_x_preferred":[
         "Barnaul"
     ],
@@ -279,6 +315,12 @@
     ],
     "name:war_x_preferred":[
         "Barnaul"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u5c14\u7459\u5c14"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10d0\u10e0\u10dc\u10d0\u10e3\u10da\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u5df4\u723e\u7d0d\u5ed3"
@@ -326,7 +368,7 @@
         "wk:page":"Barnaul"
     },
     "wof:country":"RU",
-    "wof:geomhash":"214db553895e5c8a11dc8fd59479b922",
+    "wof:geomhash":"388eb04035190ff36ad54cda2e80961b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -338,7 +380,7 @@
         }
     ],
     "wof:id":102013341,
-    "wof:lastmodified":1566615053,
+    "wof:lastmodified":1690858756,
     "wof:name":"",
     "wof:parent_id":890484179,
     "wof:placetype":"locality",
@@ -350,10 +392,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    83.65483093261719,
-    53.31205368041992,
-    83.70747375488281,
-    53.32433319091797
+    83.654831,
+    53.312054,
+    83.707474,
+    53.324333
 ],
-  "geometry": {"coordinates":[[[83.70105743408203,53.3172492980957],[83.70099639892578,53.31722259521484],[83.68802642822266,53.31444549560547],[83.67688751220703,53.31205368041992],[83.66432952880859,53.31444549560547],[83.66261291503906,53.31477737426758],[83.65541839599609,53.31958389282227],[83.65483093261719,53.3218879699707],[83.66422271728516,53.32433319091797],[83.67771911621094,53.32160949707031],[83.70391845703125,53.32400131225586],[83.70716857910156,53.32138824462891],[83.70747375488281,53.32114028930664],[83.70105743408203,53.3172492980957]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[83.70105700000001,53.317249],[83.700996,53.317223],[83.68802599999999,53.314445],[83.67688800000001,53.312054],[83.66433000000001,53.314445],[83.66261299999999,53.314777],[83.655418,53.319584],[83.654831,53.321888],[83.66422300000001,53.324333],[83.677719,53.321609],[83.703918,53.324001],[83.70716899999999,53.321388],[83.707474,53.32114],[83.70105700000001,53.317249]]],"type":"Polygon"}
 }

@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000297,
     "geom:area_square_m":2249443.987333,
-    "geom:bbox":"83.4761352539,52.1595115662,83.507850647,52.1756782532",
+    "geom:bbox":"83.476135,52.159512,83.507851,52.175678",
     "geom:latitude":52.167341,
-    "geom:longitude":83.491518,
+    "geom:longitude":83.491519,
     "gn:latitude":52.15,
     "gn:longitude":83.5,
     "iso:country":"RU",
@@ -21,14 +21,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043b\u043c\u0430\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Kalmanskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041a\u0430\u043b\u043c\u0430\u043d\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
+    ],
+    "name:crh_x_preferred":[
+        "Kalmanka rayon\u0131"
     ],
     "name:deu_x_preferred":[
         "Kalmanski rajon"
     ],
     "name:eng_x_preferred":[
         "Kalmansky District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06a9\u0627\u0644\u0645\u0627\u0646\u0633\u06a9\u06cc"
     ],
     "name:hun_x_preferred":[
         "Kalmankai j\u00e1r\u00e1s"
@@ -38,6 +50,9 @@
     ],
     "name:ita_x_preferred":[
         "Kalmanskij rajon"
+    ],
+    "name:nan_x_preferred":[
+        "Kalmansky Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Kalmanskiy rayon"
@@ -50,6 +65,9 @@
     ],
     "name:rus_x_variant":[
         "\u041a\u0430\u043b\u043c\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u043c\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Kalmansky"
@@ -89,7 +107,7 @@
         "wd:id":"Q1654282"
     },
     "wof:country":"RU",
-    "wof:geomhash":"cbb404b9360566a3ee8cd1e8eef3a3c6",
+    "wof:geomhash":"56df780ab069e8e8a303a80df3feec3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +119,7 @@
         }
     ],
     "wof:id":102013697,
-    "wof:lastmodified":1566615074,
+    "wof:lastmodified":1690858766,
     "wof:name":"Kalmanskiy",
     "wof:parent_id":1108737239,
     "wof:placetype":"locality",
@@ -111,10 +129,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    83.47613525390625,
-    52.15951156616211,
-    83.50785064697266,
-    52.17567825317383
+    83.476135,
+    52.159512,
+    83.507851,
+    52.175678
 ],
-  "geometry": {"coordinates":[[[83.50046539306641,52.15951156616211],[83.49402618408203,52.16097259521484],[83.48878479003906,52.16216278076172],[83.47653961181641,52.16711807250977],[83.47613525390625,52.17124938964844],[83.48095703125,52.17567825317383],[83.50785064697266,52.16797637939453],[83.50428771972656,52.16076278686523],[83.5020751953125,52.16003799438477],[83.50046539306641,52.15951156616211]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[83.50046500000001,52.159512],[83.49402600000001,52.160973],[83.48878499999999,52.162163],[83.47654,52.167118],[83.476135,52.171249],[83.480957,52.175678],[83.507851,52.167976],[83.504288,52.160763],[83.502075,52.160038],[83.50046500000001,52.159512]]],"type":"Polygon"}
 }

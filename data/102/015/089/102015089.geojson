@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00038,
     "geom:area_square_m":2963095.861321,
-    "geom:bbox":"128.51512146,50.8677902222,128.545181274,50.8901824951",
-    "geom:latitude":50.879326,
-    "geom:longitude":128.52955,
+    "geom:bbox":"128.515121,50.86779,128.545181,50.890182",
+    "geom:latitude":50.879325,
+    "geom:longitude":128.529551,
     "gn:latitude":50.91644,
     "gn:longitude":128.47726,
     "gn:population":67911,
@@ -31,6 +31,9 @@
     "name:aze_x_preferred":[
         "Beloqorsk"
     ],
+    "name:bak_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0433\u043e\u0440\u0441\u043a"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0435\u043b\u0430\u0433\u043e\u0440\u0441\u043a"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:che_x_preferred":[
         "\u0411\u0435\u043b\u043e\u0433\u043e\u0440\u0441\u043a"
+    ],
+    "name:crh_x_preferred":[
+        "Belogorsk"
     ],
     "name:deu_x_preferred":[
         "Belogorsk"
@@ -100,14 +106,23 @@
     "name:kor_x_preferred":[
         "\ubca8\ub85c\uace0\ub974\uc2a4\ud06c"
     ],
+    "name:lav_x_preferred":[
+        "Belogorska"
+    ],
     "name:lit_x_preferred":[
         "Belogorskas"
+    ],
+    "name:lld_x_preferred":[
+        "Belogorsk"
     ],
     "name:ltz_x_preferred":[
         "Belogorsk"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0435\u043b\u043e\u0433\u043e\u0440\u0441\u043a"
+    ],
+    "name:nan_x_preferred":[
+        "Belogorsk"
     ],
     "name:nld_x_preferred":[
         "Belogorsk"
@@ -220,7 +235,7 @@
         "wk:page":"Belogorsk, Amur Oblast"
     },
     "wof:country":"RU",
-    "wof:geomhash":"41562ab46d80db3f91d0ebe396295bf6",
+    "wof:geomhash":"795662fcb07e0684d60ff781ef3ff5f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -232,7 +247,7 @@
         }
     ],
     "wof:id":102015089,
-    "wof:lastmodified":1566614959,
+    "wof:lastmodified":1690858699,
     "wof:name":"",
     "wof:parent_id":1108732939,
     "wof:placetype":"locality",
@@ -244,10 +259,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    128.51512145996094,
-    50.86779022216797,
-    128.54518127441406,
-    50.89018249511719
+    128.515121,
+    50.86779,
+    128.545181,
+    50.890182
 ],
-  "geometry": {"coordinates":[[[128.51809692382812,50.87934494018555],[128.52870178222656,50.89018249511719],[128.54261779785156,50.88762283325195],[128.54518127441406,50.88578033447266],[128.54302978515625,50.88322448730469],[128.53166198730469,50.86978149414062],[128.53007507324219,50.86790466308594],[128.52719116210938,50.86779022216797],[128.51512145996094,50.8728141784668],[128.51809692382812,50.87934494018555]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[128.51809700000001,50.879345],[128.52870200000001,50.890182],[128.542618,50.887623],[128.54518100000001,50.88578],[128.54302999999999,50.883224],[128.53166200000001,50.869781],[128.53007500000001,50.867905],[128.52719099999999,50.86779],[128.51512099999999,50.872814],[128.51809700000001,50.879345]]],"type":"Polygon"}
 }

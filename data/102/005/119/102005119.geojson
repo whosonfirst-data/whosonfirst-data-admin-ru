@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000976,
     "geom:area_square_m":7421803.091109,
-    "geom:bbox":"39.7239456177,52.0307769775,39.7563323975,52.0758628845",
+    "geom:bbox":"39.723946,52.030777,39.756332,52.075863",
     "geom:latitude":52.052778,
     "geom:longitude":39.738134,
     "gn:population":19910,
@@ -38,11 +38,20 @@
     "name:bul_x_preferred":[
         "\u0423\u0441\u043c\u0430\u043d"
     ],
+    "name:cat_x_preferred":[
+        "\u00dasman"
+    ],
     "name:ceb_x_preferred":[
         "Usman'"
     ],
+    "name:ces_x_preferred":[
+        "Usma\u0148"
+    ],
     "name:che_x_preferred":[
         "\u0423\u0441\u043c\u0430\u043d\u044c"
+    ],
+    "name:crh_x_preferred":[
+        "Usman"
     ],
     "name:dan_x_preferred":[
         "Usman"
@@ -62,6 +71,12 @@
     "name:epo_x_preferred":[
         "Usmanj"
     ],
+    "name:est_x_preferred":[
+        "Usman"
+    ],
+    "name:eus_x_preferred":[
+        "Usman"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0633\u0645\u0627\u0646"
     ],
@@ -70,6 +85,9 @@
     ],
     "name:fra_x_preferred":[
         "Ousman"
+    ],
+    "name:gle_x_preferred":[
+        "Usman"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05e1\u05de\u05df"
@@ -89,10 +107,22 @@
     "name:jpn_x_preferred":[
         "\u30a6\u30b9\u30de\u30cb"
     ],
+    "name:jpn_x_variant":[
+        "\u30a6\u30b9\u30de\u30f3"
+    ],
     "name:kor_x_preferred":[
         "\uc6b0\uc2a4\ub9cc"
     ],
     "name:ltz_x_preferred":[
+        "Usman"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0423\u0441\u043c\u0430\u043d\u044c"
+    ],
+    "name:myv_x_preferred":[
+        "\u0423\u0441\u043c\u0430\u043d\u044c"
+    ],
+    "name:nan_x_preferred":[
         "Usman"
     ],
     "name:nld_x_preferred":[
@@ -106,6 +136,9 @@
     ],
     "name:nor_x_preferred":[
         "Usman"
+    ],
+    "name:oss_x_preferred":[
+        "\u0423\u0441\u043c\u0430\u043d\u044c"
     ],
     "name:pol_x_preferred":[
         "Usma\u0144"
@@ -122,6 +155,9 @@
     "name:srp_x_preferred":[
         "\u0423\u0441\u043c\u0430\u045a"
     ],
+    "name:swe_x_preferred":[
+        "Usman"
+    ],
     "name:tat_x_preferred":[
         "\u0423\u0441\u043c\u0430\u043d\u044c"
     ],
@@ -136,6 +172,9 @@
     ],
     "name:und_x_variant":[
         "Usman\u2019"
+    ],
+    "name:vep_x_preferred":[
+        "Usman'"
     ],
     "name:war_x_preferred":[
         "Usman"
@@ -187,7 +226,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"029cdf172dea004fb41a628e6631348e",
+    "wof:geomhash":"5feb28f72773d033e9d8a496ad814bfe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,7 +236,7 @@
         }
     ],
     "wof:id":102005119,
-    "wof:lastmodified":1582329808,
+    "wof:lastmodified":1690859134,
     "wof:name":"Usman",
     "wof:parent_id":1108737205,
     "wof:placetype":"locality",
@@ -209,10 +248,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.72394561767578,
-    52.03077697753906,
-    39.75633239746094,
-    52.07586288452148
+    39.723946,
+    52.030777,
+    39.756332,
+    52.075863
 ],
-  "geometry": {"coordinates":[[[39.73944473266602,52.03108215332031],[39.72811126708984,52.03274917602539],[39.72558212280273,52.0525016784668],[39.72394561767578,52.0654182434082],[39.72830581665039,52.07316589355469],[39.73125076293945,52.07586288452148],[39.73500061035156,52.07502746582031],[39.74638748168945,52.06558227539062],[39.74677658081055,52.06525039672852],[39.75210952758789,52.06308364868164],[39.75469589233398,52.05838775634766],[39.75633239746094,52.05541610717773],[39.75319290161133,52.04944610595703],[39.74855422973633,52.04055404663086],[39.74677658081055,52.03716659545898],[39.74444580078125,52.03269577026367],[39.74161148071289,52.03077697753906],[39.73944473266602,52.03108215332031]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[39.739445,52.031082],[39.728111,52.032749],[39.725582,52.052502],[39.723946,52.065418],[39.728306,52.073166],[39.731251,52.075863],[39.735001,52.075027],[39.746387,52.065582],[39.746777,52.06525],[39.75211,52.063084],[39.754696,52.058388],[39.756332,52.055416],[39.753193,52.049446],[39.748554,52.040554],[39.746777,52.037167],[39.744446,52.032696],[39.741611,52.030777],[39.739445,52.031082]]],"type":"Polygon"}
 }

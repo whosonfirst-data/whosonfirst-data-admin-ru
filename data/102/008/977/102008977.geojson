@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000468,
     "geom:area_square_m":3222705.867347,
-    "geom:bbox":"54.1511650085,56.1152229309,54.1845283508,56.1371955872",
+    "geom:bbox":"54.151165,56.115223,54.184528,56.137196",
     "geom:latitude":56.125583,
     "geom:longitude":54.168957,
     "gn:population":5981,
@@ -20,17 +20,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u0646\u064a\u0643\u0648\u0644\u0648 \u0628\u064a\u0631\u064a\u0648\u0632\u0648\u06a4\u0643\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u06cc\u06a9\u0648\u0644\u0648-\u0628\u0631\u06cc\u0648\u0632\u0648\u0648\u06a9\u0627"
+    ],
     "name:bak_x_preferred":[
         "\u041d\u0438\u043a\u043e\u043b\u043e-\u0411\u0435\u0440\u0451\u0437\u043e\u0432\u043a\u0430"
     ],
+    "name:bak_x_variant":[
+        "\u041d\u0438\u043a\u043e\u043b\u043e-\u0411\u0435\u0440\u0451\u0437\u043e\u0432\u043a\u0430 \u0430\u0443\u044b\u043b\u044b"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u0456\u043a\u043e\u043b\u0430-\u0411\u044f\u0440\u043e\u0437\u0430\u045e\u043a\u0430"
+    ],
     "name:ceb_x_preferred":[
         "Nikolo-Ber\u00ebzovka"
+    ],
+    "name:crh_x_preferred":[
+        "Nikolo-Ber\u00f6zovka"
+    ],
+    "name:deu_x_preferred":[
+        "Nikolo-Berjosowka"
     ],
     "name:eng_x_preferred":[
         "Nikolo-Ber\u00ebzovka"
     ],
     "name:eng_x_variant":[
         "Nikolo-Beryozovka"
+    ],
+    "name:fin_x_preferred":[
+        "Nikolo-Berjozovka"
     ],
     "name:hun_x_preferred":[
         "Nyikolo-Berjozovka"
@@ -41,8 +62,17 @@
     "name:mhr_x_preferred":[
         "\u042d\u043b\u044c\u044f\u043d"
     ],
+    "name:nan_x_preferred":[
+        "Nikolo-Beryozovka"
+    ],
     "name:nld_x_preferred":[
         "Nikolo-Beryozovka"
+    ],
+    "name:nno_x_preferred":[
+        "Nikolo-Berjozovka"
+    ],
+    "name:nob_x_preferred":[
+        "Nikolo-Berjozovka"
     ],
     "name:nor_x_preferred":[
         "Nikolo-Berezovka"
@@ -56,11 +86,17 @@
     "name:rus_x_variant":[
         "\u041d\u0438\u043a\u043e\u043b\u043e-\u0411\u0435\u0440\u0435\u0437\u043e\u0432\u043a\u0430"
     ],
+    "name:sqi_x_preferred":[
+        "Nikolo-Berezovka"
+    ],
     "name:tat_x_preferred":[
         "\u041d\u0438\u043a\u043e\u043b\u043e-\u0411\u0435\u0440\u0451\u0437\u043e\u0432\u043a\u0430"
     ],
     "name:tat_x_variant":[
         "\u041d\u0438\u043a\u0443\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0456\u043a\u043e\u043b\u043e-\u0411\u0435\u0440\u0435\u0437\u043e\u0432\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Nikolo-Berezovskoye"
@@ -101,7 +137,7 @@
         "wd:id":"Q3793513"
     },
     "wof:country":"RU",
-    "wof:geomhash":"85bf8f9bd1f25ff4a1e39edff3d890d5",
+    "wof:geomhash":"301257c20714c54388cbfd31891271ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,7 +149,7 @@
         }
     ],
     "wof:id":102008977,
-    "wof:lastmodified":1566615276,
+    "wof:lastmodified":1690858876,
     "wof:name":"Nikolo Berezovka",
     "wof:parent_id":890480093,
     "wof:placetype":"locality",
@@ -125,10 +161,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.15116500854492,
-    56.1152229309082,
-    54.18452835083008,
-    56.1371955871582
+    54.151165,
+    56.115223,
+    54.184528,
+    56.137196
 ],
-  "geometry": {"coordinates":[[[54.16191482543945,56.13347244262695],[54.16213989257812,56.13280487060547],[54.16641616821289,56.13163757324219],[54.17041778564453,56.13669586181641],[54.18266677856445,56.1371955871582],[54.18036270141602,56.12897109985352],[54.18363952636719,56.12716674804688],[54.18452835083008,56.12352752685547],[54.17488861083984,56.11833190917969],[54.16997146606445,56.11569595336914],[54.16508483886719,56.1152229309082],[54.1556396484375,56.11702728271484],[54.15116500854492,56.11788940429688],[54.15672302246094,56.12658309936523],[54.15602874755859,56.12825012207031],[54.15619277954102,56.12838745117188],[54.15750122070312,56.12955474853516],[54.16141510009766,56.13302612304688],[54.16191482543945,56.13347244262695]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[54.161915,56.133472],[54.16214,56.132805],[54.166416,56.131638],[54.170418,56.136696],[54.182667,56.137196],[54.180363,56.128971],[54.18364,56.127167],[54.184528,56.123528],[54.174889,56.118332],[54.169971,56.115696],[54.165085,56.115223],[54.15564,56.117027],[54.151165,56.117889],[54.156723,56.126583],[54.156029,56.12825],[54.156193,56.128387],[54.157501,56.129555],[54.161415,56.133026],[54.161915,56.133472]]],"type":"Polygon"}
 }

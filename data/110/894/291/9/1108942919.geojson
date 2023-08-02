@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"37.4733418766,55.77782689,37.4733418766,55.77782689",
+    "geom:bbox":"37.473342,55.777827,37.473342,55.777827",
     "geom:latitude":55.777827,
     "geom:longitude":37.473342,
     "gn:country":"RU",
@@ -26,6 +26,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:azb_x_preferred":[
+        "\u062e\u0648\u0631\u0648\u0634\u06cc\u0648\u0648\u0648-\u0645\u0646\u06cc\u0648\u0648\u0646\u06cc\u06a9\u06cc"
+    ],
     "name:bul_x_preferred":[
         "\u0425\u043e\u0440\u043e\u0448\u043e\u0432\u043e-\u041c\u043d\u044c\u043e\u0432\u043d\u0438\u043a\u0438"
     ],
@@ -44,8 +47,14 @@
     "name:fra_x_preferred":[
         "Khorochevo-Mnevniki"
     ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05e8\u05d5\u05e9\u05d1\u05d5-\u05de\u05e0\u05d1\u05e0\u05d9\u05e7\u05d9"
+    ],
     "name:ita_x_preferred":[
         "Choro\u0161\u00ebvo-Mn\u00ebvniki"
+    ],
+    "name:nan_x_preferred":[
+        "Khoroshyovo-Mnyovniki Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Horosjjovo-Mnjovniki"
@@ -88,7 +97,7 @@
     },
     "wof:country":"RU",
     "wof:created":1491363409,
-    "wof:geomhash":"6926bce05f41727df56fa9edf5200f9c",
+    "wof:geomhash":"1f9280ffd61e01ae1fd2a4c3265f71d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":1108942919,
-    "wof:lastmodified":1566627427,
+    "wof:lastmodified":1690859738,
     "wof:name":"Khoroshevo-Mnevniki",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",
@@ -114,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    37.47334187660578,
-    55.77782688997982,
-    37.47334187660578,
-    55.77782688997982
+    37.473342,
+    55.777827,
+    37.473342,
+    55.777827
 ],
-  "geometry": {"coordinates":[37.47334187660578,55.77782688997982],"type":"Point"}
+  "geometry": {"coordinates":[37.473342,55.777827],"type":"Point"}
 }

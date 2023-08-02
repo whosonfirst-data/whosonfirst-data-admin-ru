@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000159,
     "geom:area_square_m":1257386.943707,
-    "geom:bbox":"127.597045898,50.2511940002,127.616920471,50.2620162964",
-    "geom:latitude":50.256688,
+    "geom:bbox":"127.597046,50.251194,127.61692,50.262016",
+    "geom:latitude":50.256687,
     "geom:longitude":127.606936,
     "gn:latitude":50.27961,
     "gn:longitude":127.5405,
@@ -55,6 +55,9 @@
     "name:cat_x_preferred":[
         "Blagov\u00e9sxensk"
     ],
+    "name:cdo_x_preferred":[
+        "Blagoveshchensk"
+    ],
     "name:ceb_x_preferred":[
         "Blagoveshchensk"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:che_x_preferred":[
         "\u0411\u043b\u0430\u0433\u043e\u0432\u0435\u0449\u0435\u043d\u0441\u043a"
+    ],
+    "name:crh_x_preferred":[
+        "Blagove\u015f\u00e7ensk"
     ],
     "name:cym_x_preferred":[
         "Blagoveshchensk"
@@ -99,6 +105,12 @@
     ],
     "name:fra_x_preferred":[
         "Blagovechtchensk"
+    ],
+    "name:frr_x_preferred":[
+        "Blagoweschtschensk"
+    ],
+    "name:gle_x_preferred":[
+        "Blagoveshchensk"
     ],
     "name:glg_x_preferred":[
         "Blagoveshchensk"
@@ -160,6 +172,9 @@
     "name:lit_x_preferred":[
         "Blagove\u0161\u010denskas"
     ],
+    "name:lld_x_preferred":[
+        "Blagoveshchensk"
+    ],
     "name:lmo_x_preferred":[
         "Blagove\u0161\u010densk"
     ],
@@ -168,6 +183,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092c\u094d\u0932\u0945\u0917\u094d\u0935\u0947\u0936\u0947\u0928\u094d\u0938\u094d\u0915"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0411\u043b\u0430\u0433\u043e\u0432\u0435\u0449\u0435\u043d\u0441\u043a"
     ],
     "name:mhr_x_preferred":[
         "\u0411\u043b\u0430\u0433\u043e\u0432\u0435\u0449\u0435\u043d\u0441\u043a"
@@ -210,6 +228,9 @@
     ],
     "name:por_x_preferred":[
         "Blagoveschensk"
+    ],
+    "name:pus_x_preferred":[
+        "\u0628\u0644\u0627\u06ab\u0648\u0648\u064a\u0634\u0686\u064a\u0646\u0633\u06a9"
     ],
     "name:ron_x_preferred":[
         "Blagove\u0219censk"
@@ -280,6 +301,9 @@
     "name:war_x_preferred":[
         "Blagoveshchensk"
     ],
+    "name:wuu_x_preferred":[
+        "\u6d77\u5170\u6ce1"
+    ],
     "name:xmf_x_preferred":[
         "\u10d1\u10da\u10d0\u10d2\u10dd\u10d5\u10d4\u10e8\u10e9\u10d4\u10dc\u10e1\u10d9\u10d8"
     ],
@@ -329,7 +353,7 @@
         "wk:page":"Blagoveshchensk"
     },
     "wof:country":"RU",
-    "wof:geomhash":"cba790469ab0ceb1a5de750acf255974",
+    "wof:geomhash":"a746d22ac6d399b2ebc1fc75e725b20f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -341,7 +365,7 @@
         }
     ],
     "wof:id":102015119,
-    "wof:lastmodified":1566614951,
+    "wof:lastmodified":1690858693,
     "wof:name":"",
     "wof:parent_id":1108733017,
     "wof:placetype":"locality",
@@ -353,10 +377,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    127.5970458984375,
-    50.25119400024414,
-    127.6169204711914,
-    50.26201629638672
+    127.597046,
+    50.251194,
+    127.61692,
+    50.262016
 ],
-  "geometry": {"coordinates":[[[127.59883117675781,50.26056289672852],[127.61009979248047,50.26201629638672],[127.61692047119141,50.25867080688477],[127.61597442626953,50.2545051574707],[127.61334228515625,50.25254440307617],[127.6063232421875,50.25150680541992],[127.60420989990234,50.25119400024414],[127.60066986083984,50.25201034545898],[127.59773254394531,50.25662994384766],[127.5970458984375,50.25923156738281],[127.59883117675781,50.26056289672852]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[127.598831,50.260563],[127.6101,50.262016],[127.61691999999999,50.258671],[127.61597399999999,50.254505],[127.613342,50.252544],[127.606323,50.251507],[127.60420999999999,50.251194],[127.60066999999999,50.25201],[127.59773300000001,50.25663],[127.59704600000001,50.259232],[127.598831,50.260563]]],"type":"Polygon"}
 }

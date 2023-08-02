@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000931,
     "geom:area_square_m":6870359.735565,
-    "geom:bbox":"49.7749176025,53.3211097717,49.8254737854,53.3571395874",
+    "geom:bbox":"49.774918,53.32111,49.825474,53.35714",
     "geom:latitude":53.338257,
     "geom:longitude":49.799997,
     "gn:population":57094,
@@ -44,6 +44,9 @@
     "name:chv_x_preferred":[
         "\u0428\u0443\u043a\u0103\u043b\u044c"
     ],
+    "name:crh_x_preferred":[
+        "Jigul\u00f6vsk"
+    ],
     "name:cym_x_preferred":[
         "Zhigulyovsk"
     ],
@@ -59,6 +62,9 @@
     "name:epo_x_preferred":[
         "\u0134igulovsk"
     ],
+    "name:eus_x_preferred":[
+        "Zhiguliovsk"
+    ],
     "name:fas_x_preferred":[
         "\u0698\u06cc\u06af\u0648\u0644\u06cc\u0648\u0641\u0633\u06a9"
     ],
@@ -67,6 +73,9 @@
     ],
     "name:hsb_x_preferred":[
         "\u017diguljowsk"
+    ],
+    "name:hun_x_preferred":[
+        "Zsiguljovszk"
     ],
     "name:ita_x_preferred":[
         "\u017digul\u00ebvsk"
@@ -77,11 +86,20 @@
     "name:kor_x_preferred":[
         "\uc9c0\uad74\ub8dd\uc2a4\ud06c"
     ],
+    "name:lav_x_preferred":[
+        "\u017digu\u013covska"
+    ],
     "name:lit_x_preferred":[
         "\u017digulevskas"
     ],
+    "name:lld_x_preferred":[
+        "Jiguliovsk"
+    ],
     "name:myv_x_preferred":[
         "\u0416\u0438\u0433\u0443\u043b\u0451\u0432\u0441\u043a \u043e\u0448"
+    ],
+    "name:nan_x_preferred":[
+        "Zhigulyovsk"
     ],
     "name:nld_x_preferred":[
         "Zjigoeljovsk"
@@ -94,6 +112,9 @@
     ],
     "name:nor_x_preferred":[
         "Zjigulevsk"
+    ],
+    "name:oss_x_preferred":[
+        "\u0416\u0438\u0433\u0443\u043b\u0451\u0432\u0441\u043a"
     ],
     "name:pnb_x_preferred":[
         "\u0698\u06cc\u06af\u0648\u0644\u06cc\u0648\u0648\u0633\u06a9"
@@ -136,6 +157,9 @@
     ],
     "name:und_x_variant":[
         "Otvazhnyy"
+    ],
+    "name:vep_x_preferred":[
+        "\u017digul\u00f6vsk"
     ],
     "name:vie_x_preferred":[
         "Zhigulevsk"
@@ -187,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e060d0968ec4be046cad26a8e915c4a9",
+    "wof:geomhash":"d0fa440b6a1bb046788bbe28b1e9f9f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -199,7 +223,7 @@
         }
     ],
     "wof:id":102010533,
-    "wof:lastmodified":1582329795,
+    "wof:lastmodified":1690859013,
     "wof:name":"Zhigulevsk",
     "wof:parent_id":890484433,
     "wof:placetype":"locality",
@@ -211,10 +235,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    49.77491760253906,
-    53.32110977172852,
-    49.82547378540039,
-    53.35713958740234
+    49.774918,
+    53.32111,
+    49.825474,
+    53.35714
 ],
-  "geometry": {"coordinates":[[[49.8158073425293,53.33738708496094],[49.81694412231445,53.33502960205078],[49.82447052001953,53.32494354248047],[49.82547378540039,53.3216667175293],[49.81158447265625,53.32110977172852],[49.80855560302734,53.32130432128906],[49.79508209228516,53.32805633544922],[49.775390625,53.34347152709961],[49.77491760253906,53.34533309936523],[49.77938842773438,53.34919357299805],[49.79297256469727,53.35713958740234],[49.79669570922852,53.3564453125],[49.80552673339844,53.3494987487793],[49.8158073425293,53.33738708496094]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[49.815807,53.337387],[49.816944,53.33503],[49.824471,53.324944],[49.825474,53.321667],[49.811584,53.32111],[49.808556,53.321304],[49.795082,53.328056],[49.775391,53.343472],[49.774918,53.345333],[49.779388,53.349194],[49.792973,53.35714],[49.796696,53.356445],[49.805527,53.349499],[49.815807,53.337387]]],"type":"Polygon"}
 }

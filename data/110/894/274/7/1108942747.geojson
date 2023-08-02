@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"37.5839633846,55.8796991692,37.5839633846,55.8796991692",
+    "geom:bbox":"37.583963,55.879699,37.583963,55.879699",
     "geom:latitude":55.879699,
     "geom:longitude":37.583963,
     "gn:country":"RU",
@@ -26,6 +26,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:azb_x_preferred":[
+        "\u0622\u0644\u062a\u0648\u0641\u06cc\u0648\u0627\u06cc\u0633\u06a9\u0627\u06cc"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u043b\u0442\u0443\u0444\u0438\u0435\u0432\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -38,8 +41,14 @@
     "name:fra_x_preferred":[
         "Altoufievski"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05d8\u05d5\u05e4\u05d9\u05d9\u05d1\u05e1\u05e7\u05d9 \u05e8\u05d0\u05d9\u05d5\u05df"
+    ],
     "name:ita_x_preferred":[
         "Altuf'evskij"
+    ],
+    "name:nan_x_preferred":[
+        "Altufyevsky Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Altoefevskiy rayon"
@@ -55,6 +64,9 @@
     ],
     "name:sco_x_preferred":[
         "Altufyevsky Destrict"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0410\u043b\u0442\u0443\u0444\u0438\u0435\u0432\u0441\u043a\u0438\u0439"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0442\u0443\u0444'\u0454\u0432\u0441\u044c\u043a\u0438\u0439"
@@ -85,7 +97,7 @@
     },
     "wof:country":"RU",
     "wof:created":1491363300,
-    "wof:geomhash":"9dad42ec0fb312c6908e5de19f19f5ac",
+    "wof:geomhash":"5c5b0f955b2b0f1dae5a9aa1b5b0dc33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":1108942747,
-    "wof:lastmodified":1566627402,
+    "wof:lastmodified":1690859735,
     "wof:name":"Altufyevsky",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",
@@ -111,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    37.58396338459682,
-    55.87969916924474,
-    37.58396338459682,
-    55.87969916924474
+    37.583963,
+    55.879699,
+    37.583963,
+    55.879699
 ],
-  "geometry": {"coordinates":[37.58396338459682,55.87969916924474],"type":"Point"}
+  "geometry": {"coordinates":[37.583963,55.879699],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000607,
     "geom:area_square_m":4449360.040856,
-    "geom:bbox":"87.3790588379,53.6195831299,87.4292755127,53.6443061829",
+    "geom:bbox":"87.379059,53.619583,87.429276,53.644306",
     "geom:latitude":53.630602,
     "geom:longitude":87.404528,
     "gn:latitude":53.6239,
@@ -43,6 +43,9 @@
     "name:che_x_preferred":[
         "\u041e\u0441\u0438\u043d\u043d\u0438\u043a\u0438"
     ],
+    "name:crh_x_preferred":[
+        "Osinniki"
+    ],
     "name:deu_x_preferred":[
         "Ossinniki"
     ],
@@ -67,11 +70,23 @@
     "name:hsb_x_preferred":[
         "Osinniki"
     ],
+    "name:hun_x_preferred":[
+        "Oszinnyiki"
+    ],
     "name:ita_x_preferred":[
         "Osinniki"
     ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30b7\u30f3\u30cb\u30ad"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e1\u10d8\u10dc\u10d8\u10d9\u10d8"
+    ],
     "name:lit_x_preferred":[
         "Osinikas"
+    ],
+    "name:nan_x_preferred":[
+        "Osinniki"
     ],
     "name:nld_x_preferred":[
         "Osinniki"
@@ -103,6 +118,9 @@
     "name:slk_x_preferred":[
         "Osinniki"
     ],
+    "name:spa_x_preferred":[
+        "Osinniki"
+    ],
     "name:srp_x_preferred":[
         "\u041e\u0441\u0438\u043d\u0438\u043a\u0438"
     ],
@@ -114,6 +132,9 @@
     ],
     "name:tur_x_preferred":[
         "Osinniki"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u0456\u043d\u043d\u0438\u043a\u0438"
     ],
     "name:vep_x_preferred":[
         "Osinniki"
@@ -164,7 +185,7 @@
         "wk:page":"Osinniki"
     },
     "wof:country":"RU",
-    "wof:geomhash":"7387bf50b7f7a76de0c97f1deef99841",
+    "wof:geomhash":"bf42d2c80769de2be54bd672e7da31fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,7 +197,7 @@
         }
     ],
     "wof:id":102013257,
-    "wof:lastmodified":1566615045,
+    "wof:lastmodified":1690858751,
     "wof:name":"",
     "wof:parent_id":1108735715,
     "wof:placetype":"locality",
@@ -188,10 +209,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    87.37905883789062,
-    53.61958312988281,
-    87.42927551269531,
-    53.64430618286133
+    87.379059,
+    53.619583,
+    87.429276,
+    53.644306
 ],
-  "geometry": {"coordinates":[[[87.40338897705078,53.61958312988281],[87.38138580322266,53.62188720703125],[87.37905883789062,53.62616729736328],[87.38691711425781,53.62939071655273],[87.39069366455078,53.63094329833984],[87.39555358886719,53.63661193847656],[87.42702484130859,53.64430618286133],[87.42808532714844,53.64211273193359],[87.42927551269531,53.63955688476562],[87.41439056396484,53.62947082519531],[87.41410827636719,53.62352752685547],[87.40972137451172,53.62058258056641],[87.40338897705078,53.61958312988281]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[87.403389,53.619583],[87.38138600000001,53.621887],[87.379059,53.626167],[87.386917,53.629391],[87.390694,53.630943],[87.395554,53.636612],[87.427025,53.644306],[87.428085,53.642113],[87.429276,53.639557],[87.41439099999999,53.629471],[87.414108,53.623528],[87.409721,53.620583],[87.403389,53.619583]]],"type":"Polygon"}
 }

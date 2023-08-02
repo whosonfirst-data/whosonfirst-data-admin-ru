@@ -57,6 +57,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:bel_x_preferred":[
+        "\u041b\u0430\u0445\u0434\u044d\u043d\u043f\u043e\u0445\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Lakhdenpokhskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u041b\u0430\u0445\u0434\u0435\u043d\u043f\u043e\u0445\u044c\u044f\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -79,6 +85,9 @@
     "name:fra_x_preferred":[
         "Ra\u00efon de Lahdenpohja"
     ],
+    "name:frr_x_preferred":[
+        "Lachdenpochja"
+    ],
     "name:hun_x_preferred":[
         "Lahgyenpohjai j\u00e1r\u00e1s"
     ],
@@ -94,10 +103,16 @@
     "name:lav_x_preferred":[
         "Lahdenpohjas rajons"
     ],
+    "name:nan_x_preferred":[
+        "Lakhdenpokhsky Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Lachdenpochskiy rayon"
     ],
     "name:nob_x_preferred":[
+        "Lahdenpohjan piiri"
+    ],
+    "name:olo_x_preferred":[
         "Lahdenpohjan piiri"
     ],
     "name:pol_x_preferred":[
@@ -108,6 +123,9 @@
     ],
     "name:sco_x_preferred":[
         "Lakhdenpokhsky Destrict"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0430\u0445\u0434\u0435\u043d\u043f\u043e\u0445\u044c\u044f \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0445\u0434\u0435\u043d\u043f\u043e\u0445\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -183,7 +201,7 @@
         }
     ],
     "wof:id":890482597,
-    "wof:lastmodified":1642541487,
+    "wof:lastmodified":1690859874,
     "wof:name":"Lakhdenpokhskiy",
     "wof:parent_id":85688193,
     "wof:placetype":"county",

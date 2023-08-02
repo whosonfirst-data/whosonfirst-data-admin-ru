@@ -23,8 +23,20 @@
     "name:ara_x_preferred":[
         "\u0634\u0644\u064a\u0633\u0644\u0628\u0648\u0631\u063a"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u0644\u064a\u0633\u0644\u0628\u0648\u0631\u062c"
+    ],
+    "name:aym_x_preferred":[
+        "Schl\u00fcsselburg"
+    ],
     "name:azb_x_preferred":[
         "\u0634\u0644\u06cc\u0633\u0644\u0628\u0648\u0631\u0642"
+    ],
+    "name:aze_x_preferred":[
+        "\u015elisselburq"
+    ],
+    "name:bak_x_preferred":[
+        "\u0428\u043b\u0438\u0441\u0441\u0435\u043b\u044c\u0431\u0443\u0440\u0433"
     ],
     "name:bel_x_preferred":[
         "\u0428\u043b\u0456\u0441\u0435\u043b\u044c\u0431\u0443\u0440\u0433"
@@ -41,8 +53,14 @@
     "name:ces_x_preferred":[
         "\u0160lisselburg"
     ],
+    "name:crh_x_preferred":[
+        "\u015elisselburg"
+    ],
     "name:dan_x_preferred":[
         "N\u00f6teborg"
+    ],
+    "name:dan_x_variant":[
+        "Sjlisselburg"
     ],
     "name:deu_x_preferred":[
         "Schl\u00fcsselburg"
@@ -57,7 +75,8 @@
         "Shlissel'burg"
     ],
     "name:eng_x_variant":[
-        "Shlisselburg"
+        "Shlisselburg",
+        "Schl\u00fcsselburg"
     ],
     "name:epo_x_preferred":[
         "\u015clisselburg"
@@ -86,6 +105,12 @@
     "name:hsb_x_preferred":[
         "\u0160lisselburg"
     ],
+    "name:hun_x_preferred":[
+        "Schl\u00fcsselburg"
+    ],
+    "name:ido_x_preferred":[
+        "Shlisselburg"
+    ],
     "name:ita_x_preferred":[
         "\u0160lissel'burg"
     ],
@@ -104,8 +129,14 @@
     "name:lat_x_preferred":[
         "Schlusselburgum"
     ],
+    "name:lat_x_variant":[
+        "Clidopolis"
+    ],
     "name:lav_x_preferred":[
         "\u0160liselburga"
+    ],
+    "name:nan_x_preferred":[
+        "Shlisselburg"
     ],
     "name:nld_x_preferred":[
         "Sjlisselburg"
@@ -119,11 +150,17 @@
     "name:nor_x_preferred":[
         "Sjlisselburg"
     ],
+    "name:oss_x_preferred":[
+        "\u0428\u043b\u0438\u0441\u0441\u0435\u043b\u044c\u0431\u0443\u0440\u0433"
+    ],
     "name:pol_x_preferred":[
         "Szlisselburg"
     ],
     "name:por_x_preferred":[
         "Shlisselburg"
+    ],
+    "name:que_x_preferred":[
+        "Schl\u00fcsselburg"
     ],
     "name:rus_x_historical":[
         "\u041d\u043e\u0442\u0435\u0431\u0443\u0440\u0433",
@@ -145,6 +182,9 @@
     "name:spa_x_preferred":[
         "Shlisselburg"
     ],
+    "name:spa_x_variant":[
+        "Schl\u00fcsselburg"
+    ],
     "name:srp_x_preferred":[
         "\u0428\u043b\u0438\u0441\u0435\u0459\u0431\u0443\u0440\u0433"
     ],
@@ -159,6 +199,9 @@
     ],
     "name:tgl_x_preferred":[
         "Shlisselburg"
+    ],
+    "name:tur_x_preferred":[
+        "\u015elisselburg"
     ],
     "name:ukr_x_preferred":[
         "\u0428\u043b\u0456\u0441\u0441\u0435\u043b\u044c\u0431\u0443\u0440\u0433"
@@ -221,7 +264,7 @@
         }
     ],
     "wof:id":890487143,
-    "wof:lastmodified":1566630915,
+    "wof:lastmodified":1690860094,
     "wof:name":"Shlissel'burg",
     "wof:parent_id":890484443,
     "wof:placetype":"locality",

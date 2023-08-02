@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000253,
     "geom:area_square_m":2272653.112245,
-    "geom:bbox":"45.5492782593,43.3022766113,45.5778045654,43.3202514648",
-    "geom:latitude":43.309721,
+    "geom:bbox":"45.549278,43.302277,45.577805,43.320251",
+    "geom:latitude":43.30972,
     "geom:longitude":45.561251,
     "iso:country":"RU",
     "lbl:latitude":43.30842,
@@ -22,8 +22,14 @@
     "name:afr_x_preferred":[
         "Grozni"
     ],
+    "name:aka_x_preferred":[
+        "Grozny"
+    ],
     "name:ara_x_preferred":[
         "\u063a\u0631\u0648\u0632\u0646\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u062c\u0631\u0648\u0632\u0646\u0649"
     ],
     "name:ast_x_preferred":[
         "Grozni"
@@ -64,11 +70,20 @@
     "name:ces_x_preferred":[
         "Groznyj"
     ],
+    "name:ces_x_variant":[
+        "Grozn\u00fd"
+    ],
     "name:che_x_preferred":[
         "\u0421\u043e\u044c\u043b\u0436\u0430-\u0413\u04c0\u0430\u043b\u0430"
     ],
     "name:chv_x_preferred":[
         "\u0413\u0440\u043e\u0437\u043d\u044b\u0439"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06af\u0631\u06c6\u0632\u0646\u06cc"
+    ],
+    "name:crh_x_preferred":[
+        "Grozn\u0131y"
     ],
     "name:cym_x_preferred":[
         "Grozny"
@@ -105,6 +120,9 @@
     ],
     "name:fra_x_preferred":[
         "Grozny"
+    ],
+    "name:frr_x_preferred":[
+        "Grosny"
     ],
     "name:gle_x_preferred":[
         "Grozny"
@@ -145,6 +163,9 @@
     "name:inh_x_preferred":[
         "\u0428\u043e\u043b\u0436\u0430-\u0433\u04c0\u0430\u043b\u0430"
     ],
+    "name:inh_x_variant":[
+        "\u0428\u043e\u043b\u0436\u0430-\u0413\u04c0\u0430\u043b\u0430"
+    ],
     "name:isl_x_preferred":[
         "Grosn\u00ed"
     ],
@@ -184,11 +205,20 @@
     "name:lad_x_preferred":[
         "Grozni"
     ],
+    "name:lat_x_preferred":[
+        "Severa"
+    ],
     "name:lav_x_preferred":[
         "Groznija"
     ],
     "name:lit_x_preferred":[
         "Groznas"
+    ],
+    "name:lld_x_preferred":[
+        "Grosni"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d17\u0d4d\u0d30\u0d4b\u0d38\u0d4d\u200c\u0d28\u0d3f"
     ],
     "name:mar_x_preferred":[
         "\u0917\u094d\u0930\u094b\u091d\u0928\u0940"
@@ -199,6 +229,9 @@
     "name:mkd_x_preferred":[
         "\u0413\u0440\u043e\u0437\u043d\u0438"
     ],
+    "name:mlt_x_preferred":[
+        "Grozny"
+    ],
     "name:mon_x_preferred":[
         "\u0413\u0440\u043e\u0437\u043d\u044b\u0439"
     ],
@@ -207,6 +240,9 @@
     ],
     "name:myv_x_preferred":[
         "\u0413\u0440\u043e\u0437\u043d\u043e\u0439 \u043e\u0448"
+    ],
+    "name:nan_x_preferred":[
+        "Grozny"
     ],
     "name:nld_x_preferred":[
         "Grozny"
@@ -223,11 +259,17 @@
     "name:oss_x_preferred":[
         "\u0413\u0440\u043e\u0437\u043d\u0430"
     ],
+    "name:pnb_x_preferred":[
+        "\u06af\u0631\u0648\u0632\u0646\u06cc"
+    ],
     "name:pol_x_preferred":[
         "Grozny"
     ],
     "name:por_x_preferred":[
         "Gr\u00f3zni"
+    ],
+    "name:pus_x_preferred":[
+        "\u06ab\u0631\u0648\u0632\u0646\u064a"
     ],
     "name:ron_x_preferred":[
         "Grozn\u00eei"
@@ -241,6 +283,9 @@
     "name:sco_x_preferred":[
         "Grozny"
     ],
+    "name:sgs_x_preferred":[
+        "Groznos"
+    ],
     "name:sin_x_preferred":[
         "\u0d9c\u0dca\u0dbb\u0ddd\u0dc3\u0dca\u0db1\u0dd2"
     ],
@@ -250,10 +295,16 @@
     "name:slv_x_preferred":[
         "Grozni"
     ],
+    "name:snd_x_preferred":[
+        "\u06af\u0631\u0648\u0632\u0646\u064a"
+    ],
     "name:som_x_preferred":[
         "Garoosni"
     ],
     "name:spa_x_preferred":[
+        "Grozni"
+    ],
+    "name:sqi_x_preferred":[
         "Grozni"
     ],
     "name:srd_x_preferred":[
@@ -280,6 +331,9 @@
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c30\u0c4b\u0c1c\u0c4d\u0c28\u0c40"
     ],
+    "name:tgk_x_preferred":[
+        "\u0413\u0440\u043e\u0437\u043d\u0438\u0439"
+    ],
     "name:tgl_x_preferred":[
         "Grozny"
     ],
@@ -303,6 +357,9 @@
     ],
     "name:uzb_x_preferred":[
         "Grozniy"
+    ],
+    "name:vec_x_preferred":[
+        "Groznyj"
     ],
     "name:vep_x_preferred":[
         "Groznii"
@@ -364,7 +421,7 @@
         "wd:id":"Q5196"
     },
     "wof:country":"RU",
-    "wof:geomhash":"9249f79daef5dc6dc955ed915bcf1659",
+    "wof:geomhash":"1de45b01b13c4ab63d2f26c6600679a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -376,7 +433,7 @@
         }
     ],
     "wof:id":102016631,
-    "wof:lastmodified":1566615461,
+    "wof:lastmodified":1690859009,
     "wof:name":"Groznyy",
     "wof:parent_id":1108733941,
     "wof:placetype":"locality",
@@ -386,10 +443,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    45.54927825927734,
-    43.30227661132812,
-    45.57780456542969,
-    43.32025146484375
+    45.549278,
+    43.302277,
+    45.577805,
+    43.320251
 ],
-  "geometry": {"coordinates":[[[45.57383346557617,43.30805587768555],[45.57602691650391,43.30655670166016],[45.57780456542969,43.30286026000977],[45.57338714599609,43.30247116088867],[45.56469345092773,43.30491638183594],[45.56213760375977,43.30313873291016],[45.5589714050293,43.30227661132812],[45.55527877807617,43.30416488647461],[45.55319595336914,43.30502700805664],[45.55064010620117,43.30608367919922],[45.55544281005859,43.31011199951172],[45.55486297607422,43.31105422973633],[45.54927825927734,43.31275177001953],[45.55002593994141,43.31752777099609],[45.55263900756836,43.32025146484375],[45.55825042724609,43.31922149658203],[45.55997085571289,43.31460952758789],[45.56244277954102,43.31319427490234],[45.57049942016602,43.31033325195312],[45.57383346557617,43.30805587768555]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[45.573833,43.308056],[45.576027,43.306557],[45.577805,43.30286],[45.573387,43.302471],[45.564693,43.304916],[45.562138,43.303139],[45.558971,43.302277],[45.555279,43.304165],[45.553196,43.305027],[45.55064,43.306084],[45.555443,43.310112],[45.554863,43.311054],[45.549278,43.312752],[45.550026,43.317528],[45.552639,43.320251],[45.55825,43.319221],[45.559971,43.31461],[45.562443,43.313194],[45.570499,43.310333],[45.573833,43.308056]]],"type":"Polygon"}
 }

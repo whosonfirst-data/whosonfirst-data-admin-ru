@@ -67,6 +67,9 @@
     "name:bak_x_preferred":[
         "\u04a0\u0430\u0440\u0430\u0441\u04d9\u0439-\u0427\u0435\u0440\u043a\u0435\u0441 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u04bb\u044b"
     ],
+    "name:bak_x_variant":[
+        "\u04a0\u0430\u0440\u0430\u0441\u0430\u0439-\u0427\u0435\u0440\u043a\u0435\u0441 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u04bb\u044b"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u0430-\u0427\u0430\u0440\u043a\u0435\u0441\u0456\u044f"
     ],
@@ -97,8 +100,17 @@
     "name:ces_x_preferred":[
         "Kara\u010dajevsko-\u010cerkesko"
     ],
+    "name:ces_x_variant":[
+        "Kara\u010dajsko-\u010cerkesko"
+    ],
     "name:che_x_preferred":[
         "\u041a\u0445\u0430\u0440\u0430\u0447\u043e\u0439-\u0427\u0435\u0440\u0433\u0430\u0437\u0438\u0439\u0447\u043e\u044c"
+    ],
+    "name:chv_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0447\u0430\u0439-\u0427\u0435\u0440\u043a\u0435\u0441 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438"
+    ],
+    "name:crh_x_preferred":[
+        "Qara\u00e7ay-\u00c7erkesiya"
     ],
     "name:dan_x_preferred":[
         "Karatjajevo-Tjerkessien"
@@ -124,7 +136,8 @@
     "name:eng_x_variant":[
         "Karachaevo-Cherkesskaja respublika",
         "Karachay-Cherkess Republic",
-        "Republic of Karachay-Cherkess"
+        "Republic of Karachay-Cherkess",
+        "Karachay-Cherkessia"
     ],
     "name:epo_x_preferred":[
         "Kara\u0109ajio-\u0108erkesio"
@@ -240,6 +253,12 @@
     "name:lit_x_preferred":[
         "Kara\u010diaj\u0173 \u010cerkesija"
     ],
+    "name:lld_x_preferred":[
+        "Caraciai-Cerchessia"
+    ],
+    "name:lmo_x_preferred":[
+        "Kara\u010daj-Circassia"
+    ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u0930\u093e\u091a\u093e\u092f-\u091a\u0947\u0930\u094d\u0915\u0947\u0938 \u092a\u094d\u0930\u091c\u093e\u0938\u0924\u094d\u0924\u093e\u0915"
     ],
@@ -325,6 +344,9 @@
     "name:spa_x_preferred":[
         "Karach\u00e1yevo-Cherkesia"
     ],
+    "name:sqi_x_preferred":[
+        "Kara\u00e7aj-\u00c7erkesia"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0447\u0430\u0458\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0437\u0438\u0458\u0430"
     ],
@@ -356,7 +378,8 @@
         "\u0e01\u0e32\u0e23\u0e32\u0e0a\u0e32\u0e22-\u0e0a\u0e32\u0e23\u0e4c\u0e04\u0e40\u0e04\u0e2a"
     ],
     "name:tha_x_variant":[
-        "\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e23\u0e31\u0e10\u0e04\u0e32\u0e23\u0e32\u0e44\u0e0a-\u0e40\u0e0a\u0e35\u0e22\u0e23\u0e4c\u0e40\u0e04\u0e2a\u0e2a\u0e4c"
+        "\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e23\u0e31\u0e10\u0e04\u0e32\u0e23\u0e32\u0e44\u0e0a-\u0e40\u0e0a\u0e35\u0e22\u0e23\u0e4c\u0e40\u0e04\u0e2a\u0e2a\u0e4c",
+        "\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e23\u0e31\u0e10\u0e04\u0e32\u0e23\u0e32\u0e0a\u0e32\u0e40\u0e22\u0e42\u0e27-\u0e0b\u0e35\u0e23\u0e4c\u0e04\u0e31\u0e2a\u0e40\u0e0b\u0e35\u0e22"
     ],
     "name:tur_x_preferred":[
         "Kara\u00e7ay-\u00c7erkesya"
@@ -399,6 +422,9 @@
     ],
     "name:yue_x_preferred":[
         "\u5361\u62c9\u6070\u4f0a-\u5207\u723e\u514b\u65af\u5171\u548c\u570b"
+    ],
+    "name:yue_x_variant":[
+        "\u5361\u62c9\u67e5\u4f0a\uff0d\u8eca\u523b\u65af"
     ],
     "name:zho_x_preferred":[
         "\u5361\u62c9\u6070\u4f0a-\u5207\u5c14\u514b\u65af\u5171\u548c\u56fd"
@@ -540,7 +566,7 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1642541087,
+    "wof:lastmodified":1690859262,
     "wof:name":"Karachay-Cherkess",
     "wof:parent_id":85632685,
     "wof:placetype":"region",

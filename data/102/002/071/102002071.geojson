@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000347,
     "geom:area_square_m":2056114.892784,
-    "geom:bbox":"46.8980827332,61.3246116638,46.9421386719,61.3378067017",
+    "geom:bbox":"46.898083,61.324612,46.942139,61.337807",
     "geom:latitude":61.331087,
-    "geom:longitude":46.919036,
+    "geom:longitude":46.919037,
     "gn:population":2465,
     "iso:country":"RU",
     "lbl:latitude":61.331167,
@@ -22,6 +22,9 @@
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0644\u0641\u064a\u062a\u0634\u063a\u0648\u062f\u0633\u0643"
+    ],
+    "name:ast_x_preferred":[
+        "Solvychegodsk"
     ],
     "name:azb_x_preferred":[
         "\u0633\u0648\u0644\u0648\u06cc\u0686\u0642\u0648\u062f\u0633\u06a9"
@@ -48,6 +51,9 @@
     "name:che_x_preferred":[
         "\u0421\u043e\u043b\u044c\u0432\u044b\u0447\u0435\u0433\u043e\u0434\u0441\u043a"
     ],
+    "name:crh_x_preferred":[
+        "Solv\u0131\u00e7egodsk"
+    ],
     "name:deu_x_preferred":[
         "Solwytschegodsk"
     ],
@@ -59,6 +65,12 @@
     ],
     "name:epo_x_preferred":[
         "Solvi\u0109egodsk"
+    ],
+    "name:est_x_preferred":[
+        "Solv\u00f5t\u0161egodsk"
+    ],
+    "name:eus_x_preferred":[
+        "Solvytxegodsk"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u0644\u0648\u06cc\u0686\u06af\u0648\u062f\u0633\u06a9"
@@ -90,17 +102,26 @@
     "name:kor_x_preferred":[
         "\uc194\ube44\uccb4\uace0\ub4dc\uc2a4\ud06c"
     ],
+    "name:lat_x_preferred":[
+        "Solivytschegda"
+    ],
     "name:lav_x_preferred":[
         "So\u013cvi\u010degodska"
     ],
     "name:ltz_x_preferred":[
         "Solwytschegodsk"
     ],
+    "name:mdf_x_preferred":[
+        "\u0421\u043e\u043b\u044c\u0432\u044b\u0447\u0435\u0433\u043e\u0434\u0441\u043a"
+    ],
     "name:mhr_x_preferred":[
         "\u0421\u043e\u043b\u044c\u0432\u044b\u0447\u0435\u0433\u043e\u0434\u0441\u043a"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u043e\u043b\u0432\u0438\u0447\u0435\u0433\u043e\u0434\u0441\u043a"
+    ],
+    "name:nan_x_preferred":[
+        "Solvychegodsk"
     ],
     "name:nld_x_preferred":[
         "Solvitsjegodsk"
@@ -117,6 +138,9 @@
     "name:pol_x_preferred":[
         "Solwyczegodzk"
     ],
+    "name:pol_x_variant":[
+        "Solwyczegodsk"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u043e\u043b\u044c\u0432\u044b\u0447\u0435\u0433\u043e\u0434\u0441\u043a"
     ],
@@ -125,6 +149,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0421\u043e\u043b\u044c\u0432\u044b\u0447\u0435\u0433\u043e\u0434\u0441\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Solvytjegodsk"
     ],
     "name:tat_x_preferred":[
         "\u0421\u043e\u043b\u044c\u0432\u044b\u0447\u0435\u0433\u043e\u0434\u0441\u043a"
@@ -187,7 +214,7 @@
         "wk:page":"Solvychegodsk"
     },
     "wof:country":"RU",
-    "wof:geomhash":"243c935a1112d4ee9199f1e2e68c6bbf",
+    "wof:geomhash":"0a181ea51e68ff412052cdf8456ab9df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -199,7 +226,7 @@
         }
     ],
     "wof:id":102002071,
-    "wof:lastmodified":1566615674,
+    "wof:lastmodified":1690859165,
     "wof:name":"Sol'Vychegodsk",
     "wof:parent_id":1108734627,
     "wof:placetype":"locality",
@@ -211,10 +238,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.8980827331543,
-    61.32461166381836,
-    46.942138671875,
-    61.33780670166016
+    46.898083,
+    61.324612,
+    46.942139,
+    61.337807
 ],
-  "geometry": {"coordinates":[[[46.90097045898438,61.32780456542969],[46.900390625,61.32913970947266],[46.8980827331543,61.33441543579102],[46.90694427490234,61.33722305297852],[46.91433334350586,61.33444595336914],[46.92497253417969,61.33780670166016],[46.93386077880859,61.33205413818359],[46.93411254882812,61.33189010620117],[46.93775177001953,61.33255386352539],[46.94197082519531,61.33097076416016],[46.942138671875,61.32941818237305],[46.92536163330078,61.32461166381836],[46.90325164794922,61.32852935791016],[46.90097045898438,61.32780456542969]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[46.90097,61.327805],[46.900391,61.32914],[46.898083,61.334415],[46.906944,61.337223],[46.914333,61.334446],[46.924973,61.337807],[46.933861,61.332054],[46.934113,61.33189],[46.937752,61.332554],[46.941971,61.330971],[46.942139,61.329418],[46.925362,61.324612],[46.903252,61.328529],[46.90097,61.327805]]],"type":"Polygon"}
 }

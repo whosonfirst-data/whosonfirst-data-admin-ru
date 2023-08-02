@@ -4,9 +4,9 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.001186,
+    "geom:area":0.001187,
     "geom:area_square_m":8242556.731214,
-    "geom:bbox":"37.9124298096,55.7980728149,37.9806785583,55.8355064392",
+    "geom:bbox":"37.91243,55.798073,37.980679,55.835506",
     "geom:latitude":55.818452,
     "geom:longitude":37.950841,
     "gn:latitude":55.80945,
@@ -67,6 +67,9 @@
     "name:chv_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0448\u0438\u0445\u0430"
     ],
+    "name:crh_x_preferred":[
+        "Bala\u015fiha"
+    ],
     "name:dan_x_preferred":[
         "Balasjikha"
     ],
@@ -88,6 +91,9 @@
     "name:est_x_preferred":[
         "Bala\u0161ihha"
     ],
+    "name:eus_x_preferred":[
+        "Balaxikha"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u0644\u0627\u0634\u06cc\u062e\u0627"
     ],
@@ -96,6 +102,9 @@
     ],
     "name:fra_x_preferred":[
         "Balachikha"
+    ],
+    "name:frr_x_preferred":[
+        "Balaschicha"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0ab2\u0abe\u0ab6\u0abf\u0a96\u0abe"
@@ -136,6 +145,9 @@
     "name:kaz_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0448\u0438\u0445\u0430"
     ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u0448\u0438\u0445\u0430"
+    ],
     "name:kor_x_preferred":[
         "\ubc1c\ub77c\uc2dc\ud558"
     ],
@@ -145,6 +157,9 @@
     "name:lit_x_preferred":[
         "Bala\u0161icha"
     ],
+    "name:lld_x_preferred":[
+        "Balasciha"
+    ],
     "name:mar_x_preferred":[
         "\u092c\u093e\u0932\u093e\u0936\u093f\u0916\u093e"
     ],
@@ -152,6 +167,9 @@
         "\u0411\u0430\u043b\u0430\u0448\u0438\u0445\u0435"
     ],
     "name:msa_x_preferred":[
+        "Balashikha"
+    ],
+    "name:nan_x_preferred":[
         "Balashikha"
     ],
     "name:nld_x_preferred":[
@@ -235,14 +253,23 @@
     "name:urd_x_preferred":[
         "\u0628\u0627\u0644\u0627\u0634\u06cc\u06a9"
     ],
+    "name:vep_x_preferred":[
+        "Bala\u0161ih"
+    ],
     "name:vie_x_preferred":[
         "Balashikha"
     ],
     "name:war_x_preferred":[
         "Balashikha"
     ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u62c9\u5e0c\u54c8"
+    ],
     "name:xal_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0448\u0438\u0445\u0430 \u0431\u0430\u043b\u04bb\u0441\u043d"
+    ],
+    "name:yue_x_preferred":[
+        "\u5df4\u5587\u58eb\u52a0"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u62c9\u5e0c\u54c8"
@@ -288,7 +315,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"afcfa9a2cf96f31d05eb64e514408896",
+    "wof:geomhash":"3eed1e112eb7acc0397e0af49df5430f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -298,7 +325,7 @@
         }
     ],
     "wof:id":102003135,
-    "wof:lastmodified":1582329798,
+    "wof:lastmodified":1690859041,
     "wof:name":"Balashikha",
     "wof:parent_id":1108733705,
     "wof:placetype":"locality",
@@ -310,10 +337,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    37.91242980957031,
-    55.79807281494141,
-    37.98067855834961,
-    55.83550643920898
+    37.91243,
+    55.798073,
+    37.980679,
+    55.835506
 ],
-  "geometry": {"coordinates":[[[37.91350173950195,55.81880950927734],[37.91242980957031,55.8210563659668],[37.94202423095703,55.83173370361328],[37.95782089233398,55.83550643920898],[37.97270584106445,55.82599258422852],[37.96595764160156,55.8211784362793],[37.98067855834961,55.81303024291992],[37.95887756347656,55.79807281494141],[37.94801330566406,55.80087661743164],[37.95100402832031,55.81012725830078],[37.94918060302734,55.81188583374023],[37.91856002807617,55.81716537475586],[37.91350173950195,55.81880950927734]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[37.913502,55.81881],[37.91243,55.821056],[37.942024,55.831734],[37.957821,55.835506],[37.972706,55.825993],[37.965958,55.821178],[37.980679,55.81303],[37.958878,55.798073],[37.948013,55.800877],[37.951004,55.810127],[37.949181,55.811886],[37.91856,55.817165],[37.913502,55.81881]]],"type":"Polygon"}
 }

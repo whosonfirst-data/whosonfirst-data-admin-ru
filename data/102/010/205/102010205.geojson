@@ -86,7 +86,8 @@
         "Sura"
     ],
     "name:eng_x_variant":[
-        "sura"
+        "sura",
+        "surah"
     ],
     "name:epo_x_preferred":[
         "surao"
@@ -103,8 +104,14 @@
     "name:fin_x_preferred":[
         "Suura"
     ],
+    "name:fin_x_variant":[
+        "suura"
+    ],
     "name:fra_x_preferred":[
         "sourate"
+    ],
+    "name:glg_x_preferred":[
+        "Sura"
     ],
     "name:hau_x_preferred":[
         "Surah"
@@ -115,6 +122,9 @@
     "name:hin_x_preferred":[
         "\u0938\u0941\u0930\u0939"
     ],
+    "name:hin_x_variant":[
+        "\u0938\u0942\u0930\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Sura"
     ],
@@ -123,6 +133,9 @@
     ],
     "name:ind_x_preferred":[
         "Surah"
+    ],
+    "name:inh_x_preferred":[
+        "\u041a\u044a\u043e\u0440I\u0430\u043d \u0441\u0443\u0440\u0430\u0442"
     ],
     "name:isl_x_preferred":[
         "S\u00fara"
@@ -135,6 +148,12 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30fc\u30e9"
+    ],
+    "name:kas_x_preferred":[
+        "\u0633\u0648\u0657\u0631\u0655"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10e0\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u04af\u0440\u0435"
@@ -154,6 +173,9 @@
     "name:lav_x_preferred":[
         "S\u016bra"
     ],
+    "name:lav_x_variant":[
+        "s\u016bra"
+    ],
     "name:lit_x_preferred":[
         "Sura"
     ],
@@ -169,11 +191,20 @@
     "name:msa_x_preferred":[
         "Surah Quran"
     ],
+    "name:msa_x_variant":[
+        "surah al-Quran"
+    ],
+    "name:mya_x_preferred":[
+        "\u1005\u1030\u101b\u102c\u101f\u103a"
+    ],
     "name:mzn_x_preferred":[
         "\u0633\u0648\u0631\u0647"
     ],
     "name:nld_x_preferred":[
         "Soera"
+    ],
+    "name:nld_x_variant":[
+        "soera"
     ],
     "name:nno_x_preferred":[
         "sura"
@@ -183,6 +214,12 @@
     ],
     "name:nor_x_preferred":[
         "Sura"
+    ],
+    "name:orm_x_preferred":[
+        "Suuraah"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0648\u0631\u06c3"
     ],
     "name:pol_x_preferred":[
         "Sura"
@@ -201,6 +238,9 @@
     ],
     "name:rus_x_variant":[
         "\u0441\u0443\u0440\u0430"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c65\u1c69\u1c68\u1c5f"
     ],
     "name:sco_x_preferred":[
         "surah"
@@ -232,6 +272,12 @@
     "name:tel_x_preferred":[
         "\u0c38\u0c42\u0c30\u0c3e"
     ],
+    "name:tgl_x_preferred":[
+        "Surah"
+    ],
+    "name:tuk_x_preferred":[
+        "Sura"
+    ],
     "name:tur_x_preferred":[
         "sure"
     ],
@@ -255,6 +301,9 @@
     ],
     "name:vie_x_variant":[
         "Surah"
+    ],
+    "name:yue_x_preferred":[
+        "\u8607\u62c9"
     ],
     "name:zho_x_preferred":[
         "\u8607\u62c9"
@@ -307,7 +356,7 @@
         }
     ],
     "wof:id":102010205,
-    "wof:lastmodified":1636496969,
+    "wof:lastmodified":1690859022,
     "wof:name":"Sura",
     "wof:parent_id":1108735369,
     "wof:placetype":"locality",

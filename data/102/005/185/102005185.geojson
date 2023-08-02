@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000285,
     "geom:area_square_m":2175321.197887,
-    "geom:bbox":"42.2558403015,51.9441413879,42.2847137451,51.9611358643",
+    "geom:bbox":"42.25584,51.944141,42.284714,51.961136",
     "geom:latitude":51.953354,
     "geom:longitude":42.269201,
     "gn:population":28771,
@@ -44,8 +44,14 @@
     "name:ceb_x_preferred":[
         "Uvarovo"
     ],
+    "name:ces_x_preferred":[
+        "Uvarovo"
+    ],
     "name:che_x_preferred":[
         "\u0423\u0432\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:crh_x_preferred":[
+        "Uvarovo"
     ],
     "name:deu_x_preferred":[
         "Uwarowo"
@@ -75,11 +81,23 @@
     "name:ita_x_preferred":[
         "Uvarovo"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30f4\u30a1\u30ed\u30f4\u30a9"
+    ],
     "name:lit_x_preferred":[
         "Uvarovas"
     ],
     "name:ltz_x_preferred":[
         "Uwarowo"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0423\u0432\u0430\u0440\u043e\u0432\u0430"
+    ],
+    "name:myv_x_preferred":[
+        "\u0423\u0432\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Uvarovo"
     ],
     "name:nld_x_preferred":[
         "Oevarovo"
@@ -95,6 +113,9 @@
     ],
     "name:nor_x_preferred":[
         "Uvarovo"
+    ],
+    "name:oss_x_preferred":[
+        "\u0423\u0432\u0430\u0440\u043e\u0432\u043e"
     ],
     "name:pol_x_preferred":[
         "Uwarowo"
@@ -119,6 +140,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0423\u0432\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:vep_x_preferred":[
+        "Uvarovo"
+    ],
+    "name:vie_x_preferred":[
+        "Uvarovo"
     ],
     "name:war_x_preferred":[
         "Uvarovo"
@@ -166,7 +193,7 @@
         "wk:page":"Uvarovo, Tambov Oblast"
     },
     "wof:country":"RU",
-    "wof:geomhash":"211abd00e1132dbcfb3bc6c4710d9b92",
+    "wof:geomhash":"5dfadd0b87cabf3dc7f09a334d9c8b5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -178,7 +205,7 @@
         }
     ],
     "wof:id":102005185,
-    "wof:lastmodified":1566615661,
+    "wof:lastmodified":1690859147,
     "wof:name":"",
     "wof:parent_id":1108733883,
     "wof:placetype":"locality",
@@ -190,10 +217,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    42.25584030151367,
-    51.94414138793945,
-    42.28471374511719,
-    51.96113586425781
+    42.25584,
+    51.944141,
+    42.284714,
+    51.961136
 ],
-  "geometry": {"coordinates":[[[42.27566528320312,51.96039199829102],[42.27872848510742,51.96113586425781],[42.28169250488281,51.96068572998047],[42.28471374511719,51.95291900634766],[42.25668334960938,51.94414138793945],[42.25584030151367,51.95557403564453],[42.27566528320312,51.96039199829102]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[42.275665,51.960392],[42.278728,51.961136],[42.281693,51.960686],[42.284714,51.952919],[42.256683,51.944141],[42.25584,51.955574],[42.275665,51.960392]]],"type":"Polygon"}
 }

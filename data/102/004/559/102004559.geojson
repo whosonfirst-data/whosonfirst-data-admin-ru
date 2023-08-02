@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000358,
     "geom:area_square_m":2667525.571588,
-    "geom:bbox":"37.0363349915,52.9580574036,37.0655822754,52.9786109924",
+    "geom:bbox":"37.036335,52.958057,37.065582,52.978611",
     "geom:latitude":52.968143,
     "geom:longitude":37.049412,
     "gn:latitude":52.97387,
@@ -28,6 +28,9 @@
     "name:azb_x_preferred":[
         "\u0646\u0648\u0648\u0648\u0633\u06cc\u0644"
     ],
+    "name:aze_x_preferred":[
+        "Novosil"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041d\u0430\u0432\u0430\u0441\u0456\u043b\u044c"
     ],
@@ -43,8 +46,14 @@
     "name:ceb_x_preferred":[
         "Novosil'"
     ],
+    "name:ces_x_preferred":[
+        "Novosil"
+    ],
     "name:che_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0438\u043b\u044c"
+    ],
+    "name:crh_x_preferred":[
+        "Novosil"
     ],
     "name:cym_x_preferred":[
         "Novosil"
@@ -62,6 +71,9 @@
         "Novosil"
     ],
     "name:epo_x_preferred":[
+        "Novosil"
+    ],
+    "name:est_x_preferred":[
         "Novosil"
     ],
     "name:fas_x_preferred":[
@@ -82,8 +94,17 @@
     "name:kor_x_preferred":[
         "\ub178\ubcf4\uc2e4"
     ],
+    "name:lav_x_preferred":[
+        "Novosi\u013ca"
+    ],
     "name:ltz_x_preferred":[
         "Nowosil"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0441\u0438\u043b\u044c"
+    ],
+    "name:nan_x_preferred":[
+        "Novosil"
     ],
     "name:nld_x_preferred":[
         "Novosil"
@@ -96,6 +117,9 @@
     ],
     "name:nor_x_preferred":[
         "Novosil"
+    ],
+    "name:oss_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0441\u0438\u043b\u044c"
     ],
     "name:pol_x_preferred":[
         "Nowosil"
@@ -111,6 +135,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0438\u0459"
+    ],
+    "name:swe_x_preferred":[
+        "Novosil"
     ],
     "name:tat_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0438\u043b\u044c"
@@ -129,6 +156,9 @@
     ],
     "name:und_x_variant":[
         "Novosil\u2019"
+    ],
+    "name:vep_x_preferred":[
+        "Novosil'"
     ],
     "name:war_x_preferred":[
         "Novosil"
@@ -181,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9137717cf857f84a1a8d99bed612df6d",
+    "wof:geomhash":"2fb014b013eeabb15ff105b75e6279d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,7 +221,7 @@
         }
     ],
     "wof:id":102004559,
-    "wof:lastmodified":1582329804,
+    "wof:lastmodified":1690859095,
     "wof:name":"Novosil",
     "wof:parent_id":1108735543,
     "wof:placetype":"locality",
@@ -203,10 +233,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    37.03633499145508,
-    52.95805740356445,
-    37.06558227539062,
-    52.97861099243164
+    37.036335,
+    52.958057,
+    37.065582,
+    52.978611
 ],
-  "geometry": {"coordinates":[[[37.0399169921875,52.96408462524414],[37.03866577148438,52.96744537353516],[37.03633499145508,52.97366714477539],[37.0504150390625,52.97858428955078],[37.05194473266602,52.97861099243164],[37.06558227539062,52.96450042724609],[37.06158447265625,52.96322250366211],[37.0531120300293,52.96055603027344],[37.045166015625,52.95805740356445],[37.04208374023438,52.9583625793457],[37.0399169921875,52.96408462524414]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[37.039917,52.964085],[37.038666,52.967445],[37.036335,52.973667],[37.050415,52.978584],[37.051945,52.978611],[37.065582,52.9645],[37.061584,52.963223],[37.053112,52.960556],[37.045166,52.958057],[37.042084,52.958363],[37.039917,52.964085]]],"type":"Polygon"}
 }

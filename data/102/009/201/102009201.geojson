@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000345,
     "geom:area_square_m":2415516.728492,
-    "geom:bbox":"47.6138343811,55.5608901978,47.6469459534,55.5751647949",
+    "geom:bbox":"47.613834,55.56089,47.646946,55.575165",
     "geom:latitude":55.567971,
     "geom:longitude":47.629333,
     "gn:latitude":55.56325,
@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u064a\u0627\u0646\u0634\u064a\u062e\u0648\u06a4\u0648 \u0646\u0648\u0631\u06a4\u0627\u0634\u0649"
+    ],
     "name:che_x_preferred":[
         "\u042f\u043d\u0448\u0438\u0445\u043e\u0432\u043e-\u041d\u043e\u0440\u0432\u0430\u0448\u0438"
     ],
@@ -39,17 +42,29 @@
     "name:nld_x_preferred":[
         "Jansjichovo-Norvasji"
     ],
+    "name:nno_x_preferred":[
+        "Jansjikhovo-Norvasji"
+    ],
+    "name:nob_x_preferred":[
+        "Jansjikhovo-Norvasji"
+    ],
     "name:nor_x_preferred":[
         "Jansjikhovo-Norvasji"
     ],
     "name:rus_x_preferred":[
         "\u042f\u043d\u0448\u0438\u0445\u043e\u0432\u043e-\u041d\u043e\u0440\u0432\u0430\u0448\u0438"
     ],
+    "name:sqi_x_preferred":[
+        "Jansihovo-Norvasi"
+    ],
     "name:tat_x_preferred":[
         "\u042f\u043d\u0448\u0438\u0445\u043e\u0432\u043e-\u041d\u043e\u0440\u0432\u0430\u0448\u0438"
     ],
     "name:tat_x_variant":[
         "\u042f\u043d\u0448\u044b\u043a-\u041d\u0430\u0440\u0432\u0430\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u043d\u0448\u0438\u0445\u043e\u0432\u043e-\u041d\u043e\u0440\u0432\u0430\u0448\u0456"
     ],
     "name:und_x_variant":[
         "Yanshikovo-Norvashi"
@@ -86,7 +101,7 @@
         "wk:page":"Yanshikhovo-Norvashi"
     },
     "wof:country":"RU",
-    "wof:geomhash":"4187118e36cba44aec527da47e13f3f8",
+    "wof:geomhash":"50ede807a3047d348412b31bcf5943c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,7 +113,7 @@
         }
     ],
     "wof:id":102009201,
-    "wof:lastmodified":1566615246,
+    "wof:lastmodified":1690858856,
     "wof:name":"Yanshikhovo-Norvashi",
     "wof:parent_id":1108734091,
     "wof:placetype":"locality",
@@ -108,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    47.61383438110352,
-    55.56089019775391,
-    47.64694595336914,
-    55.57516479492188
+    47.613834,
+    55.56089,
+    47.646946,
+    55.575165
 ],
-  "geometry": {"coordinates":[[[47.62194442749023,55.56091690063477],[47.61777877807617,55.56655502319336],[47.61383438110352,55.56716537475586],[47.61469268798828,55.57444381713867],[47.63172149658203,55.57516479492188],[47.64694595336914,55.56772232055664],[47.64569473266602,55.56410980224609],[47.63402938842773,55.56089019775391],[47.62194442749023,55.56091690063477]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[47.621944,55.560917],[47.617779,55.566555],[47.613834,55.567165],[47.614693,55.574444],[47.631721,55.575165],[47.646946,55.567722],[47.645695,55.56411],[47.634029,55.56089],[47.621944,55.560917]]],"type":"Polygon"}
 }

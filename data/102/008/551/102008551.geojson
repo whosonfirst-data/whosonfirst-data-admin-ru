@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000501,
     "geom:area_square_m":3325701.845424,
-    "geom:bbox":"49.9189453125,57.5490264893,49.9555282593,57.5687789917",
+    "geom:bbox":"49.918945,57.549026,49.955528,57.568779",
     "geom:latitude":57.558282,
     "geom:longitude":49.938827,
     "gn:population":10282,
@@ -33,12 +33,16 @@
         "\u0413\u043e\u0440\u0430\u0434 \u041d\u043e\u043b\u0456\u043d\u0441\u043a"
     ],
     "name:bel_x_variant":[
-        "\u041d\u043e\u043b\u0456\u043d\u0441\u043a"
+        "\u041d\u043e\u043b\u0456\u043d\u0441\u043a",
+        "\u041d\u0430\u043b\u0456\u043d\u0441\u043a"
     ],
     "name:bul_x_preferred":[
         "\u041d\u043e\u043b\u0438\u043d\u0441\u043a"
     ],
     "name:ceb_x_preferred":[
+        "Nolinsk"
+    ],
+    "name:crh_x_preferred":[
         "Nolinsk"
     ],
     "name:deu_x_preferred":[
@@ -48,6 +52,9 @@
         "Nolinsk"
     ],
     "name:epo_x_preferred":[
+        "Nolinsk"
+    ],
+    "name:est_x_preferred":[
         "Nolinsk"
     ],
     "name:fas_x_preferred":[
@@ -71,8 +78,14 @@
     "name:ita_x_preferred":[
         "Nolinsk"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30ea\u30f3\u30b9\u30af"
+    ],
     "name:ltz_x_preferred":[
         "Nolinsk"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041d\u043e\u043b\u0438\u043d\u0441\u043a"
     ],
     "name:mhr_x_preferred":[
         "\u041d\u043e\u043b\u044c\u043e"
@@ -82,6 +95,9 @@
     ],
     "name:myv_x_preferred":[
         "\u041d\u043e\u043b\u0438\u043d\u0441\u043a"
+    ],
+    "name:nan_x_preferred":[
+        "Nolinsk"
     ],
     "name:nld_x_preferred":[
         "Nolinsk"
@@ -94,6 +110,9 @@
     ],
     "name:nor_x_preferred":[
         "Nolinsk"
+    ],
+    "name:oss_x_preferred":[
+        "\u041d\u043e\u043b\u0438\u043d\u0441\u043a"
     ],
     "name:pol_x_preferred":[
         "Nolinsk"
@@ -122,8 +141,14 @@
     "name:tur_x_preferred":[
         "Nolinsk"
     ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u043b\u0456\u043d\u0441\u044c\u043a"
+    ],
     "name:und_x_variant":[
         "Molotovsk"
+    ],
+    "name:vep_x_preferred":[
+        "Nolinsk"
     ],
     "name:war_x_preferred":[
         "Nolinsk"
@@ -172,7 +197,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7d66ed9c7b901d49637a6d0e8e1f8f4d",
+    "wof:geomhash":"cbf5e6c19a1a2ae9737d208499f60a65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,7 +207,7 @@
         }
     ],
     "wof:id":102008551,
-    "wof:lastmodified":1582329775,
+    "wof:lastmodified":1690858862,
     "wof:name":"Nolinsk",
     "wof:parent_id":1108735469,
     "wof:placetype":"locality",
@@ -194,10 +219,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    49.9189453125,
-    57.54902648925781,
-    49.95552825927734,
-    57.56877899169922
+    49.918945,
+    57.549026,
+    49.955528,
+    57.568779
 ],
-  "geometry": {"coordinates":[[[49.92464065551758,57.56019592285156],[49.92483520507812,57.56241607666016],[49.92499923706055,57.56447219848633],[49.95336151123047,57.56877899169922],[49.95413970947266,57.56319427490234],[49.95416641235352,57.56288909912109],[49.95552825927734,57.55286026000977],[49.94719314575195,57.55169296264648],[49.92797088623047,57.54902648925781],[49.92294311523438,57.5490837097168],[49.9189453125,57.55277633666992],[49.92363739013672,57.55572128295898],[49.92436218261719,57.55666732788086],[49.92464065551758,57.56019592285156]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[49.924641,57.560196],[49.924835,57.562416],[49.924999,57.564472],[49.953362,57.568779],[49.95414,57.563194],[49.954166,57.562889],[49.955528,57.55286],[49.947193,57.551693],[49.927971,57.549026],[49.922943,57.549084],[49.918945,57.552776],[49.923637,57.555721],[49.924362,57.556667],[49.924641,57.560196]]],"type":"Polygon"}
 }

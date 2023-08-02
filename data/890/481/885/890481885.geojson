@@ -31,6 +31,9 @@
     "name:arg_x_preferred":[
         "Gazaros"
     ],
+    "name:arz_x_preferred":[
+        "\u062e\u0632\u0631"
+    ],
     "name:ast_x_preferred":[
         "J\u00e1zaros"
     ],
@@ -55,8 +58,14 @@
     "name:ces_x_preferred":[
         "Chazarsk\u00e1 \u0159\u00ed\u0161e"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u04c0\u0430\u0437\u0430\u0440\u043e\u0439"
+    ],
     "name:chv_x_preferred":[
         "\u0425\u0430\u0441\u0430\u0440\u0441\u0435\u043c"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062e\u0627\u0632\u0627\u0631\u06d5\u06a9\u0627\u0646"
     ],
     "name:cym_x_preferred":[
         "Khazariaid"
@@ -88,6 +97,9 @@
     "name:fin_x_preferred":[
         "Kasaarit"
     ],
+    "name:fin_x_variant":[
+        "kasaarit"
+    ],
     "name:fra_x_preferred":[
         "Khazars"
     ],
@@ -100,6 +112,9 @@
     "name:heb_x_preferred":[
         "\u05de\u05de\u05dc\u05db\u05ea \u05d4\u05db\u05d5\u05d6\u05e8\u05d9\u05dd"
     ],
+    "name:heb_x_variant":[
+        "\u05db\u05d5\u05d6\u05e8\u05d9\u05dd"
+    ],
     "name:hin_x_preferred":[
         "\u0916\u093c\u091c\u093c\u0930 \u0932\u094b\u0917"
     ],
@@ -111,6 +126,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053d\u0561\u0566\u0561\u0580\u0576\u0565\u0580"
+    ],
+    "name:ido_x_preferred":[
+        "Hazari"
     ],
     "name:ind_x_preferred":[
         "Bangsa Khazar"
@@ -139,11 +157,17 @@
     "name:krc_x_preferred":[
         "\u0425\u0430\u0437\u0430\u0440 \u043a\u044a\u0430\u0433\u044a\u0430\u043d\u043b\u044b\u043a\u044a"
     ],
+    "name:kur_x_preferred":[
+        "\u00cemperatoriya Xezer"
+    ],
     "name:lat_x_preferred":[
         "Cosri"
     ],
     "name:lav_x_preferred":[
         "Haz\u0101ri"
+    ],
+    "name:lav_x_variant":[
+        "haz\u0101ri"
     ],
     "name:lbe_x_preferred":[
         "\u0425\u0430\u0437\u0430\u0440"
@@ -157,6 +181,9 @@
     "name:lit_x_preferred":[
         "Chazarai"
     ],
+    "name:min_x_preferred":[
+        "Bangso Khazar"
+    ],
     "name:mkd_x_preferred":[
         "\u0425\u0430\u0437\u0430\u0440\u0438"
     ],
@@ -166,6 +193,9 @@
     "name:nld_x_preferred":[
         "Chazaren"
     ],
+    "name:nld_x_variant":[
+        "chazaren"
+    ],
     "name:nno_x_preferred":[
         "Khazarar"
     ],
@@ -174,6 +204,9 @@
     ],
     "name:nor_x_preferred":[
         "Khazar"
+    ],
+    "name:oci_x_preferred":[
+        "Cazars"
     ],
     "name:oss_x_preferred":[
         "\u0425\u0430\u0437\u0430\u0440\u044b \u043a\u0430\u0433\u0430\u043d\u0430\u0434"
@@ -202,6 +235,9 @@
     "name:rus_x_variant":[
         "\u0445\u0430\u0437\u0430\u0440\u044b"
     ],
+    "name:sah_x_preferred":[
+        "\u0425\u0430\u0437\u0430\u0440\u0434\u0430\u0440"
+    ],
     "name:sco_x_preferred":[
         "Khazars"
     ],
@@ -214,8 +250,14 @@
     "name:spa_x_preferred":[
         "J\u00e1zaros"
     ],
+    "name:spa_x_variant":[
+        "j\u00e1zaros"
+    ],
     "name:srp_x_preferred":[
         "\u0425\u0430\u0437\u0430\u0440\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Wakhazari"
     ],
     "name:swe_x_preferred":[
         "Khazarer"
@@ -229,6 +271,9 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0437\u0430\u0440\u0438"
     ],
+    "name:ukr_x_variant":[
+        "\u0445\u043e\u0437\u0430\u0440\u0438"
+    ],
     "name:urd_x_preferred":[
         "\u062e\u0630\u0631"
     ],
@@ -238,8 +283,17 @@
     "name:vie_x_preferred":[
         "Khazar"
     ],
+    "name:wuu_x_preferred":[
+        "\u53ef\u8428\u4eba"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10ee\u10d0\u10d6\u10d0\u10e0\u10d4\u10e4\u10d8"
+    ],
     "name:yid_x_preferred":[
         "\u05db\u05d5\u05d6\u05e8\u05d9\u05dd"
+    ],
+    "name:yue_x_preferred":[
+        "\u53ef\u85a9\u6c57\u570b"
     ],
     "name:zho_x_preferred":[
         "\u53ef\u8428\u4eba"
@@ -271,7 +325,7 @@
         }
     ],
     "wof:id":890481885,
-    "wof:lastmodified":1566630822,
+    "wof:lastmodified":1690860024,
     "wof:name":"Khazar",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

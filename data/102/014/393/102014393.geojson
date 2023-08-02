@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000459,
     "geom:area_square_m":3555187.573762,
-    "geom:bbox":"90.5754165649,51.1692237854,90.6136932373,51.1859436035",
+    "geom:bbox":"90.575417,51.169224,90.613693,51.185944",
     "geom:latitude":51.177491,
     "geom:longitude":90.592747,
     "gn:latitude":51.18333,
@@ -22,8 +22,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:aka_x_preferred":[
+        "Ak-Dovurak"
+    ],
     "name:ara_x_preferred":[
         "\u0623\u0643\u0644-\u062f\u0648\u0641\u0648\u0631\u0627\u0643"
+    ],
+    "name:ara_x_variant":[
+        "\u0622\u0643-\u062f\u0648\u0641\u0648\u0631\u0627\u0643"
     ],
     "name:azb_x_preferred":[
         "\u0622\u06a9-\u062f\u0648\u0648\u0648\u0631\u0627\u06a9"
@@ -82,14 +88,26 @@
     "name:ita_x_preferred":[
         "Ak-Dovurak"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30af\uff1d\u30c9\u30d6\u30e9\u30af"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d9-\u10d3\u10dd\u10d5\u10e3\u10e0\u10d0\u10d9\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc545\ub3c4\ubd80\ub77d"
+    ],
+    "name:lav_x_preferred":[
+        "Akdovuraka"
     ],
     "name:lit_x_preferred":[
         "Ak Dovurakas"
     ],
     "name:mon_x_preferred":[
         "\u0410\u043a-\u0414\u043e\u0432\u0443\u0440\u0430\u043a"
+    ],
+    "name:nan_x_preferred":[
+        "Ak-Dovurak"
     ],
     "name:nld_x_preferred":[
         "Ak-Dovoerak"
@@ -112,6 +130,9 @@
     "name:pol_x_preferred":[
         "Ak-Dowurak"
     ],
+    "name:pus_x_preferred":[
+        "\u0627\u06a9 \u062f\u0648\u0648\u0631\u0627\u06a9"
+    ],
     "name:rup_x_preferred":[
         "Ak-Dovurak"
     ],
@@ -123,6 +144,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0410\u043a-\u0414\u043e\u0432\u0443\u0440\u0430\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Ak-Dovurak"
     ],
     "name:tat_x_preferred":[
         "\u0410\u043a-\u0414\u043e\u0432\u0443\u0440\u0430\u043a"
@@ -147,6 +171,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u06a9 \u062f\u0648\u0648\u0648\u0631\u0627\u06a9"
+    ],
+    "name:uzb_x_preferred":[
+        "Ak-Dovurak"
     ],
     "name:vep_x_preferred":[
         "Ak-Dovurak"
@@ -201,7 +228,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"703cef86ae80667d873a8709e9ed19b3",
+    "wof:geomhash":"2e0baf593b27bc1b24962f08195fdef1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -211,7 +238,7 @@
         }
     ],
     "wof:id":102014393,
-    "wof:lastmodified":1582329765,
+    "wof:lastmodified":1690858791,
     "wof:name":"Ak-Dovurak",
     "wof:parent_id":1108732633,
     "wof:placetype":"locality",
@@ -223,10 +250,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    90.5754165649414,
-    51.16922378540039,
-    90.61369323730469,
-    51.18594360351562
+    90.575417,
+    51.169224,
+    90.613693,
+    51.185944
 ],
-  "geometry": {"coordinates":[[[90.59672546386719,51.18474960327148],[90.59757995605469,51.18452835083008],[90.61296844482422,51.18036270141602],[90.61369323730469,51.17580413818359],[90.60133361816406,51.1708869934082],[90.59105682373047,51.17113876342773],[90.58258056640625,51.16922378540039],[90.58039093017578,51.16930389404297],[90.57746887207031,51.16941833496094],[90.57541656494141,51.1775016784668],[90.57691955566406,51.1817512512207],[90.58372497558594,51.18494415283203],[90.59233093261719,51.18594360351562],[90.59672546386719,51.18474960327148]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[90.59672500000001,51.18475],[90.59757999999999,51.184528],[90.612968,51.180363],[90.613693,51.175804],[90.60133399999999,51.170887],[90.59105700000001,51.171139],[90.582581,51.169224],[90.58039100000001,51.169304],[90.57746899999999,51.169418],[90.575417,51.177502],[90.57692,51.181751],[90.583725,51.184944],[90.592331,51.185944],[90.59672500000001,51.18475]]],"type":"Polygon"}
 }

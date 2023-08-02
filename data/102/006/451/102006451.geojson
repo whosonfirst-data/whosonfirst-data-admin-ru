@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000283,
     "geom:area_square_m":2245273.553802,
-    "geom:bbox":"38.4363327026,50.1430282593,38.4717483521,50.1576957703",
+    "geom:bbox":"38.436333,50.143028,38.471748,50.157696",
     "geom:latitude":50.150172,
-    "geom:longitude":38.45424,
+    "geom:longitude":38.454239,
     "gn:latitude":50.1521,
     "gn:longitude":38.4492,
     "gn:population":7280,
@@ -25,17 +25,32 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u062f\u064a\u0644\u064a\u0641\u0643\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u064a\u062f\u064a\u0644\u064a\u0641\u0643\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u0435\u0439\u0434\u0437\u0435\u043b\u0435\u045e\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Veydelevka"
+    ],
     "name:che_x_preferred":[
         "\u0412\u0435\u0439\u0434\u0435\u043b\u0435\u0432\u043a\u0430"
+    ],
+    "name:crh_x_preferred":[
+        "Veydelevka"
     ],
     "name:deu_x_preferred":[
         "Weidelewka"
     ],
     "name:eng_x_preferred":[
         "Veydelevka"
+    ],
+    "name:fin_x_preferred":[
+        "Veidelevka"
+    ],
+    "name:fra_x_preferred":[
+        "Ve\u00efdelevka"
     ],
     "name:hun_x_preferred":[
         "Vejgyelevka"
@@ -44,6 +59,9 @@
         "Vejdelevka"
     ],
     "name:nld_x_preferred":[
+        "Veydelevka"
+    ],
+    "name:nob_x_preferred":[
         "Veydelevka"
     ],
     "name:nor_x_preferred":[
@@ -55,6 +73,9 @@
     "name:rus_x_preferred":[
         "\u0412\u0435\u0439\u0434\u0435\u043b\u0435\u0432\u043a\u0430"
     ],
+    "name:spa_x_preferred":[
+        "V\u00e9idelevka"
+    ],
     "name:tgk_x_preferred":[
         "\u0412\u0435\u0439\u0434\u0435\u043b\u0435\u0432\u043a\u0430"
     ],
@@ -63,6 +84,9 @@
     ],
     "name:und_x_variant":[
         "Veidelovka"
+    ],
+    "name:zho_x_preferred":[
+        "\u97e6\u4f0a\u6770\u5217\u592b\u5361"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -101,7 +125,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"41259f41428ab475e7411e7435c5b5b4",
+    "wof:geomhash":"70b597d442c05b78dca819a75c59a44d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +135,7 @@
         }
     ],
     "wof:id":102006451,
-    "wof:lastmodified":1582329785,
+    "wof:lastmodified":1690858946,
     "wof:name":"Veydelevka",
     "wof:parent_id":1108737313,
     "wof:placetype":"locality",
@@ -123,10 +147,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    38.43633270263672,
-    50.14302825927734,
-    38.47174835205078,
-    50.15769577026367
+    38.436333,
+    50.143028,
+    38.471748,
+    50.157696
 ],
-  "geometry": {"coordinates":[[[38.43633270263672,50.14922332763672],[38.43694305419922,50.14952850341797],[38.44897079467773,50.15347290039062],[38.45844268798828,50.15655517578125],[38.46474838256836,50.15769577026367],[38.47161102294922,50.15244293212891],[38.47174835205078,50.15108489990234],[38.46147155761719,50.14658355712891],[38.45930480957031,50.14622116088867],[38.45780563354492,50.14597320556641],[38.43969345092773,50.14302825927734],[38.43633270263672,50.14922332763672]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[38.436333,50.149223],[38.436943,50.149529],[38.448971,50.153473],[38.458443,50.156555],[38.464748,50.157696],[38.471611,50.152443],[38.471748,50.151085],[38.461472,50.146584],[38.459305,50.146221],[38.457806,50.145973],[38.439693,50.143028],[38.436333,50.149223]]],"type":"Polygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"31.2767565,58.521851,31.2767565,58.521851",
+    "geom:bbox":"31.276757,58.521851,31.276757,58.521851",
     "geom:latitude":58.521851,
     "geom:longitude":31.276757,
     "gp:adm0":23424936,
@@ -23,17 +23,26 @@
     "name:afr_x_preferred":[
         "Weliki Nowgorod"
     ],
+    "name:amh_x_preferred":[
+        "\u126c\u120a\u12aa \u1296\u126d\u130e\u122e\u12f5"
+    ],
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u064a\u0643\u064a \u0646\u0648\u0641\u063a\u0648\u0631\u0648\u062f"
     ],
     "name:ast_x_preferred":[
         "Veliki N\u00f3vgorod"
     ],
+    "name:aym_x_preferred":[
+        "Wyilikiu Nuwhurud"
+    ],
     "name:azb_x_preferred":[
         "\u0648\u0644\u06cc\u06a9\u06cc \u0646\u0648\u0648\u0642\u0648\u0631\u0648\u062f"
     ],
     "name:aze_x_preferred":[
         "Veliky Novqorod"
+    ],
+    "name:aze_x_variant":[
+        "Veliki Novqorod"
     ],
     "name:bak_x_preferred":[
         "\u0411\u04e9\u0439\u04e9\u043a \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434"
@@ -56,6 +65,9 @@
     "name:cat_x_preferred":[
         "N\u00f2vgorod"
     ],
+    "name:cat_x_variant":[
+        "N\u00f3vgorod"
+    ],
     "name:ceb_x_preferred":[
         "Velikiy Novgorod"
     ],
@@ -76,6 +88,9 @@
     ],
     "name:chv_x_preferred":[
         "\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434"
+    ],
+    "name:crh_x_preferred":[
+        "Velikiy Novgorod"
     ],
     "name:cym_x_preferred":[
         "Velikiy Novgorod"
@@ -116,11 +131,23 @@
     "name:fra_x_preferred":[
         "Novgorod"
     ],
+    "name:frr_x_preferred":[
+        "Weliki Nowgorod"
+    ],
+    "name:fry_x_preferred":[
+        "Veliki Novgorod"
+    ],
+    "name:gle_x_preferred":[
+        "Veliky Novgorod"
+    ],
     "name:glg_x_preferred":[
         "N\u00f3vgorod"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0ab2\u0abf\u0a95\u0ac0 \u0aa8\u0acb\u0ab5\u0a97\u0acb\u0ab0\u0acb\u0aa1"
+    ],
+    "name:hat_x_preferred":[
+        "Velikiy Novgorod"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d5\u05d1\u05d2\u05d5\u05e8\u05d5\u05d3"
@@ -136,6 +163,9 @@
     ],
     "name:hun_x_preferred":[
         "Novgorod"
+    ],
+    "name:hun_x_variant":[
+        "Velikij Novgorod"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0565\u056e \u0546\u0578\u057e\u0563\u0578\u0580\u0578\u0564"
@@ -185,8 +215,14 @@
     "name:lit_x_preferred":[
         "Naugardas"
     ],
+    "name:lld_x_preferred":[
+        "Veliki Novgorod"
+    ],
     "name:mar_x_preferred":[
         "\u0935\u0947\u0932\u093f\u0915\u0940 \u0928\u0949\u0935\u0917\u094b\u0930\u094b\u0926"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041e\u0446\u044e \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434"
     ],
     "name:mhr_x_preferred":[
         "\u041a\u0443\u0433\u0443 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434"
@@ -194,11 +230,17 @@
     "name:mkd_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0438 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434"
     ],
+    "name:mon_x_preferred":[
+        "\u0418\u0445 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434"
+    ],
     "name:msa_x_preferred":[
         "Veliky Novgorod"
     ],
     "name:myv_x_preferred":[
         "\u0418\u043d\u0435 \u041e\u0434\u043e\u0448 \u043e\u0448"
+    ],
+    "name:nan_x_preferred":[
+        "Veliky Novgorod"
     ],
     "name:nds_x_preferred":[
         "Naugard"
@@ -221,6 +263,9 @@
     "name:nor_x_variant":[
         "Velikij Novgorod"
     ],
+    "name:oci_x_preferred":[
+        "N\u00f2vgorod"
+    ],
     "name:oss_x_preferred":[
         "\u0421\u0442\u044b\u0440 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434"
     ],
@@ -232,6 +277,9 @@
     ],
     "name:por_x_preferred":[
         "Veliky Novgorod"
+    ],
+    "name:pus_x_preferred":[
+        "\u0648\u064a\u0644\u064a\u06a9\u064a \u0646\u0648\u0648\u06ab\u0648\u0631\u0648\u062f"
     ],
     "name:que_x_preferred":[
         "Velikiy Novgorod"
@@ -311,6 +359,9 @@
     "name:uzb_x_preferred":[
         "Novgorod"
     ],
+    "name:vec_x_preferred":[
+        "Velikij Novgorod"
+    ],
     "name:vep_x_preferred":[
         "Sur' Uz'lidn"
     ],
@@ -320,8 +371,17 @@
     "name:war_x_preferred":[
         "Veliky Novgorod"
     ],
+    "name:wln_x_preferred":[
+        "Novgorod"
+    ],
     "name:wol_x_preferred":[
         "Veliky Novgorod"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5927\u8bfa\u592b\u54e5\u7f57\u5fb7"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10d0\u10d1\u10d4\u10e2\u10d8 \u10dc\u10dd\u10d5\u10d2\u10dd\u10e0\u10dd\u10d3\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u5927\u8afe\u592b\u54e5\u7f85\u5fb7"
@@ -369,7 +429,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"71b10f7f2312e13c503297c6d9e00c4c",
+    "wof:geomhash":"54add0e1b6e8cb8d59087856dbedaffe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -381,7 +441,7 @@
         }
     ],
     "wof:id":890481287,
-    "wof:lastmodified":1582330528,
+    "wof:lastmodified":1690860008,
     "wof:name":"Velikiy Novgorod",
     "wof:parent_id":1108737319,
     "wof:placetype":"locality",
@@ -391,10 +451,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.2767565,
+    31.276757,
     58.521851,
-    31.2767565,
+    31.276757,
     58.521851
 ],
-  "geometry": {"coordinates":[31.2767565,58.521851],"type":"Point"}
+  "geometry": {"coordinates":[31.276757,58.521851],"type":"Point"}
 }

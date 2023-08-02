@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000078,
     "geom:area_square_m":586415.99678,
-    "geom:bbox":"39.9791374207,52.5093345642,39.9970283508,52.5167236328",
+    "geom:bbox":"39.979137,52.509335,39.997028,52.516724",
     "geom:latitude":52.512767,
     "geom:longitude":39.987777,
     "gn:latitude":52.49657,
@@ -43,8 +43,14 @@
     "name:ceb_x_preferred":[
         "Gryazi"
     ],
+    "name:ces_x_preferred":[
+        "Grjazi"
+    ],
     "name:che_x_preferred":[
         "\u0413\u0440\u044f\u0437\u0438"
+    ],
+    "name:crh_x_preferred":[
+        "Gr\u00e2zi"
     ],
     "name:deu_x_preferred":[
         "Grjasi"
@@ -73,14 +79,26 @@
     "name:hsb_x_preferred":[
         "Grjazi"
     ],
+    "name:hye_x_preferred":[
+        "\u0533\u0580\u0575\u0561\u0566\u056b"
+    ],
     "name:ita_x_preferred":[
         "Grjazi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30ea\u30e3\u30b8"
     ],
     "name:lit_x_preferred":[
         "Griaziai"
     ],
     "name:ltz_x_preferred":[
         "Grjasi"
+    ],
+    "name:myv_x_preferred":[
+        "\u0413\u0440\u044f\u0437\u0438"
+    ],
+    "name:nan_x_preferred":[
+        "Gryazi"
     ],
     "name:nld_x_preferred":[
         "Gryazi"
@@ -93,6 +111,9 @@
     ],
     "name:oci_x_preferred":[
         "Griazi"
+    ],
+    "name:oss_x_preferred":[
+        "\u0413\u0440\u044f\u0437\u0438"
     ],
     "name:pol_x_preferred":[
         "Griazi"
@@ -123,6 +144,12 @@
     ],
     "name:tur_x_preferred":[
         "Gryazi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u044f\u0437\u0456"
+    ],
+    "name:vep_x_preferred":[
+        "Gr\u00e4zi"
     ],
     "name:vie_x_preferred":[
         "Gryazi"
@@ -265,7 +292,7 @@
         "wk:page":"Gryazi"
     },
     "wof:country":"RU",
-    "wof:geomhash":"acb2dd761826aaa2902d49adbe281a0d",
+    "wof:geomhash":"20b1e5abdbc2507f0785cd43aacfe856",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -277,7 +304,7 @@
         }
     ],
     "wof:id":102004815,
-    "wof:lastmodified":1566615598,
+    "wof:lastmodified":1690859113,
     "wof:name":"",
     "wof:parent_id":1108733935,
     "wof:placetype":"locality",
@@ -289,10 +316,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.9791374206543,
-    52.50933456420898,
-    39.99702835083008,
-    52.5167236328125
+    39.979137,
+    52.509335,
+    39.997028,
+    52.516724
 ],
-  "geometry": {"coordinates":[[[39.99702835083008,52.5131950378418],[39.98827743530273,52.50933456420898],[39.97997283935547,52.51005554199219],[39.9791374206543,52.51141738891602],[39.98416519165039,52.51519393920898],[39.9908332824707,52.5167236328125],[39.99702835083008,52.5131950378418]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[39.997028,52.513195],[39.988277,52.509335],[39.979973,52.510056],[39.979137,52.511417],[39.984165,52.515194],[39.990833,52.516724],[39.997028,52.513195]]],"type":"Polygon"}
 }

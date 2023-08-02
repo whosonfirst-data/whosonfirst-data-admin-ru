@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.002067,
     "geom:area_square_m":16130569.268753,
-    "geom:bbox":"39.0224990845,50.8428611755,39.1206932068,50.8855285645",
+    "geom:bbox":"39.022499,50.842861,39.120693,50.885529",
     "geom:latitude":50.865623,
     "geom:longitude":39.071005,
     "gn:latitude":50.8664,
@@ -28,6 +28,9 @@
     "name:azb_x_preferred":[
         "\u0627\u0648\u0633\u062a\u0631\u0648\u0642\u0648\u0698\u0633\u06a9"
     ],
+    "name:aze_x_preferred":[
+        "Ostroqojsk"
+    ],
     "name:bak_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0433\u043e\u0436\u0441\u043a"
     ],
@@ -37,6 +40,9 @@
     "name:bel_x_variant":[
         "\u0410\u0441\u0442\u0440\u0430\u0433\u043e\u0441\u043a",
         "\u0410\u0441\u0442\u0440\u0430\u0433\u043e\u0436\u0441\u043a"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0433\u043e\u0436\u0441\u043a"
     ],
     "name:cat_x_preferred":[
         "Ostrogojsk"
@@ -50,8 +56,14 @@
     "name:che_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0433\u043e\u0436\u0441\u043a"
     ],
+    "name:crh_x_preferred":[
+        "Ostrogojsk"
+    ],
     "name:dan_x_preferred":[
         "Ostrogozjsk"
+    ],
+    "name:dan_x_variant":[
+        "Ostrogosjsk"
     ],
     "name:deu_x_preferred":[
         "Ostrogoschsk"
@@ -62,11 +74,23 @@
     "name:epo_x_preferred":[
         "Ostrogo\u0135sk"
     ],
+    "name:est_x_preferred":[
+        "Ostrogo\u017esk"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0633\u062a\u0631\u0648\u06af\u0648\u0698\u0633\u06a9"
     ],
+    "name:fin_x_preferred":[
+        "Ostrogo\u017esk"
+    ],
     "name:fra_x_preferred":[
         "Ostrogojsk"
+    ],
+    "name:gle_x_preferred":[
+        "Ostrogozhsk"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e1\u05d8\u05e8\u05d5\u05d2\u05d5\u05d6'\u05e1\u05e7"
     ],
     "name:hsb_x_preferred":[
         "Ostrogo\u017esk"
@@ -89,6 +113,9 @@
     "name:ltz_x_preferred":[
         "Ostrogojsk"
     ],
+    "name:nan_x_preferred":[
+        "Ostrogozhsk"
+    ],
     "name:nld_x_preferred":[
         "Ostrogozjsk"
     ],
@@ -101,14 +128,23 @@
     "name:nor_x_preferred":[
         "Ostrogozjsk"
     ],
+    "name:oss_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0433\u043e\u0436\u0441\u043a"
+    ],
     "name:pol_x_preferred":[
         "Ostrogo\u017csk"
+    ],
+    "name:ron_x_preferred":[
+        "Ostrogojsk"
     ],
     "name:rus_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0433\u043e\u0436\u0441\u043a"
     ],
     "name:srp_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0433\u043e\u0448\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Ostrogorzjsk"
     ],
     "name:tat_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0433\u043e\u0436\u0441\u043a"
@@ -124,6 +160,9 @@
     ],
     "name:und_x_variant":[
         "Ostrogoshsk"
+    ],
+    "name:vep_x_preferred":[
+        "Ostrogo\u017esk"
     ],
     "name:vie_x_preferred":[
         "Ostrogozhsk"
@@ -178,7 +217,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"09306a563b0bb85c7da8f5a4a28c8948",
+    "wof:geomhash":"77ed5228813cc19c60887a0096cc72ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,7 +227,7 @@
         }
     ],
     "wof:id":102006089,
-    "wof:lastmodified":1582329785,
+    "wof:lastmodified":1690858942,
     "wof:name":"Ostrogozhsk",
     "wof:parent_id":1108735723,
     "wof:placetype":"locality",
@@ -200,10 +239,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.02249908447266,
-    50.84286117553711,
-    39.12069320678711,
-    50.88552856445312
+    39.022499,
+    50.842861,
+    39.120693,
+    50.885529
 ],
-  "geometry": {"coordinates":[[[39.0892219543457,50.85824966430664],[39.08472061157227,50.85744476318359],[39.08316802978516,50.85625076293945],[39.02838897705078,50.84286117553711],[39.02249908447266,50.84452819824219],[39.02522277832031,50.848388671875],[39.04330444335938,50.87402725219727],[39.0484733581543,50.875],[39.068359375,50.87872314453125],[39.10461044311523,50.88552856445312],[39.10969543457031,50.88525009155273],[39.12069320678711,50.86449813842773],[39.11716842651367,50.86463928222656],[39.11708450317383,50.86466598510742],[39.11091613769531,50.86652755737305],[39.10514068603516,50.86652755737305],[39.09683227539062,50.85958480834961],[39.0892219543457,50.85824966430664]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[39.089222,50.85825],[39.084721,50.857445],[39.083168,50.856251],[39.028389,50.842861],[39.022499,50.844528],[39.025223,50.848389],[39.043304,50.874027],[39.048473,50.875],[39.068359,50.878723],[39.10461,50.885529],[39.109695,50.88525],[39.120693,50.864498],[39.117168,50.864639],[39.117085,50.864666],[39.110916,50.866528],[39.105141,50.866528],[39.096832,50.859585],[39.089222,50.85825]]],"type":"Polygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.001303,
     "geom:area_square_m":6954807.529415,
-    "geom:bbox":"40.7836685181,64.4053039551,40.8501396179,64.4354171753",
+    "geom:bbox":"40.783669,64.405304,40.85014,64.435417",
     "geom:latitude":64.420499,
     "geom:longitude":40.818583,
     "gn:latitude":64.4165,
@@ -46,6 +46,9 @@
     "name:ces_x_preferred":[
         "Novodvinsk"
     ],
+    "name:crh_x_preferred":[
+        "Novodvinsk"
+    ],
     "name:deu_x_preferred":[
         "Nowodwinsk"
     ],
@@ -58,6 +61,9 @@
     "name:est_x_preferred":[
         "Novodvinsk"
     ],
+    "name:eus_x_preferred":[
+        "Novodvinsk"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0648\u0648\u0648\u062f\u0648\u06cc\u0646\u0633\u06a9"
     ],
@@ -66,6 +72,9 @@
     ],
     "name:fra_x_preferred":[
         "Novodvinsk"
+    ],
+    "name:frr_x_preferred":[
+        "Nowodwinsk"
     ],
     "name:hsb_x_preferred":[
         "Nowodwinsk"
@@ -88,11 +97,17 @@
     "name:lit_x_preferred":[
         "Novodvinskas"
     ],
+    "name:mdf_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0434\u0432\u0438\u043d\u0441\u043a"
+    ],
     "name:mkd_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0434\u0432\u0438\u043d\u0441\u043a"
     ],
     "name:myv_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0434\u0432\u0438\u043d\u0441\u043a\u043e\u0439"
+    ],
+    "name:nan_x_preferred":[
+        "Novodvinsk"
     ],
     "name:nld_x_preferred":[
         "Novodvinsk"
@@ -135,6 +150,9 @@
     ],
     "name:tur_x_preferred":[
         "Novodvinsk"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0434\u0432\u0456\u043d\u0441\u044c\u043a"
     ],
     "name:und_x_variant":[
         "Voroshilovskiy"
@@ -185,7 +203,7 @@
         "wk:page":"Novodvinsk"
     },
     "wof:country":"RU",
-    "wof:geomhash":"3aab8b63e8d3ea10290843a9c8babba5",
+    "wof:geomhash":"73aa0806e7753ccb54a7cc7170f601cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,7 +215,7 @@
         }
     ],
     "wof:id":102001969,
-    "wof:lastmodified":1566615320,
+    "wof:lastmodified":1690858919,
     "wof:name":"Pervomayskiy",
     "wof:parent_id":1108735499,
     "wof:placetype":"locality",
@@ -209,10 +227,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    40.78366851806641,
-    64.40530395507812,
-    40.85013961791992,
-    64.43541717529297
+    40.783669,
+    64.405304,
+    40.85014,
+    64.435417
 ],
-  "geometry": {"coordinates":[[[40.85013961791992,64.40799713134766],[40.83133316040039,64.40569305419922],[40.82799911499023,64.40530395507812],[40.82130432128906,64.40950012207031],[40.80402755737305,64.4102783203125],[40.79689025878906,64.41261291503906],[40.79172134399414,64.4171142578125],[40.78797149658203,64.42036437988281],[40.78366851806641,64.43019104003906],[40.78794479370117,64.43055725097656],[40.82616806030273,64.43372344970703],[40.83252716064453,64.43541717529297],[40.84180450439453,64.42633056640625],[40.85013961791992,64.40799713134766]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[40.85014,64.40799699999999],[40.831333,64.405693],[40.827999,64.405304],[40.821304,64.40949999999999],[40.804028,64.41027800000001],[40.79689,64.41261299999999],[40.791721,64.417114],[40.787971,64.42036400000001],[40.783669,64.43019099999999],[40.787945,64.43055699999999],[40.826168,64.433723],[40.832527,64.435417],[40.841805,64.426331],[40.85014,64.40799699999999]]],"type":"Polygon"}
 }

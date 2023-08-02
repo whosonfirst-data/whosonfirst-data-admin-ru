@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000262,
     "geom:area_square_m":1894132.512616,
-    "geom:bbox":"45.1200180054,54.2240600586,45.1459083557,54.2373962402",
+    "geom:bbox":"45.120018,54.22406,45.145908,54.237396",
     "geom:latitude":54.230429,
     "geom:longitude":45.133533,
     "gn:latitude":54.1838,
@@ -49,6 +49,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09b0\u09be\u09a8\u09cd\u09b8\u0995"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09b0\u09be\u09a8\u09cd\u09b8\u09cd\u0995"
+    ],
     "name:bos_x_preferred":[
         "Saransk"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:chv_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043d\u0441\u043a"
+    ],
+    "name:crh_x_preferred":[
+        "Saransk"
     ],
     "name:cym_x_preferred":[
         "Saransk"
@@ -104,6 +110,12 @@
         "Saransk"
     ],
     "name:fra_x_preferred":[
+        "Saransk"
+    ],
+    "name:fry_x_preferred":[
+        "Saransk"
+    ],
+    "name:gle_x_preferred":[
         "Saransk"
     ],
     "name:glg_x_preferred":[
@@ -154,6 +166,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cb0\u0ca8\u0ccd\u0cb8\u0ccd\u0c95\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10e0\u10d0\u10dc\u10e1\u10d9\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043d\u0441\u043a"
     ],
@@ -166,6 +181,9 @@
     "name:kor_x_preferred":[
         "\uc0ac\ub780\uc2a4\ud06c"
     ],
+    "name:lat_x_preferred":[
+        "Saranum"
+    ],
     "name:lav_x_preferred":[
         "Saranska"
     ],
@@ -174,6 +192,9 @@
     ],
     "name:lit_x_preferred":[
         "Saranskas"
+    ],
+    "name:lld_x_preferred":[
+        "Saransk"
     ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u0930\u093e\u0928\u094d\u0938\u094d\u0915"
@@ -195,6 +216,9 @@
     ],
     "name:myv_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043d \u043e\u0448"
+    ],
+    "name:nan_x_preferred":[
+        "Saransk"
     ],
     "name:nld_x_preferred":[
         "Saransk"
@@ -220,6 +244,9 @@
     "name:por_x_preferred":[
         "Saransk"
     ],
+    "name:pus_x_preferred":[
+        "\u0633\u0627\u0631\u0646\u0633\u06a9"
+    ],
     "name:que_x_preferred":[
         "Saransk"
     ],
@@ -236,6 +263,9 @@
         "\u0dc3\u0dbb\u0db1\u0dca\u0dc3\u0dca\u0d9a\u0dca"
     ],
     "name:slk_x_preferred":[
+        "Saransk"
+    ],
+    "name:slv_x_preferred":[
         "Saransk"
     ],
     "name:spa_x_preferred":[
@@ -278,6 +308,9 @@
         "\u0633\u0627\u0631\u0627\u0646\u0633\u06a9"
     ],
     "name:uzb_x_preferred":[
+        "Saransk"
+    ],
+    "name:vec_x_preferred":[
         "Saransk"
     ],
     "name:vep_x_preferred":[
@@ -433,7 +466,7 @@
         "wk:page":"Saransk"
     },
     "wof:country":"RU",
-    "wof:geomhash":"195d52d0611976896e76ac47a73b417e",
+    "wof:geomhash":"05cd47897056ec4bad442142ab7bef2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -445,7 +478,7 @@
         }
     ],
     "wof:id":102010001,
-    "wof:lastmodified":1566615484,
+    "wof:lastmodified":1690859022,
     "wof:name":"",
     "wof:parent_id":1108733857,
     "wof:placetype":"locality",
@@ -457,10 +490,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    45.12001800537109,
-    54.22406005859375,
-    45.14590835571289,
-    54.23739624023438
+    45.120018,
+    54.22406,
+    45.145908,
+    54.237396
 ],
-  "geometry": {"coordinates":[[[45.13994598388672,54.22424697875977],[45.12050628662109,54.22542572021484],[45.12001800537109,54.23046493530273],[45.12721633911133,54.2335205078125],[45.12506484985352,54.23676300048828],[45.13913726806641,54.23739624023438],[45.14200592041016,54.235595703125],[45.14590835571289,54.23314666748047],[45.14303588867188,54.22406005859375],[45.13994598388672,54.22424697875977]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[45.139946,54.224247],[45.120506,54.225426],[45.120018,54.230465],[45.127216,54.233521],[45.125065,54.236763],[45.139137,54.237396],[45.142006,54.235596],[45.145908,54.233147],[45.143036,54.22406],[45.139946,54.224247]]],"type":"Polygon"}
 }

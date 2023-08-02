@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000128,
     "geom:area_square_m":1155113.799192,
-    "geom:bbox":"45.6651382446,43.355304718,45.679359436,43.3704452515",
+    "geom:bbox":"45.665138,43.355305,45.679359,43.370445",
     "geom:latitude":43.362302,
     "geom:longitude":45.670962,
     "gn:latitude":43.31195,
@@ -25,8 +25,14 @@
     "name:afr_x_preferred":[
         "Grozni"
     ],
+    "name:aka_x_preferred":[
+        "Grozny"
+    ],
     "name:ara_x_preferred":[
         "\u063a\u0631\u0648\u0632\u0646\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u062c\u0631\u0648\u0632\u0646\u0649"
     ],
     "name:ast_x_preferred":[
         "Grozni"
@@ -67,11 +73,20 @@
     "name:ces_x_preferred":[
         "Groznyj"
     ],
+    "name:ces_x_variant":[
+        "Grozn\u00fd"
+    ],
     "name:che_x_preferred":[
         "\u0421\u043e\u044c\u043b\u0436\u0430-\u0413\u04c0\u0430\u043b\u0430"
     ],
     "name:chv_x_preferred":[
         "\u0413\u0440\u043e\u0437\u043d\u044b\u0439"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06af\u0631\u06c6\u0632\u0646\u06cc"
+    ],
+    "name:crh_x_preferred":[
+        "Grozn\u0131y"
     ],
     "name:cym_x_preferred":[
         "Grozny"
@@ -108,6 +123,9 @@
     ],
     "name:fra_x_preferred":[
         "Grozny"
+    ],
+    "name:frr_x_preferred":[
+        "Grosny"
     ],
     "name:gle_x_preferred":[
         "Grozny"
@@ -148,6 +166,9 @@
     "name:inh_x_preferred":[
         "\u0428\u043e\u043b\u0436\u0430-\u0433\u04c0\u0430\u043b\u0430"
     ],
+    "name:inh_x_variant":[
+        "\u0428\u043e\u043b\u0436\u0430-\u0413\u04c0\u0430\u043b\u0430"
+    ],
     "name:isl_x_preferred":[
         "Grosn\u00ed"
     ],
@@ -187,11 +208,20 @@
     "name:lad_x_preferred":[
         "Grozni"
     ],
+    "name:lat_x_preferred":[
+        "Severa"
+    ],
     "name:lav_x_preferred":[
         "Groznija"
     ],
     "name:lit_x_preferred":[
         "Groznas"
+    ],
+    "name:lld_x_preferred":[
+        "Grosni"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d17\u0d4d\u0d30\u0d4b\u0d38\u0d4d\u200c\u0d28\u0d3f"
     ],
     "name:mar_x_preferred":[
         "\u0917\u094d\u0930\u094b\u091d\u0928\u0940"
@@ -202,6 +232,9 @@
     "name:mkd_x_preferred":[
         "\u0413\u0440\u043e\u0437\u043d\u0438"
     ],
+    "name:mlt_x_preferred":[
+        "Grozny"
+    ],
     "name:mon_x_preferred":[
         "\u0413\u0440\u043e\u0437\u043d\u044b\u0439"
     ],
@@ -210,6 +243,9 @@
     ],
     "name:myv_x_preferred":[
         "\u0413\u0440\u043e\u0437\u043d\u043e\u0439 \u043e\u0448"
+    ],
+    "name:nan_x_preferred":[
+        "Grozny"
     ],
     "name:nld_x_preferred":[
         "Grozny"
@@ -226,11 +262,17 @@
     "name:oss_x_preferred":[
         "\u0413\u0440\u043e\u0437\u043d\u0430"
     ],
+    "name:pnb_x_preferred":[
+        "\u06af\u0631\u0648\u0632\u0646\u06cc"
+    ],
     "name:pol_x_preferred":[
         "Grozny"
     ],
     "name:por_x_preferred":[
         "Gr\u00f3zni"
+    ],
+    "name:pus_x_preferred":[
+        "\u06ab\u0631\u0648\u0632\u0646\u064a"
     ],
     "name:ron_x_preferred":[
         "Grozn\u00eei"
@@ -244,6 +286,9 @@
     "name:sco_x_preferred":[
         "Grozny"
     ],
+    "name:sgs_x_preferred":[
+        "Groznos"
+    ],
     "name:sin_x_preferred":[
         "\u0d9c\u0dca\u0dbb\u0ddd\u0dc3\u0dca\u0db1\u0dd2"
     ],
@@ -253,10 +298,16 @@
     "name:slv_x_preferred":[
         "Grozni"
     ],
+    "name:snd_x_preferred":[
+        "\u06af\u0631\u0648\u0632\u0646\u064a"
+    ],
     "name:som_x_preferred":[
         "Garoosni"
     ],
     "name:spa_x_preferred":[
+        "Grozni"
+    ],
+    "name:sqi_x_preferred":[
         "Grozni"
     ],
     "name:srd_x_preferred":[
@@ -283,6 +334,9 @@
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c30\u0c4b\u0c1c\u0c4d\u0c28\u0c40"
     ],
+    "name:tgk_x_preferred":[
+        "\u0413\u0440\u043e\u0437\u043d\u0438\u0439"
+    ],
     "name:tgl_x_preferred":[
         "Grozny"
     ],
@@ -306,6 +360,9 @@
     ],
     "name:uzb_x_preferred":[
         "Grozniy"
+    ],
+    "name:vec_x_preferred":[
+        "Groznyj"
     ],
     "name:vep_x_preferred":[
         "Groznii"
@@ -370,7 +427,7 @@
         "wk:page":"Grozny"
     },
     "wof:country":"RU",
-    "wof:geomhash":"ee221d5c9e33723bce71c901f88745bb",
+    "wof:geomhash":"ab3c2f1ffc6d769ba3f48a8787fe2155",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -382,7 +439,7 @@
         }
     ],
     "wof:id":102016617,
-    "wof:lastmodified":1566615432,
+    "wof:lastmodified":1690858993,
     "wof:name":"Groznyy",
     "wof:parent_id":1108733939,
     "wof:placetype":"locality",
@@ -394,10 +451,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    45.66513824462891,
-    43.35530471801758,
-    45.67935943603516,
-    43.37044525146484
+    45.665138,
+    43.355305,
+    45.679359,
+    43.370445
 ],
-  "geometry": {"coordinates":[[[45.66558456420898,43.36260986328125],[45.66513824462891,43.36736297607422],[45.66772079467773,43.369140625],[45.67152786254883,43.37044525146484],[45.67505645751953,43.36327743530273],[45.67935943603516,43.36138916015625],[45.67691802978516,43.35861206054688],[45.6748046875,43.35619354248047],[45.67227935791016,43.35530471801758],[45.66669464111328,43.35725021362305],[45.66583251953125,43.36000061035156],[45.66558456420898,43.36260986328125]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[45.665585,43.36261],[45.665138,43.367363],[45.667721,43.369141],[45.671528,43.370445],[45.675056,43.363277],[45.679359,43.361389],[45.676918,43.358612],[45.674805,43.356194],[45.672279,43.355305],[45.666695,43.35725],[45.665833,43.360001],[45.665585,43.36261]]],"type":"Polygon"}
 }

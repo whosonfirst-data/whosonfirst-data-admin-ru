@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00031,
     "geom:area_square_m":1438438.485005,
-    "geom:bbox":"32.9309997559,67.9191360474,32.9872207642,67.9302749634",
+    "geom:bbox":"32.931,67.919136,32.987221,67.930275",
     "geom:latitude":67.925313,
-    "geom:longitude":32.959411,
+    "geom:longitude":32.959412,
     "gn:latitude":67.93972,
     "gn:longitude":32.87389,
     "gn:population":49868,
@@ -49,11 +49,17 @@
     "name:che_x_preferred":[
         "\u041c\u043e\u043d\u0447\u0435\u0433\u043e\u0440\u0441\u043a"
     ],
+    "name:crh_x_preferred":[
+        "Mon\u00e7egorsk"
+    ],
     "name:dan_x_preferred":[
         "Montsjegorsk"
     ],
     "name:deu_x_preferred":[
         "Montschegorsk"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03c4\u03c3\u03b5\u03b3\u03ba\u03cc\u03c1\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Monchegorsk"
@@ -64,6 +70,9 @@
     "name:est_x_preferred":[
         "Mont\u0161egorsk"
     ],
+    "name:eus_x_preferred":[
+        "Montxegorsk"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u0646\u0686\u06af\u0648\u0631\u0633\u06a9"
     ],
@@ -72,6 +81,9 @@
     ],
     "name:fra_x_preferred":[
         "Montchegorsk"
+    ],
+    "name:frr_x_preferred":[
+        "Montschegorsk"
     ],
     "name:haw_x_preferred":[
         "Nokenoski"
@@ -94,6 +106,15 @@
     "name:lit_x_preferred":[
         "Mon\u010degorskas"
     ],
+    "name:mdf_x_preferred":[
+        "\u041c\u043e\u043d\u0447\u0435\u0433\u043e\u0440\u0441\u043a"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u043d\u0447\u0435\u0433\u043e\u0440\u0441\u043a"
+    ],
+    "name:nan_x_preferred":[
+        "Monchegorsk"
+    ],
     "name:nld_x_preferred":[
         "Montsjegorsk"
     ],
@@ -102,6 +123,9 @@
     ],
     "name:nob_x_preferred":[
         "Montsjegorsk"
+    ],
+    "name:oss_x_preferred":[
+        "\u041c\u043e\u043d\u0447\u0435\u0433\u043e\u0440\u0441\u043a"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u0648\u0646\u0686\u06cc\u06af\u0648\u0631\u0633\u06a9"
@@ -126,6 +150,9 @@
     ],
     "name:swe_x_preferred":[
         "Montjegorsk"
+    ],
+    "name:szl_x_preferred":[
+        "Monczegorsk"
     ],
     "name:tat_x_preferred":[
         "\u041c\u043e\u043d\u0447\u0435\u0433\u043e\u0440\u0441\u043a"
@@ -280,7 +307,7 @@
         "wk:page":"Monchegorsk"
     },
     "wof:country":"RU",
-    "wof:geomhash":"516449c51b532fa6e3af1ba64af8bdfe",
+    "wof:geomhash":"3e871ebf8f768cd628447c4f75e8b309",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -292,7 +319,7 @@
         }
     ],
     "wof:id":102001899,
-    "wof:lastmodified":1566615325,
+    "wof:lastmodified":1690858925,
     "wof:name":"",
     "wof:parent_id":890483467,
     "wof:placetype":"locality",
@@ -304,10 +331,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.93099975585938,
-    67.91913604736328,
-    32.98722076416016,
-    67.9302749633789
+    32.931,
+    67.919136,
+    32.987221,
+    67.930275
 ],
-  "geometry": {"coordinates":[[[32.95727920532227,67.92910766601562],[32.96608352661133,67.93013763427734],[32.98577880859375,67.93027496337891],[32.98583221435547,67.93025207519531],[32.98722076416016,67.92819213867188],[32.97802734375,67.92414093017578],[32.96547317504883,67.92355346679688],[32.94013977050781,67.91913604736328],[32.93099975585938,67.92063903808594],[32.9379997253418,67.92530822753906],[32.9549446105957,67.92747497558594],[32.95727920532227,67.92910766601562]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[32.957279,67.929108],[32.966084,67.930138],[32.985779,67.93027499999999],[32.985832,67.930252],[32.987221,67.928192],[32.978027,67.92414100000001],[32.965473,67.923553],[32.94014,67.91913599999999],[32.931,67.92063899999999],[32.938,67.925308],[32.954945,67.927475],[32.957279,67.929108]]],"type":"Polygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000511,
     "geom:area_square_m":3627972.495286,
-    "geom:bbox":"49.013053894,54.964553833,49.0799179077,54.9886932373",
+    "geom:bbox":"49.013054,54.964554,49.079918,54.988693",
     "geom:latitude":54.976038,
     "geom:longitude":49.038334,
     "gn:latitude":54.96667,
@@ -54,16 +54,31 @@
     "name:chv_x_preferred":[
         "\u0410\u0441\u043b\u0103 \u041f\u0103\u043b\u0445\u0430\u0440"
     ],
+    "name:crh_x_preferred":[
+        "Bolgar"
+    ],
     "name:deu_x_preferred":[
         "Bolgar"
     ],
     "name:diq_x_preferred":[
         "Bolgar"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03cc\u03bb\u03b3\u03ba\u03b1\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Bolgar"
     ],
+    "name:eng_x_variant":[
+        "Bol\u011far"
+    ],
     "name:epo_x_preferred":[
+        "Bolgar"
+    ],
+    "name:est_x_preferred":[
+        "Bolgar"
+    ],
+    "name:eus_x_preferred":[
         "Bolgar"
     ],
     "name:fas_x_preferred":[
@@ -74,6 +89,9 @@
     ],
     "name:fra_x_preferred":[
         "Bolgar"
+    ],
+    "name:gle_x_preferred":[
+        "Bol\u011far"
     ],
     "name:hsb_x_preferred":[
         "Bolgar"
@@ -99,6 +117,9 @@
     "name:mon_x_preferred":[
         "\u0411\u043e\u043b\u0433\u0430\u0440"
     ],
+    "name:nan_x_preferred":[
+        "Bolgar"
+    ],
     "name:nld_x_preferred":[
         "Bolgar"
     ],
@@ -110,6 +131,9 @@
     ],
     "name:oci_x_preferred":[
         "Bolgar"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u043e\u043b\u0433\u0430\u0440"
     ],
     "name:pol_x_preferred":[
         "Bo\u0142gar"
@@ -185,7 +209,7 @@
         "wd:id":"Q105284"
     },
     "wof:country":"RU",
-    "wof:geomhash":"089f2f970c06322a6f84d5437d5bff11",
+    "wof:geomhash":"5018bac6fa7b1956840ae9bee8a618a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,7 +221,7 @@
         }
     ],
     "wof:id":102009499,
-    "wof:lastmodified":1566615220,
+    "wof:lastmodified":1690858841,
     "wof:name":"Bolgary",
     "wof:parent_id":890486659,
     "wof:placetype":"locality",
@@ -207,10 +231,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    49.01305389404297,
-    54.96455383300781,
-    49.07991790771484,
-    54.98869323730469
+    49.013054,
+    54.964554,
+    49.079918,
+    54.988693
 ],
-  "geometry": {"coordinates":[[[49.07991790771484,54.98869323730469],[49.0711669921875,54.98308181762695],[49.06897354125977,54.98319625854492],[49.0503044128418,54.9809455871582],[49.04680633544922,54.97883224487305],[49.04563903808594,54.9766960144043],[49.03905487060547,54.96455383300781],[49.01333236694336,54.96816635131836],[49.01305389404297,54.96883392333984],[49.0179443359375,54.97491836547852],[49.03125,54.98186111450195],[49.04091644287109,54.98313903808594],[49.06194305419922,54.98591613769531],[49.07991790771484,54.98869323730469]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[49.079918,54.988693],[49.071167,54.983082],[49.068974,54.983196],[49.050304,54.980946],[49.046806,54.978832],[49.045639,54.976696],[49.039055,54.964554],[49.013332,54.968166],[49.013054,54.968834],[49.017944,54.974918],[49.03125,54.981861],[49.040916,54.983139],[49.061943,54.985916],[49.079918,54.988693]]],"type":"Polygon"}
 }

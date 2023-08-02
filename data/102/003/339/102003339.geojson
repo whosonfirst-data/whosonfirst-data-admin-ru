@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00044,
     "geom:area_square_m":3083111.086397,
-    "geom:bbox":"37.5476112366,55.4848899841,37.5758895874,55.5009994507",
+    "geom:bbox":"37.547611,55.48489,37.57589,55.500999",
     "geom:latitude":55.492836,
     "geom:longitude":37.561839,
     "gn:country":"RU",
@@ -42,6 +42,9 @@
     "name:che_x_preferred":[
         "\u0429\u0435\u0440\u0431\u0438\u043d\u043a\u0430"
     ],
+    "name:crh_x_preferred":[
+        "\u015ecerbinka"
+    ],
     "name:deu_x_preferred":[
         "Schtscherbinka"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:est_x_preferred":[
         "\u0160t\u0161erbinka"
+    ],
+    "name:eus_x_preferred":[
+        "Stxerbinka"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0686\u0631\u0628\u06cc\u0646\u06a9\u0627"
@@ -69,8 +75,14 @@
     "name:ita_x_preferred":[
         "\u0160\u010derbinka"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30a7\u30eb\u30d3\u30f3\u30ab"
+    ],
     "name:lit_x_preferred":[
         "\u0160\u010derbinka"
+    ],
+    "name:nan_x_preferred":[
+        "Shcherbinka"
     ],
     "name:nld_x_preferred":[
         "Sjtsjerbinka"
@@ -89,6 +101,9 @@
     ],
     "name:pol_x_preferred":[
         "Szczerbinka"
+    ],
+    "name:ron_x_preferred":[
+        "\u0218erbinka"
     ],
     "name:rus_x_preferred":[
         "\u0429\u0435\u0440\u0431\u0438\u043d\u043a\u0430"
@@ -113,6 +128,9 @@
     ],
     "name:und_x_variant":[
         "Shcherbinki"
+    ],
+    "name:vie_x_preferred":[
+        "Shcherbinka"
     ],
     "name:war_x_preferred":[
         "Shcherbinka"
@@ -166,7 +184,7 @@
         "wk:page":"Shcherbinka"
     },
     "wof:country":"RU",
-    "wof:geomhash":"0a99db9847eafb9f6fe01758e75d600b",
+    "wof:geomhash":"9fe0c0f3753c84a26dc534bea8249e88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -178,7 +196,7 @@
         }
     ],
     "wof:id":102003339,
-    "wof:lastmodified":1566615519,
+    "wof:lastmodified":1690859047,
     "wof:name":"Shcherbinka",
     "wof:parent_id":1108735435,
     "wof:placetype":"locality",
@@ -190,10 +208,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    37.54761123657227,
-    55.48488998413086,
-    37.57588958740234,
-    55.50099945068359
+    37.547611,
+    55.48489,
+    37.57589,
+    55.500999
 ],
-  "geometry": {"coordinates":[[[37.56050109863281,55.48488998413086],[37.55033493041992,55.48488998413086],[37.54774856567383,55.48616790771484],[37.54761123657227,55.50033187866211],[37.56744384765625,55.50080490112305],[37.5756950378418,55.50099945068359],[37.57588958740234,55.48636245727539],[37.57366561889648,55.48491668701172],[37.56050109863281,55.48488998413086]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[37.560501,55.48489],[37.550335,55.48489],[37.547749,55.486168],[37.547611,55.500332],[37.567444,55.500805],[37.575695,55.500999],[37.57589,55.486362],[37.573666,55.484917],[37.560501,55.48489]]],"type":"Polygon"}
 }

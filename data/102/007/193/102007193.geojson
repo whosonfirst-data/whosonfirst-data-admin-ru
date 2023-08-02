@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000788,
     "geom:area_square_m":6581231.073556,
-    "geom:bbox":"40.7702484131,47.505027771,40.83152771,47.5222206116",
+    "geom:bbox":"40.770248,47.505028,40.831528,47.522221",
     "geom:latitude":47.513371,
-    "geom:longitude":40.801931,
+    "geom:longitude":40.801932,
     "gn:latitude":47.51943,
     "gn:longitude":40.8112,
     "gn:population":23583,
@@ -40,11 +40,20 @@
     "name:ceb_x_preferred":[
         "Semikarakorsk"
     ],
+    "name:ces_x_preferred":[
+        "Semikarakorsk"
+    ],
     "name:che_x_preferred":[
         "\u0421\u0435\u043c\u0438\u043a\u0430\u0440\u0430\u043a\u043e\u0440\u0441\u043a"
     ],
+    "name:crh_x_preferred":[
+        "Semikarakorsk"
+    ],
     "name:deu_x_preferred":[
         "Semikarakorsk"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03bc\u03b9\u03ba\u03b1\u03c1\u03b1\u03ba\u03cc\u03c1\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Semikarakorsk"
@@ -73,8 +82,17 @@
     "name:ita_x_preferred":[
         "Semikarakorsk"
     ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30df\u30ab\u30e9\u30b3\u30eb\u30b9\u30af"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d4\u10db\u10d8\u10d9\u10d0\u10e0\u10d0\u10d9\u10dd\u10e0\u10e1\u10d9\u10d8"
+    ],
+    "name:lav_x_preferred":[
+        "Semikarakorska"
+    ],
+    "name:nan_x_preferred":[
+        "Semikarakorsk"
     ],
     "name:nld_x_preferred":[
         "Semikarakorsk"
@@ -87,6 +105,9 @@
     ],
     "name:nor_x_preferred":[
         "Semikarakorsk"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0435\u043c\u0438\u043a\u0430\u0440\u0430\u043a\u043e\u0440\u0441\u043a"
     ],
     "name:pol_x_preferred":[
         "Siemikarakorsk"
@@ -120,6 +141,9 @@
     ],
     "name:und_x_variant":[
         "Semikarakorskiy"
+    ],
+    "name:vep_x_preferred":[
+        "Semikarakorsk"
     ],
     "name:war_x_preferred":[
         "Semikarakorsk"
@@ -171,7 +195,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"757209e0b74ce1149f8f747a5d96cddc",
+    "wof:geomhash":"653cf3ca976ff3e2f39dc1686b326d1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -181,7 +205,7 @@
         }
     ],
     "wof:id":102007193,
-    "wof:lastmodified":1582329767,
+    "wof:lastmodified":1690858807,
     "wof:name":"Semikarakorsk",
     "wof:parent_id":1108736423,
     "wof:placetype":"locality",
@@ -193,10 +217,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    40.77024841308594,
-    47.50502777099609,
-    40.83152770996094,
-    47.52222061157227
+    40.770248,
+    47.505028,
+    40.831528,
+    47.522221
 ],
-  "geometry": {"coordinates":[[[40.77122116088867,47.50972366333008],[40.77024841308594,47.51300048828125],[40.77344512939453,47.51627731323242],[40.77811050415039,47.51730728149414],[40.78675079345703,47.51980590820312],[40.81155395507812,47.52222061157227],[40.82036209106445,47.52197265625],[40.83152770996094,47.51444625854492],[40.83135986328125,47.51250076293945],[40.83091735839844,47.50666809082031],[40.81308364868164,47.50577926635742],[40.80825042724609,47.50841522216797],[40.80486297607422,47.50880432128906],[40.78144454956055,47.50502777099609],[40.77738952636719,47.50541687011719],[40.77188873291016,47.5075569152832],[40.77122116088867,47.50972366333008]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[40.771221,47.509724],[40.770248,47.513],[40.773445,47.516277],[40.778111,47.517307],[40.786751,47.519806],[40.811554,47.522221],[40.820362,47.521973],[40.831528,47.514446],[40.83136,47.512501],[40.830917,47.506668],[40.813084,47.505779],[40.80825,47.508415],[40.804863,47.508804],[40.781445,47.505028],[40.77739,47.505417],[40.771889,47.507557],[40.771221,47.509724]]],"type":"Polygon"}
 }

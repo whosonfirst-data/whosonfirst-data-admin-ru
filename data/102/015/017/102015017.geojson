@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000319,
     "geom:area_square_m":2354916.417119,
-    "geom:bbox":"124.078025818,53.3701095581,124.112556458,53.3964729309",
-    "geom:latitude":53.38406,
-    "geom:longitude":124.096376,
+    "geom:bbox":"124.078026,53.37011,124.112556,53.396473",
+    "geom:latitude":53.384061,
+    "geom:longitude":124.096375,
     "gn:latitude":53.3811,
     "gn:longitude":124.08464,
     "iso:country":"RU",
@@ -21,17 +21,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0628\u0627\u0632\u064a\u0646\u0648"
+    ],
     "name:ces_x_preferred":[
         "Albazino"
     ],
     "name:che_x_preferred":[
         "\u0410\u043b\u0431\u0430\u0437\u0438\u043d\u043e"
     ],
+    "name:crh_x_preferred":[
+        "Albazino"
+    ],
     "name:eng_x_preferred":[
         "Albazino"
     ],
     "name:est_x_preferred":[
         "Albazino"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0644\u0628\u0627\u0632\u06cc\u0646\u0648"
     ],
     "name:fra_x_preferred":[
         "Albazino"
@@ -41,6 +50,9 @@
     ],
     "name:lat_x_preferred":[
         "Albasinum"
+    ],
+    "name:nan_x_preferred":[
+        "Albazino"
     ],
     "name:nld_x_preferred":[
         "Albazino"
@@ -60,8 +72,17 @@
     "name:rus_x_preferred":[
         "\u0410\u043b\u0431\u0430\u0437\u0438\u043d\u043e"
     ],
+    "name:spa_x_preferred":[
+        "Albaz\u00edn"
+    ],
+    "name:sqi_x_preferred":[
+        "Albazino"
+    ],
     "name:swe_x_preferred":[
         "Albazino"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0431\u0430\u0437\u0438\u043d\u0435"
     ],
     "name:vie_x_preferred":[
         "Albazino"
@@ -109,7 +130,7 @@
         "wk:page":"Albazino"
     },
     "wof:country":"RU",
-    "wof:geomhash":"8269f8590d4dd7a959faa466a7375111",
+    "wof:geomhash":"0a8d3fe1d5a0950d6b5699c877405933",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,7 +142,7 @@
         }
     ],
     "wof:id":102015017,
-    "wof:lastmodified":1566614966,
+    "wof:lastmodified":1690858703,
     "wof:name":"Albazino",
     "wof:parent_id":890480417,
     "wof:placetype":"locality",
@@ -131,10 +152,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.0780258178711,
-    53.37010955810547,
-    124.11255645751953,
-    53.3964729309082
+    124.078026,
+    53.37011,
+    124.112556,
+    53.396473
 ],
-  "geometry": {"coordinates":[[[124.10197448730469,53.38522338867188],[124.11255645751953,53.37258148193359],[124.10275268554688,53.37010955810547],[124.09002685546875,53.38427734375],[124.08613586425781,53.38861083984375],[124.07802581787109,53.39502716064453],[124.09258270263672,53.3964729309082],[124.10197448730469,53.38525009155273],[124.10197448730469,53.38522338867188]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[124.101974,53.385223],[124.112556,53.372581],[124.10275300000001,53.37011],[124.09002700000001,53.384277],[124.086136,53.388611],[124.07802599999999,53.395027],[124.092583,53.396473],[124.101974,53.38525],[124.101974,53.385223]]],"type":"Polygon"}
 }

@@ -22,6 +22,15 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0686\u0631\u0646"
+    ],
+    "name:bel_x_preferred":[
+        "\u0427\u044d\u0440\u043d\u044c"
+    ],
+    "name:ceb_x_preferred":[
+        "Chern'"
+    ],
     "name:che_x_preferred":[
         "\u0427\u0435\u0440\u043d\u044c"
     ],
@@ -32,7 +41,8 @@
         "Chern'"
     ],
     "name:eng_x_variant":[
-        "Tchern"
+        "Tchern",
+        "Chern"
     ],
     "name:fra_x_preferred":[
         "Tchern"
@@ -46,10 +56,25 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30a7\u30eb\u30cb"
     ],
+    "name:mdf_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u044c"
+    ],
+    "name:nld_x_preferred":[
+        "Chern'"
+    ],
+    "name:nno_x_preferred":[
+        "Tsjern"
+    ],
+    "name:nob_x_preferred":[
+        "Tsjern"
+    ],
     "name:nor_x_preferred":[
         "Tsjern"
     ],
     "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u044c"
+    ],
+    "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u043d\u044c"
     ],
     "qs_pg:aaroncc":"RU",
@@ -93,7 +118,7 @@
         }
     ],
     "wof:id":1126039687,
-    "wof:lastmodified":1566631006,
+    "wof:lastmodified":1690860157,
     "wof:name":"Chern\u2019",
     "wof:parent_id":1108733261,
     "wof:placetype":"locality",

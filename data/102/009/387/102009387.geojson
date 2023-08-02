@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000291,
     "geom:area_square_m":2055775.81625,
-    "geom:bbox":"48.9816398621,55.1051940918,49.0144996643,55.1162223816",
+    "geom:bbox":"48.98164,55.105194,49.0145,55.116222",
     "geom:latitude":55.110445,
     "geom:longitude":48.999142,
     "gn:latitude":55.1079,
@@ -24,29 +24,95 @@
     "name:bul_x_preferred":[
         "\u0421\u044e\u043a\u0435\u0435\u0432\u043e"
     ],
+    "name:cat_x_preferred":[
+        "S\u00f6yki"
+    ],
+    "name:ces_x_preferred":[
+        "S\u00f6yki"
+    ],
     "name:che_x_preferred":[
         "\u0421\u044e\u043a\u0435\u0435\u0432\u043e"
+    ],
+    "name:dan_x_preferred":[
+        "S\u00f6yki"
     ],
     "name:deu_x_preferred":[
         "Sjukejewo"
     ],
+    "name:deu_x_variant":[
+        "S\u00f6yki"
+    ],
     "name:eng_x_preferred":[
         "Syukeyevo"
+    ],
+    "name:eng_x_variant":[
+        "S\u00f6yki"
+    ],
+    "name:fin_x_preferred":[
+        "S\u00f6yki"
+    ],
+    "name:fra_x_preferred":[
+        "S\u00f6yki"
+    ],
+    "name:hun_x_preferred":[
+        "S\u00f6yki"
+    ],
+    "name:ind_x_preferred":[
+        "S\u00f6yki"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00f6yki"
+    ],
+    "name:lat_x_preferred":[
+        "S\u00f6yki"
     ],
     "name:nld_x_preferred":[
         "Sjukeevo"
     ],
+    "name:nld_x_variant":[
+        "S\u00f6yki"
+    ],
+    "name:nno_x_preferred":[
+        "Siukejevo"
+    ],
+    "name:nob_x_preferred":[
+        "Siukejevo"
+    ],
     "name:nor_x_preferred":[
         "Siukejevo"
     ],
+    "name:pol_x_preferred":[
+        "S\u00f6yki"
+    ],
+    "name:por_x_preferred":[
+        "S\u00f6yki"
+    ],
+    "name:ron_x_preferred":[
+        "S\u00f6yki"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u044e\u043a\u0435\u0435\u0432\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00f6yki"
+    ],
+    "name:sqi_x_preferred":[
+        "Sjukeevo"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00f6yki"
     ],
     "name:tat_x_preferred":[
         "\u0421\u04e9\u0439\u043a\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u044e\u043a\u0435\u0454\u0432\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f6yki"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f11\u514b\u8036\u6c83"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d (\u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d)",
@@ -88,7 +154,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"43c39fb05f9de25c3eca2f1a81101074",
+    "wof:geomhash":"73eb007590e6f7d1ac0af22791bc7a50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,7 +164,7 @@
         }
     ],
     "wof:id":102009387,
-    "wof:lastmodified":1582329775,
+    "wof:lastmodified":1690858859,
     "wof:name":"Syukeyevo",
     "wof:parent_id":1108734239,
     "wof:placetype":"locality",
@@ -108,10 +174,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.98163986206055,
-    55.10519409179688,
-    49.01449966430664,
-    55.1162223815918
+    48.98164,
+    55.105194,
+    49.0145,
+    55.116222
 ],
-  "geometry": {"coordinates":[[[48.98347091674805,55.11258316040039],[48.98538970947266,55.11436080932617],[48.99077606201172,55.11474990844727],[49.01202774047852,55.1162223815918],[49.0133056640625,55.11377716064453],[49.01449966430664,55.11152648925781],[49.01419448852539,55.10952758789062],[49.01372146606445,55.10652923583984],[49.00394439697266,55.10519409179688],[48.99677658081055,55.10536193847656],[48.98644256591797,55.10560989379883],[48.98163986206055,55.11088943481445],[48.98347091674805,55.11258316040039]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[48.983471,55.112583],[48.98539,55.114361],[48.990776,55.11475],[49.012028,55.116222],[49.013306,55.113777],[49.0145,55.111526],[49.014194,55.109528],[49.013721,55.106529],[49.003944,55.105194],[48.996777,55.105362],[48.986443,55.10561],[48.98164,55.110889],[48.983471,55.112583]]],"type":"Polygon"}
 }

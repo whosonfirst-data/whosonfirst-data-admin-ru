@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"37.8615255,55.924181,37.8615255,55.924181",
+    "geom:bbox":"37.861525,55.924181,37.861525,55.924181",
     "geom:latitude":55.924181,
     "geom:longitude":37.861525,
     "gp:adm0":23424936,
@@ -17,11 +17,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0644\u0634\u0648\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Bol\u015fevo"
+    ],
+    "name:cat_x_preferred":[
+        "Bolshevo"
+    ],
     "name:ceb_x_preferred":[
         "Bolshevo"
     ],
     "name:eng_x_preferred":[
         "Bolshevo"
+    ],
+    "name:fra_x_preferred":[
+        "Bolch\u00e9vo"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d5\u05dc\u05e9\u05d1\u05d5"
@@ -31,6 +43,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u043b\u0448\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u043b\u0448\u0435\u0432\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u5c14\u820d\u6c83"
     ],
     "qs:name":"Bolshevo",
     "qs:name_adm0":"Russia",
@@ -60,7 +78,7 @@
     },
     "wof:country":"RU",
     "wof:created":1469054514,
-    "wof:geomhash":"b0592e092914d7b1351bfa5fa0b88e2c",
+    "wof:geomhash":"9a642668cc85e3edcaf98180a117e3b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +90,7 @@
         }
     ],
     "wof:id":890484459,
-    "wof:lastmodified":1566630715,
+    "wof:lastmodified":1690859950,
     "wof:name":"Bolshevo",
     "wof:parent_id":1108733785,
     "wof:placetype":"locality",
@@ -82,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    37.8615255,
+    37.861525,
     55.924181,
-    37.8615255,
+    37.861525,
     55.924181
 ],
-  "geometry": {"coordinates":[37.8615255,55.924181],"type":"Point"}
+  "geometry": {"coordinates":[37.861525,55.924181],"type":"Point"}
 }

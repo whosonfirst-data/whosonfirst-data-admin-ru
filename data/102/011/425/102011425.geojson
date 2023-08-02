@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000541,
     "geom:area_square_m":4317829.241954,
-    "geom:bbox":"45.3755264282,49.754611969,45.3991394043,49.7860832214",
+    "geom:bbox":"45.375526,49.754612,45.399139,49.786083",
     "geom:latitude":49.769733,
     "geom:longitude":45.388137,
     "gn:latitude":49.76618,
@@ -25,11 +25,23 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0643\u0648\u0641\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u06a9\u0648\u0648\u0648"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u044b\u043a\u0430\u0432\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "B\u00edkovo"
+    ],
     "name:ceb_x_preferred":[
         "Bykovo"
     ],
     "name:che_x_preferred":[
         "\u0411\u044b\u043a\u043e\u0432\u043e"
+    ],
+    "name:crh_x_preferred":[
+        "B\u0131kovo"
     ],
     "name:deu_x_preferred":[
         "Bykowo"
@@ -46,8 +58,17 @@
     "name:ita_x_preferred":[
         "Bykovo"
     ],
+    "name:kor_x_preferred":[
+        "\ube44\ucf54\ubcf4"
+    ],
     "name:nld_x_preferred":[
         "Bykovo"
+    ],
+    "name:nno_x_preferred":[
+        "Bikovo"
+    ],
+    "name:nob_x_preferred":[
+        "Bikovo"
     ],
     "name:nor_x_preferred":[
         "Bykovo"
@@ -57,6 +78,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u044b\u043a\u043e\u0432\u043e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0438\u043a\u043e\u0432\u043e"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0438\u043a\u043e\u0432\u043e"
@@ -102,7 +126,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e2f68a6f653cef3358c8f94e453c8431",
+    "wof:geomhash":"5ad024afdec0bd63369d29a1ae036465",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,7 +136,7 @@
         }
     ],
     "wof:id":102011425,
-    "wof:lastmodified":1582329787,
+    "wof:lastmodified":1690858960,
     "wof:name":"Bykovo",
     "wof:parent_id":1108733153,
     "wof:placetype":"locality",
@@ -124,10 +148,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    45.37552642822266,
-    49.75461196899414,
-    45.39913940429688,
-    49.78608322143555
+    45.375526,
+    49.754612,
+    45.399139,
+    49.786083
 ],
-  "geometry": {"coordinates":[[[45.39488983154297,49.75461196899414],[45.38574981689453,49.75530624389648],[45.38455581665039,49.75899887084961],[45.37552642822266,49.76150131225586],[45.38047409057617,49.78608322143555],[45.39913940429688,49.77922058105469],[45.39894485473633,49.76730728149414],[45.39888763427734,49.76274871826172],[45.39488983154297,49.75461196899414]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[45.39489,49.754612],[45.38575,49.755306],[45.384556,49.758999],[45.375526,49.761501],[45.380474,49.786083],[45.399139,49.779221],[45.398945,49.767307],[45.398888,49.762749],[45.39489,49.754612]]],"type":"Polygon"}
 }

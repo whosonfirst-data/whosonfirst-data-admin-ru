@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000254,
     "geom:area_square_m":1641943.431391,
-    "geom:bbox":"39.1109428406,58.4951400757,39.1370277405,58.5086402893",
+    "geom:bbox":"39.110943,58.49514,39.137028,58.50864",
     "geom:latitude":58.501277,
     "geom:longitude":39.125262,
     "gn:population":6900,
@@ -35,6 +35,9 @@
     "name:ceb_x_preferred":[
         "Poshekhon'ye"
     ],
+    "name:ces_x_preferred":[
+        "Po\u0161echo\u0148je"
+    ],
     "name:che_x_preferred":[
         "\u041f\u043e\u0448\u0435\u0445\u043e\u043d\u044c\u0435"
     ],
@@ -53,6 +56,12 @@
     "name:epo_x_preferred":[
         "Po\u015de\u0125onje"
     ],
+    "name:est_x_preferred":[
+        "Po\u0161ehhonje"
+    ],
+    "name:eus_x_preferred":[
+        "Poxekhonie"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0648\u0634\u062e\u0648\u0646\u06cc\u0647"
     ],
@@ -68,6 +77,9 @@
     "name:hsb_x_preferred":[
         "Po\u0161echonje"
     ],
+    "name:hun_x_preferred":[
+        "Posehonyje"
+    ],
     "name:hye_x_preferred":[
         "\u054a\u0565\u0580\u057f\u0578\u0574\u0561"
     ],
@@ -80,11 +92,20 @@
     "name:kor_x_preferred":[
         "\ud3ec\uc170\ud63c\uc608"
     ],
+    "name:lat_x_preferred":[
+        "Poschechonia"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041f\u043e\u0448\u0435\u0445\u043e\u043d\u044c\u0435"
+    ],
     "name:mkd_x_preferred":[
         "\u041f\u043e\u0448\u0435\u0445\u043e\u045a\u0435"
     ],
     "name:myv_x_preferred":[
         "\u041f\u043e\u0448\u0435\u0445\u043e\u043d\u044c\u0435 \u043e\u0448"
+    ],
+    "name:nan_x_preferred":[
+        "Poshekhonye"
     ],
     "name:nld_x_preferred":[
         "Posjechone"
@@ -97,6 +118,9 @@
     ],
     "name:nor_x_preferred":[
         "Posjekhonje"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u043e\u0448\u0435\u0445\u043e\u043d\u044c\u0435"
     ],
     "name:pol_x_preferred":[
         "Poszechonje"
@@ -176,7 +200,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"cf904a2ab1fc2820a303b4942cbacd2f",
+    "wof:geomhash":"54f9c7606ea18f5a3d4a73cccdd210e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,7 +212,7 @@
         }
     ],
     "wof:id":102002577,
-    "wof:lastmodified":1582329816,
+    "wof:lastmodified":1690859224,
     "wof:name":"Poshekhonye Volodarsk",
     "wof:parent_id":890483297,
     "wof:placetype":"locality",
@@ -200,10 +224,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.11094284057617,
-    58.49514007568359,
-    39.13702774047852,
-    58.50864028930664
+    39.110943,
+    58.49514,
+    39.137028,
+    58.50864
 ],
-  "geometry": {"coordinates":[[[39.11394500732422,58.50297164916992],[39.12547302246094,58.50733184814453],[39.13619613647461,58.50864028930664],[39.13702774047852,58.49852752685547],[39.13491821289062,58.49633407592773],[39.1243896484375,58.49580383300781],[39.12077713012695,58.49563980102539],[39.1151123046875,58.49819564819336],[39.11730575561523,58.49580383300781],[39.11194610595703,58.49514007568359],[39.11094284057617,58.50183486938477],[39.11394500732422,58.50297164916992]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[39.113945,58.502972],[39.125473,58.507332],[39.136196,58.50864],[39.137028,58.498528],[39.134918,58.496334],[39.12439,58.495804],[39.120777,58.49564],[39.115112,58.498196],[39.117306,58.495804],[39.111946,58.49514],[39.110943,58.501835],[39.113945,58.502972]]],"type":"Polygon"}
 }

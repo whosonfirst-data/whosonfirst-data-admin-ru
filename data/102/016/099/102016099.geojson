@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000269,
     "geom:area_square_m":2388197.935816,
-    "geom:bbox":"41.9390258789,44.0494995117,41.9616661072,44.0687217712",
+    "geom:bbox":"41.939026,44.0495,41.961666,44.068722",
     "geom:latitude":44.058078,
     "geom:longitude":41.952097,
     "gn:latitude":44.0834,
@@ -40,6 +40,9 @@
     "name:bul_x_preferred":[
         "\u0423\u0441\u0442 \u0414\u0436\u0435\u0433\u0443\u0442\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Ust-Djegut\u00e0"
+    ],
     "name:ceb_x_preferred":[
         "Ust'-Dzheguta"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:che_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u0414\u0436\u0435\u0433\u0443\u0442\u0430"
+    ],
+    "name:crh_x_preferred":[
+        "C\u00f6getey Aya\u011f\u0131"
     ],
     "name:dan_x_preferred":[
         "Ust-Dzjeguta"
@@ -76,6 +82,9 @@
     "name:fra_x_preferred":[
         "Oust-Djegouta"
     ],
+    "name:gle_x_preferred":[
+        "Ust-Dzheguta"
+    ],
     "name:hsb_x_preferred":[
         "Ust-D\u017eeguta"
     ],
@@ -88,6 +97,9 @@
     "name:ita_x_preferred":[
         "Ust'-D\u017eeguta"
     ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10e1\u10e2-\u10df\u10d4\u10d2\u10e3\u10e2\u10d0"
+    ],
     "name:kbd_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u0416\u044d\u0433\u0443\u044d\u0442\u044d"
     ],
@@ -97,8 +109,14 @@
     "name:krc_x_preferred":[
         "\u0414\u0436\u0451\u0433\u0435\u0442\u0435\u0439 \u0410\u044f\u0433\u044a\u044b"
     ],
+    "name:lav_x_preferred":[
+        "Ustjd\u017eeguta"
+    ],
     "name:lit_x_preferred":[
         "Ust D\u017eeguta"
+    ],
+    "name:nan_x_preferred":[
+        "Ust-Dzheguta"
     ],
     "name:nld_x_preferred":[
         "Oest-Dzjegoeta"
@@ -199,7 +217,7 @@
         "wk:page":"Ust-Dzheguta"
     },
     "wof:country":"RU",
-    "wof:geomhash":"f477c1ec5cd40acff6c150c4ab9468b9",
+    "wof:geomhash":"3fad0719501386f122846e631d9b0814",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -211,7 +229,7 @@
         }
     ],
     "wof:id":102016099,
-    "wof:lastmodified":1566615438,
+    "wof:lastmodified":1690858998,
     "wof:name":"Ustdzhegutinskaya",
     "wof:parent_id":1108732597,
     "wof:placetype":"locality",
@@ -223,10 +241,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    41.93902587890625,
-    44.04949951171875,
-    41.96166610717773,
-    44.06872177124023
+    41.939026,
+    44.0495,
+    41.961666,
+    44.068722
 ],
-  "geometry": {"coordinates":[[[41.95813751220703,44.04966735839844],[41.94386291503906,44.05199813842773],[41.93902587890625,44.05422210693359],[41.94822311401367,44.06536102294922],[41.95733261108398,44.06872177124023],[41.95988845825195,44.06830596923828],[41.95880508422852,44.06186294555664],[41.96077728271484,44.05461120605469],[41.96166610717773,44.05136108398438],[41.96105575561523,44.04997253417969],[41.95916748046875,44.04949951171875],[41.95813751220703,44.04966735839844]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[41.958138,44.049667],[41.943863,44.051998],[41.939026,44.054222],[41.948223,44.065361],[41.957333,44.068722],[41.959888,44.068306],[41.958805,44.061863],[41.960777,44.054611],[41.961666,44.051361],[41.961056,44.049973],[41.959167,44.0495],[41.958138,44.049667]]],"type":"Polygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000375,
     "geom:area_square_m":2560422.380967,
-    "geom:bbox":"73.6005249023,56.4631652832,73.6264419556,56.4782218933",
+    "geom:bbox":"73.600525,56.463165,73.626442,56.478222",
     "geom:latitude":56.470654,
     "geom:longitude":73.613457,
     "gn:latitude":56.46779,
@@ -22,6 +22,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0644\u0648\u0633\u0648\u06a4\u0643\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0644\u0648\u0632\u0648\u0648\u06a9\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u043e\u043b\u0430\u0441\u0430\u045e\u043a\u0430"
+    ],
     "name:ceb_x_preferred":[
         "Kolosovka"
     ],
@@ -43,6 +52,12 @@
     "name:nld_x_preferred":[
         "Kolosovka"
     ],
+    "name:nno_x_preferred":[
+        "Kolosovka"
+    ],
+    "name:nob_x_preferred":[
+        "Kolosovka"
+    ],
     "name:nor_x_preferred":[
         "Kolosovka"
     ],
@@ -51,6 +66,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043b\u043e\u0441\u043e\u0432\u043a\u0430"
+    ],
+    "name:sqi_x_preferred":[
+        "Kolosovka"
     ],
     "name:und_x_variant":[
         "Kolosova"
@@ -93,7 +111,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"938420cc74a63e63850d60b5c7187752",
+    "wof:geomhash":"2143ebccadd248706a795348e46cf313",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +121,7 @@
         }
     ],
     "wof:id":102011971,
-    "wof:lastmodified":1582329788,
+    "wof:lastmodified":1690858969,
     "wof:name":"Kolosovka",
     "wof:parent_id":1108734537,
     "wof:placetype":"locality",
@@ -115,10 +133,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.60052490234375,
-    56.46316528320312,
-    73.6264419555664,
-    56.47822189331055
+    73.600525,
+    56.463165,
+    73.626442,
+    56.478222
 ],
-  "geometry": {"coordinates":[[[73.60060882568359,56.46547317504883],[73.60113525390625,56.47822189331055],[73.60136413574219,56.47822189331055],[73.62644195556641,56.47789001464844],[73.62619781494141,56.47216796875],[73.62583160400391,56.46316528320312],[73.61322021484375,56.46324920654297],[73.60052490234375,56.46333312988281],[73.60060882568359,56.46547317504883]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[73.60060900000001,56.465473],[73.601135,56.478222],[73.601364,56.478222],[73.626442,56.47789],[73.626198,56.472168],[73.625832,56.463165],[73.61322,56.463249],[73.600525,56.463333],[73.60060900000001,56.465473]]],"type":"Polygon"}
 }

@@ -57,14 +57,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:alt_x_preferred":[
+        "\u0423\u043b\u0430\u0433\u0430\u043d \u0430\u0439\u043c\u0430\u043a"
+    ],
     "name:aze_x_preferred":[
         "Ulaqan rayonu"
     ],
     "name:bel_x_preferred":[
         "\u0423\u043b\u0430\u0433\u0430\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Ulaganskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0423\u043b\u0430\u0433\u0430\u043d\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
+    ],
+    "name:crh_x_preferred":[
+        "Ulagan rayon\u0131"
     ],
     "name:deu_x_preferred":[
         "Ulaganski rajon"
@@ -79,6 +88,9 @@
     "name:est_x_preferred":[
         "Ulagani rajoon"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0648\u0644\u0627\u06af\u0627\u0646\u0633\u06a9\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Ra\u00efon d'Oulagan"
     ],
@@ -91,11 +103,20 @@
     "name:ita_x_preferred":[
         "Ulaganskij rajon"
     ],
+    "name:kaz_x_preferred":[
+        "\u04b0\u043b\u0430\u0493\u0430\u043d \u0430\u0443\u0434\u0430\u043d\u044b"
+    ],
+    "name:nan_x_preferred":[
+        "Ulagansky Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Oelaganskiy rayon"
     ],
     "name:pol_x_preferred":[
         "Rejon u\u0142aga\u0144ski"
+    ],
+    "name:ron_x_preferred":[
+        "raionul Ulagan"
     ],
     "name:rus_x_preferred":[
         "\u0423\u043b\u0430\u0433\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -106,11 +127,17 @@
     "name:ukr_x_preferred":[
         "\u0423\u043b\u0430\u0433\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:uzb_x_preferred":[
+        "Ulagan tumani"
+    ],
     "name:vie_x_preferred":[
         "Ulagansky"
     ],
     "name:zho_x_preferred":[
         "\u70cf\u62c9\u7518\u65af\u57fa\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u4e4c\u62c9\u5e72\u533a"
     ],
     "qs:name":"Ulaganskiy Raion",
     "qs:name_adm0":"Russia",
@@ -171,7 +198,7 @@
         }
     ],
     "wof:id":890486997,
-    "wof:lastmodified":1642541513,
+    "wof:lastmodified":1690860037,
     "wof:name":"Ulaganskiy",
     "wof:parent_id":85687949,
     "wof:placetype":"county",

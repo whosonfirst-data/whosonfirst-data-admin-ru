@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000634,
     "geom:area_square_m":4092852.342284,
-    "geom:bbox":"48.8766937256,58.5238609314,48.9317779541,58.551612854",
-    "geom:latitude":58.539077,
+    "geom:bbox":"48.876694,58.523861,48.931778,58.551613",
+    "geom:latitude":58.539078,
     "geom:longitude":48.901826,
     "gn:population":8400,
     "iso:country":"RU",
@@ -39,6 +39,12 @@
         "Orlov"
     ],
     "name:ceb_x_preferred":[
+        "Orlov"
+    ],
+    "name:ces_x_preferred":[
+        "Orlov"
+    ],
+    "name:crh_x_preferred":[
         "Orlov"
     ],
     "name:cym_x_preferred":[
@@ -77,8 +83,20 @@
     "name:ita_x_preferred":[
         "Orlov"
     ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30eb\u30ed\u30d5"
+    ],
+    "name:lat_x_preferred":[
+        "Orlovia"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041e\u0440\u043b\u043e\u0432"
+    ],
     "name:myv_x_preferred":[
         "\u041e\u0440\u043b\u043e\u0432"
+    ],
+    "name:nan_x_preferred":[
+        "Orlov"
     ],
     "name:nld_x_preferred":[
         "Orlov"
@@ -91,6 +109,9 @@
     ],
     "name:nob_x_preferred":[
         "Orlov"
+    ],
+    "name:oss_x_preferred":[
+        "\u041e\u0440\u043b\u043e\u0432"
     ],
     "name:pol_x_preferred":[
         "Or\u0142ow"
@@ -121,6 +142,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0440\u043b\u043e\u0432"
+    ],
+    "name:vep_x_preferred":[
+        "Orlov"
     ],
     "name:war_x_preferred":[
         "Orlov"
@@ -162,7 +186,7 @@
         "wk:page":"Orlov, Kirov Oblast"
     },
     "wof:country":"RU",
-    "wof:geomhash":"6887d46e32743c40fdb7f58273d9c608",
+    "wof:geomhash":"b9a25975335a1f83deafb8d846e5a2c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,7 +198,7 @@
         }
     ],
     "wof:id":102008297,
-    "wof:lastmodified":1566615298,
+    "wof:lastmodified":1690858896,
     "wof:name":"Khalturin",
     "wof:parent_id":1108735707,
     "wof:placetype":"locality",
@@ -186,10 +210,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.87669372558594,
-    58.52386093139648,
-    48.93177795410156,
-    58.55161285400391
+    48.876694,
+    58.523861,
+    48.931778,
+    58.551613
 ],
-  "geometry": {"coordinates":[[[48.91775131225586,58.53997039794922],[48.88916778564453,58.52386093139648],[48.87669372558594,58.53302764892578],[48.89389038085938,58.5452766418457],[48.89722061157227,58.54636001586914],[48.90266799926758,58.54522323608398],[48.90630722045898,58.54952621459961],[48.93138885498047,58.55161285400391],[48.93177795410156,58.55052947998047],[48.91775131225586,58.53997039794922]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[48.917751,58.53997],[48.889168,58.523861],[48.876694,58.533028],[48.89389,58.545277],[48.897221,58.54636],[48.902668,58.545223],[48.906307,58.549526],[48.931389,58.551613],[48.931778,58.550529],[48.917751,58.53997]]],"type":"Polygon"}
 }

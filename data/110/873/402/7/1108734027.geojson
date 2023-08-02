@@ -56,6 +56,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:bel_x_preferred":[
+        "\u0406\u0441\u0456\u043b\u044c\u043a\u0443\u043b\u044c\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:che_x_preferred":[
         "\u0418\u0441\u0438\u043b\u044c\u043a\u0443\u043b\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -69,8 +72,14 @@
         "Isil'kul'skij",
         "Isilkulsky District"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0627\u06cc\u0633\u06cc\u0644\u06a9\u0648\u0644\u0633\u06a9\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Issilkoul"
+    ],
+    "name:fra_x_variant":[
+        "ra\u00efon d'Isilkulsky"
     ],
     "name:hun_x_preferred":[
         "Iszilkuli j\u00e1r\u00e1s"
@@ -84,6 +93,9 @@
     "name:jpn_x_preferred":[
         "\u30a4\u30b7\u30ea\u30af\u30eb\u30b9\u30ad\u30fc\u5730\u533a"
     ],
+    "name:nan_x_preferred":[
+        "Isilkulsky Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Isilkoelskiy rayon"
     ],
@@ -92,6 +104,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0418\u0441\u0438\u043b\u043a\u04af\u043b \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0441\u0438\u043b\u044c\u043a\u0443\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Isilkulsky"
@@ -136,7 +151,7 @@
         }
     ],
     "wof:id":1108734027,
-    "wof:lastmodified":1627522580,
+    "wof:lastmodified":1690859649,
     "wof:name":"Isil'kul'skiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

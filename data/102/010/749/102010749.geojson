@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000249,
     "geom:area_square_m":1862832.108494,
-    "geom:bbox":"51.1493873596,52.8006668091,51.1758041382,52.8182220459",
-    "geom:latitude":52.808343,
+    "geom:bbox":"51.149387,52.800667,51.175804,52.818222",
+    "geom:latitude":52.808344,
     "geom:longitude":51.162808,
     "gn:latitude":52.802,
     "gn:longitude":51.166,
@@ -46,6 +46,9 @@
     "name:che_x_preferred":[
         "\u041d\u0435\u0444\u0442\u0435\u0433\u043e\u0440\u0441\u043a"
     ],
+    "name:crh_x_preferred":[
+        "Neftegorsk"
+    ],
     "name:deu_x_preferred":[
         "Neftegorsk"
     ],
@@ -76,8 +79,14 @@
     "name:kor_x_preferred":[
         "\ub135\ud14c\uace0\ub974\uc2a4\ud06c"
     ],
+    "name:lav_x_preferred":[
+        "\u0145eftegorska"
+    ],
     "name:myv_x_preferred":[
         "\u041d\u0435\u0444\u0442\u0435\u0433\u043e\u0440\u0441\u043a"
+    ],
+    "name:nan_x_preferred":[
+        "Neftegorsk"
     ],
     "name:nld_x_preferred":[
         "Neftegorsk"
@@ -90,6 +99,9 @@
     ],
     "name:nor_x_preferred":[
         "Neftegorsk"
+    ],
+    "name:oss_x_preferred":[
+        "\u041d\u0435\u0444\u0442\u0435\u0433\u043e\u0440\u0441\u043a"
     ],
     "name:pol_x_preferred":[
         "Neftegorsk"
@@ -110,6 +122,9 @@
         "Neftegorsk"
     ],
     "name:tur_x_preferred":[
+        "Neftegorsk"
+    ],
+    "name:vep_x_preferred":[
         "Neftegorsk"
     ],
     "name:war_x_preferred":[
@@ -157,7 +172,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"98a4f88d4a3bc3f354a8af6207029d89",
+    "wof:geomhash":"f430a589cc70cdcbd559fdcb5360bcd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,7 +184,7 @@
         }
     ],
     "wof:id":102010749,
-    "wof:lastmodified":1582329796,
+    "wof:lastmodified":1690859024,
     "wof:name":"Neftegorsk",
     "wof:parent_id":890487875,
     "wof:placetype":"locality",
@@ -181,10 +196,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    51.14938735961914,
-    52.80066680908203,
-    51.17580413818359,
-    52.81822204589844
+    51.149387,
+    52.800667,
+    51.175804,
+    52.818222
 ],
-  "geometry": {"coordinates":[[[51.1614990234375,52.80066680908203],[51.14969635009766,52.80244445800781],[51.14938735961914,52.80474853515625],[51.16483306884766,52.81791687011719],[51.16716766357422,52.81822204589844],[51.17580413818359,52.80791854858398],[51.1614990234375,52.80066680908203]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[51.161499,52.800667],[51.149696,52.802444],[51.149387,52.804749],[51.164833,52.817917],[51.167168,52.818222],[51.175804,52.807919],[51.161499,52.800667]]],"type":"Polygon"}
 }

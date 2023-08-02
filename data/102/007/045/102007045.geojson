@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000349,
     "geom:area_square_m":2885568.357479,
-    "geom:bbox":"40.1109428406,48.014415741,40.1334152222,48.030418396",
-    "geom:latitude":48.022544,
+    "geom:bbox":"40.110943,48.014416,40.133415,48.030418",
+    "geom:latitude":48.022545,
     "geom:longitude":40.12214,
     "gn:latitude":48.02108,
     "gn:longitude":40.12282,
@@ -24,6 +24,9 @@
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0632\u0641\u064a\u0631\u064a\u0641\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0632\u0648\u0631\u0648\u0648"
     ],
     "name:aze_x_preferred":[
         "Zverevo"
@@ -46,8 +49,14 @@
     "name:ceb_x_preferred":[
         "Zverevo"
     ],
+    "name:ces_x_preferred":[
+        "Zverevo"
+    ],
     "name:che_x_preferred":[
         "\u0417\u0432\u0435\u0440\u0435\u0432\u043e"
+    ],
+    "name:crh_x_preferred":[
+        "Zverevo"
     ],
     "name:deu_x_preferred":[
         "Swerewo"
@@ -76,8 +85,17 @@
     "name:ita_x_preferred":[
         "Zverevo"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ba\u30f4\u30a7\u30ec\u30f4\u30a9"
+    ],
     "name:kat_x_preferred":[
         "\u10d6\u10d5\u10d4\u10e0\u10d4\u10d5\u10dd"
+    ],
+    "name:lav_x_preferred":[
+        "Zvereva"
+    ],
+    "name:nan_x_preferred":[
+        "Zverevo"
     ],
     "name:nld_x_preferred":[
         "Zverevo"
@@ -93,6 +111,9 @@
     ],
     "name:oci_x_preferred":[
         "Zverevo"
+    ],
+    "name:oss_x_preferred":[
+        "\u0417\u0432\u0435\u0440\u0435\u0432\u043e"
     ],
     "name:pol_x_preferred":[
         "Zwieriewo"
@@ -123,6 +144,9 @@
     ],
     "name:und_x_variant":[
         "Zvyereva"
+    ],
+    "name:vep_x_preferred":[
+        "Zverevo"
     ],
     "name:vie_x_preferred":[
         "Zverevo"
@@ -177,7 +201,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0ab3be44eba75b6cacefe40f310d7154",
+    "wof:geomhash":"3b970c59aab6e58480d3d3e4767dbcc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,7 +211,7 @@
         }
     ],
     "wof:id":102007045,
-    "wof:lastmodified":1582329770,
+    "wof:lastmodified":1690858823,
     "wof:name":"Zverevo",
     "wof:parent_id":1108738421,
     "wof:placetype":"locality",
@@ -199,10 +223,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    40.11094284057617,
-    48.0144157409668,
-    40.13341522216797,
-    48.03041839599609
+    40.110943,
+    48.014416,
+    40.133415,
+    48.030418
 ],
-  "geometry": {"coordinates":[[[40.11172103881836,48.01483154296875],[40.111083984375,48.01483154296875],[40.11102676391602,48.02116775512695],[40.11094284057617,48.03036117553711],[40.12513732910156,48.03038787841797],[40.13341522216797,48.03041839599609],[40.13288879394531,48.0144157409668],[40.11972045898438,48.01466751098633],[40.11172103881836,48.01483154296875]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[40.111721,48.014832],[40.111084,48.014832],[40.111027,48.021168],[40.110943,48.030361],[40.125137,48.030388],[40.133415,48.030418],[40.132889,48.014416],[40.11972,48.014668],[40.111721,48.014832]]],"type":"Polygon"}
 }

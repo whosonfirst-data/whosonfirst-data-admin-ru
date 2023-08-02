@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000377,
     "geom:area_square_m":2610303.71014,
-    "geom:bbox":"54.7825012207,55.9647483826,54.8350830078,55.9757766724",
+    "geom:bbox":"54.782501,55.964748,54.835083,55.975777",
     "geom:latitude":55.96937,
-    "geom:longitude":54.812748,
+    "geom:longitude":54.812749,
     "gn:latitude":55.96926,
     "gn:longitude":54.80321,
     "gn:population":4454,
@@ -25,13 +25,28 @@
     "name:bak_x_preferred":[
         "\u04a0\u0430\u043b\u0442\u0430\u0441\u044b"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043b\u0442\u0430\u0441\u044b"
+    ],
+    "name:ceb_x_preferred":[
+        "Kaltasy"
+    ],
     "name:che_x_preferred":[
         "\u041a\u0430\u043b\u0442\u0430\u0441\u044b"
     ],
     "name:chv_x_preferred":[
         "\u041a\u0430\u043b\u0442\u0430\u0441\u044b"
     ],
+    "name:crh_x_preferred":[
+        "Qaltas\u0131"
+    ],
+    "name:deu_x_preferred":[
+        "Kaltassy"
+    ],
     "name:eng_x_preferred":[
+        "Kaltasy"
+    ],
+    "name:fin_x_preferred":[
         "Kaltasy"
     ],
     "name:hun_x_preferred":[
@@ -49,7 +64,16 @@
     "name:mhr_x_preferred":[
         "\u041a\u0430\u043b\u0442\u0430\u0441\u0430"
     ],
+    "name:nan_x_preferred":[
+        "Kaltasy"
+    ],
     "name:nld_x_preferred":[
+        "Kaltasy"
+    ],
+    "name:nno_x_preferred":[
+        "Kaltasy"
+    ],
+    "name:nob_x_preferred":[
         "Kaltasy"
     ],
     "name:nor_x_preferred":[
@@ -61,8 +85,14 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043b\u0442\u0430\u0441\u044b"
     ],
+    "name:sqi_x_preferred":[
+        "Kaltasy"
+    ],
     "name:tat_x_preferred":[
         "\u041a\u0430\u043b\u0442\u0430\u0441\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u0442\u0430\u0441\u0438"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d",
@@ -102,7 +132,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8137906e7b4be55a8d68140e28554dec",
+    "wof:geomhash":"a39de6a089b6d4f4664cc84cdc67319f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,7 +142,7 @@
         }
     ],
     "wof:id":102009041,
-    "wof:lastmodified":1582329772,
+    "wof:lastmodified":1690858836,
     "wof:name":"Kaltasy",
     "wof:parent_id":1108734213,
     "wof:placetype":"locality",
@@ -124,10 +154,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.78250122070312,
-    55.96474838256836,
-    54.8350830078125,
-    55.97577667236328
+    54.782501,
+    55.964748,
+    54.835083,
+    55.975777
 ],
-  "geometry": {"coordinates":[[[54.82955551147461,55.96474838256836],[54.8050537109375,55.96494293212891],[54.78250122070312,55.96844482421875],[54.78525161743164,55.97027587890625],[54.78841781616211,55.97238922119141],[54.81202697753906,55.97261047363281],[54.83030700683594,55.97577667236328],[54.83308410644531,55.97360992431641],[54.83464050292969,55.96755599975586],[54.8350830078125,55.96594619750977],[54.82955551147461,55.96474838256836]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[54.829556,55.964748],[54.805054,55.964943],[54.782501,55.968445],[54.785252,55.970276],[54.788418,55.972389],[54.812027,55.97261],[54.830307,55.975777],[54.833084,55.97361],[54.834641,55.967556],[54.835083,55.965946],[54.829556,55.964748]]],"type":"Polygon"}
 }

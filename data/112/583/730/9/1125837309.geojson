@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u06a9\u0631\u0627\u0633\u0646\u0648\u0632\u06cc\u0648\u0631\u0632\u06a9\u0648\u06cc"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0430\u0437\u0451\u0440\u0441\u043a\u0430\u0435"
+    ],
     "name:ceb_x_preferred":[
         "Krasnoz\u00ebrskoye"
     ],
     "name:che_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0437\u0435\u0440\u0441\u043a\u043e\u0435"
+    ],
+    "name:crh_x_preferred":[
+        "Krasnoz\u00f6rskoye"
     ],
     "name:deu_x_preferred":[
         "Krasnosjorskoje"
@@ -36,6 +45,12 @@
     ],
     "name:eng_x_variant":[
         "Krasnoz\u00ebrskoye"
+    ],
+    "name:fin_x_preferred":[
+        "Krasnozjorskoje"
+    ],
+    "name:fra_x_preferred":[
+        "Krasnoziorsko\u00efe"
     ],
     "name:hun_x_preferred":[
         "Krasznozjorszkoje"
@@ -61,8 +76,14 @@
     "name:rus_x_variant":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0437\u0451\u0440\u0441\u043a\u043e\u0435"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0437\u0435\u0440\u0441\u044c\u043a\u0435"
+    ],
     "name:und_x_variant":[
         "Krasnozersk"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u62c9\u65af\u8bfa\u7126\u5c14\u65af\u79d1\u8036"
     ],
     "qs_pg:aaroncc":"RU",
     "qs_pg:gn_country":"RU",
@@ -105,7 +126,7 @@
         }
     ],
     "wof:id":1125837309,
-    "wof:lastmodified":1566631040,
+    "wof:lastmodified":1690860193,
     "wof:name":"Krasnoz\u00ebrskoye",
     "wof:parent_id":1108734743,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000364,
     "geom:area_square_m":2804272.295647,
-    "geom:bbox":"36.1057510376,51.4063072205,36.136138916,51.4263343811",
+    "geom:bbox":"36.105751,51.406307,36.136139,51.426334",
     "geom:latitude":51.417809,
     "geom:longitude":36.11909,
     "iso:country":"RU",
@@ -19,20 +19,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u041c\u0435\u0434\u0432\u0435\u043d\u043a\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Medwenka"
+    ],
     "name:eng_x_preferred":[
         "Medv\u00ebnka"
     ],
     "name:eng_x_variant":[
         "Medvenka"
     ],
+    "name:ido_x_preferred":[
+        "Medvenka"
+    ],
+    "name:nld_x_preferred":[
+        "Medvenka"
+    ],
     "name:nor_x_preferred":[
         "Medvenka"
+    ],
+    "name:pol_x_preferred":[
+        "Miedwienka"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0434\u0432\u0435\u043d\u043a\u0430"
     ],
     "name:rus_x_variant":[
         "\u041c\u0435\u0434\u0432\u0451\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0434\u0432\u0435\u043d\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Medvenski Kolodez"
@@ -69,7 +87,7 @@
         "wd:id":"Q6807384"
     },
     "wof:country":"RU",
-    "wof:geomhash":"88f3f0918e21515a90f131e743dd591c",
+    "wof:geomhash":"34da2a82747c0e7a44db4bc0c0e7e5fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +99,7 @@
         }
     ],
     "wof:id":102005655,
-    "wof:lastmodified":1566615649,
+    "wof:lastmodified":1690859141,
     "wof:name":"Medvenka",
     "wof:parent_id":1108735091,
     "wof:placetype":"locality",
@@ -91,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    36.10575103759766,
-    51.40630722045898,
-    36.13613891601562,
-    51.42633438110352
+    36.105751,
+    51.406307,
+    36.136139,
+    51.426334
 ],
-  "geometry": {"coordinates":[[[36.10947036743164,51.41333389282227],[36.10636138916016,51.4150276184082],[36.10575103759766,51.4241943359375],[36.11133193969727,51.42633438110352],[36.13124847412109,51.42302703857422],[36.13613891601562,51.42222213745117],[36.1303596496582,51.41558456420898],[36.12227630615234,51.40630722045898],[36.10947036743164,51.41333389282227]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[36.10947,51.413334],[36.106361,51.415028],[36.105751,51.424194],[36.111332,51.426334],[36.131248,51.423027],[36.136139,51.422222],[36.13036,51.415585],[36.122276,51.406307],[36.10947,51.413334]]],"type":"Polygon"}
 }

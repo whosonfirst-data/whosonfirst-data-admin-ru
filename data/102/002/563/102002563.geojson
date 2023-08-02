@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000454,
     "geom:area_square_m":2912569.358257,
-    "geom:bbox":"42.6806373596,58.7451095581,42.7196960449,58.7621650696",
+    "geom:bbox":"42.680637,58.74511,42.719696,58.762165",
     "geom:latitude":58.753585,
     "geom:longitude":42.700059,
     "gn:population":5430,
@@ -50,6 +50,9 @@
     "name:che_x_preferred":[
         "\u0427\u0443\u0445\u043b\u043e\u043c\u0430"
     ],
+    "name:crh_x_preferred":[
+        "\u00c7uhloma"
+    ],
     "name:deu_x_preferred":[
         "Tschuchloma"
     ],
@@ -58,6 +61,12 @@
     ],
     "name:epo_x_preferred":[
         "\u0108u\u0125loma"
+    ],
+    "name:est_x_preferred":[
+        "T\u0161uhloma"
+    ],
+    "name:eus_x_preferred":[
+        "Txukhloma"
     ],
     "name:fas_x_preferred":[
         "\u0686\u0648\u062e\u0644\u0648\u0645\u0627"
@@ -83,11 +92,20 @@
     "name:kor_x_preferred":[
         "\ucd94\ud758\ub85c\ub9c8"
     ],
+    "name:lat_x_preferred":[
+        "Tchuhloma"
+    ],
     "name:lav_x_preferred":[
         "\u010cuhloma"
     ],
+    "name:mdf_x_preferred":[
+        "\u0427\u0443\u0445\u043b\u043e\u043c\u0430"
+    ],
     "name:myv_x_preferred":[
         "\u0427\u0443\u0445\u043b\u043e\u043c\u0430"
+    ],
+    "name:nan_x_preferred":[
+        "Chukhloma"
     ],
     "name:nld_x_preferred":[
         "Tsjoechloma"
@@ -127,6 +145,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0443\u0445\u043b\u043e\u043c\u0430"
+    ],
+    "name:vep_x_preferred":[
+        "\u010cuhlom"
     ],
     "name:war_x_preferred":[
         "Chukhloma"
@@ -173,7 +194,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"391bda583bb9ff2ea82a7d6cd276793f",
+    "wof:geomhash":"4354ac1170a66e681691a2523bf6b16a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,7 +204,7 @@
         }
     ],
     "wof:id":102002563,
-    "wof:lastmodified":1582329813,
+    "wof:lastmodified":1690859190,
     "wof:name":"Chukhloma",
     "wof:parent_id":1108733297,
     "wof:placetype":"locality",
@@ -195,10 +216,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    42.68063735961914,
-    58.74510955810547,
-    42.71969604492188,
-    58.76216506958008
+    42.680637,
+    58.74511,
+    42.719696,
+    58.762165
 ],
-  "geometry": {"coordinates":[[[42.68249893188477,58.75355529785156],[42.68063735961914,58.75577926635742],[42.69369506835938,58.75963973999023],[42.69086074829102,58.76216506958008],[42.70947265625,58.76213836669922],[42.71005630493164,58.76150131225586],[42.71969604492188,58.75119400024414],[42.70244598388672,58.74510955810547],[42.68960952758789,58.74516677856445],[42.6867790222168,58.74852752685547],[42.68249893188477,58.75355529785156]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[42.682499,58.753555],[42.680637,58.755779],[42.693695,58.75964],[42.690861,58.762165],[42.709473,58.762138],[42.710056,58.761501],[42.719696,58.751194],[42.702446,58.74511],[42.68961,58.745167],[42.686779,58.748528],[42.682499,58.753555]]],"type":"Polygon"}
 }

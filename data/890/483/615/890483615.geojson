@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0628\u062d\u064a\u0631\u0647 \u067e\u0644\u064a\u0634\u062a\u0634\u064a\u06a4\u0648"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u043b\u044f\u0448\u0447\u044d\u0435\u0432\u0430 \u0432\u043e\u0437\u0435\u0440\u0430"
     ],
@@ -32,6 +35,9 @@
     "name:chv_x_preferred":[
         "\u041f\u043b\u0435\u0449\u0435\u0435\u0432\u043e \u043a\u04f3\u043b\u0115"
     ],
+    "name:cym_x_preferred":[
+        "Llyn Pleshcheyevo"
+    ],
     "name:deu_x_preferred":[
         "Pleschtschejewo-See"
     ],
@@ -39,10 +45,14 @@
         "Pleshcheyevo"
     ],
     "name:eng_x_variant":[
-        "Lake Pleshcheyevo"
+        "Lake Pleshcheyevo",
+        "Pleshcheyevo Lake"
     ],
     "name:fra_x_preferred":[
         "lac Plechtche\u00efevo"
+    ],
+    "name:hsb_x_preferred":[
+        "Ple\u0161\u0107ejewy j\u011bzor"
     ],
     "name:ind_x_preferred":[
         "Danau Pleshcheyevo"
@@ -76,6 +86,9 @@
     ],
     "name:und_x_variant":[
         "Ploshchevo"
+    ],
+    "name:vec_x_preferred":[
+        "lago Ple\u0161\u010deevo"
     ],
     "name:zho_x_preferred":[
         "\u666e\u5217\u8b1d\u8036\u6c83\u6e56"
@@ -120,7 +133,7 @@
         }
     ],
     "wof:id":890483615,
-    "wof:lastmodified":1566630659,
+    "wof:lastmodified":1690859917,
     "wof:name":"Pleshcheyevo",
     "wof:parent_id":1108732693,
     "wof:placetype":"locality",

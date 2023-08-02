@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000301,
     "geom:area_square_m":2375536.594182,
-    "geom:bbox":"42.1808052063,50.2800292969,42.207195282,50.2988052368",
+    "geom:bbox":"42.180805,50.280029,42.207195,50.298805",
     "geom:latitude":50.290563,
     "geom:longitude":42.1958,
     "gn:latitude":50.2896,
@@ -25,17 +25,29 @@
     "name:ara_x_preferred":[
         "\u0623\u0644\u064a\u0643\u0633\u064a\u064a\u0641\u0633\u0643\u0627\u064a\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0622\u0644\u06a9\u0633\u0626\u06cc\u0648\u0633\u06a9\u0627\u06cc\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Alekseyevskaya"
     ],
     "name:che_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0441\u043a\u0438"
     ],
+    "name:crh_x_preferred":[
+        "Alekseyevskaya"
+    ],
+    "name:deu_x_preferred":[
+        "Alexejewskaja"
+    ],
     "name:eng_x_preferred":[
         "Alekseyevskaya"
     ],
     "name:eng_x_variant":[
         "Alexeyevskaya"
+    ],
+    "name:est_x_preferred":[
+        "Aleksejevskaja staniitsa"
     ],
     "name:hun_x_preferred":[
         "Alekszejevszkaja"
@@ -46,11 +58,20 @@
     "name:ita_x_preferred":[
         "Alekseevskaja"
     ],
+    "name:nan_x_preferred":[
+        "Alexeyevskaya"
+    ],
     "name:nld_x_preferred":[
         "Alexeyevskaya"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0441\u043a\u0430\u044f"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0441\u043a\u0430\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0454\u0454\u0432\u0441\u044c\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Alekseevskaya"
@@ -93,7 +114,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"adf77d3158c3926396505201ed140d03",
+    "wof:geomhash":"a9f93efa319157d00a2e9365a57cad66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +124,7 @@
         }
     ],
     "wof:id":102006389,
-    "wof:lastmodified":1582329785,
+    "wof:lastmodified":1690858947,
     "wof:name":"Alekseyevskaya",
     "wof:parent_id":1108732703,
     "wof:placetype":"locality",
@@ -115,10 +136,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    42.18080520629883,
-    50.280029296875,
-    42.20719528198242,
-    50.29880523681641
+    42.180805,
+    50.280029,
+    42.207195,
+    50.298805
 ],
-  "geometry": {"coordinates":[[[42.18372344970703,50.28913879394531],[42.18080520629883,50.29552841186523],[42.18391799926758,50.2962760925293],[42.19219589233398,50.29830551147461],[42.19577789306641,50.29602813720703],[42.20074844360352,50.29880523681641],[42.20719528198242,50.29472351074219],[42.20447158813477,50.28188705444336],[42.19591522216797,50.280029296875],[42.19230651855469,50.28688812255859],[42.18372344970703,50.28913879394531]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[42.183723,50.289139],[42.180805,50.295528],[42.183918,50.296276],[42.192196,50.298306],[42.195778,50.296028],[42.200748,50.298805],[42.207195,50.294724],[42.204472,50.281887],[42.195915,50.280029],[42.192307,50.286888],[42.183723,50.289139]]],"type":"Polygon"}
 }

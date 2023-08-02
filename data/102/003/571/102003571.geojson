@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000387,
     "geom:area_square_m":2740148.715411,
-    "geom:bbox":"36.7341957092,55.0180282593,36.761138916,55.0382766724",
+    "geom:bbox":"36.734196,55.018028,36.761139,55.038277",
     "geom:latitude":55.027734,
-    "geom:longitude":36.747462,
+    "geom:longitude":36.747463,
     "gn:latitude":55.03178,
     "gn:longitude":36.74402,
     "gn:population":12300,
@@ -31,14 +31,23 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0416\u0443\u043a\u0430\u045e"
     ],
+    "name:bel_x_variant":[
+        "\u0416\u0443\u043a\u0430\u045e"
+    ],
     "name:cat_x_preferred":[
         "J\u00fakov"
     ],
     "name:ceb_x_preferred":[
         "Zhukovo"
     ],
+    "name:ces_x_preferred":[
+        "\u017dukov"
+    ],
     "name:che_x_preferred":[
         "\u0416\u0443\u043a\u043e\u0432"
+    ],
+    "name:crh_x_preferred":[
+        "Jukov"
     ],
     "name:deu_x_preferred":[
         "Schukow"
@@ -51,6 +60,9 @@
     ],
     "name:epo_x_preferred":[
         "\u0134ukov"
+    ],
+    "name:est_x_preferred":[
+        "\u017dukov"
     ],
     "name:fas_x_preferred":[
         "\u0698\u0648\u06a9\u0648\u0641"
@@ -73,6 +85,12 @@
     "name:ltz_x_preferred":[
         "Jukow"
     ],
+    "name:mdf_x_preferred":[
+        "\u0416\u0443\u043a\u043e\u0432"
+    ],
+    "name:nan_x_preferred":[
+        "Zhukov"
+    ],
     "name:nld_x_preferred":[
         "Zjoekov"
     ],
@@ -84,6 +102,9 @@
     ],
     "name:nor_x_preferred":[
         "Zjukovo"
+    ],
+    "name:oss_x_preferred":[
+        "\u0416\u0443\u043a\u043e\u0432"
     ],
     "name:pol_x_preferred":[
         "\u017bukow"
@@ -114,6 +135,9 @@
     ],
     "name:und_x_variant":[
         "Ugodskiy Zavod"
+    ],
+    "name:vep_x_preferred":[
+        "\u017dukov"
     ],
     "name:war_x_preferred":[
         "Zhukov"
@@ -159,7 +183,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e5cbf4663ce5219b6a26df6353136e41",
+    "wof:geomhash":"8d1e2502b3060a19595e5bb3acafe6fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,7 +193,7 @@
         }
     ],
     "wof:id":102003571,
-    "wof:lastmodified":1582329803,
+    "wof:lastmodified":1690859088,
     "wof:name":"Zhukovo",
     "wof:parent_id":1108738169,
     "wof:placetype":"locality",
@@ -181,10 +205,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    36.73419570922852,
-    55.01802825927734,
-    36.76113891601562,
-    55.03827667236328
+    36.734196,
+    55.018028,
+    36.761139,
+    55.038277
 ],
-  "geometry": {"coordinates":[[[36.73519515991211,55.03747177124023],[36.73749923706055,55.03827667236328],[36.75733184814453,55.03324890136719],[36.7591667175293,55.02844619750977],[36.75958251953125,55.02738952636719],[36.76113891601562,55.02336120605469],[36.76091766357422,55.01922225952148],[36.74514007568359,55.01802825927734],[36.74219512939453,55.02199935913086],[36.73733520507812,55.0226936340332],[36.73419570922852,55.03355407714844],[36.73447036743164,55.03722381591797],[36.73519515991211,55.03747177124023]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[36.735195,55.037472],[36.737499,55.038277],[36.757332,55.033249],[36.759167,55.028446],[36.759583,55.02739],[36.761139,55.023361],[36.760918,55.019222],[36.74514,55.018028],[36.742195,55.021999],[36.737335,55.022694],[36.734196,55.033554],[36.73447,55.037224],[36.735195,55.037472]]],"type":"Polygon"}
 }

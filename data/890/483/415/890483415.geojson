@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:azb_x_preferred":[
+        "\u062e\u0627\u0633\u0627\u0646"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u0430\u0440\u0430\u0434\u0441\u043a\u0456 \u043f\u0430\u0441\u0451\u043b\u0430\u043a \u0425\u0430\u0441\u0430\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u0425\u0430\u0441\u0430\u043d"
     ],
     "name:cat_x_preferred":[
         "Khassan"
@@ -29,14 +35,29 @@
     "name:ceb_x_preferred":[
         "Khasan"
     ],
+    "name:ces_x_preferred":[
+        "Chasan"
+    ],
+    "name:crh_x_preferred":[
+        "Hasan"
+    ],
     "name:deu_x_preferred":[
         "Chassan"
     ],
     "name:eng_x_preferred":[
         "Khasan"
     ],
+    "name:eus_x_preferred":[
+        "Khasan"
+    ],
+    "name:fin_x_preferred":[
+        "Hasan"
+    ],
     "name:fra_x_preferred":[
         "Khassan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d0\u05e1\u05d0\u05df"
     ],
     "name:ita_x_preferred":[
         "Chasan"
@@ -120,7 +141,7 @@
         }
     ],
     "wof:id":890483415,
-    "wof:lastmodified":1566630634,
+    "wof:lastmodified":1690859899,
     "wof:name":"Khasan",
     "wof:parent_id":1108734355,
     "wof:placetype":"locality",

@@ -56,6 +56,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:aze_x_preferred":[
+        "\u0130zobilnenski rayonu"
+    ],
+    "name:bel_x_preferred":[
+        "\u0406\u0437\u0430\u0431\u0456\u043b\u044c\u043d\u0435\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:che_x_preferred":[
         "\u0418\u0437\u043e\u0431\u0438\u043b\u044c\u043d\u0435\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -72,11 +78,17 @@
     "name:fra_x_preferred":[
         "Izobil'nenskiy"
     ],
+    "name:fra_x_variant":[
+        "ra\u00efon d'Izobilny"
+    ],
     "name:hye_x_preferred":[
         "\u053b\u0566\u0578\u0562\u056b\u056c\u0576\u056b\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Izobil'nenskij rajon"
+    ],
+    "name:nan_x_preferred":[
+        "Izobilnensky Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "District Izobilnenski"
@@ -130,7 +142,7 @@
         }
     ],
     "wof:id":1108734061,
-    "wof:lastmodified":1627522582,
+    "wof:lastmodified":1690859433,
     "wof:name":"Izobil'nenskiy",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

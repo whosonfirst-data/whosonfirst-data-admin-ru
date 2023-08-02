@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000646,
     "geom:area_square_m":4254994.763321,
-    "geom:bbox":"28.2950839996,57.795917511,28.3334712982,57.8288879395",
+    "geom:bbox":"28.295084,57.795918,28.333471,57.828888",
     "geom:latitude":57.809703,
     "geom:longitude":28.315526,
     "gn:population":201990,
@@ -24,6 +24,9 @@
         "Pskof"
     ],
     "name:ara_x_preferred":[
+        "\u0628\u0633\u0643\u0648\u0641"
+    ],
+    "name:arz_x_preferred":[
         "\u0628\u0633\u0643\u0648\u0641"
     ],
     "name:ast_x_preferred":[
@@ -68,6 +71,9 @@
     "name:chv_x_preferred":[
         "\u041f\u0441\u043a\u043e\u0432"
     ],
+    "name:crh_x_preferred":[
+        "Pskov"
+    ],
     "name:cym_x_preferred":[
         "Pskov"
     ],
@@ -104,6 +110,15 @@
     "name:fra_x_preferred":[
         "Pskov"
     ],
+    "name:frr_x_preferred":[
+        "Pskow"
+    ],
+    "name:fry_x_preferred":[
+        "Pskov"
+    ],
+    "name:gle_x_preferred":[
+        "Pskov"
+    ],
     "name:glg_x_preferred":[
         "Pskov"
     ],
@@ -127,6 +142,12 @@
     ],
     "name:hye_x_preferred":[
         "\u054a\u057d\u056f\u0578\u057e"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054a\u057d\u056f\u0578\u057e"
+    ],
+    "name:ido_x_preferred":[
+        "Pskov"
     ],
     "name:ind_x_preferred":[
         "Pskov"
@@ -161,17 +182,26 @@
     "name:lit_x_preferred":[
         "Pskovas"
     ],
+    "name:lld_x_preferred":[
+        "Pskov"
+    ],
     "name:ltz_x_preferred":[
         "Pskow"
     ],
     "name:mar_x_preferred":[
         "\u092a\u094d\u0938\u0915\u094b\u0935"
     ],
+    "name:mdf_x_preferred":[
+        "\u041f\u0441\u043a\u043e\u0432"
+    ],
     "name:mhr_x_preferred":[
         "\u041f\u0441\u043a\u043e\u0432"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0441\u043a\u043e\u0432"
+    ],
+    "name:mlt_x_preferred":[
+        "Pskov"
     ],
     "name:mon_x_preferred":[
         "\u041f\u0441\u043a\u043e\u0432"
@@ -181,6 +211,9 @@
     ],
     "name:myv_x_preferred":[
         "\u041f\u0441\u043a\u043e\u0432 \u043e\u0448"
+    ],
+    "name:nan_x_preferred":[
+        "Pskov"
     ],
     "name:nds_x_preferred":[
         "Pskow"
@@ -209,6 +242,9 @@
     "name:por_x_preferred":[
         "Pskov"
     ],
+    "name:pus_x_preferred":[
+        "\u067e\u0633\u06a9\u0648\u0641"
+    ],
     "name:ron_x_preferred":[
         "Pskov"
     ],
@@ -226,6 +262,9 @@
     ],
     "name:slv_x_preferred":[
         "Pskov"
+    ],
+    "name:smn_x_preferred":[
+        "Pihkova"
     ],
     "name:spa_x_preferred":[
         "Pskov"
@@ -272,6 +311,9 @@
     "name:uzb_x_preferred":[
         "Pskov"
     ],
+    "name:vec_x_preferred":[
+        "Pskov"
+    ],
     "name:vep_x_preferred":[
         "Pskov"
     ],
@@ -284,11 +326,23 @@
     "name:war_x_preferred":[
         "Pskov"
     ],
+    "name:wln_x_preferred":[
+        "Pskov"
+    ],
     "name:wol_x_preferred":[
         "Pskov"
     ],
+    "name:wuu_x_preferred":[
+        "\u666e\u65af\u79d1\u592b"
+    ],
     "name:xal_x_preferred":[
         "\u041f\u0441\u043a\u043e\u0432"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e4\u10e1\u10d9\u10dd\u10d5\u10d8"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e4\u05e1\u05e7\u05d0\u05d5\u05d5"
     ],
     "name:yue_x_preferred":[
         "\u666e\u65af\u79d1\u592b"
@@ -333,7 +387,7 @@
         "wk:page":"Pskov"
     },
     "wof:country":"RU",
-    "wof:geomhash":"e0d8c595c0d1b6af923eaf079b6f44a0",
+    "wof:geomhash":"42b9907e97f07880b9c154b1e0a1626e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -345,7 +399,7 @@
         }
     ],
     "wof:id":102002411,
-    "wof:lastmodified":1566615699,
+    "wof:lastmodified":1690859202,
     "wof:name":"Pskov",
     "wof:parent_id":890484337,
     "wof:placetype":"locality",
@@ -357,10 +411,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.29508399963379,
-    57.79591751098633,
-    28.33347129821777,
-    57.82888793945312
+    28.295084,
+    57.795918,
+    28.333471,
+    57.828888
 ],
-  "geometry": {"coordinates":[[[28.33347129821777,57.80327606201172],[28.33238983154297,57.80177688598633],[28.32861137390137,57.80177688598633],[28.32850074768066,57.79630661010742],[28.32847213745117,57.7962760925293],[28.31911087036133,57.79591751098633],[28.31655502319336,57.80222320556641],[28.31388854980469,57.80302810668945],[28.31030464172363,57.80105590820312],[28.29644393920898,57.79916763305664],[28.29508399963379,57.80277633666992],[28.29811096191406,57.80563735961914],[28.29897308349609,57.81208419799805],[28.30219459533691,57.81358337402344],[28.31161117553711,57.81347274780273],[28.30980491638184,57.81872177124023],[28.30880546569824,57.82160949707031],[28.31258392333984,57.82541656494141],[28.30969429016113,57.82888793945312],[28.31147193908691,57.82883453369141],[28.3168888092041,57.82699966430664],[28.32383346557617,57.82064056396484],[28.32525062561035,57.81808471679688],[28.33347129821777,57.80327606201172]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.333471,57.803276],[28.33239,57.801777],[28.328611,57.801777],[28.328501,57.796307],[28.328472,57.796276],[28.319111,57.795918],[28.316555,57.802223],[28.313889,57.803028],[28.310305,57.801056],[28.296444,57.799168],[28.295084,57.802776],[28.298111,57.805637],[28.298973,57.812084],[28.302195,57.813583],[28.311611,57.813473],[28.309805,57.818722],[28.308805,57.821609],[28.312584,57.825417],[28.309694,57.828888],[28.311472,57.828835],[28.316889,57.827],[28.323833,57.820641],[28.325251,57.818085],[28.333471,57.803276]]],"type":"Polygon"}
 }

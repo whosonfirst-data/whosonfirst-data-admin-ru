@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000916,
     "geom:area_square_m":6738773.090567,
-    "geom:bbox":"49.2842788696,53.463973999,49.3844985962,53.4964447021",
-    "geom:latitude":53.480138,
+    "geom:bbox":"49.284279,53.463974,49.384499,53.496445",
+    "geom:latitude":53.480139,
     "geom:longitude":49.340537,
     "gn:elevation":42,
     "gn:latitude":53.5303,
@@ -83,6 +83,9 @@
     "name:ben_x_preferred":[
         "\u09a4\u09cb\u0997\u09b2\u09bf\u09af\u09bc\u09be\u09a4\u09cd\u09a4\u09bf"
     ],
+    "name:ben_x_variant":[
+        "\u09e8\u09ae\u09cd\u09af\u09be\u09b8 \u099c\u09c7\u09e7\u09e9\u09e7\u09e6\u09e7\u09e8\u09e6\u09ed-\u09ec\u09e8\u09e9\u09ef\u09e6\u09ec\u09eb"
+    ],
     "name:bis_x_preferred":[
         "Tolyatti"
     ],
@@ -116,6 +119,9 @@
     "name:cho_x_preferred":[
         "Tolyatti"
     ],
+    "name:chu_x_preferred":[
+        "\u0422\u043e\u043b\u0484\u044c\ua657\u0442\u0442\u0438"
+    ],
     "name:chv_x_preferred":[
         "\u0422\u043e\u043b\u044c\u044f\u0442\u0442\u0438"
     ],
@@ -126,6 +132,9 @@
         "Tolyatti"
     ],
     "name:cos_x_preferred":[
+        "Tolyatti"
+    ],
+    "name:crh_x_preferred":[
         "Tolyatti"
     ],
     "name:csb_x_preferred":[
@@ -341,6 +350,9 @@
     "name:kin_x_preferred":[
         "Tolyatti"
     ],
+    "name:kir_x_preferred":[
+        "\u0422\u043e\u043b\u044c\u044f\u0442\u0442\u0438"
+    ],
     "name:kom_x_preferred":[
         "\u0422\u043e\u043b\u044c\u044f\u0442\u0442\u0438"
     ],
@@ -389,6 +401,9 @@
     "name:liv_x_preferred":[
         "Tolyatti"
     ],
+    "name:lld_x_preferred":[
+        "Toliatti"
+    ],
     "name:lmo_x_preferred":[
         "Tolyatti"
     ],
@@ -405,7 +420,8 @@
         "\u091f\u0949\u0932\u092f\u091f\u094d\u091f\u0940"
     ],
     "name:mar_x_variant":[
-        "\u0924\u094b\u0932\u094d\u092f\u093e\u091f\u0940"
+        "\u0924\u094b\u0932\u094d\u092f\u093e\u091f\u0940",
+        "\u0924\u094b\u0932\u094d\u092f\u093e\u0924\u0940"
     ],
     "name:mhr_x_preferred":[
         "\u0422\u043e\u043b\u044c\u044f\u0442\u0442\u0438"
@@ -441,6 +457,9 @@
         "\u0422\u043e\u043b\u044c\u044f\u0442\u0442\u0438 \u043e\u0448"
     ],
     "name:nah_x_preferred":[
+        "Tolyatti"
+    ],
+    "name:nan_x_preferred":[
         "Tolyatti"
     ],
     "name:nap_x_preferred":[
@@ -736,14 +755,23 @@
     "name:wol_x_preferred":[
         "Tolyatti"
     ],
+    "name:wuu_x_preferred":[
+        "\u9676\u91cc\u4e9a\u8482"
+    ],
     "name:xho_x_preferred":[
         "Tolyatti"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e2\u10dd\u10da\u10d8\u10d0\u10e2\u10d8"
     ],
     "name:yor_x_preferred":[
         "Tolyatti"
     ],
     "name:yue_x_preferred":[
         "\u9676\u91cc\u4e9e\u8482"
+    ],
+    "name:yue_x_variant":[
+        "\u4ed6\u91cc\u4e9e\u6c60"
     ],
     "name:zea_x_preferred":[
         "Tolyatti"
@@ -794,7 +822,7 @@
         "wk:page":"Tolyatti"
     },
     "wof:country":"RU",
-    "wof:geomhash":"0bb4ba8099884aeeacdadb5b7bd6d599",
+    "wof:geomhash":"4de53318e3048dc807af0e72cccbb34f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -806,7 +834,7 @@
         }
     ],
     "wof:id":102010453,
-    "wof:lastmodified":1566615483,
+    "wof:lastmodified":1690859021,
     "wof:name":"",
     "wof:parent_id":1108737055,
     "wof:placetype":"locality",
@@ -818,10 +846,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    49.28427886962891,
-    53.46397399902344,
-    49.38449859619141,
-    53.49644470214844
+    49.284279,
+    53.463974,
+    49.384499,
+    53.496445
 ],
-  "geometry": {"coordinates":[[[49.36491775512695,53.47024917602539],[49.35897064208984,53.47258377075195],[49.33238983154297,53.47472381591797],[49.32277679443359,53.47766494750977],[49.29788970947266,53.48727798461914],[49.28780364990234,53.48958206176758],[49.28450012207031,53.48994445800781],[49.28427886962891,53.49166488647461],[49.29733276367188,53.49644470214844],[49.32830429077148,53.48283386230469],[49.33433151245117,53.48202896118164],[49.35486221313477,53.48550033569336],[49.37474822998047,53.47980499267578],[49.37897109985352,53.47727966308594],[49.3835563659668,53.46977615356445],[49.38449859619141,53.4682502746582],[49.37516784667969,53.46397399902344],[49.36627960205078,53.46972274780273],[49.36491775512695,53.47024917602539]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[49.364918,53.470249],[49.358971,53.472584],[49.33239,53.474724],[49.322777,53.477665],[49.29789,53.487278],[49.287804,53.489582],[49.2845,53.489944],[49.284279,53.491665],[49.297333,53.496445],[49.328304,53.482834],[49.334332,53.482029],[49.354862,53.4855],[49.374748,53.479805],[49.378971,53.47728],[49.383556,53.469776],[49.384499,53.46825],[49.375168,53.463974],[49.36628,53.469723],[49.364918,53.470249]]],"type":"Polygon"}
 }

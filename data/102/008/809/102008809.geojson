@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000266,
     "geom:area_square_m":1804716.280323,
-    "geom:bbox":"47.9091949463,56.6604995728,47.9358596802,56.6753349304",
-    "geom:latitude":56.666997,
+    "geom:bbox":"47.909195,56.6605,47.93586,56.675335",
+    "geom:latitude":56.666998,
     "geom:longitude":47.922245,
     "gn:population":279100,
     "iso:country":"RU",
@@ -32,11 +32,17 @@
     "name:azb_x_preferred":[
         "\u06cc\u0648\u0634\u06a9\u0627\u0631 \u0627\u0648\u0644\u0627"
     ],
+    "name:aze_x_preferred":[
+        "Yo\u015fkar-Ola"
+    ],
     "name:bak_x_preferred":[
         "\u0419\u043e\u0448\u043a\u0430\u0440-\u041e\u043b\u0430"
     ],
     "name:bel_x_preferred":[
         "\u0406\u0430\u0448\u043a\u0430\u0440-\u0410\u043b\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u042f\u0448\u043a\u0430\u0440-\u0410\u043b\u0430"
     ],
     "name:ben_x_preferred":[
         "\u0987\u09af\u09bc\u09b6\u0995\u09be\u09b0 \u0993\u09b2\u09be"
@@ -58,6 +64,9 @@
     ],
     "name:chv_x_preferred":[
         "\u0419\u043e\u0448\u043a\u0430\u0440-\u041e\u043b\u0430"
+    ],
+    "name:crh_x_preferred":[
+        "Yo\u015fkar-Ola"
     ],
     "name:cym_x_preferred":[
         "Yoshkar-Ola"
@@ -91,6 +100,12 @@
     ],
     "name:fra_x_preferred":[
         "Iochkar-Ola"
+    ],
+    "name:fry_x_preferred":[
+        "Josjkar-Ola"
+    ],
+    "name:gle_x_preferred":[
+        "Yoshkar-Ola"
     ],
     "name:guj_x_preferred":[
         "\u0aaf\u0acb\u0ab6\u0a95\u0ab0-\u0a93\u0ab2\u0abe"
@@ -149,17 +164,26 @@
     "name:lat_x_preferred":[
         "Jo\u0161kar-Ola"
     ],
+    "name:lat_x_variant":[
+        "Caesarocoxaga"
+    ],
     "name:lav_x_preferred":[
         "Jo\u0161karola"
     ],
     "name:lit_x_preferred":[
         "Jo\u0161kar Ola"
     ],
+    "name:lld_x_preferred":[
+        "Iosckar-Ola"
+    ],
     "name:ltz_x_preferred":[
         "Joschkar-Ola"
     ],
     "name:mar_x_preferred":[
         "\u092f\u094b\u0936\u094d\u0915\u0930-\u0913\u0932\u093e"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0419\u043e\u0448\u043a\u0430\u0440-\u041e\u043b\u0430"
     ],
     "name:mhr_x_preferred":[
         "\u0419\u043e\u0448\u043a\u0430\u0440-\u041e\u043b\u0430"
@@ -175,6 +199,9 @@
     ],
     "name:myv_x_preferred":[
         "\u0419\u043e\u0448\u043a\u0430\u0440-\u043e\u043b\u0430 \u043e\u0448"
+    ],
+    "name:nan_x_preferred":[
+        "Yoshkar-Ola"
     ],
     "name:nds_x_preferred":[
         "Joschkar-Ola"
@@ -197,6 +224,9 @@
     "name:por_x_preferred":[
         "Iochkar-Ola"
     ],
+    "name:pus_x_preferred":[
+        "\u064a\u0648\u0634\u06a9\u0631 \u0627\u0648\u0644\u0627"
+    ],
     "name:ron_x_preferred":[
         "Io\u0219kar-Ola"
     ],
@@ -211,6 +241,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dba\u0ddd\u0dc2\u0dca\u0d9a\u0dbb\u0dca-\u0dbd\u0dcf"
+    ],
+    "name:slv_x_preferred":[
+        "Jo\u0161kar-Ola"
     ],
     "name:spa_x_preferred":[
         "Yoshkar-Ol\u00e1"
@@ -257,6 +290,9 @@
     "name:uzb_x_preferred":[
         "Yoshkar-ola"
     ],
+    "name:vec_x_preferred":[
+        "Jo\u0161kar-Ola"
+    ],
     "name:vep_x_preferred":[
         "Jo\u0161kar-Ol"
     ],
@@ -265,6 +301,12 @@
     ],
     "name:war_x_preferred":[
         "Yoshkar-Ola"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7ea6\u4ec0\u5361\u5c14\u5965\u62c9"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d8\u10dd\u10e8\u10e5\u10d0\u10e0-\u10dd\u10da\u10d0"
     ],
     "name:yue_x_preferred":[
         "\u7d04\u4ec0\u5361\u723e\u5967\u62c9"
@@ -398,7 +440,7 @@
         "wk:page":"Yoshkar-Ola"
     },
     "wof:country":"RU",
-    "wof:geomhash":"608754fc1a605c3a6b0ac22ffce9981b",
+    "wof:geomhash":"8f9d3da13a9e07b8e3656f4fb6de02e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -410,7 +452,7 @@
         }
     ],
     "wof:id":102008809,
-    "wof:lastmodified":1566615295,
+    "wof:lastmodified":1690858893,
     "wof:name":"Krasnokokshaysk Yoshar-Ola",
     "wof:parent_id":1108735089,
     "wof:placetype":"locality",
@@ -422,10 +464,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    47.90919494628906,
-    56.66049957275391,
-    47.93585968017578,
-    56.67533493041992
+    47.909195,
+    56.6605,
+    47.93586,
+    56.675335
 ],
-  "geometry": {"coordinates":[[[47.90947341918945,56.66755676269531],[47.90919494628906,56.66908264160156],[47.92216491699219,56.67533493041992],[47.92655563354492,56.67422103881836],[47.93505477905273,56.66550064086914],[47.93585968017578,56.66466522216797],[47.93552780151367,56.66188812255859],[47.92583465576172,56.66105651855469],[47.91913986206055,56.66049957275391],[47.91022109985352,56.66363906860352],[47.90947341918945,56.66755676269531]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[47.909473,56.667557],[47.909195,56.669083],[47.922165,56.675335],[47.926556,56.674221],[47.935055,56.665501],[47.93586,56.664665],[47.935528,56.661888],[47.925835,56.661057],[47.91914,56.6605],[47.910221,56.663639],[47.909473,56.667557]]],"type":"Polygon"}
 }

@@ -56,8 +56,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:bel_x_preferred":[
+        "\u0423\u0441\u0446\u044c-\u041f\u0440\u044b\u0441\u0442\u0430\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Ust'-Pristanskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u041f\u0440\u0438\u0441\u0442\u0430\u043d\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
+    ],
+    "name:crh_x_preferred":[
+        "Ust-Pristan rayon\u0131"
     ],
     "name:deu_x_preferred":[
         "Ust-Pristanski rajon"
@@ -69,8 +78,14 @@
         "Ust'-Pristanskij",
         "Ust-Pristansky District"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0648\u0633\u062a-\u067e\u0631\u06cc\u0633\u062a\u0627\u0646\u0633\u06a9\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Oust-Tcharychka\u00efa Pristan"
+    ],
+    "name:fra_x_variant":[
+        "ra\u00efon d'Oust-Pristansky"
     ],
     "name:hun_x_preferred":[
         "Uszty-prisztanyi j\u00e1r\u00e1s"
@@ -81,11 +96,20 @@
     "name:ita_x_preferred":[
         "Ust'-Pristanskij rajon"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30b9\u30c1\uff1d\u30d7\u30ea\u30b9\u30bf\u30f3\u30b9\u30ad\u30fc\u5730\u533a"
+    ],
+    "name:nan_x_preferred":[
+        "Ust-Pristansky Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Oest-Pristanskiy rayon"
     ],
     "name:rus_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u041f\u0440\u0438\u0441\u0442\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0441\u0442\u044c-\u041f\u0440\u0438\u0441\u0442\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Ust-Pristansky"
@@ -130,7 +154,7 @@
         }
     ],
     "wof:id":1108737255,
-    "wof:lastmodified":1627522655,
+    "wof:lastmodified":1690859488,
     "wof:name":"Ust'-Pristanskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

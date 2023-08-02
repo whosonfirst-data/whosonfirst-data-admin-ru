@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000469,
     "geom:area_square_m":3501600.655816,
-    "geom:bbox":"40.7765312195,52.8749961853,40.8048439026,52.8977127075",
+    "geom:bbox":"40.776531,52.874996,40.804844,52.897713",
     "geom:latitude":52.886653,
     "geom:longitude":40.790471,
     "gn:latitude":52.8832,
@@ -21,14 +21,44 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:bel_x_preferred":[
+        "\u0414\u0437\u043c\u0456\u0442\u0440\u044b\u0435\u045e\u043a\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Dm\u00edtrievka"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u043a\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Dmitrijewka"
+    ],
     "name:eng_x_preferred":[
         "Dmitriyevka"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0574\u056b\u057f\u0580\u056b\u0587\u056f\u0561"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u043a\u0430"
+    ],
+    "name:lav_x_preferred":[
+        "Dmitrijevka"
+    ],
+    "name:nld_x_preferred":[
+        "Dmitrijevka"
     ],
     "name:nor_x_preferred":[
         "Dmitrijevka"
     ],
+    "name:pol_x_preferred":[
+        "Dmitrijewka"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043c\u0438\u0442\u0440\u0456\u0454\u0432\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Bel\u2019skoye"
@@ -65,7 +95,7 @@
         "wd:id":"Q5285677"
     },
     "wof:country":"RU",
-    "wof:geomhash":"f01090870021e6d716ed07a7be6654b7",
+    "wof:geomhash":"07fb7be04296ee5f9e4912782293fb2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +107,7 @@
         }
     ],
     "wof:id":102004603,
-    "wof:lastmodified":1566615582,
+    "wof:lastmodified":1690859104,
     "wof:name":"Dmitriyevka",
     "wof:parent_id":1108735367,
     "wof:placetype":"locality",
@@ -87,10 +117,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    40.77653121948242,
-    52.87499618530273,
-    40.80484390258789,
-    52.89771270751953
+    40.776531,
+    52.874996,
+    40.804844,
+    52.897713
 ],
-  "geometry": {"coordinates":[[[40.78044509887695,52.87785720825195],[40.77750015258789,52.87833786010742],[40.77653121948242,52.88335418701172],[40.77902221679688,52.88919448852539],[40.78202819824219,52.89624786376953],[40.78801345825195,52.89771270751953],[40.80170822143555,52.89563369750977],[40.80484390258789,52.89293670654297],[40.80089569091797,52.88252258300781],[40.79804229736328,52.87499618530273],[40.78044509887695,52.87785720825195]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[40.780445,52.877857],[40.7775,52.878338],[40.776531,52.883354],[40.779022,52.889194],[40.782028,52.896248],[40.788013,52.897713],[40.801708,52.895634],[40.804844,52.892937],[40.800896,52.882523],[40.798042,52.874996],[40.780445,52.877857]]],"type":"Polygon"}
 }

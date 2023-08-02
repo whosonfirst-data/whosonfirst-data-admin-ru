@@ -20,6 +20,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062a\u064a\u062a\u0633\u0643\u064a\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u062a\u064a\u062a\u0633\u0643\u064a\u0649"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0626\u06cc\u062a\u062a\u0627\u06cc\u0633\u06a9\u0627\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u0446\u0435\u0446\u043a\u0456"
     ],
@@ -38,6 +47,9 @@
     "name:eng_x_variant":[
         "Batetsky"
     ],
+    "name:epo_x_preferred":[
+        "Bateckij"
+    ],
     "name:fin_x_preferred":[
         "Batetski"
     ],
@@ -55,6 +67,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u0442\u0435\u0446\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0442\u0435\u0446\u044c\u043a\u0438\u0439"
     ],
     "qs:name":"Batetskiy",
     "qs:name_adm0":"Russia",
@@ -94,7 +109,7 @@
         }
     ],
     "wof:id":890486601,
-    "wof:lastmodified":1566630880,
+    "wof:lastmodified":1690860064,
     "wof:name":"Batetskiy",
     "wof:parent_id":1108732907,
     "wof:placetype":"locality",

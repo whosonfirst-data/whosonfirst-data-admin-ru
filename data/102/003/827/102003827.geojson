@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000433,
     "geom:area_square_m":3113626.658752,
-    "geom:bbox":"34.0086097717,54.4033889771,34.0499458313,54.4200820923",
+    "geom:bbox":"34.00861,54.403389,34.049946,54.420082",
     "geom:latitude":54.411647,
     "geom:longitude":34.03108,
     "gn:latitude":54.41222,
@@ -34,6 +34,9 @@
     "name:bel_x_variant":[
         "\u0421\u043f\u0430\u0441-\u0414\u0437\u0435\u043c\u0435\u043d\u0441\u043a"
     ],
+    "name:cat_x_preferred":[
+        "Spas-D\u00e9mensk"
+    ],
     "name:ceb_x_preferred":[
         "Spas-Demensk"
     ],
@@ -43,6 +46,9 @@
     "name:che_x_preferred":[
         "\u0421\u043f\u0430\u0441-\u0414\u0435\u043c\u0435\u043d\u0441\u043a"
     ],
+    "name:crh_x_preferred":[
+        "Spas-Demensk"
+    ],
     "name:deu_x_preferred":[
         "Spas-Demensk"
     ],
@@ -51,6 +57,9 @@
     ],
     "name:epo_x_preferred":[
         "Spas-Demensk"
+    ],
+    "name:est_x_preferred":[
+        "Spass-Demensk"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u067e\u0627\u0633-\u062f\u0645\u0646\u0633\u06a9"
@@ -63,6 +72,9 @@
     ],
     "name:glg_x_preferred":[
         "Spas-Demensk"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e4\u05d0\u05e1 \u05d3\u05de\u05d9\u05e0\u05e1\u05e7"
     ],
     "name:hsb_x_preferred":[
         "Spas-Demjensk"
@@ -82,6 +94,9 @@
     "name:ltz_x_preferred":[
         "Spas-Demensk"
     ],
+    "name:nan_x_preferred":[
+        "Spas-Demensk"
+    ],
     "name:nld_x_preferred":[
         "Spas-Demensk"
     ],
@@ -93,6 +108,9 @@
     ],
     "name:nor_x_preferred":[
         "Spas-Demensk"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u043f\u0430\u0441-\u0414\u0435\u043c\u0435\u043d\u0441\u043a"
     ],
     "name:pol_x_preferred":[
         "Spas-Diemie\u0144sk"
@@ -126,6 +144,9 @@
     ],
     "name:und_x_variant":[
         "Spas Demensko"
+    ],
+    "name:vep_x_preferred":[
+        "Spas-Demensk"
     ],
     "name:war_x_preferred":[
         "Spas-Demensk"
@@ -174,7 +195,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7877d85e94896eb4a834f28cd3dfc84e",
+    "wof:geomhash":"77d23c7dc22d94314d9ff6556e1ee198",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -184,7 +205,7 @@
         }
     ],
     "wof:id":102003827,
-    "wof:lastmodified":1582329799,
+    "wof:lastmodified":1690859050,
     "wof:name":"Spas-Demensk",
     "wof:parent_id":1108736765,
     "wof:placetype":"locality",
@@ -196,10 +217,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    34.00860977172852,
-    54.40338897705078,
-    34.04994583129883,
-    54.42008209228516
+    34.00861,
+    54.403389,
+    34.049946,
+    54.420082
 ],
-  "geometry": {"coordinates":[[[34.01488876342773,54.41311264038086],[34.01572036743164,54.41336059570312],[34.03752899169922,54.42008209228516],[34.0438346862793,54.4200553894043],[34.04994583129883,54.41725158691406],[34.04888916015625,54.41080474853516],[34.04888916015625,54.41075134277344],[34.04410934448242,54.40719604492188],[34.03974914550781,54.40661239624023],[34.03805541992188,54.40638732910156],[34.01572036743164,54.40338897705078],[34.00860977172852,54.41116714477539],[34.01488876342773,54.41311264038086]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.014889,54.413113],[34.01572,54.413361],[34.037529,54.420082],[34.043835,54.420055],[34.049946,54.417252],[34.048889,54.410805],[34.048889,54.410751],[34.044109,54.407196],[34.039749,54.406612],[34.038055,54.406387],[34.01572,54.403389],[34.00861,54.411167],[34.014889,54.413113]]],"type":"Polygon"}
 }

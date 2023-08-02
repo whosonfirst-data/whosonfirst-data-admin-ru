@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000393,
     "geom:area_square_m":2862359.505533,
-    "geom:bbox":"43.1791954041,53.918258667,43.2003860474,53.942855835",
+    "geom:bbox":"43.179195,53.918259,43.200386,53.942856",
     "geom:latitude":53.929556,
     "geom:longitude":43.189828,
     "gn:latitude":53.92559,
@@ -42,8 +42,14 @@
     "name:ceb_x_preferred":[
         "Bednodem'yanovsk"
     ],
+    "name:ces_x_preferred":[
+        "Spassk"
+    ],
     "name:che_x_preferred":[
         "\u0421\u043f\u0430\u0441\u0441\u043a"
+    ],
+    "name:crh_x_preferred":[
+        "Spassk"
     ],
     "name:deu_x_preferred":[
         "Spassk"
@@ -93,6 +99,9 @@
     "name:myv_x_preferred":[
         "\u0421\u043f\u0430\u0441\u0441\u043a \u043e\u0448"
     ],
+    "name:nan_x_preferred":[
+        "Spassk"
+    ],
     "name:nld_x_preferred":[
         "Spassk"
     ],
@@ -114,6 +123,9 @@
     "name:rus_x_variant":[
         "\u0421\u043f\u0430\u0441\u0441\u043a"
     ],
+    "name:slk_x_preferred":[
+        "Spassk"
+    ],
     "name:spa_x_preferred":[
         "Spassk"
     ],
@@ -129,8 +141,14 @@
     "name:tur_x_preferred":[
         "Spassk"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043f\u0430\u0441\u044c\u043a"
+    ],
     "name:und_x_variant":[
         "Bednodem\u2019yanovskiy"
+    ],
+    "name:vep_x_preferred":[
+        "Spassk"
     ],
     "name:war_x_preferred":[
         "Spassk"
@@ -173,7 +191,7 @@
         "wk:page":"Spassk, Penza Oblast"
     },
     "wof:country":"RU",
-    "wof:geomhash":"3102e3b709c61a577b3a6ab7f3a7ae8f",
+    "wof:geomhash":"7e1831681fe2e11bbdf0e0f3a2945af7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,7 +203,7 @@
         }
     ],
     "wof:id":102004073,
-    "wof:lastmodified":1566615596,
+    "wof:lastmodified":1690859112,
     "wof:name":"Bednodemyanovsk",
     "wof:parent_id":1108736771,
     "wof:placetype":"locality",
@@ -195,10 +213,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.17919540405273,
-    53.91825866699219,
-    43.20038604736328,
-    53.94285583496094
+    43.179195,
+    53.918259,
+    43.200386,
+    53.942856
 ],
-  "geometry": {"coordinates":[[[43.19152450561523,53.94034194946289],[43.19652938842773,53.94285583496094],[43.20038604736328,53.94192504882812],[43.19778442382812,53.92000198364258],[43.19372177124023,53.91962051391602],[43.18333435058594,53.91864776611328],[43.17919540405273,53.91825866699219],[43.17937088012695,53.93247222900391],[43.17939376831055,53.93424987792969],[43.18230819702148,53.93571472167969],[43.19152450561523,53.94034194946289]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[43.191525,53.940342],[43.196529,53.942856],[43.200386,53.941925],[43.197784,53.920002],[43.193722,53.919621],[43.183334,53.918648],[43.179195,53.918259],[43.179371,53.932472],[43.179394,53.93425],[43.182308,53.935715],[43.191525,53.940342]]],"type":"Polygon"}
 }

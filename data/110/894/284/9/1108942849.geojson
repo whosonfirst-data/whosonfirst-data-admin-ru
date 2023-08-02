@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"37.7308054613,55.6038476079,37.7308054613,55.6038476079",
+    "geom:bbox":"37.730805,55.603848,37.730805,55.603848",
     "geom:latitude":55.603848,
     "geom:longitude":37.730805,
     "gn:country":"RU",
@@ -26,6 +26,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0631\u062e\u0648\u0648\u0648-\u0628\u0648\u0631\u06cc\u0633\u0648\u0648\u0648 \u06cc\u0648\u0698\u0646\u0648\u06cc"
+    ],
     "name:ceb_x_preferred":[
         "Orekhovo-Borisovo Yuzhnoye District"
     ],
@@ -39,8 +42,14 @@
     "name:fra_x_preferred":[
         "Orekhovo-Borissovo Ioujno\u00efe"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05e8\u05d5\u05dd \u05d0\u05d5\u05e8\u05d7\u05d5\u05d1\u05d5-\u05d1\u05d5\u05e8\u05d9\u05e1\u05d5\u05d1\u05d5"
+    ],
     "name:ita_x_preferred":[
         "Orechovo-Borisovo Ju\u017enoe"
+    ],
+    "name:nan_x_preferred":[
+        "Orekhovo-Borisovo Yuzhnoye Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Orechovo-Borisovo Juzjnoe"
@@ -76,7 +85,7 @@
     },
     "wof:country":"RU",
     "wof:created":1491363359,
-    "wof:geomhash":"22c7d21ef8bd8f961cb20fc26d361684",
+    "wof:geomhash":"e636905a1929a4da41655d5c749aca62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":1108942849,
-    "wof:lastmodified":1566627422,
+    "wof:lastmodified":1690859736,
     "wof:name":"Orekhovo-Borisovo Yuzhnoye",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -101,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    37.73080546134926,
-    55.60384760788168,
-    37.73080546134926,
-    55.60384760788168
+    37.730805,
+    55.603848,
+    37.730805,
+    55.603848
 ],
-  "geometry": {"coordinates":[37.73080546134926,55.60384760788168],"type":"Point"}
+  "geometry": {"coordinates":[37.730805,55.603848],"type":"Point"}
 }

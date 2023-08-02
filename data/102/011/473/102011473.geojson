@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000216,
     "geom:area_square_m":1784044.281584,
-    "geom:bbox":"46.0953330994,48.0582237244,46.1134147644,48.0742225647",
+    "geom:bbox":"46.095333,48.058224,46.113415,48.074223",
     "geom:latitude":48.066151,
     "geom:longitude":46.104937,
     "gn:latitude":48.06242,
@@ -22,11 +22,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u062a\u0634\u0648\u0631\u0646\u0649 \u064a\u0627\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "\u00c7orn\u0131y Yar"
+    ],
+    "name:bel_x_preferred":[
+        "\u0427\u043e\u0440\u043d\u044b \u042f\u0440"
+    ],
     "name:ceb_x_preferred":[
         "Chyorny Yar"
     ],
     "name:che_x_preferred":[
         "\u0427\u0435\u0440\u043d\u044b\u0439 \u042f\u0440"
+    ],
+    "name:crh_x_preferred":[
+        "\u00c7\u00f6rn\u0131y Yar"
     ],
     "name:deu_x_preferred":[
         "Tschorny Jar"
@@ -37,14 +49,32 @@
     "name:eng_x_variant":[
         "Chorny Yar"
     ],
+    "name:eus_x_preferred":[
+        "Txorny Jar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u0648\u0631\u0646\u06cc \u06cc\u0627\u0631"
+    ],
     "name:hun_x_preferred":[
         "Csornij Jar"
     ],
     "name:hye_x_preferred":[
         "\u0549\u0578\u057c\u0576\u056b \u0545\u0561\u057c"
     ],
+    "name:lat_x_preferred":[
+        "Ripa Nigra"
+    ],
+    "name:nan_x_preferred":[
+        "Chyorny Yar"
+    ],
     "name:nld_x_preferred":[
         "Chorny Yar"
+    ],
+    "name:nno_x_preferred":[
+        "Tsjornyj Jar"
+    ],
+    "name:nob_x_preferred":[
+        "Tsjornyj Jar"
     ],
     "name:nor_x_preferred":[
         "Tsjernyj Jar"
@@ -57,6 +87,12 @@
     ],
     "name:rus_x_variant":[
         "\u0427\u0451\u0440\u043d\u044b\u0439 \u042f\u0440"
+    ],
+    "name:sqi_x_preferred":[
+        "Cernyj Jar"
+    ],
+    "name:swe_x_preferred":[
+        "Tjornyj Jar"
     ],
     "name:tat_x_preferred":[
         "\u042f\u043d\u043a\u0430\u043b\u0430"
@@ -104,7 +140,7 @@
         "wk:page":"Chyorny Yar, Astrakhan Oblast"
     },
     "wof:country":"RU",
-    "wof:geomhash":"d1a4202bda06474bfa1cd5487d7407e7",
+    "wof:geomhash":"6c3c97c05b6c6408b5c6f3143f0db76d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,7 +152,7 @@
         }
     ],
     "wof:id":102011473,
-    "wof:lastmodified":1566615410,
+    "wof:lastmodified":1690858978,
     "wof:name":"Chernyy Yar",
     "wof:parent_id":1108733257,
     "wof:placetype":"locality",
@@ -128,10 +164,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.09533309936523,
-    48.05822372436523,
-    46.1134147644043,
-    48.07422256469727
+    46.095333,
+    48.058224,
+    46.113415,
+    48.074223
 ],
-  "geometry": {"coordinates":[[[46.11277770996094,48.05983352661133],[46.11016845703125,48.05822372436523],[46.10675048828125,48.0584716796875],[46.09999847412109,48.05899810791016],[46.098388671875,48.06286239624023],[46.09533309936523,48.07011032104492],[46.10174942016602,48.07402801513672],[46.10244369506836,48.07397079467773],[46.10913848876953,48.07422256469727],[46.11038970947266,48.07197189331055],[46.1134147644043,48.06369400024414],[46.11277770996094,48.05983352661133]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[46.112778,48.059834],[46.110168,48.058224],[46.10675,48.058472],[46.099998,48.058998],[46.098389,48.062862],[46.095333,48.07011],[46.101749,48.074028],[46.102444,48.073971],[46.109138,48.074223],[46.11039,48.071972],[46.113415,48.063694],[46.112778,48.059834]]],"type":"Polygon"}
 }

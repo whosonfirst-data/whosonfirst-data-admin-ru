@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000863,
     "geom:area_square_m":6207048.329019,
-    "geom:bbox":"40.4900970459,54.40650177,40.5493888855,54.443359375",
+    "geom:bbox":"40.490097,54.406502,40.549389,54.443359",
     "geom:latitude":54.426358,
     "geom:longitude":40.520603,
     "iso:country":"RU",
@@ -31,8 +31,14 @@
     "name:ceb_x_preferred":[
         "Spassk-Ryazanskiy"
     ],
+    "name:ces_x_preferred":[
+        "Spassk-Rjazanskij"
+    ],
     "name:che_x_preferred":[
         "\u0421\u043f\u0430\u0441\u0441\u043a-\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0438\u0439"
+    ],
+    "name:crh_x_preferred":[
+        "Spassk-R\u00e2zanskiy"
     ],
     "name:deu_x_preferred":[
         "Spassk-Rjasanski"
@@ -48,6 +54,9 @@
     ],
     "name:epo_x_preferred":[
         "Spassk-Rjazanskij"
+    ],
+    "name:est_x_preferred":[
+        "Spassk-Rjazanski"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u067e\u0627\u0633\u06a9-\u0631\u06cc\u0627\u0632\u0627\u0646\u0633\u06a9\u06cc\u06cc"
@@ -75,6 +84,9 @@
     ],
     "name:myv_x_preferred":[
         "\u0421\u043f\u0430\u0441\u0441\u043a-\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u043e\u0439"
+    ],
+    "name:nan_x_preferred":[
+        "Spassk-Ryazansky"
     ],
     "name:nld_x_preferred":[
         "Spassk-Rjazanskiy"
@@ -121,8 +133,14 @@
     "name:und_x_variant":[
         "Spassk"
     ],
+    "name:vep_x_preferred":[
+        "R\u00e4zanin Spassk"
+    ],
     "name:war_x_preferred":[
         "Spassk-Ryazansky"
+    ],
+    "name:xal_x_preferred":[
+        "\u0421\u043f\u0430\u0441\u0441\u043a-\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0438\u0439 \u0431\u0430\u043b\u04bb\u0441\u043d"
     ],
     "name:zho_x_preferred":[
         "\u65af\u5e15\u65af\u514b-\u6881\u8d5e\u65af\u57fa"
@@ -166,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"45ddbbe22fc71715c53ec9b51de558a7",
+    "wof:geomhash":"e361923287d2ad2ef483b53fded4f60d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,7 +194,7 @@
         }
     ],
     "wof:id":102003819,
-    "wof:lastmodified":1582329800,
+    "wof:lastmodified":1690859055,
     "wof:name":"Spassk Ryazanskiy",
     "wof:parent_id":1108736777,
     "wof:placetype":"locality",
@@ -186,10 +204,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    40.49009704589844,
-    54.40650177001953,
-    40.54938888549805,
-    54.443359375
+    40.490097,
+    54.406502,
+    40.549389,
+    54.443359
 ],
-  "geometry": {"coordinates":[[[40.5353889465332,54.40650177001953],[40.52957153320312,54.41325759887695],[40.51659393310547,54.42217636108398],[40.49099731445312,54.43270492553711],[40.49009704589844,54.43497467041016],[40.49676895141602,54.44240188598633],[40.49851226806641,54.44294738769531],[40.49986267089844,54.443359375],[40.51413726806641,54.43994522094727],[40.53747177124023,54.42755508422852],[40.54938888549805,54.40811157226562],[40.5353889465332,54.40650177001953]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[40.535389,54.406502],[40.529572,54.413258],[40.516594,54.422176],[40.490997,54.432705],[40.490097,54.434975],[40.496769,54.442402],[40.498512,54.442947],[40.499863,54.443359],[40.514137,54.439945],[40.537472,54.427555],[40.549389,54.408112],[40.535389,54.406502]]],"type":"Polygon"}
 }

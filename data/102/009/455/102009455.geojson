@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000978,
     "geom:area_square_m":6930087.532248,
-    "geom:bbox":"55.9527511597,55.022026062,56.0119171143,55.0493049622",
+    "geom:bbox":"55.952751,55.022026,56.011917,55.049305",
     "geom:latitude":55.035259,
-    "geom:longitude":55.984417,
+    "geom:longitude":55.984416,
     "gn:latitude":55.035,
     "gn:longitude":55.97806,
     "gn:population":34238,
@@ -24,6 +24,9 @@
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u0627\u063a\u0648\u0641\u064a\u0634\u062a\u0634\u064a\u0646\u0633\u0643"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0644\u0627\u0642\u0648\u0648\u0634\u0686\u0646\u0632\u06a9"
     ],
     "name:aze_x_preferred":[
         "Blaqove\u015fensk"
@@ -49,6 +52,9 @@
     "name:ces_x_preferred":[
         "Blagov\u011b\u0161\u010densk"
     ],
+    "name:crh_x_preferred":[
+        "Blagove\u015f\u00e7ensk"
+    ],
     "name:deu_x_preferred":[
         "Blagoweschtschensk"
     ],
@@ -57,6 +63,9 @@
     ],
     "name:epo_x_preferred":[
         "Blagove\u015d\u0109ensk"
+    ],
+    "name:est_x_preferred":[
+        "Blagove\u0161t\u0161ensk"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0644\u0627\u06af\u0648\u0648\u0634\u0686\u0646\u0633\u06a9\u060c \u0628\u0627\u0634\u0642\u06cc\u0631\u0633\u062a\u0627\u0646"
@@ -91,6 +100,9 @@
     "name:lit_x_preferred":[
         "Blagove\u0161\u010denskas"
     ],
+    "name:nan_x_preferred":[
+        "Blagoveshchensk"
+    ],
     "name:nld_x_preferred":[
         "Blagovesjtsjensk"
     ],
@@ -106,8 +118,14 @@
     "name:nor_x_preferred":[
         "Blagovesjtsjensk"
     ],
+    "name:oss_x_preferred":[
+        "\u0411\u043b\u0430\u0433\u043e\u0432\u0435\u0449\u0435\u043d\u0441\u043a"
+    ],
     "name:pol_x_preferred":[
         "B\u0142agowieszcze\u0144sk"
+    ],
+    "name:pol_x_variant":[
+        "B\u0142agowieszczensk"
     ],
     "name:por_x_preferred":[
         "Blagoveschensk"
@@ -121,11 +139,17 @@
     "name:srp_x_preferred":[
         "\u0411\u043b\u0430\u0433\u043e\u0432\u0458\u0435\u0448\u0447\u0435\u043d\u0441\u043a"
     ],
+    "name:swe_x_preferred":[
+        "Blagovesjtjensk"
+    ],
     "name:tat_x_preferred":[
         "\u0411\u043b\u0430\u0433\u043e\u0432\u0435\u0449\u0435\u043d\u0441\u043a"
     ],
     "name:tgl_x_preferred":[
         "Blagoveshchensk"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e25\u0e32\u0e42\u0e01\u0e40\u0e27\u0e0a\u0e40\u0e0a\u0e19\u0e2a\u0e04\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Blagove\u015f\u00e7ensk"
@@ -185,7 +209,7 @@
         "wk:page":"Blagoveshchensk, Republic of Bashkortostan"
     },
     "wof:country":"RU",
-    "wof:geomhash":"ad69e8e2caccec4a2d39f9900713b7b7",
+    "wof:geomhash":"e661b92e1c9e0c5ba760f1d3f7a26227",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -197,7 +221,7 @@
         }
     ],
     "wof:id":102009455,
-    "wof:lastmodified":1566615221,
+    "wof:lastmodified":1690858842,
     "wof:name":"Blagoveshchensk",
     "wof:parent_id":1108733021,
     "wof:placetype":"locality",
@@ -209,10 +233,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.95275115966797,
-    55.02202606201172,
-    56.01191711425781,
-    55.0493049621582
+    55.952751,
+    55.022026,
+    56.011917,
+    55.049305
 ],
-  "geometry": {"coordinates":[[[56.0,55.04100036621094],[56.00286102294922,55.0399169921875],[56.00766754150391,55.03813934326172],[56.01191711425781,55.03602600097656],[56.01139068603516,55.03433227539062],[56.01077651977539,55.03233337402344],[56.00394439697266,55.02291488647461],[56.00005722045898,55.02230453491211],[56.0,55.02230453491211],[55.98177719116211,55.02202606201172],[55.96733474731445,55.02966690063477],[55.96591567993164,55.03463745117188],[55.95275115966797,55.04463958740234],[55.96883392333984,55.04763793945312],[55.97697067260742,55.04916763305664],[55.97766494750977,55.0493049621582],[55.9942512512207,55.04314041137695],[56.0,55.04100036621094]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[56.0,55.041],[56.002861,55.039917],[56.007668,55.038139],[56.011917,55.036026],[56.011391,55.034332],[56.010777,55.032333],[56.003944,55.022915],[56.000057,55.022305],[56.0,55.022305],[55.981777,55.022026],[55.967335,55.029667],[55.965916,55.034637],[55.952751,55.04464],[55.968834,55.047638],[55.976971,55.049168],[55.977665,55.049305],[55.994251,55.04314],[56.0,55.041]]],"type":"Polygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00132,
     "geom:area_square_m":9363376.729576,
-    "geom:bbox":"36.4415016174,54.988609314,36.5152511597,55.0259437561",
+    "geom:bbox":"36.441502,54.988609,36.515251,55.025944",
     "geom:latitude":55.00478,
     "geom:longitude":36.475888,
     "gn:latitude":55.01457,
@@ -37,11 +37,20 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u043e\u044f\u0440\u043e\u0441\u043b\u0430\u0432\u0435\u0446"
     ],
+    "name:cat_x_preferred":[
+        "Malojaroslavec"
+    ],
     "name:ceb_x_preferred":[
         "Maloyaroslavets"
     ],
+    "name:ces_x_preferred":[
+        "Malojaroslavec"
+    ],
     "name:che_x_preferred":[
         "\u041c\u0430\u043b\u043e\u044f\u0440\u043e\u0441\u043b\u0430\u0432\u0435\u0446"
+    ],
+    "name:crh_x_preferred":[
+        "Maloyaroslavets"
     ],
     "name:deu_x_preferred":[
         "Malojaroslawez"
@@ -51,6 +60,12 @@
     ],
     "name:epo_x_preferred":[
         "Malojaroslavec"
+    ],
+    "name:est_x_preferred":[
+        "Malojaroslavets"
+    ],
+    "name:eus_x_preferred":[
+        "Maloiaroslavets"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0644\u0648\u06cc\u0627\u0631\u0648\u0633\u0644\u0627\u0648\u062a\u0633"
@@ -76,11 +91,17 @@
     "name:jpn_x_preferred":[
         "\u30de\u30ed\u30e4\u30ed\u30b9\u30e9\u30f4\u30a7\u30c4"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10da\u10dd\u10d8\u10d0\u10e0\u10dd\u10e1\u10da\u10d0\u10d5\u10d4\u10ea\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub9d0\ub85c\uc57c\ub85c\uc2ac\ub77c\ubca0\uce20"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u043b\u043e\u0458\u0430\u0440\u043e\u0441\u043b\u0430\u0432\u0435\u0446"
+    ],
+    "name:nan_x_preferred":[
+        "Maloyaroslavets"
     ],
     "name:nld_x_preferred":[
         "Malojaroslavets"
@@ -93,6 +114,9 @@
     ],
     "name:nor_x_preferred":[
         "Malojaroslavets"
+    ],
+    "name:oss_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u044f\u0440\u043e\u0441\u043b\u0430\u0432\u0435\u0446"
     ],
     "name:pol_x_preferred":[
         "Ma\u0142ojaros\u0142awiec"
@@ -112,6 +136,9 @@
     "name:srp_x_preferred":[
         "\u041c\u0430\u043b\u043e\u0458\u0430\u0440\u043e\u0441\u043b\u0430\u0432\u0435\u0446"
     ],
+    "name:swe_x_preferred":[
+        "Malojaroslavets"
+    ],
     "name:tat_x_preferred":[
         "\u041c\u0430\u043b\u043e\u044f\u0440\u043e\u0441\u043b\u0430\u0432\u0435\u0446"
     ],
@@ -126,6 +153,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u043e\u044f\u0440\u043e\u0441\u043b\u0430\u0432\u0435\u0446\u044c"
+    ],
+    "name:vep_x_preferred":[
+        "Malojaroslavec"
     ],
     "name:war_x_preferred":[
         "Maloyaroslavets"
@@ -174,7 +204,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0a512d8b07d304ad13c787710d569656",
+    "wof:geomhash":"720dfad7590fd6cee9a7bd2297c6e252",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -184,7 +214,7 @@
         }
     ],
     "wof:id":102003573,
-    "wof:lastmodified":1582329801,
+    "wof:lastmodified":1690859068,
     "wof:name":"Maloyaroslavets",
     "wof:parent_id":1108735035,
     "wof:placetype":"locality",
@@ -196,10 +226,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    36.44150161743164,
-    54.98860931396484,
-    36.51525115966797,
-    55.02594375610352
+    36.441502,
+    54.988609,
+    36.515251,
+    55.025944
 ],
-  "geometry": {"coordinates":[[[36.44205474853516,55.0],[36.44150161743164,55.00255584716797],[36.44347381591797,55.00483322143555],[36.44775009155273,55.00530624389648],[36.4566650390625,55.00624847412109],[36.46211242675781,55.00860977172852],[36.46808242797852,55.01669311523438],[36.48383331298828,55.01791763305664],[36.48902893066406,55.02594375610352],[36.49491500854492,55.02394485473633],[36.49855422973633,55.01541519165039],[36.50305557250977,55.01472091674805],[36.50997161865234,55.01369476318359],[36.51525115966797,55.01027679443359],[36.49213790893555,55.0],[36.48983383178711,54.99897384643555],[36.47463989257812,54.98860931396484],[36.47211074829102,54.98902893066406],[36.46402740478516,54.99039077758789],[36.44413757324219,54.99030685424805],[36.44205474853516,55.0]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[36.442055,55.0],[36.441502,55.002556],[36.443474,55.004833],[36.44775,55.005306],[36.456665,55.006248],[36.462112,55.00861],[36.468082,55.016693],[36.483833,55.017918],[36.489029,55.025944],[36.494915,55.023945],[36.498554,55.015415],[36.503056,55.014721],[36.509972,55.013695],[36.515251,55.010277],[36.492138,55.0],[36.489834,54.998974],[36.47464,54.988609],[36.472111,54.989029],[36.464027,54.990391],[36.444138,54.990307],[36.442055,55.0]]],"type":"Polygon"}
 }

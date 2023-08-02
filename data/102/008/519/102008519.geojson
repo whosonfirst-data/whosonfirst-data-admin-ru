@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000497,
     "geom:area_square_m":3286927.543707,
-    "geom:bbox":"54.5857772827,57.6623878479,54.6249732971,57.6833610535",
+    "geom:bbox":"54.585777,57.662388,54.624973,57.683361",
     "geom:latitude":57.67523,
     "geom:longitude":54.605231,
     "iso:country":"RU",
@@ -19,8 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0644\u0634\u0627\u064a\u0627 \u0633\u0648\u0633\u0646\u0648\u0641\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0644\u0634\u0627\u064a\u0627 \u0633\u0648\u0633\u0646\u0648\u06a4\u0627"
+    ],
     "name:che_x_preferred":[
         "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0421\u043e\u0441\u043d\u043e\u0432\u0430"
+    ],
+    "name:che_x_variant":[
+        "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0421\u043e\u0441\u043d\u043e\u0432\u0430"
     ],
     "name:eng_x_preferred":[
         "Bolshaya Sosnova"
@@ -28,17 +37,32 @@
     "name:fin_x_preferred":[
         "Bol\u0161aja Sosnova"
     ],
+    "name:fra_x_preferred":[
+        "Bolcha\u00efa Sosnova"
+    ],
     "name:hun_x_preferred":[
         "Bolsaja Szosznova"
     ],
     "name:hye_x_preferred":[
         "\u0532\u0578\u056c\u0577\u0561\u0575\u0561 \u054d\u0578\u057d\u0576\u0578\u057e\u0561"
     ],
+    "name:nan_x_preferred":[
+        "Bolshaya Sosnova"
+    ],
     "name:nld_x_preferred":[
         "Bolshaya Sosnova"
     ],
+    "name:nno_x_preferred":[
+        "Bolsjaja Sosnova"
+    ],
+    "name:nob_x_preferred":[
+        "Bolsjaja Sosnova"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0421\u043e\u0441\u043d\u043e\u0432\u0430"
+    ],
+    "name:sqi_x_preferred":[
+        "Bolshaja Sosnova"
     ],
     "name:und_x_variant":[
         "Sosnovo"
@@ -80,7 +104,7 @@
         "wk:page":"Bolshaya Sosnova"
     },
     "wof:country":"RU",
-    "wof:geomhash":"4d6674dfdaa08056bf34b8b274e621e1",
+    "wof:geomhash":"f96b90613e50f007a5fa8e16822a8ad0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,7 +116,7 @@
         }
     ],
     "wof:id":102008519,
-    "wof:lastmodified":1566615278,
+    "wof:lastmodified":1690858877,
     "wof:name":"Bolshaya Sosnova",
     "wof:parent_id":1108733079,
     "wof:placetype":"locality",
@@ -104,10 +128,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.58577728271484,
-    57.66238784790039,
-    54.62497329711914,
-    57.6833610534668
+    54.585777,
+    57.662388,
+    54.624973,
+    57.683361
 ],
-  "geometry": {"coordinates":[[[54.58919525146484,57.67619323730469],[54.58913803100586,57.67625045776367],[54.58663940429688,57.67877960205078],[54.58577728271484,57.68244552612305],[54.58752822875977,57.68283462524414],[54.59002685546875,57.6833610534668],[54.59169387817383,57.68333435058594],[54.6104736328125,57.68294525146484],[54.62497329711914,57.67930603027344],[54.62311172485352,57.67461013793945],[54.62244415283203,57.67291641235352],[54.60422134399414,57.66308212280273],[54.6029167175293,57.66238784790039],[54.58919525146484,57.67619323730469]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[54.589195,57.676193],[54.589138,57.67625],[54.586639,57.67878],[54.585777,57.682446],[54.587528,57.682835],[54.590027,57.683361],[54.591694,57.683334],[54.610474,57.682945],[54.624973,57.679306],[54.623112,57.67461],[54.622444,57.672916],[54.604221,57.663082],[54.602917,57.662388],[54.589195,57.676193]]],"type":"Polygon"}
 }

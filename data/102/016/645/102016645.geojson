@@ -25,8 +25,14 @@
     "name:ara_x_preferred":[
         "\u0623\u0631\u063a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0631\u062c\u0646"
+    ],
     "name:azb_x_preferred":[
         "\u0622\u0631\u0642\u0648\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Arqun"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0440\u0433\u0443\u043d"
@@ -53,7 +59,11 @@
         "Orga",
         "\u041a\u043e\u043b\u0445\u043e\u0437\u043d\u043e\u0435",
         "\u041e\u0440\u0433\u0430",
-        "\u0423\u0441\u0442\u0440\u0430\u0434\u0430"
+        "\u0423\u0441\u0442\u0440\u0430\u0434\u0430",
+        "\u0423\u0441\u0442\u0440\u0430\u0434\u0430-\u0413\u04c0\u0430\u043b\u0430"
+    ],
+    "name:dan_x_preferred":[
+        "Argun"
     ],
     "name:deu_x_preferred":[
         "Argun"
@@ -76,6 +86,9 @@
     "name:fra_x_preferred":[
         "Argoun"
     ],
+    "name:hau_x_preferred":[
+        "Argun"
+    ],
     "name:hrv_x_preferred":[
         "Argun"
     ],
@@ -94,8 +107,17 @@
     "name:kor_x_preferred":[
         "\uc544\ub974\uad70"
     ],
+    "name:lav_x_preferred":[
+        "Arguna"
+    ],
     "name:lit_x_preferred":[
         "Argunas"
+    ],
+    "name:myv_x_preferred":[
+        "\u0410\u0440\u0433\u0443\u043d"
+    ],
+    "name:nan_x_preferred":[
+        "Argun"
     ],
     "name:nld_x_preferred":[
         "Argoen"
@@ -114,6 +136,9 @@
     ],
     "name:oci_x_preferred":[
         "Argun"
+    ],
+    "name:oci_x_variant":[
+        "Ustrada-\u0120ala"
     ],
     "name:oss_x_preferred":[
         "\u0410\u0440\u0433\u044a\u0443\u043d"
@@ -169,6 +194,9 @@
     "name:urd_x_variant":[
         "\u0627\u0631\u06af\u0648\u0646",
         "\u0627\u0631\u06af\u0648\u0646\u060c \u0686\u06cc\u0686\u0646 \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1"
+    ],
+    "name:uzb_x_preferred":[
+        "Argun"
     ],
     "name:vep_x_preferred":[
         "Argun"
@@ -242,7 +270,7 @@
         }
     ],
     "wof:id":102016645,
-    "wof:lastmodified":1642622904,
+    "wof:lastmodified":1690858994,
     "wof:name":"Argun",
     "wof:parent_id":1108732769,
     "wof:placetype":"locality",

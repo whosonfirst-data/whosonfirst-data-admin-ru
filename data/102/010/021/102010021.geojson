@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.001174,
     "geom:area_square_m":8488232.229123,
-    "geom:bbox":"55.0,54.1933898926,55.0672225952,54.2264175415",
+    "geom:bbox":"55.0,54.19339,55.067223,54.226418",
     "geom:latitude":54.213035,
     "geom:longitude":55.030536,
     "gn:latitude":54.22145,
@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
+        "\u062f\u0627\u0641\u0644\u064a\u0643\u0627\u0646\u0648\u0641\u0648"
+    ],
+    "name:arz_x_preferred":[
         "\u062f\u0627\u0641\u0644\u064a\u0643\u0627\u0646\u0648\u0641\u0648"
     ],
     "name:azb_x_preferred":[
@@ -55,6 +58,9 @@
     "name:ces_x_preferred":[
         "Davlekanovo"
     ],
+    "name:crh_x_preferred":[
+        "Devleken"
+    ],
     "name:cym_x_preferred":[
         "Davlekanovo"
     ],
@@ -67,6 +73,12 @@
     "name:epo_x_preferred":[
         "Davlekanovo"
     ],
+    "name:est_x_preferred":[
+        "Davlekanovo"
+    ],
+    "name:eus_x_preferred":[
+        "Davlekanovo"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0627\u0648\u0644\u06a9\u0627\u0646\u0648\u0641\u0648"
     ],
@@ -76,11 +88,20 @@
     "name:fra_x_preferred":[
         "Davlekanovo"
     ],
+    "name:gle_x_preferred":[
+        "Davlekanovo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d0\u05d5\u05d5\u05dc\u05e7\u05d0\u05e0\u05d5\u05d1\u05d5"
+    ],
     "name:hsb_x_preferred":[
         "Dawlekanowo"
     ],
     "name:hun_x_preferred":[
         "Davlekanovo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u057e\u056c\u0565\u056f\u0561\u0576\u0578\u057e\u0578"
     ],
     "name:ita_x_preferred":[
         "Davlekanovo"
@@ -94,8 +115,14 @@
     "name:kor_x_preferred":[
         "\ub2e4\ube14\ub808\uce74\ub178\ubcf4"
     ],
+    "name:lav_x_preferred":[
+        "Dav\u013cekanova"
+    ],
     "name:lit_x_preferred":[
         "Davlekanovas"
+    ],
+    "name:nan_x_preferred":[
+        "Davlekanovo"
     ],
     "name:nld_x_preferred":[
         "Davlekanovo"
@@ -198,7 +225,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1a66bd6eb22d1a4a22a2f352b5703a58",
+    "wof:geomhash":"5fb683efcca08e6e55322fa562a1225a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -208,7 +235,7 @@
         }
     ],
     "wof:id":102010021,
-    "wof:lastmodified":1582329797,
+    "wof:lastmodified":1690859034,
     "wof:name":"Davlekanovo",
     "wof:parent_id":1108733349,
     "wof:placetype":"locality",
@@ -221,9 +248,9 @@
 },
   "bbox": [
     55.0,
-    54.19338989257812,
-    55.06722259521484,
-    54.22641754150391
+    54.19339,
+    55.067223,
+    54.226418
 ],
-  "geometry": {"coordinates":[[[55.00263977050781,54.19508361816406],[55.00177764892578,54.19525146484375],[55.0,54.19886016845703],[55.00363922119141,54.20955657958984],[55.00702667236328,54.21427917480469],[55.01080703735352,54.21952819824219],[55.0301399230957,54.22641754150391],[55.04802703857422,54.22530364990234],[55.06558227539062,54.22419357299805],[55.06722259521484,54.22408294677734],[55.06108474731445,54.2093620300293],[55.06080627441406,54.20866775512695],[55.04264068603516,54.2100830078125],[55.03494262695312,54.20925140380859],[55.01063919067383,54.19338989257812],[55.00263977050781,54.19508361816406]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[55.00264,54.195084],[55.001778,54.195251],[55.0,54.19886],[55.003639,54.209557],[55.007027,54.214279],[55.010807,54.219528],[55.03014,54.226418],[55.048027,54.225304],[55.065582,54.224194],[55.067223,54.224083],[55.061085,54.209362],[55.060806,54.208668],[55.042641,54.210083],[55.034943,54.209251],[55.010639,54.19339],[55.00264,54.195084]]],"type":"Polygon"}
 }

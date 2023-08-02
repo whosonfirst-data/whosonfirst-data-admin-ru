@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00039,
     "geom:area_square_m":2811666.898738,
-    "geom:bbox":"35.2706375122,54.3028907776,35.3075561523,54.3233070374",
-    "geom:latitude":54.31289,
+    "geom:bbox":"35.270638,54.302891,35.307556,54.323307",
+    "geom:latitude":54.312891,
     "geom:longitude":35.288688,
     "gn:latitude":54.32444,
     "gn:longitude":35.28083,
@@ -40,11 +40,20 @@
     "name:bul_x_variant":[
         "\u041c\u0435\u0449\u043e\u0432\u0441\u043a"
     ],
+    "name:cat_x_preferred":[
+        "Me\u0161\u010dovsk"
+    ],
     "name:ceb_x_preferred":[
         "Meshchovsk"
     ],
+    "name:ces_x_preferred":[
+        "Me\u0161\u010dovsk"
+    ],
     "name:che_x_preferred":[
         "\u041c\u0435\u0449\u043e\u0432\u0441\u043a"
+    ],
+    "name:crh_x_preferred":[
+        "Me\u015f\u00e7ovsk"
     ],
     "name:deu_x_preferred":[
         "Meschtschowsk"
@@ -54,6 +63,12 @@
     ],
     "name:epo_x_preferred":[
         "Me\u015d\u0109ovsk"
+    ],
+    "name:est_x_preferred":[
+        "Me\u0161t\u0161ovsk"
+    ],
+    "name:eus_x_preferred":[
+        "Mestxovsk"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0634\u0686\u0648\u0641\u0633\u06a9"
@@ -70,6 +85,9 @@
     "name:hye_x_preferred":[
         "\u0544\u0565\u0577\u0579\u0578\u057e\u057d\u056f"
     ],
+    "name:ind_x_preferred":[
+        "Meshchovsk"
+    ],
     "name:ita_x_preferred":[
         "Me\u0161\u010dovsk"
     ],
@@ -78,6 +96,9 @@
     ],
     "name:kor_x_preferred":[
         "\uba54\uc20d\uc2a4\ud06c"
+    ],
+    "name:nan_x_preferred":[
+        "Meshchovsk"
     ],
     "name:nld_x_preferred":[
         "Mesjtsjovsk"
@@ -103,6 +124,9 @@
     "name:srp_x_preferred":[
         "\u041c\u0435\u0448\u0447\u043e\u0432\u0441\u043a"
     ],
+    "name:swe_x_preferred":[
+        "Mesjtjovsk"
+    ],
     "name:tat_x_preferred":[
         "\u041c\u0435\u0449\u043e\u0432\u0441\u043a"
     ],
@@ -120,6 +144,9 @@
     ],
     "name:und_x_variant":[
         "Meshovsk"
+    ],
+    "name:vep_x_preferred":[
+        "Me\u0161\u010dovsk"
     ],
     "name:war_x_preferred":[
         "Meshchovsk"
@@ -168,7 +195,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"72c98d5d0ef136166ae7772e206f4213",
+    "wof:geomhash":"99a91c1230a70a36030067ca4468851e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -178,7 +205,7 @@
         }
     ],
     "wof:id":102003873,
-    "wof:lastmodified":1582329799,
+    "wof:lastmodified":1690859054,
     "wof:name":"Meshchovsk",
     "wof:parent_id":1108735109,
     "wof:placetype":"locality",
@@ -190,10 +217,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.27063751220703,
-    54.30289077758789,
-    35.30755615234375,
-    54.32330703735352
+    35.270638,
+    54.302891,
+    35.307556,
+    54.323307
 ],
-  "geometry": {"coordinates":[[[35.27605438232422,54.31572341918945],[35.27752685546875,54.31647109985352],[35.28830718994141,54.32202911376953],[35.29080581665039,54.32330703735352],[35.30755615234375,54.31283187866211],[35.30052947998047,54.30938720703125],[35.29111099243164,54.30474853515625],[35.28730392456055,54.30289077758789],[35.27183151245117,54.31069564819336],[35.27063751220703,54.31294631958008],[35.27605438232422,54.31572341918945]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.276054,54.315723],[35.277527,54.316471],[35.288307,54.322029],[35.290806,54.323307],[35.307556,54.312832],[35.300529,54.309387],[35.291111,54.304749],[35.287304,54.302891],[35.271832,54.310696],[35.270638,54.312946],[35.276054,54.315723]]],"type":"Polygon"}
 }

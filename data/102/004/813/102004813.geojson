@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.001047,
     "geom:area_square_m":7876795.602126,
-    "geom:bbox":"35.111831665,52.4920005798,35.1668319702,52.5190849304",
+    "geom:bbox":"35.111832,52.492001,35.166832,52.519085",
     "geom:latitude":52.506494,
     "geom:longitude":35.139461,
     "gn:latitude":52.505,
@@ -25,14 +25,26 @@
     "name:ara_x_preferred":[
         "\u062f\u0645\u064a\u062a\u0631\u0648\u0641\u0633\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0645\u064a\u062a\u0631\u0648\u0641\u0633\u0643"
+    ],
     "name:azb_x_preferred":[
         "\u062f\u06cc\u0645\u06cc\u062a\u0631\u0648\u0641\u0633\u06a9"
+    ],
+    "name:aze_x_preferred":[
+        "Dmitrovsk"
     ],
     "name:bel_x_preferred":[
         "\u0414\u0437\u043c\u0456\u0442\u0440\u0430\u045e\u0441\u043a"
     ],
+    "name:bel_x_variant":[
+        "\u0414\u0437\u043c\u0456\u0442\u0440\u043e\u045e\u0441\u043a"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u043c\u0438\u0442\u0440\u043e\u0432\u0441\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Dmitrovsk-Orlovskij"
     ],
     "name:ceb_x_preferred":[
         "Dmitrovsk-Orlovskiy"
@@ -42,6 +54,9 @@
     ],
     "name:che_x_preferred":[
         "\u0414\u043c\u0438\u0442\u0440\u043e\u0432\u0441\u043a"
+    ],
+    "name:crh_x_preferred":[
+        "Dmitrovsk"
     ],
     "name:deu_x_preferred":[
         "Dmitrowsk"
@@ -54,6 +69,9 @@
     ],
     "name:epo_x_preferred":[
         "Dmitrovsk-Orlovskij"
+    ],
+    "name:est_x_preferred":[
+        "Dmitrovsk"
     ],
     "name:fas_x_preferred":[
         "\u062f\u06cc\u0645\u06cc\u062a\u0631\u0648\u0641\u0633\u06a9"
@@ -76,11 +94,20 @@
     "name:kor_x_preferred":[
         "\ub4dc\ubbf8\ud2b8\ub86d\uc2a4\ud06c"
     ],
+    "name:lav_x_preferred":[
+        "Dmitrovska"
+    ],
     "name:lit_x_preferred":[
         "Dmitrovskas"
     ],
     "name:ltz_x_preferred":[
         "Dmitrowsk"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0414\u043c\u0438\u0442\u0440\u043e\u0432\u0441\u043a"
+    ],
+    "name:nan_x_preferred":[
+        "Dmitrovsk"
     ],
     "name:nld_x_preferred":[
         "Dmitrovsk"
@@ -94,8 +121,14 @@
     "name:nor_x_preferred":[
         "Dmitrovsk-Orlovskij"
     ],
+    "name:oss_x_preferred":[
+        "\u0414\u043c\u0438\u0442\u0440\u043e\u0432\u0441\u043a"
+    ],
     "name:pol_x_preferred":[
         "Dmitrowsk Or\u0142owski"
+    ],
+    "name:pol_x_variant":[
+        "Dmitrowsk"
     ],
     "name:rus_x_preferred":[
         "\u0414\u043c\u0438\u0442\u0440\u043e\u0432\u0441\u043a-\u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0438\u0439"
@@ -123,6 +156,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043c\u0438\u0442\u0440\u043e\u0432\u0441\u044c\u043a"
+    ],
+    "name:vep_x_preferred":[
+        "Dmitrovsk"
     ],
     "name:war_x_preferred":[
         "Dmitrovsk"
@@ -171,7 +207,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"27fce483e2002f2abbbe8382a854a4a3",
+    "wof:geomhash":"3adda34f251c7150a9eab45ef440eb13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -181,7 +217,7 @@
         }
     ],
     "wof:id":102004813,
-    "wof:lastmodified":1582329806,
+    "wof:lastmodified":1690859114,
     "wof:name":"Dmitrovsk-Orlovskiy",
     "wof:parent_id":1108733383,
     "wof:placetype":"locality",
@@ -193,10 +229,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.11183166503906,
-    52.49200057983398,
-    35.16683197021484,
-    52.51908493041992
+    35.111832,
+    52.492001,
+    35.166832,
+    52.519085
 ],
-  "geometry": {"coordinates":[[[35.11322402954102,52.50711059570312],[35.11183166503906,52.51019287109375],[35.12161254882812,52.51908493041992],[35.13391494750977,52.51755523681641],[35.13894271850586,52.51466751098633],[35.14177703857422,52.51436233520508],[35.14430618286133,52.51408386230469],[35.15419387817383,52.51791763305664],[35.15750122070312,52.51836013793945],[35.16083145141602,52.51880645751953],[35.16485977172852,52.5172233581543],[35.16683197021484,52.50997161865234],[35.1661376953125,52.50736236572266],[35.16547393798828,52.50483322143555],[35.16164016723633,52.50249862670898],[35.14430618286133,52.49200057983398],[35.12588882446289,52.49405670166016],[35.11425018310547,52.50480651855469],[35.11322402954102,52.50711059570312]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[35.113224,52.507111],[35.111832,52.510193],[35.121613,52.519085],[35.133915,52.517555],[35.138943,52.514668],[35.141777,52.514362],[35.144306,52.514084],[35.154194,52.517918],[35.157501,52.51836],[35.160831,52.518806],[35.16486,52.517223],[35.166832,52.509972],[35.166138,52.507362],[35.165474,52.504833],[35.16164,52.502499],[35.144306,52.492001],[35.125889,52.494057],[35.11425,52.504807],[35.113224,52.507111]]],"type":"Polygon"}
 }

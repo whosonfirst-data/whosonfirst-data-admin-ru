@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000306,
     "geom:area_square_m":2213624.506882,
-    "geom:bbox":"59.5904426575,54.1969985962,59.6315002441,54.2133903503",
+    "geom:bbox":"59.590443,54.196999,59.6315,54.21339",
     "geom:latitude":54.205386,
-    "geom:longitude":59.607421,
+    "geom:longitude":59.607422,
     "gn:latitude":54.2079,
     "gn:longitude":59.6017,
     "gn:population":3800,
@@ -37,6 +37,12 @@
     "name:chv_x_preferred":[
         "\u0410\u0445\u0443\u043d"
     ],
+    "name:crh_x_preferred":[
+        "Ahunovo"
+    ],
+    "name:deu_x_preferred":[
+        "Achunowo"
+    ],
     "name:eng_x_preferred":[
         "Akhunovo"
     ],
@@ -52,17 +58,29 @@
     "name:kaz_x_preferred":[
         "\u0410\u0445\u0443\u043d"
     ],
+    "name:nan_x_preferred":[
+        "Akhunovo"
+    ],
     "name:nld_x_preferred":[
         "\u0410\u0445\u0443\u043d\u043e\u0432\u043e"
     ],
     "name:nld_x_variant":[
         "Axunovo"
     ],
+    "name:nno_x_preferred":[
+        "Akhunovo"
+    ],
+    "name:nob_x_preferred":[
+        "Akhunovo"
+    ],
     "name:nor_x_preferred":[
         "Akhunovo"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0445\u0443\u043d\u043e\u0432\u043e"
+    ],
+    "name:sqi_x_preferred":[
+        "Ahunovo"
     ],
     "name:tat_x_preferred":[
         "\u0410\u0445\u0443\u043d"
@@ -110,7 +128,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e881e7666bcba5022a90117c9e299da8",
+    "wof:geomhash":"c4f9fea742dcaf95c2f02aa8b11fb096",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,7 +138,7 @@
         }
     ],
     "wof:id":102010015,
-    "wof:lastmodified":1582329795,
+    "wof:lastmodified":1690859017,
     "wof:name":"Akhunovo",
     "wof:parent_id":1108737133,
     "wof:placetype":"locality",
@@ -132,10 +150,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    59.5904426574707,
-    54.19699859619141,
-    59.63150024414062,
-    54.2133903503418
+    59.590443,
+    54.196999,
+    59.6315,
+    54.21339
 ],
-  "geometry": {"coordinates":[[[59.62466812133789,54.21233367919922],[59.63150024414062,54.2133903503418],[59.62547302246094,54.20786285400391],[59.61244583129883,54.20177841186523],[59.59469604492188,54.19699859619141],[59.59152603149414,54.19877624511719],[59.59086227416992,54.20388793945312],[59.5904426574707,54.20700073242188],[59.5988883972168,54.20830535888672],[59.62466812133789,54.21233367919922]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[59.624668,54.212334],[59.6315,54.21339],[59.625473,54.207863],[59.612446,54.201778],[59.594696,54.196999],[59.591526,54.198776],[59.590862,54.203888],[59.590443,54.207001],[59.598888,54.208305],[59.624668,54.212334]]],"type":"Polygon"}
 }

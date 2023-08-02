@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000217,
     "geom:area_square_m":1687323.974085,
-    "geom:bbox":"46.9789428711,50.9730567932,47.006111145,50.9884147644",
+    "geom:bbox":"46.978943,50.973057,47.006111,50.988415",
     "geom:latitude":50.981313,
     "geom:longitude":46.991441,
     "gn:latitude":50.95,
@@ -43,6 +43,9 @@
     "name:che_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041a\u0443\u0442"
     ],
+    "name:crh_x_preferred":[
+        "Krasn\u0131y Kut"
+    ],
     "name:deu_x_preferred":[
         "Krasny Kut"
     ],
@@ -73,8 +76,14 @@
     "name:ita_x_preferred":[
         "Krasnyj Kut"
     ],
+    "name:mdf_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041a\u0443\u0442"
+    ],
     "name:myv_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041a\u0443\u0442"
+    ],
+    "name:nan_x_preferred":[
+        "Krasny Kut"
     ],
     "name:nld_x_preferred":[
         "Krasny Kut"
@@ -84,6 +93,9 @@
     ],
     "name:nob_x_preferred":[
         "Krasnyj Kut"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u044b\u0440\u0445 \u041a\u0443\u0442"
     ],
     "name:pol_x_preferred":[
         "Krasny Kut"
@@ -100,11 +112,17 @@
     "name:tat_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041a\u0443\u0442"
     ],
+    "name:tgl_x_preferred":[
+        "Krasny Kut"
+    ],
     "name:tur_x_preferred":[
         "Krasni Kut"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0438\u0439 \u041a\u0443\u0442"
+    ],
+    "name:vep_x_preferred":[
+        "Krasnii Kut"
     ],
     "name:war_x_preferred":[
         "Krasny Kut"
@@ -152,7 +170,7 @@
         "wk:page":"Krasny Kut, Saratov Oblast"
     },
     "wof:country":"RU",
-    "wof:geomhash":"0d41c3c5f4b92ff0407dcaa4b6b3138b",
+    "wof:geomhash":"cd84a514ddef9dc362e29331053b73c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,7 +182,7 @@
         }
     ],
     "wof:id":102011299,
-    "wof:lastmodified":1566615417,
+    "wof:lastmodified":1690858984,
     "wof:name":"",
     "wof:parent_id":1108734721,
     "wof:placetype":"locality",
@@ -176,10 +194,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.97894287109375,
-    50.97305679321289,
-    47.00611114501953,
-    50.9884147644043
+    46.978943,
+    50.973057,
+    47.006111,
+    50.988415
 ],
-  "geometry": {"coordinates":[[[47.00611114501953,50.9833869934082],[46.98844528198242,50.97305679321289],[46.97894287109375,50.97983169555664],[46.97986221313477,50.98208236694336],[46.98600006103516,50.98550033569336],[46.9942512512207,50.9884147644043],[47.00611114501953,50.9833869934082]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[47.006111,50.983387],[46.988445,50.973057],[46.978943,50.979832],[46.979862,50.982082],[46.986,50.9855],[46.994251,50.988415],[47.006111,50.983387]]],"type":"Polygon"}
 }

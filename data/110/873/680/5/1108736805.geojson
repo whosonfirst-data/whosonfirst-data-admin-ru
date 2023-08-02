@@ -56,6 +56,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430\u0448\u0430\u0439\u0433\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:ceb_x_preferred":[
         "Staroshaygovskiy Rayon"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:deu_x_preferred":[
         "Staroschajgowski rajon"
+    ],
+    "name:deu_x_variant":[
+        "Staroschaigowski rajon"
     ],
     "name:eng_x_preferred":[
         "Staroshajgovskiy"
@@ -93,8 +99,14 @@
     "name:myv_x_preferred":[
         "\u0422\u0430\u0448\u0442\u043e \u0428\u0430\u0439\u0433\u0430\u0431\u0443\u0435"
     ],
+    "name:nan_x_preferred":[
+        "Staroshaygovsky Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Starosjaygovskiy rayon"
+    ],
+    "name:pol_x_preferred":[
+        "Rejon staroszajgowski"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e\u0448\u0430\u0439\u0433\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -148,7 +160,7 @@
         }
     ],
     "wof:id":1108736805,
-    "wof:lastmodified":1627522695,
+    "wof:lastmodified":1690859414,
     "wof:name":"Staroshajgovskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",
