@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000193,
     "geom:area_square_m":1732460.844429,
-    "geom:bbox":"39.9732513428,43.3861656189,39.9974708557,43.4003601074",
+    "geom:bbox":"39.973251,43.386166,39.997471,43.40036",
     "geom:latitude":43.393053,
     "geom:longitude":39.985682,
     "gn:latitude":43.39056,
@@ -27,6 +27,9 @@
     "name:abk_x_variant":[
         "\u0413\u044c\u0435\u0447\u0440\u044b\u0525\u0448\u044c"
     ],
+    "name:aze_x_preferred":[
+        "Leselidze"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u0441\u0451\u043b\u0430\u043a \u0413\u044f\u0447\u0440\u044b\u043f\u0448"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:est_x_preferred":[
         "Leselidze"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0633\u0644\u06cc\u062f\u0632\u0647"
     ],
     "name:fin_x_preferred":[
         "Leselidze"
@@ -60,8 +66,17 @@
     "name:kom_x_preferred":[
         "\u0413\u044f\u0447\u0440\u044b\u043f\u0448"
     ],
+    "name:kor_x_preferred":[
+        "\ub808\uc140\ub9ac\uc81c"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041b\u044d\u0441\u044d\u043b\u0438\u0434\u0437\u044d"
+    ],
     "name:nld_x_preferred":[
         "Gyachripsj"
+    ],
+    "name:pol_x_preferred":[
+        "Leselidze"
     ],
     "name:ron_x_preferred":[
         "Leselidse"
@@ -69,8 +84,14 @@
     "name:rus_x_preferred":[
         "\u041b\u0435\u0441\u0435\u043b\u0438\u0434\u0437\u0435"
     ],
+    "name:spa_x_preferred":[
+        "Leselidze"
+    ],
     "name:swe_x_preferred":[
         "Gatjrypsj"
+    ],
+    "name:swe_x_variant":[
+        "Leselidze"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0441\u0435\u043b\u0456\u0434\u0437\u0435"
@@ -80,6 +101,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0633\u06cc\u0644\u06cc\u062f\u0632\u06d2"
+    ],
+    "name:uzb_x_preferred":[
+        "Leselidze"
     ],
     "name:xmf_x_preferred":[
         "\u10da\u10d4\u10e1\u10d4\u10da\u10d8\u10eb\u10d4"
@@ -115,7 +139,7 @@
         "wd:id":"Q475259"
     },
     "wof:country":"RU",
-    "wof:geomhash":"ad2399f7293a6b8c799957151836bf6f",
+    "wof:geomhash":"2cbea062a699449809b3ffeb24b8938b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,7 +151,7 @@
         }
     ],
     "wof:id":102016375,
-    "wof:lastmodified":1566615465,
+    "wof:lastmodified":1690859012,
     "wof:name":"Leselidze",
     "wof:parent_id":890484191,
     "wof:placetype":"locality",
@@ -137,10 +161,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.97325134277344,
-    43.38616561889648,
-    39.99747085571289,
-    43.40036010742188
+    39.973251,
+    43.386166,
+    39.997471,
+    43.40036
 ],
-  "geometry": {"coordinates":[[[39.98613739013672,43.38800048828125],[39.9766960144043,43.39188766479492],[39.97325134277344,43.39330673217773],[39.97491836547852,43.39655685424805],[39.97908401489258,43.40036010742188],[39.99449920654297,43.39491653442383],[39.99747085571289,43.39272308349609],[39.9948616027832,43.38897323608398],[39.99560928344727,43.38713836669922],[39.99316787719727,43.38616561889648],[39.98810958862305,43.38644409179688],[39.98613739013672,43.38800048828125]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[39.986137,43.388],[39.976696,43.391888],[39.973251,43.393307],[39.974918,43.396557],[39.979084,43.40036],[39.994499,43.394917],[39.997471,43.392723],[39.994862,43.388973],[39.995609,43.387138],[39.993168,43.386166],[39.98811,43.386444],[39.986137,43.388]]],"type":"Polygon"}
 }

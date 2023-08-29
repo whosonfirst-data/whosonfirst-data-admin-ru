@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000501,
     "geom:area_square_m":3349530.61885,
-    "geom:bbox":"47.8796386719,57.2949180603,47.9056129456,57.3174171448",
+    "geom:bbox":"47.879639,57.294918,47.905613,57.317417",
     "geom:latitude":57.305473,
     "geom:longitude":47.892977,
     "gn:population":19557,
@@ -44,11 +44,17 @@
     "name:ceb_x_preferred":[
         "Yaransk"
     ],
+    "name:ces_x_preferred":[
+        "Jaransk"
+    ],
     "name:che_x_preferred":[
         "\u042f\u0440\u0430\u043d\u0441\u043a"
     ],
     "name:chv_x_preferred":[
         "\u042f\u0440\u0430\u043d\u0441\u043a"
+    ],
+    "name:crh_x_preferred":[
+        "Yaransk"
     ],
     "name:deu_x_preferred":[
         "Jaransk"
@@ -92,11 +98,17 @@
     "name:kom_x_preferred":[
         "\u042f\u0440\u0430\u043d\u0441\u043a"
     ],
+    "name:mdf_x_preferred":[
+        "\u042f\u0440\u0430\u043d\u0441\u043a"
+    ],
     "name:mhr_x_preferred":[
         "\u042f\u0440\u0430\u04a5"
     ],
     "name:myv_x_preferred":[
         "\u042f\u0440\u0430\u043d"
+    ],
+    "name:nan_x_preferred":[
+        "Yaransk"
     ],
     "name:nld_x_preferred":[
         "Jaransk"
@@ -110,6 +122,9 @@
     "name:nor_x_preferred":[
         "Jaransk"
     ],
+    "name:oss_x_preferred":[
+        "\u042f\u0440\u0430\u043d\u0441\u043a"
+    ],
     "name:pol_x_preferred":[
         "Jaransk"
     ],
@@ -121,6 +136,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0408\u0430\u0440\u0430\u043d\u0441\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Jaransk"
     ],
     "name:tat_x_preferred":[
         "\u042f\u0440\u0430\u04a3"
@@ -136,6 +154,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u042f\u0440\u0430\u043d\u0441\u044c\u043a"
+    ],
+    "name:vep_x_preferred":[
+        "Jaransk"
     ],
     "name:war_x_preferred":[
         "Yaransk"
@@ -184,7 +205,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c1faf6e754b16a0de2ebd1b2ad2a87d0",
+    "wof:geomhash":"a7198177659225f55c0418aa5e16fd7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,7 +215,7 @@
         }
     ],
     "wof:id":102008613,
-    "wof:lastmodified":1582329779,
+    "wof:lastmodified":1690858887,
     "wof:name":"Yarnsk",
     "wof:parent_id":1108734095,
     "wof:placetype":"locality",
@@ -206,10 +227,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    47.879638671875,
-    57.29491806030273,
-    47.90561294555664,
-    57.31741714477539
+    47.879639,
+    57.294918,
+    47.905613,
+    57.317417
 ],
-  "geometry": {"coordinates":[[[47.88391494750977,57.29491806030273],[47.88174819946289,57.29491806030273],[47.879638671875,57.29708480834961],[47.8801383972168,57.30377960205078],[47.88083267211914,57.31275177001953],[47.89858245849609,57.31741714477539],[47.90366744995117,57.31691741943359],[47.90464019775391,57.31683349609375],[47.90561294555664,57.31186294555664],[47.90449905395508,57.30008316040039],[47.90422058105469,57.29708480834961],[47.8986930847168,57.29494476318359],[47.88391494750977,57.29491806030273]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[47.883915,57.294918],[47.881748,57.294918],[47.879639,57.297085],[47.880138,57.30378],[47.880833,57.312752],[47.898582,57.317417],[47.903667,57.316917],[47.90464,57.316833],[47.905613,57.311863],[47.904499,57.300083],[47.904221,57.297085],[47.898693,57.294945],[47.883915,57.294918]]],"type":"Polygon"}
 }

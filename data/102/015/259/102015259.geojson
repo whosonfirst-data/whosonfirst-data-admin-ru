@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000469,
     "geom:area_square_m":3881959.94169,
-    "geom:bbox":"131.927993774,47.9598884583,131.957427979,47.9936294556",
+    "geom:bbox":"131.927994,47.959888,131.957428,47.993629",
     "geom:latitude":47.976321,
     "geom:longitude":131.942038,
     "gn:latitude":47.97557,
@@ -54,6 +54,9 @@
     "name:ceb_x_preferred":[
         "Birobidzhan"
     ],
+    "name:ceb_x_variant":[
+        "Birobidzan"
+    ],
     "name:ces_x_preferred":[
         "Birobid\u017ean"
     ],
@@ -62,6 +65,9 @@
     ],
     "name:chv_x_preferred":[
         "\u0411\u0438\u0440\u043e\u0431\u0438\u0434\u0436\u0430\u043d"
+    ],
+    "name:crh_x_preferred":[
+        "Birobican"
     ],
     "name:dan_x_preferred":[
         "Birobidzjan"
@@ -99,8 +105,20 @@
     "name:fra_x_preferred":[
         "Birobidjan"
     ],
+    "name:frr_x_preferred":[
+        "Birobidschan"
+    ],
+    "name:fry_x_preferred":[
+        "Birobidzjan"
+    ],
+    "name:gle_x_preferred":[
+        "Birobidzhan"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0abf\u0ab0\u0acb\u0aac\u0abf\u0aa1\u0a9d\u0ac7\u0aa8"
+    ],
+    "name:hau_x_preferred":[
+        "Birobidzhan"
     ],
     "name:haw_x_preferred":[
         "Wikowikan"
@@ -119,6 +137,9 @@
     ],
     "name:hun_x_preferred":[
         "Birobidzsan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u056b\u0580\u0578\u0562\u056b\u057b\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Birobidzhan"
@@ -162,8 +183,17 @@
     "name:mar_x_preferred":[
         "\u092c\u0940\u0930\u0949\u092c\u0940\u0921\u091d\u0923"
     ],
+    "name:mar_x_variant":[
+        "\u092c\u093f\u0930\u094b\u092c\u093f\u0926\u094d\u091d\u093e\u0928"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0411\u0438\u0440\u043e\u0431\u0438\u0434\u0436\u0430\u043d"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0438\u0440\u043e\u0431\u0438\u045f\u0430\u043d"
+    ],
+    "name:mon_x_preferred":[
+        "\u0411\u0438\u0440\u043e\u0431\u0438\u0436\u0430\u043d"
     ],
     "name:msa_x_preferred":[
         "Birobidzhan"
@@ -173,6 +203,9 @@
     ],
     "name:nah_x_preferred":[
         "Birobidzh\u00e1n"
+    ],
+    "name:nan_x_preferred":[
+        "Birobidzhan"
     ],
     "name:nld_x_preferred":[
         "Birobidzjan"
@@ -200,6 +233,9 @@
     ],
     "name:por_x_preferred":[
         "Birobidjan"
+    ],
+    "name:pus_x_preferred":[
+        "\u0628\u064a\u0631\u0648\u0628\u064a\u062c\u0627\u0646"
     ],
     "name:ron_x_preferred":[
         "Birobidjan"
@@ -246,6 +282,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e34\u0e42\u0e23\u0e1a\u0e34\u0e14\u0e0b\u0e32\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e35\u0e42\u0e23\u0e1a\u0e34\u0e14\u0e08\u0e31\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Birobican"
     ],
@@ -269,6 +308,9 @@
     ],
     "name:war_x_preferred":[
         "Birobidzhan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6bd4\u7f57\u6bd4\u8a79"
     ],
     "name:xmf_x_preferred":[
         "\u10d1\u10d8\u10e0\u10dd\u10d1\u10d8\u10ef\u10d0\u10dc\u10d8"
@@ -316,7 +358,7 @@
         "wd:id":"Q7769"
     },
     "wof:country":"RU",
-    "wof:geomhash":"4671ae7ac519ddc505246ddad5ba4b5c",
+    "wof:geomhash":"6d8654243b082233f145515427fb5334",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -328,7 +370,7 @@
         }
     ],
     "wof:id":102015259,
-    "wof:lastmodified":1566614940,
+    "wof:lastmodified":1690858685,
     "wof:name":"Bidzhan",
     "wof:parent_id":1108734909,
     "wof:placetype":"locality",
@@ -338,10 +380,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    131.92799377441406,
-    47.95988845825195,
-    131.95742797851562,
-    47.99362945556641
+    131.927994,
+    47.959888,
+    131.957428,
+    47.993629
 ],
-  "geometry": {"coordinates":[[[131.92936706542969,47.96936416625977],[131.92799377441406,47.97288131713867],[131.94071960449219,47.98508453369141],[131.94384765625,47.99040222167969],[131.94573974609375,47.99362945556641],[131.95689392089844,47.98649215698242],[131.95742797851562,47.98239898681641],[131.94810485839844,47.97543716430664],[131.94114685058594,47.96082305908203],[131.93309020996094,47.95988845825195],[131.93252563476562,47.96133422851562],[131.92936706542969,47.96936416625977]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[131.92936700000001,47.969364],[131.92799400000001,47.972881],[131.94072,47.985085],[131.943848,47.990402],[131.94574,47.993629],[131.95689400000001,47.986492],[131.95742799999999,47.982399],[131.948105,47.975437],[131.941147,47.960823],[131.93308999999999,47.959888],[131.932526,47.961334],[131.92936700000001,47.969364]]],"type":"Polygon"}
 }

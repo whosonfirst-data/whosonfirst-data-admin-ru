@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00015,
     "geom:area_square_m":688857.366675,
-    "geom:bbox":"33.215473175,68.1368026733,33.2468070984,68.1444168091",
+    "geom:bbox":"33.215473,68.136803,33.246807,68.144417",
     "geom:latitude":68.140816,
     "geom:longitude":33.230849,
     "gn:latitude":68.1432,
@@ -34,6 +34,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u043b\u0435\u043d\u044f\u0433\u043e\u0440\u0441\u043a"
     ],
+    "name:bel_x_variant":[
+        "\u0410\u043b\u0435\u043d\u044f\u0433\u043e\u0440\u0441\u043a"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u043b\u0435\u043d\u0435\u0433\u043e\u0440\u0441\u043a"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:che_x_preferred":[
         "\u041e\u043b\u0435\u043d\u0435\u0433\u043e\u0440\u0441\u043a"
+    ],
+    "name:crh_x_preferred":[
+        "Olenegorsk"
     ],
     "name:dan_x_preferred":[
         "Olenegorsk"
@@ -64,6 +70,9 @@
     "name:est_x_preferred":[
         "Olenegorsk"
     ],
+    "name:eus_x_preferred":[
+        "Olenegorsk"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0644\u0646\u06af\u0648\u0631\u0633\u06a9\u060c \u0627\u0648\u0628\u0644\u0627\u0633\u062a \u0645\u0648\u0631\u0645\u0627\u0646\u0633\u06a9"
     ],
@@ -74,6 +83,9 @@
         "Olenegorsk"
     ],
     "name:fra_x_preferred":[
+        "Olenegorsk"
+    ],
+    "name:frr_x_preferred":[
         "Olenegorsk"
     ],
     "name:hsb_x_preferred":[
@@ -88,8 +100,17 @@
     "name:ita_x_preferred":[
         "Olenegorsk"
     ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30ec\u30cd\u30b4\u30eb\u30b9"
+    ],
     "name:lit_x_preferred":[
         "Olenegorskas"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041e\u043b\u0435\u043d\u0435\u0433\u043e\u0440\u0441\u043a"
+    ],
+    "name:nan_x_preferred":[
+        "Olenegorsk"
     ],
     "name:nld_x_preferred":[
         "Olenegorsk"
@@ -100,11 +121,20 @@
     "name:nob_x_preferred":[
         "Olenegorsk"
     ],
+    "name:oss_x_preferred":[
+        "\u041e\u043b\u0435\u043d\u0435\u0433\u043e\u0440\u0441\u043a"
+    ],
     "name:pol_x_preferred":[
         "Oleniegorsk"
     ],
     "name:rus_x_preferred":[
         "\u041e\u043b\u0435\u043d\u0435\u0433\u043e\u0440\u0441\u043a"
+    ],
+    "name:slk_x_preferred":[
+        "Olenegorsk"
+    ],
+    "name:spa_x_preferred":[
+        "Olenegorsk"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043b\u0435\u043d\u0435\u0433\u043e\u0440\u0441\u043a"
@@ -173,7 +203,7 @@
         "wk:page":"Olenegorsk, Murmansk Oblast"
     },
     "wof:country":"RU",
-    "wof:geomhash":"fab07eadae119b93ec6c89fb1c56cc70",
+    "wof:geomhash":"f30937b12889e00d08acb0778b80373e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,7 +215,7 @@
         }
     ],
     "wof:id":102001893,
-    "wof:lastmodified":1566615314,
+    "wof:lastmodified":1690858912,
     "wof:name":"",
     "wof:parent_id":1108735657,
     "wof:placetype":"locality",
@@ -197,10 +227,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.21547317504883,
-    68.13680267333984,
-    33.24680709838867,
-    68.14441680908203
+    33.215473,
+    68.136803,
+    33.246807,
+    68.144417
 ],
-  "geometry": {"coordinates":[[[33.23952865600586,68.13680267333984],[33.21844482421875,68.13955688476562],[33.21547317504883,68.14113616943359],[33.21791839599609,68.14377593994141],[33.22938919067383,68.14441680908203],[33.23983383178711,68.14280700683594],[33.24680709838867,68.13911437988281],[33.23952865600586,68.13680267333984]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[33.239529,68.136803],[33.218445,68.139557],[33.215473,68.141136],[33.217918,68.143776],[33.229389,68.144417],[33.239834,68.142807],[33.246807,68.13911400000001],[33.239529,68.136803]]],"type":"Polygon"}
 }

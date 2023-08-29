@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000751,
     "geom:area_square_m":5205082.79931,
-    "geom:bbox":"39.1521377563,55.9016952515,39.2003593445,55.9213905334",
+    "geom:bbox":"39.152138,55.901695,39.200359,55.921391",
     "geom:latitude":55.91099,
-    "geom:longitude":39.177482,
+    "geom:longitude":39.177481,
     "gn:latitude":55.91797,
     "gn:longitude":39.17242,
     "gn:population":15867,
@@ -43,8 +43,14 @@
     "name:ceb_x_preferred":[
         "Pokrov"
     ],
+    "name:ces_x_preferred":[
+        "Pokrov"
+    ],
     "name:che_x_preferred":[
         "\u041f\u043e\u043a\u0440\u043e\u0432"
+    ],
+    "name:crh_x_preferred":[
+        "Pokrov"
     ],
     "name:cym_x_preferred":[
         "Pokrov"
@@ -58,6 +64,9 @@
     "name:epo_x_preferred":[
         "Pokrov"
     ],
+    "name:est_x_preferred":[
+        "Pokrov"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0648\u06a9\u0631\u0648\u0641"
     ],
@@ -66,6 +75,9 @@
     ],
     "name:hsb_x_preferred":[
         "Pokrow"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u056f\u0580\u0578\u057e"
     ],
     "name:ita_x_preferred":[
         "Pokrov"
@@ -82,6 +94,9 @@
     "name:mkd_x_preferred":[
         "\u041f\u043e\u043a\u0440\u043e\u0432"
     ],
+    "name:nan_x_preferred":[
+        "Pokrov"
+    ],
     "name:nld_x_preferred":[
         "Pokrov"
     ],
@@ -93,6 +108,9 @@
     ],
     "name:nor_x_preferred":[
         "Pokrov"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u043e\u043a\u0440\u043e\u0432"
     ],
     "name:pol_x_preferred":[
         "Pokrow"
@@ -114,6 +132,9 @@
     ],
     "name:tur_x_preferred":[
         "Pokrov"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043a\u0440\u043e\u0432"
     ],
     "name:vep_x_preferred":[
         "Pokrov"
@@ -163,7 +184,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"95ffeb61708b83d96e81d595a0451889",
+    "wof:geomhash":"b1327665b60ac1b6ac2a838948edd24f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,7 +196,7 @@
         }
     ],
     "wof:id":102003091,
-    "wof:lastmodified":1582329800,
+    "wof:lastmodified":1690859058,
     "wof:name":"Pokrov",
     "wof:parent_id":890480499,
     "wof:placetype":"locality",
@@ -187,10 +208,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    39.15213775634766,
-    55.90169525146484,
-    39.20035934448242,
-    55.92139053344727
+    39.152138,
+    55.901695,
+    39.200359,
+    55.921391
 ],
-  "geometry": {"coordinates":[[[39.15369415283203,55.91041564941406],[39.15213775634766,55.91666793823242],[39.16916656494141,55.91713714599609],[39.17447280883789,55.92139053344727],[39.17922210693359,55.92113876342773],[39.19733428955078,55.920166015625],[39.19822311401367,55.91519546508789],[39.20035934448242,55.90336227416992],[39.19883346557617,55.90238952636719],[39.18505477905273,55.90202713012695],[39.18327713012695,55.90380477905273],[39.15586090087891,55.90169525146484],[39.15369415283203,55.91041564941406]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[39.153694,55.910416],[39.152138,55.916668],[39.169167,55.917137],[39.174473,55.921391],[39.179222,55.921139],[39.197334,55.920166],[39.198223,55.915195],[39.200359,55.903362],[39.198833,55.90239],[39.185055,55.902027],[39.183277,55.903805],[39.155861,55.901695],[39.153694,55.910416]]],"type":"Polygon"}
 }

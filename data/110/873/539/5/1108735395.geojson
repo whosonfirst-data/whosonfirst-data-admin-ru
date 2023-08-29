@@ -56,6 +56,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:bel_x_preferred":[
+        "\u041d\u0456\u0436\u043d\u044f\u043e\u043c\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Nizhneomskiy Rayon"
+    ],
     "name:deu_x_preferred":[
         "Nischneomski rajon"
     ],
@@ -65,6 +71,9 @@
     "name:eng_x_variant":[
         "Nizhneomskij",
         "Nizhneomsky District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0646\u06cc\u0698\u0646\u0626\u0648\u0645\u0633\u06a9\u06cc"
     ],
     "name:fra_x_preferred":[
         "Nizhneomsky"
@@ -78,11 +87,17 @@
     "name:ita_x_preferred":[
         "Ni\u017eneomskij rajon"
     ],
+    "name:nan_x_preferred":[
+        "Nizhneomsky Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Nizjneomskiy rayon"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0438\u0436\u043d\u0435\u043e\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u044c\u043e\u043e\u043c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Nizhneomsky"
@@ -127,7 +142,7 @@
         }
     ],
     "wof:id":1108735395,
-    "wof:lastmodified":1627522639,
+    "wof:lastmodified":1690859537,
     "wof:name":"Nizhneomskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

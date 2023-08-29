@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000736,
     "geom:area_square_m":4808281.626951,
-    "geom:bbox":"30.2953052521,58.1029167175,30.3516387939,58.1284713745",
+    "geom:bbox":"30.295305,58.102917,30.351639,58.128471",
     "geom:latitude":58.118265,
     "geom:longitude":30.318929,
     "gn:population":10625,
@@ -32,6 +32,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u043b\u044c\u0446\u044b"
     ],
+    "name:bel_x_variant":[
+        "\u0421\u0430\u043b\u044c\u0446\u044b"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u043e\u043b\u0446\u0438"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:che_x_preferred":[
         "\u0421\u043e\u043b\u044c\u0446\u0438"
+    ],
+    "name:crh_x_preferred":[
+        "Solts\u0131"
     ],
     "name:deu_x_preferred":[
         "Solzy"
@@ -68,6 +74,9 @@
     "name:fra_x_preferred":[
         "Soltsy"
     ],
+    "name:frr_x_preferred":[
+        "Soltsy"
+    ],
     "name:haw_x_preferred":[
         "Woniki"
     ],
@@ -76,6 +85,9 @@
     ],
     "name:hsb_x_preferred":[
         "Solcy"
+    ],
+    "name:hun_x_preferred":[
+        "Szolci"
     ],
     "name:ita_x_preferred":[
         "Sol'cy"
@@ -89,6 +101,9 @@
     "name:lav_x_preferred":[
         "So\u013cci"
     ],
+    "name:nan_x_preferred":[
+        "Soltsy"
+    ],
     "name:nld_x_preferred":[
         "Soltsy"
     ],
@@ -101,10 +116,16 @@
     "name:nor_x_preferred":[
         "Soltsy"
     ],
+    "name:oss_x_preferred":[
+        "\u0421\u043e\u043b\u044c\u0446\u044b"
+    ],
     "name:pol_x_preferred":[
         "Solcy"
     ],
     "name:por_x_preferred":[
+        "Soltsy"
+    ],
+    "name:que_x_preferred":[
         "Soltsy"
     ],
     "name:rus_x_preferred":[
@@ -115,6 +136,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0421\u043e\u0459\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Soltsy"
     ],
     "name:tat_x_preferred":[
         "\u0421\u043e\u043b\u044c\u0446\u044b"
@@ -184,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f33cc88a406fb1aff29844e7c9c78b68",
+    "wof:geomhash":"3af1bb8495a5b63f53c34f43b38e76c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,7 +218,7 @@
         }
     ],
     "wof:id":102002609,
-    "wof:lastmodified":1582329816,
+    "wof:lastmodified":1690859215,
     "wof:name":"Soltsy",
     "wof:parent_id":1108736687,
     "wof:placetype":"locality",
@@ -206,10 +230,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.2953052520752,
-    58.1029167175293,
-    30.35163879394531,
-    58.12847137451172
+    30.295305,
+    58.102917,
+    30.351639,
+    58.128471
 ],
-  "geometry": {"coordinates":[[[30.29850006103516,58.10736083984375],[30.2953052520752,58.11144256591797],[30.29794502258301,58.11550140380859],[30.30530548095703,58.12677764892578],[30.32069396972656,58.12847137451172],[30.32772254943848,58.12680435180664],[30.3432502746582,58.12669372558594],[30.34652709960938,58.12508392333984],[30.3486385345459,58.12405395507812],[30.34972190856934,58.12211227416992],[30.35163879394531,58.11863708496094],[30.33699989318848,58.11833190917969],[30.30894470214844,58.10597229003906],[30.30200004577637,58.1029167175293],[30.29850006103516,58.10736083984375]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[30.2985,58.107361],[30.295305,58.111443],[30.297945,58.115501],[30.305305,58.126778],[30.320694,58.128471],[30.327723,58.126804],[30.34325,58.126694],[30.346527,58.125084],[30.348639,58.124054],[30.349722,58.122112],[30.351639,58.118637],[30.337,58.118332],[30.308945,58.105972],[30.302,58.102917],[30.2985,58.107361]]],"type":"Polygon"}
 }

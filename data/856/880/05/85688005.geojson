@@ -37,6 +37,9 @@
     "mz:is_current":1,
     "mz:max_zoom":10.2,
     "mz:min_zoom":4.7,
+    "name:ara_x_preferred":[
+        "\u062a\u0631\u0627\u0646\u0633 \u0628\u0627\u064a\u0643\u0627\u0644"
+    ],
     "name:bel_x_preferred":[
         "\u0417\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u043b\u0435"
     ],
@@ -61,6 +64,9 @@
     "name:deu_x_preferred":[
         "Daurien"
     ],
+    "name:deu_x_variant":[
+        "Transbaikalien"
+    ],
     "name:eng_ca_x_preferred":[
         "Transbaikal"
     ],
@@ -81,6 +87,12 @@
     ],
     "name:est_x_preferred":[
         "Taga-Baikal"
+    ],
+    "name:eus_x_preferred":[
+        "Transbaikal"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0627\u0628\u0627\u06cc\u06a9\u0627\u0644"
     ],
     "name:fin_x_preferred":[
         "Taka-Baikalian aluepiiri"
@@ -114,6 +126,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b6\u30d0\u30a4\u30ab\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10db\u10d8\u10d4\u10e0\u10d1\u10d0\u10d8\u10d9\u10d0\u10da\u10d4\u10d7\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0430\u0439\u043a\u0430\u043b \u0441\u044b\u0440\u0442\u044b"
@@ -171,6 +186,9 @@
     ],
     "name:uzb_x_preferred":[
         "Zabaykalye"
+    ],
+    "name:vec_x_preferred":[
+        "Transbaikal"
     ],
     "name:vie_x_preferred":[
         "Ngo\u1ea1i Baikal"
@@ -324,7 +342,7 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1642541059,
+    "wof:lastmodified":1690859249,
     "wof:name":"Zabaykalsky",
     "wof:parent_id":85632685,
     "wof:placetype":"region",

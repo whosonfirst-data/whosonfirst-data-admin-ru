@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000137,
     "geom:area_square_m":1068822.224332,
-    "geom:bbox":"136.632766724,50.7223854065,136.655776978,50.7308311462",
+    "geom:bbox":"136.632767,50.722385,136.655777,50.730831",
     "geom:latitude":50.726596,
     "geom:longitude":136.643356,
     "gn:latitude":50.72367,
@@ -27,6 +27,9 @@
     ],
     "name:bel_x_variant":[
         "\u0421\u043e\u043d\u0435\u0447\u043d\u044b"
+    ],
+    "name:ceb_x_preferred":[
+        "Solnechnyy Rayon"
     ],
     "name:che_x_preferred":[
         "\u0421\u043e\u043b\u043d\u0435\u0447\u043d\u044b\u0439\u043d \u043a\u04c0\u043e\u0448\u0442"
@@ -58,6 +61,9 @@
     "name:jpn_x_preferred":[
         "\u30bd\u30eb\u30cd\u30c1\u30a7\u30cb\u30a4\u5730\u533a"
     ],
+    "name:nan_x_preferred":[
+        "Solnechny Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Solnetsjniy rayon"
     ],
@@ -69,6 +75,9 @@
     ],
     "name:rus_x_variant":[
         "\u0421\u043e\u043b\u043d\u0435\u0447\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043b\u043d\u0435\u0447\u043d\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Solnechnyy"
@@ -114,7 +123,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4a790756ebccc29c3f91882b8cb83432",
+    "wof:geomhash":"99f0ee32f5923d40bc8a802ceda7b166",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":102015401,
-    "wof:lastmodified":1582329752,
+    "wof:lastmodified":1690858685,
     "wof:name":"Solnechnyy",
     "wof:parent_id":1108736699,
     "wof:placetype":"locality",
@@ -136,10 +145,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    136.6327667236328,
-    50.72238540649414,
-    136.65577697753906,
-    50.73083114624023
+    136.632767,
+    50.722385,
+    136.655777,
+    50.730831
 ],
-  "geometry": {"coordinates":[[[136.65577697753906,50.72238540649414],[136.64434814453125,50.72366714477539],[136.63276672363281,50.72311782836914],[136.63316345214844,50.72814178466797],[136.63912963867188,50.73069763183594],[136.64923095703125,50.73083114624023],[136.65577697753906,50.72238540649414]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[136.655777,50.722385],[136.64434800000001,50.723667],[136.632767,50.723118],[136.633163,50.728142],[136.63912999999999,50.730698],[136.64923099999999,50.730831],[136.655777,50.722385]]],"type":"Polygon"}
 }

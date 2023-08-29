@@ -22,6 +22,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
+    "name:aka_x_preferred":[
+        "Serpukhov"
+    ],
     "name:ara_x_preferred":[
         "\u0633\u0631\u0628\u0648\u062e\u0648\u0641"
     ],
@@ -64,6 +67,9 @@
     "name:chv_x_preferred":[
         "\u0421\u0435\u0440\u043f\u0443\u0445\u043e\u0432"
     ],
+    "name:crh_x_preferred":[
+        "Serpuhov"
+    ],
     "name:cym_x_preferred":[
         "Serpukhov"
     ],
@@ -82,8 +88,14 @@
     "name:epo_x_preferred":[
         "Serpu\u0125ov"
     ],
+    "name:epo_x_variant":[
+        "Serpu\u0125ovo"
+    ],
     "name:est_x_preferred":[
         "Serpuhhov"
+    ],
+    "name:eus_x_preferred":[
+        "Serpukhov"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0631\u067e\u0648\u062e\u0648\u0641"
@@ -93,6 +105,9 @@
     ],
     "name:fra_x_preferred":[
         "Serpoukhov"
+    ],
+    "name:fry_x_preferred":[
+        "Serp\u00fbchov"
     ],
     "name:gag_x_preferred":[
         "Serpuhov"
@@ -142,10 +157,16 @@
     "name:mar_x_preferred":[
         "\u0938\u0930\u094d\u092a\u0941\u0916\u094b\u0935"
     ],
+    "name:mdf_x_preferred":[
+        "\u0421\u0435\u0440\u043f\u0443\u0445\u043e\u0432"
+    ],
     "name:mhr_x_preferred":[
         "\u0421\u0435\u0440\u043f\u0443\u0445\u043e\u0432"
     ],
     "name:msa_x_preferred":[
+        "Serpukhov"
+    ],
+    "name:nan_x_preferred":[
         "Serpukhov"
     ],
     "name:nld_x_preferred":[
@@ -208,6 +229,9 @@
     "name:tat_x_preferred":[
         "\u0421\u0435\u0440\u043f\u0443\u0445\u043e\u0432"
     ],
+    "name:tat_x_variant":[
+        "\u0421\u0438\u0440\u043f\u0443\u0445\u044b\u0432"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c30\u0c4d\u0c2a\u0c41\u0c16\u0c4b\u0c35\u0c4d"
     ],
@@ -235,11 +259,17 @@
     "name:uzb_x_preferred":[
         "Serpuxov"
     ],
+    "name:vep_x_preferred":[
+        "Serpuhov"
+    ],
     "name:vie_x_preferred":[
         "Serpukhov"
     ],
     "name:war_x_preferred":[
         "Serpukhov"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8c22\u5c14\u666e\u970d\u592b"
     ],
     "name:xal_x_preferred":[
         "\u0421\u0435\u0440\u043f\u0443\u0445\u043e\u0432 \u0431\u0430\u043b\u04bb\u0441\u043d"
@@ -396,7 +426,7 @@
         }
     ],
     "wof:id":102003605,
-    "wof:lastmodified":1636496972,
+    "wof:lastmodified":1690859058,
     "wof:name":"Serpukhov",
     "wof:parent_id":890480077,
     "wof:placetype":"locality",

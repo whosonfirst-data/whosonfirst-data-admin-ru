@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000667,
     "geom:area_square_m":5116178.793826,
-    "geom:bbox":"82.7031326294,51.659198761,82.760307312,51.6855010986",
+    "geom:bbox":"82.703133,51.659199,82.760307,51.685501",
     "geom:latitude":51.671682,
     "geom:longitude":82.732757,
     "gn:latitude":51.67083,
@@ -22,11 +22,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:azb_x_preferred":[
+        "\u06a9\u0631\u0627\u0633\u0646\u0648\u0634\u0686\u06cc\u0648\u06a9\u0648\u0648\u0648"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0430\u0448\u0447\u043e\u043a\u0430\u0432\u0430"
+    ],
     "name:ceb_x_preferred":[
         "Krasnoshchekovo"
     ],
     "name:che_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0449\u0451\u043a\u043e\u0432\u043e"
+    ],
+    "name:crh_x_preferred":[
+        "Krasno\u015f\u00e7\u00f6kovo"
     ],
     "name:deu_x_preferred":[
         "Krasnoschtschokowo"
@@ -37,14 +46,26 @@
     "name:eng_x_variant":[
         "Krasnoshchyokovo"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0627\u0633\u0646\u0648\u0634\u0686\u06cc\u0648\u06a9\u0648\u0648"
+    ],
     "name:hun_x_preferred":[
         "Krasznoscsokovo"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0580\u0561\u057d\u0576\u0578\u0577\u0579\u0575\u0578\u056f\u0578\u057e\u0578"
     ],
+    "name:nan_x_preferred":[
+        "Krasnoshchyokovo"
+    ],
     "name:nld_x_preferred":[
         "Krasnoschtschokowo"
+    ],
+    "name:nno_x_preferred":[
+        "Krasnosjtsjokovo"
+    ],
+    "name:nob_x_preferred":[
+        "Krasnosjtsjokovo"
     ],
     "name:nor_x_preferred":[
         "Krasnosjtsjekovo"
@@ -54,6 +75,12 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0449\u0451\u043a\u043e\u0432\u043e"
+    ],
+    "name:sqi_x_preferred":[
+        "Krasnosekovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0449\u043e\u043a\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
         "Kraskoshchekovo"
@@ -91,7 +118,7 @@
         "wd:id":"Q4239174"
     },
     "wof:country":"RU",
-    "wof:geomhash":"4ee346a8a51a68116a9c68f7904d9356",
+    "wof:geomhash":"4ee1638d8279b357e994b4e57373fa29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +130,7 @@
         }
     ],
     "wof:id":102013799,
-    "wof:lastmodified":1566615033,
+    "wof:lastmodified":1690858744,
     "wof:name":"Krasnoshchekovo",
     "wof:parent_id":1108734733,
     "wof:placetype":"locality",
@@ -115,10 +142,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    82.70313262939453,
-    51.65919876098633,
-    82.76030731201172,
-    51.68550109863281
+    82.703133,
+    51.659199,
+    82.760307,
+    51.685501
 ],
-  "geometry": {"coordinates":[[[82.70841979980469,51.65919876098633],[82.70313262939453,51.66847991943359],[82.75422668457031,51.68550109863281],[82.76030731201172,51.6771125793457],[82.74970245361328,51.67234802246094],[82.75017547607422,51.66822052001953],[82.74177551269531,51.66540908813477],[82.733642578125,51.66268920898438],[82.72867584228516,51.66555786132812],[82.70841979980469,51.65919876098633]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[82.70842,51.659199],[82.70313299999999,51.66848],[82.754227,51.685501],[82.760307,51.677113],[82.749702,51.672348],[82.750175,51.668221],[82.741776,51.665409],[82.733643,51.662689],[82.72867599999999,51.665558],[82.70842,51.659199]]],"type":"Polygon"}
 }

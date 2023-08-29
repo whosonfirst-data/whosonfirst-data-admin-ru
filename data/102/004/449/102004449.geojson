@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.002035,
     "geom:area_square_m":15073270.468678,
-    "geom:bbox":"34.3956108093,53.1817512512,34.473777771,53.2208061218",
+    "geom:bbox":"34.395611,53.181751,34.473778,53.220806",
     "geom:latitude":53.200053,
     "geom:longitude":34.428694,
     "gn:latitude":53.25209,
@@ -24,6 +24,9 @@
     "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Brjansk"
+    ],
+    "name:aka_x_preferred":[
+        "Bryansk"
     ],
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0627\u0646\u0633\u0643"
@@ -60,6 +63,12 @@
     ],
     "name:che_x_preferred":[
         "\u0411\u0440\u044f\u043d\u0441\u043a"
+    ],
+    "name:chv_x_preferred":[
+        "\u0411\u0440\u044f\u043d\u0441\u043a"
+    ],
+    "name:crh_x_preferred":[
+        "Br\u00e2nsk"
     ],
     "name:cym_x_preferred":[
         "Bryansk"
@@ -108,6 +117,15 @@
     ],
     "name:fra_x_preferred":[
         "Briansk"
+    ],
+    "name:frr_x_preferred":[
+        "Brjansk"
+    ],
+    "name:fry_x_preferred":[
+        "Brjansk"
+    ],
+    "name:gle_x_preferred":[
+        "Bryansk"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab0\u0abe\u0aaf\u0abe\u0aa8\u0acd\u0ab8\u0acd\u0a95"
@@ -163,17 +181,26 @@
     "name:lit_x_preferred":[
         "Brianskas"
     ],
+    "name:lld_x_preferred":[
+        "Briansk"
+    ],
     "name:ltz_x_preferred":[
         "Brjansk"
     ],
     "name:mar_x_preferred":[
         "\u092c\u094d\u0930\u093e\u092f\u093e\u0928\u094d\u0938\u094d\u0915"
     ],
+    "name:mdf_x_preferred":[
+        "\u0411\u0440\u044f\u043d\u0441\u043a"
+    ],
     "name:mhr_x_preferred":[
         "\u0411\u0440\u044f\u043d\u0441\u043a"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0440\u0458\u0430\u043d\u0441\u043a"
+    ],
+    "name:mlt_x_preferred":[
+        "Bryansk"
     ],
     "name:mon_x_preferred":[
         "\u0411\u0440\u044f\u043d\u0441\u043a"
@@ -183,6 +210,12 @@
     ],
     "name:myv_x_preferred":[
         "\u0411\u0440\u044f\u043d\u0441\u043a \u043e\u0448"
+    ],
+    "name:myv_x_variant":[
+        "\u0411\u0440\u044f\u043d\u0441\u043a\u043e\u0439"
+    ],
+    "name:nan_x_preferred":[
+        "Bryansk"
     ],
     "name:nep_x_preferred":[
         "\u092c\u094d\u0930\u093e\u0928\u094d\u0938\u0915"
@@ -217,6 +250,9 @@
     "name:por_x_preferred":[
         "Briansk"
     ],
+    "name:pus_x_preferred":[
+        "\u0628\u0631\u064a\u0627\u0646\u0633\u06a9"
+    ],
     "name:ron_x_preferred":[
         "Breansk"
     ],
@@ -240,6 +276,9 @@
         "Briansk"
     ],
     "name:slv_x_preferred":[
+        "Brjansk"
+    ],
+    "name:smn_x_preferred":[
         "Brjansk"
     ],
     "name:spa_x_preferred":[
@@ -278,6 +317,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e23\u0e37\u0e22\u0e4c\u0e2d\u0e31\u0e19\u0e2a\u0e04\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e1a\u0e23\u0e35\u0e22\u0e19\u0e2a\u0e04\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Bryansk"
     ],
@@ -293,6 +335,9 @@
     "name:uzb_x_preferred":[
         "Bryansk"
     ],
+    "name:vec_x_preferred":[
+        "Brjansk"
+    ],
     "name:vep_x_preferred":[
         "Br\u00e4nsk"
     ],
@@ -302,8 +347,14 @@
     "name:war_x_preferred":[
         "Bryansk"
     ],
+    "name:wuu_x_preferred":[
+        "\u5e03\u826f\u65af\u514b"
+    ],
     "name:xal_x_preferred":[
         "\u0411\u0440\u044f\u043d\u0441\u043a \u0431\u0430\u043b\u04bb\u0441\u043d"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10e0\u10d8\u10d0\u10dc\u10e1\u10d9\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u5e03\u826f\u65af\u514b"
@@ -349,7 +400,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"eb1a966ac3a026ceea271710041fd832",
+    "wof:geomhash":"7b131c8f4cd564008ddf2a6e133d9cf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -359,7 +410,7 @@
         }
     ],
     "wof:id":102004449,
-    "wof:lastmodified":1582329804,
+    "wof:lastmodified":1690859100,
     "wof:name":"Bryansk Lgovskiy",
     "wof:parent_id":1108733107,
     "wof:placetype":"locality",
@@ -371,10 +422,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    34.39561080932617,
-    53.1817512512207,
-    34.47377777099609,
-    53.22080612182617
+    34.395611,
+    53.181751,
+    34.473778,
+    53.220806
 ],
-  "geometry": {"coordinates":[[[34.3988037109375,53.18402862548828],[34.3980827331543,53.18477630615234],[34.39738845825195,53.19283294677734],[34.39680480957031,53.1995849609375],[34.3958625793457,53.21102905273438],[34.39561080932617,53.21408462524414],[34.39883422851562,53.21705627441406],[34.42033386230469,53.22080612182617],[34.43113708496094,53.21233367919922],[34.43477630615234,53.21175003051758],[34.47377777099609,53.20558166503906],[34.47191619873047,53.19872283935547],[34.47061157226562,53.19386291503906],[34.467529296875,53.18997192382812],[34.42211151123047,53.18436050415039],[34.40094375610352,53.1817512512207],[34.3988037109375,53.18402862548828]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.398804,53.184029],[34.398083,53.184776],[34.397388,53.192833],[34.396805,53.199585],[34.395863,53.211029],[34.395611,53.214085],[34.398834,53.217056],[34.420334,53.220806],[34.431137,53.212334],[34.434776,53.21175],[34.473778,53.205582],[34.471916,53.198723],[34.470612,53.193863],[34.467529,53.189972],[34.422112,53.184361],[34.400944,53.181751],[34.398804,53.184029]]],"type":"Polygon"}
 }

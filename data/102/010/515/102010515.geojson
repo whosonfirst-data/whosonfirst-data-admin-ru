@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000984,
     "geom:area_square_m":7260297.889572,
-    "geom:bbox":"58.9265823364,53.3466682434,58.9627761841,53.4121398926",
+    "geom:bbox":"58.926582,53.346668,58.962776,53.41214",
     "geom:latitude":53.37756,
     "geom:longitude":58.940966,
     "gn:latitude":53.41861,
@@ -88,6 +88,9 @@
     "name:fra_x_preferred":[
         "Magnitogorsk"
     ],
+    "name:gle_x_preferred":[
+        "Magnitogorsk"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0a97\u0acd\u0aa8\u0abf\u0a9f\u0acb\u0a97\u0acb\u0ab0\u0acd\u0ab8\u0acd\u0a95"
     ],
@@ -108,6 +111,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u0563\u0576\u056b\u057f\u0578\u0563\u0578\u0580\u057d\u056f"
+    ],
+    "name:ido_x_preferred":[
+        "Magnitogorsk"
     ],
     "name:ind_x_preferred":[
         "Magnitogorsk"
@@ -130,11 +136,17 @@
     "name:kor_x_preferred":[
         "\ub9c8\uadf8\ub2c8\ud1a0\uace0\ub974\uc2a4\ud06c"
     ],
+    "name:lat_x_preferred":[
+        "Mons Magnes"
+    ],
     "name:lav_x_preferred":[
         "Mag\u0146itogorska"
     ],
     "name:lit_x_preferred":[
         "Magnitogorskas"
+    ],
+    "name:lld_x_preferred":[
+        "Magnitogorsk"
     ],
     "name:lmo_x_preferred":[
         "Magnitogorsk"
@@ -145,10 +157,16 @@
     "name:mar_x_preferred":[
         "\u092e\u0945\u0917\u0928\u0940\u091f\u094b\u0917\u094b\u0930\u0938\u094d\u0915"
     ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0430\u0433\u043d\u0438\u0442\u043e\u0433\u043e\u0440\u0441\u043a"
+    ],
     "name:mhr_x_preferred":[
         "\u041c\u0430\u0433\u043d\u0438\u0442\u043e\u0433\u043e\u0440\u0441\u043a"
     ],
     "name:msa_x_preferred":[
+        "Magnitogorsk"
+    ],
+    "name:nan_x_preferred":[
         "Magnitogorsk"
     ],
     "name:nld_x_preferred":[
@@ -214,6 +232,9 @@
     "name:tat_x_preferred":[
         "\u041c\u0430\u0433\u043d\u0438\u0442\u0442\u0430\u0443"
     ],
+    "name:tat_x_variant":[
+        "\u041c\u0430\u0433\u043d\u0438\u0442\u043e\u0433\u043e\u0440\u0441\u043a"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3e\u0c17\u0c4d\u0c28\u0c3f\u0c24\u0c4b\u0c17\u0c4b\u0c30\u0c4d\u0c38\u0c4d\u0c15\u0c4d"
     ],
@@ -236,6 +257,12 @@
         "\u0645\u0627\u062c\u0646\u06cc\u062a\u0648\u062c\u0648\u0631\u0633\u06a9"
     ],
     "name:uzb_x_preferred":[
+        "Magnitogorsk"
+    ],
+    "name:vec_x_preferred":[
+        "Magnitogorsk"
+    ],
+    "name:vep_x_preferred":[
         "Magnitogorsk"
     ],
     "name:vie_x_preferred":[
@@ -290,7 +317,7 @@
         "wk:page":"Magnitogorsk"
     },
     "wof:country":"RU",
-    "wof:geomhash":"5661492b369bbbb98f6c654c010bce69",
+    "wof:geomhash":"336cb03be8e6f04c10557eca31df5fae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -302,7 +329,7 @@
         }
     ],
     "wof:id":102010515,
-    "wof:lastmodified":1566615515,
+    "wof:lastmodified":1690859041,
     "wof:name":"Magnitogorsk",
     "wof:parent_id":890479889,
     "wof:placetype":"locality",
@@ -314,10 +341,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    58.92658233642578,
-    53.3466682434082,
-    58.96277618408203,
-    53.41213989257812
+    58.926582,
+    53.346668,
+    58.962776,
+    53.41214
 ],
-  "geometry": {"coordinates":[[[58.9525260925293,53.34952926635742],[58.94836044311523,53.35152816772461],[58.93672180175781,53.36088943481445],[58.93166732788086,53.36494445800781],[58.92708206176758,53.38824844360352],[58.92658233642578,53.39091491699219],[58.93222045898438,53.40016555786133],[58.93019485473633,53.41064071655273],[58.9370002746582,53.41213989257812],[58.93936157226562,53.41080474853516],[58.94291687011719,53.40033340454102],[58.94455718994141,53.39055633544922],[58.94830703735352,53.36844635009766],[58.94997406005859,53.36527633666992],[58.96186065673828,53.35677719116211],[58.96255493164062,53.35402679443359],[58.96277618408203,53.3531379699707],[58.95852661132812,53.3466682434082],[58.9525260925293,53.34952926635742]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[58.952526,53.349529],[58.94836,53.351528],[58.936722,53.360889],[58.931667,53.364944],[58.927082,53.388248],[58.926582,53.390915],[58.93222,53.400166],[58.930195,53.410641],[58.937,53.41214],[58.939362,53.410805],[58.942917,53.400333],[58.944557,53.390556],[58.948307,53.368446],[58.949974,53.365276],[58.961861,53.356777],[58.962555,53.354027],[58.962776,53.353138],[58.958527,53.346668],[58.952526,53.349529]]],"type":"Polygon"}
 }

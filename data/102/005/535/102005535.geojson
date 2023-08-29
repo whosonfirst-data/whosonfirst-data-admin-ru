@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000327,
     "geom:area_square_m":2510944.322949,
-    "geom:bbox":"34.6802787781,51.5604171753,34.7025566101,51.5799179077",
+    "geom:bbox":"34.680279,51.560417,34.702557,51.579918",
     "geom:latitude":51.570393,
     "geom:longitude":34.691568,
     "gn:population":17007,
@@ -26,6 +26,9 @@
     "name:azb_x_preferred":[
         "\u0631\u06cc\u0644\u0633\u06a9"
     ],
+    "name:aze_x_preferred":[
+        "R\u0131lsk"
+    ],
     "name:bak_x_preferred":[
         "\u0420\u044b\u043b\u044c\u0441\u043a"
     ],
@@ -44,8 +47,17 @@
     "name:ceb_x_preferred":[
         "Ryl'sk"
     ],
+    "name:ces_x_preferred":[
+        "Rylsk"
+    ],
     "name:che_x_preferred":[
         "\u0420\u044b\u043b\u044c\u0441\u043a"
+    ],
+    "name:crh_x_preferred":[
+        "R\u0131lsk"
+    ],
+    "name:dan_x_preferred":[
+        "Rylsk"
     ],
     "name:deu_x_preferred":[
         "Rylsk"
@@ -59,8 +71,14 @@
     "name:epo_x_preferred":[
         "Rilsk"
     ],
+    "name:est_x_preferred":[
+        "R\u00f5lsk"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u06cc\u0644\u0633\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Rylsk"
     ],
     "name:fra_x_preferred":[
         "Rylsk"
@@ -71,6 +89,9 @@
     "name:hye_x_preferred":[
         "\u054c\u056b\u056c\u057d\u056f"
     ],
+    "name:ido_x_preferred":[
+        "Rilsk"
+    ],
     "name:ita_x_preferred":[
         "Ryl'sk"
     ],
@@ -80,8 +101,20 @@
     "name:kor_x_preferred":[
         "\ub9b4\uc2a4\ud06c"
     ],
+    "name:lat_x_preferred":[
+        "Rylscia"
+    ],
+    "name:lav_x_preferred":[
+        "Ri\u013cska"
+    ],
     "name:lit_x_preferred":[
         "Rylskas"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0420\u044b\u043b\u044c\u0441\u043a"
+    ],
+    "name:nan_x_preferred":[
+        "Rylsk"
     ],
     "name:nld_x_preferred":[
         "Rylsk"
@@ -94,6 +127,9 @@
     ],
     "name:nor_x_preferred":[
         "Rylsk"
+    ],
+    "name:oss_x_preferred":[
+        "\u0420\u044b\u043b\u044c\u0441\u043a"
     ],
     "name:pol_x_preferred":[
         "Rylsk"
@@ -124,6 +160,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0438\u043b\u044c\u0441\u044c\u043a"
+    ],
+    "name:vep_x_preferred":[
+        "Ril'sk"
     ],
     "name:war_x_preferred":[
         "Rylsk"
@@ -171,7 +210,7 @@
         "wk:page":"Rylsk, Russia"
     },
     "wof:country":"RU",
-    "wof:geomhash":"e7a44a9b64c5060c7b4cbfd0d7256bec",
+    "wof:geomhash":"68585e4c7a6450bb8832646ce02680f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,7 +222,7 @@
         }
     ],
     "wof:id":102005535,
-    "wof:lastmodified":1566615619,
+    "wof:lastmodified":1690859126,
     "wof:name":"Rylsk",
     "wof:parent_id":1108736345,
     "wof:placetype":"locality",
@@ -195,10 +234,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    34.68027877807617,
-    51.56041717529297,
-    34.70255661010742,
-    51.57991790771484
+    34.680279,
+    51.560417,
+    34.702557,
+    51.579918
 ],
-  "geometry": {"coordinates":[[[34.69538879394531,51.56180572509766],[34.68027877807617,51.56594467163086],[34.68038940429688,51.56791687011719],[34.68102645874023,51.57841491699219],[34.6829719543457,51.57991790771484],[34.68960952758789,51.57991790771484],[34.69239044189453,51.57688903808594],[34.70216751098633,51.57572174072266],[34.7025260925293,51.56166839599609],[34.70255661010742,51.56102752685547],[34.70044326782227,51.56041717529297],[34.69538879394531,51.56180572509766]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[34.695389,51.561806],[34.680279,51.565945],[34.680389,51.567917],[34.681026,51.578415],[34.682972,51.579918],[34.68961,51.579918],[34.69239,51.576889],[34.702168,51.575722],[34.702526,51.561668],[34.702557,51.561028],[34.700443,51.560417],[34.695389,51.561806]]],"type":"Polygon"}
 }

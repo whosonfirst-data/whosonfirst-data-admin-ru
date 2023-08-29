@@ -56,6 +56,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:bel_x_preferred":[
+        "\u0410\u043b\u044f\u043a\u0441\u0430\u043d\u0434\u0440\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "raion d'Aleks\u00e0ndrov"
+    ],
     "name:ceb_x_preferred":[
         "Aleksandrovskiy Rayon"
     ],
@@ -78,6 +84,9 @@
     "name:fra_x_preferred":[
         "Aleksandrov"
     ],
+    "name:fra_x_variant":[
+        "ra\u00efon d'Alexandrovsky"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u056c\u0565\u056f\u057d\u0561\u0576\u0564\u0580\u0578\u057e\u057d\u056f\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
@@ -87,8 +96,14 @@
     "name:myv_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043e\u043d\u044c \u0431\u0443\u0435"
     ],
+    "name:nan_x_preferred":[
+        "Alexandrovsky Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Aleksandrovskiy rayon"
+    ],
+    "name:oss_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u044b \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -142,7 +157,7 @@
         }
     ],
     "wof:id":1108732693,
-    "wof:lastmodified":1627522532,
+    "wof:lastmodified":1690859469,
     "wof:name":"Aleksandrovskiy",
     "wof:parent_id":85687981,
     "wof:placetype":"county",

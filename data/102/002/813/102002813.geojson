@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00087,
     "geom:area_square_m":5894905.946105,
-    "geom:bbox":"43.2158432007,56.7445144653,43.2673568726,56.7735023499",
+    "geom:bbox":"43.215843,56.744514,43.267357,56.773502",
     "geom:latitude":56.756957,
     "geom:longitude":43.240507,
     "gn:population":13577,
@@ -32,6 +32,9 @@
     "name:bel_x_variant":[
         "\u0427\u043a\u0430\u043b\u0430\u045e\u0441\u043a"
     ],
+    "name:cat_x_preferred":[
+        "\u010ckalovsk"
+    ],
     "name:ceb_x_preferred":[
         "Chkalovsk"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:che_x_preferred":[
         "\u0427\u043a\u0430\u043b\u043e\u0432\u0441\u043a"
+    ],
+    "name:crh_x_preferred":[
+        "\u00c7kalovsk"
     ],
     "name:deu_x_preferred":[
         "Tschkalowsk"
@@ -80,8 +86,14 @@
     "name:kor_x_preferred":[
         "\uce58\uce7c\ub86d\uc2a4\ud06c"
     ],
+    "name:mdf_x_preferred":[
+        "\u0427\u043a\u0430\u043b\u043e\u0432\u0441\u043a"
+    ],
     "name:myv_x_preferred":[
         "\u0427\u043a\u0430\u043b\u043e\u0432\u0441\u043a"
+    ],
+    "name:nan_x_preferred":[
+        "Chkalovsk"
     ],
     "name:nld_x_preferred":[
         "Tsjkalovsk"
@@ -95,6 +107,9 @@
     "name:nor_x_preferred":[
         "Tsjkalovsk"
     ],
+    "name:oss_x_preferred":[
+        "\u0427\u043a\u0430\u043b\u043e\u0432\u0441\u043a"
+    ],
     "name:pol_x_preferred":[
         "Czka\u0142owsk"
     ],
@@ -103,6 +118,9 @@
     ],
     "name:slv_x_preferred":[
         "\u010ckalovsk"
+    ],
+    "name:spa_x_preferred":[
+        "Chkalovsk"
     ],
     "name:srp_x_preferred":[
         "\u0427\u043a\u0430\u043b\u043e\u0432\u0441\u043a"
@@ -121,6 +139,9 @@
     ],
     "name:und_x_variant":[
         "Vasilevo"
+    ],
+    "name:vep_x_preferred":[
+        "\u010ckalovsk"
     ],
     "name:war_x_preferred":[
         "Chkalovsk"
@@ -169,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"f4069eac8b42bfd2aa53a1c723df51a6",
+    "wof:geomhash":"77c463cdc9813848afbb1d84b497022a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,7 +200,7 @@
         }
     ],
     "wof:id":102002813,
-    "wof:lastmodified":1582329815,
+    "wof:lastmodified":1690859204,
     "wof:name":"Chkalovsk",
     "wof:parent_id":1108733287,
     "wof:placetype":"locality",
@@ -191,10 +212,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.21584320068359,
-    56.74451446533203,
-    43.26735687255859,
-    56.77350234985352
+    43.215843,
+    56.744514,
+    43.267357,
+    56.773502
 ],
-  "geometry": {"coordinates":[[[43.2509880065918,56.77044677734375],[43.26263809204102,56.76324844360352],[43.26322174072266,56.76233291625977],[43.26735687255859,56.75595092773438],[43.26551818847656,56.75380325317383],[43.26216506958008,56.75308609008789],[43.25615692138672,56.75180435180664],[43.23600769042969,56.74451446533203],[43.22207260131836,56.74514389038086],[43.21584320068359,56.74982833862305],[43.21636581420898,56.75763320922852],[43.22173309326172,56.76179504394531],[43.23681259155273,56.76467132568359],[43.24603271484375,56.77350234985352],[43.2509880065918,56.77044677734375]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[43.250988,56.770447],[43.262638,56.763248],[43.263222,56.762333],[43.267357,56.755951],[43.265518,56.753803],[43.262165,56.753086],[43.256157,56.751804],[43.236008,56.744514],[43.222073,56.745144],[43.215843,56.749828],[43.216366,56.757633],[43.221733,56.761795],[43.236813,56.764671],[43.246033,56.773502],[43.250988,56.770447]]],"type":"Polygon"}
 }

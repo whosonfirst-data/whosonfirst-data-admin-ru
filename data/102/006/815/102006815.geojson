@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00023,
     "geom:area_square_m":1871867.844033,
-    "geom:bbox":"44.8383331299,48.8368606567,44.8621101379,48.8535842896",
+    "geom:bbox":"44.838333,48.836861,44.86211,48.853584",
     "geom:latitude":48.845063,
     "geom:longitude":44.851358,
     "gn:latitude":48.78583,
@@ -24,6 +24,9 @@
     "mz:min_zoom":6.7,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0644\u062c\u0633\u0643\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0641\u0648\u0644\u062c\u0633\u0643\u0649"
     ],
     "name:ast_x_preferred":[
         "Volzhski"
@@ -58,8 +61,14 @@
     "name:che_x_preferred":[
         "\u0412\u043e\u043b\u0436\u0441\u043a\u0438\u0439"
     ],
+    "name:crh_x_preferred":[
+        "Voljskiy"
+    ],
     "name:dan_x_preferred":[
         "Volzjskij"
+    ],
+    "name:dan_x_variant":[
+        "Volsjskij"
     ],
     "name:deu_x_preferred":[
         "Wolschski"
@@ -90,6 +99,9 @@
     ],
     "name:fra_x_preferred":[
         "Voljski"
+    ],
+    "name:gle_x_preferred":[
+        "Volzhsky"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0acb\u0ab2\u0acd\u0a9d\u0ab8\u0acd\u0a95\u0ac0"
@@ -137,6 +149,9 @@
         "\u0412\u043e\u043b\u0436\u0441\u043a\u0438\u0439"
     ],
     "name:msa_x_preferred":[
+        "Volzhsky"
+    ],
+    "name:nan_x_preferred":[
         "Volzhsky"
     ],
     "name:nld_x_preferred":[
@@ -207,6 +222,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u0648\u0644\u0632\u062d\u0633\u06a9\u06cc"
+    ],
+    "name:vec_x_preferred":[
+        "Vol\u017eskij"
     ],
     "name:vep_x_preferred":[
         "Vol\u017eskii"
@@ -353,7 +371,7 @@
         "wk:page":"Volzhsky, Volgograd Oblast"
     },
     "wof:country":"RU",
-    "wof:geomhash":"3f40c5d3b46e42a408dd73c553692a64",
+    "wof:geomhash":"69b98eb9dd26e9355e666614c833796f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -365,7 +383,7 @@
         }
     ],
     "wof:id":102006815,
-    "wof:lastmodified":1566615364,
+    "wof:lastmodified":1690858943,
     "wof:name":"",
     "wof:parent_id":1108737647,
     "wof:placetype":"locality",
@@ -377,10 +395,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    44.83833312988281,
-    48.83686065673828,
-    44.86211013793945,
-    48.85358428955078
+    44.838333,
+    48.836861,
+    44.86211,
+    48.853584
 ],
-  "geometry": {"coordinates":[[[44.85863876342773,48.83686065673828],[44.83891677856445,48.84458160400391],[44.83833312988281,48.84688949584961],[44.84624862670898,48.85358428955078],[44.86183166503906,48.84641647338867],[44.86211013793945,48.83724975585938],[44.85863876342773,48.83686065673828]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[44.858639,48.836861],[44.838917,48.844582],[44.838333,48.846889],[44.846249,48.853584],[44.861832,48.846416],[44.86211,48.83725],[44.858639,48.836861]]],"type":"Polygon"}
 }

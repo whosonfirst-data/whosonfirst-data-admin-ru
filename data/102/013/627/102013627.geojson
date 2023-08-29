@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000884,
     "geom:area_square_m":6667958.907569,
-    "geom:bbox":"83.6369171143,52.3857498169,83.6763076782,52.4160003662",
+    "geom:bbox":"83.636917,52.38575,83.676308,52.416",
     "geom:latitude":52.400264,
     "geom:longitude":83.656463,
     "gn:latitude":52.3934,
@@ -22,11 +22,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:bel_x_preferred":[
+        "\u0423\u0441\u0446\u044c-\u0427\u0430\u0440\u044b\u0448\u0441\u043a\u0430\u044f \u041f\u0440\u044b\u0441\u0442\u0430\u043d\u044c"
+    ],
     "name:ceb_x_preferred":[
         "Ust'-Charyshskaya Pristan'"
     ],
+    "name:ces_x_preferred":[
+        "Ust-\u010cary\u0161skaja Prista\u0148"
+    ],
     "name:che_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u0427\u0430\u0440\u044b\u0448\u0441\u043a\u0438 \u041f\u0440\u0438\u0441\u0442\u0430\u043d\u044c"
+    ],
+    "name:crh_x_preferred":[
+        "Ust-\u00c7ar\u0131\u015fskaya Pristan"
     ],
     "name:deu_x_preferred":[
         "Ust-Tscharyschskaja Pristan"
@@ -37,6 +46,9 @@
     "name:eng_x_variant":[
         "Ust-Charyshskaya Pristan"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0633\u062a-\u0686\u0627\u0631\u06cc\u0634\u0633\u06a9\u0627\u06cc\u0627 \u067e\u0631\u06cc\u0633\u062a\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
         "Oust-Tcharychka\u00efa Pristan"
     ],
@@ -46,14 +58,32 @@
     "name:hye_x_preferred":[
         "\u0548\u0582\u057d\u057f-\u0549\u0561\u0580\u056b\u0577\u057d\u056f\u0561\u0575\u0561 \u054a\u0580\u056b\u057d\u057f\u0561\u0576"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30b9\u30c1\uff1d\u30c1\u30e3\u30ea\u30b7\u30b9\u30ab\u30e4\u30fb\u30d7\u30ea\u30b9\u30bf\u30f3"
+    ],
+    "name:nan_x_preferred":[
+        "Ust-Charyshskaya Pristan"
+    ],
     "name:nld_x_preferred":[
         "Ust-Charyshskaya Pristan"
+    ],
+    "name:nno_x_preferred":[
+        "Ust-Tsjarysjskaja Pristan"
+    ],
+    "name:nob_x_preferred":[
+        "Ust-Tsjarysjskaja Pristan"
     ],
     "name:nor_x_preferred":[
         "Ust-Tsjarysjskaja Pristan"
     ],
     "name:rus_x_preferred":[
         "\u0423\u0441\u0442\u044c-\u0427\u0430\u0440\u044b\u0448\u0441\u043a\u0430\u044f \u041f\u0440\u0438\u0441\u0442\u0430\u043d\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Ust-Charyshskaya Pristan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0441\u0442\u044c-\u0427\u0430\u0440\u0438\u0448\u0441\u044c\u043a\u0430 \u041f\u0440\u0438\u0441\u0442\u0430\u043d\u044c"
     ],
     "name:und_x_variant":[
         "Ust\u2019-Charysh"
@@ -95,7 +125,7 @@
         "wk:page":"Ust-Charyshskaya Pristan"
     },
     "wof:country":"RU",
-    "wof:geomhash":"ffa4e1143d46ee731e0a704ba8ad0215",
+    "wof:geomhash":"1b31943b98e51c146c06602a3e463490",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,7 +137,7 @@
         }
     ],
     "wof:id":102013627,
-    "wof:lastmodified":1566615044,
+    "wof:lastmodified":1690858751,
     "wof:name":"Ust Charyshskaya Pristan",
     "wof:parent_id":1108737255,
     "wof:placetype":"locality",
@@ -119,10 +149,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    83.63691711425781,
-    52.38574981689453,
-    83.67630767822266,
-    52.41600036621094
+    83.636917,
+    52.38575,
+    83.676308,
+    52.416
 ],
-  "geometry": {"coordinates":[[[83.63691711425781,52.39086151123047],[83.6383056640625,52.39435958862305],[83.64072418212891,52.40036010742188],[83.63722229003906,52.41191482543945],[83.64205932617188,52.41319274902344],[83.65252685546875,52.41600036621094],[83.65892028808594,52.412109375],[83.66647338867188,52.41280364990234],[83.66921997070312,52.41533279418945],[83.67494201660156,52.39188766479492],[83.67630767822266,52.38624954223633],[83.67305755615234,52.38605499267578],[83.66786193847656,52.38574981689453],[83.63691711425781,52.39086151123047]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[83.636917,52.390862],[83.638306,52.39436],[83.64072400000001,52.40036],[83.63722199999999,52.411915],[83.642059,52.413193],[83.65252700000001,52.416],[83.65891999999999,52.412109],[83.666473,52.412804],[83.66922,52.415333],[83.674942,52.391888],[83.67630800000001,52.38625],[83.673058,52.386055],[83.667862,52.38575],[83.636917,52.390862]]],"type":"Polygon"}
 }

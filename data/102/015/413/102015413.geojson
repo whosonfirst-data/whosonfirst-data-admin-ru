@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000133,
     "geom:area_square_m":1042737.831497,
-    "geom:bbox":"136.934417725,50.581577301,136.952560425,50.5922241211",
+    "geom:bbox":"136.934418,50.581577,136.95256,50.592224",
     "geom:latitude":50.587138,
-    "geom:longitude":136.942375,
+    "geom:longitude":136.942374,
     "gn:latitude":50.55034,
     "gn:longitude":137.00995,
     "gn:population":275908,
@@ -30,6 +30,9 @@
     ],
     "name:azb_x_preferred":[
         "\u06a9\u0627\u0645\u0633\u0627\u0645\u0648\u0644\u0633\u06a9 \u0628\u0631 \u0622\u0645\u0648\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Komsomolsk-na-Amur"
     ],
     "name:bak_x_preferred":[
         "\u0410\u043c\u0443\u0440\u0499\u0430\u0493\u044b \u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u043a"
@@ -82,6 +85,9 @@
     "name:fin_x_preferred":[
         "Komsomolsk-na-Amure"
     ],
+    "name:fin_x_variant":[
+        "Amurin Komsomolsk"
+    ],
     "name:fra_x_preferred":[
         "Komsomolsk-sur-l'Amour"
     ],
@@ -118,6 +124,9 @@
     "name:ind_x_preferred":[
         "Komsomolsk-on-Amur"
     ],
+    "name:ind_x_variant":[
+        "Komsomolsk-na-Amur"
+    ],
     "name:ita_x_preferred":[
         "Komsomol'sk-na-Amure"
     ],
@@ -136,6 +145,9 @@
     "name:kor_x_preferred":[
         "\ucf64\uc18c\ubab0\uc2a4\ud06c\ub098\uc544\ubb34\ub808"
     ],
+    "name:lat_x_preferred":[
+        "Permicum"
+    ],
     "name:lav_x_preferred":[
         "Komsomo\u013cska pie Am\u016bras"
     ],
@@ -149,6 +161,9 @@
         "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u043a-\u043d\u0430-\u0410\u043c\u0443\u0440\u0435"
     ],
     "name:msa_x_preferred":[
+        "Komsomolsk-on-Amur"
+    ],
+    "name:nan_x_preferred":[
         "Komsomolsk-on-Amur"
     ],
     "name:nld_x_preferred":[
@@ -211,6 +226,9 @@
     "name:tur_x_preferred":[
         "Komsomolsk-na-Amure"
     ],
+    "name:uig_x_preferred":[
+        "\u0643\u0648\u0645\u0633\u0648\u0645\u0648\u0644 \u0634\u06d5\u06be\u0649\u0631\u0649"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u044c\u043a-\u043d\u0430-\u0410\u043c\u0443\u0440\u0456"
     ],
@@ -225,6 +243,9 @@
     ],
     "name:war_x_preferred":[
         "Komsomolsk-on-Amur"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u7a46\u5c14\u6cb3\u7554\u5171\u9752\u57ce"
     ],
     "name:yue_x_preferred":[
         "\u74e6\u502b"
@@ -366,7 +387,7 @@
         "wk:page":"Komsomolsk-on-Amur"
     },
     "wof:country":"RU",
-    "wof:geomhash":"e9ccef4fabc8f5c0f320f668c31b30de",
+    "wof:geomhash":"7468b3310852b9d8fc2f9091e525eb66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -378,7 +399,7 @@
         }
     ],
     "wof:id":102015413,
-    "wof:lastmodified":1566614934,
+    "wof:lastmodified":1690858682,
     "wof:name":"",
     "wof:parent_id":1108734559,
     "wof:placetype":"locality",
@@ -390,10 +411,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    136.93441772460938,
-    50.58157730102539,
-    136.9525604248047,
-    50.59222412109375
+    136.934418,
+    50.581577,
+    136.95256,
+    50.592224
 ],
-  "geometry": {"coordinates":[[[136.93927001953125,50.58157730102539],[136.93441772460938,50.58357620239258],[136.93586730957031,50.59222412109375],[136.94940185546875,50.59083938598633],[136.95256042480469,50.585693359375],[136.93927001953125,50.58157730102539]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[136.93926999999999,50.581577],[136.93441799999999,50.583576],[136.935867,50.592224],[136.94940199999999,50.590839],[136.95256000000001,50.585693],[136.93926999999999,50.581577]]],"type":"Polygon"}
 }

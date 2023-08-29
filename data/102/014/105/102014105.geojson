@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000097,
     "geom:area_square_m":705831.201653,
-    "geom:bbox":"103.593193054,54.0260848999,103.609779358,54.0358314514",
+    "geom:bbox":"103.593193,54.026085,103.609779,54.035831",
     "geom:latitude":54.031093,
     "geom:longitude":103.601673,
     "gn:latitude":54.0279,
@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u0648\u0627\u06cc\u0627 \u0627\u0648\u062f\u0627"
+    ],
     "name:ces_x_preferred":[
         "Novaja Uda"
     ],
@@ -33,11 +36,20 @@
     "name:ind_x_preferred":[
         "Novaya Uda"
     ],
+    "name:nno_x_preferred":[
+        "Novaja Uda"
+    ],
+    "name:nob_x_preferred":[
+        "Novaja Uda"
+    ],
     "name:nor_x_preferred":[
         "Novaja Uda"
     ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u0430\u044f \u0423\u0434\u0430"
+    ],
+    "name:sqi_x_preferred":[
+        "Novaja Uda"
     ],
     "name:tat_x_preferred":[
         "\u042f\u04a3\u0430 \u0423\u0434\u0430"
@@ -80,7 +92,7 @@
         "wk:page":"Novaya Uda, Irkutsk Oblast"
     },
     "wof:country":"RU",
-    "wof:geomhash":"f72b42d32545688f87d060cb4941cae7",
+    "wof:geomhash":"2910405095ada0c82ff10a7460551f39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":102014105,
-    "wof:lastmodified":1566615090,
+    "wof:lastmodified":1690858774,
     "wof:name":"Novaya Uda",
     "wof:parent_id":1108737259,
     "wof:placetype":"locality",
@@ -102,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    103.59319305419922,
-    54.02608489990234,
-    103.60977935791016,
-    54.03583145141602
+    103.593193,
+    54.026085,
+    103.609779,
+    54.035831
 ],
-  "geometry": {"coordinates":[[[103.60977935791016,54.03016662597656],[103.6092529296875,54.02608489990234],[103.60477447509766,54.02716827392578],[103.60253143310547,54.02769470214844],[103.59491729736328,54.02949905395508],[103.59319305419922,54.03413772583008],[103.59652709960938,54.03583145141602],[103.6070556640625,54.03305435180664],[103.60977935791016,54.03016662597656]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[103.609779,54.030167],[103.609253,54.026085],[103.60477400000001,54.027168],[103.602531,54.027695],[103.594917,54.029499],[103.593193,54.034138],[103.59652699999999,54.035831],[103.607056,54.033054],[103.609779,54.030167]]],"type":"Polygon"}
 }

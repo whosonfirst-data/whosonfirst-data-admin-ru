@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
     "geom:area_square_m":935869.0757,
-    "geom:bbox":"94.3545837402,51.7038345337,94.3789978027,51.714138031",
+    "geom:bbox":"94.354584,51.703835,94.378998,51.714138",
     "geom:latitude":51.708613,
     "geom:longitude":94.366405,
     "gn:latitude":51.71472,
@@ -24,6 +24,9 @@
     "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Kizil"
+    ],
+    "name:aka_x_preferred":[
+        "Kyzyl"
     ],
     "name:ara_x_preferred":[
         "\u0643\u064a\u0632\u064a\u0644"
@@ -61,6 +64,9 @@
     "name:che_x_preferred":[
         "\u041a\u044b\u0437\u044b\u043b"
     ],
+    "name:crh_x_preferred":[
+        "Q\u0131z\u0131l"
+    ],
     "name:dan_x_preferred":[
         "Kyzyl"
     ],
@@ -88,10 +94,22 @@
     "name:fas_x_preferred":[
         "\u06a9\u06cc\u0632\u06cc\u0644"
     ],
+    "name:fas_x_variant":[
+        "\u0642\u0632\u0644"
+    ],
     "name:fin_x_preferred":[
         "Kyzyl"
     ],
     "name:fra_x_preferred":[
+        "Kyzyl"
+    ],
+    "name:frr_x_preferred":[
+        "Kysyl"
+    ],
+    "name:fry_x_preferred":[
+        "Kyzyl"
+    ],
+    "name:gle_x_preferred":[
         "Kyzyl"
     ],
     "name:guj_x_preferred":[
@@ -111,6 +129,9 @@
     ],
     "name:hun_x_preferred":[
         "Kizil"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0566\u0568\u056c"
     ],
     "name:ind_x_preferred":[
         "Kyzyl"
@@ -142,6 +163,9 @@
     "name:lit_x_preferred":[
         "Kyzylas"
     ],
+    "name:lld_x_preferred":[
+        "Kisil"
+    ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u092f\u091d\u0940\u0932"
     ],
@@ -156,6 +180,9 @@
     ],
     "name:myv_x_preferred":[
         "\u041a\u044b\u0437\u044b\u043b \u043e\u0448"
+    ],
+    "name:nan_x_preferred":[
+        "Kyzyl"
     ],
     "name:nld_x_preferred":[
         "Kyzyl"
@@ -187,8 +214,17 @@
     "name:rus_x_preferred":[
         "\u041a\u044b\u0437\u044b\u043b"
     ],
+    "name:sah_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c60\u1c5f\u1c6d\u1c61\u1c64\u1c5e"
+    ],
     "name:sco_x_preferred":[
         "Kyzyl"
+    ],
+    "name:sgs_x_preferred":[
+        "K\u012bz\u012bls"
     ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dba\u0dd2\u0dc3\u0dd2\u0dbd\u0dca"
@@ -198,6 +234,9 @@
     ],
     "name:spa_x_preferred":[
         "Kyzyl"
+    ],
+    "name:spa_x_variant":[
+        "Kizil"
     ],
     "name:sqi_x_preferred":[
         "K\u00ebz\u00eblli"
@@ -244,6 +283,9 @@
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0626\u0632\u0644"
     ],
+    "name:urd_x_variant":[
+        "\u0642\u0650\u0632\u0644"
+    ],
     "name:uzb_x_preferred":[
         "Qizil"
     ],
@@ -258,6 +300,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u514b\u5b5c\u52d2"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e5\u10d8\u10d6\u10d8\u10da\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u514b\u5b5c\u52d2"
@@ -301,7 +346,7 @@
         "wk:page":"Kyzyl"
     },
     "wof:country":"RU",
-    "wof:geomhash":"5f35a51e5cb079444fb40f6b46f477d5",
+    "wof:geomhash":"83c9d6cf161ff15814dfd0d6480244fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -313,7 +358,7 @@
         }
     ],
     "wof:id":102014349,
-    "wof:lastmodified":1566615112,
+    "wof:lastmodified":1690858786,
     "wof:name":"Kyzyl",
     "wof:parent_id":890487223,
     "wof:placetype":"locality",
@@ -325,10 +370,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    94.35458374023438,
-    51.70383453369141,
-    94.37899780273438,
-    51.71413803100586
+    94.354584,
+    51.703835,
+    94.378998,
+    51.714138
 ],
-  "geometry": {"coordinates":[[[94.3570556640625,51.70975112915039],[94.37149810791016,51.71413803100586],[94.37202453613281,51.71327590942383],[94.37486267089844,51.70872116088867],[94.37897491455078,51.70705413818359],[94.37899780273438,51.70705413818359],[94.37816619873047,51.70650100708008],[94.35913848876953,51.70488739013672],[94.35530853271484,51.70386123657227],[94.35516357421875,51.70383453369141],[94.35458374023438,51.70444488525391],[94.35808563232422,51.70685958862305],[94.35639190673828,51.70955657958984],[94.3570556640625,51.70975112915039]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[94.357056,51.709751],[94.371498,51.714138],[94.37202499999999,51.713276],[94.374863,51.708721],[94.378975,51.707054],[94.378998,51.707054],[94.37816599999999,51.706501],[94.359138,51.704887],[94.35530900000001,51.703861],[94.355164,51.703835],[94.354584,51.704445],[94.358086,51.70686],[94.356392,51.709557],[94.357056,51.709751]]],"type":"Polygon"}
 }

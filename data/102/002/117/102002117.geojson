@@ -29,6 +29,9 @@
     "name:azb_x_preferred":[
         "\u0648\u0644\u06cc\u06a9\u06cc \u0627\u0648\u0633\u062a\u06cc\u0648\u0642"
     ],
+    "name:bak_x_preferred":[
+        "\u0411\u04e9\u0439\u04e9\u043a \u0423\u0441\u0442\u044e\u0433"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u044f\u043b\u0456\u043a\u0456 \u0423\u0441\u0446\u044e\u0433"
     ],
@@ -42,6 +45,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0438 \u0423\u0441\u0442\u044e\u0433"
     ],
+    "name:cat_x_preferred":[
+        "Veliki \u00dastiug"
+    ],
     "name:ceb_x_preferred":[
         "Velikiy Ustyug"
     ],
@@ -51,11 +57,20 @@
     "name:che_x_preferred":[
         "\u0423\u0441\u0442\u044e\u0433"
     ],
+    "name:crh_x_preferred":[
+        "Velikiy Ust\u00fcg"
+    ],
+    "name:dan_x_preferred":[
+        "Veliki Ustjug"
+    ],
     "name:deu_x_preferred":[
         "Weliki Ustjug"
     ],
     "name:diq_x_preferred":[
         "Veliky Ustyug"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b5\u03bb\u03af\u03ba\u03b9 \u039f\u03cd\u03c3\u03c4\u03b9\u03bf\u03c5\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Veliky Ustyug"
@@ -114,8 +129,17 @@
     "name:lit_x_preferred":[
         "Didysis Ustiugas"
     ],
+    "name:mal_x_preferred":[
+        "\u0d35\u0d46\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d3f \u0d09\u0d38\u0d4d\u0d24\u0d4d\u0d2f\u0d41\u0d17\u0d4d"
+    ],
     "name:mhr_x_preferred":[
         "\u041a\u0443\u0433\u0443 \u0423\u0441\u0442\u044e\u0433"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438 \u0423\u0441\u0442\u0458\u0443\u0433"
+    ],
+    "name:nan_x_preferred":[
+        "Veliky Ustyug"
     ],
     "name:nau_x_preferred":[
         "Veliky Ustyug"
@@ -141,6 +165,9 @@
     "name:por_x_preferred":[
         "Veliky Ustyug"
     ],
+    "name:ron_x_preferred":[
+        "Veliki Ustiug"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0423\u0441\u0442\u044e\u0433"
     ],
@@ -155,6 +182,9 @@
     ],
     "name:swe_x_preferred":[
         "Velikij Ustjug"
+    ],
+    "name:swe_x_variant":[
+        "Velikij Ustiug"
     ],
     "name:tat_x_preferred":[
         "\u0411\u04e9\u0435\u043a \u0423\u0441\u0442\u044e\u0433"
@@ -330,7 +360,7 @@
         }
     ],
     "wof:id":102002117,
-    "wof:lastmodified":1636496983,
+    "wof:lastmodified":1690859183,
     "wof:name":"Velikiy Ustyug",
     "wof:parent_id":1108737321,
     "wof:placetype":"locality",

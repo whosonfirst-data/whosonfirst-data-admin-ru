@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00052,
     "geom:area_square_m":3546997.059957,
-    "geom:bbox":"85.0619430542,56.4896659851,85.1067504883,56.5091400146",
+    "geom:bbox":"85.061943,56.489666,85.10675,56.50914",
     "geom:latitude":56.498688,
     "geom:longitude":85.083873,
     "gn:population":485519,
@@ -23,8 +23,14 @@
     "name:afr_x_preferred":[
         "Tomsk"
     ],
+    "name:alt_x_preferred":[
+        "\u0422\u043e\u043c-\u0422\u0443\u0440\u0430"
+    ],
     "name:ara_x_preferred":[
         "\u062a\u0648\u0645\u0633\u0643"
+    ],
+    "name:avk_x_preferred":[
+        "Tomsk"
     ],
     "name:azb_x_preferred":[
         "\u062a\u0648\u0645\u0633\u06a9"
@@ -35,11 +41,17 @@
     "name:bak_x_preferred":[
         "\u0422\u043e\u043c\u0441\u043a"
     ],
+    "name:bak_x_variant":[
+        "\u0422\u043e\u043c\u0441\u043a \u04a1\u0430\u043b\u0430\u04bb\u044b"
+    ],
     "name:bel_x_preferred":[
         "\u0422\u043e\u043c\u0441\u043a"
     ],
     "name:ben_x_preferred":[
         "\u099f\u09cd\u09ae\u09b8\u09cd\u0995"
+    ],
+    "name:ben_x_variant":[
+        "\u09a4\u09cb\u09ae\u09b8\u09cd\u0995"
     ],
     "name:bre_x_preferred":[
         "Tomsk"
@@ -67,6 +79,12 @@
     ],
     "name:chv_x_preferred":[
         "\u0422\u043e\u043c\u0441\u043a"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062a\u06c6\u0645\u0633\u06a9"
+    ],
+    "name:crh_x_preferred":[
+        "Tomsk"
     ],
     "name:csb_x_preferred":[
         "Tomsk"
@@ -110,11 +128,17 @@
     "name:fra_x_preferred":[
         "Tomsk"
     ],
+    "name:frr_x_preferred":[
+        "Tomsk"
+    ],
     "name:gle_x_preferred":[
         "Tomsk"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acb\u0aae\u0acd\u0ab8\u0acd\u0a95"
+    ],
+    "name:hak_x_preferred":[
+        "Tomsk"
     ],
     "name:haw_x_preferred":[
         "Tomik"
@@ -124,6 +148,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0924\u094b\u092e\u094d\u0938\u094d\u0915"
+    ],
+    "name:hrv_x_preferred":[
+        "Tomsk"
     ],
     "name:hsb_x_preferred":[
         "Tomsk"
@@ -173,6 +200,9 @@
     "name:lit_x_preferred":[
         "Tomskas"
     ],
+    "name:lld_x_preferred":[
+        "Tomsk"
+    ],
     "name:mar_x_preferred":[
         "\u0924\u094b\u092e\u094d\u0938\u094d\u0915"
     ],
@@ -195,6 +225,9 @@
         "\u0422\u043e\u043c\u044c \u043e\u0448"
     ],
     "name:nah_x_preferred":[
+        "Tomsk"
+    ],
+    "name:nan_x_preferred":[
         "Tomsk"
     ],
     "name:nep_x_preferred":[
@@ -257,6 +290,9 @@
     "name:swe_x_preferred":[
         "Tomsk"
     ],
+    "name:szl_x_preferred":[
+        "Tomsk"
+    ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bbe\u0bae\u0bcd\u0bb8\u0bcd\u0b95\u0bcd"
     ],
@@ -274,6 +310,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e2d\u0e21\u0e2a\u0e04\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e2d\u0e21\u0e2a\u0e04\u0e4c"
     ],
     "name:tuk_x_preferred":[
         "Tomsk"
@@ -293,6 +332,12 @@
     "name:urd_x_preferred":[
         "\u0679\u0648\u0645\u0633\u06a9"
     ],
+    "name:uzb_x_preferred":[
+        "Tomsk"
+    ],
+    "name:vec_x_preferred":[
+        "Tomsk"
+    ],
     "name:vep_x_preferred":[
         "Tomsk"
     ],
@@ -301,6 +346,12 @@
     ],
     "name:war_x_preferred":[
         "Tomsk"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6258\u6728\u65af\u514b"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e2\u10dd\u10db\u10e1\u10d9\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u6258\u6728\u65af\u514b"
@@ -344,7 +395,7 @@
         "wk:page":"Tomsk"
     },
     "wof:country":"RU",
-    "wof:geomhash":"db05f54784f676875321e73f775b8ca5",
+    "wof:geomhash":"a883ed686af9ac1422b5cd23b4aa9f1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -356,7 +407,7 @@
         }
     ],
     "wof:id":102012673,
-    "wof:lastmodified":1566614991,
+    "wof:lastmodified":1690858718,
     "wof:megacity":0,
     "wof:name":"",
     "wof:parent_id":890487053,
@@ -370,10 +421,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    85.06194305419922,
-    56.48966598510742,
-    85.10675048828125,
-    56.50914001464844
+    85.061943,
+    56.489666,
+    85.10675,
+    56.50914
 ],
-  "geometry": {"coordinates":[[[85.0921630859375,56.50650024414062],[85.09835815429688,56.50411224365234],[85.09642028808594,56.49919509887695],[85.10633087158203,56.49527740478516],[85.10675048828125,56.49341583251953],[85.10091400146484,56.48966598510742],[85.08936309814453,56.49369430541992],[85.08200073242188,56.49052810668945],[85.06194305419922,56.49375152587891],[85.06816864013672,56.50297164916992],[85.08116912841797,56.50897216796875],[85.08535766601562,56.50914001464844],[85.0921630859375,56.50650024414062]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[85.092163,56.5065],[85.098358,56.504112],[85.09641999999999,56.499195],[85.106331,56.495277],[85.10675000000001,56.493416],[85.100914,56.489666],[85.08936300000001,56.493694],[85.08200100000001,56.490528],[85.061943,56.493752],[85.068169,56.502972],[85.081169,56.508972],[85.085358,56.50914],[85.092163,56.5065]]],"type":"Polygon"}
 }

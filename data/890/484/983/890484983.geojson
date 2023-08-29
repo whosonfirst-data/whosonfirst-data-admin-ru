@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u062a\u0631\u0627\u062f\u0646\u0648\u06cc "
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0442\u0440\u0430\u0434\u043d\u043e"
     ],
@@ -32,8 +35,14 @@
     "name:fra_x_preferred":[
         "Otradno\u00efe"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d8\u05e8\u05d0\u05d3\u05e0\u05d5\u05d9\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Otradnoe"
+    ],
+    "name:nan_x_preferred":[
+        "Otradnoye Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Otradnoe"
@@ -46,6 +55,9 @@
     ],
     "name:sco_x_preferred":[
         "Otradnoye Destrict"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041e\u0442\u0440\u0430\u0434\u043d\u043e\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0442\u0440\u0430\u0434\u043d\u0435"
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":890484983,
-    "wof:lastmodified":1566630693,
+    "wof:lastmodified":1690859937,
     "wof:name":"Otradnoe",
     "wof:parent_id":1108734693,
     "wof:placetype":"locality",

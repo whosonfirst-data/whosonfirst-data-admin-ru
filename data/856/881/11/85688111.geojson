@@ -49,6 +49,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0648\u0641\u0627\u0634\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0634\u0648\u06a4\u0627\u0634\u064a\u0627"
+    ],
     "name:azb_x_preferred":[
         "\u0686\u0648\u0648\u0627\u0634"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:ben_x_preferred":[
         "\u099a\u09c1\u09ad\u09be\u09b8 \u09b0\u09bf\u09aa\u09be\u09ac\u09b2\u09bf\u0995"
+    ],
+    "name:ben_x_variant":[
+        "\u099a\u09c1\u09ad\u09be\u09b6\u09bf\u09af\u09bc\u09be"
     ],
     "name:bos_x_preferred":[
         "\u010cuva\u0161ija"
@@ -190,6 +196,9 @@
     "name:ind_x_preferred":[
         "Chuvashia"
     ],
+    "name:ipk_x_preferred":[
+        "Sauvasiiq"
+    ],
     "name:ita_x_preferred":[
         "Ciuvascia"
     ],
@@ -205,11 +214,17 @@
     "name:kat_x_preferred":[
         "\u10e9\u10e3\u10d5\u10d0\u10e8\u10d4\u10d7\u10d8"
     ],
+    "name:kaz_x_preferred":[
+        "\u0427\u0443\u0432\u0430\u0448\u0438\u044f"
+    ],
     "name:kin_x_preferred":[
         "Cuvashiya"
     ],
     "name:kir_x_preferred":[
         "\u0427\u0443\u0432\u0430\u0448 \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b"
+    ],
+    "name:kir_x_variant":[
+        "\u0427\u0443\u0432\u0430\u0448\u0441\u0442\u0430\u043d"
     ],
     "name:koi_x_preferred":[
         "\u0427\u0443\u0432\u0430\u0448\u043c\u0443"
@@ -220,6 +235,9 @@
     "name:kor_x_preferred":[
         "\ucd94\ubc14\uc2dc \uacf5\ud654\uad6d"
     ],
+    "name:kur_x_preferred":[
+        "\u00c7uva\u015fistan"
+    ],
     "name:lat_x_preferred":[
         "Tschuvassia"
     ],
@@ -228,6 +246,9 @@
     ],
     "name:lit_x_preferred":[
         "\u010ciuva\u0161ija"
+    ],
+    "name:lmo_x_preferred":[
+        "Ciuvascia"
     ],
     "name:mar_x_preferred":[
         "\u091a\u0941\u0935\u093e\u0936\u093f\u092f\u093e \u092a\u094d\u0930\u091c\u093e\u0938\u0924\u094d\u0924\u093e\u0915"
@@ -294,6 +315,9 @@
     ],
     "name:por_x_preferred":[
         "Chuv\u00e1chia"
+    ],
+    "name:pus_x_preferred":[
+        "\u0686\u0648\u0627\u0634\u064a\u0627"
     ],
     "name:ron_x_preferred":[
         "Ciuva\u0219ia"
@@ -414,6 +438,9 @@
     ],
     "name:yue_x_preferred":[
         "\u695a\u74e6\u4ec0\u5171\u548c\u570b"
+    ],
+    "name:yue_x_variant":[
+        "\u695a\u74e6\u4ec0"
     ],
     "name:zho_x_preferred":[
         "\u695a\u74e6\u4ec0\u5171\u548c\u56fd"
@@ -555,7 +582,7 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1642541069,
+    "wof:lastmodified":1690859256,
     "wof:name":"Chuvash",
     "wof:parent_id":85632685,
     "wof:placetype":"region",

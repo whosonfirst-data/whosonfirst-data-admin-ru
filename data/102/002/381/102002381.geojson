@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000628,
     "geom:area_square_m":3313885.805372,
-    "geom:bbox":"177.468383789,64.7194137573,177.52281189,64.739112854",
+    "geom:bbox":"177.468384,64.719414,177.522812,64.739113",
     "geom:latitude":64.729622,
     "geom:longitude":177.498725,
     "gn:population":10332,
@@ -62,6 +62,12 @@
     "name:ces_x_preferred":[
         "Anadyr"
     ],
+    "name:che_x_preferred":[
+        "\u0410\u043d\u0430\u0434\u044b\u0440\u044c"
+    ],
+    "name:crh_x_preferred":[
+        "Anad\u0131r"
+    ],
     "name:deu_x_preferred":[
         "Anadyr"
     ],
@@ -86,6 +92,9 @@
     "name:eus_x_preferred":[
         "Anadir"
     ],
+    "name:eus_x_variant":[
+        "Anadyr"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0646\u0627\u062f\u06cc\u0631"
     ],
@@ -93,6 +102,12 @@
         "Anadyr"
     ],
     "name:fra_x_preferred":[
+        "Anadyr"
+    ],
+    "name:frr_x_preferred":[
+        "Anadyr"
+    ],
+    "name:gle_x_preferred":[
         "Anadyr"
     ],
     "name:guj_x_preferred":[
@@ -118,6 +133,9 @@
     ],
     "name:hun_x_preferred":[
         "Anadir"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0576\u0561\u0564\u056b\u0580"
     ],
     "name:ido_x_preferred":[
         "Anadir"
@@ -158,6 +176,12 @@
     "name:lit_x_preferred":[
         "Anadyris"
     ],
+    "name:lld_x_preferred":[
+        "Anadir"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0410\u043d\u0430\u0434\u044b\u0440\u044c"
+    ],
     "name:mhr_x_preferred":[
         "\u0410\u043d\u0430\u0434\u044b\u0440\u044c"
     ],
@@ -172,6 +196,9 @@
     ],
     "name:myv_x_preferred":[
         "\u0410\u043d\u0430\u0434\u044b\u0440\u044c \u043e\u0448"
+    ],
+    "name:nan_x_preferred":[
+        "Anadyr"
     ],
     "name:nld_x_preferred":[
         "Anadyr"
@@ -199,6 +226,9 @@
     ],
     "name:por_x_preferred":[
         "Anadyr"
+    ],
+    "name:pus_x_preferred":[
+        "\u0627\u0646\u0627\u062f\u064a\u0631"
     ],
     "name:ron_x_preferred":[
         "Anad\u00eer"
@@ -286,6 +316,9 @@
     ],
     "name:war_x_preferred":[
         "Anadyr"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u7eb3\u5fb7\u5c14"
     ],
     "name:yue_x_preferred":[
         "\u963f\u7d0d\u5fb7\u723e"
@@ -419,7 +452,7 @@
         "wk:page":"Anadyr (town)"
     },
     "wof:country":"RU",
-    "wof:geomhash":"98c395ab3090e6e7ea2046036dc0d0b8",
+    "wof:geomhash":"e6e513fa8fec5685cb23151b87e78c25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -431,7 +464,7 @@
         }
     ],
     "wof:id":102002381,
-    "wof:lastmodified":1566615715,
+    "wof:lastmodified":1690859225,
     "wof:megacity":0,
     "wof:name":"Anadyr",
     "wof:parent_id":1108733703,
@@ -445,10 +478,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    177.4683837890625,
-    64.71941375732422,
-    177.52281188964844,
-    64.7391128540039
+    177.468384,
+    64.719414,
+    177.522812,
+    64.739113
 ],
-  "geometry": {"coordinates":[[[177.46875,64.72544097900391],[177.47589111328125,64.72897338867188],[177.47592163085938,64.72897338867188],[177.49616997407099,64.7391128190141],[177.49617004394531,64.73911285400391],[177.49818087992989,64.73898758242707],[177.51980590820312,64.73764038085938],[177.52149963378906,64.73410797119141],[177.52281188964844,64.73141479492188],[177.50447082519531,64.72027587890625],[177.5030517578125,64.71941375732422],[177.49417114257812,64.72091674804688],[177.468505859375,64.72525024414062],[177.4683837890625,64.72528076171875],[177.46875,64.72544097900391]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[177.46875,64.725441],[177.47589099999999,64.728973],[177.475922,64.728973],[177.49617000000001,64.739113],[177.49617000000001,64.739113],[177.49818099999999,64.73898800000001],[177.51980599999999,64.73764],[177.5215,64.73410800000001],[177.52281199999999,64.731415],[177.504471,64.720276],[177.503052,64.719414],[177.49417099999999,64.720917],[177.46850599999999,64.72525],[177.46838399999999,64.725281],[177.46875,64.725441]]],"type":"Polygon"}
 }

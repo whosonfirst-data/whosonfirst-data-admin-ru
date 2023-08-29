@@ -64,6 +64,9 @@
     "name:est_x_preferred":[
         "Nojabrsk"
     ],
+    "name:eus_x_preferred":[
+        "Noiabrsk"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0648\u06cc\u0627\u0628\u0631\u0633\u06a9"
     ],
@@ -73,8 +76,14 @@
     "name:fra_x_preferred":[
         "No\u00efabrsk"
     ],
+    "name:gle_x_preferred":[
+        "Noyabrsk"
+    ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0aaf\u0abe\u0aac\u0ab0\u0acd\u0ab8\u0acd\u0a95"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d9\u05d0\u05d1\u05e8\u05e1\u05e7"
     ],
     "name:hin_x_preferred":[
         "\u0928\u0949\u092f\u093e\u092c\u0930\u0938\u094d\u0915"
@@ -106,6 +115,9 @@
     "name:lit_x_preferred":[
         "Nojabrskas"
     ],
+    "name:lld_x_preferred":[
+        "Noiabrsk"
+    ],
     "name:mar_x_preferred":[
         "\u0928\u0949\u092f\u092c\u0930\u094d\u0938\u094d\u0915"
     ],
@@ -113,6 +125,9 @@
         "\u041d\u043e\u044f\u0431\u0440\u044c\u0441\u043a"
     ],
     "name:msa_x_preferred":[
+        "Noyabrsk"
+    ],
+    "name:nan_x_preferred":[
         "Noyabrsk"
     ],
     "name:nld_x_preferred":[
@@ -132,6 +147,9 @@
     ],
     "name:pol_x_preferred":[
         "Nojabrsk"
+    ],
+    "name:pol_x_variant":[
+        "Nojabr\u00b4sk"
     ],
     "name:ron_x_preferred":[
         "Noiabrsk"
@@ -175,6 +193,12 @@
     "name:urd_x_preferred":[
         "\u0646\u0648\u06cc\u0627\u0628\u0631\u0633\u06a9"
     ],
+    "name:uzb_x_preferred":[
+        "Noyabrsk"
+    ],
+    "name:vec_x_preferred":[
+        "Nojabr'sk"
+    ],
     "name:vep_x_preferred":[
         "Nojabr'sk"
     ],
@@ -186,6 +210,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8bfa\u4e9a\u5e03\u5c14\u65af\u514b"
+    ],
+    "name:zho_x_variant":[
+        "\u8bfa\u4e9a\u5e03\u91cc\u65af\u514b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Russia",
@@ -318,7 +345,7 @@
         }
     ],
     "wof:id":890479239,
-    "wof:lastmodified":1582330527,
+    "wof:lastmodified":1690859989,
     "wof:name":"Noyabr'sk",
     "wof:parent_id":1108733659,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000165,
     "geom:area_square_m":1338383.619688,
-    "geom:bbox":"140.239578247,48.9353904724,140.255447388,48.9487495422",
+    "geom:bbox":"140.239578,48.93539,140.255447,48.94875",
     "geom:latitude":48.942139,
     "geom:longitude":140.247662,
     "gn:latitude":48.97215,
@@ -67,6 +67,9 @@
     "name:est_x_preferred":[
         "Sovetskaja Gavan"
     ],
+    "name:eus_x_preferred":[
+        "Sovetskaia Gavan"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u0648\u062a\u0633\u06a9\u0627\u06cc\u0627 \u06af\u0627\u0648\u0627\u0646"
     ],
@@ -78,6 +81,9 @@
     ],
     "name:fra_x_variant":[
         "Sovetska\u00efa Gavan"
+    ],
+    "name:frr_x_preferred":[
+        "Sowetskaja Gawan"
     ],
     "name:hsb_x_preferred":[
         "Sowjetskaja Gawa\u0144"
@@ -97,6 +103,15 @@
     "name:kor_x_preferred":[
         "\uc18c\ubca0\uce20\uce74\uc57c\uac00\ubc18"
     ],
+    "name:lat_x_preferred":[
+        "Portus Augustus"
+    ],
+    "name:lav_x_preferred":[
+        "Sovetskaja Gava\u0146a"
+    ],
+    "name:nan_x_preferred":[
+        "Sovetskaya Gavan"
+    ],
     "name:nld_x_preferred":[
         "Sovjetskaja Gavan"
     ],
@@ -109,14 +124,23 @@
     "name:nor_x_preferred":[
         "Sovetskaja Gavan"
     ],
+    "name:oss_x_preferred":[
+        "\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f \u0413\u0430\u0432\u0430\u043d\u044c"
+    ],
     "name:pol_x_preferred":[
         "Sowiecka Gawa\u0144"
     ],
     "name:rus_x_preferred":[
         "\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f \u0413\u0430\u0432\u0430\u043d\u044c"
     ],
+    "name:spa_x_preferred":[
+        "Sovetskaya Gavan"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u043e\u0432\u0458\u0435\u0442\u0441\u043a\u0430\u0458\u0430 \u0413\u0430\u0432\u0430\u045a"
+    ],
+    "name:swe_x_preferred":[
+        "Sovjetskaja Gavan"
     ],
     "name:tat_x_preferred":[
         "\u0421\u043e\u0432\u0435\u0442 \u0413\u0430\u0432\u0430\u043d\u0435"
@@ -181,7 +205,7 @@
         "wk:page":"Sovetskaya Gavan"
     },
     "wof:country":"RU",
-    "wof:geomhash":"dbb6859659f3afe45ca406ba6e783c6e",
+    "wof:geomhash":"19283d92d2b40cf9593402eb89eaa6af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -193,7 +217,7 @@
         }
     ],
     "wof:id":102001561,
-    "wof:lastmodified":1566615309,
+    "wof:lastmodified":1690858906,
     "wof:name":"",
     "wof:parent_id":1108736763,
     "wof:placetype":"locality",
@@ -205,10 +229,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    140.2395782470703,
-    48.93539047241211,
-    140.2554473876953,
-    48.94874954223633
+    140.239578,
+    48.93539,
+    140.255447,
+    48.94875
 ],
-  "geometry": {"coordinates":[[[140.24847412109375,48.93539047241211],[140.2437744140625,48.93661117553711],[140.23957824707031,48.9410285949707],[140.23971557617188,48.94652938842773],[140.24772644042969,48.94874954223633],[140.25239562988281,48.94752883911133],[140.25483703613281,48.9450569152832],[140.25544738769531,48.93997192382812],[140.2542724609375,48.93683242797852],[140.24847412109375,48.93539047241211]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[140.24847399999999,48.93539],[140.243774,48.936611],[140.23957799999999,48.941029],[140.23971599999999,48.946529],[140.247726,48.94875],[140.252396,48.947529],[140.25483700000001,48.945057],[140.255447,48.939972],[140.25427199999999,48.936832],[140.24847399999999,48.93539]]],"type":"Polygon"}
 }

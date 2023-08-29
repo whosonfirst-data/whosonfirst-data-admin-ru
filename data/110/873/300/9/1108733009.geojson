@@ -56,11 +56,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u064a\u0632\u0628\u0648\u0644\u064a\u0627\u0643\u0633\u0643\u064a"
+    ],
     "name:aze_x_preferred":[
         "Bi\u015fbul\u0259k rayonu"
     ],
     "name:bak_x_preferred":[
         "\u0411\u0438\u0448\u0431\u04af\u043b\u04d9\u043a \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0456\u0436\u0431\u0443\u043b\u044f\u0446\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Bizhbulyakskiy Rayon"
     ],
     "name:che_x_preferred":[
         "\u0411\u0438\u0436\u0431\u0443\u043b\u044f\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
@@ -68,8 +77,14 @@
     "name:chv_x_preferred":[
         "\u041f\u0443\u0448\u043a\u0103\u0440\u0442 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438\u043d \u041f\u0438\u0448\u043f\u04f3\u043b\u0435\u043a \u0440\u0430\u0439\u043e\u043d\u0115"
     ],
+    "name:crh_x_preferred":[
+        "Be\u015fb\u00fclek rayon\u0131"
+    ],
     "name:deu_x_preferred":[
         "Rajon Bischbuljak"
+    ],
+    "name:deu_x_variant":[
+        "Bischbuljakski rajon"
     ],
     "name:eng_x_preferred":[
         "Bizhbuljakskiy"
@@ -80,6 +95,9 @@
     ],
     "name:est_x_preferred":[
         "Bi\u017ebuljaki rajoon"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0628\u06cc\u0698\u0628\u0648\u0644\u06cc\u0627\u06a9\u0633\u06a9\u06cc"
     ],
     "name:fin_x_preferred":[
         "Bi\u017ebuljakin piiri"
@@ -99,8 +117,14 @@
     "name:kat_x_preferred":[
         "\u10d1\u10d8\u10df\u10d1\u10e3\u10da\u10d8\u10d0\u10d9\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
+    "name:mhr_x_preferred":[
+        "\u0411\u0438\u0436\u0431\u0443\u043b\u044f\u043a \u043a\u0443\u043d\u0434\u0435\u043c"
+    ],
     "name:myv_x_preferred":[
         "\u0411\u0438\u0436\u0431\u0443\u043b\u044f\u043a\u043e\u043d\u044c \u0431\u0443\u0435"
+    ],
+    "name:nan_x_preferred":[
+        "Bizhbulyaksky Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Bizjboeljakskiy rayon"
@@ -113,6 +137,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0411\u0438\u0448\u0431\u04af\u043b\u04d9\u043a \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
+    "name:tur_x_preferred":[
+        "Be\u015fb\u00fclek ili"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0436\u0431\u0443\u043b\u044f\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -163,7 +190,7 @@
         }
     ],
     "wof:id":1108733009,
-    "wof:lastmodified":1627522546,
+    "wof:lastmodified":1690859330,
     "wof:name":"Bizhbuljakskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

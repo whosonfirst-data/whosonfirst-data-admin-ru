@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
     "geom:area_square_m":207057.237176,
-    "geom:bbox":"85.2441940308,52.5513381958,85.2552490234,52.5616493225",
+    "geom:bbox":"85.244194,52.551338,85.255249,52.561649",
     "geom:latitude":52.555775,
     "geom:longitude":85.249281,
     "gn:latitude":52.53639,
@@ -22,7 +22,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:alt_x_preferred":[
+        "\u0408\u0430\u0448-\u0422\u0443\u0440\u0430"
+    ],
     "name:ara_x_preferred":[
+        "\u0628\u064a\u064a\u0633\u0643"
+    ],
+    "name:arz_x_preferred":[
         "\u0628\u064a\u064a\u0633\u0643"
     ],
     "name:azb_x_preferred":[
@@ -46,6 +52,9 @@
     "name:cat_x_preferred":[
         "Biysk"
     ],
+    "name:cat_x_variant":[
+        "Bi\u00efsk"
+    ],
     "name:ceb_x_preferred":[
         "Biysk"
     ],
@@ -57,6 +66,9 @@
     ],
     "name:chu_x_preferred":[
         "\u0411\u0438\u0438\u0441\u043a\u044a"
+    ],
+    "name:crh_x_preferred":[
+        "Biysk"
     ],
     "name:cym_x_preferred":[
         "Biysk"
@@ -82,6 +94,9 @@
     "name:est_x_preferred":[
         "Biisk"
     ],
+    "name:eus_x_preferred":[
+        "Bisk"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u06cc\u06cc\u0633\u06a9"
     ],
@@ -90,6 +105,9 @@
     ],
     "name:fra_x_preferred":[
         "Bi\u00efsk"
+    ],
+    "name:gle_x_preferred":[
+        "Biysk"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abf\u0aaf\u0ab8\u0acd\u0a95"
@@ -108,6 +126,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0532\u056b\u0575\u057d\u056f"
+    ],
+    "name:ido_x_preferred":[
+        "Biysk"
     ],
     "name:ind_x_preferred":[
         "Biysk"
@@ -139,13 +160,22 @@
     "name:lit_x_preferred":[
         "Bijskas"
     ],
+    "name:lld_x_preferred":[
+        "Biisk"
+    ],
     "name:mar_x_preferred":[
         "\u092c\u093e\u092f\u093f\u0938\u094d\u0915"
     ],
     "name:mhr_x_preferred":[
         "\u0411\u0438\u0439\u0441\u043a"
     ],
+    "name:mon_x_preferred":[
+        "\u0411\u0438\u0439\u0441\u043a"
+    ],
     "name:msa_x_preferred":[
+        "Biysk"
+    ],
+    "name:nan_x_preferred":[
         "Biysk"
     ],
     "name:nld_x_preferred":[
@@ -223,6 +253,9 @@
     "name:uzb_x_preferred":[
         "Biysk"
     ],
+    "name:vec_x_preferred":[
+        "Bijsk"
+    ],
     "name:vep_x_preferred":[
         "Biisk"
     ],
@@ -231,6 +264,9 @@
     ],
     "name:war_x_preferred":[
         "Biysk"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6bd4\u65af\u514b"
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u65af\u514b"
@@ -272,7 +308,7 @@
         "wk:page":"Biysk"
     },
     "wof:country":"RU",
-    "wof:geomhash":"123b8b57cf9783237caf121cbe5f707e",
+    "wof:geomhash":"2bc1d171fdf71294b5f4575479b5393c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -284,7 +320,7 @@
         }
     ],
     "wof:id":102013567,
-    "wof:lastmodified":1566615034,
+    "wof:lastmodified":1690858745,
     "wof:name":"Biysk",
     "wof:parent_id":1108732993,
     "wof:placetype":"locality",
@@ -296,10 +332,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    85.24419403076172,
-    52.55133819580078,
-    85.2552490234375,
-    52.56164932250977
+    85.244194,
+    52.551338,
+    85.255249,
+    52.561649
 ],
-  "geometry": {"coordinates":[[[85.24419403076172,52.5534782409668],[85.2552490234375,52.56164932250977],[85.25218963623047,52.55646896362305],[85.24610137939453,52.55133819580078],[85.24419403076172,52.5534782409668]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[85.24419399999999,52.553478],[85.25524900000001,52.561649],[85.25219,52.556469],[85.246101,52.551338],[85.24419399999999,52.553478]]],"type":"Polygon"}
 }

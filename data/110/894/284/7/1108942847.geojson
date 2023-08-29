@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"37.7033396272,55.6188433164,37.7033396272,55.6188433164",
+    "geom:bbox":"37.70334,55.618843,37.70334,55.618843",
     "geom:latitude":55.618843,
     "geom:longitude":37.70334,
     "gn:country":"RU",
@@ -26,6 +26,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0631\u062e\u0648\u0648\u0648-\u0628\u0648\u0631\u06cc\u0633\u0648\u0648\u0648 \u0633\u0648\u0631\u0646\u0648\u06cc"
+    ],
     "name:ceb_x_preferred":[
         "Orekhovo-Borisovo Severnoye"
     ],
@@ -38,8 +41,14 @@
     "name:fra_x_preferred":[
         "Orekhovo-Borissovo Severno\u00efe"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6\u05e4\u05d5\u05df \u05d0\u05d5\u05e8\u05d7\u05d5\u05d1\u05d5-\u05d1\u05d5\u05e8\u05d9\u05e1\u05d5\u05d1\u05d5"
+    ],
     "name:ita_x_preferred":[
         "Orechovo-Borisovo Severnoe"
+    ],
+    "name:nan_x_preferred":[
+        "Orekhovo-Borisovo Severnoye Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Orechovo-Borisovo Severnoe"
@@ -79,7 +88,7 @@
     },
     "wof:country":"RU",
     "wof:created":1491363358,
-    "wof:geomhash":"7bf34bb143fb61e1cf2c0f50f25b5ec1",
+    "wof:geomhash":"1902154414af2ef1163524afcbd60f02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1108942847,
-    "wof:lastmodified":1566627422,
+    "wof:lastmodified":1690859737,
     "wof:name":"Orekhovo-Borisovo Severnoye",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",
@@ -105,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    37.70333962721729,
-    55.61884331643553,
-    37.70333962721729,
-    55.61884331643553
+    37.70334,
+    55.618843,
+    37.70334,
+    55.618843
 ],
-  "geometry": {"coordinates":[37.70333962721729,55.61884331643553],"type":"Point"}
+  "geometry": {"coordinates":[37.70334,55.618843],"type":"Point"}
 }

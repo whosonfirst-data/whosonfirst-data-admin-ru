@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000299,
     "geom:area_square_m":2349835.158885,
-    "geom:bbox":"40.0628318787,50.5066375732,40.0958328247,50.5231399536",
+    "geom:bbox":"40.062832,50.506638,40.095833,50.52314",
     "geom:latitude":50.514889,
     "geom:longitude":40.079229,
     "gn:latitude":50.5178,
@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:bel_x_preferred":[
+        "\u0410\u043b\u044f\u043a\u0441\u0430\u043d\u0434\u0440\u0430\u045e\u043a\u0430 \u0414\u0430\u043d\u0441\u043a\u0430\u044f"
+    ],
     "name:che_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043a\u0430 \u0414\u043e\u043d\u0441\u043a\u0430\u044f"
     ],
@@ -30,11 +33,23 @@
     "name:nld_x_preferred":[
         "Aleksandrovka Donskaya"
     ],
+    "name:nno_x_preferred":[
+        "Aleksandrovka Donskaja"
+    ],
+    "name:nob_x_preferred":[
+        "Aleksandrovka Donskaja"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043a\u0430-\u0414\u043e\u043d\u0441\u043a\u0430\u044f"
     ],
     "name:rus_x_variant":[
         "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043a\u0430 \u0414\u043e\u043d\u0441\u043a\u0430\u044f"
+    ],
+    "name:sqi_x_preferred":[
+        "Aleksandrovka Donskaja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0456\u0432\u043a\u0430 \u0414\u043e\u043d\u0441\u044c\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Aleksandrovo-Donskaya"
@@ -71,7 +86,7 @@
         "wd:id":"Q16272831"
     },
     "wof:country":"RU",
-    "wof:geomhash":"49d1db4a93f1465d00a2f8cd656c3254",
+    "wof:geomhash":"fc27058ec87bdb531fa48dc620653ca3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +98,7 @@
         }
     ],
     "wof:id":102006281,
-    "wof:lastmodified":1566615343,
+    "wof:lastmodified":1690858935,
     "wof:name":"Aleksandrovka Donskaya",
     "wof:parent_id":1108735791,
     "wof:placetype":"locality",
@@ -93,10 +108,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    40.06283187866211,
-    50.50663757324219,
-    40.09583282470703,
-    50.52313995361328
+    40.062832,
+    50.506638,
+    40.095833,
+    50.52314
 ],
-  "geometry": {"coordinates":[[[40.08433151245117,50.52144622802734],[40.09102630615234,50.52313995361328],[40.09583282470703,50.51408386230469],[40.09122085571289,50.5128059387207],[40.08736038208008,50.51174926757812],[40.06897354125977,50.50663757324219],[40.06283187866211,50.5138053894043],[40.06344604492188,50.51610946655273],[40.08433151245117,50.52144622802734]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[40.084332,50.521446],[40.091026,50.52314],[40.095833,50.514084],[40.091221,50.512806],[40.08736,50.511749],[40.068974,50.506638],[40.062832,50.513805],[40.063446,50.516109],[40.084332,50.521446]]],"type":"Polygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000419,
     "geom:area_square_m":3074588.999584,
-    "geom:bbox":"54.7933883667,53.6228904724,54.8208351135,53.6445007324",
+    "geom:bbox":"54.793388,53.62289,54.820835,53.644501",
     "geom:latitude":53.63188,
     "geom:longitude":54.804831,
     "gn:latitude":53.6324,
@@ -22,11 +22,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0642\u064a\u0631\u063a\u064a\u0632 \u0645\u064a\u0627\u0643\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u0631\u062c\u064a\u0632 \u0645\u064a\u0627\u0643\u0649"
+    ],
     "name:bak_x_preferred":[
         "\u04a0\u044b\u0440\u0493\u044b\u0499-\u041c\u0438\u04d9\u043a\u04d9"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0456\u0440\u0433\u0456\u0437-\u041c\u0456\u044f\u043a\u0456"
+    ],
     "name:ceb_x_preferred":[
         "Kirgiz-Miyaki"
+    ],
+    "name:crh_x_preferred":[
+        "Kirgiz-Miyaki"
+    ],
+    "name:deu_x_preferred":[
+        "Kirgis-Mijaki"
     ],
     "name:eng_x_preferred":[
         "Kirgiz-Miyaki"
@@ -37,7 +52,16 @@
     "name:hye_x_preferred":[
         "\u053f\u056b\u0580\u0563\u056b\u0566-\u0544\u056b\u0575\u0561\u056f\u056b"
     ],
+    "name:nan_x_preferred":[
+        "Kirgiz-Miyaki"
+    ],
     "name:nld_x_preferred":[
+        "Kirgiz-Mijaki"
+    ],
+    "name:nno_x_preferred":[
+        "Kirgiz-Mijaki"
+    ],
+    "name:nob_x_preferred":[
         "Kirgiz-Mijaki"
     ],
     "name:nor_x_preferred":[
@@ -48,6 +72,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0440\u0433\u0438\u0437-\u041c\u0438\u044f\u043a\u0438"
+    ],
+    "name:sqi_x_preferred":[
+        "Kirgiz-Mijaki"
     ],
     "name:tat_x_preferred":[
         "\u041a\u044b\u0440\u0433\u044b\u0437-\u041c\u0438\u044f\u043a\u04d9"
@@ -99,7 +126,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5addd6917d1c2a741319ff6d6750d034",
+    "wof:geomhash":"4ca4d388c8a664fb6af28ab992371221",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,7 +136,7 @@
         }
     ],
     "wof:id":102010355,
-    "wof:lastmodified":1582329795,
+    "wof:lastmodified":1690859016,
     "wof:name":"Kirgiz-Miyaki",
     "wof:parent_id":1108735129,
     "wof:placetype":"locality",
@@ -121,10 +148,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    54.79338836669922,
-    53.62289047241211,
-    54.82083511352539,
-    53.64450073242188
+    54.793388,
+    53.62289,
+    54.820835,
+    53.644501
 ],
-  "geometry": {"coordinates":[[[54.79375076293945,53.63083267211914],[54.79349899291992,53.63925170898438],[54.79338836669922,53.64302825927734],[54.80397033691406,53.64450073242188],[54.80719375610352,53.63824844360352],[54.81147384643555,53.63525009155273],[54.8178596496582,53.63375091552734],[54.81816482543945,53.63327789306641],[54.82083511352539,53.62930679321289],[54.82025146484375,53.62494277954102],[54.82008361816406,53.623779296875],[54.80227661132812,53.62316513061523],[54.79399871826172,53.62289047241211],[54.79375076293945,53.63083267211914]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[54.793751,53.630833],[54.793499,53.639252],[54.793388,53.643028],[54.80397,53.644501],[54.807194,53.638248],[54.811474,53.63525],[54.81786,53.633751],[54.818165,53.633278],[54.820835,53.629307],[54.820251,53.624943],[54.820084,53.623779],[54.802277,53.623165],[54.793999,53.62289],[54.793751,53.630833]]],"type":"Polygon"}
 }

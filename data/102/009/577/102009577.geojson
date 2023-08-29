@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000402,
     "geom:area_square_m":2861407.595189,
-    "geom:bbox":"46.2104721069,54.8307762146,46.2444458008,54.8514709473",
+    "geom:bbox":"46.210472,54.830776,46.244446,54.851471",
     "geom:latitude":54.84157,
     "geom:longitude":46.226382,
     "gn:latitude":54.84767,
@@ -52,6 +52,9 @@
     "name:chv_x_preferred":[
         "\u0102\u0440\u0434\u0430\u043d"
     ],
+    "name:crh_x_preferred":[
+        "Ardatov"
+    ],
     "name:deu_x_preferred":[
         "Ardatow"
     ],
@@ -62,6 +65,9 @@
         "Ardatov"
     ],
     "name:est_x_preferred":[
+        "Ardatov"
+    ],
+    "name:eus_x_preferred":[
         "Ardatov"
     ],
     "name:fas_x_preferred":[
@@ -91,6 +97,9 @@
     "name:kor_x_preferred":[
         "\uc544\ub974\ub2e4\ud1a0\ud504"
     ],
+    "name:lat_x_preferred":[
+        "Ardatovia"
+    ],
     "name:lav_x_preferred":[
         "Ardatova"
     ],
@@ -99,6 +108,12 @@
     ],
     "name:mdf_x_preferred":[
         "\u0410\u0440\u0434\u0430\u0442\u043e\u0432"
+    ],
+    "name:myv_x_preferred":[
+        "\u041e\u0440\u0434\u0430\u043d\u044c\u0431\u0443\u0435"
+    ],
+    "name:nan_x_preferred":[
+        "Ardatov"
     ],
     "name:nld_x_preferred":[
         "Ardatov"
@@ -115,6 +130,9 @@
     "name:oci_x_preferred":[
         "Ardatov"
     ],
+    "name:oss_x_preferred":[
+        "\u0410\u0440\u0434\u0430\u0442\u043e\u0432"
+    ],
     "name:pih_x_preferred":[
         "Ardatov"
     ],
@@ -129,6 +147,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0410\u0440\u0434\u0430\u0442\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Ardatov"
     ],
     "name:tat_x_preferred":[
         "\u0410\u0440\u0434\u0430\u0442\u043e\u0432"
@@ -195,7 +216,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3d94357bb250a880d33b6adca85d3a32",
+    "wof:geomhash":"7151792e045f4857ea83060aa703c63f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -205,7 +226,7 @@
         }
     ],
     "wof:id":102009577,
-    "wof:lastmodified":1582329775,
+    "wof:lastmodified":1690858860,
     "wof:name":"Ardatov",
     "wof:parent_id":1108732763,
     "wof:placetype":"locality",
@@ -217,10 +238,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.21047210693359,
-    54.83077621459961,
-    46.24444580078125,
-    54.85147094726562
+    46.210472,
+    54.830776,
+    46.244446,
+    54.851471
 ],
-  "geometry": {"coordinates":[[[46.21647262573242,54.84683227539062],[46.22044372558594,54.85088729858398],[46.22194290161133,54.85147094726562],[46.22594451904297,54.85055541992188],[46.23088836669922,54.84938812255859],[46.24444580078125,54.84624862670898],[46.24108505249023,54.84291839599609],[46.22975158691406,54.83158493041992],[46.22650146484375,54.83077621459961],[46.22302627563477,54.83227920532227],[46.21047210693359,54.83763885498047],[46.21647262573242,54.84683227539062]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[46.216473,54.846832],[46.220444,54.850887],[46.221943,54.851471],[46.225945,54.850555],[46.230888,54.849388],[46.244446,54.846249],[46.241085,54.842918],[46.229752,54.831585],[46.226501,54.830776],[46.223026,54.832279],[46.210472,54.837639],[46.216473,54.846832]]],"type":"Polygon"}
 }

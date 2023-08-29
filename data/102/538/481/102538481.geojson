@@ -19,6 +19,12 @@
     "name:aze_x_preferred":[
         "Vladivostok Beyn\u0259lxalq Hava Liman\u0131"
     ],
+    "name:ces_x_preferred":[
+        "Leti\u0161t\u011b Vladivostok"
+    ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Vladivostok"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Wladiwostok"
     ],
@@ -38,11 +44,17 @@
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d5\u05dc\u05d3\u05d9\u05d5\u05d5\u05e1\u05d8\u05d5\u05e7"
     ],
+    "name:heb_x_variant":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05df-\u05dc\u05d0\u05d5\u05de\u05d9 \u05d5\u05dc\u05d3\u05d9\u05d5\u05d5\u05e1\u05d8\u05d5\u05e7"
+    ],
     "name:hun_x_preferred":[
         "Vlagyivosztoki nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
     ],
     "name:hye_x_preferred":[
         "\u054e\u056c\u0561\u0564\u056b\u057e\u0578\u057d\u057f\u0578\u056f"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Vladivostok"
     ],
     "name:jpn_x_preferred":[
         "\u30a6\u30e9\u30b8\u30aa\u30b9\u30c8\u30af\u7a7a\u6e2f"
@@ -89,6 +101,9 @@
     "name:zho_x_preferred":[
         "\u6d77\u53c3\u5d34\u570b\u969b\u6a5f\u5834"
     ],
+    "name:zho_x_variant":[
+        "\u7b26\u62c9\u8fea\u6c83\u65af\u6258\u514b\u570b\u969b\u6a5f\u5834"
+    ],
     "oa:elevation_ft":"46",
     "oa:type":"medium_airport",
     "src:geom":"wikidata",
@@ -121,7 +136,7 @@
         }
     ],
     "wof:id":102538481,
-    "wof:lastmodified":1631746967,
+    "wof:lastmodified":1690858951,
     "wof:name":"Vladivostok Airport",
     "wof:parent_id":85688023,
     "wof:placetype":"campus",

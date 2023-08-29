@@ -40,11 +40,17 @@
     "name:als_x_preferred":[
         "Moskau"
     ],
+    "name:alt_x_preferred":[
+        "\u041c\u043e\u0441\u043a\u0432\u0430"
+    ],
     "name:amh_x_preferred":[
         "\u121e\u1235\u12ae"
     ],
     "name:ang_x_preferred":[
         "Mosco\u01bf"
+    ],
+    "name:anp_x_preferred":[
+        "\u092e\u0949\u0938\u094d\u0915\u094b"
     ],
     "name:ara_x_preferred":[
         "\u0645\u0648\u0633\u0643\u0648"
@@ -55,6 +61,9 @@
     "name:arg_x_preferred":[
         "Mosc\u00fa"
     ],
+    "name:ary_x_preferred":[
+        "\u0645\u0648\u0633\u0643\u0648"
+    ],
     "name:arz_x_preferred":[
         "\u0645\u0648\u0633\u0643\u0648"
     ],
@@ -63,6 +72,12 @@
     ],
     "name:ava_x_preferred":[
         "\u041c\u043e\u0441\u043a\u0432\u0430"
+    ],
+    "name:avk_x_preferred":[
+        "Moskva"
+    ],
+    "name:awa_x_preferred":[
+        "\u092e\u0938\u094d\u0915\u094b"
     ],
     "name:aym_x_preferred":[
         "Mosku"
@@ -78,6 +93,9 @@
     ],
     "name:bam_x_preferred":[
         "Moscow"
+    ],
+    "name:ban_x_preferred":[
+        "Moskow"
     ],
     "name:bar_x_preferred":[
         "Moskau"
@@ -151,6 +169,9 @@
     "name:cos_x_preferred":[
         "Mosc\u00f9"
     ],
+    "name:cos_x_variant":[
+        "Mosca"
+    ],
     "name:crh_x_preferred":[
         "Moskva"
     ],
@@ -159,6 +180,9 @@
     ],
     "name:cym_x_preferred":[
         "Moscfa"
+    ],
+    "name:dag_x_preferred":[
+        "Moscow"
     ],
     "name:dan_x_preferred":[
         "Moskva"
@@ -227,6 +251,9 @@
     "name:fas_x_preferred":[
         "\u0645\u0633\u06a9\u0648"
     ],
+    "name:fij_x_preferred":[
+        "Moscow"
+    ],
     "name:fin_x_preferred":[
         "Moskova"
     ],
@@ -245,8 +272,14 @@
     "name:frr_x_preferred":[
         "Moskva"
     ],
+    "name:frr_x_variant":[
+        "Moskau"
+    ],
     "name:fry_x_preferred":[
         "Moskou"
+    ],
+    "name:fur_x_preferred":[
+        "Mosche"
     ],
     "name:gag_x_preferred":[
         "Moskva"
@@ -275,14 +308,23 @@
     "name:got_x_preferred":[
         "\ud800\udf3c\ud800\udf49\ud800\udf43\ud800\udf3a\ud800\udf45\ud800\udf30/Moskwa"
     ],
+    "name:gpe_x_preferred":[
+        "Moscow"
+    ],
     "name:grn_x_preferred":[
         "Mosku"
+    ],
+    "name:grn_x_variant":[
+        "Mosuku"
     ],
     "name:gsw_x_preferred":[
         "Moskau"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0ab8\u0acd\u0a95\u0acb"
+    ],
+    "name:guw_x_preferred":[
+        "Moscow"
     ],
     "name:hak_x_preferred":[
         "Mo\u030dk-s\u1e73\u0302-kh\u00f4"
@@ -395,6 +437,9 @@
     "name:kea_x_preferred":[
         "Muskovu"
     ],
+    "name:khm_x_preferred":[
+        "\u1798\u17c9\u17bc\u179f\u17d2\u1782\u17bc"
+    ],
     "name:kik_x_preferred":[
         "Moscow"
     ],
@@ -458,6 +503,9 @@
     "name:lit_x_preferred":[
         "Maskva"
     ],
+    "name:lld_x_preferred":[
+        "Moscau"
+    ],
     "name:lmo_x_preferred":[
         "Musca"
     ],
@@ -503,6 +551,9 @@
     "name:mon_x_preferred":[
         "\u041c\u043e\u0441\u043a\u0432\u0430"
     ],
+    "name:mos_x_preferred":[
+        "Moscow"
+    ],
     "name:mri_x_preferred":[
         "Mohikau"
     ],
@@ -535,6 +586,9 @@
     ],
     "name:nau_x_preferred":[
         "Moscow"
+    ],
+    "name:nav_x_preferred":[
+        "Halzhin Deezl\u00edn\u00ed"
     ],
     "name:nds_x_preferred":[
         "Moskau"
@@ -592,6 +646,9 @@
     ],
     "name:pap_x_preferred":[
         "Moskou"
+    ],
+    "name:pap_x_variant":[
+        "Mosku"
     ],
     "name:pcd_x_preferred":[
         "Moscou"
@@ -689,6 +746,9 @@
     "name:sme_x_preferred":[
         "Moskva"
     ],
+    "name:smn_x_preferred":[
+        "Moskova"
+    ],
     "name:smo_x_preferred":[
         "Moscow"
     ],
@@ -763,6 +823,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e2d\u0e2a\u0e42\u0e01"
+    ],
+    "name:tir_x_preferred":[
+        "\u121e\u1235\u12ae"
     ],
     "name:ton_x_preferred":[
         "Mosekou"
@@ -996,11 +1059,11 @@
     "src:population":"geonames",
     "wd:wordcount":17623,
     "wof:belongsto":[
+        85688085,
         102191581,
         85632685,
-        1108736095,
         874393555,
-        85688085
+        1108736095
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -1040,7 +1103,7 @@
     "wof:lang_x_official":[
         "rus"
     ],
-    "wof:lastmodified":1608688192,
+    "wof:lastmodified":1690859085,
     "wof:megacity":1,
     "wof:name":"Moscow",
     "wof:parent_id":1108736095,

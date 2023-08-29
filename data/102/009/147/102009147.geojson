@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000839,
     "geom:area_square_m":5845508.861684,
-    "geom:bbox":"53.0798072815,55.7149162292,53.1367759705,55.7382507324",
+    "geom:bbox":"53.079807,55.714916,53.136776,55.738251",
     "geom:latitude":55.726192,
     "geom:longitude":53.108286,
     "gn:latitude":55.72706,
@@ -41,7 +41,8 @@
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u044f\u043d\u0437\u0435\u043b\u0456\u043d\u0441\u043a"
     ],
     "name:bel_x_variant":[
-        "\u041c\u044f\u043d\u0437\u0435\u043b\u0456\u043d\u0441\u043a"
+        "\u041c\u044f\u043d\u0437\u0435\u043b\u0456\u043d\u0441\u043a",
+        "\u041c\u0435\u043d\u0437\u044f\u043b\u0456\u043d\u0441\u043a"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0435\u043d\u0437\u0435\u043b\u0438\u043d\u0441\u043a"
@@ -49,23 +50,41 @@
     "name:cat_x_preferred":[
         "Menzelinsk"
     ],
+    "name:cat_x_variant":[
+        "Minz\u00e4l\u00e4"
+    ],
     "name:ceb_x_preferred":[
         "Menzelinsk"
     ],
     "name:ces_x_preferred":[
         "Menzelinsk"
     ],
+    "name:ces_x_variant":[
+        "Minz\u00e4l\u00e4"
+    ],
     "name:che_x_preferred":[
         "\u041c\u0435\u043d\u0437\u0435\u043b\u0438\u043d\u0441\u043a"
     ],
+    "name:crh_x_preferred":[
+        "Menzelinsk"
+    ],
+    "name:dan_x_preferred":[
+        "Minz\u00e4l\u00e4"
+    ],
     "name:deu_x_preferred":[
         "Menselinsk"
+    ],
+    "name:deu_x_variant":[
+        "Minz\u00e4l\u00e4"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b5\u03bd\u03b6\u03b5\u03bb\u03af\u03bd\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Menzelinsk"
+    ],
+    "name:eng_x_variant":[
+        "Minz\u00e4l\u00e4"
     ],
     "name:epo_x_preferred":[
         "Menzelinsk"
@@ -79,8 +98,14 @@
     "name:fin_x_preferred":[
         "Menzelinsk"
     ],
+    "name:fin_x_variant":[
+        "Minz\u00e4l\u00e4"
+    ],
     "name:fra_x_preferred":[
         "Menzelinsk"
+    ],
+    "name:fra_x_variant":[
+        "Minz\u00e4l\u00e4"
     ],
     "name:hsb_x_preferred":[
         "Menzelinsk"
@@ -88,14 +113,29 @@
     "name:hun_x_preferred":[
         "Menzelinszk"
     ],
+    "name:hun_x_variant":[
+        "Minz\u00e4l\u00e4"
+    ],
+    "name:ind_x_preferred":[
+        "Minz\u00e4l\u00e4"
+    ],
     "name:ita_x_preferred":[
         "Menzelinsk"
+    ],
+    "name:ita_x_variant":[
+        "Minz\u00e4l\u00e4"
     ],
     "name:jpn_x_preferred":[
         "\u30e1\u30f3\u30bc\u30ea\u30f3\u30b9\u30af"
     ],
     "name:kor_x_preferred":[
         "\uba58\uc824\ub9b0\uc2a4\ud06c"
+    ],
+    "name:lat_x_preferred":[
+        "Minz\u00e4l\u00e4"
+    ],
+    "name:lav_x_preferred":[
+        "Menze\u013cinska"
     ],
     "name:lit_x_preferred":[
         "Menzelinskas"
@@ -106,8 +146,14 @@
     "name:mhr_x_variant":[
         "\u041c\u0435\u043d\u0437\u0435\u043b\u044f"
     ],
+    "name:nan_x_preferred":[
+        "Menzelinsk"
+    ],
     "name:nld_x_preferred":[
         "Menzelinsk"
+    ],
+    "name:nld_x_variant":[
+        "Minz\u00e4l\u00e4"
     ],
     "name:nno_x_preferred":[
         "Menzelinsk"
@@ -118,8 +164,20 @@
     "name:nor_x_preferred":[
         "Menzelinsk"
     ],
+    "name:oss_x_preferred":[
+        "\u041c\u0435\u043d\u0437\u0435\u043b\u0438\u043d\u0441\u043a"
+    ],
     "name:pol_x_preferred":[
         "Mienzielinsk"
+    ],
+    "name:pol_x_variant":[
+        "Minz\u00e4l\u00e4"
+    ],
+    "name:por_x_preferred":[
+        "Minz\u00e4l\u00e4"
+    ],
+    "name:ron_x_preferred":[
+        "Minz\u00e4l\u00e4"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u043d\u0437\u0435\u043b\u0438\u043d\u0441\u043a"
@@ -127,11 +185,17 @@
     "name:spa_x_preferred":[
         "Menzelinsk"
     ],
+    "name:spa_x_variant":[
+        "Minz\u00e4l\u00e4"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u0435\u043d\u0437\u0435\u043b\u0438\u043d\u0441\u043a"
     ],
     "name:swe_x_preferred":[
         "Menzelinsk"
+    ],
+    "name:swe_x_variant":[
+        "Minz\u00e4l\u00e4"
     ],
     "name:tat_x_preferred":[
         "\u041c\u0438\u043d\u0437\u04d9\u043b\u04d9"
@@ -151,8 +215,17 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043d\u0437\u0435\u043b\u0438\u043d\u0441\u044c\u043a"
     ],
+    "name:ukr_x_variant":[
+        "\u041c\u0435\u043d\u0437\u0435\u043b\u0456\u043d\u0441\u044c\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Menzelinsk"
+    ],
     "name:vep_x_preferred":[
         "Menzelinsk"
+    ],
+    "name:vie_x_preferred":[
+        "Minz\u00e4l\u00e4"
     ],
     "name:war_x_preferred":[
         "Menzelinsk"
@@ -202,7 +275,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"160f8b08e3897e0991ff83d0e617a2b9",
+    "wof:geomhash":"a28df4db8bd6c6a9a30c737a41131af1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -214,7 +287,7 @@
         }
     ],
     "wof:id":102009147,
-    "wof:lastmodified":1582329775,
+    "wof:lastmodified":1690858860,
     "wof:name":"Menzelinsk",
     "wof:parent_id":890480593,
     "wof:placetype":"locality",
@@ -226,10 +299,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    53.07980728149414,
-    55.71491622924805,
-    53.13677597045898,
-    55.73825073242188
+    53.079807,
+    55.714916,
+    53.136776,
+    55.738251
 ],
-  "geometry": {"coordinates":[[[53.13275146484375,55.71566772460938],[53.11438751220703,55.71819305419922],[53.11030578613281,55.71658325195312],[53.10608291625977,55.71491622924805],[53.09833145141602,55.71783447265625],[53.08588790893555,55.72249984741211],[53.07980728149414,55.72477722167969],[53.0837516784668,55.72919464111328],[53.08980560302734,55.73594284057617],[53.09747314453125,55.73825073242188],[53.10977935791016,55.73764038085938],[53.11072158813477,55.73697280883789],[53.11922073364258,55.73088836669922],[53.13677597045898,55.72827911376953],[53.13275146484375,55.71566772460938]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[53.132751,55.715668],[53.114388,55.718193],[53.110306,55.716583],[53.106083,55.714916],[53.098331,55.717834],[53.085888,55.7225],[53.079807,55.724777],[53.083752,55.729195],[53.089806,55.735943],[53.097473,55.738251],[53.109779,55.73764],[53.110722,55.736973],[53.119221,55.730888],[53.136776,55.728279],[53.132751,55.715668]]],"type":"Polygon"}
 }

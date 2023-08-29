@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000348,
     "geom:area_square_m":2660896.376565,
-    "geom:bbox":"107.255111694,51.7381095886,107.28855896,51.7557220459",
-    "geom:latitude":51.746754,
+    "geom:bbox":"107.255112,51.73811,107.288559,51.755722",
+    "geom:latitude":51.746755,
     "geom:longitude":107.272432,
     "gn:latitude":51.74919,
     "gn:longitude":107.28374,
@@ -49,11 +49,20 @@
     "name:fra_x_preferred":[
         "ra\u00efon d'Ivolginsk"
     ],
+    "name:fra_x_variant":[
+        "Ra\u00efon d'Ivolguinsk"
+    ],
+    "name:frr_x_preferred":[
+        "Iwolginsk"
+    ],
     "name:hun_x_preferred":[
         "Ivolginszki j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Ivolginskij rajon"
+    ],
+    "name:nan_x_preferred":[
+        "Ivolginsky Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Ivolginskiy rayon"
@@ -124,7 +133,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9244efec703292dbcfbdc966685a8222",
+    "wof:geomhash":"1cd349fb505f721babf10365c2aac266",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":102014661,
-    "wof:lastmodified":1582329764,
+    "wof:lastmodified":1690858783,
     "wof:name":"Ivolginsk",
     "wof:parent_id":890487023,
     "wof:placetype":"locality",
@@ -148,10 +157,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.25511169433594,
-    51.73810958862305,
-    107.28855895996094,
-    51.75572204589844
+    107.255112,
+    51.73811,
+    107.288559,
+    51.755722
 ],
-  "geometry": {"coordinates":[[[107.26819610595703,51.73810958862305],[107.26416778564453,51.74019622802734],[107.25511169433594,51.74150085449219],[107.25560760498047,51.74797058105469],[107.28622436523438,51.75572204589844],[107.28855895996094,51.75491714477539],[107.28813934326172,51.74800109863281],[107.28150177001953,51.74302673339844],[107.26819610595703,51.73810958862305]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[107.268196,51.73811],[107.264168,51.740196],[107.255112,51.741501],[107.255608,51.747971],[107.286224,51.755722],[107.28855900000001,51.754917],[107.288139,51.748001],[107.281502,51.743027],[107.268196,51.73811]]],"type":"Polygon"}
 }

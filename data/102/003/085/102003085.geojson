@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000737,
     "geom:area_square_m":5102718.751573,
-    "geom:bbox":"40.8866958618,55.9130821228,40.9374427795,55.9339447021",
+    "geom:bbox":"40.886696,55.913082,40.937443,55.933945",
     "geom:latitude":55.922834,
     "geom:longitude":40.909005,
     "gn:latitude":55.95394,
@@ -43,8 +43,17 @@
     "name:ceb_x_preferred":[
         "Sudogda"
     ],
+    "name:ces_x_preferred":[
+        "Sudogda"
+    ],
     "name:che_x_preferred":[
         "\u0421\u0443\u0434\u043e\u0433\u0434\u0430"
+    ],
+    "name:crh_x_preferred":[
+        "Sudogda"
+    ],
+    "name:dan_x_preferred":[
+        "Sudogda"
     ],
     "name:deu_x_preferred":[
         "Sudogda"
@@ -53,6 +62,9 @@
         "Sudogda"
     ],
     "name:epo_x_preferred":[
+        "Sudogda"
+    ],
+    "name:est_x_preferred":[
         "Sudogda"
     ],
     "name:fas_x_preferred":[
@@ -79,11 +91,20 @@
     "name:kor_x_preferred":[
         "\uc218\ub3c4\uadf8\ub2e4"
     ],
+    "name:lat_x_preferred":[
+        "Sudogda"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0421\u0443\u0434\u043e\u0433\u0434\u0430"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u0443\u0434\u043e\u0433\u0434\u0430"
     ],
     "name:myv_x_preferred":[
         "\u0421\u0443\u0434\u043e\u0433\u0434\u0430"
+    ],
+    "name:nan_x_preferred":[
+        "Sudogda"
     ],
     "name:nld_x_preferred":[
         "Sudogda"
@@ -96,6 +117,9 @@
     ],
     "name:nor_x_preferred":[
         "Sudogda"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0443\u0434\u043e\u0433\u0434\u00e6"
     ],
     "name:pol_x_preferred":[
         "Sudogda"
@@ -175,7 +199,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"10f58a76b31ef5e7bddec849c8980208",
+    "wof:geomhash":"c7e890421563a7f1abf0d5e9934b7710",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,7 +211,7 @@
         }
     ],
     "wof:id":102003085,
-    "wof:lastmodified":1582329800,
+    "wof:lastmodified":1690859056,
     "wof:name":"Sudogda",
     "wof:parent_id":890480539,
     "wof:placetype":"locality",
@@ -199,10 +223,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    40.88669586181641,
-    55.91308212280273,
-    40.93744277954102,
-    55.93394470214844
+    40.886696,
+    55.913082,
+    40.937443,
+    55.933945
 ],
-  "geometry": {"coordinates":[[[40.88869476318359,55.92230606079102],[40.88669586181641,55.93127822875977],[40.88808441162109,55.93138885498047],[40.9166374206543,55.93394470214844],[40.92344284057617,55.92627716064453],[40.92844390869141,55.92361068725586],[40.93744277954102,55.92191696166992],[40.93608474731445,55.91597366333008],[40.90427780151367,55.91394424438477],[40.89075088500977,55.91308212280273],[40.88869476318359,55.92230606079102]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[40.888695,55.922306],[40.886696,55.931278],[40.888084,55.931389],[40.916637,55.933945],[40.923443,55.926277],[40.928444,55.923611],[40.937443,55.921917],[40.936085,55.915974],[40.904278,55.913944],[40.890751,55.913082],[40.888695,55.922306]]],"type":"Polygon"}
 }

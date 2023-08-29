@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000465,
     "geom:area_square_m":3494164.455698,
-    "geom:bbox":"43.7439575195,52.5206985474,43.781627655,52.5501670837",
+    "geom:bbox":"43.743958,52.520699,43.781628,52.550167",
     "geom:latitude":52.536285,
     "geom:longitude":43.762561,
     "gn:latitude":52.54447,
@@ -21,8 +21,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u062e\u0648\u0641\u0627\u0646\u0634\u064a\u0646\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u043e\u0432\u0430\u043d\u0449\u0438\u043d\u0430"
+    ],
     "name:cat_x_preferred":[
         "Khov\u00e0nxtxina"
+    ],
+    "name:ces_x_preferred":[
+        "Chovan\u0161tina"
     ],
     "name:deu_x_preferred":[
         "Chowanschtschina"
@@ -33,11 +42,17 @@
     "name:est_x_preferred":[
         "Hovan\u0161t\u0161ina"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0627\u0646\u0634\u06cc\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Hovan\u0161t\u0161ina"
     ],
     "name:fra_x_preferred":[
         "La Khovanchtchina"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05d1\u05e0\u05e9\u05e6'\u05d9\u05e0\u05d4"
     ],
     "name:hun_x_preferred":[
         "Hovanscsina"
@@ -78,6 +93,9 @@
     "name:vie_x_preferred":[
         "Khovanshchina"
     ],
+    "name:zho_x_preferred":[
+        "\u970d\u74e6\u65af\u57fa\u53db\u4e71"
+    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1r":"*",
@@ -106,7 +124,7 @@
         "wd:id":"Q917711"
     },
     "wof:country":"RU",
-    "wof:geomhash":"1c1efa3f99249bdc272b48d2e85c8728",
+    "wof:geomhash":"0b3781f545bfac59d3d6950af45eb340",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,7 +136,7 @@
         }
     ],
     "wof:id":102004801,
-    "wof:lastmodified":1566615605,
+    "wof:lastmodified":1690859118,
     "wof:name":"Khovanshchina",
     "wof:parent_id":1108732921,
     "wof:placetype":"locality",
@@ -128,10 +146,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.74395751953125,
-    52.52069854736328,
-    43.7816276550293,
-    52.55016708374023
+    43.743958,
+    52.520699,
+    43.781628,
+    52.550167
 ],
-  "geometry": {"coordinates":[[[43.74395751953125,52.54927825927734],[43.74697875976562,52.55016708374023],[43.75821304321289,52.54960250854492],[43.7816276550293,52.52696990966797],[43.76798248291016,52.52069854736328],[43.7446403503418,52.54652786254883],[43.74395751953125,52.54927825927734]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[43.743958,52.549278],[43.746979,52.550167],[43.758213,52.549603],[43.781628,52.52697],[43.767982,52.520699],[43.74464,52.546528],[43.743958,52.549278]]],"type":"Polygon"}
 }

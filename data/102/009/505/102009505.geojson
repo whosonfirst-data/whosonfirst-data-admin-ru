@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000551,
     "geom:area_square_m":3908514.278197,
-    "geom:bbox":"48.2669181824,54.9602203369,48.3082237244,54.9797782898",
+    "geom:bbox":"48.266918,54.96022,48.308224,54.979778",
     "geom:latitude":54.969345,
     "geom:longitude":48.289228,
     "gn:latitude":54.97119,
@@ -52,8 +52,17 @@
     "name:ceb_x_preferred":[
         "Buinsk"
     ],
+    "name:ces_x_preferred":[
+        "Buinsk"
+    ],
     "name:chv_x_preferred":[
         "\u041f\u0103\u0432\u0430"
+    ],
+    "name:crh_x_preferred":[
+        "Buinsk"
+    ],
+    "name:dan_x_preferred":[
+        "Buinsk"
     ],
     "name:deu_x_preferred":[
         "Buinsk"
@@ -82,11 +91,20 @@
     "name:fra_x_preferred":[
         "Bou\u00efnsk"
     ],
+    "name:fra_x_variant":[
+        "Buinsk"
+    ],
     "name:hsb_x_preferred":[
         "Buinsk"
     ],
     "name:hun_x_preferred":[
         "Buinszk"
+    ],
+    "name:hun_x_variant":[
+        "Buinsk"
+    ],
+    "name:ind_x_preferred":[
+        "Buinsk"
     ],
     "name:ita_x_preferred":[
         "Buinsk"
@@ -97,11 +115,20 @@
     "name:kor_x_preferred":[
         "\ubd80\uc778\uc2a4\ud06c"
     ],
+    "name:lat_x_preferred":[
+        "Buinsk"
+    ],
     "name:lit_x_preferred":[
         "Buinskas"
     ],
+    "name:nan_x_preferred":[
+        "Buinsk"
+    ],
     "name:nld_x_preferred":[
         "Boeinsk"
+    ],
+    "name:nld_x_variant":[
+        "Buinsk"
     ],
     "name:nno_x_preferred":[
         "Buinsk"
@@ -112,7 +139,16 @@
     "name:nor_x_preferred":[
         "Buinsk"
     ],
+    "name:oss_x_preferred":[
+        "\u0411\u0443\u0438\u043d\u0441\u043a"
+    ],
     "name:pol_x_preferred":[
+        "Buinsk"
+    ],
+    "name:por_x_preferred":[
+        "Buinsk"
+    ],
+    "name:ron_x_preferred":[
         "Buinsk"
     ],
     "name:rus_x_preferred":[
@@ -142,7 +178,16 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0456\u043d\u0441\u044c\u043a"
     ],
+    "name:ukr_x_variant":[
+        "\u0411\u0443\u0457\u043d\u0441\u044c\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Buinsk"
+    ],
     "name:vep_x_preferred":[
+        "Buinsk"
+    ],
+    "name:vie_x_preferred":[
         "Buinsk"
     ],
     "name:war_x_preferred":[
@@ -190,7 +235,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"00b0fec247b80d42601d9b02a5c934d2",
+    "wof:geomhash":"d62f5ad6971a003e4df23283f59e0c52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -202,7 +247,7 @@
         }
     ],
     "wof:id":102009505,
-    "wof:lastmodified":1582329772,
+    "wof:lastmodified":1690858833,
     "wof:name":"Buinsk",
     "wof:parent_id":890487943,
     "wof:placetype":"locality",
@@ -214,10 +259,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.26691818237305,
-    54.96022033691406,
-    48.30822372436523,
-    54.97977828979492
+    48.266918,
+    54.96022,
+    48.308224,
+    54.979778
 ],
-  "geometry": {"coordinates":[[[48.28444290161133,54.97975158691406],[48.2891960144043,54.97977828979492],[48.30822372436523,54.97344589233398],[48.30699920654297,54.96433258056641],[48.29966735839844,54.96133422851562],[48.29689025878906,54.96022033691406],[48.28272247314453,54.9613037109375],[48.2801399230957,54.96202850341797],[48.26738739013672,54.96563720703125],[48.26691818237305,54.96791839599609],[48.26974868774414,54.96983337402344],[48.27761077880859,54.97505569458008],[48.27880477905273,54.97586059570312],[48.28430557250977,54.97958374023438],[48.28444290161133,54.97975158691406]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[48.284443,54.979752],[48.289196,54.979778],[48.308224,54.973446],[48.306999,54.964333],[48.299667,54.961334],[48.29689,54.96022],[48.282722,54.961304],[48.28014,54.962029],[48.267387,54.965637],[48.266918,54.967918],[48.269749,54.969833],[48.277611,54.975056],[48.278805,54.975861],[48.284306,54.979584],[48.284443,54.979752]]],"type":"Polygon"}
 }

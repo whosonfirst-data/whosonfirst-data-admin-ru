@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"37.6258049238,55.7555630468,37.6258049238,55.7555630468",
+    "geom:bbox":"37.625805,55.755563,37.625805,55.755563",
     "geom:latitude":55.755563,
     "geom:longitude":37.625805,
     "iso:country":"RU",
@@ -25,6 +25,9 @@
     "mz:tier_metro":30,
     "name:bak_x_preferred":[
         "\u04a0\u044b\u0442\u0430\u0439-\u04a1\u0430\u043b\u0430"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0456\u0442\u0430\u0439-\u0433\u043e\u0440\u0430\u0434"
     ],
     "name:ces_x_preferred":[
         "Kitaj-gorod"
@@ -53,11 +56,17 @@
     "name:jpn_x_preferred":[
         "\u30ad\u30bf\u30a4\u30b4\u30ed\u30c9"
     ],
+    "name:lat_x_preferred":[
+        "Kitaigorod"
+    ],
     "name:nld_x_preferred":[
         "Kitay-gorod"
     ],
     "name:pol_x_preferred":[
         "Kitajgr\u00f3d"
+    ],
+    "name:pol_x_variant":[
+        "Kitaj-gorod"
     ],
     "name:por_x_preferred":[
         "Kitai-gorod"
@@ -70,6 +79,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041a\u0438\u0442\u0430\u0458-\u0433\u043e\u0440\u043e\u0434"
+    ],
+    "name:tur_x_preferred":[
+        "Kitay-gorod"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0438\u0442\u0430\u0439-\u0433\u043e\u0440\u043e\u0434"
@@ -92,7 +104,7 @@
     },
     "wof:country":"RU",
     "wof:created":1491363256,
-    "wof:geomhash":"4a032d3be79b965d122e4259eb214cda",
+    "wof:geomhash":"bce742de6e34d09e469522b10bb9101c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":1108942687,
-    "wof:lastmodified":1566627407,
+    "wof:lastmodified":1690859736,
     "wof:name":"Kitay-Gorod",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",
@@ -115,10 +127,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    37.62580492377477,
-    55.75556304677103,
-    37.62580492377477,
-    55.75556304677103
+    37.625805,
+    55.755563,
+    37.625805,
+    55.755563
 ],
-  "geometry": {"coordinates":[37.62580492377477,55.75556304677103],"type":"Point"}
+  "geometry": {"coordinates":[37.625805,55.755563],"type":"Point"}
 }

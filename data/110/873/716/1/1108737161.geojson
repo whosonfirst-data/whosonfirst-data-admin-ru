@@ -56,6 +56,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:bel_x_preferred":[
+        "\u0423\u043b\u044c\u0446\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Ul'chskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0423\u043b\u044c\u0447\u0438\u0439\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -78,6 +84,9 @@
     "name:fra_x_preferred":[
         "Cholesky"
     ],
+    "name:fra_x_variant":[
+        "ra\u00efon d'Ulchsky"
+    ],
     "name:hun_x_preferred":[
         "Ulcs j\u00e1r\u00e1s"
     ],
@@ -93,17 +102,32 @@
     "name:kor_x_preferred":[
         "\uc6b8\uce58\uc2a4\ud0a4 \uad70"
     ],
+    "name:kor_x_variant":[
+        "\uc6b8\uce58\uc2a4\ud0a4\uad70"
+    ],
+    "name:nan_x_preferred":[
+        "Ulchsky Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Oeltsjskiy rayon"
     ],
     "name:rus_x_preferred":[
         "\u0423\u043b\u044c\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043b\u044c\u0447\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0636\u0644\u0639 \u0627\u0648\u0644\u0686\u0633\u06a9\u06cc"
+    ],
     "name:vie_x_preferred":[
         "Ulchsky"
     ],
     "name:zho_x_preferred":[
         "\u70cf\u5229\u5947\u65af\u57fa\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u70cf\u723e\u5947\u65af\u57fa\u5340"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -142,7 +166,7 @@
         }
     ],
     "wof:id":1108737161,
-    "wof:lastmodified":1627522558,
+    "wof:lastmodified":1690859727,
     "wof:name":"Ul'chskiy",
     "wof:parent_id":85687937,
     "wof:placetype":"county",

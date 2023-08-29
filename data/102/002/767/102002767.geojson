@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000253,
     "geom:area_square_m":1699237.441403,
-    "geom:bbox":"40.3741378784,57.0202789307,40.3935279846,57.0399703979",
+    "geom:bbox":"40.374138,57.020279,40.393528,57.03997",
     "geom:latitude":57.030425,
     "geom:longitude":40.384568,
     "gn:population":8975,
@@ -41,8 +41,14 @@
     "name:ceb_x_preferred":[
         "Komsomol'sk"
     ],
+    "name:ces_x_preferred":[
+        "Komsomolsk"
+    ],
     "name:che_x_preferred":[
         "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u043a"
+    ],
+    "name:crh_x_preferred":[
+        "Komsomolsk"
     ],
     "name:deu_x_preferred":[
         "Komsomolsk"
@@ -54,6 +60,9 @@
         "Komsomolsk"
     ],
     "name:epo_x_preferred":[
+        "Komsomolsk"
+    ],
+    "name:est_x_preferred":[
         "Komsomolsk"
     ],
     "name:fas_x_preferred":[
@@ -80,6 +89,9 @@
     "name:kor_x_preferred":[
         "\ucf64\uc18c\ubab0\uc2a4\ud06c"
     ],
+    "name:lit_x_preferred":[
+        "Komsomolskas"
+    ],
     "name:mhr_x_preferred":[
         "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u043a"
     ],
@@ -88,6 +100,9 @@
     ],
     "name:myv_x_preferred":[
         "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u043a"
+    ],
+    "name:nan_x_preferred":[
+        "Komsomolsk"
     ],
     "name:nld_x_preferred":[
         "Komsomolsk"
@@ -127,6 +142,9 @@
     ],
     "name:und_x_variant":[
         "Komsomol\u2019sk"
+    ],
+    "name:vep_x_preferred":[
+        "Komsomol'sk"
     ],
     "name:war_x_preferred":[
         "Komsomolsk"
@@ -172,7 +190,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"276412b6f15d5ef6892a03477000badf",
+    "wof:geomhash":"1ace866fecd3457ffd8a4ca6870746c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,7 +200,7 @@
         }
     ],
     "wof:id":102002767,
-    "wof:lastmodified":1582329813,
+    "wof:lastmodified":1690859189,
     "wof:name":"Komsomolsk",
     "wof:parent_id":1108734565,
     "wof:placetype":"locality",
@@ -194,10 +212,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    40.37413787841797,
-    57.02027893066406,
-    40.39352798461914,
-    57.03997039794922
+    40.374138,
+    57.020279,
+    40.393528,
+    57.03997
 ],
-  "geometry": {"coordinates":[[[40.38327789306641,57.02027893066406],[40.38022232055664,57.02183151245117],[40.37413787841797,57.03322219848633],[40.38391494750977,57.03997039794922],[40.39186096191406,57.03766632080078],[40.39352798461914,57.02930450439453],[40.38861083984375,57.02177810668945],[40.38327789306641,57.02027893066406]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[40.383278,57.020279],[40.380222,57.021832],[40.374138,57.033222],[40.383915,57.03997],[40.391861,57.037666],[40.393528,57.029305],[40.388611,57.021778],[40.383278,57.020279]]],"type":"Polygon"}
 }

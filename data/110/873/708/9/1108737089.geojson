@@ -59,6 +59,9 @@
     "name:bel_x_preferred":[
         "\u0422\u0440\u043e\u0456\u0446\u043a\u0430-\u041f\u044f\u0447\u043e\u0440\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Troitsko-Pechorskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0422\u0440\u043e\u0438\u0446\u043a\u043e-\u041f\u0435\u0447\u043e\u0440\u0441\u043a\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -90,6 +93,9 @@
     "name:ita_x_preferred":[
         "Troncko-Pe\u010dorskij rajon"
     ],
+    "name:ita_x_variant":[
+        "Troicko-Pe\u010dorskij rajon"
+    ],
     "name:koi_x_preferred":[
         "\u041c\u044b\u043b\u0434\u0456\u043d \u0440\u0430\u0439\u043e\u043d"
     ],
@@ -98,6 +104,9 @@
     ],
     "name:myv_x_preferred":[
         "\u0422\u0440\u043e\u0438\u0446\u043a\u043e-\u041f\u0435\u0447\u043e\u0440\u0441\u043a\u043e\u0439 \u0431\u0443\u0435"
+    ],
+    "name:nan_x_preferred":[
+        "Troitsko-Pechorsky Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Troitsko-Petsjorskiy rayon"
@@ -116,6 +125,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7279\u7f85\u4f0a\u8328\u79d1-\u4f69\u55ac\u723e\u65af\u57fa\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u7279\u7f85\u4f0a\u8328\u79d1-\u4f2f\u671d\u62c9\u65af\u514b\u5340"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -154,7 +166,7 @@
         }
     ],
     "wof:id":1108737089,
-    "wof:lastmodified":1627522713,
+    "wof:lastmodified":1690859350,
     "wof:name":"Troicko-Pechorskiy",
     "wof:parent_id":85688077,
     "wof:placetype":"county",

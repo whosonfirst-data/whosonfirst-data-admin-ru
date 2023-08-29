@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000636,
     "geom:area_square_m":4417646.389531,
-    "geom:bbox":"48.2234458923,55.8242225647,48.2610816956,55.8476371765",
+    "geom:bbox":"48.223446,55.824223,48.261082,55.847637",
     "geom:latitude":55.836261,
     "geom:longitude":48.242923,
     "gn:latitude":55.86638,
@@ -49,6 +49,9 @@
     "name:chv_x_preferred":[
         "\u0412\u043e\u043b\u0436\u0441\u043a"
     ],
+    "name:crh_x_preferred":[
+        "Voljsk"
+    ],
     "name:deu_x_preferred":[
         "Wolschsk"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:fra_x_preferred":[
         "Voljsk"
+    ],
+    "name:fry_x_preferred":[
+        "Volzjsk"
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05d5\u05dc\u05d6'\u05e1\u05e7"
@@ -94,11 +100,17 @@
     "name:lit_x_preferred":[
         "Vol\u017eskas"
     ],
+    "name:lld_x_preferred":[
+        "Voljsk"
+    ],
     "name:mhr_x_preferred":[
         "\u042e\u043b\u0441\u0435\u0440-\u041e\u043b\u0430"
     ],
     "name:myv_x_preferred":[
         "\u0412\u043e\u043b\u0436\u0441\u043a\u043e\u0439"
+    ],
+    "name:nan_x_preferred":[
+        "Volzhsk"
     ],
     "name:nld_x_preferred":[
         "Volzjsk"
@@ -111,6 +123,9 @@
     ],
     "name:nor_x_preferred":[
         "Volzjsk"
+    ],
+    "name:oss_x_preferred":[
+        "\u0412\u043e\u043b\u0436\u0441\u043a"
     ],
     "name:pnb_x_preferred":[
         "\u0648\u0648\u0644\u0698\u0633\u06a9"
@@ -132,6 +147,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0412\u043e\u043b\u0436\u0441\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Volzjsk"
     ],
     "name:tat_x_preferred":[
         "\u0412\u043e\u043b\u0436\u0441\u043a"
@@ -196,7 +214,7 @@
         "wk:page":"Volzhsk"
     },
     "wof:country":"RU",
-    "wof:geomhash":"25b5a2aa39c147c0b7c2130e74318db5",
+    "wof:geomhash":"2f04fd83265aff40d8286aa4c49d86e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -208,7 +226,7 @@
         }
     ],
     "wof:id":102009091,
-    "wof:lastmodified":1566615218,
+    "wof:lastmodified":1690858840,
     "wof:name":"Volzhsk",
     "wof:parent_id":890481545,
     "wof:placetype":"locality",
@@ -220,10 +238,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.22344589233398,
-    55.82422256469727,
-    48.26108169555664,
-    55.84763717651367
+    48.223446,
+    55.824223,
+    48.261082,
+    55.847637
 ],
-  "geometry": {"coordinates":[[[48.25624847412109,55.82422256469727],[48.24739074707031,55.82513809204102],[48.23469543457031,55.82644271850586],[48.23305511474609,55.82661056518555],[48.22344589233398,55.83938980102539],[48.22666549682617,55.84519577026367],[48.24405670166016,55.84763717651367],[48.26108169555664,55.84141540527344],[48.25624847412109,55.82422256469727]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[48.256248,55.824223],[48.247391,55.825138],[48.234695,55.826443],[48.233055,55.826611],[48.223446,55.83939],[48.226665,55.845196],[48.244057,55.847637],[48.261082,55.841415],[48.256248,55.824223]]],"type":"Polygon"}
 }

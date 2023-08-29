@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"37.5106496346,55.6912605788,37.5106496346,55.6912605788",
+    "geom:bbox":"37.51065,55.691261,37.51065,55.691261",
     "geom:latitude":55.691261,
     "geom:longitude":37.51065,
     "iso:country":"RU",
@@ -24,11 +24,20 @@
     "mz:min_zoom":14.0,
     "mz:note":"proposed development",
     "mz:tier_metro":30,
+    "name:afr_x_preferred":[
+        "Mossiesheuwels"
+    ],
+    "name:cat_x_preferred":[
+        "Tur\u00f3 dels Pardals"
+    ],
     "name:ceb_x_preferred":[
         "Vorob'y\u00ebvy Gory"
     ],
     "name:ces_x_preferred":[
         "Vrab\u010d\u00ed hory"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u044c\u043e\u0437\u0430\u043d\u0430\u043d \u0433\u0443\u043d\u0430\u0448"
     ],
     "name:dan_x_preferred":[
         "Spurvebakkerne"
@@ -44,6 +53,9 @@
     ],
     "name:fra_x_preferred":[
         "colline des moineaux"
+    ],
+    "name:glg_x_preferred":[
+        "Cu\u00ed\u00f1a dos Pardais"
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05d1\u05e2\u05ea \u05d4\u05d3\u05e8\u05d5\u05e8"
@@ -123,7 +135,7 @@
     },
     "wof:country":"RU",
     "wof:created":1491363388,
-    "wof:geomhash":"fcbee54fdd1c2651a723368e430801bb",
+    "wof:geomhash":"4182d76084a520b56ad9138ac0d53466",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +148,7 @@
         }
     ],
     "wof:id":1108942901,
-    "wof:lastmodified":1566627427,
+    "wof:lastmodified":1690859738,
     "wof:name":"Vorob'evy gory",
     "wof:parent_id":102003033,
     "wof:placetype":"neighbourhood",
@@ -146,10 +158,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    37.51064963463512,
-    55.69126057879979,
-    37.51064963463512,
-    55.69126057879979
+    37.51065,
+    55.691261,
+    37.51065,
+    55.691261
 ],
-  "geometry": {"coordinates":[37.51064963463512,55.69126057879979],"type":"Point"}
+  "geometry": {"coordinates":[37.51065,55.691261],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000452,
     "geom:area_square_m":3019891.80914,
-    "geom:bbox":"43.1003875732,57.2693595886,43.1219177246,57.295665741",
+    "geom:bbox":"43.100388,57.26936,43.121918,57.295666",
     "geom:latitude":57.283245,
     "geom:longitude":43.110565,
     "gn:population":11488,
@@ -29,6 +29,9 @@
     "name:bel_x_preferred":[
         "\u042e\u0440'\u0435\u0432\u0435\u0446"
     ],
+    "name:bel_x_variant":[
+        "\u042e\u0440\u2019\u0435\u0432\u0435\u0446"
+    ],
     "name:bul_x_preferred":[
         "\u042e\u0440\u0435\u0432\u0435\u0446"
     ],
@@ -44,8 +47,14 @@
     "name:che_x_preferred":[
         "\u042e\u0440\u044c\u0435\u0432\u0435\u0446"
     ],
+    "name:crh_x_preferred":[
+        "Yuryevets"
+    ],
     "name:dan_x_preferred":[
         "Jurevets"
+    ],
+    "name:dan_x_variant":[
+        "Jurjevets"
     ],
     "name:deu_x_preferred":[
         "Jurjewez"
@@ -77,11 +86,20 @@
     "name:ita_x_preferred":[
         "Jur'evec"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e6\u30fc\u30ea\u30a8\u30f4\u30a7\u30c3\u30c4"
+    ],
+    "name:lat_x_preferred":[
+        "Iorgovicia"
+    ],
     "name:mkd_x_preferred":[
         "\u0408\u0443\u0440\u0458\u0435\u0432\u0435\u0446"
     ],
     "name:myv_x_preferred":[
         "\u042e\u0440\u044c\u0435\u0432\u0435\u0446"
+    ],
+    "name:nan_x_preferred":[
+        "Yuryevets"
     ],
     "name:nld_x_preferred":[
         "Jurevets"
@@ -95,8 +113,14 @@
     "name:nor_x_preferred":[
         "Jurjevets"
     ],
+    "name:oss_x_preferred":[
+        "\u042e\u0440\u044c\u0435\u0432\u0435\u0446"
+    ],
     "name:pol_x_preferred":[
         "Jurjewiec"
+    ],
+    "name:ron_x_preferred":[
+        "Iurieve\u021b"
     ],
     "name:rus_x_preferred":[
         "\u042e\u0440\u044c\u0435\u0432\u0435\u0446"
@@ -124,6 +148,9 @@
     ],
     "name:und_x_variant":[
         "Yurevets"
+    ],
+    "name:vep_x_preferred":[
+        "Jurjevec"
     ],
     "name:war_x_preferred":[
         "Yuryevets"
@@ -164,7 +191,7 @@
         "wk:page":"Yuryevets, Ivanovo Oblast"
     },
     "wof:country":"RU",
-    "wof:geomhash":"bac466b4e7f82142eb8e28db9d3cf46f",
+    "wof:geomhash":"e3e2135298632c7d9802410ce79cc309",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,7 +203,7 @@
         }
     ],
     "wof:id":102002725,
-    "wof:lastmodified":1566615682,
+    "wof:lastmodified":1690859174,
     "wof:name":"Yur'Yevets",
     "wof:parent_id":1108734135,
     "wof:placetype":"locality",
@@ -188,10 +215,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.10038757324219,
-    57.26935958862305,
-    43.12191772460938,
-    57.2956657409668
+    43.100388,
+    57.26936,
+    43.121918,
+    57.295666
 ],
-  "geometry": {"coordinates":[[[43.12191772460938,57.29430389404297],[43.12191772460938,57.29422378540039],[43.12127685546875,57.28283309936523],[43.11666488647461,57.27375030517578],[43.1087760925293,57.26974868774414],[43.10774993896484,57.26969528198242],[43.10227966308594,57.26935958862305],[43.10038757324219,57.26977920532227],[43.10044479370117,57.27030563354492],[43.10227966308594,57.29369354248047],[43.10625076293945,57.2956657409668],[43.12122344970703,57.2944450378418],[43.12191772460938,57.29430389404297]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[43.121918,57.294304],[43.121918,57.294224],[43.121277,57.282833],[43.116665,57.27375],[43.108776,57.269749],[43.10775,57.269695],[43.10228,57.26936],[43.100388,57.269779],[43.100445,57.270306],[43.10228,57.293694],[43.106251,57.295666],[43.121223,57.294445],[43.121918,57.294304]]],"type":"Polygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000421,
     "geom:area_square_m":3460171.418605,
-    "geom:bbox":"134.950302124,48.3436737061,135.0,48.360244751",
+    "geom:bbox":"134.950302,48.343674,135.0,48.360245",
     "geom:latitude":48.351267,
     "geom:longitude":134.975995,
     "iso:country":"RU",
@@ -55,6 +55,9 @@
     "name:cat_x_preferred":[
         "Khab\u00e0rovsk"
     ],
+    "name:cdo_x_preferred":[
+        "Khabarovsk"
+    ],
     "name:ceb_x_preferred":[
         "Khabarovsk"
     ],
@@ -63,6 +66,12 @@
     ],
     "name:che_x_preferred":[
         "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a"
+    ],
+    "name:chv_x_preferred":[
+        "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a"
+    ],
+    "name:crh_x_preferred":[
+        "Habarovsk"
     ],
     "name:cym_x_preferred":[
         "Khabarovsk"
@@ -98,6 +107,15 @@
         "Habarovsk"
     ],
     "name:fra_x_preferred":[
+        "Khabarovsk"
+    ],
+    "name:frr_x_preferred":[
+        "Chabarowsk"
+    ],
+    "name:fry_x_preferred":[
+        "Chabarovsk"
+    ],
+    "name:gla_x_preferred":[
         "Khabarovsk"
     ],
     "name:gle_x_preferred":[
@@ -172,6 +190,9 @@
     "name:lit_x_preferred":[
         "Chabarovskas"
     ],
+    "name:lld_x_preferred":[
+        "Habarovsk"
+    ],
     "name:lmo_x_preferred":[
         "Chabarovsk"
     ],
@@ -183,6 +204,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0916\u092c\u093e\u0930\u094b\u0935\u094d\u0938\u094d\u0915"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a"
     ],
     "name:mhr_x_preferred":[
         "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a"
@@ -229,6 +253,9 @@
     "name:por_x_preferred":[
         "Khabarovsk"
     ],
+    "name:pus_x_preferred":[
+        "\u062e\u0627\u0628\u0627\u0631\u0648\u0633\u06a9"
+    ],
     "name:ron_x_preferred":[
         "Habarovsk"
     ],
@@ -250,6 +277,9 @@
     "name:slv_x_preferred":[
         "Habarovsk"
     ],
+    "name:smn_x_preferred":[
+        "Habarovsk"
+    ],
     "name:spa_x_preferred":[
         "Jab\u00e1rovsk"
     ],
@@ -265,11 +295,17 @@
     "name:swe_x_preferred":[
         "Chabarovsk"
     ],
+    "name:szl_x_preferred":[
+        "Chabarowsk"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0baa\u0bb0\u0b83\u0baa\u0bcd\u0bb8\u0bcd\u0b95\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0425\u0430\u0431\u0430\u0440\u0430\u0443"
+    ],
+    "name:tat_x_variant":[
+        "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a"
     ],
     "name:tel_x_preferred":[
         "\u0c16\u0c2c\u0c3e\u0c30\u0c4b\u0c38\u0c4d\u0c15\u0c4d"
@@ -304,6 +340,9 @@
     "name:uzb_x_preferred":[
         "Xabarovsk"
     ],
+    "name:vec_x_preferred":[
+        "Chabarovsk"
+    ],
     "name:vep_x_preferred":[
         "Habarovsk"
     ],
@@ -315,6 +354,9 @@
     ],
     "name:wol_x_preferred":[
         "Khabarovsk"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10ee\u10d0\u10d1\u10d0\u10e0\u10dd\u10d5\u10e1\u10d9\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u4f2f\u529b"
@@ -358,7 +400,7 @@
         "wd:id":"Q4454"
     },
     "wof:country":"RU",
-    "wof:geomhash":"cce02d8b3dad2279be68247d371798b3",
+    "wof:geomhash":"240f4acc16a602e02ce9b623cca0b660",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -370,7 +412,7 @@
         }
     ],
     "wof:id":102015247,
-    "wof:lastmodified":1566614964,
+    "wof:lastmodified":1690858702,
     "wof:name":"Khabarovsk",
     "wof:parent_id":1108734333,
     "wof:placetype":"locality",
@@ -380,10 +422,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    134.95030212402344,
-    48.34367370605469,
+    134.950302,
+    48.343674,
     135.0,
-    48.36024475097656
+    48.360245
 ],
-  "geometry": {"coordinates":[[[135.0,48.36024475097656],[135.0,48.34918212890625],[134.99565124511719,48.34979248046875],[134.9874267578125,48.3494873046875],[134.96188354492188,48.34401702880859],[134.95954895019531,48.34388732910156],[134.95570373535156,48.34367370605469],[134.95411682128906,48.34423446655273],[134.95030212402344,48.34559631347656],[134.95040893554688,48.34833526611328],[134.96041870117188,48.35436248779297],[134.96351623535156,48.35451507568359],[134.97869873046875,48.35523986816406],[135.0,48.36024475097656]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[135.0,48.360245],[135.0,48.349182],[134.99565100000001,48.349792],[134.987427,48.349487],[134.961884,48.344017],[134.95954900000001,48.343887],[134.955704,48.343674],[134.954117,48.344234],[134.95030199999999,48.345596],[134.95040900000001,48.348335],[134.960419,48.354362],[134.963516,48.354515],[134.97869900000001,48.35524],[135.0,48.360245]]],"type":"Polygon"}
 }

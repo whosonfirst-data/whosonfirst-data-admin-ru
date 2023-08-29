@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000149,
     "geom:area_square_m":1046895.724204,
-    "geom:bbox":"101.348434448,55.4287452698,101.375099182,55.4400482178",
+    "geom:bbox":"101.348434,55.428745,101.375099,55.440048",
     "geom:latitude":55.434944,
     "geom:longitude":101.3634,
     "gn:latitude":55.43222,
@@ -24,14 +24,29 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0628"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u064a\u0644"
+    ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0628"
+    ],
     "name:ast_x_preferred":[
         "Kobus kob"
+    ],
+    "name:ast_x_variant":[
+        "Cobu"
     ],
     "name:ava_x_preferred":[
         "\u041a\u043e\u0431"
     ],
+    "name:avk_x_preferred":[
+        "Putcukol"
+    ],
     "name:aze_x_preferred":[
         "Kob"
+    ],
+    "name:bam_x_preferred":[
+        "S\u0254n"
     ],
     "name:bre_x_preferred":[
         "Kob"
@@ -57,11 +72,17 @@
     "name:ces_x_variant":[
         "vodu\u0161ka kob"
     ],
+    "name:dag_x_preferred":[
+        "Molifu"
+    ],
     "name:dan_x_preferred":[
         "Kob"
     ],
     "name:deu_x_preferred":[
         "Kob"
+    ],
+    "name:din_x_preferred":[
+        "Th\u00efl"
     ],
     "name:eng_x_preferred":[
         "Kob'"
@@ -78,11 +99,17 @@
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0628"
     ],
+    "name:fin_x_preferred":[
+        "Kobus kob"
+    ],
     "name:fra_x_preferred":[
         "Cobe de Buffon"
     ],
     "name:gle_x_preferred":[
         "Cob"
+    ],
+    "name:gle_x_variant":[
+        "cob"
     ],
     "name:hbs_x_preferred":[
         "Kob antilopa"
@@ -98,6 +125,9 @@
     ],
     "name:hun_x_preferred":[
         "K\u00f6z\u00f6ns\u00e9ges mocs\u00e1riantilop"
+    ],
+    "name:hun_x_variant":[
+        "k\u00f6z\u00f6ns\u00e9ges mocs\u00e1riantilop"
     ],
     "name:ina_x_preferred":[
         "Kobus kob"
@@ -129,6 +159,9 @@
     "name:mkd_x_preferred":[
         "\u0431\u043b\u0430\u0442\u0435\u043d \u0458\u0430\u0440\u0435\u0446"
     ],
+    "name:nav_x_preferred":[
+        "Dahodit\u0142\u00e9\u00e9\u02bcg\u00f3\u00f3 j\u00e1d\u00ed"
+    ],
     "name:nds_x_preferred":[
         "Kob"
     ],
@@ -150,6 +183,9 @@
     "name:por_x_preferred":[
         "Kobus kob"
     ],
+    "name:ron_x_preferred":[
+        "Kobus kob"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0431"
     ],
@@ -157,6 +193,9 @@
         "\u041a\u043e\u0431\u044c"
     ],
     "name:spa_x_preferred":[
+        "Kobus kob"
+    ],
+    "name:sqi_x_preferred":[
         "Kobus kob"
     ],
     "name:srp_x_preferred":[
@@ -215,7 +254,7 @@
         "wd:id":"Q237267"
     },
     "wof:country":"RU",
-    "wof:geomhash":"e39f7c2523a2a480e2c92223d6ad8594",
+    "wof:geomhash":"f88c61df4a3b5a564fabf89d6559dcc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -227,7 +266,7 @@
         }
     ],
     "wof:id":102013997,
-    "wof:lastmodified":1566615038,
+    "wof:lastmodified":1690858746,
     "wof:name":"Kob'",
     "wof:parent_id":890484113,
     "wof:placetype":"locality",
@@ -237,10 +276,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    101.34843444824219,
-    55.42874526977539,
-    101.3750991821289,
-    55.44004821777344
+    101.348434,
+    55.428745,
+    101.375099,
+    55.440048
 ],
-  "geometry": {"coordinates":[[[101.35546875,55.43894195556641],[101.36705017089844,55.44004821777344],[101.37509918212891,55.43069458007812],[101.36289978027344,55.42874526977539],[101.36083221435547,55.43291091918945],[101.35778045654297,55.43482208251953],[101.35221099853516,55.43542861938477],[101.34843444824219,55.43827056884766],[101.35546875,55.43894195556641]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[101.355469,55.438942],[101.36705000000001,55.440048],[101.37509900000001,55.430695],[101.3629,55.428745],[101.360832,55.432911],[101.35778000000001,55.434822],[101.352211,55.435429],[101.348434,55.438271],[101.355469,55.438942]]],"type":"Polygon"}
 }

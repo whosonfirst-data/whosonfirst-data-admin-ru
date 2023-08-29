@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000959,
     "geom:area_square_m":6403132.894157,
-    "geom:bbox":"88.141418457,57.2919158936,88.2020797729,57.3171386719",
+    "geom:bbox":"88.141418,57.291916,88.20208,57.317139",
     "geom:latitude":57.303295,
-    "geom:longitude":88.170179,
+    "geom:longitude":88.170178,
     "gn:population":4800,
     "iso:country":"RU",
     "lbl:latitude":57.303173,
@@ -20,6 +20,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:bel_x_preferred":[
+        "\u0422\u044d\u0433\u0443\u043b\u044c\u0434\u044d\u0446\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Tegul'detskiy Rayon"
+    ],
     "name:che_x_preferred":[
         "\u0422\u0435\u0433\u0443\u043b\u044c\u0434\u0435\u0442\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -44,6 +50,9 @@
     "name:ita_x_preferred":[
         "Tegul'detskij rajon"
     ],
+    "name:nan_x_preferred":[
+        "Teguldetsky Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Tegoeldetskiy rayon"
     ],
@@ -59,8 +68,14 @@
     "name:tur_x_preferred":[
         "Teg\u00fcldet rayonu"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u0433\u0443\u043b\u044c\u0434\u0435\u0442\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "Tegul\u2019det"
+    ],
+    "name:vie_x_preferred":[
+        "Tegul'detsky"
     ],
     "name:zho_x_preferred":[
         "\u6377\u53e4\u5229\u5091\u7279\u65af\u57fa\u5340"
@@ -99,7 +114,7 @@
         "wd:id":"Q1967972"
     },
     "wof:country":"RU",
-    "wof:geomhash":"a5b4dc0821563e4f3bc3b1daacaf6d00",
+    "wof:geomhash":"b81c6c086a33a13b10568960eda3acb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +126,7 @@
         }
     ],
     "wof:id":102012607,
-    "wof:lastmodified":1566615024,
+    "wof:lastmodified":1690858739,
     "wof:name":"Teguldet",
     "wof:parent_id":1108736967,
     "wof:placetype":"locality",
@@ -123,10 +138,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    88.14141845703125,
-    57.29191589355469,
-    88.20207977294922,
-    57.317138671875
+    88.141418,
+    57.291916,
+    88.20208,
+    57.317139
 ],
-  "geometry": {"coordinates":[[[88.1893310546875,57.30810928344727],[88.20058441162109,57.30569458007812],[88.20207977294922,57.2979736328125],[88.18599700927734,57.29191589355469],[88.14141845703125,57.2980842590332],[88.14197540283203,57.2998046875],[88.1463623046875,57.31349945068359],[88.14752960205078,57.317138671875],[88.15494537353516,57.31552886962891],[88.1893310546875,57.30810928344727]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[88.189331,57.308109],[88.20058400000001,57.305695],[88.20208,57.297974],[88.185997,57.291916],[88.141418,57.298084],[88.141975,57.299805],[88.146362,57.313499],[88.14753,57.317139],[88.154945,57.315529],[88.189331,57.308109]]],"type":"Polygon"}
 }

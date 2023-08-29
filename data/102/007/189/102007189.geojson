@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000257,
     "geom:area_square_m":2145217.879321,
-    "geom:bbox":"41.4136390686,47.5112762451,41.4377784729,47.5253334045",
+    "geom:bbox":"41.413639,47.511276,41.437778,47.525333",
     "geom:latitude":47.518058,
     "geom:longitude":41.425194,
     "gn:latitude":47.52182,
@@ -24,20 +24,41 @@
     "name:afr_x_preferred":[
         "Pirozjki"
     ],
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631\u0648\u062c\u0643\u064a"
+    ],
     "name:aze_x_preferred":[
         "Pirojok"
+    ],
+    "name:ceb_x_preferred":[
+        "Pirozhki"
     ],
     "name:deu_x_preferred":[
         "Pirogge"
     ],
+    "name:deu_x_variant":[
+        "Piroschki"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b9\u03c1\u03bf\u03c3\u03ba\u03af"
+    ],
     "name:eng_x_preferred":[
         "Pirozhki"
+    ],
+    "name:eng_x_variant":[
+        "pirozhki"
     ],
     "name:fas_x_preferred":[
         "\u067e\u06cc\u0631\u0627\u0634\u06a9\u06cc"
     ],
+    "name:fin_x_preferred":[
+        "piro\u017eki"
+    ],
     "name:fra_x_preferred":[
         "Pirojki"
+    ],
+    "name:fra_x_variant":[
+        "pirojki"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d9\u05e8\u05d5\u05d6'\u05e7\u05d9"
@@ -48,11 +69,18 @@
     "name:hun_x_variant":[
         "pirog"
     ],
+    "name:ind_x_preferred":[
+        "pirozhki"
+    ],
     "name:ita_x_preferred":[
         "Pirozhki"
     ],
     "name:ita_x_variant":[
-        "pirozhki"
+        "pirozhki",
+        "Piro\u017eki"
+    ],
+    "name:jav_x_preferred":[
+        "Pirozhki"
     ],
     "name:jpn_x_preferred":[
         "\u30d4\u30ed\u30b7\u30ad"
@@ -65,6 +93,9 @@
     ],
     "name:ltz_x_preferred":[
         "Pirojok"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0438\u0440\u043e\u0448\u043a\u0438"
     ],
     "name:myv_x_preferred":[
         "\u041f\u0440\u044f\u043a\u0430"
@@ -90,11 +121,23 @@
     "name:swe_x_preferred":[
         "Pirog"
     ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e37\u0e2d\u0e23\u0e35\u0e0c\u0e2d\u0e01"
+    ],
+    "name:tur_x_preferred":[
+        "Pirojki"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0438\u0440\u0456\u0436\u043e\u043a"
     ],
     "name:ukr_x_variant":[
         "\u043f\u0438\u0440\u0456\u0436\u043e\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Pirojka"
+    ],
+    "name:vie_x_preferred":[
+        "Pirozhki"
     ],
     "name:zho_x_preferred":[
         "\u76ae\u7f85\u4ec0\u57fa"
@@ -131,7 +174,7 @@
         "wd:id":"Q11838743"
     },
     "wof:country":"RU",
-    "wof:geomhash":"4f6e524fd52d720845a1d7fd630ddd2e",
+    "wof:geomhash":"340979253d4ea5474e8e475dcbb45b98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,7 +186,7 @@
         }
     ],
     "wof:id":102007189,
-    "wof:lastmodified":1566615169,
+    "wof:lastmodified":1690858817,
     "wof:name":"Pirozhok",
     "wof:parent_id":1108737577,
     "wof:placetype":"locality",
@@ -153,10 +196,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    41.41363906860352,
-    47.51127624511719,
-    41.43777847290039,
-    47.52533340454102
+    41.413639,
+    47.511276,
+    41.437778,
+    47.525333
 ],
-  "geometry": {"coordinates":[[[41.41497039794922,47.51508331298828],[41.41363906860352,47.52210998535156],[41.41485977172852,47.52533340454102],[41.41927719116211,47.52427673339844],[41.43585968017578,47.52252960205078],[41.43730545043945,47.52024841308594],[41.43777847290039,47.51711273193359],[41.43777847290039,47.51708221435547],[41.43558502197266,47.51291656494141],[41.42889022827148,47.51189041137695],[41.4234733581543,47.51222229003906],[41.42216491699219,47.51127624511719],[41.4207763671875,47.5121955871582],[41.4194450378418,47.51169586181641],[41.41535949707031,47.51300048828125],[41.41497039794922,47.51508331298828]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[41.41497,47.515083],[41.413639,47.52211],[41.41486,47.525333],[41.419277,47.524277],[41.43586,47.52253],[41.437305,47.520248],[41.437778,47.517113],[41.437778,47.517082],[41.435585,47.512917],[41.42889,47.51189],[41.423473,47.512222],[41.422165,47.511276],[41.420776,47.512196],[41.419445,47.511696],[41.415359,47.513],[41.41497,47.515083]]],"type":"Polygon"}
 }

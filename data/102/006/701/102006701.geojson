@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000389,
     "geom:area_square_m":3133387.72768,
-    "geom:bbox":"43.0499992371,49.3003616333,43.0771942139,49.3249740601",
+    "geom:bbox":"43.049999,49.300362,43.077194,49.324974",
     "geom:latitude":49.315479,
     "geom:longitude":43.061837,
     "gn:latitude":49.31455,
@@ -25,8 +25,17 @@
     "name:bel_x_preferred":[
         "\u041a\u043b\u0435\u0446\u043a\u0430\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Kletskaya"
+    ],
+    "name:ces_x_preferred":[
+        "Kleckaja"
+    ],
     "name:che_x_preferred":[
         "\u041a\u043b\u0435\u0442\u0441\u043a\u0438"
+    ],
+    "name:crh_x_preferred":[
+        "Kletskaya"
     ],
     "name:eng_x_preferred":[
         "Kletskaya"
@@ -40,8 +49,20 @@
     "name:ita_x_preferred":[
         "Kletskaja"
     ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ec\u30c4\u30ab\u30b8\u30e3"
+    ],
+    "name:nan_x_preferred":[
+        "Kletskaya"
+    ],
     "name:nld_x_preferred":[
         "Kletskaya"
+    ],
+    "name:nno_x_preferred":[
+        "Kletskaja"
+    ],
+    "name:nob_x_preferred":[
+        "Kletskaja"
     ],
     "name:rus_x_preferred":[
         "\u041a\u043b\u0435\u0442\u0441\u043a\u0438\u0439"
@@ -54,6 +75,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u041a\u043b\u0435\u0442\u0441\u043a\u0430\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u0435\u0442\u0441\u044c\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Klyetskaya"
@@ -92,7 +116,7 @@
         "wd:id":"Q3815845"
     },
     "wof:country":"RU",
-    "wof:geomhash":"c877fef47cef1b1b3ec83aecae9075cf",
+    "wof:geomhash":"f82606f9f9762c56d52fa547f4304f7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +128,7 @@
         }
     ],
     "wof:id":102006701,
-    "wof:lastmodified":1566615332,
+    "wof:lastmodified":1690858931,
     "wof:name":"Kletskiy",
     "wof:parent_id":1108734483,
     "wof:placetype":"locality",
@@ -116,10 +140,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.04999923706055,
-    49.30036163330078,
-    43.07719421386719,
-    49.32497406005859
+    43.049999,
+    49.300362,
+    43.077194,
+    49.324974
 ],
-  "geometry": {"coordinates":[[[43.05277633666992,49.31027603149414],[43.0503044128418,49.31911087036133],[43.04999923706055,49.32324981689453],[43.07305526733398,49.32497406005859],[43.07719421386719,49.31766510009766],[43.06452941894531,49.30902862548828],[43.06169509887695,49.30413818359375],[43.06027603149414,49.30172348022461],[43.05608367919922,49.30036163330078],[43.05385971069336,49.30633163452148],[43.05277633666992,49.31027603149414]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[43.052776,49.310276],[43.050304,49.319111],[43.049999,49.32325],[43.073055,49.324974],[43.077194,49.317665],[43.064529,49.309029],[43.061695,49.304138],[43.060276,49.301723],[43.056084,49.300362],[43.05386,49.306332],[43.052776,49.310276]]],"type":"Polygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000322,
     "geom:area_square_m":2350189.201599,
-    "geom:bbox":"87.1305847168,53.775970459,87.1600799561,53.7993621826",
+    "geom:bbox":"87.130585,53.77597,87.16008,53.799362",
     "geom:latitude":53.788389,
     "geom:longitude":87.146064,
     "gn:latitude":53.7557,
@@ -27,6 +27,9 @@
     ],
     "name:ara_x_preferred":[
         "\u0646\u0648\u0641\u0648\u0643\u0648\u0632\u0646\u062a\u0633\u0643"
+    ],
+    "name:avk_x_preferred":[
+        "Novokuznetsk"
     ],
     "name:azb_x_preferred":[
         "\u0646\u0648\u0648\u06a9\u0648\u0632\u0646\u062a\u0633\u06a9"
@@ -67,8 +70,14 @@
     "name:che_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043a\u0443\u0437\u043d\u0435\u0446\u043a"
     ],
+    "name:crh_x_preferred":[
+        "Novokuznetsk"
+    ],
     "name:dan_x_preferred":[
         "Novokuznetsk"
+    ],
+    "name:dan_x_variant":[
+        "Novokusnetsk"
     ],
     "name:deu_x_preferred":[
         "Nowokusnezk"
@@ -151,14 +160,23 @@
     "name:lat_x_preferred":[
         "Cusnezia"
     ],
+    "name:lat_x_variant":[
+        "Novocusnecum"
+    ],
     "name:lav_x_preferred":[
         "Novokuz\u0146ecka"
     ],
     "name:lit_x_preferred":[
         "Novokuzneckas"
     ],
+    "name:lld_x_preferred":[
+        "Novokusnetsk"
+    ],
     "name:mar_x_preferred":[
         "\u0928\u094b\u0935\u094b\u0915\u0941\u091d\u094d\u0928\u0947\u0924\u094d\u0938\u094d\u0915"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043a\u0443\u0437\u043d\u0435\u0446\u043a"
     ],
     "name:mhr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u043a\u0443\u0437\u043d\u0435\u0446\u043a"
@@ -170,6 +188,9 @@
         "\u041d\u043e\u0432\u043e\u043a\u0443\u0437\u043d\u0435\u0446\u043a"
     ],
     "name:msa_x_preferred":[
+        "Novokuznetsk"
+    ],
+    "name:nan_x_preferred":[
         "Novokuznetsk"
     ],
     "name:nld_x_preferred":[
@@ -277,6 +298,12 @@
     "name:war_x_preferred":[
         "Novokuznetsk"
     ],
+    "name:wuu_x_preferred":[
+        "\u65b0\u5e93\u5179\u6d85\u8328\u514b"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10dc\u10dd\u10d5\u10dd\u10d9\u10e3\u10d6\u10dc\u10d4\u10ea\u10d9\u10d8"
+    ],
     "name:zho_x_preferred":[
         "\u65b0\u5e93\u5179\u6d85\u8328\u514b"
     ],
@@ -317,7 +344,7 @@
         "wk:page":"Novokuznetsk"
     },
     "wof:country":"RU",
-    "wof:geomhash":"da8be75a6f204031b9ae94effd822a41",
+    "wof:geomhash":"7ded985d3312d9d9b88b093389c02764",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -329,7 +356,7 @@
         }
     ],
     "wof:id":102013211,
-    "wof:lastmodified":1566615040,
+    "wof:lastmodified":1690858747,
     "wof:name":"Novokuznetsk",
     "wof:parent_id":1108735509,
     "wof:placetype":"locality",
@@ -341,10 +368,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    87.13058471679688,
-    53.77597045898438,
-    87.16007995605469,
-    53.79936218261719
+    87.130585,
+    53.77597,
+    87.16008,
+    53.799362
 ],
-  "geometry": {"coordinates":[[[87.13969421386719,53.79922103881836],[87.14363861083984,53.79936218261719],[87.14739227294922,53.7986946105957],[87.14974975585938,53.78983306884766],[87.15628051757812,53.78713989257812],[87.16007995605469,53.7777214050293],[87.15853118896484,53.77738952636719],[87.15169525146484,53.77597045898438],[87.14111328125,53.78436279296875],[87.13058471679688,53.79886245727539],[87.13969421386719,53.79922103881836]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[87.13969400000001,53.799221],[87.14363899999999,53.799362],[87.147392,53.798695],[87.14975,53.789833],[87.15628100000001,53.78714],[87.16007999999999,53.777721],[87.158531,53.77739],[87.151695,53.77597],[87.141113,53.784363],[87.130585,53.798862],[87.13969400000001,53.799221]]],"type":"Polygon"}
 }

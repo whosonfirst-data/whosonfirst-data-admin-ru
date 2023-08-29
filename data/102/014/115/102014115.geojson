@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000436,
     "geom:area_square_m":3165390.734558,
-    "geom:bbox":"90.2220840454,53.9848060608,90.2521972656,54.0119171143",
+    "geom:bbox":"90.222084,53.984806,90.252197,54.011917",
     "geom:latitude":53.998861,
     "geom:longitude":90.235681,
     "gn:latitude":54.00333,
@@ -37,6 +37,9 @@
     "name:ceb_x_preferred":[
         "Sorsk"
     ],
+    "name:ces_x_preferred":[
+        "Sorsk"
+    ],
     "name:che_x_preferred":[
         "\u0421\u043e\u0440\u0441\u043a"
     ],
@@ -50,6 +53,9 @@
         "Sorsk"
     ],
     "name:eus_x_preferred":[
+        "Sorsk"
+    ],
+    "name:fin_x_preferred":[
         "Sorsk"
     ],
     "name:fra_x_preferred":[
@@ -66,6 +72,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc18c\ub974\uc2a4\ud06c"
+    ],
+    "name:nan_x_preferred":[
+        "Sorsk"
     ],
     "name:nld_x_preferred":[
         "Sorsk"
@@ -110,6 +119,9 @@
         "Dzerzhinskiy"
     ],
     "name:vep_x_preferred":[
+        "Sorsk"
+    ],
+    "name:vie_x_preferred":[
         "Sorsk"
     ],
     "name:war_x_preferred":[
@@ -159,7 +171,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"df1a160d4bf05e519f5b5e38e5011663",
+    "wof:geomhash":"f1ad6df71e60680e2102cb6950d5234d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,7 +181,7 @@
         }
     ],
     "wof:id":102014115,
-    "wof:lastmodified":1582329766,
+    "wof:lastmodified":1690858800,
     "wof:name":"Sorsk",
     "wof:parent_id":1108736719,
     "wof:placetype":"locality",
@@ -181,10 +193,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    90.22208404541016,
-    53.98480606079102,
-    90.252197265625,
-    54.01191711425781
+    90.222084,
+    53.984806,
+    90.252197,
+    54.011917
 ],
-  "geometry": {"coordinates":[[[90.24847412109375,53.99869537353516],[90.23596954345703,53.98480606079102],[90.22552490234375,53.98644256591797],[90.22980499267578,53.99727630615234],[90.22208404541016,54.00552749633789],[90.22555541992188,54.00886154174805],[90.22872161865234,54.01191711425781],[90.252197265625,54.00280380249023],[90.24847412109375,53.99869537353516]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[90.248474,53.998695],[90.23596999999999,53.984806],[90.225525,53.986443],[90.229805,53.997276],[90.222084,54.005527],[90.225555,54.008862],[90.228722,54.011917],[90.252197,54.002804],[90.248474,53.998695]]],"type":"Polygon"}
 }

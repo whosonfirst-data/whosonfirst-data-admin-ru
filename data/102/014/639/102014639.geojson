@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000307,
     "geom:area_square_m":2343984.273911,
-    "geom:bbox":"107.495162964,51.8653907776,107.518997192,51.8928871155",
+    "geom:bbox":"107.495163,51.865391,107.518997,51.892887",
     "geom:latitude":51.878183,
     "geom:longitude":107.507206,
     "gn:id":"2014407,7536080",
@@ -22,6 +22,9 @@
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Oelan-Oede"
+    ],
+    "name:aka_x_preferred":[
+        "Ulan-Ude"
     ],
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u0627\u0646-\u0623\u0648\u062f\u064a"
@@ -71,6 +74,9 @@
     "name:chv_x_preferred":[
         "\u0423\u043b\u0430\u043d-\u0423\u0434\u044d"
     ],
+    "name:crh_x_preferred":[
+        "Ulan-Ude"
+    ],
     "name:dan_x_preferred":[
         "Ulan-Ude"
     ],
@@ -103,6 +109,15 @@
     ],
     "name:fra_x_preferred":[
         "Oulan-Oude"
+    ],
+    "name:fra_x_variant":[
+        "Oulan-Oud\u00e9"
+    ],
+    "name:frr_x_preferred":[
+        "Ulan-Ude"
+    ],
+    "name:gle_x_preferred":[
+        "Ulan-Ude"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0ab2\u0abe\u0aa8-\u0a89\u0aa1\u0ac7"
@@ -161,11 +176,23 @@
     "name:lit_x_preferred":[
         "Ulan Ud\u0117"
     ],
+    "name:lld_x_preferred":[
+        "Ulan-Ude"
+    ],
     "name:mar_x_preferred":[
         "\u0909\u0932\u093e\u0928-\u0909\u0926\u0947"
     ],
+    "name:mdf_x_preferred":[
+        "\u0423\u043b\u0430\u043d-\u0423\u0434\u044d"
+    ],
     "name:mhr_x_preferred":[
         "\u0423\u043b\u0430\u043d-\u0423\u0434\u044d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0423\u043b\u0430\u043d-\u0423\u0434\u0435"
+    ],
+    "name:mlt_x_preferred":[
+        "Ulan-Ude"
     ],
     "name:mon_x_preferred":[
         "\u0423\u043b\u0430\u0430\u043d-\u04ae\u0434"
@@ -175,6 +202,9 @@
     ],
     "name:myv_x_preferred":[
         "\u0423\u043b\u0430\u043d-\u0423\u0434\u044d \u043e\u0448"
+    ],
+    "name:nan_x_preferred":[
+        "Ulan-Ude"
     ],
     "name:nld_x_preferred":[
         "Oelan-Oede"
@@ -242,14 +272,23 @@
     "name:tel_x_preferred":[
         "\u0c09\u0c32\u0c3e\u0c28\u0c4d-\u0c09\u0c21\u0c47"
     ],
+    "name:tgk_x_preferred":[
+        "\u0423\u043b\u0430\u043d-\u0423\u0434\u044d"
+    ],
     "name:tgl_x_preferred":[
         "Ulan-Ude"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e39\u0e25\u0e31\u0e19 \u0e2d\u0e39\u0e40\u0e14"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e39\u0e25\u0e31\u0e19-\u0e2d\u0e39\u0e40\u0e14"
+    ],
     "name:tur_x_preferred":[
         "Ulan Ude"
+    ],
+    "name:tyv_x_preferred":[
+        "\u0423\u043b\u0430\u043d-\u0423\u0434\u044d"
     ],
     "name:udm_x_preferred":[
         "\u0423\u043b\u0430\u043d-\u0423\u0434\u044d"
@@ -262,6 +301,9 @@
     ],
     "name:uzb_x_preferred":[
         "Ulan-ude"
+    ],
+    "name:vec_x_preferred":[
+        "Ulan-Ud\u0117"
     ],
     "name:vep_x_preferred":[
         "Ulan-Ude"
@@ -319,7 +361,7 @@
         "wd:id":"Q6816"
     },
     "wof:country":"RU",
-    "wof:geomhash":"ecf653b40ce9b4fcec639eabc7d543c3",
+    "wof:geomhash":"941ddd3ad88ca15a8b58224cfe0be3cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -331,7 +373,7 @@
         }
     ],
     "wof:id":102014639,
-    "wof:lastmodified":1566615131,
+    "wof:lastmodified":1690858797,
     "wof:name":"Ulan-Ude",
     "wof:parent_id":890487023,
     "wof:placetype":"locality",
@@ -341,10 +383,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    107.49516296386719,
-    51.86539077758789,
-    107.51899719238281,
-    51.89288711547852
+    107.495163,
+    51.865391,
+    107.518997,
+    51.892887
 ],
-  "geometry": {"coordinates":[[[107.50027465820312,51.89277648925781],[107.51274871826172,51.88039016723633],[107.51899719238281,51.87083435058594],[107.51860809326172,51.86552810668945],[107.5126953125,51.86539077758789],[107.50436401367188,51.87060928344727],[107.49516296386719,51.89014053344727],[107.49541473388672,51.89288711547852],[107.50027465820312,51.89277648925781]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[107.500275,51.892776],[107.512749,51.88039],[107.518997,51.870834],[107.518608,51.865528],[107.51269499999999,51.865391],[107.504364,51.870609],[107.49516300000001,51.890141],[107.49541499999999,51.892887],[107.500275,51.892776]]],"type":"Polygon"}
 }

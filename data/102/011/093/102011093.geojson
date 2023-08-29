@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000719,
     "geom:area_square_m":5510419.379907,
-    "geom:bbox":"55.089389801,51.7052497864,55.1371383667,51.7293891907",
+    "geom:bbox":"55.08939,51.70525,55.137138,51.729389",
     "geom:latitude":51.71856,
     "geom:longitude":55.111686,
     "gn:latitude":51.7727,
@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":5.0,
     "name:afr_x_preferred":[
+        "Orenburg"
+    ],
+    "name:aka_x_preferred":[
         "Orenburg"
     ],
     "name:ara_x_preferred":[
@@ -76,6 +79,9 @@
     "name:chv_x_preferred":[
         "\u0102\u0440\u0435\u043d\u043f\u0443\u0440"
     ],
+    "name:crh_x_preferred":[
+        "Orenburg"
+    ],
     "name:cym_x_preferred":[
         "Orenburg"
     ],
@@ -90,6 +96,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039f\u03c1\u03b5\u03bd\u03bc\u03c0\u03bf\u03cd\u03c1\u03b3\u03ba"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c1\u03b9\u03bd\u03bc\u03c0\u03bf\u03cd\u03c1\u03ba"
     ],
     "name:eng_x_preferred":[
         "Orenburg"
@@ -175,17 +184,26 @@
     "name:lat_x_preferred":[
         "Orenburgum"
     ],
+    "name:lat_x_variant":[
+        "Oropolis"
+    ],
     "name:lav_x_preferred":[
         "Orenburga"
     ],
     "name:lit_x_preferred":[
         "Orenburgas"
     ],
+    "name:lld_x_preferred":[
+        "Orenburg"
+    ],
     "name:lmo_x_preferred":[
         "Orenburg"
     ],
     "name:mar_x_preferred":[
         "\u0913\u0930\u0947\u0928\u092c\u0930\u094d\u0917"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433"
     ],
     "name:mhr_x_preferred":[
         "\u041e\u0440\u044b\u043d\u0431\u043e\u0440"
@@ -201,6 +219,9 @@
     ],
     "name:myv_x_preferred":[
         "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433 \u043e\u0448"
+    ],
+    "name:nan_x_preferred":[
+        "Orenburg"
     ],
     "name:nld_x_preferred":[
         "Orenburg"
@@ -228,6 +249,9 @@
     ],
     "name:por_x_preferred":[
         "Oremburgo"
+    ],
+    "name:pus_x_preferred":[
+        "\u0627\u0648\u0631\u06cc\u0646\u0628\u0631\u06ab"
     ],
     "name:ron_x_preferred":[
         "Orenburg"
@@ -266,6 +290,9 @@
         "Orenburg"
     ],
     "name:swe_x_preferred":[
+        "Orenburg"
+    ],
+    "name:szl_x_preferred":[
         "Orenburg"
     ],
     "name:tam_x_preferred":[
@@ -307,6 +334,9 @@
     "name:uzb_x_preferred":[
         "Orenburg"
     ],
+    "name:vec_x_preferred":[
+        "Orenburg"
+    ],
     "name:vep_x_preferred":[
         "Orenburg"
     ],
@@ -315,6 +345,12 @@
     ],
     "name:war_x_preferred":[
         "Orenburg"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5965\u4f26\u5821"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10dd\u10e0\u10d4\u10dc\u10d1\u10e3\u10e0\u10d2\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u5967\u502b\u5821"
@@ -358,7 +394,7 @@
         "wk:page":"Orenburg"
     },
     "wof:country":"RU",
-    "wof:geomhash":"4a0d574d7190d62c3205770061faab32",
+    "wof:geomhash":"e30bc502119960929718613fb3749633",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -370,7 +406,7 @@
         }
     ],
     "wof:id":102011093,
-    "wof:lastmodified":1566615416,
+    "wof:lastmodified":1690858982,
     "wof:name":"Orenburg",
     "wof:parent_id":890480489,
     "wof:placetype":"locality",
@@ -382,10 +418,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.08938980102539,
-    51.70524978637695,
-    55.13713836669922,
-    51.72938919067383
+    55.08939,
+    51.70525,
+    55.137138,
+    51.729389
 ],
-  "geometry": {"coordinates":[[[55.09227752685547,51.70524978637695],[55.09194564819336,51.70530700683594],[55.08938980102539,51.70794296264648],[55.09080505371094,51.71397399902344],[55.10138702392578,51.72872161865234],[55.10502624511719,51.72927856445312],[55.10572052001953,51.72938919067383],[55.10722351074219,51.72925186157227],[55.13713836669922,51.72641754150391],[55.13685989379883,51.72383499145508],[55.13613891601562,51.71719360351562],[55.12811279296875,51.71549987792969],[55.12463760375977,51.71477890014648],[55.09855651855469,51.70563888549805],[55.09227752685547,51.70524978637695]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[55.092278,51.70525],[55.091946,51.705307],[55.08939,51.707943],[55.090805,51.713974],[55.101387,51.728722],[55.105026,51.729279],[55.105721,51.729389],[55.107224,51.729252],[55.137138,51.726418],[55.13686,51.723835],[55.136139,51.717194],[55.128113,51.7155],[55.124638,51.714779],[55.098557,51.705639],[55.092278,51.70525]]],"type":"Polygon"}
 }

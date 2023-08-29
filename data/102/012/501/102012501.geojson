@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000218,
     "geom:area_square_m":1580931.234464,
-    "geom:bbox":"74.6740036011,54.1604156494,74.7016143799,54.1806945801",
+    "geom:bbox":"74.674004,54.160416,74.701614,54.180695",
     "geom:latitude":54.170754,
     "geom:longitude":74.688458,
     "gn:population":6487,
@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:bel_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u0432\u0430\u0440\u0448\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:ceb_x_preferred":[
         "Novovarshavskiy Rayon"
     ],
@@ -35,6 +38,9 @@
     "name:eng_x_variant":[
         "Novovarshavsky District"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0646\u0648\u0648\u0641\u0627\u0631\u0634\u0627\u0641\u0633\u06a9\u06cc"
+    ],
     "name:hun_x_preferred":[
         "Novovarsavkai j\u00e1r\u00e1s"
     ],
@@ -44,17 +50,26 @@
     "name:ita_x_preferred":[
         "Novovar\u0161avskij rajon"
     ],
+    "name:nan_x_preferred":[
+        "Novovarshavsky Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Novovarsjavskiy rayon"
     ],
     "name:nor_x_preferred":[
         "Novovarsjavka"
     ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0646\u0648\u06a1\u0648\u06a1\u0631\u0634\u0627\u06a1\u0633\u06a9\u06cc"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0432\u0430\u0440\u0448\u0430\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:rus_x_variant":[
         "\u041d\u043e\u0432\u043e\u0432\u0430\u0440\u0448\u0430\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0432\u0430\u0440\u0448\u0430\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:vie_x_preferred":[
         "Novovarshavsky"
@@ -100,7 +115,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"957ced68cc3b846a4409b96af5ad7596",
+    "wof:geomhash":"d3e6a4b03501e5df2ccbfb1ccd075917",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":102012501,
-    "wof:lastmodified":1582329757,
+    "wof:lastmodified":1690858728,
     "wof:name":"Novovarshavka",
     "wof:parent_id":1108735561,
     "wof:placetype":"locality",
@@ -122,10 +137,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    74.67400360107422,
-    54.16041564941406,
-    74.70161437988281,
-    54.18069458007812
+    74.674004,
+    54.160416,
+    74.701614,
+    54.180695
 ],
-  "geometry": {"coordinates":[[[74.67455291748047,54.18069458007812],[74.6800537109375,54.18044281005859],[74.67938995361328,54.17952728271484],[74.68824768066406,54.17713928222656],[74.69872283935547,54.16794586181641],[74.70161437988281,54.16350173950195],[74.70075225830078,54.16316604614258],[74.69338989257812,54.16041564941406],[74.68885803222656,54.16472244262695],[74.67400360107422,54.1788330078125],[74.67455291748047,54.18069458007812]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[74.674553,54.180695],[74.680054,54.180443],[74.67939,54.179527],[74.688248,54.177139],[74.698723,54.167946],[74.70161400000001,54.163502],[74.70075199999999,54.163166],[74.69338999999999,54.160416],[74.688858,54.164722],[74.674004,54.178833],[74.674553,54.180695]]],"type":"Polygon"}
 }

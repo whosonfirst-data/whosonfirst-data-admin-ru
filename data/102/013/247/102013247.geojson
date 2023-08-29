@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000418,
     "geom:area_square_m":3056953.534062,
-    "geom:bbox":"84.9200286865,53.689414978,84.94921875,53.7128334045",
+    "geom:bbox":"84.920029,53.689415,84.949219,53.712833",
     "geom:latitude":53.700349,
     "geom:longitude":84.934753,
     "gn:latitude":53.7074,
@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0632\u0627\u0631\u064a\u0646\u0633\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0632\u0627\u0631\u064a\u0646\u0633\u0643"
+    ],
     "name:azb_x_preferred":[
         "\u0632\u0627\u0631\u06cc\u0646\u0633\u06a9"
     ],
@@ -41,6 +44,15 @@
         "Zarinsk"
     ],
     "name:ceb_x_preferred":[
+        "Zarinsk"
+    ],
+    "name:ces_x_preferred":[
+        "Zarinsk"
+    ],
+    "name:che_x_preferred":[
+        "\u0417\u0430\u0440\u0438\u043d\u0441\u043a"
+    ],
+    "name:crh_x_preferred":[
         "Zarinsk"
     ],
     "name:dan_x_preferred":[
@@ -73,11 +85,17 @@
     "name:hun_x_preferred":[
         "Zarinszk"
     ],
+    "name:ido_x_preferred":[
+        "Zarinsk"
+    ],
     "name:ita_x_preferred":[
         "Zarinsk"
     ],
     "name:lit_x_preferred":[
         "Zarinskas"
+    ],
+    "name:nan_x_preferred":[
+        "Zarinsk"
     ],
     "name:nld_x_preferred":[
         "Zarinsk"
@@ -126,6 +144,9 @@
     ],
     "name:tur_x_preferred":[
         "Zarinsk"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u043e\u0440\u0438\u043d\u0441\u044c\u043a"
     ],
     "name:und_x_variant":[
         "Zarinskaya"
@@ -183,7 +204,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"fbcece8f5894ea09369d2fd3ff29e597",
+    "wof:geomhash":"a7f15e7d9853f18ad61b22a945abe090",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -193,7 +214,7 @@
         }
     ],
     "wof:id":102013247,
-    "wof:lastmodified":1582329762,
+    "wof:lastmodified":1690858764,
     "wof:name":"Zarinsk",
     "wof:parent_id":1108737901,
     "wof:placetype":"locality",
@@ -205,10 +226,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    84.92002868652344,
-    53.68941497802734,
-    84.94921875,
-    53.71283340454102
+    84.920029,
+    53.689415,
+    84.949219,
+    53.712833
 ],
-  "geometry": {"coordinates":[[[84.92030334472656,53.69430541992188],[84.92414093017578,53.70225143432617],[84.93386077880859,53.71283340454102],[84.94219207763672,53.70899963378906],[84.94921875,53.70577621459961],[84.94891357421875,53.70305633544922],[84.94474792480469,53.69405364990234],[84.92416381835938,53.68941497802734],[84.92002868652344,53.69372177124023],[84.92030334472656,53.69430541992188]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[84.920303,53.694305],[84.92414100000001,53.702251],[84.93386099999999,53.712833],[84.94219200000001,53.709],[84.949219,53.705776],[84.948914,53.703056],[84.944748,53.694054],[84.924164,53.689415],[84.920029,53.693722],[84.920303,53.694305]]],"type":"Polygon"}
 }

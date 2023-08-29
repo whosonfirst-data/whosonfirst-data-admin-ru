@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000763,
     "geom:area_square_m":5258734.834439,
-    "geom:bbox":"38.4095001221,56.1170539856,38.4653892517,56.148109436",
-    "geom:latitude":56.131858,
-    "geom:longitude":38.443439,
+    "geom:bbox":"38.4095,56.117054,38.465389,56.148109",
+    "geom:latitude":56.131859,
+    "geom:longitude":38.44344,
     "gn:latitude":56.13333,
     "gn:longitude":38.45,
     "gn:population":11088,
@@ -55,11 +55,17 @@
     "name:chv_x_preferred":[
         "\u0424\u0440\u044f\u0437\u0438\u043d\u043e"
     ],
+    "name:crh_x_preferred":[
+        "Fr\u00e2zino"
+    ],
     "name:cym_x_preferred":[
         "Fryazino"
     ],
     "name:dan_x_preferred":[
         "Frjazino"
+    ],
+    "name:dan_x_variant":[
+        "Frjasino"
     ],
     "name:deu_x_preferred":[
         "Frjasino"
@@ -91,6 +97,9 @@
     "name:hsb_x_preferred":[
         "Frjazino"
     ],
+    "name:hye_x_preferred":[
+        "\u0556\u0580\u0575\u0561\u0566\u056b\u0576\u0578"
+    ],
     "name:ita_x_preferred":[
         "Frjazino"
     ],
@@ -103,8 +112,14 @@
     "name:lit_x_preferred":[
         "Friazinas"
     ],
+    "name:lld_x_preferred":[
+        "Friasino"
+    ],
     "name:ltz_x_preferred":[
         "Frjasino"
+    ],
+    "name:nan_x_preferred":[
+        "Fryazino"
     ],
     "name:nld_x_preferred":[
         "Frjazino"
@@ -117,6 +132,9 @@
     ],
     "name:nor_x_preferred":[
         "Frjanovo"
+    ],
+    "name:oss_x_preferred":[
+        "\u0424\u0440\u044f\u0437\u0438\u043d\u043e"
     ],
     "name:pnb_x_preferred":[
         "\u0641\u0631\u06cc\u0627\u0632\u06cc\u0646\u0648"
@@ -136,11 +154,17 @@
     "name:rus_x_variant":[
         "\u0424\u0440\u044f\u0437\u0438\u043d\u043e"
     ],
+    "name:slv_x_preferred":[
+        "Frjazino"
+    ],
     "name:spa_x_preferred":[
         "Fri\u00e1zino"
     ],
     "name:srp_x_preferred":[
         "\u0424\u0440\u0458\u0430\u0437\u0438\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Frjazino"
     ],
     "name:tat_x_preferred":[
         "\u0424\u0440\u044f\u0437\u0438\u043d\u043e"
@@ -153,6 +177,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0424\u0440\u044f\u0437\u0456\u043d\u043e"
+    ],
+    "name:vep_x_preferred":[
+        "Fr\u00e4zino"
     ],
     "name:vie_x_preferred":[
         "Fryazino"
@@ -206,7 +233,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"a9a35e64f695aa5ad0d48072f9cb8d68",
+    "wof:geomhash":"40e8610ff1bc5290dca58b58c3b015c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -216,7 +243,7 @@
         }
     ],
     "wof:id":102003001,
-    "wof:lastmodified":1582329801,
+    "wof:lastmodified":1690859063,
     "wof:name":"Fryanovo",
     "wof:parent_id":1108736571,
     "wof:placetype":"locality",
@@ -228,10 +255,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    38.40950012207031,
-    56.1170539855957,
-    38.46538925170898,
-    56.14810943603516
+    38.4095,
+    56.117054,
+    38.465389,
+    56.148109
 ],
-  "geometry": {"coordinates":[[[38.43072128295898,56.1254997253418],[38.42155456542969,56.12900161743164],[38.41702651977539,56.12955474853516],[38.40950012207031,56.13047409057617],[38.40983200073242,56.13275146484375],[38.42816543579102,56.13511276245117],[38.4605827331543,56.14672088623047],[38.46444320678711,56.14810943603516],[38.46538925170898,56.14347076416016],[38.46255493164062,56.14086151123047],[38.46377944946289,56.13805389404297],[38.46102905273438,56.13041687011719],[38.45513916015625,56.12380599975586],[38.45055389404297,56.12163925170898],[38.44547271728516,56.11922073364258],[38.43291854858398,56.1170539855957],[38.43241500854492,56.12486267089844],[38.43072128295898,56.1254997253418]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[38.430721,56.1255],[38.421555,56.129002],[38.417027,56.129555],[38.4095,56.130474],[38.409832,56.132751],[38.428165,56.135113],[38.460583,56.146721],[38.464443,56.148109],[38.465389,56.143471],[38.462555,56.140862],[38.463779,56.138054],[38.461029,56.130417],[38.455139,56.123806],[38.450554,56.121639],[38.445473,56.119221],[38.432919,56.117054],[38.432415,56.124863],[38.430721,56.1255]]],"type":"Polygon"}
 }

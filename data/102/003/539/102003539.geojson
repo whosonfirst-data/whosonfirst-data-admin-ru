@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000239,
     "geom:area_square_m":1687991.720897,
-    "geom:bbox":"36.6577224731,55.0811386108,36.6884994507,55.0975265503",
-    "geom:latitude":55.089309,
+    "geom:bbox":"36.657722,55.081139,36.688499,55.097527",
+    "geom:latitude":55.08931,
     "geom:longitude":36.67283,
     "gn:latitude":55.09499,
     "gn:longitude":36.6732,
@@ -22,8 +22,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:azb_x_preferred":[
+        "\u0628\u0644\u0648\u0633\u0648\u0648\u0648"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0435\u043b\u0430\u0432\u0443\u0441\u0430\u0432\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0435\u043b\u0430\u0432\u0443\u0441\u0430\u0432\u0430"
     ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u043e\u0443\u0441\u043e\u0432\u043e"
@@ -37,6 +43,9 @@
     "name:che_x_preferred":[
         "\u0411\u0435\u043b\u043e\u0443\u0441\u043e\u0432\u043e"
     ],
+    "name:crh_x_preferred":[
+        "Belousovo"
+    ],
     "name:deu_x_preferred":[
         "Beloussowo"
     ],
@@ -46,6 +55,9 @@
     "name:epo_x_preferred":[
         "Belousovo"
     ],
+    "name:est_x_preferred":[
+        "Beloussovo"
+    ],
     "name:fra_x_preferred":[
         "Beloussovo"
     ],
@@ -53,6 +65,12 @@
         "Bjelousowo"
     ],
     "name:ita_x_preferred":[
+        "Belousovo"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0443\u0441\u043e\u0432\u0430"
+    ],
+    "name:nan_x_preferred":[
         "Belousovo"
     ],
     "name:nld_x_preferred":[
@@ -78,6 +96,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043b\u043e\u0443\u0441\u043e\u0432\u043e"
+    ],
+    "name:vep_x_preferred":[
+        "Belousovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u522b\u6d1b\u4e4c\u7d22\u6c83"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041a\u0430\u043b\u0443\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -117,7 +141,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d9e11862b5d3ea30cd04b2323cfef6d4",
+    "wof:geomhash":"d817aa6829c94d65234423d8bb620013",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,7 +151,7 @@
         }
     ],
     "wof:id":102003539,
-    "wof:lastmodified":1582329801,
+    "wof:lastmodified":1690859068,
     "wof:name":"Belousovo",
     "wof:parent_id":1108738169,
     "wof:placetype":"locality",
@@ -139,10 +163,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    36.65772247314453,
-    55.08113861083984,
-    36.68849945068359,
-    55.09752655029297
+    36.657722,
+    55.081139,
+    36.688499,
+    55.097527
 ],
-  "geometry": {"coordinates":[[[36.66055679321289,55.08433151245117],[36.65897369384766,55.08541488647461],[36.65772247314453,55.08858489990234],[36.68277740478516,55.09752655029297],[36.68405532836914,55.09605407714844],[36.68602752685547,55.09380722045898],[36.68849945068359,55.09094619750977],[36.67691802978516,55.08608245849609],[36.6729736328125,55.08441543579102],[36.66519546508789,55.08113861083984],[36.66055679321289,55.08433151245117]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[36.660557,55.084332],[36.658974,55.085415],[36.657722,55.088585],[36.682777,55.097527],[36.684055,55.096054],[36.686028,55.093807],[36.688499,55.090946],[36.676918,55.086082],[36.672974,55.084415],[36.665195,55.081139],[36.660557,55.084332]]],"type":"Polygon"}
 }

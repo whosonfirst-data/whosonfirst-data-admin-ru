@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000372,
     "geom:area_square_m":2362592.347721,
-    "geom:bbox":"80.813331604,59.0629997253,80.84349823,59.0825004578",
+    "geom:bbox":"80.813332,59.063,80.843498,59.0825",
     "geom:latitude":59.071231,
     "geom:longitude":80.828952,
     "gn:population":8572,
@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0440\u0433\u0430\u0441\u043e\u043a"
+    ],
     "name:ceb_x_preferred":[
         "Kargasok"
     ],
@@ -32,8 +35,14 @@
     "name:eng_x_preferred":[
         "Kargasok"
     ],
+    "name:est_x_preferred":[
+        "Kargassok"
+    ],
     "name:fin_x_preferred":[
         "Kargasok"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d2\u05e1\u05d5\u05e7"
     ],
     "name:hun_x_preferred":[
         "Kargaszok"
@@ -42,6 +51,12 @@
         "Kargasokas"
     ],
     "name:nld_x_preferred":[
+        "Kargasok"
+    ],
+    "name:nno_x_preferred":[
+        "Kargasok"
+    ],
+    "name:nob_x_preferred":[
         "Kargasok"
     ],
     "name:nor_x_preferred":[
@@ -56,8 +71,14 @@
     "name:spa_x_preferred":[
         "Kargasok"
     ],
+    "name:sqi_x_preferred":[
+        "Kargasok"
+    ],
     "name:swe_x_preferred":[
         "Kargasok"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0433\u0430\u0441\u043e\u043a"
     ],
     "name:und_x_variant":[
         "Novyy Kargasok"
@@ -103,7 +124,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"97f4c077c3fc9d1fb90c56a1e6bb1d10",
+    "wof:geomhash":"16a344e7677e327e5133c122bfbfa9a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,7 +134,7 @@
         }
     ],
     "wof:id":102012553,
-    "wof:lastmodified":1582329758,
+    "wof:lastmodified":1690858732,
     "wof:name":"Kargasok",
     "wof:parent_id":1108734279,
     "wof:placetype":"locality",
@@ -125,10 +146,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    80.8133316040039,
-    59.0629997253418,
-    80.84349822998047,
-    59.08250045776367
+    80.813332,
+    59.063,
+    80.843498,
+    59.0825
 ],
-  "geometry": {"coordinates":[[[80.84349822998047,59.07524871826172],[80.83694458007812,59.07099914550781],[80.84310913085938,59.06302642822266],[80.84205627441406,59.06302642822266],[80.82891845703125,59.0629997253418],[80.81494140625,59.06527709960938],[80.81397247314453,59.06613922119141],[80.81333160400391,59.06669616699219],[80.82074737548828,59.07699966430664],[80.82080841064453,59.0770263671875],[80.82939147949219,59.08250045776367],[80.84349822998047,59.07524871826172]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[80.843498,59.075249],[80.836945,59.070999],[80.843109,59.063026],[80.842056,59.063026],[80.828918,59.063],[80.814941,59.065277],[80.81397200000001,59.066139],[80.813332,59.066696],[80.820747,59.077],[80.820808,59.077026],[80.829391,59.0825],[80.843498,59.075249]]],"type":"Polygon"}
 }

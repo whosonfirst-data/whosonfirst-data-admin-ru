@@ -77,7 +77,8 @@
         "\u09b0\u09bf\u09aa\u09be\u09ac\u09b2\u09bf\u0995 \u0985\u09ab \u09a1\u09be\u0997\u09c7\u09b8\u09cd\u099f\u09be\u09a8"
     ],
     "name:ben_x_variant":[
-        "\u09a6\u09be\u0997\u09c7\u09b8\u09cd\u09a4\u09be\u09a8 \u09aa\u09cd\u09b0\u099c\u09be\u09a4\u09a8\u09cd\u09a4\u09cd\u09b0"
+        "\u09a6\u09be\u0997\u09c7\u09b8\u09cd\u09a4\u09be\u09a8 \u09aa\u09cd\u09b0\u099c\u09be\u09a4\u09a8\u09cd\u09a4\u09cd\u09b0",
+        "\u09a6\u09be\u0997\u09c7\u09b8\u09cd\u09a4\u09be\u09a8"
     ],
     "name:bos_x_preferred":[
         "Dagestan"
@@ -110,15 +111,22 @@
         "\u0414\u0435\u0433\u04c0\u0430\u0441\u0442\u0430\u043d"
     ],
     "name:che_x_variant":[
-        "\u0414\u0435\u0433I\u0430\u0441\u0442\u0430\u043d"
+        "\u0414\u0435\u0433I\u0430\u0441\u0442\u0430\u043d",
+        "\u0414\u0435\u0433\u04c0\u0430\u0441\u0442\u0430"
     ],
     "name:chv_x_preferred":[
         "\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u0627\u063a\u0633\u062a\u0627\u0646"
     ],
     "name:crh_x_preferred":[
         "Da\u011f\u0131stan"
     ],
     "name:csb_x_preferred":[
+        "Dagestan"
+    ],
+    "name:cym_x_preferred":[
         "Dagestan"
     ],
     "name:dan_x_preferred":[
@@ -154,7 +162,6 @@
     "name:eng_x_variant":[
         "Respublika Dagestan",
         "Republic of Dagestan",
-        "Dagestan",
         "Dagestan, Republic of",
         "Dagestan Republic"
     ],
@@ -206,6 +213,9 @@
     "name:hak_x_preferred":[
         "Dagestan Khiung-f\u00f2-koet"
     ],
+    "name:hau_x_preferred":[
+        "Dagestan"
+    ],
     "name:heb_x_preferred":[
         "\u05d3\u05d0\u05d2\u05e1\u05d8\u05df"
     ],
@@ -223,6 +233,12 @@
     ],
     "name:hye_x_preferred":[
         "\u0534\u0561\u0572\u057d\u057f\u0561\u0576"
+    ],
+    "name:hye_x_variant":[
+        "\u0534\u0561\u0572\u057d\u057f\u0561\u0576\u056b \u0540\u0561\u0576\u0580\u0561\u057a\u0565\u057f\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Republiko Dagestan"
     ],
     "name:ile_x_preferred":[
         "Dagestan"
@@ -296,8 +312,14 @@
     "name:lez_x_preferred":[
         "\u0414\u0430\u0433\u044a\u0443\u0441\u0442\u0430\u043d"
     ],
+    "name:lij_x_preferred":[
+        "Daghestan"
+    ],
     "name:lit_x_preferred":[
         "Dagestanas"
+    ],
+    "name:lmo_x_preferred":[
+        "Daghestan"
     ],
     "name:ltz_x_preferred":[
         "Dagestan"
@@ -374,6 +396,9 @@
     "name:por_x_preferred":[
         "Daguest\u00e3o"
     ],
+    "name:pus_x_preferred":[
+        "\u062f\u0627\u063a\u0633\u062a\u0627\u0646 \u062c\u0645\u0647\u0648\u0631\u064a\u062a"
+    ],
     "name:ron_x_preferred":[
         "Daghestan"
     ],
@@ -403,6 +428,9 @@
     ],
     "name:sme_x_preferred":[
         "Dagestan"
+    ],
+    "name:snd_x_preferred":[
+        "\u062f\u0627\u063a\u0633\u062a\u0627\u0646"
     ],
     "name:spa_x_preferred":[
         "Daguest\u00e1n"
@@ -639,7 +667,7 @@
         "lbe",
         "koi"
     ],
-    "wof:lastmodified":1642541075,
+    "wof:lastmodified":1690859258,
     "wof:name":"Dagestan",
     "wof:parent_id":85632685,
     "wof:placetype":"region",

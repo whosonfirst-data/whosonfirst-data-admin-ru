@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000467,
     "geom:area_square_m":3177558.775488,
-    "geom:bbox":"41.2051429749,56.5815505981,41.2356643677,56.6028327942",
-    "geom:latitude":56.591521,
+    "geom:bbox":"41.205143,56.581551,41.235664,56.602833",
+    "geom:latitude":56.591522,
     "geom:longitude":41.219659,
     "gn:population":6133,
     "iso:country":"RU",
@@ -20,8 +20,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0648\u06cc\u0646\u0648"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u0432\u0456\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Savino"
+    ],
     "name:che_x_preferred":[
         "\u0421\u0430\u0432\u0438\u043d\u043e"
+    ],
+    "name:crh_x_preferred":[
+        "Savino"
     ],
     "name:deu_x_preferred":[
         "Savino"
@@ -41,6 +53,12 @@
     "name:nld_x_preferred":[
         "Savino"
     ],
+    "name:nno_x_preferred":[
+        "Savino"
+    ],
+    "name:nob_x_preferred":[
+        "Savino"
+    ],
     "name:nor_x_preferred":[
         "Savino"
     ],
@@ -51,6 +69,12 @@
         "Sawino"
     ],
     "name:rus_x_preferred":[
+        "\u0421\u0430\u0432\u0438\u043d\u043e"
+    ],
+    "name:sqi_x_preferred":[
+        "Savino"
+    ],
+    "name:tgk_x_preferred":[
         "\u0421\u0430\u0432\u0438\u043d\u043e"
     ],
     "name:und_x_variant":[
@@ -94,7 +118,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8f0faf6813fee6dbd04e8556bd94bde6",
+    "wof:geomhash":"546a33560f08c94f893118aa03924f1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +128,7 @@
         }
     ],
     "wof:id":102002847,
-    "wof:lastmodified":1582329815,
+    "wof:lastmodified":1690859202,
     "wof:name":"Savino",
     "wof:parent_id":1108736405,
     "wof:placetype":"locality",
@@ -116,10 +140,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    41.20514297485352,
-    56.58155059814453,
-    41.23566436767578,
-    56.60283279418945
+    41.205143,
+    56.581551,
+    41.235664,
+    56.602833
 ],
-  "geometry": {"coordinates":[[[41.21438980102539,56.58282470703125],[41.20772552490234,56.58391952514648],[41.20514297485352,56.59834671020508],[41.22029495239258,56.60283279418945],[41.23566436767578,56.59350204467773],[41.23065948486328,56.58235168457031],[41.22216415405273,56.58155059814453],[41.21438980102539,56.58282470703125]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[41.21439,56.582825],[41.207726,56.58392],[41.205143,56.598347],[41.220295,56.602833],[41.235664,56.593502],[41.230659,56.582352],[41.222164,56.581551],[41.21439,56.582825]]],"type":"Polygon"}
 }

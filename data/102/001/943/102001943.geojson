@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000351,
     "geom:area_square_m":1860985.360034,
-    "geom:bbox":"40.5517616272,64.5855636597,40.593372345,64.6024703979",
+    "geom:bbox":"40.551762,64.585564,40.593372,64.60247",
     "geom:latitude":64.594687,
     "geom:longitude":40.572388,
     "gn:latitude":64.5401,
@@ -25,11 +25,17 @@
     "name:afr_x_preferred":[
         "Archangelsk"
     ],
+    "name:aka_x_preferred":[
+        "Arkhangelsk"
+    ],
     "name:ara_x_preferred":[
         "\u0623\u0631\u062e\u0627\u0646\u063a\u0644\u0633\u0643"
     ],
     "name:ast_x_preferred":[
         "Arkhanguelsk"
+    ],
+    "name:avk_x_preferred":[
+        "Arxangelsk"
     ],
     "name:azb_x_preferred":[
         "\u0622\u0631\u062e\u0627\u0646\u0642\u0644\u0633\u06a9"
@@ -67,6 +73,9 @@
     "name:chv_x_preferred":[
         "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a"
     ],
+    "name:crh_x_preferred":[
+        "Arhangelsk"
+    ],
     "name:cym_x_preferred":[
         "Arkhangelsk"
     ],
@@ -76,8 +85,14 @@
     "name:deu_x_preferred":[
         "Archangelsk"
     ],
+    "name:diq_x_preferred":[
+        "Arxangelsk"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03c1\u03c7\u03ac\u03b3\u03b3\u03b5\u03bb\u03c3\u03ba"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c1\u03c7\u03ac\u03bd\u03b3\u03ba\u03b5\u03bb\u03c3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Arkhangelsk"
@@ -98,6 +113,15 @@
         "Arkangeli"
     ],
     "name:fra_x_preferred":[
+        "Arkhangelsk"
+    ],
+    "name:frr_x_preferred":[
+        "Archangelsk"
+    ],
+    "name:fry_x_preferred":[
+        "Archangelsk"
+    ],
+    "name:gle_x_preferred":[
         "Arkhangelsk"
     ],
     "name:guj_x_preferred":[
@@ -163,11 +187,17 @@
     "name:lit_x_preferred":[
         "Archangelskas"
     ],
+    "name:lld_x_preferred":[
+        "Arhanghelsk"
+    ],
     "name:ltz_x_preferred":[
         "Archangelsk"
     ],
     "name:mar_x_preferred":[
         "\u0905\u0930\u094d\u0916\u093e\u0902\u0917\u0947\u0932\u094d\u0938\u094d\u0915"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a"
     ],
     "name:mhr_x_preferred":[
         "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a"
@@ -183,6 +213,9 @@
     ],
     "name:myv_x_preferred":[
         "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a \u043e\u0448"
+    ],
+    "name:nan_x_preferred":[
+        "Arkhangelsk"
     ],
     "name:nld_x_preferred":[
         "Archangelsk"
@@ -208,6 +241,9 @@
     "name:por_x_preferred":[
         "Arcangel"
     ],
+    "name:pus_x_preferred":[
+        "\u0627\u0631\u062e\u0627\u0646\u06ab\u0644\u0633\u06a9"
+    ],
     "name:ron_x_preferred":[
         "Arhanghelsk"
     ],
@@ -226,8 +262,17 @@
     "name:slv_x_preferred":[
         "Arhangelsk"
     ],
+    "name:smn_x_preferred":[
+        "Arka\u014b\u014bel"
+    ],
+    "name:sms_x_preferred":[
+        "Aarha\u014b\u014bel"
+    ],
     "name:spa_x_preferred":[
         "Arj\u00e1nguelsk"
+    ],
+    "name:spa_x_variant":[
+        "Arc\u00e1ngel"
     ],
     "name:srp_x_preferred":[
         "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u0459\u0441\u043a"
@@ -244,11 +289,15 @@
     "name:tam_x_preferred":[
         "\u0b86\u0bb0\u0bcd\u0b95\u0bbe\u0ba9\u0bcd\u0b9c\u0bc6\u0bb2\u0bcd\u0b9a\u0b95\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b86\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbe\u0b99\u0bcd\u0b95\u0bc6\u0bb2\u0bcd\u0bb8\u0bcd\u0b95\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u0441\u043a"
     ],
     "name:tat_x_variant":[
-        "\u0410\u0440\u0445\u0430\u043d\u0433\u0438\u043b"
+        "\u0410\u0440\u0445\u0430\u043d\u0433\u0438\u043b",
+        "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c30\u0c4d\u0c16\u0c02\u0c1c\u0c46\u0c32\u0c4d\u0c38\u0c4d\u0c15\u0c4d"
@@ -285,6 +334,12 @@
     ],
     "name:wol_x_preferred":[
         "Arkhangelsk"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u5c14\u6c49\u683c\u5c14\u65af\u514b"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10e0\u10ee\u10d0\u10dc\u10d2\u10d4\u10da\u10e1\u10d9\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u963f\u723e\u6f22\u683c\u723e\u65af\u514b"
@@ -328,7 +383,7 @@
         "wk:page":"Arkhangelsk"
     },
     "wof:country":"RU",
-    "wof:geomhash":"fbe8c6226e86c60a8a8f8a3061db1cf8",
+    "wof:geomhash":"b935652ebd213adb7b5bf06a9dc58f45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -340,7 +395,7 @@
         }
     ],
     "wof:id":102001943,
-    "wof:lastmodified":1566615329,
+    "wof:lastmodified":1690858929,
     "wof:name":"Arkhangelsk",
     "wof:parent_id":890481335,
     "wof:placetype":"locality",
@@ -352,10 +407,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    40.55176162719727,
-    64.58556365966797,
-    40.5933723449707,
-    64.60247039794922
+    40.551762,
+    64.585564,
+    40.593372,
+    64.60247
 ],
-  "geometry": {"coordinates":[[[40.5933723449707,64.60214233398438],[40.59196090698242,64.59658813476562],[40.5662841796875,64.58556365966797],[40.55176162719727,64.59354400634766],[40.56026077270508,64.60005950927734],[40.57318496704102,64.59672546386719],[40.5840950012207,64.60247039794922],[40.5933723449707,64.60214233398438]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[40.593372,64.602142],[40.591961,64.596588],[40.566284,64.58556400000001],[40.551762,64.59354399999999],[40.560261,64.60006],[40.573185,64.59672500000001],[40.584095,64.60247],[40.593372,64.602142]]],"type":"Polygon"}
 }

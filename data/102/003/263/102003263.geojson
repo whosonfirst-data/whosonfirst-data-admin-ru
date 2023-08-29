@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000316,
     "geom:area_square_m":2206530.447066,
-    "geom:bbox":"44.5236663818,55.5901107788,44.5584983826,55.6064987183",
+    "geom:bbox":"44.523666,55.590111,44.558498,55.606499",
     "geom:latitude":55.597239,
     "geom:longitude":44.542137,
     "gn:latitude":55.59613,
@@ -28,14 +28,26 @@
     "name:azb_x_preferred":[
         "\u067e\u0631\u0648\u0648\u0632"
     ],
+    "name:aze_x_preferred":[
+        "Perevoz"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0435\u0440\u0430\u0432\u043e\u0437"
     ],
     "name:bul_x_preferred":[
         "\u041f\u0435\u0440\u0435\u0432\u043e\u0437"
     ],
+    "name:ceb_x_preferred":[
+        "Perevoz"
+    ],
     "name:che_x_preferred":[
         "\u041f\u0435\u0440\u0435\u0432\u043e\u0437"
+    ],
+    "name:crh_x_preferred":[
+        "Perevoz"
+    ],
+    "name:dan_x_preferred":[
+        "Perevos"
     ],
     "name:deu_x_preferred":[
         "Perewos"
@@ -47,6 +59,12 @@
         "Perevoz"
     ],
     "name:epo_x_preferred":[
+        "Perevoz"
+    ],
+    "name:est_x_preferred":[
+        "Perevoz"
+    ],
+    "name:eus_x_preferred":[
         "Perevoz"
     ],
     "name:fas_x_preferred":[
@@ -73,8 +91,14 @@
     "name:ita_x_preferred":[
         "Perevoz"
     ],
+    "name:mdf_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u0432\u043e\u0437"
+    ],
     "name:myv_x_preferred":[
         "\u041f\u0435\u0440\u0435\u0432\u043e\u0437"
+    ],
+    "name:nan_x_preferred":[
+        "Perevoz"
     ],
     "name:nld_x_preferred":[
         "Perevoz"
@@ -87,6 +111,9 @@
     ],
     "name:nor_x_preferred":[
         "Perevoz"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u0432\u043e\u0437"
     ],
     "name:pol_x_preferred":[
         "Pieriewoz"
@@ -109,8 +136,14 @@
     "name:tur_x_preferred":[
         "Perevoz"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u0432\u043e\u0437"
+    ],
     "name:und_x_variant":[
         "P\u2019yanyy Perevoz"
+    ],
+    "name:vep_x_preferred":[
+        "Perevoz"
     ],
     "name:war_x_preferred":[
         "Perevoz"
@@ -156,7 +189,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"720d44c9782bf939b0e0e4c1d1cc007d",
+    "wof:geomhash":"376a3ce33c5ebc23e78751cb9b003eaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,7 +199,7 @@
         }
     ],
     "wof:id":102003263,
-    "wof:lastmodified":1582329803,
+    "wof:lastmodified":1690859087,
     "wof:name":"Perevoz",
     "wof:parent_id":1108735807,
     "wof:placetype":"locality",
@@ -178,10 +211,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    44.52366638183594,
-    55.59011077880859,
-    44.55849838256836,
-    55.60649871826172
+    44.523666,
+    55.590111,
+    44.558498,
+    55.606499
 ],
-  "geometry": {"coordinates":[[[44.54583358764648,55.60602951049805],[44.54666519165039,55.60649871826172],[44.55849838256836,55.60088729858398],[44.55844497680664,55.59952926635742],[44.55619430541992,55.59844589233398],[44.55019378662109,55.59552764892578],[44.55327606201172,55.59230422973633],[44.55158233642578,55.59049987792969],[44.54672241210938,55.59011077880859],[44.54280471801758,55.59199905395508],[44.53308486938477,55.59077835083008],[44.52511215209961,55.59272384643555],[44.52366638183594,55.59583282470703],[44.53824996948242,55.60166549682617],[44.53947067260742,55.60235977172852],[44.54541778564453,55.60577774047852],[44.54583358764648,55.60602951049805]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[44.545834,55.60603],[44.546665,55.606499],[44.558498,55.600887],[44.558445,55.599529],[44.556194,55.598446],[44.550194,55.595528],[44.553276,55.592304],[44.551582,55.5905],[44.546722,55.590111],[44.542805,55.591999],[44.533085,55.590778],[44.525112,55.592724],[44.523666,55.595833],[44.53825,55.601665],[44.539471,55.60236],[44.545418,55.605778],[44.545834,55.60603]]],"type":"Polygon"}
 }
