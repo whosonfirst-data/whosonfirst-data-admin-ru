@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006383,
-    "geom:area_square_m":45187468.2896,
+    "geom:area_square_m":45187435.429205,
     "geom:bbox":"21.790243,55.044348,21.95367,55.120011",
     "geom:latitude":55.075596,
     "geom:longitude":21.861859,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Sovetskiy District"
+        "Sovetskiy Gorod"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "gorod"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Sovetskij skoj okrug"
@@ -90,10 +90,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.KN.SO"
+    },
     "wof:country":"RU",
     "wof:created":1478903186,
-    "wof:geomhash":"c7239207a250cb0c085644e170aa26c8",
+    "wof:geomhash":"0a9009dc89e20dda7f90f70bd16b18d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":1108736745,
-    "wof:lastmodified":1627522693,
+    "wof:lastmodified":1694492773,
     "wof:name":"Sovetskiy",
     "wof:parent_id":85688215,
     "wof:placetype":"county",

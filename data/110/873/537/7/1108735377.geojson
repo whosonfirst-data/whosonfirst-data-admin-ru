@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.432702,
-    "geom:area_square_m":3437250831.754045,
+    "geom:area_square_m":3437250955.53756,
     "geom:bbox":"45.37121,49.712422,46.528774,50.333089",
     "geom:latitude":50.027108,
     "geom:longitude":45.948501,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Nikolaevskiy District"
+        "Nikolaevskiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Nikolaevskij rajon"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.VG.NI"
+    },
     "wof:country":"RU",
     "wof:created":1478902148,
-    "wof:geomhash":"e80a8e25bf9d60ac7e34dcff3229fe44",
+    "wof:geomhash":"2920556e58ba506faf38a075aa2e4a22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108735377,
-    "wof:lastmodified":1627522638,
+    "wof:lastmodified":1694492754,
     "wof:name":"Nikolaevskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

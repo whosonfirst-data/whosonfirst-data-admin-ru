@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.203688,
-    "geom:area_square_m":1338699899.534397,
+    "geom:area_square_m":1338699779.314656,
     "geom:bbox":"54.085303,57.716934,55.051313,58.07393",
     "geom:latitude":57.892071,
     "geom:longitude":54.621262,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Ocherskiy District"
+        "Ocherskiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Ocherskij rajon"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.PE.OC"
+    },
     "wof:country":"RU",
     "wof:created":1478902300,
-    "wof:geomhash":"b791b6f6b4d106af15ddd073199218af",
+    "wof:geomhash":"1632cde2d4dd936f876aa4bf311cd052",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108735595,
-    "wof:lastmodified":1627522653,
+    "wof:lastmodified":1694492759,
     "wof:name":"Ocherskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

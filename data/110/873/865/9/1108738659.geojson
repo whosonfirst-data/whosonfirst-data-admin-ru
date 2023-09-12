@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032116,
-    "geom:area_square_m":283272558.307222,
+    "geom:area_square_m":283272637.06096,
     "geom:bbox":"33.755769,44.386411,34.322069,44.644057",
     "geom:latitude":44.494688,
     "geom:longitude":34.110844,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Yaltynska District"
+        "Yaltynska Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         null
@@ -67,6 +67,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2001-12-05",
+    "statoids:areakm":1589,
+    "statoids:capital":"Bakhchysarai",
+    "statoids:country":"UA",
+    "statoids:date":"2001-12-05",
+    "statoids:hasc":"UA.KR.BA",
+    "statoids:name":"Bakhchysarais'kyi",
+    "statoids:population":92617,
+    "statoids:statoid":"UA.KR",
+    "statoids:timezone":"+2~",
+    "statoids:type":"raion",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -76,10 +88,12 @@
         85633805
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"UA.KR.BA"
+    },
     "wof:country":"RU",
     "wof:created":1478904021,
-    "wof:geomhash":"e195c5a12923af64e074a4443836e7fe",
+    "wof:geomhash":"3c67c8e786dd25ff2d07999d025a48d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +112,12 @@
         }
     ],
     "wof:id":1108738659,
-    "wof:lastmodified":1627522731,
+    "wof:lastmodified":1694492787,
     "wof:name":"Yaltynska",
     "wof:parent_id":85688855,
     "wof:placetype":"county",
+    "wof:population":92617,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

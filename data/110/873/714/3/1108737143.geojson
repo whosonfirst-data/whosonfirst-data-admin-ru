@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010395,
-    "geom:area_square_m":79517117.276331,
+    "geom:area_square_m":79517117.069743,
     "geom:bbox":"128.055286,51.718081,128.234647,51.832895",
     "geom:latitude":51.783425,
     "geom:longitude":128.13637,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Uglegorsk (ZATO) District"
+        "Uglegorsk (ZATO) Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Uglegorsk (ZATO)"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.AM.SB"
+    },
     "wof:country":"RU",
     "wof:created":1478903542,
-    "wof:geomhash":"176fee02eaf77d92aa6befa0c80b2259",
+    "wof:geomhash":"465a51af4720ec254be206a027bcfa7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108737143,
-    "wof:lastmodified":1627522717,
+    "wof:lastmodified":1694492781,
     "wof:name":"Uglegorsk (ZATO)",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.254573,
-    "geom:area_square_m":1880576725.358831,
+    "geom:area_square_m":1880576556.916121,
     "geom:bbox":"38.531691,53.07297,39.414665,53.578154",
     "geom:latitude":53.314827,
     "geom:longitude":38.960612,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Dankovskiy District"
+        "Dankovskiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Dankovskij rajon"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.LP.DR"
+    },
     "wof:country":"RU",
     "wof:created":1478900387,
-    "wof:geomhash":"d4f0c5794bf7d470ced89b2fdecf8026",
+    "wof:geomhash":"d0555fac46d9bb65298370f9f0f9f577",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108733345,
-    "wof:lastmodified":1627522560,
+    "wof:lastmodified":1694492727,
     "wof:name":"Dankovskiy",
     "wof:parent_id":85687917,
     "wof:placetype":"county",

@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003475,
-    "geom:area_square_m":25918380.483532,
+    "geom:area_square_m":25918300.575496,
     "geom:bbox":"40.433433,52.871508,40.547852,52.920986",
     "geom:latitude":52.896639,
     "geom:longitude":40.48968,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Michurinsk District"
+        "Michurinsk Gorod"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "gorod"
     ],
     "label:rus_latn_x_preferred_longname":[
         "skoj okrug Michurinsk"
@@ -202,6 +202,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2000-01-01",
+    "statoids:areakm":96,
+    "statoids:capital":"Michurinsk",
+    "statoids:country":"RU",
+    "statoids:date":"2000-01-01",
+    "statoids:hasc":"RU.TB.MG",
+    "statoids:name":"Michurinsk",
+    "statoids:population":120700,
+    "statoids:statoid":"RU.TB",
+    "statoids:timezone":"+3",
+    "statoids:type":"gorod",
     "wof:belongsto":[
         102191581,
         85687829,
@@ -209,10 +221,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.TB.MG"
+    },
     "wof:country":"RU",
     "wof:created":1478900828,
-    "wof:geomhash":"23adc233241cc6d62ded9e88243eabd8",
+    "wof:geomhash":"a3ccc23187951d36d7dff96e84f8dd99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -223,10 +237,12 @@
         }
     ],
     "wof:id":1108733819,
-    "wof:lastmodified":1636497200,
+    "wof:lastmodified":1694492928,
     "wof:name":"Michurinsk",
     "wof:parent_id":85687829,
     "wof:placetype":"county",
+    "wof:population":120700,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

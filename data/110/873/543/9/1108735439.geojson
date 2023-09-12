@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01721,
-    "geom:area_square_m":120624362.519587,
+    "geom:area_square_m":120624369.495545,
     "geom:bbox":"78.244664,55.409701,78.442746,55.528432",
     "geom:latitude":55.469673,
     "geom:longitude":78.342088,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Kuybyshevskiy District"
+        "Kuybyshevskiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "NO DATA"
@@ -131,10 +131,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.NS.KR"
+    },
     "wof:country":"RU",
     "wof:created":1478902185,
-    "wof:geomhash":"0ed423c45f3a01a0bf22b00f34087cb2",
+    "wof:geomhash":"da049eb6108cfc1e86a2116c6320aa62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":1108735439,
-    "wof:lastmodified":1636497193,
+    "wof:lastmodified":1694492927,
     "wof:name":"Kuybyshevskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",

@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00748,
-    "geom:area_square_m":50555327.330412,
+    "geom:area_square_m":50555342.649591,
     "geom:bbox":"37.240072,56.804031,37.409517,56.915454",
     "geom:latitude":56.867408,
     "geom:longitude":37.34228,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Kimry District"
+        "Kimry Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "skoj okrug Kimry"
@@ -218,10 +218,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.TV.KM"
+    },
     "wof:country":"RU",
     "wof:created":1478900790,
-    "wof:geomhash":"e6bd09364fe8f13570cd99db5b0d5074",
+    "wof:geomhash":"44c8ccb378dc113e137cfb449e695139",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -232,7 +234,7 @@
         }
     ],
     "wof:id":1108733775,
-    "wof:lastmodified":1636497192,
+    "wof:lastmodified":1694492927,
     "wof:name":"Kimry",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

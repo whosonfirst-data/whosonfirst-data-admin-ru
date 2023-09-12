@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.161367,
-    "geom:area_square_m":1356898289.986382,
+    "geom:area_square_m":1356898020.327173,
     "geom:bbox":"40.493231,46.934644,41.164171,47.362074",
     "geom:latitude":47.153428,
     "geom:longitude":40.805384,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Veselovskiy District"
+        "Veselovskiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Veselovskij rajon"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.RO.VS"
+    },
     "wof:country":"RU",
     "wof:created":1478903723,
-    "wof:geomhash":"b78dc29a9530a039f5ac66932f4955ec",
+    "wof:geomhash":"f70431bca9a0e46c4c39ea8d4a5bb4f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108737391,
-    "wof:lastmodified":1627522725,
+    "wof:lastmodified":1694492785,
     "wof:name":"Veselovskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

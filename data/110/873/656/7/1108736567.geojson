@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003094,
-    "geom:area_square_m":23620864.005874,
+    "geom:area_square_m":23620836.559924,
     "geom:bbox":"36.854131,51.852786,37.009477,51.894952",
     "geom:latitude":51.87242,
     "geom:longitude":36.935172,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Shchigrovskiy District"
+        "Shchigrovskiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "SHHigry"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.KS.SR"
+    },
     "wof:country":"RU",
     "wof:created":1478903056,
-    "wof:geomhash":"f8db68b5c501cc4954bb52d22e2da350",
+    "wof:geomhash":"68a950cd512c5e87a711a09a004f5ee4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108736567,
-    "wof:lastmodified":1627522683,
+    "wof:lastmodified":1694492770,
     "wof:name":"Shchigrovskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

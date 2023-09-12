@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030377,
-    "geom:area_square_m":234456873.382977,
+    "geom:area_square_m":234456798.89817,
     "geom:bbox":"127.919125,51.285974,128.246469,51.471037",
     "geom:latitude":51.37699,
     "geom:longitude":128.093421,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Svobodnyj District"
+        "Svobodnyj Gorsovet"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "gorsovet"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Svobodnyj"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.AM.SV"
+    },
     "wof:country":"RU",
     "wof:created":1478903312,
-    "wof:geomhash":"8a637ea6c5b120eeff05a61417ab6f7f",
+    "wof:geomhash":"8c5755411a2cec27e4963a0ad15049cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108736889,
-    "wof:lastmodified":1627522698,
+    "wof:lastmodified":1694492775,
     "wof:name":"Svobodnyj",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

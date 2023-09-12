@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000225,
-    "geom:area_square_m":1605445.746702,
+    "geom:area_square_m":1605426.840195,
     "geom:bbox":"47.836713,54.752558,47.852435,54.774612",
     "geom:latitude":54.764288,
     "geom:longitude":47.845095,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Drozhzhanovskiy District"
+        "Drozhzhanovskiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "NO DATA"
@@ -83,10 +83,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.TT.DR"
+    },
     "wof:country":"RU",
     "wof:created":1478902180,
-    "wof:geomhash":"4b71db6db045803969f55f3777978a20",
+    "wof:geomhash":"f79d2e0d0b1f30e221ce679a8eb6538e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":1108735421,
-    "wof:lastmodified":1627522563,
+    "wof:lastmodified":1694492728,
     "wof:name":"Drozhzhanovskiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",

@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013287,
-    "geom:area_square_m":101195235.897569,
+    "geom:area_square_m":101195235.897525,
     "geom:bbox":"84.8599074435,51.8869240948,85.0501864848,52.0493155218",
     "geom:latitude":51.980095,
     "geom:longitude":84.963198,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Belokurikha District"
+        "Belokurikha Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Belokurikha"
@@ -176,10 +176,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.AL.SM"
+    },
     "wof:country":"RU",
     "wof:created":1478900033,
-    "wof:geomhash":"999933b0728b01027faecb4e8c1b2ad8",
+    "wof:geomhash":"0c22c52935f66ec1395bf68c36574abb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -190,7 +192,7 @@
         }
     ],
     "wof:id":1108732953,
-    "wof:lastmodified":1566626985,
+    "wof:lastmodified":1694492381,
     "wof:name":"Belokurikha",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

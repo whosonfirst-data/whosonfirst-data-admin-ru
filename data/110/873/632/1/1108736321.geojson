@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011177,
-    "geom:area_square_m":86013629.779189,
+    "geom:area_square_m":86013618.832744,
     "geom:bbox":"81.140638,51.46028,81.316902,51.57877",
     "geom:latitude":51.51225,
     "geom:longitude":81.221473,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Rubcovsk District"
+        "Rubcovsk Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Rubcovsk"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.AL.RR"
+    },
     "wof:country":"RU",
     "wof:created":1478902863,
-    "wof:geomhash":"70a261603a889960bd961ddad7969df6",
+    "wof:geomhash":"64140d58cd313ef35c117c2e8e5bd865",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108736321,
-    "wof:lastmodified":1627522673,
+    "wof:lastmodified":1694492766,
     "wof:name":"Rubcovsk",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

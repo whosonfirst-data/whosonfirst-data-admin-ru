@@ -5,17 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015976,
-    "geom:area_square_m":107584379.198522,
+    "geom:area_square_m":107584172.505165,
     "geom:bbox":"40.880774,56.944921,41.084782,57.068598",
     "geom:latitude":57.003003,
     "geom:longitude":40.983325,
     "gp:adm0":23424936,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Ivanovo District"
+        "Ivanovo Gorod"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "gorod"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Ivanovo"
@@ -112,6 +112,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2000-01-01",
+    "statoids:areakm":98,
+    "statoids:capital":"Ivanovo",
+    "statoids:country":"RU",
+    "statoids:date":"2000-01-01",
+    "statoids:hasc":"RU.IV.IG",
+    "statoids:name":"Ivanovo",
+    "statoids:population":459200,
+    "statoids:statoid":"RU.IV",
+    "statoids:timezone":"+3",
+    "statoids:type":"gorod",
     "wd:wordcount":792,
     "wof:belongsto":[
         102191581,
@@ -122,6 +134,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598299,
+        "hasc:id":"RU.IV.IG",
         "qs_pg:id":1311574,
         "wk:page":"Yuryevetsky District"
     },
@@ -130,7 +143,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1a8095eff86548a806caa5c287fe1eb1",
+    "wof:geomhash":"f72bea499b083baea45607cd771c04ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,11 +154,13 @@
         }
     ],
     "wof:id":890480459,
-    "wof:lastmodified":1642541531,
+    "wof:lastmodified":1694493017,
     "wof:name":"Ivanovo",
     "wof:parent_id":85688153,
     "wof:placetype":"county",
     "wof:placetype_local":"district",
+    "wof:population":459200,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.539804,
-    "geom:area_square_m":3505662596.742648,
+    "geom:area_square_m":3505662775.899212,
     "geom:bbox":"56.636777,57.967287,58.218632,58.710225",
     "geom:latitude":58.317504,
     "geom:longitude":57.429865,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Chusovskoj District"
+        "Chusovskoj Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "CHusovskoj rajon"
@@ -90,10 +90,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.PE.CS"
+    },
     "wof:country":"RU",
     "wof:created":1478900359,
-    "wof:geomhash":"6301c3b5693a0f74288ae1d2423b09e7",
+    "wof:geomhash":"ceb3ebfe306b09a7cd06877789b73fca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":1108733309,
-    "wof:lastmodified":1627522707,
+    "wof:lastmodified":1694492777,
     "wof:name":"Chusovskoj",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

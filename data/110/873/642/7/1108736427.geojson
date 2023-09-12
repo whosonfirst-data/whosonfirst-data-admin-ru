@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.571942,
-    "geom:area_square_m":3863178632.324351,
+    "geom:area_square_m":3863178358.849154,
     "geom:bbox":"44.001267,56.527324,45.171036,57.423387",
     "geom:latitude":56.889631,
     "geom:longitude":44.554537,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Semjonovskiy District"
+        "Semjonovskiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Semjonovskij skoj okrug"
@@ -90,10 +90,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.NZ.SM"
+    },
     "wof:country":"RU",
     "wof:created":1478902942,
-    "wof:geomhash":"4b791be548ef4bd7a3773250e4843c7d",
+    "wof:geomhash":"3fcca5c6335a52c14a865b1ec4c05ec2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":1108736427,
-    "wof:lastmodified":1627522678,
+    "wof:lastmodified":1694492768,
     "wof:name":"Semjonovskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

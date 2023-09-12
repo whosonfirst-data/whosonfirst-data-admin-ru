@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039307,
-    "geom:area_square_m":295856022.202423,
+    "geom:area_square_m":295855833.324863,
     "geom:bbox":"84.84316,52.424463,85.328446,52.591724",
     "geom:latitude":52.504236,
     "geom:longitude":85.070695,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Bijsk District"
+        "Bijsk Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Bijsk"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.AL.BR"
+    },
     "wof:country":"RU",
     "wof:created":1478900079,
-    "wof:geomhash":"a6796d262d289039559a4a9af158e118",
+    "wof:geomhash":"34a8c0077febdc1e3931f77124421e69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108732993,
-    "wof:lastmodified":1627522546,
+    "wof:lastmodified":1694492722,
     "wof:name":"Bijsk",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.295179,
-    "geom:area_square_m":1976049632.007258,
+    "geom:area_square_m":1976049229.858521,
     "geom:bbox":"43.084824,56.820187,43.876054,57.609231",
     "geom:latitude":57.221371,
     "geom:longitude":43.427985,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Sokol'skiy District"
+        "Sokol'skiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Sokol'skij rajon"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.IV.SO"
+    },
     "wof:country":"RU",
     "wof:created":1478903144,
-    "wof:geomhash":"c41f1aef4e114904f3dd74659249a3c2",
+    "wof:geomhash":"fb1d59da4578787af71ca489aa31e6d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108736679,
-    "wof:lastmodified":1627522689,
+    "wof:lastmodified":1694492772,
     "wof:name":"Sokol'skiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

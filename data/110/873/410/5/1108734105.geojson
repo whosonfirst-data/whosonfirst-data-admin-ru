@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00681,
-    "geom:area_square_m":50764643.49908,
+    "geom:area_square_m":50764777.329518,
     "geom:bbox":"78.499754,52.867152,78.675661,52.961703",
     "geom:latitude":52.923778,
     "geom:longitude":78.578893,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Jarovoe District"
+        "Jarovoe Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "JArovoe"
@@ -90,10 +90,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.AL.SR"
+    },
     "wof:country":"RU",
     "wof:created":1478901078,
-    "wof:geomhash":"4d0c39f03e0a7e3949b01af57d6d1536",
+    "wof:geomhash":"fd052347ed1db3a0da6395b7d7c14f27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":1108734105,
-    "wof:lastmodified":1627522574,
+    "wof:lastmodified":1694492732,
     "wof:name":"Jarovoe",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

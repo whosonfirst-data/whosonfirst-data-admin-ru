@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.509475,
-    "geom:area_square_m":3350857103.544087,
+    "geom:area_square_m":3350856600.53739,
     "geom:bbox":"30.84478,57.368993,31.997291,58.275071",
     "geom:latitude":57.865632,
     "geom:longitude":31.416938,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Starorusskiy District"
+        "Starorusskiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Starorusskij rajon"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.NG.SR"
+    },
     "wof:country":"RU",
     "wof:created":1478903237,
-    "wof:geomhash":"986e0a660fc90be97ff978dd2011cb29",
+    "wof:geomhash":"f0fe904c7f71ffbecdf888b732fa6459",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108736803,
-    "wof:lastmodified":1627522695,
+    "wof:lastmodified":1694492774,
     "wof:name":"Starorusskiy",
     "wof:parent_id":85688095,
     "wof:placetype":"county",

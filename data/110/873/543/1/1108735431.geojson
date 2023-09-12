@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.238458,
-    "geom:area_square_m":19766329307.171764,
+    "geom:area_square_m":19766328918.125534,
     "geom:bbox":"30.025821,59.584352,34.625328,61.124164",
     "geom:latitude":60.421163,
     "geom:longitude":32.365326,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Slantsevskiy District"
+        "Slantsevskiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "NO DATA"
@@ -83,10 +83,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.LN.SR"
+    },
     "wof:country":"RU",
     "wof:created":1478902182,
-    "wof:geomhash":"856e0322569dba05de3eff728575168f",
+    "wof:geomhash":"0f722b2c9cf140424652175742d8cc04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":1108735431,
-    "wof:lastmodified":1627522687,
+    "wof:lastmodified":1694492771,
     "wof:name":"Slantsevskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",

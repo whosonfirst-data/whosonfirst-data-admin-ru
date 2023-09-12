@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.746909,
-    "geom:area_square_m":4750060083.353542,
+    "geom:area_square_m":4750060102.19104,
     "geom:bbox":"60.994889,58.545347,62.573533,59.451044",
     "geom:latitude":59.048055,
     "geom:longitude":61.853557,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Sos'vinskiy District"
+        "Sos'vinskiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Sos'vinskij skoj okrug"
@@ -90,10 +90,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.SV.SR"
+    },
     "wof:country":"RU",
     "wof:created":1478903173,
-    "wof:geomhash":"cad49156e76b45ff80d2eeafa315bea7",
+    "wof:geomhash":"0c2a2b01be2de8c3f91df99f11910d87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":1108736725,
-    "wof:lastmodified":1627522690,
+    "wof:lastmodified":1694492772,
     "wof:name":"Sos'vinskiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

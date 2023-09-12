@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045733,
-    "geom:area_square_m":310669850.293268,
+    "geom:area_square_m":310669850.293228,
     "geom:bbox":"84.6143623485,56.5528724571,85.0079160449,56.8344286667",
     "geom:latitude":56.675822,
     "geom:longitude":84.836394,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Seversk District"
+        "Seversk Gorod"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "gorod"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Seversk"
@@ -215,10 +215,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.TO.TG"
+    },
     "wof:country":"RU",
     "wof:created":1478902992,
-    "wof:geomhash":"7bf3375aa1951b4f080198479e8f7cd4",
+    "wof:geomhash":"b5d35bd1dae9a7c870bb1094c933fef5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -229,7 +231,7 @@
         }
     ],
     "wof:id":1108736481,
-    "wof:lastmodified":1566627233,
+    "wof:lastmodified":1694492385,
     "wof:name":"Seversk",
     "wof:parent_id":85687809,
     "wof:placetype":"county",

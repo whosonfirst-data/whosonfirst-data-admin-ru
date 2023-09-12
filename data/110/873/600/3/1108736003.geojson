@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002685,
-    "geom:area_square_m":23977992.717662,
+    "geom:area_square_m":23978097.501562,
     "geom:bbox":"43.974149,43.734615,44.084085,43.778622",
     "geom:latitude":43.75682,
     "geom:longitude":44.02868,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Prokhladnyj District"
+        "Prokhladnyj Gorod"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "gorod"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Prokhladnyj"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.KB.PG"
+    },
     "wof:country":"RU",
     "wof:created":1478902630,
-    "wof:geomhash":"701d7ec8e4a41d19f74edef4fca237b3",
+    "wof:geomhash":"eccd4ea843dbb948eb4a28076aae4d14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108736003,
-    "wof:lastmodified":1627522668,
+    "wof:lastmodified":1694492764,
     "wof:name":"Prokhladnyj",
     "wof:parent_id":85688089,
     "wof:placetype":"county",

@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015658,
-    "geom:area_square_m":122130384.343458,
+    "geom:area_square_m":122130485.207294,
     "geom:bbox":"128.358961,50.83564,128.576507,50.945862",
     "geom:latitude":50.891838,
     "geom:longitude":128.464237,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Belogorsk District"
+        "Belogorsk Gorsovet"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "gorsovet"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Belogorsk"
@@ -143,10 +143,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.AM.BG"
+    },
     "wof:country":"RU",
     "wof:created":1478900017,
-    "wof:geomhash":"951a43b96e792cf27b21e3230291305e",
+    "wof:geomhash":"bb5e6cabcf0e27afd2fd678021aa4ab2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":1108732939,
-    "wof:lastmodified":1636497191,
+    "wof:lastmodified":1694492927,
     "wof:name":"Belogorsk",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

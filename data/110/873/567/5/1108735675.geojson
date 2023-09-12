@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.643552,
-    "geom:area_square_m":60208336729.013458,
+    "geom:area_square_m":60208338832.081009,
     "geom:bbox":"153.201318,60.926305,158.606532,65.06948",
     "geom:latitude":62.770688,
     "geom:longitude":156.074873,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Omsukchanskiy District"
+        "Omsukchanskiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Omsukchanskij rajon"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.MG.OM"
+    },
     "wof:country":"RU",
     "wof:created":1478902367,
-    "wof:geomhash":"2d43988e7e7df6d5782d34c628484195",
+    "wof:geomhash":"abc0fb56c1a2d8b6b23341f1834a8791",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108735675,
-    "wof:lastmodified":1627522651,
+    "wof:lastmodified":1694492758,
     "wof:name":"Omsukchanskiy",
     "wof:parent_id":85687881,
     "wof:placetype":"county",

@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04867,
-    "geom:area_square_m":279767446.706598,
+    "geom:area_square_m":279767394.910435,
     "geom:bbox":"74.34639,62.124481,74.850334,62.428127",
     "geom:latitude":62.298238,
     "geom:longitude":74.558547,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Kogalymskiy District"
+        "Kogalymskiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Kogalymskij skoj okrug"
@@ -90,10 +90,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.KM.SR"
+    },
     "wof:country":"RU",
     "wof:created":1478901427,
-    "wof:geomhash":"b2919b85f6ed3323e2df85d8cfdab5f1",
+    "wof:geomhash":"587b50340ad5741f9eb98d6779e1e680",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":1108734519,
-    "wof:lastmodified":1627522601,
+    "wof:lastmodified":1694492740,
     "wof:name":"Kogalymskiy",
     "wof:parent_id":85687919,
     "wof:placetype":"county",

@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.182983,
-    "geom:area_square_m":1242577454.699296,
+    "geom:area_square_m":1242577011.820885,
     "geom:bbox":"60.871504,56.45424,61.746681,56.946223",
     "geom:latitude":56.689406,
     "geom:longitude":61.335092,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Belojarskiy District"
+        "Belojarskiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Belojarskij skoj okrug"
@@ -90,10 +90,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.SV.BY"
+    },
     "wof:country":"RU",
     "wof:created":1478900019,
-    "wof:geomhash":"cfceafeb1939d91ec1589fd8cc871a28",
+    "wof:geomhash":"e37d64d9509847b9fdaa53dea1717f3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":1108732943,
-    "wof:lastmodified":1627522544,
+    "wof:lastmodified":1694492721,
     "wof:name":"Belojarskiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

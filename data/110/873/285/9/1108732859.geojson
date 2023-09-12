@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001387,
-    "geom:area_square_m":12402887.228977,
+    "geom:area_square_m":12403038.351005,
     "geom:bbox":"43.514449,43.667787,43.578687,43.698302",
     "geom:latitude":43.683271,
     "geom:longitude":43.546445,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Baksan District"
+        "Baksan Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Baksan"
@@ -128,10 +128,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.KB.BA"
+    },
     "wof:country":"RU",
     "wof:created":1478899946,
-    "wof:geomhash":"e95e6d697966d6f3a776f3177f76a614",
+    "wof:geomhash":"cbc41fdf16dfd94935192adbdfcac423",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +144,7 @@
         }
     ],
     "wof:id":1108732859,
-    "wof:lastmodified":1627522540,
+    "wof:lastmodified":1694492720,
     "wof:name":"Baksan",
     "wof:parent_id":85688089,
     "wof:placetype":"county",

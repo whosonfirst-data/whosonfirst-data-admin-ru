@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051419,
-    "geom:area_square_m":330254852.483735,
+    "geom:area_square_m":330254804.21907,
     "geom:bbox":"59.250991,58.536283,59.652379,58.828797",
     "geom:latitude":58.706015,
     "geom:longitude":59.46955,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Kachkanarskiy District"
+        "Kachkanarskiy Gorsovet"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "gorsovet"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Kachkanarskij skoj okrug"
@@ -90,10 +90,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.SV.KC"
+    },
     "wof:country":"RU",
     "wof:created":1478901135,
-    "wof:geomhash":"59a7fcd1feef70ff7c6de5a0e22a725f",
+    "wof:geomhash":"7d3b737a55c4d5045b807e6ca5e205a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":1108734171,
-    "wof:lastmodified":1627522591,
+    "wof:lastmodified":1694492737,
     "wof:name":"Kachkanarskiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

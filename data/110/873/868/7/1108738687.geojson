@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000117,
-    "geom:area_square_m":1025614.41648,
+    "geom:area_square_m":1025629.402431,
     "geom:bbox":"34.015082,44.999497,34.03487,45.013881",
     "geom:latitude":45.006614,
     "geom:longitude":34.02627,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Hresivska District"
+        "Hresivska Mis'ka Rada"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "mis'ka rada"
     ],
     "label:rus_latn_x_preferred_longname":[
         null
@@ -67,6 +67,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2001-12-05",
+    "statoids:areakm":107,
+    "statoids:capital":"Simferopol'",
+    "statoids:country":"UA",
+    "statoids:date":"2001-12-05",
+    "statoids:hasc":"UA.KR.SM",
+    "statoids:name":"Simferopol's'ka",
+    "statoids:population":363597,
+    "statoids:statoid":"UA.KR",
+    "statoids:timezone":"+2~",
+    "statoids:type":"mis'ka rada",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -76,10 +88,12 @@
         85633805
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"UA.KR.SM"
+    },
     "wof:country":"RU",
     "wof:created":1478904079,
-    "wof:geomhash":"e01fa0a98d102c58f3499e52ac039c7d",
+    "wof:geomhash":"ecd9d27c637d02b1d43048535ced3deb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +112,12 @@
         }
     ],
     "wof:id":1108738687,
-    "wof:lastmodified":1627522573,
+    "wof:lastmodified":1694492732,
     "wof:name":"Hresivska",
     "wof:parent_id":85688855,
     "wof:placetype":"county",
+    "wof:population":363597,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

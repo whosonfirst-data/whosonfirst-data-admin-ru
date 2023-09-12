@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058203,
-    "geom:area_square_m":522943843.705688,
+    "geom:area_square_m":522943758.037683,
     "geom:bbox":"132.037241,43.236003,132.376033,43.541069",
     "geom:latitude":43.395723,
     "geom:longitude":132.218715,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Artemovskiy District"
+        "Artemovskiy Gorsovet"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "gorsovet"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Artemovskij okrug"
@@ -117,10 +117,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.PR.AT"
+    },
     "wof:country":"RU",
     "wof:created":1478899869,
-    "wof:geomhash":"f58a5ce035bf90e6fd5c42e0090f6547",
+    "wof:geomhash":"f0cb0d76af51256137e2b8b19b3c0d6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,7 +133,7 @@
         }
     ],
     "wof:id":1108732787,
-    "wof:lastmodified":1636497197,
+    "wof:lastmodified":1694492928,
     "wof:name":"Artemovskiy",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

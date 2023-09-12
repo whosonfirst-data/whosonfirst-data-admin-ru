@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01559,
-    "geom:area_square_m":117795436.966407,
+    "geom:area_square_m":117795507.822264,
     "geom:bbox":"35.325499,52.261425,35.542292,52.402009",
     "geom:latitude":52.334503,
     "geom:longitude":35.430485,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Zheleznogorsk District"
+        "Zheleznogorsk Gorod"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "gorod"
     ],
     "label:rus_latn_x_preferred_longname":[
         "ZHeleznogorsk"
@@ -170,10 +170,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.KS.ZG"
+    },
     "wof:country":"RU",
     "wof:created":1478903877,
-    "wof:geomhash":"985c5b06d91151b98d4e0dd748f6a580",
+    "wof:geomhash":"7319c0c1228b0485ebd1d8e0499cb220",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -184,7 +186,7 @@
         }
     ],
     "wof:id":1108738083,
-    "wof:lastmodified":1636497198,
+    "wof:lastmodified":1694492928,
     "wof:name":"Zheleznogorsk",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090946,
-    "geom:area_square_m":606855886.005706,
+    "geom:area_square_m":606855527.530008,
     "geom:bbox":"41.095203,57.165855,41.693827,57.480148",
     "geom:latitude":57.340979,
     "geom:longitude":41.394202,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Privolzhskiy District"
+        "Privolzhskiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Privolzhskij rajon"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.IV.PR"
+    },
     "wof:country":"RU",
     "wof:created":1478902624,
-    "wof:geomhash":"c9200bab1dcb76d8b83f8ea68868131e",
+    "wof:geomhash":"56aeac43f338b816e97195e025151b87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108735993,
-    "wof:lastmodified":1627522668,
+    "wof:lastmodified":1694492764,
     "wof:name":"Privolzhskiy",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

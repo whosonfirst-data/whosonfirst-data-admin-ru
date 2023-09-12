@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006679,
-    "geom:area_square_m":50018367.152023,
+    "geom:area_square_m":50018367.152022,
     "geom:bbox":"41.3810544967,52.6707637991,41.4882461164,52.7741728403",
     "geom:latitude":52.723735,
     "geom:longitude":41.434689,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Tambov District"
+        "Tambov Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "skoj okrug Tambov"
@@ -299,10 +299,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.TB.TR"
+    },
     "wof:country":"RU",
     "wof:created":1478900881,
-    "wof:geomhash":"142bfe8e7c87c69d65a648f931807123",
+    "wof:geomhash":"efee916bf16b1a2072cfb44e10d919ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -313,7 +315,7 @@
         }
     ],
     "wof:id":1108733875,
-    "wof:lastmodified":1566627357,
+    "wof:lastmodified":1694492386,
     "wof:name":"Tambov",
     "wof:parent_id":85687829,
     "wof:placetype":"county",

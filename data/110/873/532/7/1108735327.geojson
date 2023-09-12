@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.426616,
-    "geom:area_square_m":3756188159.305277,
+    "geom:area_square_m":3756188418.6094,
     "geom:bbox":"44.555583,44.245165,45.700368,44.991218",
     "geom:latitude":44.597951,
     "geom:longitude":45.126408,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Neftekumskiy District"
+        "Neftekumskiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Neftekumskij rajon"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.ST.NF"
+    },
     "wof:country":"RU",
     "wof:created":1478902114,
-    "wof:geomhash":"73e90beb8bfd976e71022d13501006b7",
+    "wof:geomhash":"4749eb0f94b8c27236b007929de9bc54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108735327,
-    "wof:lastmodified":1627522635,
+    "wof:lastmodified":1694492753,
     "wof:name":"Neftekumskiy",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

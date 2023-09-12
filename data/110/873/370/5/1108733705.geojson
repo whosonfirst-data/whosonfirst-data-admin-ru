@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031768,
-    "geom:area_square_m":220844066.202568,
+    "geom:area_square_m":220844066.202566,
     "geom:bbox":"37.7750603828,55.6934277554,38.1574518332,55.8800930282",
     "geom:latitude":55.791354,
     "geom:longitude":37.963767,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Balashikha District"
+        "Balashikha Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "skoj okrug Balashikha"
@@ -257,10 +257,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.MS.BR"
+    },
     "wof:country":"RU",
     "wof:created":1478900746,
-    "wof:geomhash":"6ccd35df93e008f325e5652628926216",
+    "wof:geomhash":"7992e05ea96d56ae8e60e29ce0692f0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -271,7 +273,7 @@
         }
     ],
     "wof:id":1108733705,
-    "wof:lastmodified":1566627054,
+    "wof:lastmodified":1694492382,
     "wof:name":"Balashikha",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

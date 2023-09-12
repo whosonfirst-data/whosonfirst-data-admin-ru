@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.266879,
-    "geom:area_square_m":2243152270.396254,
+    "geom:area_square_m":2243152237.102626,
     "geom:bbox":"141.945304,46.822844,142.524716,47.623506",
     "geom:latitude":47.176217,
     "geom:longitude":142.20511,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Kholmskiy District"
+        "Kholmskiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "KHolmskij rajon"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.SL.KR"
+    },
     "wof:country":"RU",
     "wof:created":1478901304,
-    "wof:geomhash":"c1972d793374dc1e82be566812f05fbd",
+    "wof:geomhash":"fe3d54f04281d049b1b0db6c10f5d124",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108734379,
-    "wof:lastmodified":1627522594,
+    "wof:lastmodified":1694492738,
     "wof:name":"Kholmskiy",
     "wof:parent_id":85688125,
     "wof:placetype":"county",

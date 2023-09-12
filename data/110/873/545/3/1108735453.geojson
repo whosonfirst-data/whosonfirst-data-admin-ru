@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000139,
-    "geom:area_square_m":999292.242743,
+    "geom:area_square_m":999308.628878,
     "geom:bbox":"42.639768,54.550713,42.655707,54.564754",
     "geom:latitude":54.55659,
     "geom:longitude":42.647626,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Kadomskiy District"
+        "Kadomskiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "NO DATA"
@@ -83,10 +83,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.RZ.KA"
+    },
     "wof:country":"RU",
     "wof:created":1478902190,
-    "wof:geomhash":"671510ddc58f2c13eb0291b67a6ea83c",
+    "wof:geomhash":"679c73b5f19ba986e219b602d2a98738",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":1108735453,
-    "wof:lastmodified":1627522584,
+    "wof:lastmodified":1694492735,
     "wof:name":"Kadomskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007488,
-    "geom:area_square_m":59797427.687822,
+    "geom:area_square_m":59797556.795693,
     "geom:bbox":"43.584279,49.725137,43.764592,49.806162",
     "geom:latitude":49.770488,
     "geom:longitude":43.673625,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Frolovo District"
+        "Frolovo Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Frolovo"
@@ -200,10 +200,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.VG.FR"
+    },
     "wof:country":"RU",
     "wof:created":1478900556,
-    "wof:geomhash":"fd0e91018e851eceeadf20e0978b518b",
+    "wof:geomhash":"91f3102cdd24a4cdbfec8c73009d914d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -214,7 +216,7 @@
         }
     ],
     "wof:id":1108733539,
-    "wof:lastmodified":1636497189,
+    "wof:lastmodified":1694492927,
     "wof:name":"Frolovo",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015749,
-    "geom:area_square_m":131761286.916845,
+    "geom:area_square_m":131761286.916878,
     "geom:bbox":"39.9695615676,47.3326592541,40.2709416895,47.5116441725",
     "geom:latitude":47.422498,
     "geom:longitude":40.093836,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Novocherkassk District"
+        "Novocherkassk Gorsovet"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "gorsovet"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Novocherkassk"
@@ -248,10 +248,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.RO.NC"
+    },
     "wof:country":"RU",
     "wof:created":1478902217,
-    "wof:geomhash":"3dca93e56d47e2a61a5ddb1937378d4d",
+    "wof:geomhash":"0741dca86bcd19ac39169bc64c8a2383",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -262,7 +264,7 @@
         }
     ],
     "wof:id":1108735489,
-    "wof:lastmodified":1566627378,
+    "wof:lastmodified":1694492387,
     "wof:name":"Novocherkassk",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.498531,
-    "geom:area_square_m":3402536063.822778,
+    "geom:area_square_m":3402535898.946974,
     "geom:bbox":"56.37492,56.104119,57.439674,56.891191",
     "geom:latitude":56.498046,
     "geom:longitude":56.956762,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Oktjabr'skiy District"
+        "Oktjabr'skiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Oktjabr'skij rajon"
@@ -113,6 +113,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2000-01-01",
+    "statoids:areakm":3328,
+    "statoids:capital":"Yekaterinoslavka",
+    "statoids:country":"RU",
+    "statoids:date":"2000-01-01",
+    "statoids:hasc":"RU.AM.OK",
+    "statoids:name":"Oktyabr'skiy",
+    "statoids:population":23900,
+    "statoids:statoid":"RU.AM",
+    "statoids:timezone":"+9",
+    "statoids:type":"raion",
     "wof:belongsto":[
         102191581,
         85687975,
@@ -121,11 +133,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"RU.AM.OK",
         "wd:id":"Q830108"
     },
     "wof:country":"RU",
     "wof:created":1478902339,
-    "wof:geomhash":"831913943c9ae4748aca70a4a4af27d3",
+    "wof:geomhash":"9dfb63098f62b60627214e228e2472b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,10 +149,12 @@
         }
     ],
     "wof:id":1108735635,
-    "wof:lastmodified":1690859553,
+    "wof:lastmodified":1694492758,
     "wof:name":"Oktjabr'skiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",
+    "wof:population":23900,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

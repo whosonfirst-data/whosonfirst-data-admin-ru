@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":29.012126,
-    "geom:area_square_m":139312965380.312775,
+    "geom:area_square_m":139312966082.677429,
     "geom:bbox":"117.422129,64.68877,127.586684,69.513688",
     "geom:latitude":67.144393,
     "geom:longitude":123.104152,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Zhiganskiy District"
+        "Zhiganskiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "ZHiganskij ulus"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.SK.ZH"
+    },
     "wof:country":"RU",
     "wof:created":1478903883,
-    "wof:geomhash":"b157d7cc110b92b9e5fda04c2b1a4ffe",
+    "wof:geomhash":"deb0ce87eb9ab0dc4ab0974062ff9009",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108738115,
-    "wof:lastmodified":1627522582,
+    "wof:lastmodified":1694492734,
     "wof:name":"Zhiganskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",

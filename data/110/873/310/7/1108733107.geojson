@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025262,
-    "geom:area_square_m":186804765.338353,
+    "geom:area_square_m":186804586.569574,
     "geom:bbox":"34.200971,53.183304,34.562081,53.373991",
     "geom:latitude":53.271038,
     "geom:longitude":34.369237,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Brjansk District"
+        "Brjansk Gorsovet"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "gorsovet"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Brjansk"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.BR.BG"
+    },
     "wof:country":"RU",
     "wof:created":1478900176,
-    "wof:geomhash":"001deb7ff79700429bf7253873bf777a",
+    "wof:geomhash":"7d4bc0fbfe10e981bcbcf41985168572",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108733107,
-    "wof:lastmodified":1627522552,
+    "wof:lastmodified":1694492724,
     "wof:name":"Brjansk",
     "wof:parent_id":85688121,
     "wof:placetype":"county",

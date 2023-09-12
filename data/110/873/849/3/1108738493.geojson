@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.18059,
-    "geom:area_square_m":1587201825.454068,
+    "geom:area_square_m":1587201944.032906,
     "geom:bbox":"33.568105,44.422184,34.280747,44.931736",
     "geom:latitude":44.701041,
     "geom:longitude":33.91689,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Bakhchysaraiskyi District"
+        "Bakhchysaraiskyi Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         null
@@ -67,6 +67,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2001-12-05",
+    "statoids:areakm":1589,
+    "statoids:capital":"Bakhchysarai",
+    "statoids:country":"UA",
+    "statoids:date":"2001-12-05",
+    "statoids:hasc":"UA.KR.BA",
+    "statoids:name":"Bakhchysarais'kyi",
+    "statoids:population":92617,
+    "statoids:statoid":"UA.KR",
+    "statoids:timezone":"+2~",
+    "statoids:type":"raion",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -76,10 +88,12 @@
         85633805
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"UA.KR.BA"
+    },
     "wof:country":"RU",
     "wof:created":1478903947,
-    "wof:geomhash":"2edb01ee959ff7a0f4edabc97c5fba71",
+    "wof:geomhash":"dd53666dd66a1ab68c3d68e25dbc65d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +112,12 @@
         }
     ],
     "wof:id":1108738493,
-    "wof:lastmodified":1627522670,
+    "wof:lastmodified":1694492765,
     "wof:name":"Bakhchysaraiskyi",
     "wof:parent_id":85688855,
     "wof:placetype":"county",
+    "wof:population":92617,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

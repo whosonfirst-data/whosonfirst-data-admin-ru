@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003894,
-    "geom:area_square_m":34128036.721583,
+    "geom:area_square_m":34128035.771444,
     "geom:bbox":"39.16904,44.825205,39.246879,44.907066",
     "geom:latitude":44.871069,
     "geom:longitude":39.209267,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Adygejsk District"
+        "Adygejsk Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Adygejsk"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.AD.TE"
+    },
     "wof:country":"RU",
     "wof:created":1478899727,
-    "wof:geomhash":"d5bfdf2d04f69c61a1c2fc47511fee46",
+    "wof:geomhash":"1e774d50dd027d2b601fd9725dac4226",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108732621,
-    "wof:lastmodified":1627522529,
+    "wof:lastmodified":1694492716,
     "wof:name":"Adygejsk",
     "wof:parent_id":85688135,
     "wof:placetype":"county",

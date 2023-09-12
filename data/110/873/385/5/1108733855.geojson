@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005605,
-    "geom:area_square_m":39095503.816129,
+    "geom:area_square_m":39095354.936648,
     "geom:bbox":"39.780534,55.626746,39.921844,55.69565",
     "geom:latitude":55.66069,
     "geom:longitude":39.85579,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Roshal' District"
+        "Roshal' Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "skoj okrug Roshal'"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.MS.SA"
+    },
     "wof:country":"RU",
     "wof:created":1478900862,
-    "wof:geomhash":"b6577f827889502926ff197f01174a42",
+    "wof:geomhash":"8a8cd0b695bfc2cdc905565f3755c1e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108733855,
-    "wof:lastmodified":1627522672,
+    "wof:lastmodified":1694492765,
     "wof:name":"Roshal'",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

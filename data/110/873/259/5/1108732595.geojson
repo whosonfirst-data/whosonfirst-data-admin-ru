@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012489,
-    "geom:area_square_m":93743898.142285,
+    "geom:area_square_m":93744087.925607,
     "geom:bbox":"90.033558,52.567262,90.213203,52.69528",
     "geom:latitude":52.625677,
     "geom:longitude":90.122365,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Abaza District"
+        "Abaza Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Abaza"
@@ -152,10 +152,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.KK.TA"
+    },
     "wof:country":"RU",
     "wof:created":1478899709,
-    "wof:geomhash":"415e5c1e484500c90c40f27bd1107bcc",
+    "wof:geomhash":"81fb45e3b61f8dd345110b838e4b5c01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,7 +168,7 @@
         }
     ],
     "wof:id":1108732595,
-    "wof:lastmodified":1636497190,
+    "wof:lastmodified":1694492927,
     "wof:name":"Abaza",
     "wof:parent_id":85688061,
     "wof:placetype":"county",

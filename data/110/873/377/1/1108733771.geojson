@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004593,
-    "geom:area_square_m":41347288.507963,
+    "geom:area_square_m":41347277.378107,
     "geom:bbox":"46.548766,43.237369,46.631564,43.307642",
     "geom:latitude":43.273452,
     "geom:longitude":46.590924,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Khasavjurt District"
+        "Khasavjurt Gorod"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "gorod"
     ],
     "label:rus_latn_x_preferred_longname":[
         "skoj okrug KHasavjurt"
@@ -90,10 +90,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.DA.KG"
+    },
     "wof:country":"RU",
     "wof:created":1478900787,
-    "wof:geomhash":"fd97e24d35dc83bd7dce8e537188ae15",
+    "wof:geomhash":"43fd5ba1a30826055da6ea063431f79f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":1108733771,
-    "wof:lastmodified":1627522594,
+    "wof:lastmodified":1694492738,
     "wof:name":"Khasavjurt",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

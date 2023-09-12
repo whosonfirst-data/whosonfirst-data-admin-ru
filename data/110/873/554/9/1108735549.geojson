@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.137383,
-    "geom:area_square_m":924327977.084943,
+    "geom:area_square_m":924327852.644344,
     "geom:bbox":"48.224957,56.869488,48.94784,57.176649",
     "geom:latitude":57.035523,
     "geom:longitude":48.629508,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Novotor'jal'skiy District"
+        "Novotor'jal'skiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Novotor'jal'skij rajon"
@@ -90,10 +90,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.ME.NO"
+    },
     "wof:country":"RU",
     "wof:created":1478902262,
-    "wof:geomhash":"44f92817553212b4da742679336e9de2",
+    "wof:geomhash":"73c3d6d38bf2c08933b6da82533bb375",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":1108735549,
-    "wof:lastmodified":1627522645,
+    "wof:lastmodified":1694492756,
     "wof:name":"Novotor'jal'skiy",
     "wof:parent_id":85688043,
     "wof:placetype":"county",

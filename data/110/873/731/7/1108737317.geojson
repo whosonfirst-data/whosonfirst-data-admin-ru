@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007308,
-    "geom:area_square_m":50089194.378092,
+    "geom:area_square_m":50089143.631668,
     "geom:bbox":"30.45682,56.297479,30.624848,56.374402",
     "geom:latitude":56.338737,
     "geom:longitude":30.539364,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Velikie Luki District"
+        "Velikie Luki Gorod"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "gorod"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Velikie Luki"
@@ -86,10 +86,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.PS.VG"
+    },
     "wof:country":"RU",
     "wof:created":1478903680,
-    "wof:geomhash":"74ca761152012edef3fdb11befff31fd",
+    "wof:geomhash":"54484e5cf8b299dcc59fa6846c0528b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":1108737317,
-    "wof:lastmodified":1627522723,
+    "wof:lastmodified":1694492784,
     "wof:name":"Velikie Luki",
     "wof:parent_id":85688167,
     "wof:placetype":"county",

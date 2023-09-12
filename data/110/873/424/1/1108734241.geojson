@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016118,
-    "geom:area_square_m":127916362.326343,
+    "geom:area_square_m":127916362.326375,
     "geom:bbox":"45.2864675967,49.9917856622,45.5004219461,50.1366044182",
     "geom:latitude":50.072886,
     "geom:longitude":45.393547,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Kamyshin District"
+        "Kamyshin Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Kamyshin"
@@ -230,10 +230,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.VG.KR"
+    },
     "wof:country":"RU",
     "wof:created":1478901192,
-    "wof:geomhash":"956bc6847200cb2733f00c7550820901",
+    "wof:geomhash":"15ba715db9f87ce013763c12a4b3daa0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -244,7 +246,7 @@
         }
     ],
     "wof:id":1108734241,
-    "wof:lastmodified":1566626961,
+    "wof:lastmodified":1694492381,
     "wof:name":"Kamyshin",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

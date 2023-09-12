@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.133442,
-    "geom:area_square_m":906411036.008618,
+    "geom:area_square_m":906411170.051342,
     "geom:bbox":"42.796637,56.498762,43.349733,56.878571",
     "geom:latitude":56.679137,
     "geom:longitude":43.069508,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Chkalovskiy District"
+        "Chkalovskiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "CHkalovskij rajon"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.NZ.CH"
+    },
     "wof:country":"RU",
     "wof:created":1478900341,
-    "wof:geomhash":"aace3fd33042c2696fac4ede623ea027",
+    "wof:geomhash":"7f6c76cc3463890df9f8a9c16be7e57f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108733287,
-    "wof:lastmodified":1627522706,
+    "wof:lastmodified":1694492777,
     "wof:name":"Chkalovskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

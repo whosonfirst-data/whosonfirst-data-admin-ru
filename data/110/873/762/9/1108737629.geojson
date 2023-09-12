@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.145546,
-    "geom:area_square_m":1070966525.27313,
+    "geom:area_square_m":1070966266.508053,
     "geom:bbox":"37.736641,53.307889,38.399646,53.672825",
     "geom:latitude":53.481794,
     "geom:longitude":38.044675,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Volovskiy District"
+        "Volovskiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Volovskij rajon"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.TL.VO"
+    },
     "wof:country":"RU",
     "wof:created":1478903772,
-    "wof:geomhash":"bd2fdf7fdc3b6c9d398a98f52a8c88c3",
+    "wof:geomhash":"92b35642a804f28f2dec8c51e4fb3288",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108737629,
-    "wof:lastmodified":1627522728,
+    "wof:lastmodified":1694492785,
     "wof:name":"Volovskiy",
     "wof:parent_id":85688203,
     "wof:placetype":"county",

@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003443,
-    "geom:area_square_m":25553881.05562,
+    "geom:area_square_m":25553924.513565,
     "geom:bbox":"46.553698,53.086744,46.654605,53.138426",
     "geom:latitude":53.114573,
     "geom:longitude":46.602703,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Kuzneck District"
+        "Kuzneck Gorsovet"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "gorsovet"
     ],
     "label:rus_latn_x_preferred_longname":[
         "skoj okrug Kuzneck"
@@ -67,6 +67,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2000-01-01",
+    "statoids:areakm":19,
+    "statoids:capital":"Kuznetsk",
+    "statoids:country":"RU",
+    "statoids:date":"2000-01-01",
+    "statoids:hasc":"RU.PZ.KG",
+    "statoids:name":"Kuznetsk",
+    "statoids:population":97500,
+    "statoids:statoid":"RU.PZ",
+    "statoids:timezone":"+3",
+    "statoids:type":"gorsovet",
     "wof:belongsto":[
         102191581,
         85687999,
@@ -74,10 +86,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.PZ.KG"
+    },
     "wof:country":"RU",
     "wof:created":1478900813,
-    "wof:geomhash":"9bf7350b179b8d3d0893d77a98e9a215",
+    "wof:geomhash":"1929d2f727ec708d61eabb127d0a086a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,10 +102,12 @@
         }
     ],
     "wof:id":1108733803,
-    "wof:lastmodified":1627522606,
+    "wof:lastmodified":1694492742,
     "wof:name":"Kuzneck",
     "wof:parent_id":85687999,
     "wof:placetype":"county",
+    "wof:population":97500,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

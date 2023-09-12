@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.376666,
-    "geom:area_square_m":2701130362.178244,
+    "geom:area_square_m":2701129970.406797,
     "geom:bbox":"40.021906,54.135299,41.027354,54.881122",
     "geom:latitude":54.553109,
     "geom:longitude":40.537419,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Spasskiy District"
+        "Spasskiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Spasskij rajon"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.RZ.SP"
+    },
     "wof:country":"RU",
     "wof:created":1478903218,
-    "wof:geomhash":"672876f34ca748593c08d3de05e99ea4",
+    "wof:geomhash":"ba97c0fdd18e7f39208780cc74677ddb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108736777,
-    "wof:lastmodified":1627522693,
+    "wof:lastmodified":1694492774,
     "wof:name":"Spasskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

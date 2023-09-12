@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001314,
-    "geom:area_square_m":9518455.871935,
+    "geom:area_square_m":9518455.871934,
     "geom:bbox":"33.2605883551,54.1243174257,33.3094734629,54.1625820776",
     "geom:latitude":54.143947,
     "geom:longitude":33.285549,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Desnogorsk District"
+        "Desnogorsk Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "skoj okrug Desnogorsk"
@@ -179,10 +179,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.SM.RR"
+    },
     "wof:country":"RU",
     "wof:created":1478900761,
-    "wof:geomhash":"b7e948605ac5c9f9b9e3a1daf92be77a",
+    "wof:geomhash":"06ef77dcefe3e0288a138e94824d2abb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -193,7 +195,7 @@
         }
     ],
     "wof:id":1108733729,
-    "wof:lastmodified":1566627388,
+    "wof:lastmodified":1694492387,
     "wof:name":"Desnogorsk",
     "wof:parent_id":85687819,
     "wof:placetype":"county",

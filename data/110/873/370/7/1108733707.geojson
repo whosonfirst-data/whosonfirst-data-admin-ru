@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020612,
-    "geom:area_square_m":161807394.598257,
+    "geom:area_square_m":161807394.598258,
     "geom:bbox":"36.4453415793,50.5047131857,36.6904301669,50.667202581",
     "geom:latitude":50.591338,
     "geom:longitude":36.572852,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Bel District"
+        "Bel Gorod"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "gorod"
     ],
     "label:rus_latn_x_preferred_longname":[
         "skoj okrug Bel"
@@ -143,10 +143,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.BL.BG"
+    },
     "wof:country":"RU",
     "wof:created":1478900747,
-    "wof:geomhash":"ef46f46bc2f77ad84e7f93c02c0ad10a",
+    "wof:geomhash":"bc6eb72e8557b351b38804956c234a5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":1108733707,
-    "wof:lastmodified":1566627054,
+    "wof:lastmodified":1694492382,
     "wof:name":"Bel",
     "wof:parent_id":85687813,
     "wof:placetype":"county",

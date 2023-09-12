@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.57694,
-    "geom:area_square_m":4479976537.710709,
+    "geom:area_square_m":4479976104.1076,
     "geom:bbox":"48.164634,50.778573,49.444512,51.562263",
     "geom:latitude":51.098658,
     "geom:longitude":48.881298,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Dergachevskiy District"
+        "Dergachevskiy Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Dergachevskij rajon"
@@ -89,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.SR.DE"
+    },
     "wof:country":"RU",
     "wof:created":1478900402,
-    "wof:geomhash":"cacc0260e7cf3120c914d6fe5309fb27",
+    "wof:geomhash":"392da6a6fb5a182629fd8892e2282307",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1108733363,
-    "wof:lastmodified":1627522561,
+    "wof:lastmodified":1694492727,
     "wof:name":"Dergachevskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

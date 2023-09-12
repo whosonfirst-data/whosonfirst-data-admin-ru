@@ -5,16 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.248532,
-    "geom:area_square_m":2143722553.888769,
+    "geom:area_square_m":2143722342.316418,
     "geom:bbox":"34.044144,45.52224,34.879853,46.110016",
     "geom:latitude":45.76781,
     "geom:longitude":34.409414,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Dzhankoiskyi District"
+        "Dzhankoiskyi Raion"
     ],
     "label:eng_x_preferred_placetype":[
-        "district"
+        "raion"
     ],
     "label:rus_latn_x_preferred_longname":[
         null
@@ -67,6 +67,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2001-12-05",
+    "statoids:areakm":2667,
+    "statoids:capital":"Dzhankoi",
+    "statoids:country":"UA",
+    "statoids:date":"2001-12-05",
+    "statoids:hasc":"UA.KR.DR",
+    "statoids:name":"Dzhankois'kyi",
+    "statoids:population":81990,
+    "statoids:statoid":"UA.KR",
+    "statoids:timezone":"+2~",
+    "statoids:type":"raion",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -76,10 +88,12 @@
         85633805
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"UA.KR.DR"
+    },
     "wof:country":"RU",
     "wof:created":1478903956,
-    "wof:geomhash":"575aa1d27a1b8a9e6e92b6f97d6c71a5",
+    "wof:geomhash":"8e078ea6278237258fb8fd193954e342",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +112,12 @@
         }
     ],
     "wof:id":1108738531,
-    "wof:lastmodified":1627522565,
+    "wof:lastmodified":1694492729,
     "wof:name":"Dzhankoiskyi",
     "wof:parent_id":85688855,
     "wof:placetype":"county",
+    "wof:population":81990,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],
