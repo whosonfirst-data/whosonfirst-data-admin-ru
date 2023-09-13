@@ -11,10 +11,10 @@
     "geom:longitude":40.48968,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Michurinsk Gorod"
+        "Michurinsk District"
     ],
     "label:eng_x_preferred_placetype":[
-        "gorod"
+        "district"
     ],
     "label:rus_latn_x_preferred_longname":[
         "skoj okrug Michurinsk"
@@ -203,7 +203,7 @@
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population_year":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:areakm":96,
     "statoids:capital":"Michurinsk",
     "statoids:country":"RU",
@@ -237,7 +237,7 @@
         }
     ],
     "wof:id":1108733819,
-    "wof:lastmodified":1694492928,
+    "wof:lastmodified":1694639806,
     "wof:name":"Michurinsk",
     "wof:parent_id":85687829,
     "wof:placetype":"county",

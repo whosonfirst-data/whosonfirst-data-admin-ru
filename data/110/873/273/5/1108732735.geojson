@@ -11,10 +11,10 @@
     "geom:longitude":42.492348,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Andropovskiy Gorod"
+        "Andropovskiy District"
     ],
     "label:eng_x_preferred_placetype":[
-        "gorod"
+        "district"
     ],
     "label:rus_latn_x_preferred_longname":[
         "Andropovskij rajon"
@@ -117,7 +117,7 @@
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population_year":"2000-01-01",
+    "src:population_date":"2000-01-01",
     "statoids:areakm":71,
     "statoids:capital":"Nevinnomyssk",
     "statoids:country":"RU",
@@ -152,7 +152,7 @@
         }
     ],
     "wof:id":1108732735,
-    "wof:lastmodified":1694492718,
+    "wof:lastmodified":1694639727,
     "wof:name":"Andropovskiy",
     "wof:parent_id":85687825,
     "wof:placetype":"county",
