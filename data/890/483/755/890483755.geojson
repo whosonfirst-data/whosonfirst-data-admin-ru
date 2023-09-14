@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.233586,
-    "geom:area_square_m":7700791575.913725,
+    "geom:area_square_m":7700790843.363718,
     "geom:bbox":"42.8552,59.171501,44.853482,60.142574",
     "geom:latitude":59.678119,
     "geom:longitude":43.795742,
@@ -100,6 +100,18 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2000-01-01",
+    "statoids:areakm":9391,
+    "statoids:capital":"Babaevo",
+    "statoids:country":"RU",
+    "statoids:date":"2000-01-01",
+    "statoids:hasc":"RU.VO.BV",
+    "statoids:name":"Babaevskiy",
+    "statoids:population":27500,
+    "statoids:statoid":"RU.VO",
+    "statoids:timezone":"+3",
+    "statoids:type":"raion",
     "wd:wordcount":567,
     "wof:belongsto":[
         102191581,
@@ -110,6 +122,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12599591,
+        "hasc:id":"RU.VO.BV",
         "qs_pg:id":1026355,
         "wk:page":"Babushkinsky District"
     },
@@ -118,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"53d710ac315c507e49e63330c107670c",
+    "wof:geomhash":"f79d9ffcae48cc78765aa5c3b7750b27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,11 +142,13 @@
         }
     ],
     "wof:id":890483755,
-    "wof:lastmodified":1642541489,
+    "wof:lastmodified":1694639808,
     "wof:name":"Babushkinskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",
     "wof:placetype_local":"district",
+    "wof:population":27500,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

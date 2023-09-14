@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000979,
-    "geom:area_square_m":5171505.388408,
+    "geom:area_square_m":5171391.249467,
     "geom:bbox":"163.22937,64.692762,163.267014,64.740226",
     "geom:latitude":64.713791,
     "geom:longitude":163.250822,
@@ -70,6 +70,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2000-01-01",
+    "statoids:areakm":176824,
+    "statoids:capital":"Bilibino",
+    "statoids:country":"RU",
+    "statoids:date":"2000-01-01",
+    "statoids:hasc":"RU.CK.BI",
+    "statoids:name":"Bilibinskiy",
+    "statoids:population":12400,
+    "statoids:statoid":"RU.CK",
+    "statoids:timezone":"+12",
+    "statoids:type":"raion",
     "wof:belongsto":[
         102191581,
         85687795,
@@ -77,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.CK.BI"
+    },
     "wof:country":"RU",
     "wof:created":1478900084,
-    "wof:geomhash":"b4f883d077aa89c462f7f40d93519d91",
+    "wof:geomhash":"647126fe3ba1a78e824784b53e97e32f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,10 +105,12 @@
         }
     ],
     "wof:id":1108733001,
-    "wof:lastmodified":1627522546,
+    "wof:lastmodified":1694639731,
     "wof:name":"Bilibinskiy",
     "wof:parent_id":85687795,
     "wof:placetype":"county",
+    "wof:population":12400,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

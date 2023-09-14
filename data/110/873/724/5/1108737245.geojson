@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096431,
-    "geom:area_square_m":684114308.44059,
+    "geom:area_square_m":684114609.551249,
     "geom:bbox":"58.045111,54.832105,58.664632,55.175366",
     "geom:latitude":54.988881,
     "geom:longitude":58.302417,
@@ -70,6 +70,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2000-01-01",
+    "statoids:areakm":3353,
+    "statoids:capital":"Katav-Ivanovsk",
+    "statoids:country":"RU",
+    "statoids:date":"2000-01-01",
+    "statoids:hasc":"RU.CL.KI",
+    "statoids:name":"Katav-Ivanovskiy",
+    "statoids:population":19800,
+    "statoids:statoid":"RU.CL",
+    "statoids:timezone":"+5",
+    "statoids:type":"raion",
     "wof:belongsto":[
         102191581,
         85687791,
@@ -77,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.CL.KI"
+    },
     "wof:country":"RU",
     "wof:created":1478903623,
-    "wof:geomhash":"dcc67fcab787f75ac58a9342f0eeb3c8",
+    "wof:geomhash":"d70c518a2275812beef8553a404d7e2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,10 +105,12 @@
         }
     ],
     "wof:id":1108737245,
-    "wof:lastmodified":1627522655,
+    "wof:lastmodified":1694639767,
     "wof:name":"Ust'-Katavskiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",
+    "wof:population":19800,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

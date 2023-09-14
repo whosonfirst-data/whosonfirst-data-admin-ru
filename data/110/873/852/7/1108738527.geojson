@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.215605,
-    "geom:area_square_m":1883067741.095133,
+    "geom:area_square_m":1883067649.860662,
     "geom:bbox":"34.187321,44.842606,34.972443,45.286396",
     "geom:latitude":45.062991,
     "geom:longitude":34.557661,
@@ -67,6 +67,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2001-12-05",
+    "statoids:areakm":1894,
+    "statoids:capital":"Bilohirs'k",
+    "statoids:country":"UA",
+    "statoids:date":"2001-12-05",
+    "statoids:hasc":"UA.KR.BI",
+    "statoids:name":"Bilohirs'kyi",
+    "statoids:population":66396,
+    "statoids:statoid":"UA.KR",
+    "statoids:timezone":"+2~",
+    "statoids:type":"raion",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -76,10 +88,12 @@
         85633805
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"UA.KR.BI"
+    },
     "wof:country":"RU",
     "wof:created":1478903951,
-    "wof:geomhash":"619149233c82e5321f0ee3fcaaf7678b",
+    "wof:geomhash":"faec2da5fa8b573e2a1eefd757d49384",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +112,12 @@
         }
     ],
     "wof:id":1108738527,
-    "wof:lastmodified":1627522546,
+    "wof:lastmodified":1694639731,
     "wof:name":"Bilohirskyi",
     "wof:parent_id":85688855,
     "wof:placetype":"county",
+    "wof:population":66396,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

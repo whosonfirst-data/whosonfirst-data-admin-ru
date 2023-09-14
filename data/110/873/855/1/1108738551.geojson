@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109223,
-    "geom:area_square_m":952391595.776167,
+    "geom:area_square_m":952391518.555266,
     "geom:bbox":"34.863598,44.965675,35.464733,45.344546",
     "geom:latitude":45.155559,
     "geom:longitude":35.177033,
@@ -67,6 +67,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2001-12-05",
+    "statoids:areakm":1209,
+    "statoids:capital":"Kirovs'ke",
+    "statoids:country":"UA",
+    "statoids:date":"2001-12-05",
+    "statoids:hasc":"UA.KR.KI",
+    "statoids:name":"Kirovs'kyi",
+    "statoids:population":57686,
+    "statoids:statoid":"UA.KR",
+    "statoids:timezone":"+2~",
+    "statoids:type":"raion",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -76,10 +88,12 @@
         85633805
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"UA.KR.KI"
+    },
     "wof:country":"RU",
     "wof:created":1478903962,
-    "wof:geomhash":"17b1b41b845f6e4e0826b01700bd9421",
+    "wof:geomhash":"c6475a3972704cf2219fb182e4f14ef8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +112,12 @@
         }
     ],
     "wof:id":1108738551,
-    "wof:lastmodified":1627522597,
+    "wof:lastmodified":1694639747,
     "wof:name":"Kirovskyi",
     "wof:parent_id":85688855,
     "wof:placetype":"county",
+    "wof:population":57686,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

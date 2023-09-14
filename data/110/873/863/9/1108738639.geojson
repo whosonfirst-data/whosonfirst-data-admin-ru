@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.334262,
-    "geom:area_square_m":2909888901.173044,
+    "geom:area_square_m":2909888700.036716,
     "geom:bbox":"34.920629,44.999423,36.6306,45.832517",
     "geom:latitude":45.249018,
     "geom:longitude":36.007691,
@@ -67,6 +67,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2001-12-05",
+    "statoids:areakm":2919,
+    "statoids:capital":"Lenine",
+    "statoids:country":"UA",
+    "statoids:date":"2001-12-05",
+    "statoids:hasc":"UA.KR.LE",
+    "statoids:name":"Lenins'kyi",
+    "statoids:population":69653,
+    "statoids:statoid":"UA.KR",
+    "statoids:timezone":"+2~",
+    "statoids:type":"raion",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -76,10 +88,12 @@
         85633805
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"UA.KR.LE"
+    },
     "wof:country":"RU",
     "wof:created":1478903976,
-    "wof:geomhash":"8aede936e0576f4cf3da36b9dd6c5269",
+    "wof:geomhash":"ad10b43aa122ca54c56567e48a474356",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +112,12 @@
         }
     ],
     "wof:id":1108738639,
-    "wof:lastmodified":1627522618,
+    "wof:lastmodified":1694639754,
     "wof:name":"Leninskyi",
     "wof:parent_id":85688855,
     "wof:placetype":"county",
+    "wof:population":69653,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

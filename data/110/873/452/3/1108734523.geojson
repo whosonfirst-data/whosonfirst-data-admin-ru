@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002056,
-    "geom:area_square_m":13870519.59703,
+    "geom:area_square_m":13870519.597035,
     "geom:bbox":"41.0610491763,56.9104220649,41.1323726371,56.9592795396",
     "geom:latitude":56.933424,
     "geom:longitude":41.099388,
@@ -151,6 +151,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2000-01-01",
+    "statoids:areakm":98,
+    "statoids:capital":"Ivanovo",
+    "statoids:country":"RU",
+    "statoids:date":"2000-01-01",
+    "statoids:hasc":"RU.IV.IG",
+    "statoids:name":"Ivanovo",
+    "statoids:population":459200,
+    "statoids:statoid":"RU.IV",
+    "statoids:timezone":"+3",
+    "statoids:type":"gorod",
     "wof:belongsto":[
         102191581,
         85688153,
@@ -158,10 +170,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.IV.IG"
+    },
     "wof:country":"RU",
     "wof:created":1478901430,
-    "wof:geomhash":"0181a2cafd3f09cb2b1ee15267b1f130",
+    "wof:geomhash":"4b90fce7b2c5609de8dda1dc83f301c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,10 +186,12 @@
         }
     ],
     "wof:id":1108734523,
-    "wof:lastmodified":1566627000,
+    "wof:lastmodified":1694639684,
     "wof:name":"Kokhma",
     "wof:parent_id":85688153,
     "wof:placetype":"county",
+    "wof:population":459200,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

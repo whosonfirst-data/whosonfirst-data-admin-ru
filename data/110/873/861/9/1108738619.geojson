@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.127174,
-    "geom:area_square_m":1093385292.964787,
+    "geom:area_square_m":1093385432.522755,
     "geom:bbox":"33.6145,45.766979,34.154919,46.184752",
     "geom:latitude":45.948417,
     "geom:longitude":33.878786,
@@ -67,6 +67,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2001-12-05",
+    "statoids:areakm":1231,
+    "statoids:capital":"Krasnoperekops'k",
+    "statoids:country":"UA",
+    "statoids:date":"2001-12-05",
+    "statoids:hasc":"UA.KR.KR",
+    "statoids:name":"Krasnoperekops'kyi",
+    "statoids:population":31516,
+    "statoids:statoid":"UA.KR",
+    "statoids:timezone":"+2~",
+    "statoids:type":"raion",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -76,10 +88,12 @@
         85633805
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"UA.KR.KR"
+    },
     "wof:country":"RU",
     "wof:created":1478903971,
-    "wof:geomhash":"4bf7e47c8e866ca04bb6367dd0c165bf",
+    "wof:geomhash":"2f35de21c0a100dd5435180f81bc8faf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +112,12 @@
         }
     ],
     "wof:id":1108738619,
-    "wof:lastmodified":1627522611,
+    "wof:lastmodified":1694639751,
     "wof:name":"Krasnoperekopskyi",
     "wof:parent_id":85688855,
     "wof:placetype":"county",
+    "wof:population":31516,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017062,
-    "geom:area_square_m":149882276.781201,
+    "geom:area_square_m":149882322.302716,
     "geom:bbox":"33.534106,44.647944,33.777076,44.832277",
     "geom:latitude":44.729995,
     "geom:longitude":33.631948,
@@ -67,6 +67,17 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2001-12-05",
+    "statoids:areakm":311,
+    "statoids:country":"UA",
+    "statoids:date":"2001-12-05",
+    "statoids:hasc":"UA.SC.NA",
+    "statoids:name":"Nakhimovs'kyi",
+    "statoids:population":84941,
+    "statoids:statoid":"UA.SC",
+    "statoids:timezone":"+2~",
+    "statoids:type":"raion",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -76,10 +87,12 @@
         85633805
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"UA.SC.NA"
+    },
     "wof:country":"RU",
     "wof:created":1478904074,
-    "wof:geomhash":"27cc4612a054ade4af12591fa865de35",
+    "wof:geomhash":"d09de19b30ca88c940ecb896e12e7923",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +111,12 @@
         }
     ],
     "wof:id":1108738685,
-    "wof:lastmodified":1627522633,
+    "wof:lastmodified":1694639759,
     "wof:name":"Nakhimovskyi",
     "wof:parent_id":85688855,
     "wof:placetype":"county",
+    "wof:population":84941,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

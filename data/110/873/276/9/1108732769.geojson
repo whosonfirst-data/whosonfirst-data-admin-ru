@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003099,
-    "geom:area_square_m":27897782.914806,
+    "geom:area_square_m":27897759.235714,
     "geom:bbox":"45.842453,43.252634,45.921562,43.313974",
     "geom:latitude":43.285681,
     "geom:longitude":45.885329,
@@ -70,6 +70,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2000-01-01",
+    "statoids:areakm":274,
+    "statoids:capital":"Groznyy",
+    "statoids:country":"RU",
+    "statoids:date":"2000-01-01",
+    "statoids:hasc":"RU.CN.GG",
+    "statoids:name":"Groznyy",
+    "statoids:population":185800,
+    "statoids:statoid":"RU.CN",
+    "statoids:timezone":"+3",
+    "statoids:type":"gorod",
     "wof:belongsto":[
         102191581,
         85688015,
@@ -77,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.CN.GG"
+    },
     "wof:country":"RU",
     "wof:created":1478899852,
-    "wof:geomhash":"06a9b6e0c794e13ba4266daf323111db",
+    "wof:geomhash":"f0f2f10c2af4a9bb1c577a94067e3044",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,10 +105,12 @@
         }
     ],
     "wof:id":1108732769,
-    "wof:lastmodified":1627522536,
+    "wof:lastmodified":1694639727,
     "wof:name":"Argunskiy",
     "wof:parent_id":85688015,
     "wof:placetype":"county",
+    "wof:population":185800,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

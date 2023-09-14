@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170694,
-    "geom:area_square_m":1476797529.869847,
+    "geom:area_square_m":1476797529.869897,
     "geom:bbox":"33.5268166014,45.3429639996,34.1229319993,45.8083919997",
     "geom:latitude":45.598349,
     "geom:longitude":33.833829,
@@ -133,6 +133,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2001-12-05",
+    "statoids:areakm":1474,
+    "statoids:capital":"Pervomais'ke",
+    "statoids:country":"UA",
+    "statoids:date":"2001-12-05",
+    "statoids:hasc":"UA.KR.PE",
+    "statoids:name":"Pervomais'kyi",
+    "statoids:population":40349,
+    "statoids:statoid":"UA.KR",
+    "statoids:timezone":"+2~",
+    "statoids:type":"raion",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -142,10 +154,12 @@
         85633805
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"UA.KR.PE"
+    },
     "wof:country":"RU",
     "wof:created":1478903986,
-    "wof:geomhash":"3005d6d6e7c1a4fcd01c2644093fc538",
+    "wof:geomhash":"4d0bd9ccc8217bb92f900a65fdf02ea1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,10 +178,12 @@
         }
     ],
     "wof:id":1108738643,
-    "wof:lastmodified":1566627316,
+    "wof:lastmodified":1694639687,
     "wof:name":"Pervomaiskyi",
     "wof:parent_id":85688855,
     "wof:placetype":"county",
+    "wof:population":40349,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

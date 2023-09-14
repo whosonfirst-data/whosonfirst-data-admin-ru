@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004653,
-    "geom:area_square_m":24208574.585924,
+    "geom:area_square_m":24208476.663817,
     "geom:bbox":"106.148649,64.862106,106.514906,65.264909",
     "geom:latitude":65.113031,
     "geom:longitude":106.380512,
@@ -70,6 +70,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2000-01-01",
+    "statoids:areakm":499446,
+    "statoids:capital":"Tura",
+    "statoids:country":"RU",
+    "statoids:date":"2000-01-01",
+    "statoids:hasc":"RU.KX.IM",
+    "statoids:name":"Ilimpiyskiy",
+    "statoids:population":8600,
+    "statoids:statoid":"RU.KX",
+    "statoids:timezone":"+7",
+    "statoids:type":"raion",
     "wof:belongsto":[
         102191581,
         85688139,
@@ -77,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.KX.IM"
+    },
     "wof:country":"RU",
     "wof:created":1478900493,
-    "wof:geomhash":"7a01026f8293f43c2bcd68f9f2d9ef7c",
+    "wof:geomhash":"4f4df825775698fb77a7e0b85db1b35a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,10 +105,12 @@
         }
     ],
     "wof:id":1108733465,
-    "wof:lastmodified":1627522567,
+    "wof:lastmodified":1694639738,
     "wof:name":"Ehvenkijskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",
+    "wof:population":8600,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039187,
-    "geom:area_square_m":342415217.015494,
+    "geom:area_square_m":342415286.924342,
     "geom:bbox":"35.057572,44.885845,35.53846,45.171814",
     "geom:latitude":45.03617,
     "geom:longitude":35.314146,
@@ -67,6 +67,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2001-12-05",
+    "statoids:areakm":350,
+    "statoids:capital":"Feodosiia",
+    "statoids:country":"UA",
+    "statoids:date":"2001-12-05",
+    "statoids:hasc":"UA.KR.FE",
+    "statoids:name":"Feodosiis'ka",
+    "statoids:population":108571,
+    "statoids:statoid":"UA.KR",
+    "statoids:timezone":"+2~",
+    "statoids:type":"mis'ka rada",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -76,10 +88,12 @@
         85633805
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"UA.KR.FE"
+    },
     "wof:country":"RU",
     "wof:created":1478904031,
-    "wof:geomhash":"2e6327658178fc3de6c1ce262d8655a5",
+    "wof:geomhash":"fa7ddfeccda49a74470f99d3cada06fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +112,12 @@
         }
     ],
     "wof:id":1108738663,
-    "wof:lastmodified":1627522567,
+    "wof:lastmodified":1694639738,
     "wof:name":"Feodosiiska",
     "wof:parent_id":85688855,
     "wof:placetype":"county",
+    "wof:population":108571,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":70.255928,
-    "geom:area_square_m":314601736830.697937,
+    "geom:area_square_m":314601739417.022583,
     "geom:bbox":"105.513371,64.532103,122.362983,72.368404",
     "geom:latitude":68.757242,
     "geom:longitude":114.232642,
@@ -70,6 +70,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2000-01-01",
+    "statoids:areakm":319240,
+    "statoids:capital":"Olenek",
+    "statoids:country":"RU",
+    "statoids:date":"2000-01-01",
+    "statoids:hasc":"RU.SK.ON",
+    "statoids:name":"Olenekskiy",
+    "statoids:population":16600,
+    "statoids:statoid":"RU.SK",
+    "statoids:timezone":"+9",
+    "statoids:type":"natsional'nyy rayon",
     "wof:belongsto":[
         102191581,
         85687843,
@@ -77,10 +89,12 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"RU.SK.ON"
+    },
     "wof:country":"RU",
     "wof:created":1478902359,
-    "wof:geomhash":"3a29c70668c1ac11336bffce5ba25b7d",
+    "wof:geomhash":"a95025eb440235b0d42239a5b6bb87ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,10 +105,12 @@
         }
     ],
     "wof:id":1108735665,
-    "wof:lastmodified":1627522650,
+    "wof:lastmodified":1694639765,
     "wof:name":"Olenjokskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",
+    "wof:population":16600,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],

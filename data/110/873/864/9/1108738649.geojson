@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.260258,
-    "geom:area_square_m":2264431901.055705,
+    "geom:area_square_m":2264431693.583628,
     "geom:bbox":"32.986218,44.987608,33.956566,45.526405",
     "geom:latitude":45.279731,
     "geom:longitude":33.526449,
@@ -67,6 +67,18 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2001-12-05",
+    "statoids:areakm":2257,
+    "statoids:capital":"Saky",
+    "statoids:country":"UA",
+    "statoids:date":"2001-12-05",
+    "statoids:hasc":"UA.KR.SK",
+    "statoids:name":"Saks'kyi",
+    "statoids:population":80302,
+    "statoids:statoid":"UA.KR",
+    "statoids:timezone":"+2~",
+    "statoids:type":"raion",
     "wof:belongsto":[
         85688855,
         1159339547,
@@ -76,10 +88,12 @@
         85633805
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"UA.KR.SK"
+    },
     "wof:country":"RU",
     "wof:created":1478903996,
-    "wof:geomhash":"76fac71dbf5fcccf15ab555532961fac",
+    "wof:geomhash":"7d762ff49412fc7167cb1eb7a2ba619f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,10 +112,12 @@
         }
     ],
     "wof:id":1108738649,
-    "wof:lastmodified":1627522675,
+    "wof:lastmodified":1694639775,
     "wof:name":"Sakskyi",
     "wof:parent_id":85688855,
     "wof:placetype":"county",
+    "wof:population":80302,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
     "wof:supersedes":[],
