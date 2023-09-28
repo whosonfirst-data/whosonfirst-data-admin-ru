@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020785,
-    "geom:area_square_m":150394438.362157,
+    "geom:area_square_m":150394362.015052,
     "geom:bbox":"37.515,54.088931,37.737931,54.288648",
     "geom:latitude":54.185299,
     "geom:longitude":37.61378,
@@ -156,16 +156,22 @@
     "wof:concordances":{
         "gp:id":12599429,
         "hasc:id":"RU.TL.TU",
+        "meso:okato_code":"70401000",
+        "meso:oktmo_code":"70701000",
         "qs_pg:id":1105892,
         "wd:id":"Q4025745",
         "wk:page":"Shchyokinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054509,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"336177de448ef99ff4519657a62f1c47",
+    "wof:geomhash":"7e475e45e6075ddf9ff1cdb402935ab7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":890484353,
-    "wof:lastmodified":1690859927,
+    "wof:lastmodified":1695886460,
     "wof:name":"Tula",
     "wof:parent_id":85688203,
     "wof:placetype":"county",

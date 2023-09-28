@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.IV.FR",
+        "meso:okato_code":"24409000",
+        "meso:oktmo_code":"24631000",
         "wd:id":"Q2222149"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900559,
     "wof:geomhash":"78fbb496535ce97e624ae510bed4845e",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108733543,
-    "wof:lastmodified":1694639738,
+    "wof:lastmodified":1695886234,
     "wof:name":"Furmanovskiy",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

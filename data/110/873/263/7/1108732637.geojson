@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000772,
-    "geom:area_square_m":5384174.571559,
+    "geom:area_square_m":5384263.720822,
     "geom:bbox":"37.555306,55.673983,37.599778,55.707385",
     "geom:latitude":55.688966,
     "geom:longitude":37.577541,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45293554",
+        "meso:oktmo_code":"45397000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899742,
-    "wof:geomhash":"1c5f74a121732004ba2faed411f3859c",
+    "wof:geomhash":"cb32780c424f297813a81bcb9f0a0f37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108732637,
-    "wof:lastmodified":1627522530,
+    "wof:lastmodified":1695886176,
     "wof:name":"Akademicheskiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

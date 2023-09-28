@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.IV.PE",
+        "meso:okato_code":"24219000",
+        "meso:oktmo_code":"24619000",
         "wd:id":"Q2218566"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902483,
     "wof:geomhash":"c321652a393be2f85cf8c7ef3d4080f4",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108735827,
-    "wof:lastmodified":1694639769,
+    "wof:lastmodified":1695886341,
     "wof:name":"Pestjakovskiy",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

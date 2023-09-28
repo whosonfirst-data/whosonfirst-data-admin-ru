@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.KS.SR"
+        "hasc:id":"RU.KS.SR",
+        "meso:okato_code":"38415000",
+        "meso:oktmo_code":"38715000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903056,
     "wof:geomhash":"68a950cd512c5e87a711a09a004f5ee4",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108736567,
-    "wof:lastmodified":1694639778,
+    "wof:lastmodified":1695886372,
     "wof:name":"Shchigrovskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

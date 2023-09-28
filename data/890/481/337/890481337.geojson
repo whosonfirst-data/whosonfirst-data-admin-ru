@@ -136,10 +136,16 @@
     "wof:concordances":{
         "gp:id":12598421,
         "hasc:id":"RU.KA.MI",
+        "meso:okato_code":"30210000",
+        "meso:oktmo_code":"30610000",
         "qs_pg:id":363100,
         "wd:id":"Q539619",
         "wk:page":"Milkovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054353,
     "wof:geom_alt":[
@@ -156,7 +162,7 @@
         }
     ],
     "wof:id":890481337,
-    "wof:lastmodified":1694493016,
+    "wof:lastmodified":1695886471,
     "wof:name":"Mil'kovskiy",
     "wof:parent_id":85687955,
     "wof:placetype":"county",

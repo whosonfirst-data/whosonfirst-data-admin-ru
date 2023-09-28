@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SV.KM"
+        "hasc:id":"RU.SV.KM",
+        "meso:okato_code":"65223000",
+        "meso:oktmo_code":"65623000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901200,
     "wof:geomhash":"d5fbae8de95a667e54e5e55ea3cfa55a",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108734245,
-    "wof:lastmodified":1694639744,
+    "wof:lastmodified":1695886257,
     "wof:name":"Kamyshlovskiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.752648,
-    "geom:area_square_m":5641628117.669501,
+    "geom:area_square_m":5641629370.254818,
     "geom:bbox":"57.511615,52.236853,58.953147,53.227159",
     "geom:latitude":52.684857,
     "geom:longitude":58.247179,
@@ -169,11 +169,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"80206000",
+        "meso:oktmo_code":"80606000",
         "wd:id":"Q788737"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899933,
-    "wof:geomhash":"d7ed57a267b283c244c16e81d696143c",
+    "wof:geomhash":"fed5addd2a049dd81c4a67ab464fbbec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -184,7 +190,7 @@
         }
     ],
     "wof:id":1108732853,
-    "wof:lastmodified":1690859613,
+    "wof:lastmodified":1695886191,
     "wof:name":"Bajmakskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

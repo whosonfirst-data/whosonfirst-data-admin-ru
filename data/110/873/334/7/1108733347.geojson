@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KV.DA",
+        "meso:okato_code":"33212000",
+        "meso:oktmo_code":"33612000",
         "wd:id":"Q1973876"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900388,
     "wof:geomhash":"5b3e126794c34a3057cad9392ff20a2f",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108733347,
-    "wof:lastmodified":1694639735,
+    "wof:lastmodified":1695886221,
     "wof:name":"Darovskoj",
     "wof:parent_id":85687903,
     "wof:placetype":"county",

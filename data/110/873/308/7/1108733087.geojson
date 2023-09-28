@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013122,
-    "geom:area_square_m":118482606.76157,
+    "geom:area_square_m":118482398.222215,
     "geom:bbox":"132.287079,43.012786,132.435232,43.196377",
     "geom:latitude":43.095,
     "geom:longitude":132.367802,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"05506000",
+        "meso:oktmo_code":"05706000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900163,
-    "wof:geomhash":"f8fbc1c97a891e051120376cf5bca0a0",
+    "wof:geomhash":"9fa830c104256617bec7fa21d818b8e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108733087,
-    "wof:lastmodified":1627522548,
+    "wof:lastmodified":1695886203,
     "wof:name":"Bol'shoj Kamen'",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

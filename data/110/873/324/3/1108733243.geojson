@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023077,
-    "geom:area_square_m":146399310.39338,
+    "geom:area_square_m":146399255.672815,
     "geom:bbox":"37.680194,59.06262,38.047242,59.188159",
     "geom:latitude":59.132516,
     "geom:longitude":37.883126,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"19430000",
+        "meso:oktmo_code":"19730000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900303,
-    "wof:geomhash":"5d97a1e601db461f640f371f92bdcfb8",
+    "wof:geomhash":"2df68e8e1d193993cdb478614e4d0fa5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108733243,
-    "wof:lastmodified":1627522706,
+    "wof:lastmodified":1695886401,
     "wof:name":"Cherepovec",
     "wof:parent_id":85687853,
     "wof:placetype":"county",

@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.MS.KK"
+        "hasc:id":"RU.MS.KK",
+        "meso:okato_code":"45277598",
+        "meso:oktmo_code":"45348000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901313,
     "wof:geomhash":"5796ca09c3dbca5594441c5cf0a169fe",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108734389,
-    "wof:lastmodified":1694639746,
+    "wof:lastmodified":1695886266,
     "wof:name":"Khoroshjovskiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

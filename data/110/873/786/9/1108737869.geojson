@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":36.269247,
-    "geom:area_square_m":169051721597.112518,
+    "geom:area_square_m":169051718816.746277,
     "geom:bbox":"43.254166,65.810177,65.670822,70.47039",
     "geom:latitude":67.852683,
     "geom:longitude":55.136437,
@@ -129,11 +129,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"11111000",
+        "meso:oktmo_code":"11811000",
         "wd:id":"Q1364436"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903837,
-    "wof:geomhash":"82993ad23ac80a16f0c7f15531a8b705",
+    "wof:geomhash":"e23058461d2084b79c86df5c2c4a1416",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,7 +150,7 @@
         }
     ],
     "wof:id":1108737869,
-    "wof:lastmodified":1690859698,
+    "wof:lastmodified":1695886436,
     "wof:name":"Zapoljarnyj",
     "wof:parent_id":85688211,
     "wof:placetype":"county",

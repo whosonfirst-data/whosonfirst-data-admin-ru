@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.OB.YR"
+        "hasc:id":"RU.OB.YR",
+        "meso:okato_code":"53259000",
+        "meso:oktmo_code":"53659000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901085,
     "wof:geomhash":"713c28040f15d24c32321e8af46f0a3f",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108734117,
-    "wof:lastmodified":1694639794,
+    "wof:lastmodified":1695886431,
     "wof:name":"Jasnenskiy",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

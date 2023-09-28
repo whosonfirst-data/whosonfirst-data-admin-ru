@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009184,
-    "geom:area_square_m":73370108.250995,
+    "geom:area_square_m":73370018.579411,
     "geom:bbox":"129.546197,49.701493,129.72612,49.815897",
     "geom:latitude":49.752089,
     "geom:longitude":129.640464,
@@ -134,10 +134,13 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:oktmo_code":"10775000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
     "wof:country":"RU",
     "wof:created":1478902627,
-    "wof:geomhash":"2b077850d0721a7833487ef7b5615251",
+    "wof:geomhash":"13500180c09967089bfc4d3a5892350b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1108735997,
-    "wof:lastmodified":1636497195,
+    "wof:lastmodified":1695886733,
     "wof:name":"Progress",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.259985,
-    "geom:area_square_m":1791445813.786819,
+    "geom:area_square_m":1791445926.464665,
     "geom:bbox":"52.557241,55.842941,53.582208,56.539064",
     "geom:latitude":56.133645,
     "geom:longitude":53.047396,
@@ -166,11 +166,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"92201000",
+        "meso:oktmo_code":"92601000",
         "wd:id":"Q518958"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899731,
-    "wof:geomhash":"fbdd9cd6bf82228d313a8ed09cc8f54b",
+    "wof:geomhash":"2eb5a89cef59e2cd1acb8f35278cd8a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -181,7 +187,7 @@
         }
     ],
     "wof:id":1108732627,
-    "wof:lastmodified":1690859651,
+    "wof:lastmodified":1695886176,
     "wof:name":"Agryzskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

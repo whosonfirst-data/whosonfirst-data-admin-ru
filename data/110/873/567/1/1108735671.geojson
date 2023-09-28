@@ -158,8 +158,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KI.OL",
+        "meso:okato_code":"86230000",
+        "meso:oktmo_code":"86630000",
         "wd:id":"Q303974"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902364,
     "wof:geomhash":"dd6e5719452fd64ab58dc738f2f9af36",
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":1108735671,
-    "wof:lastmodified":1694639682,
+    "wof:lastmodified":1695886213,
     "wof:name":"Oloneckij",
     "wof:parent_id":85688193,
     "wof:placetype":"county",

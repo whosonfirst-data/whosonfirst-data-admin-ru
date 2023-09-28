@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.713666,
-    "geom:area_square_m":3314980757.412348,
+    "geom:area_square_m":3314980467.045671,
     "geom:bbox":"31.725363,67.62152,33.179299,68.335907",
     "geom:latitude":67.935321,
     "geom:longitude":32.495231,
@@ -112,16 +112,22 @@
     "wof:concordances":{
         "gp:id":12598806,
         "hasc:id":"RU.MM.MO",
+        "meso:okato_code":"47415000",
+        "meso:oktmo_code":"47715000",
         "qs_pg:id":989713,
         "wd:id":"Q6898494",
         "wk:page":"Monchegorsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054467,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5a7ef128e3c0331aa028cd7ba19b466b",
+    "wof:geomhash":"185ae82aa738c7440b04f6f2c711f4ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":890483467,
-    "wof:lastmodified":1627522630,
+    "wof:lastmodified":1695886305,
     "wof:name":"Monchegorskiy",
     "wof:parent_id":85687869,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.782342,
-    "geom:area_square_m":13607844397.693382,
+    "geom:area_square_m":13607844804.177345,
     "geom:bbox":"104.422067,50.949809,107.431923,52.86717",
     "geom:latitude":51.869047,
     "geom:longitude":106.021948,
@@ -150,16 +150,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12597285,
+        "meso:okato_code":"81224000",
+        "meso:oktmo_code":"81624000",
         "qs_pg:id":224460,
         "wd:id":"Q1103108",
         "wk:page":"Kabansky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054651,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"66bf3509c0e938b5dd45ca07c54a696c",
+    "wof:geomhash":"191c9be0ff3117a106da0a3fd5ed62d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":890487025,
-    "wof:lastmodified":1690860084,
+    "wof:lastmodified":1695886479,
     "wof:name":"Kabanskiy",
     "wof:parent_id":85688207,
     "wof:placetype":"county",

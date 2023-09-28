@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003338,
-    "geom:area_square_m":23425331.593084,
+    "geom:area_square_m":23425396.440758,
     "geom:bbox":"38.197186,55.390164,38.295109,55.443539",
     "geom:latitude":55.415912,
     "geom:longitude":38.247944,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"46405000",
+        "meso:oktmo_code":"46705000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900181,
-    "wof:geomhash":"e60daa7c1440abcf15b194e66e47434b",
+    "wof:geomhash":"474849311731b6c2e2418c54e71bb251",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108733113,
-    "wof:lastmodified":1627522552,
+    "wof:lastmodified":1695886207,
     "wof:name":"Bronnicy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

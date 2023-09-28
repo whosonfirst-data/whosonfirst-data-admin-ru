@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02236,
-    "geom:area_square_m":201656615.378732,
+    "geom:area_square_m":201656671.835157,
     "geom:bbox":"46.387304,43.071153,46.583601,43.255435",
     "geom:latitude":43.167596,
     "geom:longitude":46.482898,
@@ -175,15 +175,21 @@
     "wof:concordances":{
         "gn:id":518649,
         "hasc:id":"RU.DA.NV",
+        "meso:okato_code":"82239000",
+        "meso:oktmo_code":"82639000",
         "qs_pg:id":549433,
         "wd:id":"Q1439254"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054319,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"05f3af8abebfa330a45b5ae6fd2abbf8",
+    "wof:geomhash":"7d288ae0bedc69e65c134f1726d360f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,7 +200,7 @@
         }
     ],
     "wof:id":890480713,
-    "wof:lastmodified":1690860130,
+    "wof:lastmodified":1695886489,
     "wof:name":"Novolakskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

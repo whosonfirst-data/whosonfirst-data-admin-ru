@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001413,
-    "geom:area_square_m":9831386.273494,
+    "geom:area_square_m":9831319.99958,
     "geom:bbox":"37.730745,55.733865,37.804468,55.76686",
     "geom:latitude":55.751183,
     "geom:longitude":37.768451,
@@ -107,10 +107,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45263583",
+        "meso:oktmo_code":"45312000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902760,
-    "wof:geomhash":"6253c381209e1b67619b8df6f13fd715",
+    "wof:geomhash":"168a631b47203c8aa922c674d90db074",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,7 +128,7 @@
         }
     ],
     "wof:id":1108736187,
-    "wof:lastmodified":1627522659,
+    "wof:lastmodified":1695886340,
     "wof:name":"Perovo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

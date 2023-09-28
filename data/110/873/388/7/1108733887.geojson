@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00746,
-    "geom:area_square_m":49857261.058379,
+    "geom:area_square_m":49857373.094185,
     "geom:bbox":"60.113747,57.25178,60.27227,57.313599",
     "geom:latitude":57.283013,
     "geom:longitude":60.192351,
@@ -77,10 +77,13 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:oktmo_code":"65761000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
     "wof:country":"RU",
     "wof:created":1478900889,
-    "wof:geomhash":"4741dfeb918abba4f547c6b94e1d7566",
+    "wof:geomhash":"0ebd0295a54ec8051da65396cecf446c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108733887,
-    "wof:lastmodified":1627522723,
+    "wof:lastmodified":1695886421,
     "wof:name":"Verkh-Nejvinskiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

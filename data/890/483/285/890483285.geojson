@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.681232,
-    "geom:area_square_m":9979212133.762514,
+    "geom:area_square_m":9979211504.882763,
     "geom:bbox":"40.937824,60.7641,43.634929,61.92793",
     "geom:latitude":61.312371,
     "geom:longitude":42.094819,
@@ -172,16 +172,22 @@
     "wof:concordances":{
         "gp:id":12598033,
         "hasc:id":"RU.AR.VL",
+        "meso:okato_code":"11205000",
+        "meso:oktmo_code":"11605000",
         "qs_pg:id":908249,
         "wd:id":"Q1402861",
         "wk:page":"Velsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054458,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8114146d7d7816260f2b359922d8640f",
+    "wof:geomhash":"7c95598bf5743b4f45560ade850e3210",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -192,7 +198,7 @@
         }
     ],
     "wof:id":890483285,
-    "wof:lastmodified":1690859916,
+    "wof:lastmodified":1695886456,
     "wof:name":"Vel'skiy",
     "wof:parent_id":85687971,
     "wof:placetype":"county",

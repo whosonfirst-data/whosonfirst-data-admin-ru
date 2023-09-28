@@ -122,8 +122,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KY.PI",
+        "meso:okato_code":"04245000",
+        "meso:oktmo_code":"04645000",
         "wd:id":"Q1617317"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902521,
     "wof:geomhash":"ea6651b959a6e2b36b8da5b695232672",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1108735869,
-    "wof:lastmodified":1694492762,
+    "wof:lastmodified":1695886343,
     "wof:name":"Pirovskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

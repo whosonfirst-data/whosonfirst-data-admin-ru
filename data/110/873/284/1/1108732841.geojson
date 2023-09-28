@@ -125,8 +125,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RO.BA",
+        "meso:okato_code":"60205000",
+        "meso:oktmo_code":"60605000",
         "wd:id":"Q1778570"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899919,
     "wof:geomhash":"cbe88f7f9104eb95ce3fc00fccdb3e3f",
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":1108732841,
-    "wof:lastmodified":1694639686,
+    "wof:lastmodified":1695886245,
     "wof:name":"Bagaevskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KG.PE",
+        "meso:okato_code":"29232000",
+        "meso:oktmo_code":"29632000",
         "wd:id":"Q1654633"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902467,
     "wof:geomhash":"e7ab1ac0691b0f6cd73f71ceeef57e64",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108735801,
-    "wof:lastmodified":1694639769,
+    "wof:lastmodified":1695886340,
     "wof:name":"Peremyshl'skiy",
     "wof:parent_id":85688131,
     "wof:placetype":"county",

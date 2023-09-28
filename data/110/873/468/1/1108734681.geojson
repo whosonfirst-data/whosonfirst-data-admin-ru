@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CV.KC",
+        "meso:okato_code":"97226000",
+        "meso:oktmo_code":"97626000",
         "wd:id":"Q2997172"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901560,
     "wof:geomhash":"e57dad960cdca6f189e8c4ec7315f1fa",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108734681,
-    "wof:lastmodified":1694639750,
+    "wof:lastmodified":1695886280,
     "wof:name":"Krasnochetajskiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",

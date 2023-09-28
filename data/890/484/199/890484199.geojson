@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.248018,
-    "geom:area_square_m":1323897437.920531,
+    "geom:area_square_m":1323897825.357667,
     "geom:bbox":"38.83383,64.061577,40.122427,64.740499",
     "geom:latitude":64.425158,
     "geom:longitude":39.673149,
@@ -137,15 +137,21 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598030,
+        "meso:okato_code":"11430000",
+        "meso:oktmo_code":"11730000",
         "qs_pg:id":1087087,
         "wk:page":"Onezhsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054502,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2f9a1a6aa9c6a60a3937b3549799882a",
+    "wof:geomhash":"46fe69e0b9ba448793b5bb0aef8cd693",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -156,7 +162,7 @@
         }
     ],
     "wof:id":890484199,
-    "wof:lastmodified":1642541501,
+    "wof:lastmodified":1695886464,
     "wof:name":"Severodvinsk",
     "wof:parent_id":85687971,
     "wof:placetype":"county",

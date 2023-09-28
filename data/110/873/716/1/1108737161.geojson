@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KH.UL",
+        "meso:okato_code":"08250000",
+        "meso:oktmo_code":"08650000",
         "wd:id":"Q1094036"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903555,
     "wof:geomhash":"0f2730dbbb7fe5a038d9b9b3b60131fc",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108737161,
-    "wof:lastmodified":1694639735,
+    "wof:lastmodified":1695886219,
     "wof:name":"Ul'chskiy",
     "wof:parent_id":85687937,
     "wof:placetype":"county",

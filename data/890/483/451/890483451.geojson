@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.177743,
-    "geom:area_square_m":1277946108.279811,
+    "geom:area_square_m":1277946080.70696,
     "geom:bbox":"20.742657,54.318274,21.639111,54.588039",
     "geom:latitude":54.446673,
     "geom:longitude":21.185402,
@@ -154,16 +154,22 @@
     "wof:concordances":{
         "gp:id":12598338,
         "hasc:id":"RU.KN.PR",
+        "meso:okato_code":"27233000",
+        "meso:oktmo_code":"27633000",
         "qs_pg:id":985932,
         "wd:id":"Q126421",
         "wk:page":"Pravdinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054466,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3a053aa2fea9250f137351358ee2ab08",
+    "wof:geomhash":"2ad226fb60f36395e168db90bda97b66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":890483451,
-    "wof:lastmodified":1690859919,
+    "wof:lastmodified":1695886457,
     "wof:name":"Pravdinskiy",
     "wof:parent_id":85688215,
     "wof:placetype":"county",

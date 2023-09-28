@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.602477,
-    "geom:area_square_m":3637404089.542629,
+    "geom:area_square_m":3637403876.812676,
     "geom:bbox":"29.486877,60.417775,30.723248,61.186876",
     "geom:latitude":60.773619,
     "geom:longitude":30.030593,
@@ -184,16 +184,22 @@
     "wof:concordances":{
         "gp:id":12598653,
         "hasc:id":"RU.LN.PR",
+        "meso:okato_code":"41239000",
+        "meso:oktmo_code":"41639000",
         "qs_pg:id":425064,
         "wd:id":"Q7975",
         "wk:page":"Priozersky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054597,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"833c36e500e5d2571ce2ea918a790ac6",
+    "wof:geomhash":"e5c2bdac4b7b395679bb15007cbfbe21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,7 +210,7 @@
         }
     ],
     "wof:id":890486233,
-    "wof:lastmodified":1690860046,
+    "wof:lastmodified":1695886476,
     "wof:name":"Priozerskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",

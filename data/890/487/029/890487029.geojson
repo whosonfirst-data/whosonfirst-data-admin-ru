@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.282252,
-    "geom:area_square_m":2097915699.745091,
+    "geom:area_square_m":2097915932.080128,
     "geom:bbox":"51.415922,52.644231,52.170924,53.32756",
     "geom:latitude":53.050722,
     "geom:longitude":51.752107,
@@ -154,16 +154,22 @@
     "wof:concordances":{
         "gp:id":12598202,
         "hasc:id":"RU.SA.BR",
+        "meso:okato_code":"36212000",
+        "meso:oktmo_code":"36612000",
         "qs_pg:id":224468,
         "wd:id":"Q1763650",
         "wk:page":"Borsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054651,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9ee20fec5d0ab58e91372bc95f61be03",
+    "wof:geomhash":"1601e1fccbb502ae1c8a7dbc703f4830",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":890487029,
-    "wof:lastmodified":1690860101,
+    "wof:lastmodified":1695886482,
     "wof:name":"Borskiy",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

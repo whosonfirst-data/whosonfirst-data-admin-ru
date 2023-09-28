@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047956,
-    "geom:area_square_m":324186910.820124,
+    "geom:area_square_m":324186854.888285,
     "geom:bbox":"53.020042,56.730667,53.39516,56.981796",
     "geom:latitude":56.858854,
     "geom:longitude":53.186544,
@@ -319,14 +319,20 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12597598,
+        "meso:okato_code":"94401000",
+        "meso:oktmo_code":"94701000",
         "qs_pg:id":241751
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054663,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e223b401d417209b6e14ba914551d8f9",
+    "wof:geomhash":"b6a4737f8ddde1050319303e94723c4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -337,7 +343,7 @@
         }
     ],
     "wof:id":890487227,
-    "wof:lastmodified":1642541518,
+    "wof:lastmodified":1695886479,
     "wof:name":"Izhevsk",
     "wof:parent_id":85687787,
     "wof:placetype":"county",

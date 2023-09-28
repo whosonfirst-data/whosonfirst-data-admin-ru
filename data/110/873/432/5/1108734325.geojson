@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KU.KE",
+        "meso:okato_code":"37214000",
+        "meso:oktmo_code":"37614000",
         "wd:id":"Q1753341"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901261,
     "wof:geomhash":"09274bedc6648c9fc3c6141e43f869ee",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108734325,
-    "wof:lastmodified":1694639745,
+    "wof:lastmodified":1695886261,
     "wof:name":"Ketovskiy",
     "wof:parent_id":85688157,
     "wof:placetype":"county",

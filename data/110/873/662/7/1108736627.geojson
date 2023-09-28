@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PE.SI",
+        "meso:okato_code":"57248000",
+        "meso:oktmo_code":"57648000",
         "wd:id":"Q1029319"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903107,
     "wof:geomhash":"f8b099c479c9c079f1e93cac3949c6fc",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108736627,
-    "wof:lastmodified":1694639779,
+    "wof:lastmodified":1695886377,
     "wof:name":"Sivinskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.AM.SB"
+        "hasc:id":"RU.AM.SB",
+        "meso:okato_code":"10570000",
+        "meso:oktmo_code":"10770000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903542,
     "wof:geomhash":"465a51af4720ec254be206a027bcfa7f",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108737143,
-    "wof:lastmodified":1694639790,
+    "wof:lastmodified":1695886414,
     "wof:name":"Uglegorsk (ZATO)",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.163756,
-    "geom:area_square_m":1368738965.951126,
+    "geom:area_square_m":1368739272.305462,
     "geom:bbox":"41.321996,47.317166,42.362275,47.612921",
     "geom:latitude":47.471048,
     "geom:longitude":41.811033,
@@ -111,11 +111,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"60212000",
+        "meso:oktmo_code":"60612000",
         "wd:id":"Q2006372"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903761,
-    "wof:geomhash":"5d7d201d4db093d37a662f04557d4253",
+    "wof:geomhash":"6f1f288771ab0aea22a3c22a477b78bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":1108737577,
-    "wof:lastmodified":1690859572,
+    "wof:lastmodified":1695886238,
     "wof:name":"Volgodonskoj",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

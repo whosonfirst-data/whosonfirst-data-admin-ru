@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001271,
-    "geom:area_square_m":8844401.312146,
+    "geom:area_square_m":8844497.593229,
     "geom:bbox":"37.629497,55.749446,37.705341,55.78315",
     "geom:latitude":55.76604,
     "geom:longitude":37.666816,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45286555",
+        "meso:oktmo_code":"45375000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899981,
-    "wof:geomhash":"962a8076ddfda20b714d8c6945bcafb7",
+    "wof:geomhash":"2350ffaa0b104beede81d7c3eae0c3d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108732901,
-    "wof:lastmodified":1627522541,
+    "wof:lastmodified":1695886193,
     "wof:name":"Basmannyj",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

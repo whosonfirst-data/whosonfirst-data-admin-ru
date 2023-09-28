@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001776,
-    "geom:area_square_m":12326043.243061,
+    "geom:area_square_m":12325936.213083,
     "geom:bbox":"37.338509,55.82415,37.397371,55.867626",
     "geom:latitude":55.845133,
     "geom:longitude":37.366359,
@@ -95,10 +95,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45283559",
+        "meso:oktmo_code":"45367000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902742,
-    "wof:geomhash":"28a3bfee9d0dcd65c32e80cb483174dd",
+    "wof:geomhash":"ee7758aad31f5dd81ac0b86c995801a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,7 +116,7 @@
         }
     ],
     "wof:id":1108736157,
-    "wof:lastmodified":1627522629,
+    "wof:lastmodified":1695886305,
     "wof:name":"Mitino",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

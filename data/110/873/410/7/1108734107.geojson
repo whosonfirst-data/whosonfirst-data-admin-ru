@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.UD.YA",
+        "meso:okato_code":"94252000",
+        "meso:oktmo_code":"94652000",
         "wd:id":"Q1094014"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901079,
     "wof:geomhash":"8eafea59af6f693dd641c315e17ecb94",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108734107,
-    "wof:lastmodified":1694639794,
+    "wof:lastmodified":1695886431,
     "wof:name":"Jarskiy",
     "wof:parent_id":85687787,
     "wof:placetype":"county",

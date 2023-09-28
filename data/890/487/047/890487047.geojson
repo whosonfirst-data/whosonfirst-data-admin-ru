@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029376,
-    "geom:area_square_m":205491566.044668,
+    "geom:area_square_m":205491653.476026,
     "geom:bbox":"37.580214,55.483811,37.95807,55.622536",
     "geom:latitude":55.547305,
     "geom:longitude":37.77062,
@@ -328,16 +328,22 @@
     "wof:concordances":{
         "gp:id":12598741,
         "hasc:id":"RU.MS.LE",
+        "meso:okato_code":"46228000",
+        "meso:oktmo_code":"46628000",
         "qs_pg:id":224476,
         "wd:id":"Q409302",
         "wk:page":"Leninsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054653,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"50ad41a36e75f9c40eea3db830b2cf3e",
+    "wof:geomhash":"12ed715c89600c0f238e6eb82e49ce85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -348,7 +354,7 @@
         }
     ],
     "wof:id":890487047,
-    "wof:lastmodified":1690860086,
+    "wof:lastmodified":1695886480,
     "wof:name":"Leninskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

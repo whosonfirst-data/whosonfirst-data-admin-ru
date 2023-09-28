@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.242581,
-    "geom:area_square_m":1729265064.753068,
+    "geom:area_square_m":1729265438.973876,
     "geom:bbox":"49.579308,54.500631,50.25482,55.062852",
     "geom:latitude":54.794687,
     "geom:longitude":49.922175,
@@ -154,11 +154,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"92207000",
+        "meso:oktmo_code":"92607000",
         "wd:id":"Q2988077"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899754,
-    "wof:geomhash":"d539c2fe9f3f8b1f6680a1d0659496fc",
+    "wof:geomhash":"ed97eb0a0f1036f3208ae532ca123a4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":1108732655,
-    "wof:lastmodified":1690859656,
+    "wof:lastmodified":1695886181,
     "wof:name":"Al'keevskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

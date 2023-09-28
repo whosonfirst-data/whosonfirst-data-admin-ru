@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SR.RM",
+        "meso:okato_code":"63240000",
+        "meso:oktmo_code":"63640000",
         "wd:id":"Q3940733"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902848,
     "wof:geomhash":"68a54d088b1091c2c4eda18ca2dd3716",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108736303,
-    "wof:lastmodified":1694639774,
+    "wof:lastmodified":1695886357,
     "wof:name":"Romanovskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

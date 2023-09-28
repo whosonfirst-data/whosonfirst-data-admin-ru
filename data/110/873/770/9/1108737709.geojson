@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.275323,
-    "geom:area_square_m":1852530157.81969,
+    "geom:area_square_m":1852530429.864168,
     "geom:bbox":"53.414894,56.750996,54.428807,57.322464",
     "geom:latitude":57.033027,
     "geom:longitude":53.921368,
@@ -136,11 +136,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"94208000",
+        "meso:oktmo_code":"94608000",
         "wd:id":"Q1193131"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903792,
-    "wof:geomhash":"f0cb0781b2ad03c522a9cbf62e47d464",
+    "wof:geomhash":"3715ca7af741ff5791635cd42b0abdd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":1108737709,
-    "wof:lastmodified":1690859522,
+    "wof:lastmodified":1695886236,
     "wof:name":"Votkinskiy",
     "wof:parent_id":85687787,
     "wof:placetype":"county",

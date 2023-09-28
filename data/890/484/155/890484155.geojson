@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.533888,
-    "geom:area_square_m":3939376126.914186,
+    "geom:area_square_m":3939375999.808317,
     "geom:bbox":"57.84402,52.857067,58.99095,53.888854",
     "geom:latitude":53.363827,
     "geom:longitude":58.546603,
@@ -196,16 +196,22 @@
     "wof:concordances":{
         "gp:id":12597204,
         "hasc:id":"RU.BK.AB",
+        "meso:okato_code":"80201000",
+        "meso:oktmo_code":"80601000",
         "qs_pg:id":1080885,
         "wd:id":"Q481602",
         "wk:page":"Abzelilovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054499,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"70f145ce329f1921bb02250a601bd65d",
+    "wof:geomhash":"2bb3e79cf4ac902650038be9ecb2d3f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -216,7 +222,7 @@
         }
     ],
     "wof:id":890484155,
-    "wof:lastmodified":1690859943,
+    "wof:lastmodified":1695886464,
     "wof:name":"Abzelilovskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

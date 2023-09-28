@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.RO.DU"
+        "hasc:id":"RU.RO.DU",
+        "meso:okato_code":"60213000",
+        "meso:oktmo_code":"60613000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900455,
     "wof:geomhash":"4c66ef73c1459ba283b723ac6434e7ea",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733421,
-    "wof:lastmodified":1694639736,
+    "wof:lastmodified":1695886226,
     "wof:name":"Dubovskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

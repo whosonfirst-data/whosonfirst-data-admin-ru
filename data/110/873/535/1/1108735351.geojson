@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KN.NE",
+        "meso:okato_code":"27224000",
+        "meso:oktmo_code":"27715000",
         "wd:id":"Q80298"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902131,
     "wof:geomhash":"bc3a3711ffa963acfe18c19d2ad25205",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108735351,
-    "wof:lastmodified":1694639760,
+    "wof:lastmodified":1695886312,
     "wof:name":"Nesterovskiy",
     "wof:parent_id":85688215,
     "wof:placetype":"county",

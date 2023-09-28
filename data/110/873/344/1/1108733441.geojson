@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.TL.ER"
+        "hasc:id":"RU.TL.ER",
+        "meso:okato_code":"70220000",
+        "meso:oktmo_code":"70620000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900475,
     "wof:geomhash":"f7567ca8a22b8a178002b780d815c985",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733441,
-    "wof:lastmodified":1694639740,
+    "wof:lastmodified":1695886243,
     "wof:name":"Efremovskiy",
     "wof:parent_id":85688203,
     "wof:placetype":"county",

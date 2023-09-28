@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047824,
-    "geom:area_square_m":359107152.277651,
+    "geom:area_square_m":359106893.934432,
     "geom:bbox":"39.409075,52.494244,39.810295,52.722245",
     "geom:latitude":52.608008,
     "geom:longitude":39.604059,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"42401000",
+        "meso:oktmo_code":"42701000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901795,
-    "wof:geomhash":"6aeff4ec184e8930ba9b54959251493b",
+    "wof:geomhash":"a80e613d94abccb83b4c975c792be603",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108734949,
-    "wof:lastmodified":1627522620,
+    "wof:lastmodified":1695886295,
     "wof:name":"Lipeckij",
     "wof:parent_id":85687917,
     "wof:placetype":"county",

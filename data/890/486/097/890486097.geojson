@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.13536,
-    "geom:area_square_m":6501158956.667115,
+    "geom:area_square_m":6501158907.802658,
     "geom:bbox":"33.00575,61.980914,34.919892,62.843698",
     "geom:latitude":62.413752,
     "geom:longitude":33.943359,
@@ -169,16 +169,22 @@
     "wof:concordances":{
         "gp:id":12597427,
         "hasc:id":"RU.KI.KD",
+        "meso:okato_code":"86215000",
+        "meso:oktmo_code":"86615000",
         "qs_pg:id":363002,
         "wd:id":"Q1036102",
         "wk:page":"Kondopozhsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054591,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"794f3cf736c5226b3c3efcf93348f538",
+    "wof:geomhash":"95863ec12b5c44ab66e825ac5aa158cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -189,7 +195,7 @@
         }
     ],
     "wof:id":890486097,
-    "wof:lastmodified":1690860045,
+    "wof:lastmodified":1695886475,
     "wof:name":"Kondopozhskiy",
     "wof:parent_id":85688193,
     "wof:placetype":"county",

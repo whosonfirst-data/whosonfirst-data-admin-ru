@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RO.ZI",
+        "meso:okato_code":"60219000",
+        "meso:oktmo_code":"60619000",
         "wd:id":"Q2220352"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903906,
     "wof:geomhash":"7ee91b02f3fbbcfef1ef3402432027b9",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108738247,
-    "wof:lastmodified":1694639796,
+    "wof:lastmodified":1695886441,
     "wof:name":"Zimovnikovskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

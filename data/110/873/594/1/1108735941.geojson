@@ -155,8 +155,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CV.PO",
+        "meso:okato_code":"97235000",
+        "meso:oktmo_code":"97635000",
         "wd:id":"Q1076148"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902573,
     "wof:geomhash":"57f0550787b6c6681a012b5edd0c22b9",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1108735941,
-    "wof:lastmodified":1694639771,
+    "wof:lastmodified":1695886347,
     "wof:name":"Poreckij",
     "wof:parent_id":85688111,
     "wof:placetype":"county",

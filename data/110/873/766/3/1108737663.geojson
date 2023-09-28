@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002615,
-    "geom:area_square_m":18143573.605694,
+    "geom:area_square_m":18143573.605691,
     "geom:bbox":"48.3129699524,55.8387969425,48.4045101796,55.8916938974",
     "geom:latitude":55.867105,
     "geom:longitude":48.362377,
@@ -191,10 +191,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"88405000",
+        "meso:oktmo_code":"88705000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903782,
-    "wof:geomhash":"359fab0be2d0e72bb983aefb3ff21917",
+    "wof:geomhash":"a9bb18f3d9b64ab0021b3f9ef424fc12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -205,7 +212,7 @@
         }
     ],
     "wof:id":1108737663,
-    "wof:lastmodified":1566627168,
+    "wof:lastmodified":1695886241,
     "wof:name":"Volzhsk",
     "wof:parent_id":85688043,
     "wof:placetype":"county",

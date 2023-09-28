@@ -219,8 +219,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.KK.UA"
+        "hasc:id":"RU.KK.UA",
+        "meso:okato_code":"95415000",
+        "meso:oktmo_code":"95715000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900310,
     "wof:geomhash":"61add2e5e2405b5e107eb91168ae1167",
@@ -234,7 +240,7 @@
         }
     ],
     "wof:id":1108733255,
-    "wof:lastmodified":1694639805,
+    "wof:lastmodified":1695886732,
     "wof:name":"Chernogorsk",
     "wof:parent_id":85688061,
     "wof:placetype":"county",

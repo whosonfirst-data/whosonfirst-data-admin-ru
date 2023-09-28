@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.5261,
-    "geom:area_square_m":3660206787.959059,
+    "geom:area_square_m":3660206776.854618,
     "geom:bbox":"56.233869,55.461794,57.706775,56.073784",
     "geom:latitude":55.760845,
     "geom:longitude":56.944831,
@@ -184,16 +184,22 @@
     "wof:concordances":{
         "gp:id":12597243,
         "hasc:id":"RU.BK.KD",
+        "meso:okato_code":"80234000",
+        "meso:oktmo_code":"80634000",
         "qs_pg:id":281783,
         "wd:id":"Q1703482",
         "wk:page":"Karaidelsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054314,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d50450335b3c5db1e01282790755f406",
+    "wof:geomhash":"f3c55eaa25e6022201e69f438113e1d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,7 +210,7 @@
         }
     ],
     "wof:id":890480587,
-    "wof:lastmodified":1690860135,
+    "wof:lastmodified":1695886490,
     "wof:name":"Karaidel'skiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

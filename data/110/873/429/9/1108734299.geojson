@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.434529,
-    "geom:area_square_m":2999806151.75893,
+    "geom:area_square_m":2999806057.61293,
     "geom:bbox":"60.255507,55.667023,61.803611,56.366419",
     "geom:latitude":56.061047,
     "geom:longitude":61.104944,
@@ -121,11 +121,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"75226000",
+        "meso:oktmo_code":"75626000",
         "wd:id":"Q1652753"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901243,
-    "wof:geomhash":"8e32cdccb210b292cdd5c12ac45b8b97",
+    "wof:geomhash":"82e0a2327defa2e7e8ad1e76aa39aafa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1108734299,
-    "wof:lastmodified":1690859608,
+    "wof:lastmodified":1695886259,
     "wof:name":"Kaslinskiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

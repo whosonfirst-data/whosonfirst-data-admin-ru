@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.IV.KR",
+        "meso:okato_code":"24211000",
+        "meso:oktmo_code":"24611000",
         "wd:id":"Q2218506"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901350,
     "wof:geomhash":"9b0f39536e80e8e559a7447e260e625e",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108734427,
-    "wof:lastmodified":1694639746,
+    "wof:lastmodified":1695886268,
     "wof:name":"Kineshemskiy",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

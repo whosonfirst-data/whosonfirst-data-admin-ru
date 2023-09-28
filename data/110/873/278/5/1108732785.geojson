@@ -167,8 +167,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TT.AS",
+        "meso:okato_code":"92212000",
+        "meso:oktmo_code":"92612000",
         "wd:id":"Q375561"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899867,
     "wof:geomhash":"87ee9e28cc609bc8c575bbdd9bcb4c52",
@@ -182,7 +188,7 @@
         }
     ],
     "wof:id":1108732785,
-    "wof:lastmodified":1694639728,
+    "wof:lastmodified":1695886188,
     "wof:name":"Arskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

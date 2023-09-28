@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OM.TE",
+        "meso:okato_code":"52255000",
+        "meso:oktmo_code":"52655000",
         "wd:id":"Q1655522"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903429,
     "wof:geomhash":"81065be3241617099c880f7d2e77857e",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108737007,
-    "wof:lastmodified":1694639787,
+    "wof:lastmodified":1695886406,
     "wof:name":"Tevrizskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

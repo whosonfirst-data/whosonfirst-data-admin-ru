@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.323581,
-    "geom:area_square_m":9902874156.115976,
+    "geom:area_square_m":9902873902.085396,
     "geom:bbox":"101.072158,52.208473,103.413727,53.317723",
     "geom:latitude":52.765314,
     "geom:longitude":102.266422,
@@ -115,11 +115,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"25248000",
+        "meso:oktmo_code":"25648000",
         "wd:id":"Q1651996"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900297,
-    "wof:geomhash":"a4abc149cb416f18f2baaa426bc0c4e1",
+    "wof:geomhash":"bebbd51dc8a2bc569e7df77f66214400",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":1108733235,
-    "wof:lastmodified":1690859501,
+    "wof:lastmodified":1695886215,
     "wof:name":"Cheremkhovskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.186156,
-    "geom:area_square_m":1350754012.117978,
+    "geom:area_square_m":1350754012.117839,
     "geom:bbox":"89.4036346159,53.9019102414,90.5859813531,54.2639424757",
     "geom:latitude":54.068927,
     "geom:longitude":89.969175,
@@ -152,10 +152,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"95409000",
+        "meso:oktmo_code":"95709000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903170,
-    "wof:geomhash":"e1908c9ba96d3b1f410b888a197bfeed",
+    "wof:geomhash":"cc3568a51abd471be68077ad1c4b4de5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,7 +173,7 @@
         }
     ],
     "wof:id":1108736719,
-    "wof:lastmodified":1566627190,
+    "wof:lastmodified":1695886257,
     "wof:name":"Sorsk",
     "wof:parent_id":85688061,
     "wof:placetype":"county",

@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PE.KA",
+        "meso:okato_code":"57222000",
+        "meso:oktmo_code":"57622000",
         "wd:id":"Q972691"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901219,
     "wof:geomhash":"81970e5f96995a2d661bc63bb1f71678",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108734267,
-    "wof:lastmodified":1694639744,
+    "wof:lastmodified":1695886258,
     "wof:name":"Karagajskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

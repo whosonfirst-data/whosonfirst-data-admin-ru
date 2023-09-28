@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PS.KU",
+        "meso:okato_code":"58216000",
+        "meso:oktmo_code":"58616000",
         "wd:id":"Q2533424"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901667,
     "wof:geomhash":"e531943944ea5e82b0d5e7cbf247f637",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108734801,
-    "wof:lastmodified":1694639752,
+    "wof:lastmodified":1695886288,
     "wof:name":"Kun'inskiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",

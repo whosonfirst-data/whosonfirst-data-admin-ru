@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.180217,
-    "geom:area_square_m":1228428894.727023,
+    "geom:area_square_m":1228429155.683141,
     "geom:bbox":"52.551136,56.359006,53.444469,56.732889",
     "geom:latitude":56.546775,
     "geom:longitude":52.948825,
@@ -154,15 +154,21 @@
     "wof:concordances":{
         "gn:id":6677912,
         "hasc:id":"RU.UD.MA",
+        "meso:okato_code":"94233000",
+        "meso:oktmo_code":"94633000",
         "qs_pg:id":643768,
         "wd:id":"Q639970"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054163,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"510e8a6665a1f393319a04aebf9d03e3",
+    "wof:geomhash":"72654123d3cfb1303fca647381833c17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":890478285,
-    "wof:lastmodified":1690859802,
+    "wof:lastmodified":1695886439,
     "wof:name":"Malopurginskiy",
     "wof:parent_id":85687787,
     "wof:placetype":"county",

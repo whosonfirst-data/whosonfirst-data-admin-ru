@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.PE.CG"
+        "hasc:id":"RU.PE.CG",
+        "meso:okato_code":"57435000",
+        "meso:oktmo_code":"57654000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900246,
     "wof:geomhash":"7458725ad72ba2043fd57691b828ae51",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733177,
-    "wof:lastmodified":1694639785,
+    "wof:lastmodified":1695886399,
     "wof:name":"Chajkovskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

@@ -75,7 +75,14 @@
         1108736255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45263561",
+        "meso:oktmo_code":"45304000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902809,
     "wof:geomhash":"25160be3946950a1b6c4511affc29e8d",
@@ -89,7 +96,7 @@
         }
     ],
     "wof:id":1175613653,
-    "wof:lastmodified":1694492892,
+    "wof:lastmodified":1695886419,
     "wof:name":"Vostochnyj",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NS.CR",
+        "meso:okato_code":"50257000",
+        "meso:oktmo_code":"50657000",
         "wd:id":"Q554450"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900300,
     "wof:geomhash":"07bd3ab1aa21add8c5d3acef7423c7fb",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108733239,
-    "wof:lastmodified":1694639734,
+    "wof:lastmodified":1695886215,
     "wof:name":"Cherepanovskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",

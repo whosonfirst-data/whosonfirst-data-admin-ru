@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000826,
-    "geom:area_square_m":5739762.128209,
+    "geom:area_square_m":5739770.182797,
     "geom:bbox":"37.701482,55.781534,37.750069,55.813282",
     "geom:latitude":55.798099,
     "geom:longitude":37.724429,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45263594",
+        "meso:oktmo_code":"45316000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902764,
-    "wof:geomhash":"338caf12d04513825dbc04b17a06dcb3",
+    "wof:geomhash":"313a93e60767369b4fe92d7c6f0e1838",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736191,
-    "wof:lastmodified":1627522666,
+    "wof:lastmodified":1695886350,
     "wof:name":"Preobrazhenskoe",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

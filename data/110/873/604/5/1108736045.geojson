@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.UL.RA",
+        "meso:okato_code":"73234000",
+        "meso:oktmo_code":"73634000",
         "wd:id":"Q2719768"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902660,
     "wof:geomhash":"7825b643d8dfa422fb64837602937aee",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108736045,
-    "wof:lastmodified":1694639773,
+    "wof:lastmodified":1695886354,
     "wof:name":"Radishhevskiy",
     "wof:parent_id":85687907,
     "wof:placetype":"county",

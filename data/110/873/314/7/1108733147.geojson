@@ -167,8 +167,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BK.BD",
+        "meso:okato_code":"80217000",
+        "meso:oktmo_code":"80617000",
         "wd:id":"Q1703465"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900222,
     "wof:geomhash":"b447548f6d7f7529c6ea9766da3fd630",
@@ -182,7 +188,7 @@
         }
     ],
     "wof:id":1108733147,
-    "wof:lastmodified":1694639733,
+    "wof:lastmodified":1695886210,
     "wof:name":"Buzdjakskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

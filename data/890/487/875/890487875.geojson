@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.187379,
-    "geom:area_square_m":1400877278.191857,
+    "geom:area_square_m":1400877202.992356,
     "geom:bbox":"50.516056,52.617059,51.36719,52.989941",
     "geom:latitude":52.798832,
     "geom:longitude":50.915475,
@@ -148,15 +148,21 @@
     "wof:concordances":{
         "gn:id":522943,
         "hasc:id":"RU.SA.NE",
+        "meso:okato_code":"36230000",
+        "meso:oktmo_code":"36630000",
         "qs_pg:id":549472,
         "wd:id":"Q670021"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054694,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5050dcbfbc18e63ef890152e4f6399b5",
+    "wof:geomhash":"679ec7ef4cc84a983cbd16f8973a3c73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":890487875,
-    "wof:lastmodified":1690860085,
+    "wof:lastmodified":1695886481,
     "wof:name":"Neftegorskiy",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

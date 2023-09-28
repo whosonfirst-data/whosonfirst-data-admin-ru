@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139939,
-    "geom:area_square_m":1005147437.073071,
+    "geom:area_square_m":1005147282.852384,
     "geom:bbox":"19.941268,54.365655,20.81765,54.614777",
     "geom:latitude":54.487254,
     "geom:longitude":20.42801,
@@ -152,15 +152,21 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":579759,
+        "meso:okato_code":"27203000",
+        "meso:oktmo_code":"27703000",
         "qs_pg:id":1029930,
         "wd:id":"Q76788"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054255,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a866892e8424ed6a68dad8321ed499d3",
+    "wof:geomhash":"ac66a3309c2e440a56918fec813b3248",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":890479667,
-    "wof:lastmodified":1690859966,
+    "wof:lastmodified":1695886469,
     "wof:name":"Bagrationovskiy",
     "wof:parent_id":85688215,
     "wof:placetype":"county",

@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.KB.PG"
+        "hasc:id":"RU.KB.PG",
+        "meso:okato_code":"83410000",
+        "meso:oktmo_code":"83710000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902630,
     "wof:geomhash":"eccd4ea843dbb948eb4a28076aae4d14",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108736003,
-    "wof:lastmodified":1694639772,
+    "wof:lastmodified":1695886351,
     "wof:name":"Prokhladnyj",
     "wof:parent_id":85688089,
     "wof:placetype":"county",

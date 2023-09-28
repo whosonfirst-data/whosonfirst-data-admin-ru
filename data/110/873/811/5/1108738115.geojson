@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SK.ZH"
+        "hasc:id":"RU.SK.ZH",
+        "meso:okato_code":"98222000",
+        "meso:oktmo_code":"98622000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903883,
     "wof:geomhash":"deb0ce87eb9ab0dc4ab0974062ff9009",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108738115,
-    "wof:lastmodified":1694639742,
+    "wof:lastmodified":1695886253,
     "wof:name":"Zhiganskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",

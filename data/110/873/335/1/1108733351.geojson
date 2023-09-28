@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.UD.DE",
+        "meso:okato_code":"94214000",
+        "meso:oktmo_code":"94614000",
         "wd:id":"Q639886"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900394,
     "wof:geomhash":"3c0bb9fab8750e2ef09dafa7f9bc9f6e",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108733351,
-    "wof:lastmodified":1694639735,
+    "wof:lastmodified":1695886222,
     "wof:name":"Debjosskiy",
     "wof:parent_id":85687787,
     "wof:placetype":"county",

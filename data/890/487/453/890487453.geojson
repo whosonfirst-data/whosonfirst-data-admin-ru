@@ -133,10 +133,16 @@
     "wof:concordances":{
         "gp:id":12598283,
         "hasc:id":"RU.IR.TN",
+        "meso:okato_code":"25238000",
+        "meso:oktmo_code":"25638000",
         "qs_pg:id":249586,
         "wd:id":"Q1655502",
         "wk:page":"Tulunsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054674,
     "wof:geom_alt":[
@@ -153,7 +159,7 @@
         }
     ],
     "wof:id":890487453,
-    "wof:lastmodified":1694493016,
+    "wof:lastmodified":1695886480,
     "wof:name":"Tulunskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

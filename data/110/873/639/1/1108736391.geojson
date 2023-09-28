@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.283243,
-    "geom:area_square_m":1936384778.509102,
+    "geom:area_square_m":1936384910.833226,
     "geom:bbox":"53.341082,56.168796,54.260973,56.765502",
     "geom:latitude":56.435025,
     "geom:longitude":53.763594,
@@ -133,11 +133,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"94237000",
+        "meso:oktmo_code":"94637000",
         "wd:id":"Q589335"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902918,
-    "wof:geomhash":"69bf079721b3c74d5eb0e51647336756",
+    "wof:geomhash":"9cf75e1dd23b2d3066917a99981aebeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":1108736391,
-    "wof:lastmodified":1690859653,
+    "wof:lastmodified":1695886362,
     "wof:name":"Sarapul'skiy",
     "wof:parent_id":85687787,
     "wof:placetype":"county",

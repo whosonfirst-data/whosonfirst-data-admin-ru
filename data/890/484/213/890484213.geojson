@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.532056,
-    "geom:area_square_m":11447345220.930761,
+    "geom:area_square_m":11447345458.751524,
     "geom:bbox":"86.910424,52.155206,89.25736,53.363855",
     "geom:latitude":52.82348,
     "geom:longitude":88.126393,
@@ -151,16 +151,22 @@
     "wof:concordances":{
         "gp:id":12598456,
         "hasc:id":"RU.KE.TR",
+        "meso:okato_code":"32227000",
+        "meso:oktmo_code":"32627000",
         "qs_pg:id":1087096,
         "wd:id":"Q1655539",
         "wk:page":"Tashtagolsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054503,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"230d27e7da960958ddd67893267a37bc",
+    "wof:geomhash":"acdf2fcfa2c1dd1a634f4aae616d7af6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":890484213,
-    "wof:lastmodified":1690859947,
+    "wof:lastmodified":1695886465,
     "wof:name":"Tashtagol'skiy",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

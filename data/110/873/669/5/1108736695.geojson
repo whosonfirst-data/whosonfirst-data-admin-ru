@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KS.SL",
+        "meso:okato_code":"38238000",
+        "meso:oktmo_code":"38638000",
         "wd:id":"Q2629962"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903154,
     "wof:geomhash":"2e82394b78085daa38fa81674f7eb3aa",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108736695,
-    "wof:lastmodified":1694639780,
+    "wof:lastmodified":1695886381,
     "wof:name":"Solncevskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

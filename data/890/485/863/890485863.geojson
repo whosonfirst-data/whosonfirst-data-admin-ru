@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.614342,
-    "geom:area_square_m":4035889786.269548,
+    "geom:area_square_m":4035888955.003033,
     "geom:bbox":"27.51907,57.450799,29.231858,58.302423",
     "geom:latitude":57.907446,
     "geom:longitude":28.423257,
@@ -175,16 +175,22 @@
     "wof:concordances":{
         "gp:id":12599087,
         "hasc:id":"RU.PS.PR",
+        "meso:okato_code":"58249000",
+        "meso:oktmo_code":"58649000",
         "qs_pg:id":774085,
         "wd:id":"Q2706915",
         "wk:page":"Pskovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054580,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fa66083f3a1c6ff38748b1b3c6b23276",
+    "wof:geomhash":"69667f20292cad392a56c9e7a26213ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -195,7 +201,7 @@
         }
     ],
     "wof:id":890485863,
-    "wof:lastmodified":1690859847,
+    "wof:lastmodified":1695886446,
     "wof:name":"Pskovskiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",

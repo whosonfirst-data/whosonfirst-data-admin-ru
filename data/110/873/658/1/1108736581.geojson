@@ -119,8 +119,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CT.SK",
+        "meso:okato_code":"76254000",
+        "meso:oktmo_code":"76654000",
         "wd:id":"Q2040643"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903065,
     "wof:geomhash":"65ccf8675efabcf02141671cf6f75e52",
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":1108736581,
-    "wof:lastmodified":1694492770,
+    "wof:lastmodified":1695886374,
     "wof:name":"Shilkinskiy",
     "wof:parent_id":85688005,
     "wof:placetype":"county",

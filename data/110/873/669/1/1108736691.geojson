@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.883453,
-    "geom:area_square_m":5492203065.70927,
+    "geom:area_square_m":5492203925.358893,
     "geom:bbox":"55.350296,59.481768,57.926941,60.185761",
     "geom:latitude":59.817021,
     "geom:longitude":56.709625,
@@ -130,11 +130,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"57250000",
+        "meso:oktmo_code":"57650000",
         "wd:id":"Q1029307"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903151,
-    "wof:geomhash":"889cabff58cc97b114ebae96b1f30a7c",
+    "wof:geomhash":"4a5edb44940570415868383d1c4f1a4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":1108736691,
-    "wof:lastmodified":1690859446,
+    "wof:lastmodified":1695886381,
     "wof:name":"Solikamskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

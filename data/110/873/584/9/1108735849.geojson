@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SR.PV",
+        "meso:okato_code":"63235000",
+        "meso:oktmo_code":"63635000",
         "wd:id":"Q672174"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902498,
     "wof:geomhash":"1023fc0f6e79ce71189230dcc5488389",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108735849,
-    "wof:lastmodified":1694639770,
+    "wof:lastmodified":1695886342,
     "wof:name":"Petrovskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

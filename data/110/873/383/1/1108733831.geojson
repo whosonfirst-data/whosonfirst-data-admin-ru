@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.178541,
-    "geom:area_square_m":1032790365.627902,
+    "geom:area_square_m":1032790291.595281,
     "geom:bbox":"65.144033,61.944378,65.894326,62.310029",
     "geom:latitude":62.107457,
     "geom:longitude":65.559054,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"71139000",
+        "meso:oktmo_code":"71879000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900841,
-    "wof:geomhash":"33d784dbeb79f35c7ee6634990e9a155",
+    "wof:geomhash":"22e4b54691b797237708c97c7a9599cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108733831,
-    "wof:lastmodified":1627522637,
+    "wof:lastmodified":1695886313,
     "wof:name":"Njagan'",
     "wof:parent_id":85687919,
     "wof:placetype":"county",

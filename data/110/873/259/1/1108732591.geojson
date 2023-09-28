@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KY.AB",
+        "meso:okato_code":"04201000",
+        "meso:oktmo_code":"04601000",
         "wd:id":"Q479280"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899706,
     "wof:geomhash":"d10b8f648328a82c94509e3a449b3f89",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108732591,
-    "wof:lastmodified":1694492716,
+    "wof:lastmodified":1695886174,
     "wof:name":"Abanskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

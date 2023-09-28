@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.226811,
-    "geom:area_square_m":1687993055.026903,
+    "geom:area_square_m":1687992738.874825,
     "geom:bbox":"35.748029,52.698581,36.478425,53.27321",
     "geom:latitude":52.99569,
     "geom:longitude":36.089569,
@@ -138,16 +138,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598976,
+        "meso:okato_code":"54247000",
+        "meso:oktmo_code":"54647000",
         "qs_pg:id":1209315,
         "wd:id":"Q1765981",
         "wk:page":"Orlovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054283,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e1b728962c05ca36bc67d161fa8d234a",
+    "wof:geomhash":"f114f69a2c4769e7db79542abe1bbbd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":890480091,
-    "wof:lastmodified":1690860125,
+    "wof:lastmodified":1695886488,
     "wof:name":"Orlovskiy",
     "wof:parent_id":85687849,
     "wof:placetype":"county",

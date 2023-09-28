@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KS.GO",
+        "meso:okato_code":"38206000",
+        "meso:oktmo_code":"38606000",
         "wd:id":"Q2629931"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900909,
     "wof:geomhash":"5d073b06a8b7dd1e58e929d6868d8b3f",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108733917,
-    "wof:lastmodified":1694639739,
+    "wof:lastmodified":1695886238,
     "wof:name":"Gorshechenskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

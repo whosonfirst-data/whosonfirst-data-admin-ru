@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.YN.SH",
+        "meso:okato_code":"71166000",
+        "meso:oktmo_code":"71926000",
         "wd:id":"Q2217901"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903100,
     "wof:geomhash":"10ae8b210378d1e36eeee6361cdf1da6",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108736617,
-    "wof:lastmodified":1694639779,
+    "wof:lastmodified":1695886376,
     "wof:name":"Shuryshkarskiy",
     "wof:parent_id":85687931,
     "wof:placetype":"county",

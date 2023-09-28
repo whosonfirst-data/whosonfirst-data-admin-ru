@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.964227,
-    "geom:area_square_m":7038421477.188887,
+    "geom:area_square_m":7038421734.946793,
     "geom:bbox":"100.377943,53.258561,102.648675,54.506901",
     "geom:latitude":53.819021,
     "geom:longitude":101.63548,
@@ -121,11 +121,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"25210000",
+        "meso:oktmo_code":"25610000",
         "wd:id":"Q1658402"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903905,
-    "wof:geomhash":"8757a74d6f41180e880054c171b09e13",
+    "wof:geomhash":"332697ec286f599f4fe53c9d53bf6f0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1108738241,
-    "wof:lastmodified":1690859600,
+    "wof:lastmodified":1695886441,
     "wof:name":"Ziminskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

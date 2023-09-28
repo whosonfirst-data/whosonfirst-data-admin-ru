@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.44526,
-    "geom:area_square_m":3521449170.268358,
+    "geom:area_square_m":3521448614.526881,
     "geom:bbox":"44.78911,49.750323,45.901678,50.61658",
     "geom:latitude":50.237864,
     "geom:longitude":45.336148,
@@ -129,16 +129,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12599561,
+        "meso:okato_code":"18218000",
+        "meso:oktmo_code":"18618000",
         "qs_pg:id":989726,
         "wd:id":"Q2222004",
         "wk:page":"Kamyshinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054470,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f5e425acbdea55051d66007cf6320d33",
+    "wof:geomhash":"3ef3b6db4bc6f4f05b2c595e76a7bd82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":890483523,
-    "wof:lastmodified":1690859925,
+    "wof:lastmodified":1695886459,
     "wof:name":"Kamyshinskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":44.313159,
-    "geom:area_square_m":178667824912.299133,
+    "geom:area_square_m":178667826600.794708,
     "geom:bbox":"117.106368,68.682141,133.491543,73.996246",
     "geom:latitude":70.96428,
     "geom:longitude":125.931909,
@@ -145,11 +145,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"98212000",
+        "meso:oktmo_code":"98612000",
         "wd:id":"Q572266"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900197,
-    "wof:geomhash":"96db7ffb5cd76ba63d9bfb8f05c37eea",
+    "wof:geomhash":"f6c88e6acd1a7c97f2b1d1c12e0d045f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,7 +166,7 @@
         }
     ],
     "wof:id":1108733129,
-    "wof:lastmodified":1690859506,
+    "wof:lastmodified":1695886207,
     "wof:name":"Bulunskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",

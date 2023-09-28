@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03327,
-    "geom:area_square_m":240839512.451766,
+    "geom:area_square_m":240839653.84914,
     "geom:bbox":"57.719623,54.015156,58.034239,54.278376",
     "geom:latitude":54.166793,
     "geom:longitude":57.862604,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"80507000",
+        "meso:oktmo_code":"80707000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903850,
-    "wof:geomhash":"63ddab12a3929932ce39ac724bc5374c",
+    "wof:geomhash":"9d0555d58c192f4d5985d75af63029bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108737939,
-    "wof:lastmodified":1627522736,
+    "wof:lastmodified":1695886438,
     "wof:name":"ZATO Mezhgor'e",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

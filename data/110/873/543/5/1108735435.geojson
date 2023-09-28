@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.204401,
-    "geom:area_square_m":1434777450.274149,
+    "geom:area_square_m":1434777450.274023,
     "geom:bbox":"36.8007767431,55.1366815994,37.801528016,56.0115021628",
     "geom:latitude":55.411513,
     "geom:longitude":37.20297,
@@ -93,10 +93,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"NO DATA",
+        "meso:oktmo_code":"NO DATA"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902184,
-    "wof:geomhash":"68cdd627ad5992fe539b0d820bcbbb9e",
+    "wof:geomhash":"b0dd49da4ffe6e03a23fe26a1dce5bf4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,7 +114,7 @@
         }
     ],
     "wof:id":1108735435,
-    "wof:lastmodified":1566627067,
+    "wof:lastmodified":1695886233,
     "wof:name":"Podolsky",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

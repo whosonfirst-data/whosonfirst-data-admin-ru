@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.186983,
-    "geom:area_square_m":1325831688.533723,
+    "geom:area_square_m":1325831589.34848,
     "geom:bbox":"35.017372,54.799252,35.80739,55.274711",
     "geom:latitude":55.009753,
     "geom:longitude":35.40752,
@@ -118,11 +118,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"29215000",
+        "meso:oktmo_code":"29615000",
         "wd:id":"Q1652570"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901025,
-    "wof:geomhash":"a9f3cca98435ff1d6b20fd744b54975d",
+    "wof:geomhash":"cf5b373c96a3221304dcc4a9e17870da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":1108734059,
-    "wof:lastmodified":1690859646,
+    "wof:lastmodified":1695886252,
     "wof:name":"Iznoskovskiy",
     "wof:parent_id":85688131,
     "wof:placetype":"county",

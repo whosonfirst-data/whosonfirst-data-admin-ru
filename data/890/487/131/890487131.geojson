@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.296822,
-    "geom:area_square_m":1947635312.993749,
+    "geom:area_square_m":1947635562.029194,
     "geom:bbox":"37.334492,57.685432,38.445123,58.214771",
     "geom:latitude":57.950387,
     "geom:longitude":37.887119,
@@ -151,16 +151,22 @@
     "wof:concordances":{
         "gp:id":12599666,
         "hasc:id":"RU.YS.NU",
+        "meso:okato_code":"78223000",
+        "meso:oktmo_code":"78623000",
         "qs_pg:id":233609,
         "wd:id":"Q2622848",
         "wk:page":"Nekouzsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054658,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"74acd2c96a2486104453e9ea9394d2bd",
+    "wof:geomhash":"52bc266e301721ef80b88824c0c1b9d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":890487131,
-    "wof:lastmodified":1690860097,
+    "wof:lastmodified":1695886481,
     "wof:name":"Nekouzskiy",
     "wof:parent_id":85687959,
     "wof:placetype":"county",

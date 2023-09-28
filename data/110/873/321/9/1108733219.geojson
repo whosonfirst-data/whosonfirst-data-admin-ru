@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SA.CV",
+        "meso:okato_code":"36246000",
+        "meso:oktmo_code":"36646000",
         "wd:id":"Q2636705"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900286,
     "wof:geomhash":"7ad3c99aa2375c3fcd4c561c25b20735",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108733219,
-    "wof:lastmodified":1694639734,
+    "wof:lastmodified":1695886214,
     "wof:name":"Chelno-Vershinskiy",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

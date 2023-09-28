@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.IV.IL",
+        "meso:okato_code":"24209000",
+        "meso:oktmo_code":"24609000",
         "wd:id":"Q1774547"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900961,
     "wof:geomhash":"47dc761fd41f66f1b874af54e2a13c28",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108733979,
-    "wof:lastmodified":1694639741,
+    "wof:lastmodified":1695886246,
     "wof:name":"Il'inskiy",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.764365,
-    "geom:area_square_m":5862348032.860595,
+    "geom:area_square_m":5862349074.9588,
     "geom:bbox":"54.25534,51.220123,56.138376,52.147517",
     "geom:latitude":51.665028,
     "geom:longitude":55.04329,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"53234000",
+        "meso:oktmo_code":"53634000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902386,
-    "wof:geomhash":"f5f7140eb36f29c15384ca25f126ca55",
+    "wof:geomhash":"e2ab59643702d376fe062d79b391f525",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108735703,
-    "wof:lastmodified":1627522652,
+    "wof:lastmodified":1695886332,
     "wof:name":"Orenburgskiy",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

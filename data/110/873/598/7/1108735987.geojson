@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KU.PR",
+        "meso:okato_code":"37230000",
+        "meso:oktmo_code":"37630000",
         "wd:id":"Q1753260"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902617,
     "wof:geomhash":"460225d8c5f3ef5cf923d85f7ce64e7b",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108735987,
-    "wof:lastmodified":1694639772,
+    "wof:lastmodified":1695886350,
     "wof:name":"Pritobol'nyj",
     "wof:parent_id":85688157,
     "wof:placetype":"county",

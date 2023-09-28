@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.200901,
-    "geom:area_square_m":31028387217.438511,
+    "geom:area_square_m":31028387454.878365,
     "geom:bbox":"58.771833,64.901842,63.05993,67.119175",
     "geom:latitude":66.128385,
     "geom:longitude":60.614927,
@@ -146,15 +146,21 @@
     "wof:concordances":{
         "gp:id":12597444,
         "hasc:id":"RU.KO.IN",
+        "meso:okato_code":"87415000",
+        "meso:oktmo_code":"87715000",
         "qs_pg:id":230342,
         "wd:id":"Q2623326"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054276,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cf2754540003dff880af02ebd2b253ed",
+    "wof:geomhash":"6cdda87af621fea2b05a91642c39ed6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":890479931,
-    "wof:lastmodified":1690859953,
+    "wof:lastmodified":1695886467,
     "wof:name":"Inta",
     "wof:parent_id":85688077,
     "wof:placetype":"county",

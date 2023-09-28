@@ -306,8 +306,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.NO.VL"
+        "hasc:id":"RU.NO.VL",
+        "meso:okato_code":"90401000",
+        "meso:oktmo_code":"90701000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903749,
     "wof:geomhash":"47d256b2d6dfc711871a0f4eefd33f7a",
@@ -321,7 +327,7 @@
         }
     ],
     "wof:id":1108737521,
-    "wof:lastmodified":1694639682,
+    "wof:lastmodified":1695886213,
     "wof:name":"Vladikavkaz",
     "wof:parent_id":85687865,
     "wof:placetype":"county",

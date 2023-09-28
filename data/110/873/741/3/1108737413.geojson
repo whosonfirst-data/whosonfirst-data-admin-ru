@@ -216,8 +216,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.IV.VG"
+        "hasc:id":"RU.IV.VG",
+        "meso:okato_code":"24403000",
+        "meso:oktmo_code":"24703000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903728,
     "wof:geomhash":"d7fd149cf1ec69f508c8998a1a06f31d",
@@ -231,7 +237,7 @@
         }
     ],
     "wof:id":1108737413,
-    "wof:lastmodified":1694639805,
+    "wof:lastmodified":1695886732,
     "wof:name":"Vichuga",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

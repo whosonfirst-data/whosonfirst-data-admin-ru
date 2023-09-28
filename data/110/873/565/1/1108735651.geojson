@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VR.OL",
+        "meso:okato_code":"20229000",
+        "meso:oktmo_code":"20629000",
         "wd:id":"Q2003555"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902350,
     "wof:geomhash":"490702a9e6877d3949780e7a92fb2835",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108735651,
-    "wof:lastmodified":1694639764,
+    "wof:lastmodified":1695886328,
     "wof:name":"Ol'khovatskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

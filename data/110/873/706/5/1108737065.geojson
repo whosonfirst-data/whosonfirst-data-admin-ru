@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NZ.TS",
+        "meso:okato_code":"22253000",
+        "meso:oktmo_code":"22653000",
         "wd:id":"Q3993335"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903478,
     "wof:geomhash":"9cc999e088402dc6c26cee39d2a07492",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108737065,
-    "wof:lastmodified":1694639788,
+    "wof:lastmodified":1695886409,
     "wof:name":"Tonshaevskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000563,
-    "geom:area_square_m":1953029.635035,
+    "geom:area_square_m":1953038.645977,
     "geom:bbox":"110.895903,73.69681,111.011806,73.755632",
     "geom:latitude":73.710454,
     "geom:longitude":110.952022,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"04114000",
+        "meso:oktmo_code":"04811000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903338,
-    "wof:geomhash":"c8e6223d3e1042204b56ddfcd010fb60",
+    "wof:geomhash":"2fa73f9da82c71721b9a1aaaccaded64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108736915,
-    "wof:lastmodified":1627522702,
+    "wof:lastmodified":1695886397,
     "wof:name":"Tajmyrskiy Dolgano-Neneckij",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

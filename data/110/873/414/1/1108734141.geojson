@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.KU.YU"
+        "hasc:id":"RU.KU.YU",
+        "meso:okato_code":"37246000",
+        "meso:oktmo_code":"37646000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901105,
     "wof:geomhash":"7e8d2973ec0cd6a140178ed83d8098e8",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108734141,
-    "wof:lastmodified":1694639795,
+    "wof:lastmodified":1695886433,
     "wof:name":"Jurgamyshskiy",
     "wof:parent_id":85688157,
     "wof:placetype":"county",

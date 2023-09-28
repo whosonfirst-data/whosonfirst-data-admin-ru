@@ -173,8 +173,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BK.KG",
+        "meso:okato_code":"80238000",
+        "meso:oktmo_code":"80638000",
         "wd:id":"Q1121709"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901644,
     "wof:geomhash":"16d3c3f5127ae6e9549e884a9eca734d",
@@ -188,7 +194,7 @@
         }
     ],
     "wof:id":1108734773,
-    "wof:lastmodified":1694639752,
+    "wof:lastmodified":1695886287,
     "wof:name":"Kugarchinskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

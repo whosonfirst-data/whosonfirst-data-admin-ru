@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KS.RY",
+        "meso:okato_code":"38234000",
+        "meso:oktmo_code":"38634000",
         "wd:id":"Q2629637"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902881,
     "wof:geomhash":"126eabd42867dfd9bc4c367057ed0257",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108736345,
-    "wof:lastmodified":1694639774,
+    "wof:lastmodified":1695886360,
     "wof:name":"Ryl'skiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

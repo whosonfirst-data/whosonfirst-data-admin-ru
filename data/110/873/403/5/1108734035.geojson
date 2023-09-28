@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":30.489949,
-    "geom:area_square_m":141848316611.7547,
+    "geom:area_square_m":141848317401.828125,
     "geom:bbox":"-179.999983,65.0074,179.999983,71.607056",
     "geom:latitude":67.892049,
     "geom:longitude":31.142054,
@@ -139,11 +139,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"77215000",
+        "meso:oktmo_code":"77615000",
         "wd:id":"Q765027"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901011,
-    "wof:geomhash":"073fbc2b88aae97d23055b3056099453",
+    "wof:geomhash":"afbdbdebdd97a0245e3a7f1593be7641",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":1108734035,
-    "wof:lastmodified":1690859683,
+    "wof:lastmodified":1695886245,
     "wof:name":"Iul'tinskiy",
     "wof:parent_id":85687795,
     "wof:placetype":"county",

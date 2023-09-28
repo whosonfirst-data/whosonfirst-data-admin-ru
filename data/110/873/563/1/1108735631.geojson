@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KS.OK",
+        "meso:okato_code":"38228000",
+        "meso:oktmo_code":"38628000",
         "wd:id":"Q2387495"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902336,
     "wof:geomhash":"401094eedf2cd11416ed0f7e5c7a8738",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108735631,
-    "wof:lastmodified":1694639764,
+    "wof:lastmodified":1695886327,
     "wof:name":"Oktjabr'skiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00667,
-    "geom:area_square_m":45176554.399876,
+    "geom:area_square_m":45176645.657696,
     "geom:bbox":"61.011436,56.733465,61.156064,56.843757",
     "geom:latitude":56.78785,
     "geom:longitude":61.090555,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"65209000",
+        "meso:oktmo_code":"65760000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900891,
-    "wof:geomhash":"484d00523cd0e026035d936e9d022643",
+    "wof:geomhash":"5752d3d690189865eab05540778db713",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108733889,
-    "wof:lastmodified":1627522724,
+    "wof:lastmodified":1695886422,
     "wof:name":"Verkhnee Dubrovo",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

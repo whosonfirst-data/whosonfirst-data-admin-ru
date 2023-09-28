@@ -116,8 +116,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.IR.BA",
+        "meso:okato_code":"25201000",
+        "meso:oktmo_code":"25601000",
         "wd:id":"Q1650957"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899949,
     "wof:geomhash":"c4e043624db4b6f3cad52e2153d2bd6e",
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":1108732863,
-    "wof:lastmodified":1694492720,
+    "wof:lastmodified":1695886191,
     "wof:name":"Balaganskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

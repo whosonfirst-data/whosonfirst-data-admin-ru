@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OB.SE",
+        "meso:okato_code":"53243000",
+        "meso:oktmo_code":"53643000",
         "wd:id":"Q3958520"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902973,
     "wof:geomhash":"84786778a1acb59866b1aff8f0f0c5d6",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108736461,
-    "wof:lastmodified":1694639776,
+    "wof:lastmodified":1695886367,
     "wof:name":"Severnyj",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

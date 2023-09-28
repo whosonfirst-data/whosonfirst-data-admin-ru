@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OM.GO",
+        "meso:okato_code":"52209000",
+        "meso:oktmo_code":"52609000",
         "wd:id":"Q3773438"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900606,
     "wof:geomhash":"3a85c9e7155435a37a9a530145f2f584",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108733601,
-    "wof:lastmodified":1694639739,
+    "wof:lastmodified":1695886237,
     "wof:name":"Gor'kovskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

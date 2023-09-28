@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AM.ZR",
+        "meso:okato_code":"10225000",
+        "meso:oktmo_code":"10625000",
         "wd:id":"Q2218658"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903864,
     "wof:geomhash":"9c58b29106655ccabcc7afd808d7ddbf",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108738019,
-    "wof:lastmodified":1694639796,
+    "wof:lastmodified":1695886439,
     "wof:name":"Zejskiy",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

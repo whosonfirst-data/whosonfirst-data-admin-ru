@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BU.KH",
+        "meso:okato_code":"81257000",
+        "meso:oktmo_code":"81657000",
         "wd:id":"Q740565"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901310,
     "wof:geomhash":"e338a2f7e5af4118a9117a858a03123d",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108734385,
-    "wof:lastmodified":1694639746,
+    "wof:lastmodified":1695886266,
     "wof:name":"Khorinskiy",
     "wof:parent_id":85688207,
     "wof:placetype":"county",

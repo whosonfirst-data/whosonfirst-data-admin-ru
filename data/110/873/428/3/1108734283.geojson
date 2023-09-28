@@ -167,8 +167,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BK.KM",
+        "meso:okato_code":"80235000",
+        "meso:oktmo_code":"80635000",
         "wd:id":"Q1104923"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901233,
     "wof:geomhash":"f5131b2101f97c9b272f4955cbbfd575",
@@ -182,7 +188,7 @@
         }
     ],
     "wof:id":1108734283,
-    "wof:lastmodified":1694639744,
+    "wof:lastmodified":1695886259,
     "wof:name":"Karmaskalinskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

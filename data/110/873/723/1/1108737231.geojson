@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02224,
-    "geom:area_square_m":145717310.4861,
+    "geom:area_square_m":145717190.145569,
     "geom:bbox":"102.671531,57.905457,102.883316,58.106452",
     "geom:latitude":58.003402,
     "geom:longitude":102.772615,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"25438000",
+        "meso:oktmo_code":"25738000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903614,
-    "wof:geomhash":"e30acf78340bb45a68ee145de1edd4ff",
+    "wof:geomhash":"cbada3463fc7faf7234dc7027f1fc896",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108737231,
-    "wof:lastmodified":1627522655,
+    "wof:lastmodified":1695886335,
     "wof:name":"Ust'-Ilimsk",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

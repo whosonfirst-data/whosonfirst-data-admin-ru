@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000392,
-    "geom:area_square_m":2723332.048136,
+    "geom:area_square_m":2723361.383061,
     "geom:bbox":"37.557256,55.78938,37.583744,55.809864",
     "geom:latitude":55.799017,
     "geom:longitude":37.571261,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45277586",
+        "meso:oktmo_code":"45344000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902928,
-    "wof:geomhash":"022d4a342d5f50680db8c32ae1c9a37f",
+    "wof:geomhash":"75e736421fb4279da41a1067adf8d7be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108736407,
-    "wof:lastmodified":1627522677,
+    "wof:lastmodified":1695886363,
     "wof:name":"Savjolovskiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

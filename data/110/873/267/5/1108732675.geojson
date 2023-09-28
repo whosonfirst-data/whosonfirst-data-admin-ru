@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.450151,
-    "geom:area_square_m":3389530159.439363,
+    "geom:area_square_m":3389530247.764052,
     "geom:bbox":"81.964195,52.155107,83.276807,52.800096",
     "geom:latitude":52.486392,
     "geom:longitude":82.659558,
@@ -130,11 +130,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"01201000",
+        "meso:oktmo_code":"01601000",
         "wd:id":"Q2156425"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899777,
-    "wof:geomhash":"494a8248e672f22dccbbaecc24c34dba",
+    "wof:geomhash":"9ec08ae367d97771bb35dad69d48679f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":1108732675,
-    "wof:lastmodified":1690859462,
+    "wof:lastmodified":1695886178,
     "wof:name":"Alejskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

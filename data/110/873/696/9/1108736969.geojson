@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.IV.TR"
+        "hasc:id":"RU.IV.TR",
+        "meso:okato_code":"24407000",
+        "meso:oktmo_code":"24707000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903390,
     "wof:geomhash":"151369c18ae9cdac0564db0ad04fc73e",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108736969,
-    "wof:lastmodified":1694639786,
+    "wof:lastmodified":1695886403,
     "wof:name":"Tejkovo",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

@@ -170,8 +170,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.DA.AS",
+        "meso:okato_code":"82203000",
+        "meso:oktmo_code":"82603000",
         "wd:id":"Q619226"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899753,
     "wof:geomhash":"c83f0e264089d8b0243a9dba982fad54",
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":1108732651,
-    "wof:lastmodified":1694639726,
+    "wof:lastmodified":1695886178,
     "wof:name":"Akushinskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

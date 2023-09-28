@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.751824,
-    "geom:area_square_m":4743123038.429722,
+    "geom:area_square_m":4743123368.521975,
     "geom:bbox":"38.772166,58.869591,40.313059,59.860683",
     "geom:latitude":59.322098,
     "geom:longitude":39.459478,
@@ -147,16 +147,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12599618,
+        "meso:okato_code":"19220000",
+        "meso:oktmo_code":"19620000",
         "qs_pg:id":1209342,
         "wd:id":"Q1658617",
         "wk:page":"Vologodsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054285,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d3abd983c0cbde12f238c786fdb07fc8",
+    "wof:geomhash":"d12cbe0c3b58798c4dd258527377f5d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":890480137,
-    "wof:lastmodified":1690860141,
+    "wof:lastmodified":1695886491,
     "wof:name":"Vologodskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",

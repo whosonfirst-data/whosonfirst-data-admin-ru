@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001103,
-    "geom:area_square_m":8287017.482839,
+    "geom:area_square_m":8286991.459622,
     "geom:bbox":"41.487332,52.571468,41.535449,52.614294",
     "geom:latitude":52.591671,
     "geom:longitude":41.509568,
@@ -146,10 +146,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"68410000",
+        "meso:oktmo_code":"68710000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900801,
-    "wof:geomhash":"d670e1fef6c911caa7d4e83e72049419",
+    "wof:geomhash":"684fd8dee23db07cd00038e16200edb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,7 +167,7 @@
         }
     ],
     "wof:id":1108733791,
-    "wof:lastmodified":1636497191,
+    "wof:lastmodified":1695886731,
     "wof:name":"Kotovsk",
     "wof:parent_id":85687829,
     "wof:placetype":"county",

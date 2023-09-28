@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VL.GO",
+        "meso:okato_code":"17215000",
+        "meso:oktmo_code":"17615000",
         "wd:id":"Q1652032"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900907,
     "wof:geomhash":"870b2ab730cb66386a356c64d66b41f7",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108733915,
-    "wof:lastmodified":1694639739,
+    "wof:lastmodified":1695886238,
     "wof:name":"Gorokhoveckij",
     "wof:parent_id":85687981,
     "wof:placetype":"county",

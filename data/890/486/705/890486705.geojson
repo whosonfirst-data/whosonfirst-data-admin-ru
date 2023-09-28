@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.691412,
-    "geom:area_square_m":5044193520.873225,
+    "geom:area_square_m":5044193056.001147,
     "geom:bbox":"84.281325,53.477807,86.34292,54.225801",
     "geom:latitude":53.842628,
     "geom:longitude":85.316878,
@@ -138,16 +138,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12597730,
+        "meso:okato_code":"01213000",
+        "meso:oktmo_code":"01613000",
         "qs_pg:id":596139,
         "wd:id":"Q4023887",
         "wk:page":"Zarinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054630,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1399bfa61e5c6816a2844cff0e320fe2",
+    "wof:geomhash":"3ff042520f1c5943107c141f4e13d812",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":890486705,
-    "wof:lastmodified":1690860051,
+    "wof:lastmodified":1695886476,
     "wof:name":"Zarinskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

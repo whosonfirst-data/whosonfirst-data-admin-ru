@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SM.GL",
+        "meso:okato_code":"66209000",
+        "meso:oktmo_code":"66609000",
         "wd:id":"Q2708033"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900600,
     "wof:geomhash":"bd69ff27d9e93b9cef49315a7ef7df79",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108733593,
-    "wof:lastmodified":1694639739,
+    "wof:lastmodified":1695886236,
     "wof:name":"Glinkovskiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",

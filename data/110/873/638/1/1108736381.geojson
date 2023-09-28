@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TV.SA",
+        "meso:okato_code":"28249000",
+        "meso:oktmo_code":"28649000",
         "wd:id":"Q394639"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902910,
     "wof:geomhash":"ca952ef2bca99a5e282a67a002ca736a",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108736381,
-    "wof:lastmodified":1694639775,
+    "wof:lastmodified":1695886362,
     "wof:name":"Sandovskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.225857,
-    "geom:area_square_m":1671594023.185759,
+    "geom:area_square_m":1671593959.775702,
     "geom:bbox":"36.10627,53.023403,37.028482,53.462243",
     "geom:latitude":53.23428,
     "geom:longitude":36.54896,
@@ -130,11 +130,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"54236000",
+        "meso:oktmo_code":"54636000",
         "wd:id":"Q2217688"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901900,
-    "wof:geomhash":"b46908b50d3be17bafecb18826d49789",
+    "wof:geomhash":"c0da85ce024b652f8374e1c9194a3023",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":1108735081,
-    "wof:lastmodified":1690859530,
+    "wof:lastmodified":1695886307,
     "wof:name":"Mcenskiy",
     "wof:parent_id":85687849,
     "wof:placetype":"county",

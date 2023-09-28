@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.696403,
-    "geom:area_square_m":10026455510.575346,
+    "geom:area_square_m":10026454839.679241,
     "geom:bbox":"37.75282,60.704773,39.929523,62.083394",
     "geom:latitude":61.445487,
     "geom:longitude":38.776542,
@@ -172,16 +172,22 @@
     "wof:concordances":{
         "gp:id":12598011,
         "hasc:id":"RU.AR.KA",
+        "meso:okato_code":"11218000",
+        "meso:oktmo_code":"11618000",
         "qs_pg:id":484615,
         "wd:id":"Q1807671",
         "wk:page":"Kargopolsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054428,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3eac9c36d9094899899335423c2aec12",
+    "wof:geomhash":"8c8fbd37a746aa43214f803a21b562d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -192,7 +198,7 @@
         }
     ],
     "wof:id":890482625,
-    "wof:lastmodified":1690859878,
+    "wof:lastmodified":1695886448,
     "wof:name":"Kargopol'skiy",
     "wof:parent_id":85687971,
     "wof:placetype":"county",

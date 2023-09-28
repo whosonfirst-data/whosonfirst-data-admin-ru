@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RZ.PU",
+        "meso:okato_code":"61226000",
+        "meso:oktmo_code":"61626000",
         "wd:id":"Q1653976"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902652,
     "wof:geomhash":"67c079d02597a8cf872e6192e58fee07",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108736033,
-    "wof:lastmodified":1694639772,
+    "wof:lastmodified":1695886353,
     "wof:name":"Putjatinskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

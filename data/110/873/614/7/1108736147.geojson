@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000617,
-    "geom:area_square_m":4287930.086053,
+    "geom:area_square_m":4287922.425207,
     "geom:bbox":"37.594435,55.783505,37.632049,55.811848",
     "geom:latitude":55.797602,
     "geom:longitude":37.611295,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45280569",
+        "meso:oktmo_code":"45357000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902731,
-    "wof:geomhash":"f370edeb1880e5a7a5c510b5b5287ded",
+    "wof:geomhash":"9e1c29afb380204f8c1d3a484ae038dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736147,
-    "wof:lastmodified":1627522625,
+    "wof:lastmodified":1695886300,
     "wof:name":"Mar'ina Roshha",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

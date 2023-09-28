@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036314,
-    "geom:area_square_m":193881343.234408,
+    "geom:area_square_m":193881478.263586,
     "geom:bbox":"76.204301,64.341436,76.594783,64.508066",
     "geom:latitude":64.419544,
     "geom:longitude":76.391223,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"71172000",
+        "meso:oktmo_code":"71952000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900637,
-    "wof:geomhash":"e0b30221ce3476eb0a37dd27349aacf4",
+    "wof:geomhash":"54dc975d41c6f10edc727704d509ec92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108733633,
-    "wof:lastmodified":1627522571,
+    "wof:lastmodified":1695886238,
     "wof:name":"Gubkinskiy",
     "wof:parent_id":85687931,
     "wof:placetype":"county",

@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RZ.ML",
+        "meso:okato_code":"61215000",
+        "meso:oktmo_code":"61615000",
         "wd:id":"Q1652648"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901964,
     "wof:geomhash":"bb67e286254bd23a86a57ea70a2a4ccd",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108735149,
-    "wof:lastmodified":1694639757,
+    "wof:lastmodified":1695886303,
     "wof:name":"Miloslavskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

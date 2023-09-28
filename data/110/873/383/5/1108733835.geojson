@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016787,
-    "geom:area_square_m":120560499.980291,
+    "geom:area_square_m":120560396.480033,
     "geom:bbox":"53.40722,54.406981,53.590769,54.572461",
     "geom:latitude":54.493006,
     "geom:longitude":53.487933,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"80435000",
+        "meso:oktmo_code":"80735000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900848,
-    "wof:geomhash":"5ea273191518f3b55befbbc13705fa30",
+    "wof:geomhash":"64037104ea1ab2a1b5df12762f8f0231",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108733835,
-    "wof:lastmodified":1627522649,
+    "wof:lastmodified":1695886328,
     "wof:name":"Oktjabr'skiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.214016,
-    "geom:area_square_m":1638810715.961419,
+    "geom:area_square_m":1638810949.526547,
     "geom:bbox":"35.813105,51.512404,36.6967,51.975666",
     "geom:latitude":51.736898,
     "geom:longitude":36.273229,
@@ -154,16 +154,22 @@
     "wof:concordances":{
         "gp:id":12598580,
         "hasc:id":"RU.KS.KR",
+        "meso:okato_code":"38220000",
+        "meso:oktmo_code":"38620000",
         "qs_pg:id":1018868,
         "wd:id":"Q2387416",
         "wk:page":"Kursky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054478,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"914a9c2eb0e49895bbfa1afb3477283d",
+    "wof:geomhash":"187fb07c50c8b09c9f50690e231fa270",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":890483701,
-    "wof:lastmodified":1690859892,
+    "wof:lastmodified":1695886450,
     "wof:name":"Kurskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

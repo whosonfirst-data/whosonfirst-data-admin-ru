@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.414177,
-    "geom:area_square_m":3668772834.929806,
+    "geom:area_square_m":3668772343.19112,
     "geom:bbox":"39.76206,43.758364,40.481591,44.746505",
     "geom:latitude":44.244284,
     "geom:longitude":40.168696,
@@ -151,11 +151,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"79222000",
+        "meso:oktmo_code":"79622000",
         "wd:id":"Q741173"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901845,
-    "wof:geomhash":"2bb1a431414f4a96d58cc33b492e5fcc",
+    "wof:geomhash":"305e58d8fd65a5aac4eca367f9594d0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,7 +172,7 @@
         }
     ],
     "wof:id":1108735007,
-    "wof:lastmodified":1690859558,
+    "wof:lastmodified":1695886298,
     "wof:name":"Majkopskiy",
     "wof:parent_id":85688135,
     "wof:placetype":"county",

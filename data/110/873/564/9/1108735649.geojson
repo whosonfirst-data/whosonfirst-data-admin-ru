@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.718905,
-    "geom:area_square_m":6423871420.238588,
+    "geom:area_square_m":6423870637.845919,
     "geom:bbox":"134.13245,43.195786,135.63335,44.192813",
     "geom:latitude":43.726336,
     "geom:longitude":134.854104,
@@ -133,11 +133,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"05228000",
+        "meso:oktmo_code":"05628000",
         "wd:id":"Q2219990"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902348,
-    "wof:geomhash":"121acaa79880a4e3a575f3e07a5a76e7",
+    "wof:geomhash":"894707226b7c13f6d832cf0f400e7073",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":1108735649,
-    "wof:lastmodified":1690859549,
+    "wof:lastmodified":1695886328,
     "wof:name":"Ol'ginskiy",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

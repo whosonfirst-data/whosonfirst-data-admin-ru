@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025639,
-    "geom:area_square_m":178606862.248008,
+    "geom:area_square_m":178606862.248013,
     "geom:bbox":"52.1909930192,55.6365998916,52.5483121129,55.7878615011",
     "geom:latitude":55.710299,
     "geom:longitude":52.383259,
@@ -245,10 +245,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"92430000",
+        "meso:oktmo_code":"92730000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902088,
-    "wof:geomhash":"c9441a87cc9712b36df984021b85eb8a",
+    "wof:geomhash":"be29e60044acbdb6fdd45511bb5013a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -259,7 +266,7 @@
         }
     ],
     "wof:id":1108735291,
-    "wof:lastmodified":1566627089,
+    "wof:lastmodified":1695886235,
     "wof:name":"Naberezhnye Chelny",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

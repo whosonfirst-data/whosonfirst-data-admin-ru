@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.LP.KH",
+        "meso:okato_code":"42252000",
+        "meso:oktmo_code":"42652000",
         "wd:id":"Q1652503"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901296,
     "wof:geomhash":"3d231bc1c79e3bf8a1319bb2a9709745",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108734369,
-    "wof:lastmodified":1694639745,
+    "wof:lastmodified":1695886265,
     "wof:name":"Khlevenskiy",
     "wof:parent_id":85687917,
     "wof:placetype":"county",

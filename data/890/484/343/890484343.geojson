@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.37595,
-    "geom:area_square_m":2798495560.773485,
+    "geom:area_square_m":2798496357.534444,
     "geom:bbox":"44.273237,52.648436,45.48955,53.301206",
     "geom:latitude":52.986899,
     "geom:longitude":44.85343,
@@ -163,16 +163,22 @@
     "wof:concordances":{
         "gp:id":12599012,
         "hasc:id":"RU.PZ.KO",
+        "meso:okato_code":"56255000",
+        "meso:oktmo_code":"56655000",
         "qs_pg:id":1105872,
         "wd:id":"Q1654000",
         "wk:page":"Penzensky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054509,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"74237a1e50f92666cfb883c44726ba6a",
+    "wof:geomhash":"426d149e8476625397e97b1a108a2e8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":890484343,
-    "wof:lastmodified":1690859952,
+    "wof:lastmodified":1695886467,
     "wof:name":"Penzenskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",

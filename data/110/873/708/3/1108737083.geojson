@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.CL.TR"
+        "hasc:id":"RU.CL.TR",
+        "meso:okato_code":"75452000",
+        "meso:oktmo_code":"75752000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903495,
     "wof:geomhash":"fd54703894dfe6eef3f98a5dc02c3545",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108737083,
-    "wof:lastmodified":1694639788,
+    "wof:lastmodified":1695886410,
     "wof:name":"Troickij",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

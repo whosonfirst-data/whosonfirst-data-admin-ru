@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SV.VT"
+        "hasc:id":"RU.SV.VT",
+        "meso:okato_code":"65212000",
+        "meso:oktmo_code":"65709000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900897,
     "wof:geomhash":"345a9429b9f7bd5f132773a43069b113",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733899,
-    "wof:lastmodified":1694639792,
+    "wof:lastmodified":1695886423,
     "wof:name":"Verkhoturskiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

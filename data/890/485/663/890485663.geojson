@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.641869,
-    "geom:area_square_m":17142164713.194792,
+    "geom:area_square_m":17142164152.251781,
     "geom:bbox":"65.949651,57.548606,69.170174,59.165936",
     "geom:latitude":58.347868,
     "geom:longitude":67.642281,
@@ -141,16 +141,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12599486,
+        "meso:okato_code":"71242000",
+        "meso:oktmo_code":"71642000",
         "qs_pg:id":506431,
         "wd:id":"Q1646633",
         "wk:page":"Tobolsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054570,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9251895e07d4066efe06bca51a9a46a9",
+    "wof:geomhash":"9d7ab48f436bbcafcadf2374a24aa94a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":890485663,
-    "wof:lastmodified":1690859843,
+    "wof:lastmodified":1695886444,
     "wof:name":"Tobol'skiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",

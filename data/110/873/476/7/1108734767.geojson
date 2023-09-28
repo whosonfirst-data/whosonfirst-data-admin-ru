@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004957,
-    "geom:area_square_m":31550381.608175,
+    "geom:area_square_m":31550378.050203,
     "geom:bbox":"54.569699,58.962483,54.696125,59.065674",
     "geom:latitude":59.017185,
     "geom:longitude":54.641643,
@@ -224,10 +224,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"57141000",
+        "meso:oktmo_code":"57851000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901635,
-    "wof:geomhash":"4ce8635b4fb41e1b670a01fa65150b7e",
+    "wof:geomhash":"46e235993a5c5603ad3f36e59ab742ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -238,7 +245,7 @@
         }
     ],
     "wof:id":1108734767,
-    "wof:lastmodified":1636497190,
+    "wof:lastmodified":1695886731,
     "wof:name":"Kudymkar",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

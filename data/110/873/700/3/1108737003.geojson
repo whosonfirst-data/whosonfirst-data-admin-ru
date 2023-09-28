@@ -149,8 +149,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TT.TE",
+        "meso:okato_code":"92255000",
+        "meso:oktmo_code":"92655000",
         "wd:id":"Q2670322"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903426,
     "wof:geomhash":"b9104d03bf0899b2caf7a7b3bfb1e3a5",
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":1108737003,
-    "wof:lastmodified":1694639787,
+    "wof:lastmodified":1695886406,
     "wof:name":"Tetjushskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

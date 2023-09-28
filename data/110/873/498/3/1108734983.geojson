@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00044,
-    "geom:area_square_m":3066454.341861,
+    "geom:area_square_m":3066449.553816,
     "geom:bbox":"37.517466,55.665962,37.549463,55.689624",
     "geom:latitude":55.677559,
     "geom:longitude":37.533982,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45293574",
+        "meso:oktmo_code":"45904000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901821,
-    "wof:geomhash":"3d17e21927cd863d0eb73bcfa13ca1a8",
+    "wof:geomhash":"95236490b551c484546b9941fed1e27d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108734983,
-    "wof:lastmodified":1627522621,
+    "wof:lastmodified":1695886296,
     "wof:name":"Lomonosovskiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

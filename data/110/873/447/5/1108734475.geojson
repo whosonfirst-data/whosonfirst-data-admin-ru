@@ -167,8 +167,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.DA.KL",
+        "meso:okato_code":"82227000",
+        "meso:oktmo_code":"82627000",
         "wd:id":"Q1438451"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901388,
     "wof:geomhash":"8501dd48f1b23c0be0f30b6ac39b52fd",
@@ -182,7 +188,7 @@
         }
     ],
     "wof:id":1108734475,
-    "wof:lastmodified":1694639683,
+    "wof:lastmodified":1695886220,
     "wof:name":"Kizljarskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

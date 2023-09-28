@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.263716,
-    "geom:area_square_m":1752697430.761196,
+    "geom:area_square_m":1752697691.339087,
     "geom:bbox":"33.227381,57.191882,34.083396,57.734462",
     "geom:latitude":57.487042,
     "geom:longitude":33.674443,
@@ -124,11 +124,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"28257000",
+        "meso:oktmo_code":"28657000",
         "wd:id":"Q394882"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900551,
-    "wof:geomhash":"122558cc64e0abff9a47dd4445fe56b6",
+    "wof:geomhash":"4c0982199310c2e247243c0d8a9e325a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":1108733531,
-    "wof:lastmodified":1690859351,
+    "wof:lastmodified":1695886234,
     "wof:name":"Firovskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

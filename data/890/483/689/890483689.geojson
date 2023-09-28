@@ -139,10 +139,16 @@
     "wof:concordances":{
         "gp:id":12598183,
         "hasc:id":"RU.CT.PG",
+        "meso:okato_code":"76415000",
+        "meso:oktmo_code":"76715000",
         "qs_pg:id":1017275,
         "wd:id":"Q1655269",
         "wk:page":"Petrovsk-Zabaykalsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054478,
     "wof:geom_alt":[
@@ -159,7 +165,7 @@
         }
     ],
     "wof:id":890483689,
-    "wof:lastmodified":1694492762,
+    "wof:lastmodified":1695886341,
     "wof:name":"Petrovsk-Zabajkal'skiy",
     "wof:parent_id":85688005,
     "wof:placetype":"county",

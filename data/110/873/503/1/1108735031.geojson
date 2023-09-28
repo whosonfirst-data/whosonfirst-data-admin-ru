@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OL.MA",
+        "meso:okato_code":"54232000",
+        "meso:oktmo_code":"54632000",
         "wd:id":"Q2217153"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901860,
     "wof:geomhash":"b5730163fccd58488324f3bda543ec8b",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108735031,
-    "wof:lastmodified":1694639755,
+    "wof:lastmodified":1695886298,
     "wof:name":"Maloarkhangel'skiy",
     "wof:parent_id":85687849,
     "wof:placetype":"county",

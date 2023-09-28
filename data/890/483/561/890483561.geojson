@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.38643,
-    "geom:area_square_m":12801831637.468189,
+    "geom:area_square_m":12801832811.616228,
     "geom:bbox":"32.597899,63.572208,36.756748,64.883119",
     "geom:latitude":64.288521,
     "geom:longitude":34.595886,
@@ -165,16 +165,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12597422,
+        "meso:okato_code":"86204000",
+        "meso:oktmo_code":"86604000",
         "qs_pg:id":1002276,
         "wd:id":"Q792506",
         "wk:page":"Belomorsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054472,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"881d4b1267fb1a85b5452de0982854c7",
+    "wof:geomhash":"e385a67dc485cb674f046c0b63a30606",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":890483561,
-    "wof:lastmodified":1690859894,
+    "wof:lastmodified":1695886450,
     "wof:name":"Belomorskiy",
     "wof:parent_id":85688193,
     "wof:placetype":"county",

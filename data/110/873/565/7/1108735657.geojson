@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.MM.OL"
+        "hasc:id":"RU.MM.OL",
+        "meso:okato_code":"47417000",
+        "meso:oktmo_code":"47717000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902355,
     "wof:geomhash":"a7d6ca94b6e1f22a2de1187438ef505a",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735657,
-    "wof:lastmodified":1694639764,
+    "wof:lastmodified":1695886329,
     "wof:name":"Olenegorskiy",
     "wof:parent_id":85687869,
     "wof:placetype":"county",

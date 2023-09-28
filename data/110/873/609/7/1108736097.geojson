@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003702,
-    "geom:area_square_m":25855308.637156,
+    "geom:area_square_m":25855325.628171,
     "geom:bbox":"37.493255,55.577982,37.584063,55.650405",
     "geom:latitude":55.612573,
     "geom:longitude":37.547058,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45293598",
+        "meso:oktmo_code":"45910000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902693,
-    "wof:geomhash":"3e8c5668577c5970bb3dd6eb6186e183",
+    "wof:geomhash":"7a42bdc670b97d62ec07262a3a688ecf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108736097,
-    "wof:lastmodified":1627522574,
+    "wof:lastmodified":1695886243,
     "wof:name":"Jasenevo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

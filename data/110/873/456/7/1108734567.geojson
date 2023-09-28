@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KM.KD",
+        "meso:okato_code":"71116000",
+        "meso:oktmo_code":"71816000",
         "wd:id":"Q557500"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901470,
     "wof:geomhash":"f89684e8328280dd3c54e3c38aa75956",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108734567,
-    "wof:lastmodified":1694639748,
+    "wof:lastmodified":1695886274,
     "wof:name":"Kondinskiy",
     "wof:parent_id":85687919,
     "wof:placetype":"county",

@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VO.ME",
+        "meso:okato_code":"19232000",
+        "meso:oktmo_code":"19632000",
         "wd:id":"Q3855898"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901932,
     "wof:geomhash":"c11b86d65a05a8e3f97b44e426289069",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108735115,
-    "wof:lastmodified":1694639757,
+    "wof:lastmodified":1695886302,
     "wof:name":"Mezhdurechenskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",

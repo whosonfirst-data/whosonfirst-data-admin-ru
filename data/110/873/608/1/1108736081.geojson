@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000991,
-    "geom:area_square_m":6899333.225849,
+    "geom:area_square_m":6899228.089487,
     "geom:bbox":"37.505608,55.72842,37.578583,55.754518",
     "geom:latitude":55.740205,
     "geom:longitude":37.543506,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45268554",
+        "meso:oktmo_code":"45318000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902683,
-    "wof:geomhash":"eec9408fca7571a17d1946af28ff4a6f",
+    "wof:geomhash":"de2d97a4f725b6e6baa548997e01cfba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736081,
-    "wof:lastmodified":1627522563,
+    "wof:lastmodified":1695886226,
     "wof:name":"Dorogomilovo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

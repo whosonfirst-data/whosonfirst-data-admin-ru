@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.VR.KS"
+        "hasc:id":"RU.VR.KS",
+        "meso:okato_code":"20220000",
+        "meso:oktmo_code":"20620000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901240,
     "wof:geomhash":"81520abd849e651308de700b57e40ce3",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108734295,
-    "wof:lastmodified":1694639743,
+    "wof:lastmodified":1695886254,
     "wof:name":"Kashirskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

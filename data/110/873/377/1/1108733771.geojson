@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.DA.KG"
+        "hasc:id":"RU.DA.KG",
+        "meso:okato_code":"82435000",
+        "meso:oktmo_code":"82735000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900787,
     "wof:geomhash":"43fd5ba1a30826055da6ea063431f79f",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733771,
-    "wof:lastmodified":1694639745,
+    "wof:lastmodified":1695886264,
     "wof:name":"Khasavjurt",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

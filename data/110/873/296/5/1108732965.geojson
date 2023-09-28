@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.KU.BE"
+        "hasc:id":"RU.KU.BE",
+        "meso:okato_code":"37204000",
+        "meso:oktmo_code":"37604000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900045,
     "wof:geomhash":"8ef7e0190f29f9e19366698cc9d8fcce",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108732965,
-    "wof:lastmodified":1694639730,
+    "wof:lastmodified":1695886197,
     "wof:name":"Belozerskiy",
     "wof:parent_id":85688157,
     "wof:placetype":"county",

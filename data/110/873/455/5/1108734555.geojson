@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001595,
-    "geom:area_square_m":12401614.888431,
+    "geom:area_square_m":12401639.090239,
     "geom:bbox":"59.790737,51.011463,59.875214,51.062275",
     "geom:latitude":51.031265,
     "geom:longitude":59.838975,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"53555000",
+        "meso:oktmo_code":"53755000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901456,
-    "wof:geomhash":"d2085e981f61b2b026075ff2984f79ed",
+    "wof:geomhash":"efb46222f2de0ac3c37f3db22c243f17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108734555,
-    "wof:lastmodified":1627522602,
+    "wof:lastmodified":1695886274,
     "wof:name":"Komarovskiy",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

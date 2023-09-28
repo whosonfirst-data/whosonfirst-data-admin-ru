@@ -158,8 +158,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AR.KH",
+        "meso:okato_code":"11256000",
+        "meso:oktmo_code":"11656000",
         "wd:id":"Q1109990"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901300,
     "wof:geomhash":"404a64a2144bf777d9da90b984a44d1d",
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":1108734375,
-    "wof:lastmodified":1694639746,
+    "wof:lastmodified":1695886266,
     "wof:name":"Kholmogorskiy",
     "wof:parent_id":85687971,
     "wof:placetype":"county",

@@ -282,8 +282,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.MS.KM"
+        "hasc:id":"RU.MS.KM",
+        "meso:okato_code":"46438000",
+        "meso:oktmo_code":"46738000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900797,
     "wof:geomhash":"0ef6b283d1612668a3c93ca5f9f713f1",
@@ -297,7 +303,7 @@
         }
     ],
     "wof:id":1108733783,
-    "wof:lastmodified":1694639685,
+    "wof:lastmodified":1695886235,
     "wof:name":"Kolomna",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

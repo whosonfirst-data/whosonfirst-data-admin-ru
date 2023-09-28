@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BL.SR",
+        "meso:okato_code":"14256000",
+        "meso:oktmo_code":"14656000",
         "wd:id":"Q2218609"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903032,
     "wof:geomhash":"a687afa5c328635bde48e76683143ed6",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108736535,
-    "wof:lastmodified":1694639778,
+    "wof:lastmodified":1695886371,
     "wof:name":"Shebekinskiy",
     "wof:parent_id":85687813,
     "wof:placetype":"county",

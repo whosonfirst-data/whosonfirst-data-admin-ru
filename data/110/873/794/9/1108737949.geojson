@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.KV.YU"
+        "hasc:id":"RU.KV.YU",
+        "meso:okato_code":"33587000",
+        "meso:oktmo_code":"33787000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903851,
     "wof:geomhash":"b72fbb80774698765a86326d9af5e5c1",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108737949,
-    "wof:lastmodified":1694639795,
+    "wof:lastmodified":1695886438,
     "wof:name":"ZATO Pervomajskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",

@@ -155,8 +155,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TU.UL",
+        "meso:okato_code":"93254000",
+        "meso:oktmo_code":"93654000",
         "wd:id":"Q918362"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903564,
     "wof:geomhash":"dfdcbc50108ed1bd0cebdaaa2c080bd7",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1108737169,
-    "wof:lastmodified":1694639790,
+    "wof:lastmodified":1695886415,
     "wof:name":"Ulug-Khemskiy",
     "wof:parent_id":85688039,
     "wof:placetype":"county",

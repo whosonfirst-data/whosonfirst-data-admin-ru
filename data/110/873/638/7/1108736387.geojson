@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RZ.SA",
+        "meso:okato_code":"61240000",
+        "meso:oktmo_code":"61640000",
         "wd:id":"Q1969516"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902915,
     "wof:geomhash":"83983055272f246c87ed3a975af6db69",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108736387,
-    "wof:lastmodified":1694639775,
+    "wof:lastmodified":1695886362,
     "wof:name":"Saraevskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

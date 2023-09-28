@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KD.PA",
+        "meso:okato_code":"03239000",
+        "meso:oktmo_code":"03639000",
         "wd:id":"Q854601"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902456,
     "wof:geomhash":"6612018bf76f8aca7950760efde21deb",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108735787,
-    "wof:lastmodified":1694639768,
+    "wof:lastmodified":1695886339,
     "wof:name":"Pavlovskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

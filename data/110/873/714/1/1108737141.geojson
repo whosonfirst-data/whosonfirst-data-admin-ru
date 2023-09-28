@@ -155,8 +155,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KO.UD",
+        "meso:okato_code":"87240000",
+        "meso:oktmo_code":"87640000",
         "wd:id":"Q2279973"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903541,
     "wof:geomhash":"7e0a6ee14e1d9cefc81f112757f72d43",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1108737141,
-    "wof:lastmodified":1694639684,
+    "wof:lastmodified":1695886232,
     "wof:name":"Udorskiy",
     "wof:parent_id":85688077,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000952,
-    "geom:area_square_m":6632995.701053,
+    "geom:area_square_m":6632997.515917,
     "geom:bbox":"37.741573,55.707909,37.798601,55.735111",
     "geom:latitude":55.721211,
     "geom:longitude":37.770134,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45290586",
+        "meso:oktmo_code":"45394000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902837,
-    "wof:geomhash":"a6cc6c6a3a5d4715814b8d06caafb5c6",
+    "wof:geomhash":"e067ae530f0399d7da32a31761bad2ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108736287,
-    "wof:lastmodified":1627522672,
+    "wof:lastmodified":1695886356,
     "wof:name":"Rjazanskiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

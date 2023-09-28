@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.963109,
-    "geom:area_square_m":29748001904.797955,
+    "geom:area_square_m":29748004035.385925,
     "geom:bbox":"-175.642122,65.16279,-168.994995,67.117081",
     "geom:latitude":66.205647,
     "geom:longitude":-172.761033,
@@ -139,11 +139,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"77233000",
+        "meso:oktmo_code":"77633000",
         "wd:id":"Q741588"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900351,
-    "wof:geomhash":"e3e201831f4875ddfb25e744df30be24",
+    "wof:geomhash":"8977fd5ead5bff10ebbce0fe83104563",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":1108733299,
-    "wof:lastmodified":1690859697,
+    "wof:lastmodified":1695886218,
     "wof:name":"Chukotskiy",
     "wof:parent_id":85687795,
     "wof:placetype":"county",

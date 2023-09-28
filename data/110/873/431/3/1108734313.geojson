@@ -113,8 +113,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.IR.KL",
+        "meso:okato_code":"25214000",
+        "meso:oktmo_code":"25614000",
         "wd:id":"Q525553"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901252,
     "wof:geomhash":"96d3e342c8881f5b2391087193cc9382",
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":1108734313,
-    "wof:lastmodified":1694492737,
+    "wof:lastmodified":1695886261,
     "wof:name":"Kazachinsko-Lenskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

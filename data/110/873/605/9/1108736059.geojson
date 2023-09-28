@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000922,
-    "geom:area_square_m":6393892.222452,
+    "geom:area_square_m":6393934.563469,
     "geom:bbox":"37.587074,55.879401,37.634703,55.911404",
     "geom:latitude":55.893889,
     "geom:longitude":37.607455,
@@ -83,10 +83,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45280558",
+        "meso:oktmo_code":"45352000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902668,
-    "wof:geomhash":"b2bc3415cd6a57bca1734f952c580d77",
+    "wof:geomhash":"f6f384c573d49d2bed6bb43fe5c9e4a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +104,7 @@
         }
     ],
     "wof:id":1108736059,
-    "wof:lastmodified":1627522545,
+    "wof:lastmodified":1695886199,
     "wof:name":"Bibirevo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

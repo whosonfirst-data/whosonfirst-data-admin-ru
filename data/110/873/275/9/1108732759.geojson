@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.NZ.AT"
+        "hasc:id":"RU.NZ.AT",
+        "meso:okato_code":"22202000",
+        "meso:oktmo_code":"22602000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899840,
     "wof:geomhash":"4ec337d3a2533e41e453c6e237185984",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108732759,
-    "wof:lastmodified":1694639727,
+    "wof:lastmodified":1695886186,
     "wof:name":"Ardatovskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

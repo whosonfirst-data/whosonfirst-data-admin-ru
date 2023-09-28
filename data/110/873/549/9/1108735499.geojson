@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006773,
-    "geom:area_square_m":36175200.603014,
+    "geom:area_square_m":36175200.603009,
     "geom:bbox":"40.7428193904,64.3562742864,40.8641341191,64.4583081333",
     "geom:latitude":64.408532,
     "geom:longitude":40.805796,
@@ -182,10 +182,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"11415000",
+        "meso:oktmo_code":"11715000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902223,
-    "wof:geomhash":"72aa6a1c9d5983c2fb8ddf3a26677516",
+    "wof:geomhash":"08c3a59dc327ac37267934044551925f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -196,7 +203,7 @@
         }
     ],
     "wof:id":1108735499,
-    "wof:lastmodified":1566627324,
+    "wof:lastmodified":1695886264,
     "wof:name":"Novodvinsk",
     "wof:parent_id":85687971,
     "wof:placetype":"county",

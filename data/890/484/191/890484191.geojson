@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.39407,
-    "geom:area_square_m":3519310653.059803,
+    "geom:area_square_m":3519310486.800165,
     "geom:bbox":"39.146963,43.384883,40.6603,44.126431",
     "geom:latitude":43.759806,
     "geom:longitude":39.872394,
@@ -449,14 +449,20 @@
     "wof:concordances":{
         "gp:id":12597808,
         "hasc:id":"RU.KD.SO",
+        "meso:okato_code":"03426000",
+        "meso:oktmo_code":"03726000",
         "qs_pg:id":1087083
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054501,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e88c9d893a91098d5348c65b6409fd64",
+    "wof:geomhash":"ef2975d599a8c563a707cbf43e0cb76e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -467,7 +473,7 @@
         }
     ],
     "wof:id":890484191,
-    "wof:lastmodified":1642541500,
+    "wof:lastmodified":1695886462,
     "wof:name":"Sochi",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

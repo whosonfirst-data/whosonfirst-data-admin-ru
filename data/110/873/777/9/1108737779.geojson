@@ -149,8 +149,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TT.VY",
+        "meso:okato_code":"92222000",
+        "meso:oktmo_code":"92622000",
         "wd:id":"Q2220459"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903810,
     "wof:geomhash":"0a57be393bdfb0e38f22a1b3ed8dc875",
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":1108737779,
-    "wof:lastmodified":1694639794,
+    "wof:lastmodified":1695886430,
     "wof:name":"Vysokogorskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000587,
-    "geom:area_square_m":4077053.820601,
+    "geom:area_square_m":4077016.096815,
     "geom:bbox":"37.507042,55.810793,37.541263,55.844684",
     "geom:latitude":55.830074,
     "geom:longitude":37.524796,
@@ -83,10 +83,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45277580",
+        "meso:oktmo_code":"45341000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902711,
-    "wof:geomhash":"b41627266ac9350a317b2db651d5b75c",
+    "wof:geomhash":"4e6028e8717f1520aa56b637ea59ffcf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +104,7 @@
         }
     ],
     "wof:id":1108736117,
-    "wof:lastmodified":1627522603,
+    "wof:lastmodified":1695886275,
     "wof:name":"Koptevo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

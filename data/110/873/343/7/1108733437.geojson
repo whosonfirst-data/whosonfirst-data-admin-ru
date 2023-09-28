@@ -110,8 +110,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KY.DZ",
+        "meso:okato_code":"04213000",
+        "meso:oktmo_code":"04613000",
         "wd:id":"Q11121576"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900469,
     "wof:geomhash":"447778435e97bad5976ac8276ae24474",
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":1108733437,
-    "wof:lastmodified":1694492728,
+    "wof:lastmodified":1695886227,
     "wof:name":"Dzerzhinskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

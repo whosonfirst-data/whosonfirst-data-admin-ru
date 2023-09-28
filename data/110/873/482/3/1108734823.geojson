@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KS.KU",
+        "meso:okato_code":"38221000",
+        "meso:oktmo_code":"38621000",
         "wd:id":"Q2387429"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901689,
     "wof:geomhash":"2c0a355cbaf213d092c63a62165d41e5",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108734823,
-    "wof:lastmodified":1694639749,
+    "wof:lastmodified":1695886278,
     "wof:name":"Kurchatovskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PE.BO",
+        "meso:okato_code":"57208000",
+        "meso:oktmo_code":"57608000",
         "wd:id":"Q890403"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900158,
     "wof:geomhash":"46cf705e6bbfcf058d21ff8cd0e783ca",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108733079,
-    "wof:lastmodified":1694639731,
+    "wof:lastmodified":1695886203,
     "wof:name":"Bol'shesosnovskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

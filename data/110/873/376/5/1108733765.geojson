@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.883531,
-    "geom:area_square_m":5512016970.851328,
+    "geom:area_square_m":5512017115.402631,
     "geom:bbox":"58.361978,59.202941,60.126752,60.186928",
     "geom:latitude":59.699529,
     "geom:longitude":59.204842,
@@ -194,10 +194,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"65445000",
+        "meso:oktmo_code":"65742000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900784,
-    "wof:geomhash":"53989f610ce67fc4d0b4d7e952c16a64",
+    "wof:geomhash":"e03af4fe9d317b759589381131e90cbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -208,7 +215,7 @@
         }
     ],
     "wof:id":1108733765,
-    "wof:lastmodified":1636497193,
+    "wof:lastmodified":1695886732,
     "wof:name":"Karpinsk",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

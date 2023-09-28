@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VO.NY",
+        "meso:okato_code":"19236000",
+        "meso:oktmo_code":"19636000",
         "wd:id":"Q2217241"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902175,
     "wof:geomhash":"1d2a1f64f3887b522865ec4cf6f18b26",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108735411,
-    "wof:lastmodified":1694639763,
+    "wof:lastmodified":1695886324,
     "wof:name":"Njuksenskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",

@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OM.BU",
+        "meso:okato_code":"52206000",
+        "meso:oktmo_code":"52606000",
         "wd:id":"Q1972272"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900160,
     "wof:geomhash":"b10edfc8374f8316374051d9b5e1e7c9",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108733081,
-    "wof:lastmodified":1694639731,
+    "wof:lastmodified":1695886203,
     "wof:name":"Bol'sheukovskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

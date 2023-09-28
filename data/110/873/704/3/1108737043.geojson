@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040266,
-    "geom:area_square_m":262136743.637154,
+    "geom:area_square_m":262136612.324826,
     "geom:bbox":"68.1476,58.091601,68.538056,58.319373",
     "geom:latitude":58.231463,
     "geom:longitude":68.34616,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"71410000",
+        "meso:oktmo_code":"71710000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903460,
-    "wof:geomhash":"bcc4be1f8c63b76677153205d3ea53cd",
+    "wof:geomhash":"d7d7a1403b178d7b4c32a6fbfbeccf3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108737043,
-    "wof:lastmodified":1627522711,
+    "wof:lastmodified":1695886407,
     "wof:name":"Tobol'sk",
     "wof:parent_id":85687831,
     "wof:placetype":"county",

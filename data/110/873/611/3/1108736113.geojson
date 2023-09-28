@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000742,
-    "geom:area_square_m":5145969.301464,
+    "geom:area_square_m":5145971.240429,
     "geom:bbox":"37.467423,55.852854,37.509715,55.885822",
     "geom:latitude":55.868523,
     "geom:longitude":37.489158,
@@ -80,10 +80,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45277595",
+        "meso:oktmo_code":"45347000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902708,
-    "wof:geomhash":"8d50ee88e7818aa69fa1f6a3d21cc3ab",
+    "wof:geomhash":"c3205863ab42d4febe1e287e06760c2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +101,7 @@
         }
     ],
     "wof:id":1108736113,
-    "wof:lastmodified":1627522595,
+    "wof:lastmodified":1695886267,
     "wof:name":"Khovrino",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

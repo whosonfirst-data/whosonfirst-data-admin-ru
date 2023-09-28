@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000762,
-    "geom:area_square_m":5318459.006988,
+    "geom:area_square_m":5318448.07418,
     "geom:bbox":"37.567739,55.641237,37.607485,55.667978",
     "geom:latitude":55.653939,
     "geom:longitude":37.589822,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45293562",
+        "meso:oktmo_code":"45901000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902818,
-    "wof:geomhash":"22c01abd26902acc541d376c33361795",
+    "wof:geomhash":"0d45a2bf4d37be6d4fd9bc6b0af92e94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736267,
-    "wof:lastmodified":1627522738,
+    "wof:lastmodified":1695886441,
     "wof:name":"Zjuzino",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

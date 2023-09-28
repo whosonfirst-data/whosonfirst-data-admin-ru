@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000807,
-    "geom:area_square_m":5600585.819629,
+    "geom:area_square_m":5600586.991998,
     "geom:bbox":"37.482706,55.863202,37.536046,55.892863",
     "geom:latitude":55.878257,
     "geom:longitude":37.508761,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45277577",
+        "meso:oktmo_code":"45340000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902816,
-    "wof:geomhash":"ab70a632413eb983376c6c1f4a51a5f8",
+    "wof:geomhash":"19098179ae962273d1dc45e8b996a756",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736263,
-    "wof:lastmodified":1627522734,
+    "wof:lastmodified":1695886434,
     "wof:name":"Zapadnoe Degunino",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

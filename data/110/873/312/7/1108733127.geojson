@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.499054,
-    "geom:area_square_m":3214520341.33218,
+    "geom:area_square_m":3214520441.332328,
     "geom:bbox":"40.930564,58.237122,42.233962,59.021944",
     "geom:latitude":58.606142,
     "geom:longitude":41.504087,
@@ -124,11 +124,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"34204000",
+        "meso:oktmo_code":"34604000",
         "wd:id":"Q1651373"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900190,
-    "wof:geomhash":"ec5ec99b21ba81fa4ede05c4921a052e",
+    "wof:geomhash":"fe8a891d4d501ea9b9dacc2b7aaff2c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":1108733127,
-    "wof:lastmodified":1690859507,
+    "wof:lastmodified":1695886206,
     "wof:name":"Bujskiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",

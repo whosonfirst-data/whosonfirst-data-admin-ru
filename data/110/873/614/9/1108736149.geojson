@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001827,
-    "geom:area_square_m":12748871.063575,
+    "geom:area_square_m":12748792.318677,
     "geom:bbox":"37.702752,55.633975,37.78764,55.66873",
     "geom:latitude":55.651318,
     "geom:longitude":37.744285,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45290572",
+        "meso:oktmo_code":"45390000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902735,
-    "wof:geomhash":"708c7c62546091461cd8da43e637c7db",
+    "wof:geomhash":"1a20f7a12b31fa7cdafe4fcad6d10fea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736149,
-    "wof:lastmodified":1627522625,
+    "wof:lastmodified":1695886300,
     "wof:name":"Mar'ino",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010054,
-    "geom:area_square_m":69139038.415228,
+    "geom:area_square_m":69139145.799939,
     "geom:bbox":"89.39965,56.160421,89.604243,56.291047",
     "geom:latitude":56.212025,
     "geom:longitude":89.503311,
@@ -173,10 +173,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"04406000",
+        "meso:oktmo_code":"04706000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900123,
-    "wof:geomhash":"934024c8353d33f6cabef2a64ac22c09",
+    "wof:geomhash":"93c448247652fe6014ee550e07473fab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,7 +194,7 @@
         }
     ],
     "wof:id":1108733039,
-    "wof:lastmodified":1636497195,
+    "wof:lastmodified":1695886732,
     "wof:name":"Bogotol",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

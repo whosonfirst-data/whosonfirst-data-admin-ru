@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.OB.SR"
+        "hasc:id":"RU.OB.SR",
+        "meso:okato_code":"53250000",
+        "meso:oktmo_code":"53650000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903166,
     "wof:geomhash":"c071d3b689b2e69b268d8cf1375c151e",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108736713,
-    "wof:lastmodified":1694639781,
+    "wof:lastmodified":1695886381,
     "wof:name":"Sorochinskiy",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

@@ -170,8 +170,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BK.MI",
+        "meso:okato_code":"80243000",
+        "meso:oktmo_code":"80643000",
         "wd:id":"Q1073211"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901976,
     "wof:geomhash":"68ba30262a6ce13c593b0e8a6ce71d9b",
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":1108735163,
-    "wof:lastmodified":1694639758,
+    "wof:lastmodified":1695886304,
     "wof:name":"Mishkinskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

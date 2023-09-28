@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.YS.RO",
+        "meso:okato_code":"78237000",
+        "meso:oktmo_code":"78637000",
         "wd:id":"Q733829"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902857,
     "wof:geomhash":"d82c232af714f70291ad2c4e8da7cb66",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108736313,
-    "wof:lastmodified":1694639774,
+    "wof:lastmodified":1695886357,
     "wof:name":"Rostovskiy",
     "wof:parent_id":85687959,
     "wof:placetype":"county",

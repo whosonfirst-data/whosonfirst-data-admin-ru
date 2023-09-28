@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PE.OR",
+        "meso:okato_code":"57238000",
+        "meso:oktmo_code":"57638000",
         "wd:id":"Q1029326"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902381,
     "wof:geomhash":"781a7cb3c2d16f2c30f0d4ff02b3a821",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108735697,
-    "wof:lastmodified":1694639766,
+    "wof:lastmodified":1695886331,
     "wof:name":"Ordinskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

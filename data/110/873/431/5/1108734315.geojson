@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TY.KA",
+        "meso:okato_code":"71230000",
+        "meso:oktmo_code":"71630000",
         "wd:id":"Q304140"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901254,
     "wof:geomhash":"fbb2e47f9eca6a7384062eb4f0621144",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108734315,
-    "wof:lastmodified":1694639744,
+    "wof:lastmodified":1695886261,
     "wof:name":"Kazanskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",

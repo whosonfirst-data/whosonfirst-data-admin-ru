@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.VR.PN"
+        "hasc:id":"RU.VR.PN",
+        "meso:okato_code":"20235000",
+        "meso:oktmo_code":"20635000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902429,
     "wof:geomhash":"2c4ea6b6f34880c7088d5223e0fc8aba",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735757,
-    "wof:lastmodified":1694639768,
+    "wof:lastmodified":1695886337,
     "wof:name":"Paninskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

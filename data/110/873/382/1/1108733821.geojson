@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003019,
-    "geom:area_square_m":22235777.634421,
+    "geom:area_square_m":22235726.361515,
     "geom:bbox":"41.745789,53.418489,41.853211,53.47167",
     "geom:latitude":53.442671,
     "geom:longitude":41.805312,
@@ -197,10 +197,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"68420000",
+        "meso:oktmo_code":"68720000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900830,
-    "wof:geomhash":"724d935d1ccffc45fc54ef824eab8e15",
+    "wof:geomhash":"165f31b9cfbf76282508c2c93eebee7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -211,7 +218,7 @@
         }
     ],
     "wof:id":1108733821,
-    "wof:lastmodified":1636497193,
+    "wof:lastmodified":1695886732,
     "wof:name":"Morshansk",
     "wof:parent_id":85687829,
     "wof:placetype":"county",

@@ -222,8 +222,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.CV.KG"
+        "hasc:id":"RU.CV.KG",
+        "meso:okato_code":"97407000",
+        "meso:oktmo_code":"97707000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900647,
     "wof:geomhash":"adb29ff7a69e04c27fb3dae30d48347c",
@@ -237,7 +243,7 @@
         }
     ],
     "wof:id":1108733639,
-    "wof:lastmodified":1694639805,
+    "wof:lastmodified":1695886731,
     "wof:name":"Kanash",
     "wof:parent_id":85688111,
     "wof:placetype":"county",

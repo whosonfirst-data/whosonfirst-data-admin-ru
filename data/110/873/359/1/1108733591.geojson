@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OL.GL",
+        "meso:okato_code":"54210000",
+        "meso:oktmo_code":"54610000",
         "wd:id":"Q2217629"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900598,
     "wof:geomhash":"04567a9226f4436e31318ae1959725bb",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108733591,
-    "wof:lastmodified":1694639739,
+    "wof:lastmodified":1695886236,
     "wof:name":"Glazunovskiy",
     "wof:parent_id":85687849,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001914,
-    "geom:area_square_m":13257061.017583,
+    "geom:area_square_m":13256893.677346,
     "geom:bbox":"37.343875,55.910715,37.413902,55.957509",
     "geom:latitude":55.936268,
     "geom:longitude":37.378709,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45277584",
+        "meso:oktmo_code":"45343000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901991,
-    "wof:geomhash":"9878773a3a2f12718cc7d1e4451f9b9e",
+    "wof:geomhash":"78ecb4c3faea5900aa0606e6d2036359",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108735185,
-    "wof:lastmodified":1627522630,
+    "wof:lastmodified":1695886305,
     "wof:name":"Molzhaninovskiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

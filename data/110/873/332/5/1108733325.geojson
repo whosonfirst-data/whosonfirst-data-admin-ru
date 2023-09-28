@@ -173,8 +173,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.DA.DA",
+        "meso:okato_code":"82218000",
+        "meso:oktmo_code":"82618000",
         "wd:id":"Q280313"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900373,
     "wof:geomhash":"a1dea70b1c0cb284ae6702e57fe77f7b",
@@ -188,7 +194,7 @@
         }
     ],
     "wof:id":1108733325,
-    "wof:lastmodified":1694639735,
+    "wof:lastmodified":1695886220,
     "wof:name":"Dakhadaevskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

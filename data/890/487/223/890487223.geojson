@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029369,
-    "geom:area_square_m":225193560.549085,
+    "geom:area_square_m":225193347.798884,
     "geom:bbox":"94.273587,51.549091,94.550435,51.820845",
     "geom:latitude":51.676475,
     "geom:longitude":94.417495,
@@ -299,14 +299,20 @@
     "wof:concordances":{
         "gp:id":12597580,
         "hasc:id":"RU.TU.KG",
+        "meso:okato_code":"93401000",
+        "meso:oktmo_code":"93701000",
         "qs_pg:id":241750
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054662,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e2a5db4b9bf2a924294f7dec17cba793",
+    "wof:geomhash":"39788de9886c64cebb5351df185c9cfe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -317,7 +323,7 @@
         }
     ],
     "wof:id":890487223,
-    "wof:lastmodified":1642541521,
+    "wof:lastmodified":1695886482,
     "wof:name":"Kyzyl",
     "wof:parent_id":85688039,
     "wof:placetype":"county",

@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TB.MG",
+        "meso:okato_code":"68212000",
+        "meso:oktmo_code":"68612000",
         "wd:id":"Q14500793"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901940,
     "wof:geomhash":"fdf70fc88ea5ed8fcb229fdf53b06ef5",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108735127,
-    "wof:lastmodified":1694639757,
+    "wof:lastmodified":1695886303,
     "wof:name":"Michurinskiy",
     "wof:parent_id":85687829,
     "wof:placetype":"county",

@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.UD.UV",
+        "meso:okato_code":"94244000",
+        "meso:oktmo_code":"94644000",
         "wd:id":"Q1093973"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903649,
     "wof:geomhash":"2a8a610643c1eb2038f08bc820b323ec",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108737275,
-    "wof:lastmodified":1694639688,
+    "wof:lastmodified":1695886270,
     "wof:name":"Uvinskiy",
     "wof:parent_id":85687787,
     "wof:placetype":"county",

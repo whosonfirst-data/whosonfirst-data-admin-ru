@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BR.PC",
+        "meso:okato_code":"15244000",
+        "meso:oktmo_code":"15644000",
         "wd:id":"Q2708394"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902538,
     "wof:geomhash":"52d5dd15062d16c094f819669baa3d9c",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108735895,
-    "wof:lastmodified":1694639770,
+    "wof:lastmodified":1695886345,
     "wof:name":"Pochepskiy",
     "wof:parent_id":85688121,
     "wof:placetype":"county",

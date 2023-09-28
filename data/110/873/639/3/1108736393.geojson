@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OM.SA",
+        "meso:okato_code":"52251000",
+        "meso:oktmo_code":"52651000",
         "wd:id":"Q375828"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902919,
     "wof:geomhash":"1f26a91fbbdefa94f2dea0ad5b7e7835",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108736393,
-    "wof:lastmodified":1694639775,
+    "wof:lastmodified":1695886362,
     "wof:name":"Sargatskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

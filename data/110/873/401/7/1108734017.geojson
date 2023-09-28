@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TY.IS",
+        "meso:okato_code":"71224000",
+        "meso:oktmo_code":"71624000",
         "wd:id":"Q1753871"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900996,
     "wof:geomhash":"22b256794dbaccb630eca738d0feaf9d",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108734017,
-    "wof:lastmodified":1694639742,
+    "wof:lastmodified":1695886250,
     "wof:name":"Isetskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",

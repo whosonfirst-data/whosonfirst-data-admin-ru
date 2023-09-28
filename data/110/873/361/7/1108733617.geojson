@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PE.GO",
+        "meso:okato_code":"57214000",
+        "meso:oktmo_code":"57614000",
         "wd:id":"Q972737"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900619,
     "wof:geomhash":"f0b7ada4b782ef6b0af9185f3125f1ce",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108733617,
-    "wof:lastmodified":1694639739,
+    "wof:lastmodified":1695886238,
     "wof:name":"Gornozavodskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

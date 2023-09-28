@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021323,
-    "geom:area_square_m":158234470.534904,
+    "geom:area_square_m":158234406.674051,
     "geom:bbox":"48.294211,52.979475,48.591437,53.210506",
     "geom:latitude":53.120188,
     "geom:longitude":48.422734,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"36435000",
+        "meso:oktmo_code":"36735000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903315,
-    "wof:geomhash":"1dfdab6574b736368237cb948e4ad5a4",
+    "wof:geomhash":"d0714076d7745218be1670a72ff88e3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736893,
-    "wof:lastmodified":1627522699,
+    "wof:lastmodified":1695886390,
     "wof:name":"Syzran'",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

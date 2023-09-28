@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.179027,
-    "geom:area_square_m":1606188929.343504,
+    "geom:area_square_m":1606188514.717197,
     "geom:bbox":"131.353717,43.260307,132.169904,43.682105",
     "geom:latitude":43.48397,
     "geom:longitude":131.81219,
@@ -166,16 +166,22 @@
     "wof:concordances":{
         "gp:id":12597919,
         "hasc:id":"RU.PR.ND",
+        "meso:okato_code":"05223000",
+        "meso:oktmo_code":"05623000",
         "qs_pg:id":57519,
         "wd:id":"Q29138",
         "wk:page":"Nadezhdinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054655,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3e5a51088aaf6f6e87cef02ea7d45114",
+    "wof:geomhash":"d34aa3f49a3e75ad91cd8a368b9333cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,7 +192,7 @@
         }
     ],
     "wof:id":890487087,
-    "wof:lastmodified":1690860100,
+    "wof:lastmodified":1695886482,
     "wof:name":"Nadezhdinskiy",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

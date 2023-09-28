@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.ST.IP",
+        "meso:okato_code":"07205000",
+        "meso:oktmo_code":"07605000",
         "wd:id":"Q1255190"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899832,
     "wof:geomhash":"5aca54c0faeb3f0e3edb2878055c5093",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108732747,
-    "wof:lastmodified":1694639727,
+    "wof:lastmodified":1695886186,
     "wof:name":"Apanasenkovskiy",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

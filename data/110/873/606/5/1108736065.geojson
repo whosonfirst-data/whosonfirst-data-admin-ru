@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001196,
-    "geom:area_square_m":8307656.314857,
+    "geom:area_square_m":8307619.142987,
     "geom:bbox":"37.669167,55.802354,37.736291,55.839715",
     "geom:latitude":55.82014,
     "geom:longitude":37.701019,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45263552",
+        "meso:oktmo_code":"45301000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902673,
-    "wof:geomhash":"b86f323a7f0f507f741ad6c679080136",
+    "wof:geomhash":"642d4d0f205e0f6d493d4972dfb3044f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736065,
-    "wof:lastmodified":1627522550,
+    "wof:lastmodified":1695886205,
     "wof:name":"Boskoe",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

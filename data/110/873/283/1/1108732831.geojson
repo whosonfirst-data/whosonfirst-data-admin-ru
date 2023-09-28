@@ -167,8 +167,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.DA.BA",
+        "meso:okato_code":"82207000",
+        "meso:oktmo_code":"82607000",
         "wd:id":"Q787815"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899912,
     "wof:geomhash":"30456969a45d12549ae028f9e256e34f",
@@ -182,7 +188,7 @@
         }
     ],
     "wof:id":1108732831,
-    "wof:lastmodified":1694639686,
+    "wof:lastmodified":1695886247,
     "wof:name":"Babajurtovskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

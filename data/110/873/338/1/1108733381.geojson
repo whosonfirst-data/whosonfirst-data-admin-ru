@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001023,
-    "geom:area_square_m":7095579.498188,
+    "geom:area_square_m":7095533.907235,
     "geom:bbox":"37.50594,55.871174,37.554055,55.908345",
     "geom:latitude":55.891626,
     "geom:longitude":37.531499,
@@ -133,11 +133,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"45277574",
+        "meso:oktmo_code":"45339000",
         "wd:id":"Q432621"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900420,
-    "wof:geomhash":"fd84077b4e7cd21f48d876cf9d5851af",
+    "wof:geomhash":"8f25a8b757097a37f8ec67d3d644fc60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":1108733381,
-    "wof:lastmodified":1690859328,
+    "wof:lastmodified":1695886223,
     "wof:name":"Dmitrovskiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.238931,
-    "geom:area_square_m":1692199289.186351,
+    "geom:area_square_m":1692199260.858463,
     "geom:bbox":"37.673916,54.822006,38.460922,55.281501",
     "geom:latitude":55.056527,
     "geom:longitude":38.094582,
@@ -157,16 +157,22 @@
     "wof:concordances":{
         "gp:id":12598785,
         "hasc:id":"RU.MS.SU",
+        "meso:okato_code":"46253000",
+        "meso:oktmo_code":"46653000",
         "qs_pg:id":237331,
         "wd:id":"Q2723481",
         "wk:page":"Stupinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054659,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"925675d4f71a6162cee1459f5ed83656",
+    "wof:geomhash":"bb8f56a82d15f00dfa17fe8651f9a4be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":890487149,
-    "wof:lastmodified":1690860113,
+    "wof:lastmodified":1695886486,
     "wof:name":"Stupinskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KV.LE",
+        "meso:okato_code":"33221000",
+        "meso:oktmo_code":"33621000",
         "wd:id":"Q584394"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901760,
     "wof:geomhash":"fa3ca5b89699c97c8eae204ecefda227",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108734897,
-    "wof:lastmodified":1694639753,
+    "wof:lastmodified":1695886292,
     "wof:name":"Lebjazhskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",

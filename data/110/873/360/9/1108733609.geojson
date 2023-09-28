@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.KD.GO"
+        "hasc:id":"RU.KD.GO",
+        "meso:okato_code":"03409000",
+        "meso:oktmo_code":"03709000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900610,
     "wof:geomhash":"eccdc25cd56266dc805efb91a491ee32",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733609,
-    "wof:lastmodified":1694639739,
+    "wof:lastmodified":1695886237,
     "wof:name":"Gorjachij Kljuch",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

@@ -158,8 +158,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NO.IR",
+        "meso:okato_code":"90215000",
+        "meso:oktmo_code":"90615000",
         "wd:id":"Q639845"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900406,
     "wof:geomhash":"4012b9b900c15e9ec1c631c57fa158b4",
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":1108733365,
-    "wof:lastmodified":1694639736,
+    "wof:lastmodified":1695886223,
     "wof:name":"Digorskiy",
     "wof:parent_id":85687865,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075359,
-    "geom:area_square_m":534520890.774121,
+    "geom:area_square_m":534520761.855713,
     "geom:bbox":"82.75084,54.797445,83.156135,55.201932",
     "geom:latitude":54.996288,
     "geom:longitude":82.962638,
@@ -116,15 +116,21 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598864,
+        "meso:okato_code":"50401000",
+        "meso:oktmo_code":"50701000",
         "qs_pg:id":1312531,
         "wk:page":"Chistoozyorny District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054309,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1bb9065740e70b54c60fe662212093c7",
+    "wof:geomhash":"6eaffd79c95bfb4591976d5072ec0d00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":890480483,
-    "wof:lastmodified":1642541526,
+    "wof:lastmodified":1695886488,
     "wof:name":"Novosibirsk",
     "wof:parent_id":85687925,
     "wof:placetype":"county",

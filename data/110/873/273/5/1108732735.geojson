@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.ST.NV",
+        "meso:okato_code":"07232000",
+        "meso:oktmo_code":"07632000",
         "wd:id":"Q1884305"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899824,
     "wof:geomhash":"0a58a03398b7312da0e733c7047266fc",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108732735,
-    "wof:lastmodified":1694639727,
+    "wof:lastmodified":1695886185,
     "wof:name":"Andropovskiy",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.397278,
-    "geom:area_square_m":3222862765.382924,
+    "geom:area_square_m":3222862201.47577,
     "geom:bbox":"39.665962,48.760845,41.042981,49.283802",
     "geom:latitude":48.999569,
     "geom:longitude":40.421566,
@@ -148,16 +148,22 @@
     "wof:concordances":{
         "gp:id":12599120,
         "hasc:id":"RU.RO.MR",
+        "meso:okato_code":"60232000",
+        "meso:oktmo_code":"60632000",
         "qs_pg:id":506365,
         "wd:id":"Q2217127",
         "wk:page":"Millerovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054315,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d263b09f60d95258b8cc88bf1a27def2",
+    "wof:geomhash":"8280671592c8d60425463a95f8bc01ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":890480607,
-    "wof:lastmodified":1690860149,
+    "wof:lastmodified":1695886494,
     "wof:name":"Millerovskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

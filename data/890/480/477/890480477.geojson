@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.182617,
-    "geom:area_square_m":1264808024.162555,
+    "geom:area_square_m":1264808496.151319,
     "geom:bbox":"36.255269,55.757427,37.17381,56.120404",
     "geom:latitude":55.935701,
     "geom:longitude":36.742833,
@@ -172,16 +172,22 @@
     "wof:concordances":{
         "gp:id":12598727,
         "hasc:id":"RU.MS.IR",
+        "meso:okato_code":"46218000",
+        "meso:oktmo_code":"46618000",
         "qs_pg:id":1312519,
         "wd:id":"Q772090",
         "wk:page":"Istrinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054309,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7c32e3b4d8ce60dc217ba6d73ce7a380",
+    "wof:geomhash":"fe35b5d01c4b09095b76135cac35f1ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -192,7 +198,7 @@
         }
     ],
     "wof:id":890480477,
-    "wof:lastmodified":1690860123,
+    "wof:lastmodified":1695886487,
     "wof:name":"Istrinskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

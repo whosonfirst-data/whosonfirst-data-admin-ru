@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.NZ.PM"
+        "hasc:id":"RU.NZ.PM",
+        "meso:okato_code":"22243000",
+        "meso:oktmo_code":"22643000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902474,
     "wof:geomhash":"722cef8fd774c48964610a9dbb221e1e",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735813,
-    "wof:lastmodified":1694639769,
+    "wof:lastmodified":1695886340,
     "wof:name":"Pervomajskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

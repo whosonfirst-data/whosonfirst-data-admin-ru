@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.277044,
-    "geom:area_square_m":2353552925.89145,
+    "geom:area_square_m":2353552583.007972,
     "geom:bbox":"39.226896,46.307613,40.132011,46.822007",
     "geom:latitude":46.604569,
     "geom:longitude":39.649227,
@@ -136,11 +136,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"03228000",
+        "meso:oktmo_code":"03628000",
         "wd:id":"Q1035800"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901711,
-    "wof:geomhash":"99c33f47eb839fc20875775a045214f8",
+    "wof:geomhash":"021e00e4fe1ff767b35ed5909fa4f615",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":1108734841,
-    "wof:lastmodified":1690859409,
+    "wof:lastmodified":1695886270,
     "wof:name":"Kushhjovskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

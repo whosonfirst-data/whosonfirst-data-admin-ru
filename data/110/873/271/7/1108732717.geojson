@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AL.AL",
+        "meso:okato_code":"01202000",
+        "meso:oktmo_code":"01602000",
         "wd:id":"Q1765130"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899811,
     "wof:geomhash":"2fbf7884b609a9ac7a8fe919bd9c30f8",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108732717,
-    "wof:lastmodified":1694639727,
+    "wof:lastmodified":1695886183,
     "wof:name":"Altajskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

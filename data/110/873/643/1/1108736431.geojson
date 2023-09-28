@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.UL.SE",
+        "meso:okato_code":"73236000",
+        "meso:oktmo_code":"73636000",
         "wd:id":"Q2641521"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902945,
     "wof:geomhash":"3ef1e22661ba1e26cecc6d211a9532b3",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108736431,
-    "wof:lastmodified":1694639776,
+    "wof:lastmodified":1695886364,
     "wof:name":"Sengileevskiy",
     "wof:parent_id":85687907,
     "wof:placetype":"county",

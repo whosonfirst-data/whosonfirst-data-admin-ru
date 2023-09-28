@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AL.KL",
+        "meso:okato_code":"01217000",
+        "meso:oktmo_code":"01617000",
         "wd:id":"Q1654097"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901407,
     "wof:geomhash":"24140d4cb00fac98e5309383ea42edfd",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108734499,
-    "wof:lastmodified":1694639747,
+    "wof:lastmodified":1695886271,
     "wof:name":"Kljuchevskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

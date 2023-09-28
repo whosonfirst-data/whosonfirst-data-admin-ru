@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SR.NB",
+        "meso:okato_code":"63229000",
+        "meso:oktmo_code":"63629000",
         "wd:id":"Q1653562"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902216,
     "wof:geomhash":"dcf95cd21da19233f23e7f96a6457719",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108735487,
-    "wof:lastmodified":1694639761,
+    "wof:lastmodified":1695886320,
     "wof:name":"Novoburasskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

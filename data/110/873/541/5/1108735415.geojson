@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.234805,
-    "geom:area_square_m":16434705003.080639,
+    "geom:area_square_m":16434705003.080473,
     "geom:bbox":"44.882415771,79.768753052,65.38747406,81.86164093",
     "geom:latitude":80.711513,
     "geom:longitude":56.224749,
@@ -237,10 +237,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"NO DATA",
+        "meso:oktmo_code":"NO DATA"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902177,
-    "wof:geomhash":"2f11b27adb2f8892feff36ee97a1bdb6",
+    "wof:geomhash":"f0b1196b69fd2461b3b323831e6613bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -251,7 +258,7 @@
         }
     ],
     "wof:id":1108735415,
-    "wof:lastmodified":1566627366,
+    "wof:lastmodified":1695886266,
     "wof:name":"Franz Josef Land",
     "wof:parent_id":85687971,
     "wof:placetype":"county",

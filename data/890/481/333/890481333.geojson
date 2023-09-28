@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.327156,
-    "geom:area_square_m":2925083868.720298,
+    "geom:area_square_m":2925083500.306996,
     "geom:bbox":"41.028327,43.277842,41.819971,44.188192",
     "geom:latitude":43.690879,
     "geom:longitude":41.473799,
@@ -166,16 +166,22 @@
     "wof:concordances":{
         "gp:id":12597980,
         "hasc:id":"RU.KC.ZE",
+        "meso:okato_code":"91210000",
+        "meso:oktmo_code":"91610000",
         "qs_pg:id":363048,
         "wd:id":"Q40338",
         "wk:page":"Zelenchuksky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054353,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ed9d41b6d62f0f344ecefe2bc43049ee",
+    "wof:geomhash":"f737f4a9361ae580ea0538cfb246d4dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,7 +192,7 @@
         }
     ],
     "wof:id":890481333,
-    "wof:lastmodified":1690860021,
+    "wof:lastmodified":1695886473,
     "wof:name":"Zelenchukskiy",
     "wof:parent_id":85687913,
     "wof:placetype":"county",

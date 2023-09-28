@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.TY.YU"
+        "hasc:id":"RU.TY.YU",
+        "meso:okato_code":"71253000",
+        "meso:oktmo_code":"71653000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901108,
     "wof:geomhash":"9355ed5b69bc8bc0dac56d5a01ba258b",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108734145,
-    "wof:lastmodified":1694639795,
+    "wof:lastmodified":1695886433,
     "wof:name":"Jurginskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",

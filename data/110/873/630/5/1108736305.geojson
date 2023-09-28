@@ -149,8 +149,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.MR.RO",
+        "meso:okato_code":"89240000",
+        "meso:oktmo_code":"89640000",
         "wd:id":"Q643611"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902852,
     "wof:geomhash":"a9cbb4b7e197a8ff5f34d172aed5089b",
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":1108736305,
-    "wof:lastmodified":1694639687,
+    "wof:lastmodified":1695886261,
     "wof:name":"Romodanovskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",

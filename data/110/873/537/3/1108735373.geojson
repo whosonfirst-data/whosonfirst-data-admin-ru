@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VO.NI",
+        "meso:okato_code":"19234000",
+        "meso:oktmo_code":"19634000",
         "wd:id":"Q3876906"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902145,
     "wof:geomhash":"04cdc50e46fa7c83b546ac3e0fda9ccd",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108735373,
-    "wof:lastmodified":1694639761,
+    "wof:lastmodified":1695886314,
     "wof:name":"Nikol'skiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",

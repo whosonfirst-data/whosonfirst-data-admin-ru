@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.221665,
-    "geom:area_square_m":2010278708.277869,
+    "geom:area_square_m":2010278055.992342,
     "geom:bbox":"43.714526,42.547028,44.511842,43.147995",
     "geom:latitude":42.825167,
     "geom:longitude":44.109438,
@@ -175,15 +175,21 @@
     "wof:concordances":{
         "gn:id":583478,
         "hasc:id":"RU.NO.AL",
+        "meso:okato_code":"90205000",
+        "meso:oktmo_code":"90605000",
         "qs_pg:id":1029946,
         "wd:id":"Q575047"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054389,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"230f4eb9fb4e1c2431082c03d24d72d6",
+    "wof:geomhash":"fccf3326d71da095476683f9d954d949",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,7 +200,7 @@
         }
     ],
     "wof:id":890481985,
-    "wof:lastmodified":1690860017,
+    "wof:lastmodified":1695886474,
     "wof:name":"Alagirskiy",
     "wof:parent_id":85687865,
     "wof:placetype":"county",

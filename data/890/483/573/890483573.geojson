@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.698441,
-    "geom:area_square_m":5760791899.354276,
+    "geom:area_square_m":5760791925.965158,
     "geom:bbox":"45.343181,47.655345,47.211097,48.623784",
     "geom:latitude":48.160628,
     "geom:longitude":46.4819,
@@ -172,16 +172,22 @@
     "wof:concordances":{
         "gp:id":12598038,
         "hasc:id":"RU.AS.AR",
+        "meso:okato_code":"12205000",
+        "meso:oktmo_code":"12605000",
         "qs_pg:id":1002281,
         "wd:id":"Q2641435",
         "wk:page":"Akhtubinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054472,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"18e8984e26474978a7cc7568eee2084e",
+    "wof:geomhash":"baf37c4248202d72cd51d4a576d08350",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -192,7 +198,7 @@
         }
     ],
     "wof:id":890483573,
-    "wof:lastmodified":1690859908,
+    "wof:lastmodified":1695886454,
     "wof:name":"Akhtubinskiy",
     "wof:parent_id":85687985,
     "wof:placetype":"county",

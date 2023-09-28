@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.605445,
-    "geom:area_square_m":4101615263.053156,
+    "geom:area_square_m":4101615343.786396,
     "geom:bbox":"35.202345,56.369648,36.760837,57.121154",
     "geom:latitude":56.778683,
     "geom:longitude":35.890948,
@@ -142,15 +142,21 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":554182,
+        "meso:okato_code":"28220000",
+        "meso:oktmo_code":"28620000",
         "qs_pg:id":80903,
         "wd:id":"Q2373788"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054548,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"24d664b35e34cea30d4c18e5135d4104",
+    "wof:geomhash":"778ce6f30f3c9bb9beb85ab763e805b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":890485217,
-    "wof:lastmodified":1690859821,
+    "wof:lastmodified":1695886441,
     "wof:name":"Kalininskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.3527,
-    "geom:area_square_m":10153963121.039726,
+    "geom:area_square_m":10153963201.404219,
     "geom:bbox":"90.491656,51.894031,92.519558,53.53764",
     "geom:latitude":52.6217,
     "geom:longitude":91.574169,
@@ -124,11 +124,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"04259000",
+        "meso:oktmo_code":"04659000",
         "wd:id":"Q918140"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903103,
-    "wof:geomhash":"fa86501657dc2fb6b46404dde1e0c451",
+    "wof:geomhash":"e26f387f54a8e9e18970e43480ef51e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":1108736621,
-    "wof:lastmodified":1690859660,
+    "wof:lastmodified":1695886377,
     "wof:name":"Shushenskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

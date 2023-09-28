@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007748,
-    "geom:area_square_m":53870758.240179,
+    "geom:area_square_m":53870826.164793,
     "geom:bbox":"38.379816,55.749358,38.528278,55.824658",
     "geom:latitude":55.784933,
     "geom:longitude":38.454144,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"46490000",
+        "meso:oktmo_code":"46790000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900768,
-    "wof:geomhash":"d859b0208aca51524b9e1fc28787a02b",
+    "wof:geomhash":"adeb57cf98593a1b98dfb44413571f4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108733741,
-    "wof:lastmodified":1627522566,
+    "wof:lastmodified":1695886232,
     "wof:name":"Ehlektrostal'",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

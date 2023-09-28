@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002394,
-    "geom:area_square_m":16823187.25801,
+    "geom:area_square_m":16823187.258015,
     "geom:bbox":"37.492812928,55.3429454814,37.5879737005,55.3911272056",
     "geom:latitude":55.366271,
     "geom:longitude":37.537273,
@@ -179,10 +179,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"46436000",
+        "meso:oktmo_code":"46736000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901402,
-    "wof:geomhash":"223c0a15b53f5153e7a87985eeb16a05",
+    "wof:geomhash":"decd6a0f497efe0fa3ae197cf77da789",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -193,7 +200,7 @@
         }
     ],
     "wof:id":1108734491,
-    "wof:lastmodified":1566626924,
+    "wof:lastmodified":1695886220,
     "wof:name":"Klimovsk",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

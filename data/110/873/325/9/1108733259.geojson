@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.21759,
-    "geom:area_square_m":10561977357.449966,
+    "geom:area_square_m":10561977301.727264,
     "geom:bbox":"45.259067,44.863561,46.910992,45.984185",
     "geom:latitude":45.44988,
     "geom:longitude":46.042158,
@@ -133,11 +133,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"85242000",
+        "meso:oktmo_code":"85642000",
         "wd:id":"Q717128"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900313,
-    "wof:geomhash":"eef92365ad88dbee30a54a8fb0e3058e",
+    "wof:geomhash":"ed192e8f6244d5d04ac5e02c2fa7bfbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":1108733259,
-    "wof:lastmodified":1690859529,
+    "wof:lastmodified":1695886216,
     "wof:name":"Chernozemel'skiy",
     "wof:parent_id":85687953,
     "wof:placetype":"county",

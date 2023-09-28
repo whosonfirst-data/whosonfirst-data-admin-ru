@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.416467,
-    "geom:area_square_m":2818132899.475628,
+    "geom:area_square_m":2818133259.595912,
     "geom:bbox":"65.780367,56.46556,67.025621,57.134499",
     "geom:latitude":56.821816,
     "geom:longitude":66.387313,
@@ -121,11 +121,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"71256000",
+        "meso:oktmo_code":"71656000",
         "wd:id":"Q1657695"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901047,
-    "wof:geomhash":"d8d556ef34052fb2d04f197cc4db8999",
+    "wof:geomhash":"1632db14cd81e1b47fff66191e86814d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1108734081,
-    "wof:lastmodified":1690859442,
+    "wof:lastmodified":1695886241,
     "wof:name":"Jalutorovskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",

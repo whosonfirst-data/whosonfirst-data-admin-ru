@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":20.365908,
-    "geom:area_square_m":107381068813.589005,
+    "geom:area_square_m":107381070054.77951,
     "geom:bbox":"73.062301,62.461916,80.834462,67.718082",
     "geom:latitude":64.753391,
     "geom:longitude":77.366398,
@@ -135,16 +135,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12599473,
+        "meso:okato_code":"71160000",
+        "meso:oktmo_code":"71920000",
         "qs_pg:id":1105894,
         "wd:id":"Q2483064",
         "wk:page":"Purovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054510,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"940e2fda2c732ff70e5352830cb4bbaa",
+    "wof:geomhash":"be188d17bb7594d66b4966ef1b0e2e78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":890484357,
-    "wof:lastmodified":1690859941,
+    "wof:lastmodified":1695886463,
     "wof:name":"Purovskiy",
     "wof:parent_id":85687931,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.241932,
-    "geom:area_square_m":1703005532.212641,
+    "geom:area_square_m":1703005881.62323,
     "geom:bbox":"38.892975,54.993063,39.725919,55.532353",
     "geom:latitude":55.300312,
     "geom:longitude":39.299514,
@@ -111,15 +111,21 @@
     "wof:concordances":{
         "gp:id":12598793,
         "hasc:id":"RU.MS.EG",
+        "meso:okato_code":"46212000",
+        "meso:oktmo_code":"46612000",
         "qs_pg:id":1063283,
         "wk:page":"Yegoryevsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054497,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"99369df418fab0d942c638e9947307fe",
+    "wof:geomhash":"6fc427f72f4e72cd74637d7336d10c2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":890484099,
-    "wof:lastmodified":1642541498,
+    "wof:lastmodified":1695886460,
     "wof:name":"Egor'evskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

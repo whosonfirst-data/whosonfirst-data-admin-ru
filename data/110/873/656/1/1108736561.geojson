@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.321523,
-    "geom:area_square_m":2308033395.233762,
+    "geom:area_square_m":2308033268.152877,
     "geom:bbox":"71.987083,54.212401,72.887086,54.780173",
     "geom:latitude":54.511694,
     "geom:longitude":72.449948,
@@ -118,11 +118,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"52259000",
+        "meso:oktmo_code":"52659000",
         "wd:id":"Q1655573"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903051,
-    "wof:geomhash":"e9fd5f66eed5271db6b83f08a4d5b279",
+    "wof:geomhash":"fba7a556ff02d93c15ddd7df0570baf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":1108736561,
-    "wof:lastmodified":1690859449,
+    "wof:lastmodified":1695886373,
     "wof:name":"Sherbakul'skiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

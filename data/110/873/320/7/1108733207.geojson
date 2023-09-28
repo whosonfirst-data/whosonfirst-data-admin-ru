@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TU.CK",
+        "meso:okato_code":"93257000",
+        "meso:oktmo_code":"93657000",
         "wd:id":"Q855554"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900276,
     "wof:geomhash":"ef69466b699a12984aedcc941bb0422d",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108733207,
-    "wof:lastmodified":1694639734,
+    "wof:lastmodified":1695886213,
     "wof:name":"Chedi-Khol'skiy",
     "wof:parent_id":85688039,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095771,
-    "geom:area_square_m":683285302.28456,
+    "geom:area_square_m":683285524.946859,
     "geom:bbox":"55.781564,54.565138,56.297619,54.960214",
     "geom:latitude":54.76108,
     "geom:longitude":56.060543,
@@ -146,15 +146,21 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12597273,
+        "meso:okato_code":"80401000",
+        "meso:oktmo_code":"80701000",
         "qs_pg:id":224456,
         "wk:page":"Bizhbulyaksky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054650,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2c8f6132644d274c23a815d72adae1e6",
+    "wof:geomhash":"4ffd30f108822070f47656a5abd1da71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":890487017,
-    "wof:lastmodified":1642541522,
+    "wof:lastmodified":1695886483,
     "wof:name":"Ufa",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

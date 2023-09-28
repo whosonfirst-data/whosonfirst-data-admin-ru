@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KO.KN",
+        "meso:okato_code":"87208000",
+        "meso:oktmo_code":"87608000",
         "wd:id":"Q1089789"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901410,
     "wof:geomhash":"799b29dc3e5d932dc8a8e50dc72372ab",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108734503,
-    "wof:lastmodified":1694639747,
+    "wof:lastmodified":1695886271,
     "wof:name":"Knjazhpogostskiy",
     "wof:parent_id":85688077,
     "wof:placetype":"county",

@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AL.KA",
+        "meso:okato_code":"01215000",
+        "meso:oktmo_code":"01615000",
         "wd:id":"Q1654282"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901169,
     "wof:geomhash":"cfc95e0098285ce4c8f9c34b1d2acc26",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108734209,
-    "wof:lastmodified":1694639743,
+    "wof:lastmodified":1695886256,
     "wof:name":"Kalmanskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TT.MU",
+        "meso:okato_code":"92242000",
+        "meso:oktmo_code":"92642000",
         "wd:id":"Q2220496"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902083,
     "wof:geomhash":"1ddda3b125ed6bd90b3641d387fceeae",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108735285,
-    "wof:lastmodified":1694639759,
+    "wof:lastmodified":1695886308,
     "wof:name":"Musljumovskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

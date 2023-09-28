@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SK.NR"
+        "hasc:id":"RU.SK.NR",
+        "meso:okato_code":"98226000",
+        "meso:oktmo_code":"98626000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902176,
     "wof:geomhash":"cc7075230ab22eafa2ba3e68851be5d4",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735413,
-    "wof:lastmodified":1694639763,
+    "wof:lastmodified":1695886324,
     "wof:name":"Njurbinskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",

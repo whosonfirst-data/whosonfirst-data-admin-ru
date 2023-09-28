@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000536,
-    "geom:area_square_m":3706507.222296,
+    "geom:area_square_m":3706450.031234,
     "geom:bbox":"37.183889,55.99344,37.217951,56.01749",
     "geom:latitude":56.006857,
     "geom:longitude":37.20172,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45272562",
+        "meso:oktmo_code":"45331000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902739,
-    "wof:geomhash":"e2d7236bd1d42cc9fd162434dcfab61b",
+    "wof:geomhash":"94b6259c6f33ac7d804c38f8c8f232ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736153,
-    "wof:lastmodified":1627522626,
+    "wof:lastmodified":1695886301,
     "wof:name":"Matushkino",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

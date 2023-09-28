@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.YN.KR",
+        "meso:okato_code":"71153000",
+        "meso:oktmo_code":"71913000",
         "wd:id":"Q2628479"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901605,
     "wof:geomhash":"785c61df8e093ac494ecc663125f1255",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108734729,
-    "wof:lastmodified":1694639751,
+    "wof:lastmodified":1695886283,
     "wof:name":"Krasnosel'kupskiy",
     "wof:parent_id":85687931,
     "wof:placetype":"county",

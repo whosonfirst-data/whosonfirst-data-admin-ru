@@ -122,8 +122,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KY.BM",
+        "meso:okato_code":"04210000",
+        "meso:oktmo_code":"04610000",
         "wd:id":"Q834172"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900151,
     "wof:geomhash":"313019c94163a9a90f4b53499d0f5807",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1108733071,
-    "wof:lastmodified":1694492724,
+    "wof:lastmodified":1695886204,
     "wof:name":"Bol'shemurtinskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.336206,
-    "geom:area_square_m":2839967502.637325,
+    "geom:area_square_m":2839967336.634945,
     "geom:bbox":"38.680449,46.559097,39.801783,47.239421",
     "geom:latitude":46.910748,
     "geom:longitude":39.289538,
@@ -130,11 +130,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"60201000",
+        "meso:oktmo_code":"60601000",
         "wd:id":"Q2217077"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899909,
-    "wof:geomhash":"9e8d3a906b9e24ec103375bfdc4dfa29",
+    "wof:geomhash":"5f2d074576b61d54aeb3397f3a4a9eab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":1108732827,
-    "wof:lastmodified":1690859611,
+    "wof:lastmodified":1695886259,
     "wof:name":"Azovskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

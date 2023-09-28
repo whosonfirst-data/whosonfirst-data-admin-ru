@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.259571,
-    "geom:area_square_m":1732707449.52888,
+    "geom:area_square_m":1732707277.134041,
     "geom:bbox":"38.591711,57.05457,39.367359,57.597811",
     "geom:latitude":57.326934,
     "geom:longitude":38.983607,
@@ -148,16 +148,22 @@
     "wof:concordances":{
         "gp:id":12599660,
         "hasc:id":"RU.YS.BG",
+        "meso:okato_code":"78206000",
+        "meso:oktmo_code":"78606000",
         "qs_pg:id":911344,
         "wd:id":"Q1957586",
         "wk:page":"Borisoglebsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054459,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e85f1382aef4f3a0ebd8f9325aa94394",
+    "wof:geomhash":"1b4e4038a88a166452840702adbbe0c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":890483305,
-    "wof:lastmodified":1690859913,
+    "wof:lastmodified":1695886455,
     "wof:name":"Borisoglebskiy",
     "wof:parent_id":85687959,
     "wof:placetype":"county",

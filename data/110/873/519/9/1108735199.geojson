@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.329618,
-    "geom:area_square_m":2252928952.288185,
+    "geom:area_square_m":2252929281.690752,
     "geom:bbox":"48.415179,56.181997,49.585112,56.674606",
     "geom:latitude":56.443402,
     "geom:longitude":48.944473,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"88232000",
+        "meso:oktmo_code":"88632000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902010,
-    "wof:geomhash":"ace3b1388d0c903922af4f7cb8c549bb",
+    "wof:geomhash":"3f5f25805373c8fe8354c98806d0206e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108735199,
-    "wof:lastmodified":1627522631,
+    "wof:lastmodified":1695886306,
     "wof:name":"Morkinskiy",
     "wof:parent_id":85688043,
     "wof:placetype":"county",

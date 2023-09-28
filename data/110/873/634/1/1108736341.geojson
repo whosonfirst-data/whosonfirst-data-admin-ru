@@ -149,8 +149,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TT.RY",
+        "meso:okato_code":"92250000",
+        "meso:oktmo_code":"92650000",
         "wd:id":"Q2220342"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902880,
     "wof:geomhash":"7e13e8a2b92a7df2b0f5b282a618cd3f",
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":1108736341,
-    "wof:lastmodified":1694639774,
+    "wof:lastmodified":1695886360,
     "wof:name":"Rybno-Slobodskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

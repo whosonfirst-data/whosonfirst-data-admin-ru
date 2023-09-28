@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.MG.TE",
+        "meso:okato_code":"44216000",
+        "meso:oktmo_code":"44616000",
         "wd:id":"Q1043237"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903404,
     "wof:geomhash":"bb2644e6e0cb7cf87c5ee02b5dd905c6",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108736981,
-    "wof:lastmodified":1694639786,
+    "wof:lastmodified":1695886404,
     "wof:name":"Ten'kinskiy",
     "wof:parent_id":85687881,
     "wof:placetype":"county",

@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KM.SO",
+        "meso:okato_code":"71124000",
+        "meso:oktmo_code":"71824000",
         "wd:id":"Q557487"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903192,
     "wof:geomhash":"b9c266edfb8db6d0b7f312537e767f63",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108736749,
-    "wof:lastmodified":1694639781,
+    "wof:lastmodified":1695886383,
     "wof:name":"Sovetskiy",
     "wof:parent_id":85687919,
     "wof:placetype":"county",

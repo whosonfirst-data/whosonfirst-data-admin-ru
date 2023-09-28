@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KG.KH",
+        "meso:okato_code":"29246000",
+        "meso:oktmo_code":"29646000",
         "wd:id":"Q1652822"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901319,
     "wof:geomhash":"f62ce8dec5d6f8bded01870f377221f8",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108734397,
-    "wof:lastmodified":1694639746,
+    "wof:lastmodified":1695886266,
     "wof:name":"Khvastovichskiy",
     "wof:parent_id":85688131,
     "wof:placetype":"county",

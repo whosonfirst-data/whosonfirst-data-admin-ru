@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001722,
-    "geom:area_square_m":11914924.452523,
+    "geom:area_square_m":11914924.452519,
     "geom:bbox":"37.144747,55.947574,37.212585,55.995647",
     "geom:latitude":55.969014,
     "geom:longitude":37.175075,
@@ -74,13 +74,20 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45272580",
+        "meso:oktmo_code":"45330000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:coterminous":[
         102003051
     ],
     "wof:country":"RU",
     "wof:created":1478902716,
-    "wof:geomhash":"4e0e22fe98b00578b76c8ecaa8bfe43e",
+    "wof:geomhash":"593cfc88302d9ca8865b3ba3f4156772",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108736123,
-    "wof:lastmodified":1627522607,
+    "wof:lastmodified":1695886280,
     "wof:name":"Krjukovo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011038,
-    "geom:area_square_m":82579023.805086,
+    "geom:area_square_m":82579027.580824,
     "geom:bbox":"103.562993,52.700364,103.702876,52.833099",
     "geom:latitude":52.767788,
     "geom:longitude":103.63027,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"25436000",
+        "meso:oktmo_code":"25736000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903598,
-    "wof:geomhash":"c39771d6999ce6601b9340ec466bdcc8",
+    "wof:geomhash":"314fd1bbbea77724c08fdfcbb800a0df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108737209,
-    "wof:lastmodified":1627522654,
+    "wof:lastmodified":1695886334,
     "wof:name":"Usol'e Sibirskoe",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

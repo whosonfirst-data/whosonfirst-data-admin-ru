@@ -125,8 +125,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KE.MR",
+        "meso:okato_code":"32216000",
+        "meso:oktmo_code":"32616000",
         "wd:id":"Q1653424"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901884,
     "wof:geomhash":"052b59b3990eb1086f040c8ef62f0c50",
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":1108735061,
-    "wof:lastmodified":1694639756,
+    "wof:lastmodified":1695886300,
     "wof:name":"Mariinskiy",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

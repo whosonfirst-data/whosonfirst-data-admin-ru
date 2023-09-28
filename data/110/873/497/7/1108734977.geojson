@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0022,
-    "geom:area_square_m":16360571.828811,
+    "geom:area_square_m":16360515.294939,
     "geom:bbox":"60.544012,52.999185,60.630653,53.05668",
     "geom:latitude":53.031874,
     "geom:longitude":60.584029,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"75558000",
+        "meso:oktmo_code":"75759000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901816,
-    "wof:geomhash":"db00919cd3de7d1b7037776789c329f8",
+    "wof:geomhash":"e2df38e741a0495d52bd6040c4f8fa7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108734977,
-    "wof:lastmodified":1627522621,
+    "wof:lastmodified":1695886296,
     "wof:name":"Lokomotivnyj",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

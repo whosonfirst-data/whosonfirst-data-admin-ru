@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VR.TE",
+        "meso:okato_code":"20254000",
+        "meso:oktmo_code":"20654000",
         "wd:id":"Q1655750"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903416,
     "wof:geomhash":"fef9c7dfc6cfe5d277a426c183558bfb",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108736995,
-    "wof:lastmodified":1694639787,
+    "wof:lastmodified":1695886405,
     "wof:name":"Ternovskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

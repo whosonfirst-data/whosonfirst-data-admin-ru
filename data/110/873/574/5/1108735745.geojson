@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.MS.OR"
+        "hasc:id":"RU.MS.OR",
+        "meso:okato_code":"46242000",
+        "meso:oktmo_code":"46642000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902422,
     "wof:geomhash":"d39be500f4dd667682e9a33558408cd9",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735745,
-    "wof:lastmodified":1694639767,
+    "wof:lastmodified":1695886337,
     "wof:name":"Ozjorskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

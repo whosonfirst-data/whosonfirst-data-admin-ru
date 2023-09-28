@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.456999,
-    "geom:area_square_m":3097521009.298572,
+    "geom:area_square_m":3097520850.895817,
     "geom:bbox":"32.892551,56.462862,34.006845,57.078372",
     "geom:latitude":56.759814,
     "geom:longitude":33.445777,
@@ -160,16 +160,22 @@
     "wof:concordances":{
         "gp:id":12598375,
         "hasc:id":"RU.TV.SE",
+        "meso:okato_code":"28250000",
+        "meso:oktmo_code":"28650000",
         "qs_pg:id":57588,
         "wd:id":"Q394872",
         "wk:page":"Selizharovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054655,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d67803d1a7d5ccc060e88c9d94d9eb17",
+    "wof:geomhash":"73e6072f674e1dd4fcc7491288cb783c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":890487091,
-    "wof:lastmodified":1690860086,
+    "wof:lastmodified":1695886480,
     "wof:name":"Selizharovskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007779,
-    "geom:area_square_m":68937786.198509,
+    "geom:area_square_m":68937809.640396,
     "geom:bbox":"42.010327,44.157534,42.125667,44.28477",
     "geom:latitude":44.22014,
     "geom:longitude":42.064877,
@@ -281,10 +281,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"91401000",
+        "meso:oktmo_code":"91701000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900753,
-    "wof:geomhash":"227894ea4931fd5eb6c1067d2a17fa7b",
+    "wof:geomhash":"3f963e675f535f7896a32ae9f0ad632c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -295,7 +302,7 @@
         }
     ],
     "wof:id":1108733717,
-    "wof:lastmodified":1636497193,
+    "wof:lastmodified":1695886732,
     "wof:name":"Cherkessk",
     "wof:parent_id":85687913,
     "wof:placetype":"county",

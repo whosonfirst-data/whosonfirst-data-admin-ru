@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042993,
-    "geom:area_square_m":389894321.265277,
+    "geom:area_square_m":389894379.095597,
     "geom:bbox":"132.54269,42.687054,133.241257,42.986382",
     "geom:latitude":42.82667,
     "geom:longitude":132.864621,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"05414000",
+        "meso:oktmo_code":"05714000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902095,
-    "wof:geomhash":"0feeda9a0f06bdbaf884c7133cd96dc3",
+    "wof:geomhash":"4bff67dd7cead388ac52da71b3c08cd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108735303,
-    "wof:lastmodified":1627522634,
+    "wof:lastmodified":1695886309,
     "wof:name":"Nakhodkinskiy",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

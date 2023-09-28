@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.146741,
-    "geom:area_square_m":8057282267.637752,
+    "geom:area_square_m":8057282556.386702,
     "geom:bbox":"86.875743,54.613212,89.132847,55.972958",
     "geom:latitude":55.372761,
     "geom:longitude":88.135973,
@@ -124,11 +124,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"32228000",
+        "meso:oktmo_code":"32628000",
         "wd:id":"Q1655783"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903437,
-    "wof:geomhash":"3cbbeebba19ff993a4303a4941e312a3",
+    "wof:geomhash":"8cabe14b6f8bc70d387a6340ebc95de5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":1108737019,
-    "wof:lastmodified":1690859341,
+    "wof:lastmodified":1695886407,
     "wof:name":"Tisul'skiy",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

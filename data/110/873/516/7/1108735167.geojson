@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RO.MY",
+        "meso:okato_code":"60235000",
+        "meso:oktmo_code":"60635000",
         "wd:id":"Q2632326"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901979,
     "wof:geomhash":"139f2b6a4e679ac6e32384755514c885",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108735167,
-    "wof:lastmodified":1694639685,
+    "wof:lastmodified":1695886234,
     "wof:name":"Mjasnikovskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

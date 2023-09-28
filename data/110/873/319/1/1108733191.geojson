@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PE.CA",
+        "meso:okato_code":"57255000",
+        "meso:oktmo_code":"57655000",
         "wd:id":"Q870773"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900259,
     "wof:geomhash":"e39f37cb2e2e028f5c0b9ebecb4098ac",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108733191,
-    "wof:lastmodified":1694639733,
+    "wof:lastmodified":1695886213,
     "wof:name":"Chastinskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

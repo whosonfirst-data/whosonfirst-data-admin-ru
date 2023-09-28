@@ -210,8 +210,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.AM.TR"
+        "hasc:id":"RU.AM.TR",
+        "meso:okato_code":"10432000",
+        "meso:oktmo_code":"10732000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903528,
     "wof:geomhash":"71d731d4ae78d05ac1f919e5de06cf70",
@@ -225,7 +231,7 @@
         }
     ],
     "wof:id":1108737127,
-    "wof:lastmodified":1694639805,
+    "wof:lastmodified":1695886732,
     "wof:name":"Tynda",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

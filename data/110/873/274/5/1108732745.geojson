@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023987,
-    "geom:area_square_m":165512548.050375,
+    "geom:area_square_m":165512548.050372,
     "geom:bbox":"85.9241584658,55.9827193145,86.351542969,56.1641229976",
     "geom:latitude":56.080045,
     "geom:longitude":86.095425,
@@ -188,10 +188,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"32243000",
+        "meso:oktmo_code":"32704000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899830,
-    "wof:geomhash":"3b8468306bff3e57c2b1e998df2fcbfb",
+    "wof:geomhash":"7b1baf4c6b3371e29b5d368cbbb732be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -202,7 +209,7 @@
         }
     ],
     "wof:id":1108732745,
-    "wof:lastmodified":1566626929,
+    "wof:lastmodified":1695886221,
     "wof:name":"Anzhero-Sudzhensk",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

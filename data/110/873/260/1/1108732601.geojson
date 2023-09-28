@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.OB.AR"
+        "hasc:id":"RU.OB.AR",
+        "meso:okato_code":"53203000",
+        "meso:oktmo_code":"53603000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899713,
     "wof:geomhash":"f7194998c6bf162e7e3564a7c4608570",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108732601,
-    "wof:lastmodified":1694639725,
+    "wof:lastmodified":1695886175,
     "wof:name":"Abdulinskiy",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

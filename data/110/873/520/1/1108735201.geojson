@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RO.MO",
+        "meso:okato_code":"60234000",
+        "meso:oktmo_code":"60634000",
         "wd:id":"Q2217086"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902012,
     "wof:geomhash":"8670ea355f34525780b9ec33521ac6d6",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108735201,
-    "wof:lastmodified":1694639758,
+    "wof:lastmodified":1695886306,
     "wof:name":"Morozovskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

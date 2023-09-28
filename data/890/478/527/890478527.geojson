@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.099227,
-    "geom:area_square_m":708753879.676772,
+    "geom:area_square_m":708754027.137086,
     "geom:bbox":"36.711364,54.542179,37.273339,54.867758",
     "geom:latitude":54.714437,
     "geom:longitude":37.014172,
@@ -154,15 +154,21 @@
     "wof:concordances":{
         "gn:id":484282,
         "hasc:id":"RU.KG.TA",
+        "meso:okato_code":"29238000",
+        "meso:oktmo_code":"29638000",
         "qs_pg:id":80521,
         "wd:id":"Q1655715"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054190,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d2cd10ee661802d3245d9b1ef682ac3d",
+    "wof:geomhash":"dfedcf3f365e59263743dfa8134d3855",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":890478527,
-    "wof:lastmodified":1690859791,
+    "wof:lastmodified":1695886439,
     "wof:name":"Tarusskiy",
     "wof:parent_id":85688131,
     "wof:placetype":"county",

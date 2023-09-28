@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.477772,
-    "geom:area_square_m":10054350545.673328,
+    "geom:area_square_m":10054350238.809994,
     "geom:bbox":"84.012569,55.981239,86.214802,57.334104",
     "geom:latitude":56.616551,
     "geom:longitude":85.039061,
@@ -154,16 +154,22 @@
     "wof:concordances":{
         "gp:id":12599403,
         "hasc:id":"RU.TO.TR",
+        "meso:okato_code":"69254000",
+        "meso:oktmo_code":"69654000",
         "qs_pg:id":989720,
         "wd:id":"Q1655468",
         "wk:page":"Tomsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054469,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"052f553dce86335a07179fa979b3b008",
+    "wof:geomhash":"e7b43b9e7f42e0a7076dae99d99b650f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":890483509,
-    "wof:lastmodified":1690859912,
+    "wof:lastmodified":1695886455,
     "wof:name":"Tomskiy",
     "wof:parent_id":85687809,
     "wof:placetype":"county",

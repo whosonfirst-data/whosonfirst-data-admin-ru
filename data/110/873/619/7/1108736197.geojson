@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000514,
-    "geom:area_square_m":3569296.377295,
+    "geom:area_square_m":3569300.368919,
     "geom:bbox":"37.634464,55.826745,37.673788,55.845498",
     "geom:latitude":55.836487,
     "geom:longitude":37.653802,
@@ -80,10 +80,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45280577",
+        "meso:oktmo_code":"45360000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902768,
-    "wof:geomhash":"3522b5f5a722e0160498f8efff357549",
+    "wof:geomhash":"1b3cab4aed8f626fc63d545d00b5ba86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +101,7 @@
         }
     ],
     "wof:id":1108736197,
-    "wof:lastmodified":1627522673,
+    "wof:lastmodified":1695886357,
     "wof:name":"Rostokino",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

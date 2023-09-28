@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002555,
-    "geom:area_square_m":17860486.676721,
+    "geom:area_square_m":17860486.676724,
     "geom:bbox":"37.868976667,55.5477947747,37.969555227,55.60794386",
     "geom:latitude":55.578031,
     "geom:longitude":37.914882,
@@ -167,10 +167,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"46441000",
+        "meso:oktmo_code":"46741000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900817,
-    "wof:geomhash":"ee8da008425b475e94bde62de88614d2",
+    "wof:geomhash":"b9c546512574bbe20231f4c2b7ce2f3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -181,7 +188,7 @@
         }
     ],
     "wof:id":1108733811,
-    "wof:lastmodified":1566627384,
+    "wof:lastmodified":1695886270,
     "wof:name":"Lytkarino",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

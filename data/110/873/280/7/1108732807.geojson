@@ -155,8 +155,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.MR.AS",
+        "meso:okato_code":"89207000",
+        "meso:oktmo_code":"89607000",
         "wd:id":"Q780922"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899889,
     "wof:geomhash":"30a1ea79b77bebd2fe4f7a368dcc357d",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1108732807,
-    "wof:lastmodified":1694639728,
+    "wof:lastmodified":1695886189,
     "wof:name":"Atjashevskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",

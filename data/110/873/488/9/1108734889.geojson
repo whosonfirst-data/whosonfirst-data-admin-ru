@@ -164,8 +164,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.DA.LA",
+        "meso:okato_code":"82232000",
+        "meso:oktmo_code":"82632000",
         "wd:id":"Q1438721"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901754,
     "wof:geomhash":"7821fce39b0eb16eea2a19ca98ff1dad",
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":1108734889,
-    "wof:lastmodified":1694639753,
+    "wof:lastmodified":1695886292,
     "wof:name":"Lakskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

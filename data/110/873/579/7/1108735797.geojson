@@ -119,8 +119,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KR.PE",
+        "meso:okato_code":"30129000",
+        "meso:oktmo_code":"30829000",
         "wd:id":"Q747718"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902463,
     "wof:geomhash":"6b04a9258203f6a29358d1cf519f0417",
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":1108735797,
-    "wof:lastmodified":1694492386,
+    "wof:lastmodified":1695886268,
     "wof:name":"Penzhinskiy",
     "wof:parent_id":85687955,
     "wof:placetype":"county",

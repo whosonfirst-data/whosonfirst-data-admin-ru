@@ -120,8 +120,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.IR.ZR"
+        "hasc:id":"RU.IR.ZR",
+        "meso:okato_code":"25420000",
+        "meso:oktmo_code":"25720000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903903,
     "wof:geomhash":"e535806351fd25cb38d058622cf26e12",
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":1108738229,
-    "wof:lastmodified":1694492928,
+    "wof:lastmodified":1695886734,
     "wof:name":"Zima",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.191045,
-    "geom:area_square_m":1453839624.799789,
+    "geom:area_square_m":1453839487.781934,
     "geom:bbox":"40.886417,51.714108,41.536468,52.287876",
     "geom:latitude":52.016543,
     "geom:longitude":41.176701,
@@ -102,14 +102,20 @@
     "wof:concordances":{
         "gn:id":482496,
         "hasc:id":"RU.TB.TO",
+        "meso:okato_code":"68242000",
+        "meso:oktmo_code":"68642000",
         "qs_pg:id":80514
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054190,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"233b196f5b4f11973f5792b812ba6053",
+    "wof:geomhash":"c666bb1515268b5d994cb73fe252aa47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":890478523,
-    "wof:lastmodified":1642541479,
+    "wof:lastmodified":1695886439,
     "wof:name":"Tokarevskiy",
     "wof:parent_id":85687829,
     "wof:placetype":"county",

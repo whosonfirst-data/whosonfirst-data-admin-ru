@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.268883,
-    "geom:area_square_m":1912270075.706291,
+    "geom:area_square_m":1912269926.481155,
     "geom:bbox":"46.264443,54.632269,47.143187,55.102066",
     "geom:latitude":54.889458,
     "geom:longitude":46.744701,
@@ -136,11 +136,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"97203000",
+        "meso:oktmo_code":"97603000",
         "wd:id":"Q576137"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899773,
-    "wof:geomhash":"7d565efdf1186ec06f30b3cfe66e60c5",
+    "wof:geomhash":"73f75da7308e2ab5b68875dbd99955a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":1108732667,
-    "wof:lastmodified":1690859435,
+    "wof:lastmodified":1695886224,
     "wof:name":"Alatyrskiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",

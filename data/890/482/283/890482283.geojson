@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142863,
-    "geom:area_square_m":971953016.05876,
+    "geom:area_square_m":971952798.521191,
     "geom:bbox":"59.622554,56.301769,60.314025,56.876227",
     "geom:latitude":56.61882,
     "geom:longitude":59.903341,
@@ -121,14 +121,20 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12599333,
+        "meso:okato_code":"65484000",
+        "meso:oktmo_code":"65719000",
         "qs_pg:id":16983
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054411,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6934e7685453cbcd0e751c1283ff58ff",
+    "wof:geomhash":"b13c2bc43c3686bc7ca607381af50d57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":890482283,
-    "wof:lastmodified":1642541487,
+    "wof:lastmodified":1695886448,
     "wof:name":"Revda",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

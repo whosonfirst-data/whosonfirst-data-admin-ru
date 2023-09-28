@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033677,
-    "geom:area_square_m":201418102.981777,
+    "geom:area_square_m":201417633.984705,
     "geom:bbox":"72.40635,60.983208,72.805142,61.145325",
     "geom:latitude":61.073336,
     "geom:longitude":72.580597,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"71134000",
+        "meso:oktmo_code":"71874000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900674,
-    "wof:geomhash":"b564c1fad1bfd2efd31d66c7ed17d7ad",
+    "wof:geomhash":"c41c8831718364de3f47a2aa58997e7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108733653,
-    "wof:lastmodified":1627522635,
+    "wof:lastmodified":1695886310,
     "wof:name":"Neftejugansk",
     "wof:parent_id":85687919,
     "wof:placetype":"county",

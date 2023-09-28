@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NS.ZD",
+        "meso:okato_code":"50213000",
+        "meso:oktmo_code":"50613000",
         "wd:id":"Q919658"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903861,
     "wof:geomhash":"27b0045d418c1feca62b4f356b994ae4",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108737997,
-    "wof:lastmodified":1694639796,
+    "wof:lastmodified":1695886439,
     "wof:name":"Zdvinskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",

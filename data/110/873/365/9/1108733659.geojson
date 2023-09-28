@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.YN.PU"
+        "hasc:id":"RU.YN.PU",
+        "meso:okato_code":"71178000",
+        "meso:oktmo_code":"71958000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900685,
     "wof:geomhash":"577a601172bdb6754ad5cfac1bdd3603",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733659,
-    "wof:lastmodified":1694639761,
+    "wof:lastmodified":1695886316,
     "wof:name":"Nojabr'sk",
     "wof:parent_id":85687931,
     "wof:placetype":"county",

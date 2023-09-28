@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.183305,
-    "geom:area_square_m":1602749089.539547,
+    "geom:area_square_m":1602748877.761488,
     "geom:bbox":"37.451959,44.734292,38.220143,45.188231",
     "geom:latitude":44.999172,
     "geom:longitude":37.895937,
@@ -163,16 +163,22 @@
     "wof:concordances":{
         "gp:id":12597789,
         "hasc:id":"RU.KD.KR",
+        "meso:okato_code":"03225000",
+        "meso:oktmo_code":"03625000",
         "qs_pg:id":57509,
         "wd:id":"Q280458",
         "wk:page":"Krymsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054463,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"274f27ed877481537cc6324c257ad53d",
+    "wof:geomhash":"44f7e118bd0a72e6d4deb856a4c380fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":890483377,
-    "wof:lastmodified":1690859904,
+    "wof:lastmodified":1695886453,
     "wof:name":"Krymskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

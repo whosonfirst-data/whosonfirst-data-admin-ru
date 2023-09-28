@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KE.IZ",
+        "meso:okato_code":"32204000",
+        "meso:oktmo_code":"32604000",
         "wd:id":"Q1652886"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901023,
     "wof:geomhash":"5ebd0fe3a7b06b92add5cae33fc0c30d",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108734053,
-    "wof:lastmodified":1694639742,
+    "wof:lastmodified":1695886251,
     "wof:name":"Izhmorskiy",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

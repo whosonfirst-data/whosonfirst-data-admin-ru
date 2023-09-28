@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AL.TA",
+        "meso:okato_code":"01247000",
+        "meso:oktmo_code":"01647000",
         "wd:id":"Q1822748"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903342,
     "wof:geomhash":"a4b7b1d00f06bdc4a0af7974884955ce",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108736923,
-    "wof:lastmodified":1694639784,
+    "wof:lastmodified":1695886397,
     "wof:name":"Tal'menskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

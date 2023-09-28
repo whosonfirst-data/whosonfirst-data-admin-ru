@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OL.NS",
+        "meso:okato_code":"54243000",
+        "meso:oktmo_code":"54643000",
         "wd:id":"Q2217641"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902254,
     "wof:geomhash":"ca70df6c1c5bd0ff11cc06ac4e3460f7",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108735543,
-    "wof:lastmodified":1694639762,
+    "wof:lastmodified":1695886323,
     "wof:name":"Novosil'skiy",
     "wof:parent_id":85687849,
     "wof:placetype":"county",

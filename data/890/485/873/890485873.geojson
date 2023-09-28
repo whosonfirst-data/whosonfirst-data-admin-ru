@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.216627,
-    "geom:area_square_m":7369429931.765595,
+    "geom:area_square_m":7369430560.417666,
     "geom:bbox":"26.675806,59.92786,30.103272,61.328717",
     "geom:latitude":60.667974,
     "geom:longitude":29.063054,
@@ -174,16 +174,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598668,
+        "meso:okato_code":"41215000",
+        "meso:oktmo_code":"41615000",
         "qs_pg:id":1209300,
         "wd:id":"Q7677",
         "wk:page":"Vyborgsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054581,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dee2b737a84e5875f1ad3a8f57910171",
+    "wof:geomhash":"aa4f148c301518f288c29ad481014d4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,7 +200,7 @@
         }
     ],
     "wof:id":890485873,
-    "wof:lastmodified":1690859820,
+    "wof:lastmodified":1695886441,
     "wof:name":"Vyborgskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",

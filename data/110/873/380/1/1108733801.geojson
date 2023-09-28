@@ -231,8 +231,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.BK.KZ"
+        "hasc:id":"RU.BK.KZ",
+        "meso:okato_code":"80423000",
+        "meso:oktmo_code":"80723000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900811,
     "wof:geomhash":"d8cb864923b4f52258a951162eb152ea",
@@ -246,7 +252,7 @@
         }
     ],
     "wof:id":1108733801,
-    "wof:lastmodified":1694639806,
+    "wof:lastmodified":1695886734,
     "wof:name":"Kumertau",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

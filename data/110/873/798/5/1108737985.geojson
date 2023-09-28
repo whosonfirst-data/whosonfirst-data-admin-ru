@@ -174,8 +174,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.TY.ZR"
+        "hasc:id":"RU.TY.ZR",
+        "meso:okato_code":"71222000",
+        "meso:oktmo_code":"71703000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903858,
     "wof:geomhash":"a275503954ca3f95979682e66f39733a",
@@ -189,7 +195,7 @@
         }
     ],
     "wof:id":1108737985,
-    "wof:lastmodified":1694639682,
+    "wof:lastmodified":1695886218,
     "wof:name":"Zavodoukovsk",
     "wof:parent_id":85687831,
     "wof:placetype":"county",

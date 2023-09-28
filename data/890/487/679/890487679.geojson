@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.464235,
-    "geom:area_square_m":13590077308.970383,
+    "geom:area_square_m":13590077627.361624,
     "geom:bbox":"51.859718,62.587221,55.006285,64.484838",
     "geom:latitude":63.511282,
     "geom:longitude":53.362108,
@@ -263,14 +263,20 @@
     "wof:concordances":{
         "gp:id":12597459,
         "hasc:id":"RU.KO.UA",
+        "meso:okato_code":"87425000",
+        "meso:oktmo_code":"87725000",
         "qs_pg:id":262789
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054686,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9991c33fd0bfa08526550e15cfbc687a",
+    "wof:geomhash":"8bfa2f2b049c8a2bd18a71e2988749ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -281,7 +287,7 @@
         }
     ],
     "wof:id":890487679,
-    "wof:lastmodified":1642541522,
+    "wof:lastmodified":1695886484,
     "wof:name":"Ukhta",
     "wof:parent_id":85688077,
     "wof:placetype":"county",

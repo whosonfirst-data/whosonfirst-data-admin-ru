@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NZ.KV",
+        "meso:okato_code":"22234000",
+        "meso:oktmo_code":"22634000",
         "wd:id":"Q1652762"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901517,
     "wof:geomhash":"fb9b913dcfdff38f161ccfde860197e8",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108734635,
-    "wof:lastmodified":1694639749,
+    "wof:lastmodified":1695886278,
     "wof:name":"Koverninskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.392481,
-    "geom:area_square_m":2780143233.127383,
+    "geom:area_square_m":2780143443.984922,
     "geom:bbox":"57.132103,54.649768,58.139824,55.337351",
     "geom:latitude":55.050022,
     "geom:longitude":57.572952,
@@ -172,16 +172,22 @@
     "wof:concordances":{
         "gp:id":12598112,
         "hasc:id":"RU.CL.AR",
+        "meso:okato_code":"75209000",
+        "meso:oktmo_code":"75609000",
         "qs_pg:id":57521,
         "wd:id":"Q1192829",
         "wk:page":"Ashinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054561,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"94687dfe4021e02e6871a34db4e172b0",
+    "wof:geomhash":"7323211efa087b7f1090cb5eeb51b02b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -192,7 +198,7 @@
         }
     ],
     "wof:id":890485449,
-    "wof:lastmodified":1690859819,
+    "wof:lastmodified":1695886440,
     "wof:name":"Ashinskiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

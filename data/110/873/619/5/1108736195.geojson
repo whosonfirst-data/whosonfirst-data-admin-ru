@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002805,
-    "geom:area_square_m":19539401.902225,
+    "geom:area_square_m":19539469.734206,
     "geom:bbox":"37.469367,55.679501,37.553344,55.735656",
     "geom:latitude":55.706593,
     "geom:longitude":37.513435,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45268584",
+        "meso:oktmo_code":"45325000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902767,
-    "wof:geomhash":"181ec880760f01eae946a370560e163f",
+    "wof:geomhash":"83fd6adc57b17c80c6db1bfe0f43b21e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108736195,
-    "wof:lastmodified":1627522670,
+    "wof:lastmodified":1695886354,
     "wof:name":"Ramenki",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

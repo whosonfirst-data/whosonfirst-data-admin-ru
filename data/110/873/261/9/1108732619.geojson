@@ -155,8 +155,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KD.OT",
+        "meso:okato_code":"91203000",
+        "meso:oktmo_code":"91603000",
         "wd:id":"Q503922"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899725,
     "wof:geomhash":"8084f38c052bbda6fc811d764ad71005",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1108732619,
-    "wof:lastmodified":1694639725,
+    "wof:lastmodified":1695886176,
     "wof:name":"Adyge-Khabl'skiy",
     "wof:parent_id":85687913,
     "wof:placetype":"county",

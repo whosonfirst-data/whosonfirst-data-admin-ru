@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.281987,
-    "geom:area_square_m":2392753519.018102,
+    "geom:area_square_m":2392753739.455682,
     "geom:bbox":"142.675931,46.022057,143.617035,47.150999",
     "geom:latitude":46.667441,
     "geom:longitude":143.185961,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"64216000",
+        "meso:oktmo_code":"64716000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901493,
-    "wof:geomhash":"9a2e6a53aa60d5b275578acd1e3df1f8",
+    "wof:geomhash":"0c7832cdeece7799f5d9fc0a90291e93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108734599,
-    "wof:lastmodified":1627522604,
+    "wof:lastmodified":1695886276,
     "wof:name":"Korsakovskiy",
     "wof:parent_id":85688125,
     "wof:placetype":"county",

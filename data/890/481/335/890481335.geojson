@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063905,
-    "geom:area_square_m":339166716.996,
+    "geom:area_square_m":339166903.58711,
     "geom:bbox":"40.28415,64.393877,40.807638,64.788576",
     "geom:latitude":64.582012,
     "geom:longitude":40.570416,
@@ -91,14 +91,20 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598009,
+        "meso:okato_code":"11401000",
+        "meso:oktmo_code":"11701000",
         "qs_pg:id":363049
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054353,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c2ac51bc4df7c22b2f30908fc49ad956",
+    "wof:geomhash":"4a56a551c71b92eb4c990d4e30ff9b1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":890481335,
-    "wof:lastmodified":1642541511,
+    "wof:lastmodified":1695886473,
     "wof:name":"Arkhangel'sk",
     "wof:parent_id":85687971,
     "wof:placetype":"county",

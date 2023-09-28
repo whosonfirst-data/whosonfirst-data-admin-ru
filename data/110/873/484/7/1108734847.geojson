@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CL.KU",
+        "meso:okato_code":"75238000",
+        "meso:oktmo_code":"75638000",
         "wd:id":"Q1653119"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901719,
     "wof:geomhash":"713b87c62b7e3cd7dba5518322d57b39",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108734847,
-    "wof:lastmodified":1694639683,
+    "wof:lastmodified":1695886222,
     "wof:name":"Kusinskiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

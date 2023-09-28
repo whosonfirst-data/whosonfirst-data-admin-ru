@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.25619,
-    "geom:area_square_m":1671016437.940816,
+    "geom:area_square_m":1671016475.390231,
     "geom:bbox":"60.344648,57.852884,61.253889,58.482558",
     "geom:latitude":58.163589,
     "geom:longitude":60.756054,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"65211000",
+        "meso:oktmo_code":"65708000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903707,
-    "wof:geomhash":"25674238c0e01924dea9f50c4ebaaec2",
+    "wof:geomhash":"027d94b5abdd3a58b439bc0f0ac04a9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108737347,
-    "wof:lastmodified":1627522724,
+    "wof:lastmodified":1695886422,
     "wof:name":"Verkhnesaldinskiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

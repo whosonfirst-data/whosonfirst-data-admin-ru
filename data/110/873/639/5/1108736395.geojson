@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TT.SR",
+        "meso:okato_code":"92253000",
+        "meso:oktmo_code":"92653000",
         "wd:id":"Q2219972"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902921,
     "wof:geomhash":"018ef9dffdb38c43cc173ac915b32001",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108736395,
-    "wof:lastmodified":1694639775,
+    "wof:lastmodified":1695886363,
     "wof:name":"Sarmanovskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001731,
-    "geom:area_square_m":12019965.710516,
+    "geom:area_square_m":12019958.720279,
     "geom:bbox":"37.532243,55.802189,37.58177,55.855625",
     "geom:latitude":55.828071,
     "geom:longitude":37.557919,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45277592",
+        "meso:oktmo_code":"45346000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903434,
-    "wof:geomhash":"6022783853b0ce8bd125ee85b68d9890",
+    "wof:geomhash":"45bc382f0e68c1186373afecee95d544",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108737015,
-    "wof:lastmodified":1627522710,
+    "wof:lastmodified":1695886407,
     "wof:name":"Timirjazevskiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

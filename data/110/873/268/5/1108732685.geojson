@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OB.AL",
+        "meso:okato_code":"53206000",
+        "meso:oktmo_code":"53606000",
         "wd:id":"Q1650971"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899786,
     "wof:geomhash":"285ef090b4e46cb2d976380705a57786",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108732685,
-    "wof:lastmodified":1694639726,
+    "wof:lastmodified":1695886179,
     "wof:name":"Aleksandrovskiy",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

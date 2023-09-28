@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PS.PL",
+        "meso:okato_code":"58243000",
+        "meso:oktmo_code":"58643000",
         "wd:id":"Q2706869"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902536,
     "wof:geomhash":"1d25cf96d971f023e8c14c5e35300b42",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108735891,
-    "wof:lastmodified":1694639770,
+    "wof:lastmodified":1695886345,
     "wof:name":"Pljusskiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074566,
-    "geom:area_square_m":534696196.246649,
+    "geom:area_square_m":534696471.026682,
     "geom:bbox":"35.987197,54.364639,36.408689,54.725631",
     "geom:latitude":54.555549,
     "geom:longitude":36.226805,
@@ -150,16 +150,22 @@
     "wof:concordances":{
         "gp:id":12598397,
         "hasc:id":"RU.KG.KA",
+        "meso:okato_code":"29401000",
+        "meso:oktmo_code":"29701000",
         "qs_pg:id":1240402,
         "wd:id":"Q1654633",
         "wk:page":"Peremyshlsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054583,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c40a33a06da456f6c266f891306edb0f",
+    "wof:geomhash":"a6eb661b13edb2df09dc33bd0478e6d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":890485909,
-    "wof:lastmodified":1690859813,
+    "wof:lastmodified":1695886440,
     "wof:name":"Kaluga",
     "wof:parent_id":85688131,
     "wof:placetype":"county",

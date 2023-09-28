@@ -116,8 +116,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.IR.MA",
+        "meso:okato_code":"25224000",
+        "meso:oktmo_code":"25624000",
         "wd:id":"Q1653076"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901872,
     "wof:geomhash":"61065d784a7c7d2f943fe4f5f2b7861d",
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":1108735049,
-    "wof:lastmodified":1694492749,
+    "wof:lastmodified":1695886299,
     "wof:name":"Mamsko-Chujskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

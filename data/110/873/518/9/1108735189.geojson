@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SM.MO",
+        "meso:okato_code":"66227000",
+        "meso:oktmo_code":"66627000",
         "wd:id":"Q2708279"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901994,
     "wof:geomhash":"3ed827e47ff8328b220b039c04423ca6",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108735189,
-    "wof:lastmodified":1694639758,
+    "wof:lastmodified":1695886305,
     "wof:name":"Monastyrshhinskiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.2586,
-    "geom:area_square_m":1821427367.436691,
+    "geom:area_square_m":1821427761.278095,
     "geom:bbox":"50.284771,55.031979,51.248646,55.498809",
     "geom:latitude":55.276397,
     "geom:longitude":50.719863,
@@ -142,11 +142,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"92259000",
+        "meso:oktmo_code":"92659000",
         "wd:id":"Q2670318"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900336,
-    "wof:geomhash":"e327f7521e78cf845a9c1325b6431c97",
+    "wof:geomhash":"75507ee0fdf4b5dda05d03a1f1e0cfc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":1108733279,
-    "wof:lastmodified":1690859692,
+    "wof:lastmodified":1695886401,
     "wof:name":"Chistopol'skiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

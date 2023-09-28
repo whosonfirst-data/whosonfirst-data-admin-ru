@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AL.KS",
+        "meso:okato_code":"01218000",
+        "meso:oktmo_code":"01618000",
         "wd:id":"Q1654174"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901499,
     "wof:geomhash":"e997e4c87120e2dabfdcc25ee691eb55",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108734607,
-    "wof:lastmodified":1694639749,
+    "wof:lastmodified":1695886276,
     "wof:name":"Kosikhinskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

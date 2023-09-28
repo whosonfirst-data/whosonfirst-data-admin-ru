@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005887,
-    "geom:area_square_m":40832608.25935,
+    "geom:area_square_m":40832686.684341,
     "geom:bbox":"38.742867,55.846037,38.86177,55.913401",
     "geom:latitude":55.878509,
     "geom:longitude":38.798133,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"46245000",
+        "meso:oktmo_code":"46791000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900767,
-    "wof:geomhash":"f256d9b11697faaddba7bfd3984b25c5",
+    "wof:geomhash":"18f23d4b99b83c87b8b4e47a00b9fb63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108733739,
-    "wof:lastmodified":1627522566,
+    "wof:lastmodified":1695886232,
     "wof:name":"Ehlektrogorsk",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

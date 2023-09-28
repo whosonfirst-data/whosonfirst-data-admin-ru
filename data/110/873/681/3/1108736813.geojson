@@ -170,8 +170,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BK.SB",
+        "meso:okato_code":"80248000",
+        "meso:oktmo_code":"80648000",
         "wd:id":"Q1192889"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903249,
     "wof:geomhash":"7facdf789cab7165b2dd51ffb37e04c3",
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":1108736813,
-    "wof:lastmodified":1694639783,
+    "wof:lastmodified":1695886387,
     "wof:name":"Sterlibashevskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

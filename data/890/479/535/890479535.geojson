@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.272834,
-    "geom:area_square_m":2100190249.62348,
+    "geom:area_square_m":2100190363.821063,
     "geom:bbox":"45.309847,51.184585,46.372893,51.896745",
     "geom:latitude":51.498793,
     "geom:longitude":45.808801,
@@ -149,15 +149,21 @@
     "wof:concordances":{
         "gn:id":498661,
         "gp:id":12599252,
+        "meso:okato_code":"63243000",
+        "meso:oktmo_code":"63643000",
         "qs_pg:id":80607,
         "wd:id":"Q1504872"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054249,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"017ee1c7056666c1e864cffeb1fcdb60",
+    "wof:geomhash":"365cfacda7e8f56f5875f53c15973ba8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":890479535,
-    "wof:lastmodified":1690859958,
+    "wof:lastmodified":1695886467,
     "wof:name":"Saratovskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

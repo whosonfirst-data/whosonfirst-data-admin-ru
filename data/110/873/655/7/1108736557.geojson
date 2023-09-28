@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SA.SH",
+        "meso:okato_code":"36248000",
+        "meso:oktmo_code":"36648000",
         "wd:id":"Q2218995"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903050,
     "wof:geomhash":"ae320d2153b9eea1198a9a640c76e83f",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108736557,
-    "wof:lastmodified":1694639778,
+    "wof:lastmodified":1695886373,
     "wof:name":"Shentalinskiy",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

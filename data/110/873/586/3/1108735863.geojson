@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NZ.PI",
+        "meso:okato_code":"22245000",
+        "meso:oktmo_code":"22645000",
         "wd:id":"Q1654652"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902511,
     "wof:geomhash":"cdf16acea79f7e61417cbbdef0dc781d",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108735863,
-    "wof:lastmodified":1694639770,
+    "wof:lastmodified":1695886343,
     "wof:name":"Pil'ninskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

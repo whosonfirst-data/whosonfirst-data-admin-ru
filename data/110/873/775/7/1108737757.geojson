@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BR.VY",
+        "meso:okato_code":"15210000",
+        "meso:oktmo_code":"15610000",
         "wd:id":"Q2534501"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903803,
     "wof:geomhash":"7a3df6f99fdf0e38e5644515202ae4ec",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108737757,
-    "wof:lastmodified":1694639794,
+    "wof:lastmodified":1695886429,
     "wof:name":"Vygonichskiy",
     "wof:parent_id":85688121,
     "wof:placetype":"county",

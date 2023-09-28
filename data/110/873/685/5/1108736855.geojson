@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.MG.SU"
+        "hasc:id":"RU.MG.SU",
+        "meso:okato_code":"44213000",
+        "meso:oktmo_code":"44613000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903285,
     "wof:geomhash":"34aa42090b5dbd41a16cc49f385f26a6",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108736855,
-    "wof:lastmodified":1694639781,
+    "wof:lastmodified":1695886383,
     "wof:name":"Susumanskiy",
     "wof:parent_id":85687881,
     "wof:placetype":"county",

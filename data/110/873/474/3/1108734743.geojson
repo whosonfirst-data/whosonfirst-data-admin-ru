@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NS.KZ",
+        "meso:okato_code":"50227000",
+        "meso:oktmo_code":"50627000",
         "wd:id":"Q852063"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901619,
     "wof:geomhash":"d512e162556a4c9ccded7812a1c0b1e3",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108734743,
-    "wof:lastmodified":1694639751,
+    "wof:lastmodified":1695886284,
     "wof:name":"Krasnozjorskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",

@@ -164,8 +164,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.DA.KT",
+        "meso:okato_code":"82236000",
+        "meso:oktmo_code":"82636000",
         "wd:id":"Q1438433"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901663,
     "wof:geomhash":"c5ef681d1585d8008d9b81afd6b65cee",
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":1108734797,
-    "wof:lastmodified":1694639752,
+    "wof:lastmodified":1695886288,
     "wof:name":"Kumtorkalinskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

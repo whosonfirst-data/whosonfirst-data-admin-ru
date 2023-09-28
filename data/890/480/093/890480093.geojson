@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.228065,
-    "geom:area_square_m":1579258001.850276,
+    "geom:area_square_m":1579258204.365155,
     "geom:bbox":"53.703743,55.682922,54.71564,56.243441",
     "geom:latitude":55.943618,
     "geom:longitude":54.233089,
@@ -181,16 +181,22 @@
     "wof:concordances":{
         "gp:id":12599042,
         "hasc:id":"RU.BK.KR",
+        "meso:okato_code":"80237000",
+        "meso:oktmo_code":"80637000",
         "qs_pg:id":1209316,
         "wd:id":"Q2281998",
         "wk:page":"Krasnokamsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054283,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b0bdb962db9b4bb170d200cdfbc8cdc0",
+    "wof:geomhash":"bff3eb51cb79d8d36c78ccb87aae1726",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,7 +207,7 @@
         }
     ],
     "wof:id":890480093,
-    "wof:lastmodified":1690860149,
+    "wof:lastmodified":1695886282,
     "wof:name":"Krasnokamskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

@@ -119,8 +119,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KR.OL",
+        "meso:okato_code":"30127000",
+        "meso:oktmo_code":"30827000",
         "wd:id":"Q690756"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902362,
     "wof:geomhash":"26efd6599618cc56c19fbd42328d49b8",
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":1108735669,
-    "wof:lastmodified":1694492380,
+    "wof:lastmodified":1695886216,
     "wof:name":"Oljutorskiy",
     "wof:parent_id":85687955,
     "wof:placetype":"county",

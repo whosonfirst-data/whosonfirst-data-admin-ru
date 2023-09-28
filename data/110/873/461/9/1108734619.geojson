@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004901,
-    "geom:area_square_m":31841379.218864,
+    "geom:area_square_m":31841455.423012,
     "geom:bbox":"48.268771,58.251815,48.389667,58.336836",
     "geom:latitude":58.305168,
     "geom:longitude":48.324038,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"33410000",
+        "meso:oktmo_code":"33710000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901507,
-    "wof:geomhash":"d49fc746b8d543d9e7e012106bc3eaf7",
+    "wof:geomhash":"e99d277cf972f457cc14796fc348f0a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108734619,
-    "wof:lastmodified":1627522605,
+    "wof:lastmodified":1695886277,
     "wof:name":"Kotel'nich",
     "wof:parent_id":85687903,
     "wof:placetype":"county",

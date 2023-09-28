@@ -135,9 +135,15 @@
     "wof:concordances":{
         "gp:id":12598299,
         "hasc:id":"RU.IV.IG",
+        "meso:okato_code":"24401000",
+        "meso:oktmo_code":"24701000",
         "qs_pg:id":1311574,
         "wk:page":"Yuryevetsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054308,
     "wof:geom_alt":[
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":890480459,
-    "wof:lastmodified":1694639808,
+    "wof:lastmodified":1695886493,
     "wof:name":"Ivanovo",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

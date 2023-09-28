@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KV.BE",
+        "meso:okato_code":"33205000",
+        "meso:oktmo_code":"33605000",
         "wd:id":"Q2220446"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900031,
     "wof:geomhash":"bb2d55204e161bd229881922ec18b14e",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108732951,
-    "wof:lastmodified":1694639730,
+    "wof:lastmodified":1695886197,
     "wof:name":"Belokholunickij",
     "wof:parent_id":85687903,
     "wof:placetype":"county",

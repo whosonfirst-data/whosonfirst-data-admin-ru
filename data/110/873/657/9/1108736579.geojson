@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002663,
-    "geom:area_square_m":20219202.679017,
+    "geom:area_square_m":20219202.679012,
     "geom:bbox":"47.1303539451,52.0872423943,47.2263782539,52.1384711544",
     "geom:latitude":52.114401,
     "geom:longitude":47.179135,
@@ -161,10 +161,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"63545000",
+        "meso:oktmo_code":"63746000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903063,
-    "wof:geomhash":"fd0fe48de3cb2d2c745e04e7da34e97a",
+    "wof:geomhash":"33b3e5d8f065f24d49416572a6f45ee8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,7 +182,7 @@
         }
     ],
     "wof:id":1108736579,
-    "wof:lastmodified":1566627032,
+    "wof:lastmodified":1695886229,
     "wof:name":"Shikhany",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

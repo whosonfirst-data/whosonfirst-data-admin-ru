@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KD.KI",
+        "meso:okato_code":"03219000",
+        "meso:oktmo_code":"03619000",
         "wd:id":"Q918198"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901164,
     "wof:geomhash":"a8e4e1342659109f05597f957e899d7f",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108734203,
-    "wof:lastmodified":1694639743,
+    "wof:lastmodified":1695886255,
     "wof:name":"Kalininskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

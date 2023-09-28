@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000562,
-    "geom:area_square_m":3900223.367501,
+    "geom:area_square_m":3900179.216218,
     "geom:bbox":"37.615917,55.862464,37.652264,55.890267",
     "geom:latitude":55.875851,
     "geom:longitude":37.633392,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45280594",
+        "meso:oktmo_code":"45364000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902696,
-    "wof:geomhash":"0a5d569d6a1b7ad3ddbe489ae373a148",
+    "wof:geomhash":"8a9895d5365ca43ff0a4b416763bdc27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108736101,
-    "wof:lastmodified":1627522579,
+    "wof:lastmodified":1695886250,
     "wof:name":"Juzhnoe Medvedkovo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AL.SP",
+        "meso:okato_code":"01259000",
+        "meso:oktmo_code":"01659000",
         "wd:id":"Q1822618"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903072,
     "wof:geomhash":"f935103877dcb3280ca80d8e0f3e80d5",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108736591,
-    "wof:lastmodified":1694639779,
+    "wof:lastmodified":1695886375,
     "wof:name":"Shipunovskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

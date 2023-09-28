@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.MR.KS",
+        "meso:okato_code":"89234000",
+        "meso:oktmo_code":"89634000",
         "wd:id":"Q857821"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901613,
     "wof:geomhash":"f507ac6e205eaaa1a2de810780c29a9b",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108734735,
-    "wof:lastmodified":1694639751,
+    "wof:lastmodified":1695886284,
     "wof:name":"Krasnoslobodskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",

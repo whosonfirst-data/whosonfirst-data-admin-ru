@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.YS.GA",
+        "meso:okato_code":"78212000",
+        "meso:oktmo_code":"78612000",
         "wd:id":"Q384577"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900582,
     "wof:geomhash":"b11b63b696fe8bd92d0854badda005af",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108733565,
-    "wof:lastmodified":1694639739,
+    "wof:lastmodified":1695886236,
     "wof:name":"Gavrilov-JAmskiy",
     "wof:parent_id":85687959,
     "wof:placetype":"county",

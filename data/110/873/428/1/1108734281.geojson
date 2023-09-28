@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NS.KA",
+        "meso:okato_code":"50219000",
+        "meso:oktmo_code":"50619000",
         "wd:id":"Q552977"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901229,
     "wof:geomhash":"cdcc6a2c696f0e9dc24b437487cd453c",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108734281,
-    "wof:lastmodified":1694639744,
+    "wof:lastmodified":1695886259,
     "wof:name":"Kargatskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",

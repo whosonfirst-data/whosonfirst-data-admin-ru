@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.LP.LR",
+        "meso:okato_code":"42240000",
+        "meso:oktmo_code":"42640000",
         "wd:id":"Q2263898"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901797,
     "wof:geomhash":"e74a8d7c0d6a85e824073b906b2ee781",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108734951,
-    "wof:lastmodified":1694639754,
+    "wof:lastmodified":1695886296,
     "wof:name":"Lipeckij",
     "wof:parent_id":85687917,
     "wof:placetype":"county",

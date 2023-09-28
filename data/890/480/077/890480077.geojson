@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004697,
-    "geom:area_square_m":33381480.380835,
+    "geom:area_square_m":33381480.380828,
     "geom:bbox":"37.34975,54.889217,37.468565,54.953711",
     "geom:latitude":54.918479,
     "geom:longitude":37.409363,
@@ -152,10 +152,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598775,
+        "meso:okato_code":"46470000",
+        "meso:oktmo_code":"46770000",
         "qs_pg:id":1209308,
         "wd:id":"Q2709592",
         "wk:page":"Serpukhovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:coterminous":[
         102003605
     ],
@@ -164,7 +170,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6fa63f1b4810e20a07450058c910a1c4",
+    "wof:geomhash":"e62ead5f7b19008b0470351ea65ab703",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,7 +181,7 @@
         }
     ],
     "wof:id":890480077,
-    "wof:lastmodified":1690860122,
+    "wof:lastmodified":1695886486,
     "wof:name":"Serpukhov",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

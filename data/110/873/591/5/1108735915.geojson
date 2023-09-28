@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.29207,
-    "geom:area_square_m":2138360041.101974,
+    "geom:area_square_m":2138359581.50043,
     "geom:bbox":"51.490279,53.343865,52.380362,53.988154",
     "geom:latitude":53.693917,
     "geom:longitude":51.962183,
@@ -127,11 +127,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"36234000",
+        "meso:oktmo_code":"36634000",
         "wd:id":"Q2219015"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902551,
-    "wof:geomhash":"46a57cb1d213f8caecd553e4dd9bf336",
+    "wof:geomhash":"988e47974f7d1c329ad7bf1e10548262",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":1108735915,
-    "wof:lastmodified":1690859575,
+    "wof:lastmodified":1695886346,
     "wof:name":"Pokhvistnevskiy",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

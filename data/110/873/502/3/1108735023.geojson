@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KU.MA",
+        "meso:okato_code":"37220000",
+        "meso:oktmo_code":"37620000",
         "wd:id":"Q1753215"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901855,
     "wof:geomhash":"864a55247f18bb39afd3cfff336b9a5e",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108735023,
-    "wof:lastmodified":1694639755,
+    "wof:lastmodified":1695886298,
     "wof:name":"Makushinskiy",
     "wof:parent_id":85688157,
     "wof:placetype":"county",

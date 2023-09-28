@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.048144,
-    "geom:area_square_m":6225318153.504219,
+    "geom:area_square_m":6225318011.456493,
     "geom:bbox":"45.338156,60.841873,47.840952,61.813382",
     "geom:latitude":61.292839,
     "geom:longitude":46.764967,
@@ -139,11 +139,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"11227000",
+        "meso:oktmo_code":"11627000",
         "wd:id":"Q2601494"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901513,
-    "wof:geomhash":"b73b1d7740cfe524ab87d74e242325e6",
+    "wof:geomhash":"173957381dc53723f9ef684403477c0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":1108734627,
-    "wof:lastmodified":1690859482,
+    "wof:lastmodified":1695886230,
     "wof:name":"Kotlasskiy",
     "wof:parent_id":85687971,
     "wof:placetype":"county",

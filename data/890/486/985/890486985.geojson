@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039734,
-    "geom:area_square_m":232714407.845353,
+    "geom:area_square_m":232714221.236266,
     "geom:bbox":"50.612964,61.615382,51.022884,61.881813",
     "geom:latitude":61.728691,
     "geom:longitude":50.808496,
@@ -135,15 +135,21 @@
     "wof:concordances":{
         "gp:id":12597455,
         "hasc:id":"RU.KO.SY",
+        "meso:okato_code":"87401000",
+        "meso:oktmo_code":"87701000",
         "qs_pg:id":220115,
         "wk:page":"Gaynsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054649,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"83ddb97d4d3bdb954482404a7e0769cf",
+    "wof:geomhash":"7113ee0264c162ae54565f7071344cab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":890486985,
-    "wof:lastmodified":1642541515,
+    "wof:lastmodified":1695886477,
     "wof:name":"Syktyvkar",
     "wof:parent_id":85688077,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001057,
-    "geom:area_square_m":7358957.448804,
+    "geom:area_square_m":7358949.392697,
     "geom:bbox":"37.689319,55.716582,37.759027,55.745337",
     "geom:latitude":55.730948,
     "geom:longitude":37.721949,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45290578",
+        "meso:oktmo_code":"45392000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902150,
-    "wof:geomhash":"a967ee69c156416c4f5c5593934dfdf3",
+    "wof:geomhash":"8a25ff06efe75ad40ebd5e64c88af018",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108735379,
-    "wof:lastmodified":1627522638,
+    "wof:lastmodified":1695886314,
     "wof:name":"Nizheskiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

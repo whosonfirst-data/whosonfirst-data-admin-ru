@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NZ.BM",
+        "meso:okato_code":"22210000",
+        "meso:oktmo_code":"22610000",
         "wd:id":"Q3266281"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900149,
     "wof:geomhash":"83504b3c2da014725c061ecb5ecf13a1",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108733069,
-    "wof:lastmodified":1694639731,
+    "wof:lastmodified":1695886203,
     "wof:name":"Bol'shemurashkinskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

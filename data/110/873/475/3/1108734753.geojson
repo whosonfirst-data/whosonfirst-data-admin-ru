@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TO.KS",
+        "meso:okato_code":"69236000",
+        "meso:oktmo_code":"69636000",
         "wd:id":"Q2217574"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901626,
     "wof:geomhash":"7f509781fcddb0109bf34d09947c47f1",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108734753,
-    "wof:lastmodified":1694639751,
+    "wof:lastmodified":1695886286,
     "wof:name":"Krivosheinskiy",
     "wof:parent_id":85687809,
     "wof:placetype":"county",

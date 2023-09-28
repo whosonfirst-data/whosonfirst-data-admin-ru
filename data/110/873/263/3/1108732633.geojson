@@ -201,8 +201,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.TU.BK"
+        "hasc:id":"RU.TU.BK",
+        "meso:okato_code":"93403000",
+        "meso:oktmo_code":"93703000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899739,
     "wof:geomhash":"03b6ad5b7e4adbc26dca5a811eb02793",
@@ -216,7 +222,7 @@
         }
     ],
     "wof:id":1108732633,
-    "wof:lastmodified":1694639687,
+    "wof:lastmodified":1695886263,
     "wof:name":"Ak-Dovurak",
     "wof:parent_id":85688039,
     "wof:placetype":"county",

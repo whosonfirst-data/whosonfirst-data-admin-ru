@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.231703,
-    "geom:area_square_m":1532719175.759819,
+    "geom:area_square_m":1532719035.583903,
     "geom:bbox":"54.835287,57.378843,55.554044,57.924066",
     "geom:latitude":57.657932,
     "geom:longitude":55.213536,
@@ -157,16 +157,22 @@
     "wof:concordances":{
         "gp:id":12599053,
         "hasc:id":"RU.PE.OK",
+        "meso:okato_code":"57242000",
+        "meso:oktmo_code":"57642000",
         "qs_pg:id":1017279,
         "wd:id":"Q1029303",
         "wk:page":"Okhansky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054477,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ca7d721aa5c13f143585e3b176fd0803",
+    "wof:geomhash":"644639edfbc1c5c2b8a1fa69209de730",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":890483683,
-    "wof:lastmodified":1690859917,
+    "wof:lastmodified":1695886457,
     "wof:name":"Okhanskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

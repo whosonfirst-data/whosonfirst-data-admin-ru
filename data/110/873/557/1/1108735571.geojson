@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.YN.NR"
+        "hasc:id":"RU.YN.NR",
+        "meso:okato_code":"71176000",
+        "meso:oktmo_code":"71956000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902279,
     "wof:geomhash":"cc825b9a5c6de619a0bb951a38cdf01e",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735571,
-    "wof:lastmodified":1694639763,
+    "wof:lastmodified":1695886323,
     "wof:name":"Novyj Urengoj",
     "wof:parent_id":85687931,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.97323,
-    "geom:area_square_m":6011804488.255677,
+    "geom:area_square_m":6011803942.925189,
     "geom:bbox":"36.385333,59.613242,38.116716,60.568261",
     "geom:latitude":60.028795,
     "geom:longitude":37.206533,
@@ -157,16 +157,22 @@
     "wof:concordances":{
         "gp:id":12599592,
         "hasc:id":"RU.VO.BE",
+        "meso:okato_code":"19210000",
+        "meso:oktmo_code":"19610000",
         "qs_pg:id":57787,
         "wd:id":"Q1772048",
         "wk:page":"Belozersky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054517,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6bb6de056e2135e8b98bed14c6ed9c7f",
+    "wof:geomhash":"5c214b002da59071b1c87789da4f9162",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":890484519,
-    "wof:lastmodified":1690859938,
+    "wof:lastmodified":1695886462,
     "wof:name":"Belozerskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",

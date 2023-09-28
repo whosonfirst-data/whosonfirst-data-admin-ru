@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NG.MV",
+        "meso:okato_code":"49220000",
+        "meso:oktmo_code":"49620000",
         "wd:id":"Q1140755"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901866,
     "wof:geomhash":"c128ba0688f5d75bdfd8031562b2833b",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108735039,
-    "wof:lastmodified":1694639756,
+    "wof:lastmodified":1695886299,
     "wof:name":"Malovisherskiy",
     "wof:parent_id":85688095,
     "wof:placetype":"county",

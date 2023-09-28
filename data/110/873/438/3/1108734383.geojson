@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KS.KH",
+        "meso:okato_code":"38246000",
+        "meso:oktmo_code":"38646000",
         "wd:id":"Q728268"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901305,
     "wof:geomhash":"2cf67db109083fea6d42ac72b53ba061",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108734383,
-    "wof:lastmodified":1694639746,
+    "wof:lastmodified":1695886266,
     "wof:name":"Khomutovskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

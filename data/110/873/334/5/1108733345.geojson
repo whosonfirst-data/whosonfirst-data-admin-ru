@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.LP.DR"
+        "hasc:id":"RU.LP.DR",
+        "meso:okato_code":"42209000",
+        "meso:oktmo_code":"42609000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900387,
     "wof:geomhash":"d0555fac46d9bb65298370f9f0f9f577",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733345,
-    "wof:lastmodified":1694639735,
+    "wof:lastmodified":1695886221,
     "wof:name":"Dankovskiy",
     "wof:parent_id":85687917,
     "wof:placetype":"county",

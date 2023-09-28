@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PZ.KK",
+        "meso:okato_code":"56231000",
+        "meso:oktmo_code":"56631000",
         "wd:id":"Q1653111"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901188,
     "wof:geomhash":"98a6ac4e5353aa6e2b5184de8279add8",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108734233,
-    "wof:lastmodified":1694639743,
+    "wof:lastmodified":1695886257,
     "wof:name":"Kameshkirskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",

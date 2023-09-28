@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.05362,
-    "geom:area_square_m":7225485186.541586,
+    "geom:area_square_m":7225484872.281754,
     "geom:bbox":"91.640581,55.672548,93.536733,56.929568",
     "geom:latitude":56.316209,
     "geom:longitude":92.346429,
@@ -127,11 +127,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"04214000",
+        "meso:oktmo_code":"04614000",
         "wd:id":"Q575472"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900520,
-    "wof:geomhash":"905f7e8b9750e5ab560a8f36c3e6b2a9",
+    "wof:geomhash":"178125c45339abee613cc077d6e242c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":1108733497,
-    "wof:lastmodified":1690859512,
+    "wof:lastmodified":1695886232,
     "wof:name":"Emel'janovskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

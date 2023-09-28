@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KV.PO",
+        "meso:okato_code":"33232000",
+        "meso:oktmo_code":"33632000",
         "wd:id":"Q2218017"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902546,
     "wof:geomhash":"6851185b3a6dda67bcd48323d9af1477",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108735905,
-    "wof:lastmodified":1694639771,
+    "wof:lastmodified":1695886345,
     "wof:name":"Podosinovskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",

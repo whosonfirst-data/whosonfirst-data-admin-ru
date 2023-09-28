@@ -155,8 +155,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.ST.KI",
+        "meso:okato_code":"07225000",
+        "meso:oktmo_code":"07625000",
         "wd:id":"Q934566"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901372,
     "wof:geomhash":"827a610908961d7913396c33d5368627",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1108734455,
-    "wof:lastmodified":1694639747,
+    "wof:lastmodified":1695886269,
     "wof:name":"Kirovskiy",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

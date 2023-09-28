@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TT.KK",
+        "meso:okato_code":"92233000",
+        "meso:oktmo_code":"92633000",
         "wd:id":"Q2670304"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901656,
     "wof:geomhash":"51de6c3569d189042fdab4918d55759b",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108734787,
-    "wof:lastmodified":1694639752,
+    "wof:lastmodified":1695886287,
     "wof:name":"Kukmorskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

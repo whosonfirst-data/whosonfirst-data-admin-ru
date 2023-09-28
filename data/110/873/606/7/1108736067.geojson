@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000896,
-    "geom:area_square_m":6251426.4057,
+    "geom:area_square_m":6251373.655488,
     "geom:bbox":"37.745233,55.617845,37.791213,55.649079",
     "geom:latitude":55.632932,
     "geom:longitude":37.770186,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45296557",
+        "meso:oktmo_code":"45913000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902674,
-    "wof:geomhash":"3bd25a7ee387b48c754a70b4205a4e74",
+    "wof:geomhash":"4f73ed9afe4385d2137f853e784e9b69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736067,
-    "wof:lastmodified":1627522552,
+    "wof:lastmodified":1695886207,
     "wof:name":"Brateevo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

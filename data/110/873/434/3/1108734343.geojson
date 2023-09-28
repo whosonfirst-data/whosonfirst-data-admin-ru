@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SK.KH",
+        "meso:okato_code":"98244000",
+        "meso:oktmo_code":"98644000",
         "wd:id":"Q1033514"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901276,
     "wof:geomhash":"1f7320543af2ab74774d1ccd2bc1d418",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108734343,
-    "wof:lastmodified":1694639745,
+    "wof:lastmodified":1695886263,
     "wof:name":"Khangalasskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",

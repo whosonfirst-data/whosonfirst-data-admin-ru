@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SK.MR"
+        "hasc:id":"RU.SK.MR",
+        "meso:okato_code":"98231000",
+        "meso:oktmo_code":"98631000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901970,
     "wof:geomhash":"c69a6421f37537899fc8b1f17a90d19b",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735159,
-    "wof:lastmodified":1694639757,
+    "wof:lastmodified":1695886304,
     "wof:name":"Mirninskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",

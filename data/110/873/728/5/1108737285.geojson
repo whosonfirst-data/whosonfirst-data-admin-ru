@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PZ.VA",
+        "meso:okato_code":"56215000",
+        "meso:oktmo_code":"56615000",
         "wd:id":"Q736035"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903655,
     "wof:geomhash":"94a1b7c790f98fb3b606cc9be925825f",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108737285,
-    "wof:lastmodified":1694639791,
+    "wof:lastmodified":1695886419,
     "wof:name":"Vadinskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",

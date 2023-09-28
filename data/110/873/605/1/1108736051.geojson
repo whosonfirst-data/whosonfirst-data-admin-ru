@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000531,
-    "geom:area_square_m":3691152.120416,
+    "geom:area_square_m":3691169.945941,
     "geom:bbox":"37.518593,55.790497,37.558653,55.817478",
     "geom:latitude":55.804089,
     "geom:longitude":37.53987,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45277553",
+        "meso:oktmo_code":"45333000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902664,
-    "wof:geomhash":"335f9134d6653ebc10e9074245430183",
+    "wof:geomhash":"6912cbeecc1e07a46ebc7588d168c87e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736051,
-    "wof:lastmodified":1627522529,
+    "wof:lastmodified":1695886176,
     "wof:name":"Aehroport",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00155,
-    "geom:area_square_m":10798876.270217,
+    "geom:area_square_m":10798973.542877,
     "geom:bbox":"37.915834,55.674259,37.96386,55.721389",
     "geom:latitude":55.694757,
     "geom:longitude":37.939891,
@@ -80,10 +80,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45290574",
+        "meso:oktmo_code":"45391000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902748,
-    "wof:geomhash":"806754d276177272204301b1129eca09",
+    "wof:geomhash":"02b9e2a6b7dd8cb3dea947eff0eed480",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +101,7 @@
         }
     ],
     "wof:id":1108736167,
-    "wof:lastmodified":1627522635,
+    "wof:lastmodified":1695886311,
     "wof:name":"Nekrasovka",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

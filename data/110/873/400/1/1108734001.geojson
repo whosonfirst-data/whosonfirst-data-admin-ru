@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TB.IN",
+        "meso:okato_code":"68208000",
+        "meso:oktmo_code":"68608000",
         "wd:id":"Q1651580"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900982,
     "wof:geomhash":"71eaa61156fb3e5f3f1d0bce6bcdd78c",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108734001,
-    "wof:lastmodified":1694639741,
+    "wof:lastmodified":1695886249,
     "wof:name":"Inzhavinskiy",
     "wof:parent_id":85687829,
     "wof:placetype":"county",

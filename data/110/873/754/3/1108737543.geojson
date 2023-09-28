@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000662,
-    "geom:area_square_m":4612757.933014,
+    "geom:area_square_m":4612693.707914,
     "geom:bbox":"37.166351,55.670414,37.208804,55.695186",
     "geom:latitude":55.68418,
     "geom:longitude":37.185662,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"46573000",
+        "meso:oktmo_code":"46773000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903753,
-    "wof:geomhash":"e51d775329abd7ba3da60e30e59b8a7c",
+    "wof:geomhash":"1447b483d5f7ec9667185143f52eb9c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108737543,
-    "wof:lastmodified":1627522727,
+    "wof:lastmodified":1695886426,
     "wof:name":"Vlasikha",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SV.AN"
+        "hasc:id":"RU.SV.AN",
+        "meso:okato_code":"65203000",
+        "meso:oktmo_code":"65704000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899870,
     "wof:geomhash":"4a5501a1ce0340435328fe579bedded9",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108732789,
-    "wof:lastmodified":1694639728,
+    "wof:lastmodified":1695886188,
     "wof:name":"Artinskiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

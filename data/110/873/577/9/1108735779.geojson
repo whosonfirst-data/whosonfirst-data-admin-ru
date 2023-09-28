@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KT.PV",
+        "meso:okato_code":"34232000",
+        "meso:oktmo_code":"34632000",
         "wd:id":"Q1654593"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902446,
     "wof:geomhash":"11888de1f68ecbb97892bca7cd042192",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108735779,
-    "wof:lastmodified":1694639768,
+    "wof:lastmodified":1695886339,
     "wof:name":"Pavinskiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.50533,
-    "geom:area_square_m":15243949697.235159,
+    "geom:area_square_m":15243950093.061502,
     "geom:bbox":"56.488713,59.802627,59.486083,61.676782",
     "geom:latitude":60.522035,
     "geom:longitude":58.283333,
@@ -157,16 +157,22 @@
     "wof:concordances":{
         "gp:id":12599043,
         "hasc:id":"RU.PE.KV",
+        "meso:okato_code":"57226000",
+        "meso:oktmo_code":"57626000",
         "qs_pg:id":1209318,
         "wd:id":"Q1029281",
         "wk:page":"Krasnovishersky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054283,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9b11e7bd96a883c8adcb7110f0318999",
+    "wof:geomhash":"6fee13d976bc3a81bd3aa6a03440b52b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":890480099,
-    "wof:lastmodified":1690860128,
+    "wof:lastmodified":1695886488,
     "wof:name":"Krasnovisherskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

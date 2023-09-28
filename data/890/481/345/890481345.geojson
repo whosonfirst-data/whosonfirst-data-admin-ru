@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005894,
-    "geom:area_square_m":41349953.671471,
+    "geom:area_square_m":41350117.194368,
     "geom:bbox":"37.473296,55.388979,37.60445,55.487603",
     "geom:latitude":55.431964,
     "geom:longitude":37.552953,
@@ -107,14 +107,20 @@
     "wof:concordances":{
         "gp:id":12598764,
         "hasc:id":"RU.MS.PO",
+        "meso:okato_code":"46460000",
+        "meso:oktmo_code":"46760000",
         "qs_pg:id":363128
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054354,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a7d209077c546974e0c0da5e1ecc7599",
+    "wof:geomhash":"18e8b4066c288c5bc99c280cb5687e84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":890481345,
-    "wof:lastmodified":1642541512,
+    "wof:lastmodified":1695886474,
     "wof:name":"Podol'sk",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

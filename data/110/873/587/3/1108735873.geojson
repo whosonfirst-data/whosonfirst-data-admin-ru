@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RZ.PI",
+        "meso:okato_code":"61223000",
+        "meso:oktmo_code":"61623000",
         "wd:id":"Q1654040"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902524,
     "wof:geomhash":"91f556b6709e0f6c86738bf11c49a78a",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108735873,
-    "wof:lastmodified":1694639770,
+    "wof:lastmodified":1695886343,
     "wof:name":"Pitelinskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

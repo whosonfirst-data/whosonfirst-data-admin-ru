@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OL.BO",
+        "meso:okato_code":"54204000",
+        "meso:oktmo_code":"54604000",
         "wd:id":"Q2216474"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900165,
     "wof:geomhash":"905635e9df252dcc90b6433e54430d3e",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108733089,
-    "wof:lastmodified":1694639732,
+    "wof:lastmodified":1695886204,
     "wof:name":"Bolkhovskiy",
     "wof:parent_id":85687849,
     "wof:placetype":"county",

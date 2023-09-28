@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077291,
-    "geom:area_square_m":714727049.994457,
+    "geom:area_square_m":714726678.038728,
     "geom:bbox":"47.476507,41.472369,48.123105,41.727837",
     "geom:latitude":41.596457,
     "geom:longitude":47.784748,
@@ -172,15 +172,21 @@
     "wof:concordances":{
         "gn:id":538991,
         "hasc:id":"RU.DA.KS",
+        "meso:okato_code":"82230000",
+        "meso:oktmo_code":"82630000",
         "qs_pg:id":549646,
         "wd:id":"Q798926"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054320,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e5fa450a89dba6a8063e7b02a250fd43",
+    "wof:geomhash":"bcd0cd439bcaf18266278bf552202848",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,7 +197,7 @@
         }
     ],
     "wof:id":890480733,
-    "wof:lastmodified":1690860137,
+    "wof:lastmodified":1695886491,
     "wof:name":"Kurakhskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

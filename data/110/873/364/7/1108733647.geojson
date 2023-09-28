@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013407,
-    "geom:area_square_m":79719416.924073,
+    "geom:area_square_m":79719416.924074,
     "geom:bbox":"75.0509000743,61.2010532849,75.2734667459,61.3258877093",
     "geom:latitude":61.257667,
     "geom:longitude":75.174599,
@@ -152,10 +152,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"71132000",
+        "meso:oktmo_code":"71872000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900661,
-    "wof:geomhash":"533cd6d45633e95556100b0d5769bc39",
+    "wof:geomhash":"dd62062a4be601810f72c1a4e816ac2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,7 +173,7 @@
         }
     ],
     "wof:id":1108733647,
-    "wof:lastmodified":1566626904,
+    "wof:lastmodified":1695886219,
     "wof:name":"Langepas",
     "wof:parent_id":85687919,
     "wof:placetype":"county",

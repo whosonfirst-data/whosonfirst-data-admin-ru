@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.281768,
-    "geom:area_square_m":1868536801.85284,
+    "geom:area_square_m":1868537401.269154,
     "geom:bbox":"79.254325,57.331647,80.542423,57.765389",
     "geom:latitude":57.56774,
     "geom:longitude":79.841917,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"69407000",
+        "meso:oktmo_code":"69707000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902644,
-    "wof:geomhash":"7ff7b02c58bfdb7d989da89af3fa084e",
+    "wof:geomhash":"737876800c301a23b09f4c7f4d9ecf30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736023,
-    "wof:lastmodified":1627522669,
+    "wof:lastmodified":1695886352,
     "wof:name":"Pudinskoe",
     "wof:parent_id":85687809,
     "wof:placetype":"county",

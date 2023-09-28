@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.579021,
-    "geom:area_square_m":3816550500.187131,
+    "geom:area_square_m":3816550487.741843,
     "geom:bbox":"55.356651,57.36783,56.830465,58.317395",
     "geom:latitude":57.787423,
     "geom:longitude":56.101331,
@@ -153,16 +153,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12599058,
+        "meso:okato_code":"57246000",
+        "meso:oktmo_code":"57646000",
         "qs_pg:id":1105868,
         "wd:id":"Q1029289",
         "wk:page":"Permsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054509,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"53f39fdd310ce5a916a36afb4c1cc3cf",
+    "wof:geomhash":"60092292a0587e0631189a450bef7de6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":890484335,
-    "wof:lastmodified":1690859942,
+    "wof:lastmodified":1695886463,
     "wof:name":"Permskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

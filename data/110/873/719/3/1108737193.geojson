@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.VG.UR"
+        "hasc:id":"RU.VG.UR",
+        "meso:okato_code":"18425000",
+        "meso:oktmo_code":"18725000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903584,
     "wof:geomhash":"b5e431a17addf2be0dcb10e570d0d056",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108737193,
-    "wof:lastmodified":1694639790,
+    "wof:lastmodified":1695886416,
     "wof:name":"Urjupinsk",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

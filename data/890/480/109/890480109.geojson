@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.229845,
-    "geom:area_square_m":1588593445.802277,
+    "geom:area_square_m":1588593615.790807,
     "geom:bbox":"39.684937,55.717986,40.310735,56.307784",
     "geom:latitude":56.016271,
     "geom:longitude":40.000285,
@@ -154,16 +154,22 @@
     "wof:concordances":{
         "gp:id":12599542,
         "hasc:id":"RU.VL.SB",
+        "meso:okato_code":"17250000",
+        "meso:oktmo_code":"17650000",
         "qs_pg:id":1209328,
         "wd:id":"Q617420",
         "wk:page":"Sobinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054283,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4c7f3ee8245889a8d68837989d8c49aa",
+    "wof:geomhash":"3375ecb9b857cf9352f19e892cee518d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":890480109,
-    "wof:lastmodified":1690860137,
+    "wof:lastmodified":1695886490,
     "wof:name":"Sobinskiy",
     "wof:parent_id":85687981,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009862,
-    "geom:area_square_m":74367204.134188,
+    "geom:area_square_m":74367204.134169,
     "geom:bbox":"53.0863737053,52.3445672567,53.2322930156,52.4802413373",
     "geom:latitude":52.420022,
     "geom:longitude":53.164626,
@@ -167,10 +167,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"53427000",
+        "meso:oktmo_code":"53727000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903167,
-    "wof:geomhash":"86ed52b9f92478554cecbf374d485c22",
+    "wof:geomhash":"8e0e59befaeb20b4f9a0b27a4d19a0ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -181,7 +188,7 @@
         }
     ],
     "wof:id":1108736715,
-    "wof:lastmodified":1566627191,
+    "wof:lastmodified":1695886258,
     "wof:name":"Sorochinsk",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

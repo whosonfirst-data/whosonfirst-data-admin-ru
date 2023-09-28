@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001214,
-    "geom:area_square_m":8476950.589252,
+    "geom:area_square_m":8476946.837504,
     "geom:bbox":"37.626896,55.609924,37.684546,55.642779",
     "geom:latitude":55.62733,
     "geom:longitude":37.652586,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45296590",
+        "meso:oktmo_code":"45923000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902676,
-    "wof:geomhash":"78ddef9a5c45116e24d4245abf0bc552",
+    "wof:geomhash":"940e7af8cf2e14c6c6064d2c593e19d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736069,
-    "wof:lastmodified":1627522554,
+    "wof:lastmodified":1695886211,
     "wof:name":"Caricyno",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

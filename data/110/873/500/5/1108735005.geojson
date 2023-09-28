@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SR.LY",
+        "meso:okato_code":"63225000",
+        "meso:oktmo_code":"63625000",
         "wd:id":"Q1652596"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901841,
     "wof:geomhash":"d91422f420bbd7d370c3e6fc291992c1",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108735005,
-    "wof:lastmodified":1694639755,
+    "wof:lastmodified":1695886297,
     "wof:name":"Lysogorskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

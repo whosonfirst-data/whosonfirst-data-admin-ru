@@ -201,8 +201,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.TB.KG"
+        "hasc:id":"RU.TB.KG",
+        "meso:okato_code":"68405000",
+        "meso:oktmo_code":"68705000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900792,
     "wof:geomhash":"3f489481297a540096d975cfd0fa6d35",
@@ -216,7 +222,7 @@
         }
     ],
     "wof:id":1108733777,
-    "wof:lastmodified":1694639805,
+    "wof:lastmodified":1695886731,
     "wof:name":"Kirsanov",
     "wof:parent_id":85687829,
     "wof:placetype":"county",

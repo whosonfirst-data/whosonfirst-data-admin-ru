@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KS.FA",
+        "meso:okato_code":"38244000",
+        "meso:oktmo_code":"38644000",
         "wd:id":"Q2181986"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900544,
     "wof:geomhash":"6a1e1ec1b63a15ddfb6b4cc81d3e50cd",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108733525,
-    "wof:lastmodified":1694639738,
+    "wof:lastmodified":1695886233,
     "wof:name":"Fatezhskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

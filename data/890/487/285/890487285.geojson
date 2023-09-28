@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142978,
-    "geom:area_square_m":980998520.360132,
+    "geom:area_square_m":980998770.712617,
     "geom:bbox":"35.411603,56.11239,36.114346,56.483591",
     "geom:latitude":56.297647,
     "geom:longitude":35.731022,
@@ -157,15 +157,21 @@
     "wof:concordances":{
         "gn:id":533974,
         "hasc:id":"RU.MS.LT",
+        "meso:okato_code":"46229000",
+        "meso:oktmo_code":"46629000",
         "qs_pg:id":244378,
         "wd:id":"Q2709579"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054667,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f6c6660c8e0c26644c6f883b6210a29e",
+    "wof:geomhash":"4e49e2b0b874c9358d65728fdd05de45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":890487285,
-    "wof:lastmodified":1690860102,
+    "wof:lastmodified":1695886482,
     "wof:name":"Lotoshinskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

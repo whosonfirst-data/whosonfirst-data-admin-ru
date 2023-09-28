@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020335,
-    "geom:area_square_m":145826402.174237,
+    "geom:area_square_m":145826320.088245,
     "geom:bbox":"100.496812,54.468976,100.716931,54.64053",
     "geom:latitude":54.551996,
     "geom:longitude":100.593944,
@@ -200,10 +200,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"25432000",
+        "meso:oktmo_code":"25732000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903514,
-    "wof:geomhash":"df9856870c8ac59ce3be6f0c7eea3a51",
+    "wof:geomhash":"5b6d148996b5c6845b9b78d2aadfb272",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -214,7 +221,7 @@
         }
     ],
     "wof:id":1108737105,
-    "wof:lastmodified":1636497199,
+    "wof:lastmodified":1695886734,
     "wof:name":"Tulun",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

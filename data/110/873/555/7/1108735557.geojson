@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SV.PE"
+        "hasc:id":"RU.SV.PE",
+        "meso:okato_code":"65540000",
+        "meso:oktmo_code":"65752000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902267,
     "wof:geomhash":"bcf1428037e72b34e684dc133903f2f7",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735557,
-    "wof:lastmodified":1694639762,
+    "wof:lastmodified":1695886322,
     "wof:name":"Novoural'skiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

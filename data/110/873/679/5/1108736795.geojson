@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.UL.SM",
+        "meso:okato_code":"73242000",
+        "meso:oktmo_code":"73642000",
         "wd:id":"Q2719748"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903231,
     "wof:geomhash":"fcaa25b907900596ed75e293ef8ea1a4",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108736795,
-    "wof:lastmodified":1694639686,
+    "wof:lastmodified":1695886260,
     "wof:name":"Staromajnskiy",
     "wof:parent_id":85687907,
     "wof:placetype":"county",

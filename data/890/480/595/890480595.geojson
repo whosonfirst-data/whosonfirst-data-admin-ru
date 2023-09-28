@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.330719,
-    "geom:area_square_m":2155228473.081493,
+    "geom:area_square_m":2155228970.94959,
     "geom:bbox":"52.289979,57.842421,53.186885,58.552138",
     "geom:latitude":58.19504,
     "geom:longitude":52.719709,
@@ -150,16 +150,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12597595,
+        "meso:okato_code":"94210000",
+        "meso:oktmo_code":"94610000",
         "qs_pg:id":281794,
         "wd:id":"Q1535674",
         "wk:page":"Glazovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054314,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cb154a69894378a4f5d3689cc91bee6c",
+    "wof:geomhash":"8bce695ad980ecb352235107eb6b9cb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":890480595,
-    "wof:lastmodified":1690860117,
+    "wof:lastmodified":1695886485,
     "wof:name":"Glazovskiy",
     "wof:parent_id":85687787,
     "wof:placetype":"county",

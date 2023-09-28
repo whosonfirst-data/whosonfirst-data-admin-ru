@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KT.VK",
+        "meso:okato_code":"34206000",
+        "meso:oktmo_code":"34606000",
         "wd:id":"Q1656119"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903757,
     "wof:geomhash":"df0343b645a244db2ee420a500c7e60e",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108737557,
-    "wof:lastmodified":1694639793,
+    "wof:lastmodified":1695886426,
     "wof:name":"Vokhomskiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",

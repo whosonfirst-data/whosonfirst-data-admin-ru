@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.154274,
-    "geom:area_square_m":1376839611.34763,
+    "geom:area_square_m":1376840347.039286,
     "geom:bbox":"42.198583,43.436349,42.680857,44.036724",
     "geom:latitude":43.800242,
     "geom:longitude":42.45036,
@@ -169,16 +169,22 @@
     "wof:concordances":{
         "gp:id":12597958,
         "hasc:id":"RU.KC.MA",
+        "meso:okato_code":"91220000",
+        "meso:oktmo_code":"91620000",
         "qs_pg:id":125629,
         "wd:id":"Q40326",
         "wk:page":"Malokarachayevsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054589,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fe81cfb34c6fdefa5f9f7caeee6cfda0",
+    "wof:geomhash":"5fb753ad5c420edf1d1e858d1fe10716",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -189,7 +195,7 @@
         }
     ],
     "wof:id":890486059,
-    "wof:lastmodified":1690860063,
+    "wof:lastmodified":1695886477,
     "wof:name":"Malokarachaevskiy",
     "wof:parent_id":85687913,
     "wof:placetype":"county",

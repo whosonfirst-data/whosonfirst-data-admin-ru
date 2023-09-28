@@ -174,8 +174,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.AL.ZR"
+        "hasc:id":"RU.AL.ZR",
+        "meso:okato_code":"01406000",
+        "meso:oktmo_code":"01706000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903842,
     "wof:geomhash":"1662f1d816c0d9c7c70cd31058f65859",
@@ -189,7 +195,7 @@
         }
     ],
     "wof:id":1108737901,
-    "wof:lastmodified":1694639682,
+    "wof:lastmodified":1695886212,
     "wof:name":"Zarinsk",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

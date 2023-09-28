@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.UL.MA",
+        "meso:okato_code":"73220000",
+        "meso:oktmo_code":"73620000",
         "wd:id":"Q2719765"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901848,
     "wof:geomhash":"79c15b6a3e2e0f9fe2b05761046b1c21",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108735013,
-    "wof:lastmodified":1694639756,
+    "wof:lastmodified":1695886300,
     "wof:name":"Majnskiy",
     "wof:parent_id":85687907,
     "wof:placetype":"county",

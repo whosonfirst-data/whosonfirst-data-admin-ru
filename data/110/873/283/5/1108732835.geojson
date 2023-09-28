@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000736,
-    "geom:area_square_m":5107623.404651,
+    "geom:area_square_m":5107563.061867,
     "geom:bbox":"37.64612,55.852971,37.681871,55.887307",
     "geom:latitude":55.868884,
     "geom:longitude":37.665228,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45280556",
+        "meso:oktmo_code":"45351000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899914,
-    "wof:geomhash":"9dea047e09c18863453aba23f6317cbc",
+    "wof:geomhash":"a611974514f4bdc59491567a21ec1f85",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108732835,
-    "wof:lastmodified":1627522539,
+    "wof:lastmodified":1695886190,
     "wof:name":"Babushkinskiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

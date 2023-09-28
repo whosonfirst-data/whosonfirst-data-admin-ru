@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000763,
-    "geom:area_square_m":5289714.614011,
+    "geom:area_square_m":5289739.64515,
     "geom:bbox":"37.676707,55.861841,37.715912,55.896609",
     "geom:latitude":55.881287,
     "geom:longitude":37.693506,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45280565",
+        "meso:oktmo_code":"45355000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901829,
-    "wof:geomhash":"a836cf648a9fa200f36e711c9d31685a",
+    "wof:geomhash":"1496f9005e480f6b4c4cb6dd5de81aee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108734987,
-    "wof:lastmodified":1627522621,
+    "wof:lastmodified":1695886296,
     "wof:name":"Losinoostrovskiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

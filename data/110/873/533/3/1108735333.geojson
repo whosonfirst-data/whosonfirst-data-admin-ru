@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.YS.NS",
+        "meso:okato_code":"78226000",
+        "meso:oktmo_code":"78626000",
         "wd:id":"Q2217357"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902119,
     "wof:geomhash":"38a8bfb9a63519218b67ec03201d526c",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108735333,
-    "wof:lastmodified":1694639760,
+    "wof:lastmodified":1695886311,
     "wof:name":"Nekrasovskiy",
     "wof:parent_id":85687959,
     "wof:placetype":"county",

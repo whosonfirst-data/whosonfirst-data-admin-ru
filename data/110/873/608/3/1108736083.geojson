@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001033,
-    "geom:area_square_m":7192639.97787,
+    "geom:area_square_m":7192658.216481,
     "geom:bbox":"37.443387,55.70961,37.49845,55.742257",
     "geom:latitude":55.727632,
     "geom:longitude":37.468452,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45268597",
+        "meso:oktmo_code":"45329000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902685,
-    "wof:geomhash":"157cdbae26c0a90c99a861776d0fa947",
+    "wof:geomhash":"082f9478d10e7e11aa09f86b7ee96bbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736083,
-    "wof:lastmodified":1627522567,
+    "wof:lastmodified":1695886233,
     "wof:name":"Fili-Davydkovo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

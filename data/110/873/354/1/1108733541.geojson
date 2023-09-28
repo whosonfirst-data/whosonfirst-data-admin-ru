@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.407565,
-    "geom:area_square_m":3250488607.49983,
+    "geom:area_square_m":3250488245.143702,
     "geom:bbox":"43.236883,49.49216,44.26971,50.222958",
     "geom:latitude":49.835107,
     "geom:longitude":43.783223,
@@ -121,11 +121,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"18256000",
+        "meso:oktmo_code":"18656000",
         "wd:id":"Q600611"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900557,
-    "wof:geomhash":"10e3c7af69392e3d5b411370586e7583",
+    "wof:geomhash":"cca129f5b87dccef87b76a573d6c72f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1108733541,
-    "wof:lastmodified":1690859348,
+    "wof:lastmodified":1695886234,
     "wof:name":"Frolovskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

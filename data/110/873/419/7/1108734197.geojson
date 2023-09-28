@@ -122,8 +122,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CT.KA",
+        "meso:okato_code":"76215000",
+        "meso:oktmo_code":"76615000",
         "wd:id":"Q1655284"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901162,
     "wof:geomhash":"c6f4095395b6401f07f5dee2e558478e",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1108734197,
-    "wof:lastmodified":1694492735,
+    "wof:lastmodified":1695886255,
     "wof:name":"Kalarskiy",
     "wof:parent_id":85688005,
     "wof:placetype":"county",

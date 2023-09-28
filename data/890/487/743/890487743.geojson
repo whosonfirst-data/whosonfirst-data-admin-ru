@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.203621,
-    "geom:area_square_m":1554205630.460227,
+    "geom:area_square_m":1554205734.072521,
     "geom:bbox":"46.198646,51.677513,47.10079,52.131734",
     "geom:latitude":51.8818,
     "geom:longitude":46.650796,
@@ -143,15 +143,21 @@
         "gn:id":471644,
         "gp:id":12599258,
         "hasc:id":"RU.SR.VO",
+        "meso:okato_code":"63212000",
+        "meso:oktmo_code":"63612000",
         "qs_pg:id":548923,
         "wd:id":"Q4016489"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054688,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9c86a1c2cfec2711526f213c794caac2",
+    "wof:geomhash":"f54d85d7769d6097d795e94e505920ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":890487743,
-    "wof:lastmodified":1690860109,
+    "wof:lastmodified":1695886485,
     "wof:name":"Voskresenskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

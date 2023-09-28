@@ -78,8 +78,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.KY.NV"
+        "hasc:id":"RU.KY.NV",
+        "meso:okato_code":"04241000",
+        "meso:oktmo_code":"04641000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902248,
     "wof:geomhash":"cf1c173547467ee162b179ba0d2cff23",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1108735535,
-    "wof:lastmodified":1694492756,
+    "wof:lastmodified":1695886322,
     "wof:name":"Novoselovskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

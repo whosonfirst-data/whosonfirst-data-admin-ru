@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001247,
-    "geom:area_square_m":8619287.297908,
+    "geom:area_square_m":8619336.532989,
     "geom:bbox":"37.135384,55.978395,37.198291,56.018397",
     "geom:latitude":56.001641,
     "geom:longitude":37.168107,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45272572",
+        "meso:oktmo_code":"45332000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902781,
-    "wof:geomhash":"018db73f952eec27aae4db27f9c967e5",
+    "wof:geomhash":"34c23f9af3797e2faf8fd9b5179bb562",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736215,
-    "wof:lastmodified":1627522686,
+    "wof:lastmodified":1695886376,
     "wof:name":"Silino",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

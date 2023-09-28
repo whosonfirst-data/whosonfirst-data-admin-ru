@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.PR.DR"
+        "hasc:id":"RU.PR.DR",
+        "meso:okato_code":"05407000",
+        "meso:oktmo_code":"05707000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900374,
     "wof:geomhash":"548e80f98c8c704f4634f0fdc74b9c50",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733327,
-    "wof:lastmodified":1694639735,
+    "wof:lastmodified":1695886220,
     "wof:name":"Dal'negorskiy",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

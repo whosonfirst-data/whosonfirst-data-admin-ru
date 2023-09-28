@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090965,
-    "geom:area_square_m":649041905.061048,
+    "geom:area_square_m":649041646.726241,
     "geom:bbox":"37.960381,54.629863,38.576325,54.873243",
     "geom:latitude":54.757998,
     "geom:longitude":38.287169,
@@ -111,15 +111,21 @@
     "wof:concordances":{
         "gp:id":12598731,
         "hasc:id":"RU.MS.KI",
+        "meso:okato_code":"46220000",
+        "meso:oktmo_code":"46620000",
         "qs_pg:id":1002283,
         "wk:page":"Kashirsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054472,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6b89e3b63401204ac717fe25ae50471b",
+    "wof:geomhash":"7a337ff1ff5cb17680e6018ddd566cb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":890483557,
-    "wof:lastmodified":1642541489,
+    "wof:lastmodified":1695886450,
     "wof:name":"Kashirskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

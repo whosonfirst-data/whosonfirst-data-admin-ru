@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002399,
-    "geom:area_square_m":16761115.115413,
+    "geom:area_square_m":16760929.142929,
     "geom:bbox":"37.186666,55.580418,37.313345,55.621552",
     "geom:latitude":55.603783,
     "geom:longitude":37.262071,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45268552",
+        "meso:oktmo_code":"45317000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902803,
-    "wof:geomhash":"12f649b07e8e9f8a55dc93685966bbbc",
+    "wof:geomhash":"31fe74c4e2fb86199d2bb4c0c3919180",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736245,
-    "wof:lastmodified":1627522727,
+    "wof:lastmodified":1695886425,
     "wof:name":"Vnukovo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

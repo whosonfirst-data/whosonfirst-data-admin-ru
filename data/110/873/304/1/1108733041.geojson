@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KK.BO",
+        "meso:okato_code":"95215000",
+        "meso:oktmo_code":"95615000",
         "wd:id":"Q751058"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900124,
     "wof:geomhash":"4c0f470bfe5d547160e21332f89f6e92",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108733041,
-    "wof:lastmodified":1694639731,
+    "wof:lastmodified":1695886201,
     "wof:name":"Bogradskiy",
     "wof:parent_id":85688061,
     "wof:placetype":"county",

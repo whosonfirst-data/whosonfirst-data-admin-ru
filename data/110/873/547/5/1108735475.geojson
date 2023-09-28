@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NG.NO",
+        "meso:okato_code":"49225000",
+        "meso:oktmo_code":"49625000",
         "wd:id":"Q2610877"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902208,
     "wof:geomhash":"eb58ed43461284588eb3177700806d2e",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108735475,
-    "wof:lastmodified":1694639762,
+    "wof:lastmodified":1695886323,
     "wof:name":"Novskiy",
     "wof:parent_id":85688095,
     "wof:placetype":"county",

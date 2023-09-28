@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NS.CS",
+        "meso:okato_code":"50258000",
+        "meso:oktmo_code":"50658000",
         "wd:id":"Q852037"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900335,
     "wof:geomhash":"4be2bb1ee9e3c214409268d4fb833087",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108733277,
-    "wof:lastmodified":1694639734,
+    "wof:lastmodified":1695886217,
     "wof:name":"Chistoozjornyj",
     "wof:parent_id":85687925,
     "wof:placetype":"county",

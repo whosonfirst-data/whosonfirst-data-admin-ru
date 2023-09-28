@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.559145,
-    "geom:area_square_m":14831705352.32457,
+    "geom:area_square_m":14831704837.521309,
     "geom:bbox":"35.578881,61.208499,37.947726,62.822821",
     "geom:latitude":62.049406,
     "geom:longitude":36.647316,
@@ -172,16 +172,22 @@
     "wof:concordances":{
         "gp:id":12597438,
         "hasc:id":"RU.KI.PU",
+        "meso:okato_code":"86242000",
+        "meso:oktmo_code":"86642000",
         "qs_pg:id":230339,
         "wd:id":"Q1036166",
         "wk:page":"Pudozhsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054654,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8154a5e54f2bf97c62248895a984aa06",
+    "wof:geomhash":"511b34ea37105762ca4efc3fb1f9bfcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -192,7 +198,7 @@
         }
     ],
     "wof:id":890487079,
-    "wof:lastmodified":1690860082,
+    "wof:lastmodified":1695886479,
     "wof:name":"Pudozhskiy",
     "wof:parent_id":85688193,
     "wof:placetype":"county",

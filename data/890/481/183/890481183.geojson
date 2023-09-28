@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038234,
-    "geom:area_square_m":169795989.244303,
+    "geom:area_square_m":169795989.736359,
     "geom:bbox":"32.905015,68.860002,33.295825,69.050333",
     "geom:latitude":68.951735,
     "geom:longitude":33.107072,
@@ -158,16 +158,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598807,
+        "meso:okato_code":"47401000",
+        "meso:oktmo_code":"47701000",
         "qs_pg:id":896835,
         "wd:id":"Q2711863",
         "wk:page":"Kolsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054347,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5114517ea813519f48d2a7ad976c3229",
+    "wof:geomhash":"267a93b4920c0198f3c9e9fecd3cd5f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -178,7 +184,7 @@
         }
     ],
     "wof:id":890481183,
-    "wof:lastmodified":1690860030,
+    "wof:lastmodified":1695886474,
     "wof:name":"Murmansk",
     "wof:parent_id":85687869,
     "wof:placetype":"county",

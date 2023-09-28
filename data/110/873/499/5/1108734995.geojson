@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NZ.LU",
+        "meso:okato_code":"22239000",
+        "meso:oktmo_code":"22639000",
         "wd:id":"Q1652732"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901833,
     "wof:geomhash":"fdfe8f829e9feaa86630e3d35c33761f",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108734995,
-    "wof:lastmodified":1694639755,
+    "wof:lastmodified":1695886296,
     "wof:name":"Lukojanovskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

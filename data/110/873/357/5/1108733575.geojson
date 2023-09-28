@@ -155,8 +155,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PS.GD",
+        "meso:okato_code":"58208000",
+        "meso:oktmo_code":"58608000",
         "wd:id":"Q2723487"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900588,
     "wof:geomhash":"491a4042e9aa1834191e52ac60723a00",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1108733575,
-    "wof:lastmodified":1694639739,
+    "wof:lastmodified":1695886236,
     "wof:name":"Gdovskiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",

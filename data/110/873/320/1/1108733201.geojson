@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.396255,
-    "geom:area_square_m":2822536517.525476,
+    "geom:area_square_m":2822535682.773272,
     "geom:bbox":"59.881532,54.506742,60.977799,55.162496",
     "geom:latitude":54.826325,
     "geom:longitude":60.518077,
@@ -127,11 +127,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"75458000",
+        "meso:oktmo_code":"75657000",
         "wd:id":"Q2719267"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900265,
-    "wof:geomhash":"ea916b8d2a706db5908c7e33a77ed493",
+    "wof:geomhash":"696c1c879dca2ab7818b3fa12080abe2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":1108733201,
-    "wof:lastmodified":1690859688,
+    "wof:lastmodified":1695886399,
     "wof:name":"Chebarkul'skiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

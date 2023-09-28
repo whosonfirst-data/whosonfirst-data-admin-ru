@@ -170,8 +170,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.DA.CH",
+        "meso:okato_code":"82259000",
+        "meso:oktmo_code":"82659000",
         "wd:id":"Q1439010"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900256,
     "wof:geomhash":"e6e64f1470f1f6c4cdcd44c0805b71a6",
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":1108733187,
-    "wof:lastmodified":1694639733,
+    "wof:lastmodified":1695886212,
     "wof:name":"Charodinskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

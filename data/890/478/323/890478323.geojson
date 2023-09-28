@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086147,
-    "geom:area_square_m":792721613.490606,
+    "geom:area_square_m":792721986.401322,
     "geom:bbox":"47.696173,41.762116,48.380628,42.113959",
     "geom:latitude":41.911254,
     "geom:longitude":48.046839,
@@ -187,15 +187,21 @@
     "wof:concordances":{
         "gn:id":484957,
         "hasc:id":"RU.DA.TB",
+        "meso:okato_code":"82248000",
+        "meso:oktmo_code":"82648000",
         "qs_pg:id":549069,
         "wd:id":"Q1439195"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054166,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a57c11f1a56bb5fca7ba72df59fb5101",
+    "wof:geomhash":"0a1cfccd72119a79e1bff640cb64bbc2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,7 +212,7 @@
         }
     ],
     "wof:id":890478323,
-    "wof:lastmodified":1690859789,
+    "wof:lastmodified":1695886438,
     "wof:name":"Tabasaranskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.236373,
-    "geom:area_square_m":1691305767.56531,
+    "geom:area_square_m":1691305964.229248,
     "geom:bbox":"42.82365,54.386516,43.648448,54.959332",
     "geom:latitude":54.643515,
     "geom:longitude":43.269932,
@@ -133,11 +133,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"89249000",
+        "meso:oktmo_code":"89649000",
         "wd:id":"Q643604"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903396,
-    "wof:geomhash":"f4c4b57e10d36e4540fd51fb6452ec66",
+    "wof:geomhash":"8e4d1488330897b509d589411960a55c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":1108736975,
-    "wof:lastmodified":1690859643,
+    "wof:lastmodified":1695886404,
     "wof:name":"Temnikovskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",

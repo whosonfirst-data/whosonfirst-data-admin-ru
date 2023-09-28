@@ -216,8 +216,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.NS.IR"
+        "hasc:id":"RU.NS.IR",
+        "meso:okato_code":"50412000",
+        "meso:oktmo_code":"50712000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901006,
     "wof:geomhash":"717f2d0592de763ade78aa723b1682b8",
@@ -231,7 +237,7 @@
         }
     ],
     "wof:id":1108734029,
-    "wof:lastmodified":1694639806,
+    "wof:lastmodified":1695886734,
     "wof:name":"Iskitim",
     "wof:parent_id":85687925,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.282551,
-    "geom:area_square_m":2093142846.286974,
+    "geom:area_square_m":2093143084.353432,
     "geom:bbox":"50.403512,52.897392,51.278205,53.456855",
     "geom:latitude":53.194177,
     "geom:longitude":50.823482,
@@ -163,16 +163,22 @@
     "wof:concordances":{
         "gp:id":12598611,
         "hasc:id":"RU.SA.KR",
+        "meso:okato_code":"36218000",
+        "meso:oktmo_code":"36618000",
         "qs_pg:id":911322,
         "wd:id":"Q2636693",
         "wk:page":"Kinelsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054644,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"705632cc69438c1eef23d6d026f8e427",
+    "wof:geomhash":"7d23d07ad0d86a2297455767bde6d158",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":890486911,
-    "wof:lastmodified":1690860068,
+    "wof:lastmodified":1695886478,
     "wof:name":"Kinel'skiy",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021237,
-    "geom:area_square_m":155957923.521596,
+    "geom:area_square_m":155957923.521594,
     "geom:bbox":"87.2583431905,53.3785370961,87.4827659644,53.7176424409",
     "geom:latitude":53.564893,
     "geom:longitude":87.357106,
@@ -161,10 +161,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"32434000",
+        "meso:oktmo_code":"32734000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902396,
-    "wof:geomhash":"daeddfd999bf6411b4674764326189f9",
+    "wof:geomhash":"12ed74067d4899706d711869e028fb69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,7 +182,7 @@
         }
     ],
     "wof:id":1108735715,
-    "wof:lastmodified":1566627330,
+    "wof:lastmodified":1695886264,
     "wof:name":"Osinniki",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

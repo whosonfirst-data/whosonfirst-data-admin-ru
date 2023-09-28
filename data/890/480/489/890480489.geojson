@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0532,
-    "geom:area_square_m":406886803.328808,
+    "geom:area_square_m":406886546.205791,
     "geom:bbox":"55.016465,51.66438,55.605084,51.905887",
     "geom:latitude":51.791402,
     "geom:longitude":55.239669,
@@ -123,16 +123,22 @@
     "wof:concordances":{
         "gp:id":12598941,
         "hasc:id":"RU.OB.OG",
+        "meso:okato_code":"53401000",
+        "meso:oktmo_code":"53701000",
         "qs_pg:id":1312534,
         "wd:id":"Q4144855",
         "wk:page":"Belyayevsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054309,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b98d969dc98bedb8f3dce27dffd882be",
+    "wof:geomhash":"a571cc3cc657c31ab226f09e8b57cc39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":890480489,
-    "wof:lastmodified":1690860145,
+    "wof:lastmodified":1695886493,
     "wof:name":"Orenburg",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

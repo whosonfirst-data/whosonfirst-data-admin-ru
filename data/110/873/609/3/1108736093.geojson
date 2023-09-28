@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002288,
-    "geom:area_square_m":15911231.72688,
+    "geom:area_square_m":15911299.72009,
     "geom:bbox":"37.7429,55.758501,37.803206,55.8074",
     "geom:latitude":55.784444,
     "geom:longitude":37.772188,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45263570",
+        "meso:oktmo_code":"45307000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902690,
-    "wof:geomhash":"b5ea946c58868d3b1abbcecd504ba034",
+    "wof:geomhash":"0b1568c18bfd986776ebe461295b8a20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736093,
-    "wof:lastmodified":1627522581,
+    "wof:lastmodified":1695886252,
     "wof:name":"Izmajlovo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

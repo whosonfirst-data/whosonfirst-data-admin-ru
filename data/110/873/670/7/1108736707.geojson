@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AL.SO",
+        "meso:okato_code":"01243000",
+        "meso:oktmo_code":"01643000",
         "wd:id":"Q1822656"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903161,
     "wof:geomhash":"83f9f6abc2298fe8ae8d5afe9344dc29",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108736707,
-    "wof:lastmodified":1694639780,
+    "wof:lastmodified":1695886381,
     "wof:name":"Soloneshenskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

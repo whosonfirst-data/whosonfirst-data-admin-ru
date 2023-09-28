@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000659,
-    "geom:area_square_m":4588994.842763,
+    "geom:area_square_m":4588994.838389,
     "geom:bbox":"37.58501,55.689271,37.6186,55.722528",
     "geom:latitude":55.705707,
     "geom:longitude":37.601052,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45296561",
+        "meso:oktmo_code":"45915000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900436,
-    "wof:geomhash":"6ce606f0ed082ab89fc619c22fa8cc82",
+    "wof:geomhash":"411e490e4ed7d050c0b6b74431b5bf32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108733405,
-    "wof:lastmodified":1627522563,
+    "wof:lastmodified":1695886225,
     "wof:name":"Donskoj",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

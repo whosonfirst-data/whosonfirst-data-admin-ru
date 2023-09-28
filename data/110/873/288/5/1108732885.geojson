@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016191,
-    "geom:area_square_m":115743425.160258,
+    "geom:area_square_m":115743611.951629,
     "geom:bbox":"19.638524,54.453188,20.106833,54.806213",
     "geom:latitude":54.680105,
     "geom:longitude":19.93215,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"27405000",
+        "meso:oktmo_code":"27705000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899967,
-    "wof:geomhash":"57e4657a3e9d88fa9989a7b28c275693",
+    "wof:geomhash":"3c5e75825e8177dbb27a3140cec7bd09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108732885,
-    "wof:lastmodified":1627522541,
+    "wof:lastmodified":1695886193,
     "wof:name":"Baltijskiy",
     "wof:parent_id":85688215,
     "wof:placetype":"county",

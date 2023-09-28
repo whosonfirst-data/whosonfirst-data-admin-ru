@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.443952,
-    "geom:area_square_m":3048604737.405124,
+    "geom:area_square_m":3048604559.905069,
     "geom:bbox":"28.125944,55.954532,29.260652,56.531536",
     "geom:latitude":56.265275,
     "geom:longitude":28.693994,
@@ -169,16 +169,22 @@
     "wof:concordances":{
         "gp:id":12599091,
         "hasc:id":"RU.PS.SE",
+        "meso:okato_code":"58254000",
+        "meso:oktmo_code":"58654000",
         "qs_pg:id":911337,
         "wd:id":"Q366986",
         "wk:page":"Sebezhsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054644,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"31a1a5607bf0e862deb4def20ea1cc92",
+    "wof:geomhash":"05d84cd98c950299777c785d3734f0b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -189,7 +195,7 @@
         }
     ],
     "wof:id":890486921,
-    "wof:lastmodified":1690860072,
+    "wof:lastmodified":1695886478,
     "wof:name":"Sebezhskiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",

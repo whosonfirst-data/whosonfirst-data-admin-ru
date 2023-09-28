@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BR.KL",
+        "meso:okato_code":"15226000",
+        "meso:oktmo_code":"15626000",
         "wd:id":"Q2708368"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901396,
     "wof:geomhash":"47d0303eba4c2754cd0fdc6a7e2cf0bb",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108734481,
-    "wof:lastmodified":1694639747,
+    "wof:lastmodified":1695886270,
     "wof:name":"Kletnjanskiy",
     "wof:parent_id":85688121,
     "wof:placetype":"county",

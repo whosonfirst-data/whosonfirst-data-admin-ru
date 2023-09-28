@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SR.BS",
+        "meso:okato_code":"63208000",
+        "meso:oktmo_code":"63608000",
         "wd:id":"Q1651109"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899954,
     "wof:geomhash":"f9ba8ee753d431b782f549b11cc01965",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108732871,
-    "wof:lastmodified":1694639729,
+    "wof:lastmodified":1695886192,
     "wof:name":"Balashovskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

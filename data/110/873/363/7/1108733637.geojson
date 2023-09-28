@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.115718,
-    "geom:area_square_m":975439902.038727,
+    "geom:area_square_m":975439721.545438,
     "geom:bbox":"142.446226,46.777192,142.978654,47.215215",
     "geom:latitude":47.022835,
     "geom:longitude":142.738764,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"64401000",
+        "meso:oktmo_code":"64701000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900643,
-    "wof:geomhash":"126de618f3c19ab9f9dc3f1cab95490e",
+    "wof:geomhash":"4f64d686374338575d7b0a0f57a1f9e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108733637,
-    "wof:lastmodified":1627522578,
+    "wof:lastmodified":1695886248,
     "wof:name":"Juzhno-Sakhalinsk",
     "wof:parent_id":85688125,
     "wof:placetype":"county",

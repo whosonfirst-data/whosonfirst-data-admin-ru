@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00189,
-    "geom:area_square_m":13126426.298288,
+    "geom:area_square_m":13126298.902458,
     "geom:bbox":"37.405226,55.808375,37.489579,55.842802",
     "geom:latitude":55.823981,
     "geom:longitude":37.447105,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45283569",
+        "meso:oktmo_code":"45368000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902762,
-    "wof:geomhash":"0232dfdba586f2db4c1695cb49fff7f1",
+    "wof:geomhash":"f6c0ea293d51c929b0e7c7f4cc7becc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736189,
-    "wof:lastmodified":1627522664,
+    "wof:lastmodified":1695886347,
     "wof:name":"Pokrovskoe-Streshnevo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

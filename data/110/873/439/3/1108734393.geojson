@@ -170,8 +170,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.DA.KH",
+        "meso:okato_code":"82256000",
+        "meso:oktmo_code":"82656000",
         "wd:id":"Q1394899"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901316,
     "wof:geomhash":"a89f11cb7aa400aee181274072881de0",
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":1108734393,
-    "wof:lastmodified":1694639683,
+    "wof:lastmodified":1695886224,
     "wof:name":"Khunzakhskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

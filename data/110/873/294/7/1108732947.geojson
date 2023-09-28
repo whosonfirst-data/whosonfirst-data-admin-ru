@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RO.BR",
+        "meso:okato_code":"60206000",
+        "meso:oktmo_code":"60606000",
         "wd:id":"Q2217060"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900025,
     "wof:geomhash":"532a5a256acd515f7104e2601beb45cd",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108732947,
-    "wof:lastmodified":1694639730,
+    "wof:lastmodified":1695886196,
     "wof:name":"Belokalitvinskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

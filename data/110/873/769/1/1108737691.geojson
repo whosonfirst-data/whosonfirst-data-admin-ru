@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00239,
-    "geom:area_square_m":16551036.546218,
+    "geom:area_square_m":16550977.151476,
     "geom:bbox":"36.435353,55.917481,36.497037,55.979316",
     "geom:latitude":55.946522,
     "geom:longitude":36.466058,
@@ -116,10 +116,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"46562000",
+        "meso:oktmo_code":"46763000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903787,
-    "wof:geomhash":"27f67484c54fa289f24f93bcc13dd3ac",
+    "wof:geomhash":"2b1d0f934cd677032717e72bf1d120dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,7 +137,7 @@
         }
     ],
     "wof:id":1108737691,
-    "wof:lastmodified":1627522729,
+    "wof:lastmodified":1695886428,
     "wof:name":"Voskhod",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02539,
-    "geom:area_square_m":182849677.370563,
+    "geom:area_square_m":182849851.383977,
     "geom:bbox":"86.038763,54.259177,86.45626,54.551117",
     "geom:latitude":54.379078,
     "geom:longitude":86.3028,
@@ -119,10 +119,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"32407000",
+        "meso:oktmo_code":"32707000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900042,
-    "wof:geomhash":"a3d2d2d74bece672afecff6350cf44cb",
+    "wof:geomhash":"b72c6647f2d88f42498ae80af3d557aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,7 +140,7 @@
         }
     ],
     "wof:id":1108732961,
-    "wof:lastmodified":1627522544,
+    "wof:lastmodified":1695886197,
     "wof:name":"Belovo",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.3429,
-    "geom:area_square_m":18315879820.381504,
+    "geom:area_square_m":18315880442.662739,
     "geom:bbox":"87.131494,50.105845,89.865504,51.56179",
     "geom:latitude":50.784535,
     "geom:longitude":88.392497,
@@ -178,16 +178,22 @@
     "wof:concordances":{
         "gp:id":12597721,
         "hasc:id":"RU.GA.UL",
+        "meso:okato_code":"84230000",
+        "meso:oktmo_code":"84630000",
         "qs_pg:id":221445,
         "wd:id":"Q977262",
         "wk:page":"Ulagansky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054649,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9d6b3a1c305eb6ad3b668f9b1eefd231",
+    "wof:geomhash":"b59efe671a454e81eddd9896ad5f5bdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -198,7 +204,7 @@
         }
     ],
     "wof:id":890486997,
-    "wof:lastmodified":1690860037,
+    "wof:lastmodified":1695886475,
     "wof:name":"Ulaganskiy",
     "wof:parent_id":85687949,
     "wof:placetype":"county",

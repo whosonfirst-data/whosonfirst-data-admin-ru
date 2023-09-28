@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KU.PO",
+        "meso:okato_code":"37228000",
+        "meso:oktmo_code":"37628000",
         "wd:id":"Q1753785"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902559,
     "wof:geomhash":"4ed332f6feedb44871ece0203876afcb",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108735925,
-    "wof:lastmodified":1694639771,
+    "wof:lastmodified":1695886347,
     "wof:name":"Polovinskiy",
     "wof:parent_id":85688157,
     "wof:placetype":"county",

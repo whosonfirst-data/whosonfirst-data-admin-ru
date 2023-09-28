@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AL.ZL",
+        "meso:okato_code":"01212000",
+        "meso:oktmo_code":"01612000",
         "wd:id":"Q1822693"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903827,
     "wof:geomhash":"0b9716b39fd7ea30a205b12e510acb1b",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108737853,
-    "wof:lastmodified":1694639795,
+    "wof:lastmodified":1695886435,
     "wof:name":"Zalesovskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

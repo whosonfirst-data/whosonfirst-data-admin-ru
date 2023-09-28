@@ -155,8 +155,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AR.PL",
+        "meso:okato_code":"11250000",
+        "meso:oktmo_code":"11650000",
         "wd:id":"Q2468373"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902535,
     "wof:geomhash":"0ae47f45ce333532a44de08d4b9d06be",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1108735889,
-    "wof:lastmodified":1694639770,
+    "wof:lastmodified":1695886344,
     "wof:name":"Pleseckij",
     "wof:parent_id":85687971,
     "wof:placetype":"county",

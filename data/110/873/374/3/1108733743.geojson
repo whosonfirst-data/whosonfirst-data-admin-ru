@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001302,
-    "geom:area_square_m":9014637.766653,
+    "geom:area_square_m":9014614.912069,
     "geom:bbox":"38.013943,55.94054,38.070421,55.979054",
     "geom:latitude":55.960298,
     "geom:longitude":38.046241,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"46480000",
+        "meso:oktmo_code":"46780000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900770,
-    "wof:geomhash":"5701f44cf5ac464535bfa02b1794b5f7",
+    "wof:geomhash":"cfeb92e01f10f79630f16a27bd745145",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108733743,
-    "wof:lastmodified":1627522568,
+    "wof:lastmodified":1695886235,
     "wof:name":"Frjazino",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

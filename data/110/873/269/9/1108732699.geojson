@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SA.AL"
+        "hasc:id":"RU.SA.AL",
+        "meso:okato_code":"36202000",
+        "meso:oktmo_code":"36602000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899795,
     "wof:geomhash":"368f7124039a319f6dc7f49791a73b32",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108732699,
-    "wof:lastmodified":1694639726,
+    "wof:lastmodified":1695886180,
     "wof:name":"Alekseevskiy",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

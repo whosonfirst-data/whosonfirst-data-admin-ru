@@ -173,8 +173,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BK.CS",
+        "meso:okato_code":"80257000",
+        "meso:oktmo_code":"80657000",
         "wd:id":"Q2363239"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900333,
     "wof:geomhash":"1dde87dacc5de115545d7568af868ab7",
@@ -188,7 +194,7 @@
         }
     ],
     "wof:id":1108733275,
-    "wof:lastmodified":1694639734,
+    "wof:lastmodified":1695886217,
     "wof:name":"Chishminskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

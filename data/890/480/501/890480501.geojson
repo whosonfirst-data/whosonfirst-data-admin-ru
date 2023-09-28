@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.209375,
-    "geom:area_square_m":1433824010.215264,
+    "geom:area_square_m":1433823782.03484,
     "geom:bbox":"40.064829,56.139645,40.866242,56.604623",
     "geom:latitude":56.370315,
     "geom:longitude":40.446864,
@@ -163,16 +163,22 @@
     "wof:concordances":{
         "gp:id":12599545,
         "hasc:id":"RU.VL.SR",
+        "meso:okato_code":"17254000",
+        "meso:oktmo_code":"17654000",
         "qs_pg:id":1312556,
         "wd:id":"Q1655421",
         "wk:page":"Suzdalsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054310,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8bdcf0b8f23149b0ff36b218e2539d57",
+    "wof:geomhash":"998b63dd04a884b7c033991009f59b9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":890480501,
-    "wof:lastmodified":1690860136,
+    "wof:lastmodified":1695886491,
     "wof:name":"Suzdal'skiy",
     "wof:parent_id":85687981,
     "wof:placetype":"county",

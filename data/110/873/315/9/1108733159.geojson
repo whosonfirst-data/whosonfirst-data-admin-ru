@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AL.BY",
+        "meso:okato_code":"01207000",
+        "meso:oktmo_code":"01607000",
         "wd:id":"Q1654202"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900230,
     "wof:geomhash":"931f45c6783a096632129dab9b20f447",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108733159,
-    "wof:lastmodified":1694639733,
+    "wof:lastmodified":1695886210,
     "wof:name":"Bystroistokskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

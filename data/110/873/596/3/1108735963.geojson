@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.226845,
-    "geom:area_square_m":2016143574.674092,
+    "geom:area_square_m":2016143464.130961,
     "geom:bbox":"42.293592,43.792981,43.422302,44.312139",
     "geom:latitude":44.046736,
     "geom:longitude":42.791722,
@@ -117,11 +117,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"07248000",
+        "meso:oktmo_code":"07648000",
         "wd:id":"Q1255181"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902596,
-    "wof:geomhash":"1e33d1d72689992aa356e1a91968aeef",
+    "wof:geomhash":"d1b64bff4c1d0c78db6964405a73c720",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":1108735963,
-    "wof:lastmodified":1690859570,
+    "wof:lastmodified":1695886348,
     "wof:name":"Predgornyj",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

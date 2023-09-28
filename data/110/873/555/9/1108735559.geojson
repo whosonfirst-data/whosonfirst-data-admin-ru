@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SR.NU",
+        "meso:okato_code":"63230000",
+        "meso:oktmo_code":"63630000",
         "wd:id":"Q1654646"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902268,
     "wof:geomhash":"e11f82303a6846ac66e92ccdf23103a1",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108735559,
-    "wof:lastmodified":1694639762,
+    "wof:lastmodified":1695886323,
     "wof:name":"Novouzenskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.45413,
-    "geom:area_square_m":3073355339.358109,
+    "geom:area_square_m":3073355678.942453,
     "geom:bbox":"38.098775,56.5328,39.365821,57.155427",
     "geom:latitude":56.817342,
     "geom:longitude":38.723821,
@@ -72,10 +72,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"NO DATA",
+        "meso:oktmo_code":"NO DATA"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902180,
-    "wof:geomhash":"71a5db61a4daf177f1692d7d86136da0",
+    "wof:geomhash":"d74a6d22d4c6dd8a700a65933f7c3d68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,7 +93,7 @@
         }
     ],
     "wof:id":1108735423,
-    "wof:lastmodified":1627522659,
+    "wof:lastmodified":1695886339,
     "wof:name":"Pereslavskiy",
     "wof:parent_id":85687959,
     "wof:placetype":"county",

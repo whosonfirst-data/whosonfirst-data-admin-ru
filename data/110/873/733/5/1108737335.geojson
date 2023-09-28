@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KV.VK",
+        "meso:okato_code":"33207000",
+        "meso:oktmo_code":"33607000",
         "wd:id":"Q387052"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903693,
     "wof:geomhash":"89df9e5c4d6a650c299d407a5628073a",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108737335,
-    "wof:lastmodified":1694639792,
+    "wof:lastmodified":1695886422,
     "wof:name":"Verkhnekamskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",

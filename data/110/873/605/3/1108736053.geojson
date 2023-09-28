@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000233,
-    "geom:area_square_m":1618028.631774,
+    "geom:area_square_m":1618125.795868,
     "geom:bbox":"37.580141,55.742282,37.604837,55.757655",
     "geom:latitude":55.751405,
     "geom:longitude":37.592195,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45286552",
+        "meso:oktmo_code":"45374000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902665,
-    "wof:geomhash":"49aef49308dc04ce5bf96e928379de8e",
+    "wof:geomhash":"d76ca8f88a11b3189d568ebe6cc73bc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736053,
-    "wof:lastmodified":1627522536,
+    "wof:lastmodified":1695886187,
     "wof:name":"Arbat",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

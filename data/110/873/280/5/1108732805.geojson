@@ -155,8 +155,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KK.AS",
+        "meso:okato_code":"95208000",
+        "meso:oktmo_code":"95608000",
         "wd:id":"Q779443"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899884,
     "wof:geomhash":"449ae62bf44c0368d5ed4a1671e60e8a",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1108732805,
-    "wof:lastmodified":1694639683,
+    "wof:lastmodified":1695886221,
     "wof:name":"Askizskiy",
     "wof:parent_id":85688061,
     "wof:placetype":"county",

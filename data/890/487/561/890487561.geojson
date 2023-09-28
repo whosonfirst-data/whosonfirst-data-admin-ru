@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.923155,
-    "geom:area_square_m":16471296662.426197,
+    "geom:area_square_m":16471296835.156128,
     "geom:bbox":"32.407095,61.731045,36.524809,63.839136",
     "geom:latitude":62.889379,
     "geom:longitude":34.618053,
@@ -184,16 +184,22 @@
     "wof:concordances":{
         "gp:id":12597431,
         "hasc:id":"RU.KI.ME",
+        "meso:okato_code":"86224000",
+        "meso:oktmo_code":"86624000",
         "qs_pg:id":1209226,
         "wd:id":"Q542227",
         "wk:page":"Medvezhyegorsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054679,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3e526969e9a734171e447d63a84326ff",
+    "wof:geomhash":"001a5a8effb6ac3c432432c8ff89cd31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -204,7 +210,7 @@
         }
     ],
     "wof:id":890487561,
-    "wof:lastmodified":1690860078,
+    "wof:lastmodified":1695886478,
     "wof:name":"Medvezh'egorskiy",
     "wof:parent_id":85688193,
     "wof:placetype":"county",

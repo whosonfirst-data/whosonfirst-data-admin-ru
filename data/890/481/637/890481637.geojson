@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.282088,
-    "geom:area_square_m":2048709484.775425,
+    "geom:area_square_m":2048709660.915181,
     "geom:bbox":"80.510007,53.7465,81.365731,54.375759",
     "geom:latitude":54.030965,
     "geom:longitude":80.942685,
@@ -151,15 +151,21 @@
     "wof:concordances":{
         "gn:id":1501693,
         "hasc:id":"RU.AL.KR",
+        "meso:okato_code":"01221000",
+        "meso:oktmo_code":"01621000",
         "qs_pg:id":370684,
         "wd:id":"Q762733"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054367,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c23ce7a297d6e530f95bb738937f1211",
+    "wof:geomhash":"21ecaccf7f256edb2bbca0207f5c93cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":890481637,
-    "wof:lastmodified":1690860027,
+    "wof:lastmodified":1695886474,
     "wof:name":"Krutikhinskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

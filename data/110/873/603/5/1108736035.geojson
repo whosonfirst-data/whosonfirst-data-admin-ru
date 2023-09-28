@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KT.PY",
+        "meso:okato_code":"34238000",
+        "meso:oktmo_code":"34638000",
         "wd:id":"Q1653964"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902653,
     "wof:geomhash":"2051632f8311dfe0a4f5987e3e64c6bb",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108736035,
-    "wof:lastmodified":1694639773,
+    "wof:lastmodified":1695886353,
     "wof:name":"Pyshhugskiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.315389,
-    "geom:area_square_m":2160287095.733625,
+    "geom:area_square_m":2160287032.148766,
     "geom:bbox":"36.980186,56.0369,37.872334,56.696509",
     "geom:latitude":56.36201,
     "geom:longitude":37.423069,
@@ -150,16 +150,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598718,
+        "meso:okato_code":"46208000",
+        "meso:oktmo_code":"46608000",
         "qs_pg:id":1312518,
         "wd:id":"Q432621",
         "wk:page":"Dmitrovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054585,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4a894677996949f0cc45af0d69d79581",
+    "wof:geomhash":"d9f9a5315fd2dff3b13b9c68d9e9de9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":890485971,
-    "wof:lastmodified":1690859831,
+    "wof:lastmodified":1695886443,
     "wof:name":"Dmitrovskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

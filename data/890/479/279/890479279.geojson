@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.625541,
-    "geom:area_square_m":12894992856.812929,
+    "geom:area_square_m":12894992202.661064,
     "geom:bbox":"84.457859,49.465936,86.725577,50.71703",
     "geom:latitude":50.092837,
     "geom:longitude":85.649056,
@@ -175,16 +175,22 @@
     "wof:concordances":{
         "gp:id":12597724,
         "hasc:id":"RU.GA.UK",
+        "meso:okato_code":"84240000",
+        "meso:oktmo_code":"84640000",
         "qs_pg:id":429410,
         "wd:id":"Q282849",
         "wk:page":"Ust-Koksinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054233,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"30f3a57ff2cf43e8b022db0f0b1f36d1",
+    "wof:geomhash":"32ee91b8301f113435686f343a37afd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -195,7 +201,7 @@
         }
     ],
     "wof:id":890479279,
-    "wof:lastmodified":1690859983,
+    "wof:lastmodified":1695886470,
     "wof:name":"Ust'-Koksinskiy",
     "wof:parent_id":85687949,
     "wof:placetype":"county",

@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KT.SD",
+        "meso:okato_code":"34242000",
+        "meso:oktmo_code":"34642000",
         "wd:id":"Q1656139"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903263,
     "wof:geomhash":"17b873369d629fc367245226c8db0c44",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108736823,
-    "wof:lastmodified":1694639783,
+    "wof:lastmodified":1695886388,
     "wof:name":"Sudislavskiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",

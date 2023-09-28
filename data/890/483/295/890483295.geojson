@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.54341,
-    "geom:area_square_m":28931687478.702267,
+    "geom:area_square_m":28931688507.605934,
     "geom:bbox":"54.513618,64.199823,60.212076,65.849336",
     "geom:latitude":65.033478,
     "geom:longitude":57.175584,
@@ -170,15 +170,21 @@
     "wof:concordances":{
         "gp:id":12597449,
         "hasc:id":"RU.KO.PE",
+        "meso:okato_code":"87420000",
+        "meso:oktmo_code":"87620000",
         "qs_pg:id":911313,
         "wd:id":"Q1075092"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054459,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fc161ac69cae5a1794b86b32ef29f47b",
+    "wof:geomhash":"db107cec35123d58423d94093af38e84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -189,7 +195,7 @@
         }
     ],
     "wof:id":890483295,
-    "wof:lastmodified":1690859900,
+    "wof:lastmodified":1695886452,
     "wof:name":"Pechora",
     "wof:parent_id":85688077,
     "wof:placetype":"county",

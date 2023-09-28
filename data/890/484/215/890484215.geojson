@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.224118,
-    "geom:area_square_m":1561378677.555124,
+    "geom:area_square_m":1561378871.855911,
     "geom:bbox":"35.81181,55.390591,36.593483,56.004967",
     "geom:latitude":55.70734,
     "geom:longitude":36.278212,
@@ -157,16 +157,22 @@
     "wof:concordances":{
         "gp:id":12598770,
         "hasc:id":"RU.MS.RU",
+        "meso:okato_code":"46249000",
+        "meso:oktmo_code":"46649000",
         "qs_pg:id":1087102,
         "wd:id":"Q2627668",
         "wk:page":"Ruzsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054503,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4e669bf4fde5be4d7681bfcd3986c421",
+    "wof:geomhash":"5f4977e82d10576f7b0edf631fde305d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":890484215,
-    "wof:lastmodified":1690859945,
+    "wof:lastmodified":1695886465,
     "wof:name":"Ruzskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

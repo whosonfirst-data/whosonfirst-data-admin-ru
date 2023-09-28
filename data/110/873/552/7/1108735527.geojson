@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.KD.NR"
+        "hasc:id":"RU.KD.NR",
+        "meso:okato_code":"03420000",
+        "meso:oktmo_code":"03720000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902244,
     "wof:geomhash":"a6ea9d2d055ca69390e29dc6afeb08da",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735527,
-    "wof:lastmodified":1694639762,
+    "wof:lastmodified":1695886322,
     "wof:name":"Novorossijsk",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

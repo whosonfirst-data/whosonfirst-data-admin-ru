@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SR.KK",
+        "meso:okato_code":"63223000",
+        "meso:oktmo_code":"63623000",
         "wd:id":"Q1653107"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901598,
     "wof:geomhash":"5d6785e36e483cf8a44f3198ddebd941",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108734721,
-    "wof:lastmodified":1694639750,
+    "wof:lastmodified":1695886283,
     "wof:name":"Krasnokutskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

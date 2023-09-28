@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139718,
-    "geom:area_square_m":938809574.78693,
+    "geom:area_square_m":938809936.646958,
     "geom:bbox":"41.362884,56.918904,42.079622,57.276561",
     "geom:latitude":57.084239,
     "geom:longitude":41.721566,
@@ -148,15 +148,21 @@
     "wof:concordances":{
         "gn:id":501709,
         "hasc:id":"RU.IV.RO",
+        "meso:okato_code":"24223000",
+        "meso:oktmo_code":"24623000",
         "qs_pg:id":369257,
         "wd:id":"Q2218592"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054200,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e68bfa0b48a414153a4ce12d6c3d26c1",
+    "wof:geomhash":"31d1b70dfaa3050558e6f090c933af21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":890478715,
-    "wof:lastmodified":1690859790,
+    "wof:lastmodified":1695886439,
     "wof:name":"Rodnikovskiy",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

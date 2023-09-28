@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.LP.US",
+        "meso:okato_code":"42248000",
+        "meso:oktmo_code":"42648000",
         "wd:id":"Q1658666"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903596,
     "wof:geomhash":"2735afc748b3b70806a3e29efbae7dce",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108737205,
-    "wof:lastmodified":1694639790,
+    "wof:lastmodified":1695886416,
     "wof:name":"Usmanskiy",
     "wof:parent_id":85687917,
     "wof:placetype":"county",

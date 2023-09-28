@@ -123,9 +123,15 @@
     "wof:concordances":{
         "gp:id":12599591,
         "hasc:id":"RU.VO.BV",
+        "meso:okato_code":"19208000",
+        "meso:oktmo_code":"19608000",
         "qs_pg:id":1026355,
         "wk:page":"Babushkinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054481,
     "wof:geom_alt":[
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":890483755,
-    "wof:lastmodified":1694639808,
+    "wof:lastmodified":1695886451,
     "wof:name":"Babushkinskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",

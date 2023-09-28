@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000727,
-    "geom:area_square_m":5039624.020755,
+    "geom:area_square_m":5039695.40238,
     "geom:bbox":"37.547626,55.886765,37.588464,55.911946",
     "geom:latitude":55.90039,
     "geom:longitude":37.57076,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45280563",
+        "meso:oktmo_code":"45354000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902728,
-    "wof:geomhash":"b95ba01a2f65006456b6236ed97a7dfa",
+    "wof:geomhash":"f257328f2753170154cbaf07eeb9120d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736141,
-    "wof:lastmodified":1627522620,
+    "wof:lastmodified":1695886296,
     "wof:name":"Lianozovo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

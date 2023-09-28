@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.127443,
-    "geom:area_square_m":884484408.565944,
+    "geom:area_square_m":884484512.66158,
     "geom:bbox":"38.059312,55.671565,38.649097,56.075866",
     "geom:latitude":55.856177,
     "geom:longitude":38.383249,
@@ -151,15 +151,21 @@
     "wof:concordances":{
         "gn:id":520066,
         "hasc:id":"RU.MS.NG",
+        "meso:okato_code":"46239000",
+        "meso:oktmo_code":"46639000",
         "qs_pg:id":369359,
         "wd:id":"Q1743926"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054252,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a153839f29c5cc8aff3d12e7ad1a1a18",
+    "wof:geomhash":"b9e4d063f88aff02edad6461a7ee3517",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":890479587,
-    "wof:lastmodified":1690859975,
+    "wof:lastmodified":1695886470,
     "wof:name":"Noginskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

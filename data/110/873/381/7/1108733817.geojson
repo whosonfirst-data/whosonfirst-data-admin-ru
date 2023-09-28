@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00377,
-    "geom:area_square_m":24470284.482073,
+    "geom:area_square_m":24470106.994644,
     "geom:bbox":"44.716027,58.283755,44.810144,58.372907",
     "geom:latitude":58.333544,
     "geom:longitude":44.765035,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"34414000",
+        "meso:oktmo_code":"34714000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900827,
-    "wof:geomhash":"9e5daf0cbf741df6a136955c79cba604",
+    "wof:geomhash":"2dc8a29920a338881e3e3d00d3132661",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108733817,
-    "wof:lastmodified":1627522625,
+    "wof:lastmodified":1695886299,
     "wof:name":"Manturovo",
     "wof:parent_id":85688115,
     "wof:placetype":"county",

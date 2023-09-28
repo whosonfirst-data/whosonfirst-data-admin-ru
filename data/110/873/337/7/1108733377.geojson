@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.234624,
-    "geom:area_square_m":1643182603.428158,
+    "geom:area_square_m":1643182565.243059,
     "geom:bbox":"54.481706,55.249707,55.271946,55.756491",
     "geom:latitude":55.501275,
     "geom:longitude":54.894368,
@@ -154,11 +154,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"80224000",
+        "meso:oktmo_code":"80624000",
         "wd:id":"Q1029966"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900417,
-    "wof:geomhash":"9b0af1fd6a73193ebaeb578da1f0a683",
+    "wof:geomhash":"7c79ea80129db411bed41dd258d7b2cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":1108733377,
-    "wof:lastmodified":1690859357,
+    "wof:lastmodified":1695886223,
     "wof:name":"Djurtjulinskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

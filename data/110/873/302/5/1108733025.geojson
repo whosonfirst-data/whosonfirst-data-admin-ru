@@ -119,8 +119,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.IR.BR",
+        "meso:okato_code":"25202000",
+        "meso:oktmo_code":"25602000",
         "wd:id":"Q1651087"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900114,
     "wof:geomhash":"5ea065055f1bc163e9402acb034027ba",
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":1108733025,
-    "wof:lastmodified":1694492723,
+    "wof:lastmodified":1695886201,
     "wof:name":"Bodajbinskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

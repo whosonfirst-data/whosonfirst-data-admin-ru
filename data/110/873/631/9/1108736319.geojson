@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SR.RG",
+        "meso:okato_code":"63241000",
+        "meso:oktmo_code":"63641000",
         "wd:id":"Q1785638"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902861,
     "wof:geomhash":"d9e2deb7fc9b2b0cebb733b1390d4239",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108736319,
-    "wof:lastmodified":1694639774,
+    "wof:lastmodified":1695886358,
     "wof:name":"Rtishhevskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SL.TO"
+        "hasc:id":"RU.SL.TO",
+        "meso:okato_code":"64248000",
+        "meso:oktmo_code":"64748000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903473,
     "wof:geomhash":"99144ab88d6ca029626c4f1debdc2701",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108737057,
-    "wof:lastmodified":1694639788,
+    "wof:lastmodified":1695886408,
     "wof:name":"Tomarinskiy",
     "wof:parent_id":85688125,
     "wof:placetype":"county",

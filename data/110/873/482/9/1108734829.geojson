@@ -125,8 +125,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TL.KU",
+        "meso:okato_code":"70230000",
+        "meso:oktmo_code":"70630000",
         "wd:id":"Q1653068"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901695,
     "wof:geomhash":"27bb0cc308e91bdd57e9247fdf2a0838",
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":1108734829,
-    "wof:lastmodified":1694639752,
+    "wof:lastmodified":1695886289,
     "wof:name":"Kurkinskiy",
     "wof:parent_id":85688203,
     "wof:placetype":"county",

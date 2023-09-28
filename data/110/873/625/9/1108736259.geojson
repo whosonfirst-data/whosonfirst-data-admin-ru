@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00218,
-    "geom:area_square_m":15192526.002175,
+    "geom:area_square_m":15192564.449735,
     "geom:bbox":"37.789964,55.675999,37.86374,55.720628",
     "geom:latitude":55.695804,
     "geom:longitude":37.82426,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45290554",
+        "meso:oktmo_code":"45385000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902813,
-    "wof:geomhash":"2d2520f08eda469a8117519dc09cbeaf",
+    "wof:geomhash":"32ab160d75b55472d7d6d6f703c71c93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736259,
-    "wof:lastmodified":1627522730,
+    "wof:lastmodified":1695886429,
     "wof:name":"Vykhino-ZHulebino",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

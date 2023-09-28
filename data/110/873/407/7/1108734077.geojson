@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.607412,
-    "geom:area_square_m":3513794033.271735,
+    "geom:area_square_m":3513794121.288645,
     "geom:bbox":"128.501431,61.759752,130.047149,62.395254",
     "geom:latitude":62.106125,
     "geom:longitude":129.25564,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"98401000",
+        "meso:oktmo_code":"98701000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901041,
-    "wof:geomhash":"39a5f23442fa18d426dee86326bf01ae",
+    "wof:geomhash":"8e732f9b9d89e304db38d48d18030076",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108734077,
-    "wof:lastmodified":1627522573,
+    "wof:lastmodified":1695886241,
     "wof:name":"Jakutsk",
     "wof:parent_id":85687843,
     "wof:placetype":"county",

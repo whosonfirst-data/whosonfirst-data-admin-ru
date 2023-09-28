@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000754,
-    "geom:area_square_m":5233786.465625,
+    "geom:area_square_m":5233807.697283,
     "geom:bbox":"37.476102,55.810435,37.519007,55.845496",
     "geom:latitude":55.82746,
     "geom:longitude":37.497144,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45277565",
+        "meso:oktmo_code":"45336000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903755,
-    "wof:geomhash":"3674a6d37cb81926849e403a81b5e6a3",
+    "wof:geomhash":"9d1796cf1e262a010df3fc60afe95a8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108737545,
-    "wof:lastmodified":1627522727,
+    "wof:lastmodified":1695886426,
     "wof:name":"Vojkovskiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

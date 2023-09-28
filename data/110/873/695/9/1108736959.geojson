@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OM.TA",
+        "meso:okato_code":"52253000",
+        "meso:oktmo_code":"52653000",
         "wd:id":"Q1656108"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903376,
     "wof:geomhash":"0b0dec58d7965c21eb0045057b6d5422",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108736959,
-    "wof:lastmodified":1694639785,
+    "wof:lastmodified":1695886399,
     "wof:name":"Tavricheskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PZ.BA",
+        "meso:okato_code":"56203000",
+        "meso:oktmo_code":"56603000",
         "wd:id":"Q791222"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899979,
     "wof:geomhash":"a35800e047ec41ded0893b27e56e47db",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108732899,
-    "wof:lastmodified":1694639683,
+    "wof:lastmodified":1695886222,
     "wof:name":"Bashmakovskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",

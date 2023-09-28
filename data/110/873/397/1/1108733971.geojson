@@ -173,8 +173,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BK.IG",
+        "meso:okato_code":"80228000",
+        "meso:oktmo_code":"80628000",
         "wd:id":"Q636221"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900955,
     "wof:geomhash":"865403918566050f6315b80f0a9b6e70",
@@ -188,7 +194,7 @@
         }
     ],
     "wof:id":1108733971,
-    "wof:lastmodified":1694639741,
+    "wof:lastmodified":1695886244,
     "wof:name":"Iglinskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

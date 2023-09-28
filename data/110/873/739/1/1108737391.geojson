@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.RO.VS"
+        "hasc:id":"RU.RO.VS",
+        "meso:okato_code":"60209000",
+        "meso:oktmo_code":"60609000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903723,
     "wof:geomhash":"f70431bca9a0e46c4c39ea8d4a5bb4f8",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108737391,
-    "wof:lastmodified":1694639792,
+    "wof:lastmodified":1695886424,
     "wof:name":"Veselovskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VG.SE",
+        "meso:okato_code":"18250000",
+        "meso:oktmo_code":"18650000",
         "wd:id":"Q1653988"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902948,
     "wof:geomhash":"84d1329e8d7c71deba7273ae44e80775",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108736437,
-    "wof:lastmodified":1694639776,
+    "wof:lastmodified":1695886364,
     "wof:name":"Serafimovichskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

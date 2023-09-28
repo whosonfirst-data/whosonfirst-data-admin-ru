@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.213542,
-    "geom:area_square_m":1830065107.718895,
+    "geom:area_square_m":1830064772.279782,
     "geom:bbox":"149.39209,45.57122,152.289551,47.169613",
     "geom:latitude":46.124152,
     "geom:longitude":150.367173,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"64220000",
+        "meso:oktmo_code":"64720000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901693,
-    "wof:geomhash":"e9af6a3ced9cad32e8af0452cc377ad0",
+    "wof:geomhash":"7c5a13167b5f8458af3ea9ce45c2c9f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108734827,
-    "wof:lastmodified":1627522605,
+    "wof:lastmodified":1695886277,
     "wof:name":"Kuril'skiy",
     "wof:parent_id":85688125,
     "wof:placetype":"county",

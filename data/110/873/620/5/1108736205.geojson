@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000136,
-    "geom:area_square_m":947730.213877,
+    "geom:area_square_m":947753.770747,
     "geom:bbox":"37.787727,55.799765,37.807278,55.811575",
     "geom:latitude":55.805853,
     "geom:longitude":37.798118,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45263585",
+        "meso:oktmo_code":"45313000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902773,
-    "wof:geomhash":"94a27dbb34c62d531951dd8f50433d8b",
+    "wof:geomhash":"a8143277d8813cfa6cda5ebb01b5158c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736205,
-    "wof:lastmodified":1627522680,
+    "wof:lastmodified":1695886366,
     "wof:name":"Severnoe Izmajlovo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

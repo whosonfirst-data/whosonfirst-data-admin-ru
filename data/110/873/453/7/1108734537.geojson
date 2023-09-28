@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OM.KS",
+        "meso:okato_code":"52221000",
+        "meso:oktmo_code":"52621000",
         "wd:id":"Q1652769"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901438,
     "wof:geomhash":"577852c274c8cd02d8fbcc0c20f62a4f",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108734537,
-    "wof:lastmodified":1694639748,
+    "wof:lastmodified":1695886273,
     "wof:name":"Kolosovskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TO.VE",
+        "meso:okato_code":"69216000",
+        "meso:oktmo_code":"69616000",
         "wd:id":"Q2218414"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903696,
     "wof:geomhash":"12d288b355230e059c032db0bb9c26c5",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108737337,
-    "wof:lastmodified":1694639792,
+    "wof:lastmodified":1695886422,
     "wof:name":"Verkhneketskiy",
     "wof:parent_id":85687809,
     "wof:placetype":"county",

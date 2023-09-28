@@ -158,8 +158,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TT.BA",
+        "meso:okato_code":"92215000",
+        "meso:oktmo_code":"92615000",
         "wd:id":"Q2670313"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899965,
     "wof:geomhash":"aa75d1dea069be45342dafccff1287f0",
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":1108732883,
-    "wof:lastmodified":1694639729,
+    "wof:lastmodified":1695886193,
     "wof:name":"Baltasinskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000509,
-    "geom:area_square_m":3537412.08695,
+    "geom:area_square_m":3537467.518324,
     "geom:bbox":"37.638716,55.768217,37.674882,55.792276",
     "geom:latitude":55.779139,
     "geom:longitude":37.655079,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45286565",
+        "meso:oktmo_code":"45378000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901607,
-    "wof:geomhash":"95cf1245669c05e382e98fda35a66d9b",
+    "wof:geomhash":"9fc88a97af6ff9ce77751a89ec047a94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108734731,
-    "wof:lastmodified":1627522611,
+    "wof:lastmodified":1695886284,
     "wof:name":"Krasnosel'skiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

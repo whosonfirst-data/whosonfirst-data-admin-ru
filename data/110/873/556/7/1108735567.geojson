@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130959,
-    "geom:area_square_m":983838236.022529,
+    "geom:area_square_m":983838408.153975,
     "geom:bbox":"31.49799,52.418667,32.268396,52.766193",
     "geom:latitude":52.586748,
     "geom:longitude":31.872806,
@@ -127,11 +127,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"15240000",
+        "meso:oktmo_code":"15640000",
         "wd:id":"Q2534592"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902275,
-    "wof:geomhash":"131db4a37b98a2d2709feed21b62fda5",
+    "wof:geomhash":"ea549e46a063b958e7dd24b1ba203184",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":1108735567,
-    "wof:lastmodified":1690859329,
+    "wof:lastmodified":1695886323,
     "wof:name":"Novozybkovskiy",
     "wof:parent_id":85688121,
     "wof:placetype":"county",

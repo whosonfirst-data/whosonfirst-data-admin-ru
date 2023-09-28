@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043804,
-    "geom:area_square_m":307728307.997006,
+    "geom:area_square_m":307728307.997074,
     "geom:bbox":"85.9075035128,55.2588284748,86.2066353246,55.5419129298",
     "geom:latitude":55.379767,
     "geom:longitude":86.058451,
@@ -278,10 +278,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"32401000",
+        "meso:oktmo_code":"32701000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901256,
-    "wof:geomhash":"2e0e0558eccb0c7a64e07447f32eda86",
+    "wof:geomhash":"2552692b112a85ec51777637cc4f2efe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -292,7 +299,7 @@
         }
     ],
     "wof:id":1108734319,
-    "wof:lastmodified":1566627011,
+    "wof:lastmodified":1695886228,
     "wof:name":"Kemerovo",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

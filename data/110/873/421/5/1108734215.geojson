@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.UD.KM",
+        "meso:okato_code":"94220000",
+        "meso:oktmo_code":"94620000",
         "wd:id":"Q639973"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901176,
     "wof:geomhash":"9d5f0440d9dad8a802dedf3670e14802",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108734215,
-    "wof:lastmodified":1694639743,
+    "wof:lastmodified":1695886256,
     "wof:name":"Kambarskiy",
     "wof:parent_id":85687787,
     "wof:placetype":"county",

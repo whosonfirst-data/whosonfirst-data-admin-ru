@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SM.RU",
+        "meso:okato_code":"66238000",
+        "meso:oktmo_code":"66638000",
         "wd:id":"Q2380292"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902866,
     "wof:geomhash":"2a5000ad36a2404ea88e9cf3d3b4e46b",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108736327,
-    "wof:lastmodified":1694639774,
+    "wof:lastmodified":1695886358,
     "wof:name":"Rudnjanskiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",

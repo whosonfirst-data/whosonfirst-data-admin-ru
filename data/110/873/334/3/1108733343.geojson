@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.VG.DA"
+        "hasc:id":"RU.VG.DA",
+        "meso:okato_code":"18206000",
+        "meso:oktmo_code":"18606000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900385,
     "wof:geomhash":"b0beae4a9e8b01676899746db556d400",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733343,
-    "wof:lastmodified":1694639735,
+    "wof:lastmodified":1695886221,
     "wof:name":"Danilovskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

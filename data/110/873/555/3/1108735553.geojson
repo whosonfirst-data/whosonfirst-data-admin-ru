@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.OB.NT"
+        "hasc:id":"RU.OB.NT",
+        "meso:okato_code":"53420000",
+        "meso:oktmo_code":"53720000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902264,
     "wof:geomhash":"0cacd1e63dfc41cd476c647748f5a090",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735553,
-    "wof:lastmodified":1694639762,
+    "wof:lastmodified":1695886323,
     "wof:name":"Novotroick",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00404,
-    "geom:area_square_m":28046741.332209,
+    "geom:area_square_m":28046783.27103,
     "geom:bbox":"37.679998,55.806891,37.783027,55.880146",
     "geom:latitude":55.842877,
     "geom:longitude":37.739384,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45263581",
+        "meso:oktmo_code":"45311000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902740,
-    "wof:geomhash":"b86d597b87cfca0cbf901ac1c8447d19",
+    "wof:geomhash":"ca4c8d591e61dfea771f787a16ddfbf5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736155,
-    "wof:lastmodified":1627522628,
+    "wof:lastmodified":1695886304,
     "wof:name":"Metrook",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

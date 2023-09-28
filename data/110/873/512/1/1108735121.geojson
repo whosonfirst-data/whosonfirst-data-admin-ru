@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.KT.ME"
+        "hasc:id":"RU.KT.ME",
+        "meso:okato_code":"34222000",
+        "meso:oktmo_code":"34622000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901935,
     "wof:geomhash":"79ebaf5df9e04d0161bd336325a75b9f",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735121,
-    "wof:lastmodified":1694639757,
+    "wof:lastmodified":1695886302,
     "wof:name":"Mezhevskoj",
     "wof:parent_id":85688115,
     "wof:placetype":"county",

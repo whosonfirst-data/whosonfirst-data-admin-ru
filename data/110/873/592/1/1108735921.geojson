@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.MM.AP"
+        "hasc:id":"RU.MM.AP",
+        "meso:okato_code":"47419000",
+        "meso:oktmo_code":"47719000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902556,
     "wof:geomhash":"17f5e6a9bdea9b46cd1ae33599e3b595",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735921,
-    "wof:lastmodified":1694639771,
+    "wof:lastmodified":1695886346,
     "wof:name":"Poljarnozorinskiy",
     "wof:parent_id":85687869,
     "wof:placetype":"county",

@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RZ.PR",
+        "meso:okato_code":"61225000",
+        "meso:oktmo_code":"61625000",
         "wd:id":"Q1644769"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902641,
     "wof:geomhash":"fe84d0b62c6c7eff2cd178837854234b",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108736017,
-    "wof:lastmodified":1694639772,
+    "wof:lastmodified":1695886352,
     "wof:name":"Pronskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

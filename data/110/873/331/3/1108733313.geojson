@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RO.TM",
+        "meso:okato_code":"60257000",
+        "meso:oktmo_code":"60657000",
         "wd:id":"Q2220857"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900362,
     "wof:geomhash":"ffa0ee6f2c88f49188a992b2358f1c6c",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108733313,
-    "wof:lastmodified":1694639682,
+    "wof:lastmodified":1695886213,
     "wof:name":"Cimljanskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

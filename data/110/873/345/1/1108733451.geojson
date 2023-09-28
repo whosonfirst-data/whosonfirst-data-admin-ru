@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.204327,
-    "geom:area_square_m":1835910796.901339,
+    "geom:area_square_m":1835909880.355568,
     "geom:bbox":"42.396598,43.134466,43.250928,43.65679",
     "geom:latitude":43.39369,
     "geom:longitude":42.837324,
@@ -148,11 +148,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"83248000",
+        "meso:oktmo_code":"83648000",
         "wd:id":"Q19262"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900481,
-    "wof:geomhash":"36902f85719abf5e2edb98a5409da9ae",
+    "wof:geomhash":"4d7ef80a8f820e8ecfd4735aef3accef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":1108733451,
-    "wof:lastmodified":1690859707,
+    "wof:lastmodified":1695886265,
     "wof:name":"Ehl'brusskiy",
     "wof:parent_id":85688089,
     "wof:placetype":"county",

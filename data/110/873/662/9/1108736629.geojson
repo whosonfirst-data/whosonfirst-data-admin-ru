@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VO.SY",
+        "meso:okato_code":"19240000",
+        "meso:oktmo_code":"19640000",
         "wd:id":"Q2217973"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903109,
     "wof:geomhash":"1f812daeaed1a9505c044e5eca8b1505",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108736629,
-    "wof:lastmodified":1694639779,
+    "wof:lastmodified":1695886378,
     "wof:name":"Sjamzhenskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",

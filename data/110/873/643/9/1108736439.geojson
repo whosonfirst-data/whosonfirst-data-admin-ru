@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PZ.SR",
+        "meso:okato_code":"56256000",
+        "meso:oktmo_code":"56656000",
         "wd:id":"Q1653888"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902949,
     "wof:geomhash":"b56a76bc7a5fea05b26b62436d3b8f50",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108736439,
-    "wof:lastmodified":1694639776,
+    "wof:lastmodified":1695886364,
     "wof:name":"Serdobskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",

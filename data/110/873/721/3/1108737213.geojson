@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.IR.UO",
+        "meso:okato_code":"57253000",
+        "meso:oktmo_code":"57653000",
         "wd:id":"Q1028996"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903601,
     "wof:geomhash":"9448c4fed54106a39bf8aff36972345a",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108737213,
-    "wof:lastmodified":1694492782,
+    "wof:lastmodified":1695886416,
     "wof:name":"Usol'skiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

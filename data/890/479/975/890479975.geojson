@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.183504,
-    "geom:area_square_m":1315915691.947318,
+    "geom:area_square_m":1315915676.330712,
     "geom:bbox":"34.406121,54.354818,35.286889,54.76305",
     "geom:latitude":54.553714,
     "geom:longitude":34.85753,
@@ -148,16 +148,22 @@
     "wof:concordances":{
         "gp:id":12598407,
         "hasc:id":"RU.KG.MO",
+        "meso:okato_code":"29229000",
+        "meso:oktmo_code":"29629000",
         "qs_pg:id":268772,
         "wd:id":"Q1653568",
         "wk:page":"Mosalsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054277,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3f5c97fb62caa204f475073e69a23781",
+    "wof:geomhash":"8fb0fb7190f806e52e61e2f89a3d96b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":890479975,
-    "wof:lastmodified":1690859997,
+    "wof:lastmodified":1695886471,
     "wof:name":"Mosal'skiy",
     "wof:parent_id":85688131,
     "wof:placetype":"county",

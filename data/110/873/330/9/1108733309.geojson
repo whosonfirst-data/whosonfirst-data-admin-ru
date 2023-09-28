@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.PE.CS"
+        "hasc:id":"RU.PE.CS",
+        "meso:okato_code":"57440000",
+        "meso:oktmo_code":"57658000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900359,
     "wof:geomhash":"ceb3ebfe306b09a7cd06877789b73fca",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733309,
-    "wof:lastmodified":1694639786,
+    "wof:lastmodified":1695886402,
     "wof:name":"Chusovskoj",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

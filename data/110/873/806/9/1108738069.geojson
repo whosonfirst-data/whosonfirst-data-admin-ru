@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130299,
-    "geom:area_square_m":986862596.716748,
+    "geom:area_square_m":986862901.35472,
     "geom:bbox":"35.123969,52.021528,35.704163,52.445569",
     "geom:latitude":52.228576,
     "geom:longitude":35.455774,
@@ -121,11 +121,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"38210000",
+        "meso:oktmo_code":"38610000",
         "wd:id":"Q2628845"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903874,
-    "wof:geomhash":"99db2779444125696a1a91f3ddffe4f0",
+    "wof:geomhash":"f5051af4d30cd33cbce6df265c2acd79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1108738069,
-    "wof:lastmodified":1690859667,
+    "wof:lastmodified":1695886252,
     "wof:name":"Zheleznogorskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

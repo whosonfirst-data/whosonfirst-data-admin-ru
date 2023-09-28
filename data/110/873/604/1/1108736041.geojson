@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PS.PY",
+        "meso:okato_code":"58253000",
+        "meso:oktmo_code":"58653000",
         "wd:id":"Q2533375"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902657,
     "wof:geomhash":"403d6946366b4aae53dbbaf2025dd9a7",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108736041,
-    "wof:lastmodified":1694639773,
+    "wof:lastmodified":1695886353,
     "wof:name":"Pytalovskiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092938,
-    "geom:area_square_m":646078887.839707,
+    "geom:area_square_m":646079208.74414,
     "geom:bbox":"48.836175,55.604813,49.380094,55.936018",
     "geom:latitude":55.791671,
     "geom:longitude":49.130319,
@@ -125,15 +125,21 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12597540,
+        "meso:okato_code":"92401000",
+        "meso:oktmo_code":"92701000",
         "qs_pg:id":425062,
         "wk:page":"Ustyuzhensky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054433,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"91b7a873aa36430943740f64e6b5b5b0",
+    "wof:geomhash":"c5ca61e052cf8adb652eacc54ae45b3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,7 +150,7 @@
         }
     ],
     "wof:id":890482737,
-    "wof:lastmodified":1642541485,
+    "wof:lastmodified":1695886446,
     "wof:name":"Kazan'",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

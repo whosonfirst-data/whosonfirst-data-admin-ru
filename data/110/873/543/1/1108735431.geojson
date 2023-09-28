@@ -84,8 +84,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.LN.SR"
+        "hasc:id":"RU.LN.SR",
+        "meso:okato_code":"NO DATA",
+        "meso:oktmo_code":"NO DATA"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902182,
     "wof:geomhash":"0f722b2c9cf140424652175742d8cc04",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1108735431,
-    "wof:lastmodified":1694639779,
+    "wof:lastmodified":1695886377,
     "wof:name":"Slantsevskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",

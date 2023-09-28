@@ -155,8 +155,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.MR.IC",
+        "meso:okato_code":"89226000",
+        "meso:oktmo_code":"89626000",
         "wd:id":"Q940340"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900949,
     "wof:geomhash":"467f2f7954f2e397b30925919a87e76f",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1108733965,
-    "wof:lastmodified":1694639740,
+    "wof:lastmodified":1695886242,
     "wof:name":"Ichalkovskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012476,
-    "geom:area_square_m":84029932.180475,
+    "geom:area_square_m":84030004.860744,
     "geom:bbox":"60.382509,56.918633,60.52088,57.058008",
     "geom:latitude":56.997225,
     "geom:longitude":60.456066,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"65420000",
+        "meso:oktmo_code":"65757000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900875,
-    "wof:geomhash":"a52a60efb1356a940208b6ca1c08fbc4",
+    "wof:geomhash":"765dce76b5edeccd40f50158b0a55466",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108733867,
-    "wof:lastmodified":1627522694,
+    "wof:lastmodified":1695886385,
     "wof:name":"Sredneural'sk",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

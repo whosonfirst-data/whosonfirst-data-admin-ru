@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VR.KN",
+        "meso:okato_code":"20219000",
+        "meso:oktmo_code":"20619000",
         "wd:id":"Q1652710"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901212,
     "wof:geomhash":"992239da03dbdff1cbf8285e08310d23",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108734259,
-    "wof:lastmodified":1694639744,
+    "wof:lastmodified":1695886258,
     "wof:name":"Kantemirovskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

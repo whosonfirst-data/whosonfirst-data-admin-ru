@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.620748,
-    "geom:area_square_m":4495793432.914001,
+    "geom:area_square_m":4495793492.95238,
     "geom:bbox":"60.239923,53.896379,62.343926,54.43292",
     "geom:latitude":54.146042,
     "geom:longitude":61.328144,
@@ -120,11 +120,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"75254000",
+        "meso:oktmo_code":"75654000",
         "wd:id":"Q3999619"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903498,
-    "wof:geomhash":"097a85316fbca4aca9c03ae4478636dc",
+    "wof:geomhash":"defd122035ce3e385191a40df1e11123",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":1108737087,
-    "wof:lastmodified":1690859350,
+    "wof:lastmodified":1695886215,
     "wof:name":"Troickij",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

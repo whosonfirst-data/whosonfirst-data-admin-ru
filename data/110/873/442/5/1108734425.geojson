@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008186,
-    "geom:area_square_m":60596664.018312,
+    "geom:area_square_m":60596622.732275,
     "geom:bbox":"50.551461,53.182454,50.687765,53.281047",
     "geom:latitude":53.227183,
     "geom:longitude":50.615142,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"36408000",
+        "meso:oktmo_code":"36708000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901349,
-    "wof:geomhash":"b4bbee7719c40210bfdcd5d418eed886",
+    "wof:geomhash":"e886066457199c2cc4273ae207a3a9df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108734425,
-    "wof:lastmodified":1627522596,
+    "wof:lastmodified":1695886268,
     "wof:name":"Kinel'",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

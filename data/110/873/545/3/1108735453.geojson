@@ -84,8 +84,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.RZ.KA"
+        "hasc:id":"RU.RZ.KA",
+        "meso:okato_code":"NO DATA",
+        "meso:oktmo_code":"NO DATA"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902190,
     "wof:geomhash":"679c73b5f19ba986e219b602d2a98738",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1108735453,
-    "wof:lastmodified":1694639743,
+    "wof:lastmodified":1695886255,
     "wof:name":"Kadomskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

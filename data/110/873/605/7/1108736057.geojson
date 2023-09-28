@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000634,
-    "geom:area_square_m":4411217.095012,
+    "geom:area_square_m":4411158.137073,
     "geom:bbox":"37.544692,55.774614,37.586841,55.79417",
     "geom:latitude":55.783659,
     "geom:longitude":37.566347,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45277556",
+        "meso:oktmo_code":"45334000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902667,
-    "wof:geomhash":"a5a71fa6dd74f41a9b8a78f6841fbfd0",
+    "wof:geomhash":"66b55084c607f79f11518976c6dd9fbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736057,
-    "wof:lastmodified":1627522542,
+    "wof:lastmodified":1695886195,
     "wof:name":"Begovoj",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

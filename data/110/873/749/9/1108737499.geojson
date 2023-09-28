@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SM.VR",
+        "meso:okato_code":"66205000",
+        "meso:oktmo_code":"66605000",
         "wd:id":"Q2445430"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903743,
     "wof:geomhash":"0ceb09a5f2147d3e20f7da4798734c16",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108737499,
-    "wof:lastmodified":1694639685,
+    "wof:lastmodified":1695886233,
     "wof:name":"Vjazemskiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",

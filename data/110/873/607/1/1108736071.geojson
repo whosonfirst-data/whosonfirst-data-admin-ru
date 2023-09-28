@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000834,
-    "geom:area_square_m":5819784.916494,
+    "geom:area_square_m":5819737.629588,
     "geom:bbox":"37.543328,55.647613,37.584016,55.680636",
     "geom:latitude":55.664218,
     "geom:longitude":37.561456,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45293590",
+        "meso:oktmo_code":"45908000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902677,
-    "wof:geomhash":"a1439a877964d9523fe1fe0b8ce13ad2",
+    "wof:geomhash":"683220a62a6808bee93c606af96b58d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108736071,
-    "wof:lastmodified":1627522558,
+    "wof:lastmodified":1695886219,
     "wof:name":"Cherjomushki",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

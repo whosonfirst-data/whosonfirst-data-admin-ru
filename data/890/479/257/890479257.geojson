@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.263868,
-    "geom:area_square_m":1811860544.360975,
+    "geom:area_square_m":1811860754.003416,
     "geom:bbox":"41.034001,55.958393,41.949573,56.528428",
     "geom:latitude":56.267596,
     "geom:longitude":41.431266,
@@ -152,15 +152,21 @@
         "gn:id":543454,
         "gp:id":12599534,
         "hasc:id":"RU.VL.KR",
+        "meso:okato_code":"17235000",
+        "meso:oktmo_code":"17635000",
         "qs_pg:id":369538,
         "wd:id":"Q1652584"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054232,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f45a35bf660f7a3e2b5ad82851dc9fb9",
+    "wof:geomhash":"0da28464bbe9f721cf1db6f1f85c2951",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":890479257,
-    "wof:lastmodified":1690859964,
+    "wof:lastmodified":1695886468,
     "wof:name":"Kovrovskiy",
     "wof:parent_id":85687981,
     "wof:placetype":"county",

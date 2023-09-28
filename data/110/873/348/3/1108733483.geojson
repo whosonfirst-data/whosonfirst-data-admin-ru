@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VG.EL",
+        "meso:okato_code":"18210000",
+        "meso:oktmo_code":"18610000",
         "wd:id":"Q1651977"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900509,
     "wof:geomhash":"d294776bb62629f9b6ebd61aaf4dd92c",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108733483,
-    "wof:lastmodified":1694639794,
+    "wof:lastmodified":1695886432,
     "wof:name":"Elanskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

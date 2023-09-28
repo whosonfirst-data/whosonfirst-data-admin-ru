@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00069,
-    "geom:area_square_m":4771536.774174,
+    "geom:area_square_m":4771527.384852,
     "geom:bbox":"37.179691,55.967353,37.221956,55.994801",
     "geom:latitude":55.981846,
     "geom:longitude":37.200796,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45272576",
+        "meso:oktmo_code":"45927000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902792,
-    "wof:geomhash":"81b8e0098f32236619dab271d75e913a",
+    "wof:geomhash":"43b2cc8f59df2eaa650bdc7bb8b1b17b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736229,
-    "wof:lastmodified":1627522694,
+    "wof:lastmodified":1695886385,
     "wof:name":"Staroe Krjukovo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

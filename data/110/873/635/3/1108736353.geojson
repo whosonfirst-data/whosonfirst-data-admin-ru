@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157729,
-    "geom:area_square_m":1090109949.667765,
+    "geom:area_square_m":1090110118.091449,
     "geom:bbox":"50.099385,55.77259,50.767637,56.25112",
     "geom:latitude":56.018075,
     "geom:longitude":50.453491,
@@ -139,11 +139,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"92252000",
+        "meso:oktmo_code":"92652000",
         "wd:id":"Q2220508"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902887,
-    "wof:geomhash":"5b76a349d768d29eebbdc4518ecf0976",
+    "wof:geomhash":"4703c0d64d34ed8ca90f29f1529cfa36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":1108736353,
-    "wof:lastmodified":1690859466,
+    "wof:lastmodified":1695886360,
     "wof:name":"Sabinskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

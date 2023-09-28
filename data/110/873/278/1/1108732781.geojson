@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.PR.AS"
+        "hasc:id":"RU.PR.AS",
+        "meso:okato_code":"05403000",
+        "meso:oktmo_code":"05703000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899865,
     "wof:geomhash":"9fa339cdc7be206ba99fa60884c66e0f",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108732781,
-    "wof:lastmodified":1694639727,
+    "wof:lastmodified":1695886187,
     "wof:name":"Arsen'evskiy",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

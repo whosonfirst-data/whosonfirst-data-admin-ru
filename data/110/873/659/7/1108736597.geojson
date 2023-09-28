@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PR.SH",
+        "meso:okato_code":"05257000",
+        "meso:oktmo_code":"05657000",
         "wd:id":"Q1655485"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903075,
     "wof:geomhash":"a6ac276cbaf5759a33af4563d35a472c",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108736597,
-    "wof:lastmodified":1694639779,
+    "wof:lastmodified":1695886375,
     "wof:name":"Shkotovskiy",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

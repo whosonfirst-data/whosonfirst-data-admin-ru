@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00064,
-    "geom:area_square_m":4458053.493425,
+    "geom:area_square_m":4458081.671636,
     "geom:bbox":"37.725275,55.689883,37.753377,55.725043",
     "geom:latitude":55.706403,
     "geom:longitude":37.739027,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45290590",
+        "meso:oktmo_code":"45395000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902796,
-    "wof:geomhash":"0961e5645bf35181013d27eb69084b4d",
+    "wof:geomhash":"3f85f155b75545314921d28172d41dff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736237,
-    "wof:lastmodified":1627522707,
+    "wof:lastmodified":1695886403,
     "wof:name":"Tekstil'shhiki",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

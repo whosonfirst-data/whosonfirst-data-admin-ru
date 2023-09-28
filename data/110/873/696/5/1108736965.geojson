@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KD.TB",
+        "meso:okato_code":"03249000",
+        "meso:oktmo_code":"03649000",
         "wd:id":"Q918129"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903387,
     "wof:geomhash":"148e16c3fb191dc3ecd2eb788f4bb223",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108736965,
-    "wof:lastmodified":1694639785,
+    "wof:lastmodified":1695886401,
     "wof:name":"Tbilisskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

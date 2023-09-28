@@ -151,10 +151,16 @@
     "wof:concordances":{
         "gp:id":12597889,
         "hasc:id":"RU.KY.TU",
+        "meso:okato_code":"04254000",
+        "meso:oktmo_code":"04654000",
         "qs_pg:id":989698,
         "wd:id":"Q2156680",
         "wk:page":"Turukhansky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054469,
     "wof:geom_alt":[
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":890483495,
-    "wof:lastmodified":1694493016,
+    "wof:lastmodified":1695886459,
     "wof:name":"Turukhanskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

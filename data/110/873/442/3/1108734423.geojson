@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.329452,
-    "geom:area_square_m":2426057678.70117,
+    "geom:area_square_m":2426057870.530109,
     "geom:bbox":"50.876873,53.182576,52.21117,53.709108",
     "geom:latitude":53.449018,
     "geom:longitude":51.444204,
@@ -118,11 +118,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"36220000",
+        "meso:oktmo_code":"36620000",
         "wd:id":"Q2636683"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901347,
-    "wof:geomhash":"0ffe0b9e326a34dd34747063fec304c1",
+    "wof:geomhash":"6f892664fc7eced223579447c6bf13eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":1108734423,
-    "wof:lastmodified":1690859624,
+    "wof:lastmodified":1695886268,
     "wof:name":"Kinel'-CHerkasskiy",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

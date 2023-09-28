@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OL.KS",
+        "meso:okato_code":"54226000",
+        "meso:oktmo_code":"54626000",
         "wd:id":"Q1774134"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901491,
     "wof:geomhash":"02993f4a28e4ba01fd8fc3f1b3546952",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108734595,
-    "wof:lastmodified":1694639749,
+    "wof:lastmodified":1695886275,
     "wof:name":"Korsakovskiy",
     "wof:parent_id":85687849,
     "wof:placetype":"county",

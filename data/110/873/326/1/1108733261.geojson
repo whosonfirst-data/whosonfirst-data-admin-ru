@@ -125,8 +125,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TL.CH",
+        "meso:okato_code":"70246000",
+        "meso:oktmo_code":"70646000",
         "wd:id":"Q1651502"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900315,
     "wof:geomhash":"6aa441ab0ee96733d184ae5949c3c1b8",
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":1108733261,
-    "wof:lastmodified":1694639734,
+    "wof:lastmodified":1695886216,
     "wof:name":"Chernskiy",
     "wof:parent_id":85688203,
     "wof:placetype":"county",

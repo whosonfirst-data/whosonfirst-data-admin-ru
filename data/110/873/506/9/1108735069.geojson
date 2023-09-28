@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SR.MR",
+        "meso:okato_code":"63226000",
+        "meso:oktmo_code":"63626000",
         "wd:id":"Q516637"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901891,
     "wof:geomhash":"29ac9b42e6491a1d2c7110136e5dabe7",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108735069,
-    "wof:lastmodified":1694639756,
+    "wof:lastmodified":1695886300,
     "wof:name":"Marksovskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TV.SN",
+        "meso:okato_code":"28251000",
+        "meso:oktmo_code":"28651000",
         "wd:id":"Q369204"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903164,
     "wof:geomhash":"617dcfd8bafe62754b2b30ca7bc11e4d",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108736711,
-    "wof:lastmodified":1694639781,
+    "wof:lastmodified":1695886381,
     "wof:name":"Sonkovskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

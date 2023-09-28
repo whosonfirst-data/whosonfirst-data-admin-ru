@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PE.EL",
+        "meso:okato_code":"57218000",
+        "meso:oktmo_code":"57618000",
         "wd:id":"Q972704"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900517,
     "wof:geomhash":"b1370c73b8cb3f58a4742dbc5a55be11",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108733493,
-    "wof:lastmodified":1694639794,
+    "wof:lastmodified":1695886432,
     "wof:name":"Elovskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

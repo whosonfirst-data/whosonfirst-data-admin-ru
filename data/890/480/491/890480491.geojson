@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.186697,
-    "geom:area_square_m":1443122913.617313,
+    "geom:area_square_m":1443123004.445672,
     "geom:bbox":"46.612742,51.053635,47.201485,51.521861",
     "geom:latitude":51.308735,
     "geom:longitude":46.904301,
@@ -148,16 +148,22 @@
     "wof:concordances":{
         "gp:id":12599253,
         "hasc:id":"RU.SR.SO",
+        "meso:okato_code":"63244000",
+        "meso:oktmo_code":"63644000",
         "qs_pg:id":1312540,
         "wd:id":"Q3965667",
         "wk:page":"Sovetsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054309,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"38af2f5990e3c71df060552831cfc382",
+    "wof:geomhash":"86ffe819a3df6653cbd2f6ef1c159d2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":890480491,
-    "wof:lastmodified":1690860129,
+    "wof:lastmodified":1695886489,
     "wof:name":"Sovetskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

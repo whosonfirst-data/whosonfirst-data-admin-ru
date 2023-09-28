@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025949,
-    "geom:area_square_m":221421773.330047,
+    "geom:area_square_m":221421670.950729,
     "geom:bbox":"47.895342,46.258849,48.192269,46.470547",
     "geom:latitude":46.363944,
     "geom:longitude":48.035792,
@@ -141,15 +141,21 @@
     "wof:concordances":{
         "gp:id":12598039,
         "hasc:id":"RU.AS.PR",
+        "meso:okato_code":"12401000",
+        "meso:oktmo_code":"12701000",
         "qs_pg:id":238990,
         "wk:page":"Akhtubinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054661,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e5ce85375ff99075b4ac1909986838f6",
+    "wof:geomhash":"923a72cf19bc09d2b757f76cedef4c2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,7 +166,7 @@
         }
     ],
     "wof:id":890487191,
-    "wof:lastmodified":1642541520,
+    "wof:lastmodified":1695886481,
     "wof:name":"Astrakhan'",
     "wof:parent_id":85687985,
     "wof:placetype":"county",

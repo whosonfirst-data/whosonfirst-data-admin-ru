@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01714,
-    "geom:area_square_m":100385933.409975,
+    "geom:area_square_m":100385933.409995,
     "geom:bbox":"75.3587732887,61.6623285963,75.6528165966,61.7805992546",
     "geom:latitude":61.728239,
     "geom:longitude":75.512548,
@@ -155,10 +155,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"71184000",
+        "meso:oktmo_code":"71884000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900694,
-    "wof:geomhash":"1dd418de83f75a0157c1cf68203ea948",
+    "wof:geomhash":"8a4eba86b7b67791fb6c5e0dea843651",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,7 +176,7 @@
         }
     ],
     "wof:id":1108733665,
-    "wof:lastmodified":1566627119,
+    "wof:lastmodified":1695886236,
     "wof:name":"Pokachi",
     "wof:parent_id":85687919,
     "wof:placetype":"county",

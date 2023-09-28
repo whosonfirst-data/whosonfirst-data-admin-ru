@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SL.KR"
+        "hasc:id":"RU.SL.KR",
+        "meso:okato_code":"64254000",
+        "meso:oktmo_code":"64754000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901304,
     "wof:geomhash":"fe3d54f04281d049b1b0db6c10f5d124",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108734379,
-    "wof:lastmodified":1694639745,
+    "wof:lastmodified":1695886266,
     "wof:name":"Kholmskiy",
     "wof:parent_id":85688125,
     "wof:placetype":"county",

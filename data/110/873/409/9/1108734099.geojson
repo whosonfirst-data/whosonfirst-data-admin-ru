@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TY.YA",
+        "meso:okato_code":"71258000",
+        "meso:oktmo_code":"71658000",
         "wd:id":"Q1753250"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901068,
     "wof:geomhash":"3437e229f443fb8c30085e65fa7cbf12",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108734099,
-    "wof:lastmodified":1694639794,
+    "wof:lastmodified":1695886431,
     "wof:name":"Jarkovskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",

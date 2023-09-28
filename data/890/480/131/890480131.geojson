@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105978,
-    "geom:area_square_m":866045049.821082,
+    "geom:area_square_m":866045699.029989,
     "geom:bbox":"44.113876,48.450647,44.686941,48.889654",
     "geom:latitude":48.632667,
     "geom:longitude":44.440391,
@@ -116,15 +116,21 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12599586,
+        "meso:okato_code":"18401000",
+        "meso:oktmo_code":"18701000",
         "qs_pg:id":1209340,
         "wk:page":"Kumylzhensky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054285,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"76357dc0d4327331b9a92b885a40452c",
+    "wof:geomhash":"fb5cc3fd2751e416382440752143a3f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":890480131,
-    "wof:lastmodified":1642541529,
+    "wof:lastmodified":1695886491,
     "wof:name":"Volgograd",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

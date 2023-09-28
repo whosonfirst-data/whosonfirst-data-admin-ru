@@ -149,8 +149,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PZ.MO",
+        "meso:okato_code":"56245000",
+        "meso:oktmo_code":"56645000",
         "wd:id":"Q949215"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901983,
     "wof:geomhash":"5e03229f1c5e5a01a56ae6b4fac8876a",
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":1108735175,
-    "wof:lastmodified":1694639758,
+    "wof:lastmodified":1695886305,
     "wof:name":"Mokshanskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",

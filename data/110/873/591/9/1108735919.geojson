@@ -100,8 +100,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SV.PO",
+        "meso:okato_code":"65482000",
+        "meso:oktmo_code":"65754000",
         "wd:id":"Q4369677"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902554,
     "wof:geomhash":"1cc31b2de5ba3ff16d76d35f77b0fb0f",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1108735919,
-    "wof:lastmodified":1694639771,
+    "wof:lastmodified":1695886346,
     "wof:name":"Polevskoj",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

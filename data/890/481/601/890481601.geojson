@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.491422,
-    "geom:area_square_m":3182059537.038309,
+    "geom:area_square_m":3182059623.810759,
     "geom:bbox":"33.419448,58.072696,34.73435,58.811884",
     "geom:latitude":58.421515,
     "geom:longitude":34.020621,
@@ -154,15 +154,21 @@
     "wof:concordances":{
         "gn:id":572153,
         "hasc:id":"RU.NG.BR",
+        "meso:okato_code":"49408000",
+        "meso:oktmo_code":"49606000",
         "qs_pg:id":369744,
         "wd:id":"Q2711868"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054365,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0ae15e137e389f1c102b8cf2c6042187",
+    "wof:geomhash":"08f5430af928070c25779bbed1c6647c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":890481601,
-    "wof:lastmodified":1690860027,
+    "wof:lastmodified":1695886474,
     "wof:name":"Borovichskiy",
     "wof:parent_id":85688095,
     "wof:placetype":"county",

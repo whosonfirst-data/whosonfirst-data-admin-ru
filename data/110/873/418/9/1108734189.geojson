@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140648,
-    "geom:area_square_m":987754337.217351,
+    "geom:area_square_m":987754233.395996,
     "geom:bbox":"47.654182,55.213274,48.564523,55.537083",
     "geom:latitude":55.392211,
     "geom:longitude":48.126815,
@@ -147,11 +147,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"92229000",
+        "meso:oktmo_code":"92629000",
         "wd:id":"Q517512"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901155,
-    "wof:geomhash":"57b653d62d8b2c09e5fc3a563109866d",
+    "wof:geomhash":"dbf5e11b4b308916568d0bcecdaf43b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":1108734189,
-    "wof:lastmodified":1690859612,
+    "wof:lastmodified":1695886254,
     "wof:name":"Kajbickij",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

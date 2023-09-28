@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KE.CH",
+        "meso:okato_code":"32237000",
+        "meso:oktmo_code":"32637000",
         "wd:id":"Q1651481"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900271,
     "wof:geomhash":"729b6d9cdcb7d62a0eca6b88f907f7f3",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108733205,
-    "wof:lastmodified":1694639734,
+    "wof:lastmodified":1695886213,
     "wof:name":"Chebulinskiy",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

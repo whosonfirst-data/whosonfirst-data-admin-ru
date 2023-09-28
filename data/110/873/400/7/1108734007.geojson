@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151451,
-    "geom:area_square_m":1369391747.91254,
+    "geom:area_square_m":1369391765.526928,
     "geom:bbox":"43.396987,42.758374,44.079571,43.321668",
     "geom:latitude":43.01005,
     "geom:longitude":43.765904,
@@ -151,11 +151,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"90220000",
+        "meso:oktmo_code":"90620000",
         "wd:id":"Q371686"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900988,
-    "wof:geomhash":"26d507970de552363a80c8b5d1c35e0b",
+    "wof:geomhash":"c48cb71deb1d1e13849cb35ac4d12235",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,7 +172,7 @@
         }
     ],
     "wof:id":1108734007,
-    "wof:lastmodified":1690859468,
+    "wof:lastmodified":1695886249,
     "wof:name":"Irafskiy",
     "wof:parent_id":85687865,
     "wof:placetype":"county",

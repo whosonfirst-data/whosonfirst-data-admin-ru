@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120909,
-    "geom:area_square_m":1121961668.386496,
+    "geom:area_square_m":1121961798.129301,
     "geom:bbox":"47.256719,41.195089,47.862919,41.594691",
     "geom:latitude":41.370966,
     "geom:longitude":47.611253,
@@ -175,15 +175,21 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":583791,
+        "meso:okato_code":"82206000",
+        "meso:oktmo_code":"82606000",
         "qs_pg:id":1029947,
         "wd:id":"Q1439212"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054389,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3b79f3af1813fd429aa2c614c54c2ca9",
+    "wof:geomhash":"ca45c3957b52bb9eaf08b8ea8af8f4d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,7 +200,7 @@
         }
     ],
     "wof:id":890481989,
-    "wof:lastmodified":1690860030,
+    "wof:lastmodified":1695886475,
     "wof:name":"Akhtynskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

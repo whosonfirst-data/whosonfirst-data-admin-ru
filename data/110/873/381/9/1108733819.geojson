@@ -222,8 +222,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.TB.MG"
+        "hasc:id":"RU.TB.MG",
+        "meso:okato_code":"68415000",
+        "meso:oktmo_code":"68715000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900828,
     "wof:geomhash":"a3ccc23187951d36d7dff96e84f8dd99",
@@ -237,7 +243,7 @@
         }
     ],
     "wof:id":1108733819,
-    "wof:lastmodified":1694639806,
+    "wof:lastmodified":1695886735,
     "wof:name":"Michurinsk",
     "wof:parent_id":85687829,
     "wof:placetype":"county",

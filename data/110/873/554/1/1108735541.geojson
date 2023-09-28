@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TT.NO",
+        "meso:okato_code":"92245000",
+        "meso:oktmo_code":"92645000",
         "wd:id":"Q2220384"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902253,
     "wof:geomhash":"c56ee24283501c7aaf4545675fc4c6d8",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108735541,
-    "wof:lastmodified":1694639762,
+    "wof:lastmodified":1695886322,
     "wof:name":"Novosheshminskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

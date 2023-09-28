@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003861,
-    "geom:area_square_m":27463965.717801,
+    "geom:area_square_m":27463965.717805,
     "geom:bbox":"37.1670970698,54.8495439218,37.260116921,54.9085118166",
     "geom:latitude":54.88059,
     "geom:longitude":37.21015,
@@ -164,10 +164,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"46467000",
+        "meso:oktmo_code":"46767000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900856,
-    "wof:geomhash":"64c588b114105534ef49b7126528955d",
+    "wof:geomhash":"11a2ba611bc642ef599a61ed008c36dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -178,7 +185,7 @@
         }
     ],
     "wof:id":1108733847,
-    "wof:lastmodified":1566627054,
+    "wof:lastmodified":1695886233,
     "wof:name":"Protvino",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

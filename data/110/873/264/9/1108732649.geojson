@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.290869,
-    "geom:area_square_m":2028800334.121375,
+    "geom:area_square_m":2028800483.835755,
     "geom:bbox":"53.333661,55.345848,54.263189,55.928217",
     "geom:latitude":55.661472,
     "geom:longitude":53.759673,
@@ -163,11 +163,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"92205000",
+        "meso:oktmo_code":"92605000",
         "wd:id":"Q621068"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899751,
-    "wof:geomhash":"b1e170ccacd89f77ad67ec2544597203",
+    "wof:geomhash":"3ca3b555e2c6345333cb9153773c6cec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -178,7 +184,7 @@
         }
     ],
     "wof:id":1108732649,
-    "wof:lastmodified":1690859675,
+    "wof:lastmodified":1695886177,
     "wof:name":"Aktanyshskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

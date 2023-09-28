@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VO.VE",
+        "meso:okato_code":"19216000",
+        "meso:oktmo_code":"19616000",
         "wd:id":"Q2217962"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903720,
     "wof:geomhash":"81d06b9957993c7113b69d2ec77baada",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108737379,
-    "wof:lastmodified":1694639792,
+    "wof:lastmodified":1695886424,
     "wof:name":"Verkhovazhskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",

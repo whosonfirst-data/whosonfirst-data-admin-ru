@@ -125,8 +125,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KY.IR",
+        "meso:okato_code":"04219000",
+        "meso:oktmo_code":"04619000",
         "wd:id":"Q643768"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900990,
     "wof:geomhash":"91b8b4af99e666404277bcc8a4f65a6e",
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":1108734009,
-    "wof:lastmodified":1694492734,
+    "wof:lastmodified":1695886249,
     "wof:name":"Irbejskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

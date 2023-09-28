@@ -100,8 +100,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SV.KI",
+        "meso:okato_code":"65453000",
+        "meso:oktmo_code":"65744000",
         "wd:id":"Q4221543"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901358,
     "wof:geomhash":"41ce0d310835e6d390483274db085e97",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1108734439,
-    "wof:lastmodified":1694639746,
+    "wof:lastmodified":1695886268,
     "wof:name":"Kirovgradskiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

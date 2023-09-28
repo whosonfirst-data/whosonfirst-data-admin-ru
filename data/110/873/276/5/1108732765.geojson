@@ -161,8 +161,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NO.AR",
+        "meso:okato_code":"90210000",
+        "meso:oktmo_code":"90610000",
         "wd:id":"Q639925"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899849,
     "wof:geomhash":"6af6ab9f77527958d39f99987fff0499",
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":1108732765,
-    "wof:lastmodified":1694639727,
+    "wof:lastmodified":1695886187,
     "wof:name":"Ardonskiy",
     "wof:parent_id":85687865,
     "wof:placetype":"county",

@@ -164,8 +164,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AD.OK",
+        "meso:okato_code":"79230000",
+        "meso:oktmo_code":"79630000",
         "wd:id":"Q260333"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903341,
     "wof:geomhash":"426213b2ac6d9d88e429ceda83be7334",
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":1108736921,
-    "wof:lastmodified":1694639784,
+    "wof:lastmodified":1695886397,
     "wof:name":"Takhtamukajskiy",
     "wof:parent_id":85688135,
     "wof:placetype":"county",

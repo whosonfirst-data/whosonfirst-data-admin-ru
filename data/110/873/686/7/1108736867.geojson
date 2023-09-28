@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KV.SV",
+        "meso:okato_code":"33234000",
+        "meso:oktmo_code":"33634000",
         "wd:id":"Q1655378"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903295,
     "wof:geomhash":"1eb8a6e017eddaad409a101146fb12ab",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108736867,
-    "wof:lastmodified":1694639784,
+    "wof:lastmodified":1695886389,
     "wof:name":"Svechinskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",

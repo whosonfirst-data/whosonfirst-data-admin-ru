@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00069,
-    "geom:area_square_m":4800390.810427,
+    "geom:area_square_m":4800303.430345,
     "geom:bbox":"37.615337,55.759101,37.644033,55.79589",
     "geom:latitude":55.779553,
     "geom:longitude":37.629828,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45286570",
+        "meso:oktmo_code":"45379000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901926,
-    "wof:geomhash":"0a6c54ad88356ce81385ec95340f6290",
+    "wof:geomhash":"c8ce9208e499a10d690a55c352356874",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108735107,
-    "wof:lastmodified":1627522626,
+    "wof:lastmodified":1695886301,
     "wof:name":"Meshhanskiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

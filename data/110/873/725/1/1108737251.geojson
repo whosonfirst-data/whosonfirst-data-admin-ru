@@ -116,8 +116,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.IR.UR",
+        "meso:okato_code":"25244000",
+        "meso:oktmo_code":"25644000",
         "wd:id":"Q1656206"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903629,
     "wof:geomhash":"96c74bb1606349397a8150fcb48fb1cc",
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":1108737251,
-    "wof:lastmodified":1694492760,
+    "wof:lastmodified":1695886335,
     "wof:name":"Ust'-Kutskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

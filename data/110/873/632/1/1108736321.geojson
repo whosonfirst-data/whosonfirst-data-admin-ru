@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.AL.RR"
+        "hasc:id":"RU.AL.RR",
+        "meso:okato_code":"01416000",
+        "meso:oktmo_code":"01716000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902863,
     "wof:geomhash":"64140d58cd313ef35c117c2e8e5bd865",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108736321,
-    "wof:lastmodified":1694639774,
+    "wof:lastmodified":1695886358,
     "wof:name":"Rubcovsk",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

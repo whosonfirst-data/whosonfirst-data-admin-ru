@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.410662,
-    "geom:area_square_m":22142586041.191334,
+    "geom:area_square_m":22142586125.859158,
     "geom:bbox":"29.329646,65.425294,34.565837,66.685313",
     "geom:latitude":66.045962,
     "geom:longitude":31.95996,
@@ -159,16 +159,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12597430,
+        "meso:okato_code":"86221000",
+        "meso:oktmo_code":"86621000",
         "qs_pg:id":363003,
         "wd:id":"Q255728",
         "wk:page":"Loukhsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054595,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"216696d059fc41bcf565fc3f9b04192d",
+    "wof:geomhash":"e30bab69081148d7c1b86409d9585a3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":890486183,
-    "wof:lastmodified":1690860071,
+    "wof:lastmodified":1695886477,
     "wof:name":"Loukhskiy",
     "wof:parent_id":85688193,
     "wof:placetype":"county",

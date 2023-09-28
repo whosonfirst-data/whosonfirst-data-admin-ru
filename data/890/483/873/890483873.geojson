@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.1638,
-    "geom:area_square_m":1209281256.409617,
+    "geom:area_square_m":1209281186.271062,
     "geom:bbox":"44.763836,53.079732,45.501944,53.556994",
     "geom:latitude":53.34086,
     "geom:longitude":45.139154,
@@ -157,16 +157,22 @@
     "wof:concordances":{
         "gp:id":12598992,
         "hasc:id":"RU.PZ.BS",
+        "meso:okato_code":"56213000",
+        "meso:oktmo_code":"56613000",
         "qs_pg:id":911328,
         "wd:id":"Q1651073",
         "wk:page":"Bessonovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054487,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6d1b24cc1feebf25b42eb2e768643a5a",
+    "wof:geomhash":"cb110983c7c1a8e0867e64abcd596ee5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":890483873,
-    "wof:lastmodified":1690859898,
+    "wof:lastmodified":1695886452,
     "wof:name":"Bessonovskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.815554,
-    "geom:area_square_m":5555203653.661991,
+    "geom:area_square_m":5555203761.602432,
     "geom:bbox":"92.658042,56.198432,94.669108,56.92594",
     "geom:latitude":56.573418,
     "geom:longitude":93.777623,
@@ -121,11 +121,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"04251000",
+        "meso:oktmo_code":"04651000",
         "wd:id":"Q649611"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903269,
-    "wof:geomhash":"c78fa6b7f133883d8b07f9647038f0cd",
+    "wof:geomhash":"feaedfbb1631b4fc2ab6606c51dbd316",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1108736833,
-    "wof:lastmodified":1690859628,
+    "wof:lastmodified":1695886388,
     "wof:name":"Sukhobuzimskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.143244,
-    "geom:area_square_m":1023052845.063021,
+    "geom:area_square_m":1023052716.975894,
     "geom:bbox":"47.239412,54.491136,48.220978,54.896729",
     "geom:latitude":54.718557,
     "geom:longitude":47.621453,
@@ -139,11 +139,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"92224000",
+        "meso:oktmo_code":"92624000",
         "wd:id":"Q2640728"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900448,
-    "wof:geomhash":"f126215e4fe1195f7778cad567652176",
+    "wof:geomhash":"cbbc548f3226fad0d89ece7f4b344d48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":1108733415,
-    "wof:lastmodified":1690859490,
+    "wof:lastmodified":1695886226,
     "wof:name":"Drozhzhanovskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

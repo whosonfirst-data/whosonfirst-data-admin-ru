@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KC.KH",
+        "meso:okato_code":"91225000",
+        "meso:oktmo_code":"91625000",
         "wd:id":"Q40330"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902611,
     "wof:geomhash":"af5bbf9898c87ecbc1f2f4c02e8c2ce6",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108735977,
-    "wof:lastmodified":1694639772,
+    "wof:lastmodified":1695886350,
     "wof:name":"Prikubanskiy",
     "wof:parent_id":85687913,
     "wof:placetype":"county",

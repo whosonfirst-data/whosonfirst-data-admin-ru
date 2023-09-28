@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.186599,
-    "geom:area_square_m":1458432519.80418,
+    "geom:area_square_m":1458432765.707392,
     "geom:bbox":"36.701407,50.613575,37.553816,50.993612",
     "geom:latitude":50.795726,
     "geom:longitude":37.168535,
@@ -157,15 +157,21 @@
     "wof:concordances":{
         "gn:id":544704,
         "hasc:id":"RU.BL.KO",
+        "meso:okato_code":"14240000",
+        "meso:oktmo_code":"14640000",
         "qs_pg:id":549710,
         "wd:id":"Q2216782"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054675,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cf14f3cea2552b87fabd708a7a456a52",
+    "wof:geomhash":"d38eb9f21c96dbf8f5302713c1bea9df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":890487469,
-    "wof:lastmodified":1690860104,
+    "wof:lastmodified":1695886484,
     "wof:name":"Korochanskiy",
     "wof:parent_id":85687813,
     "wof:placetype":"county",

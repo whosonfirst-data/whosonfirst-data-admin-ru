@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06322,
-    "geom:area_square_m":571605298.905334,
+    "geom:area_square_m":571604993.628415,
     "geom:bbox":"46.471952,42.829814,46.876402,43.136625",
     "geom:latitude":43.01222,
     "geom:longitude":46.660088,
@@ -175,15 +175,21 @@
     "wof:concordances":{
         "gn:id":551375,
         "hasc:id":"RU.DA.KZ",
+        "meso:okato_code":"82222000",
+        "meso:oktmo_code":"82622000",
         "qs_pg:id":549792,
         "wd:id":"Q1438424"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054695,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6d0bb11e58c959837b8803c0105cdbfd",
+    "wof:geomhash":"2ca660a38d8a29599713df67ae73e8f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,7 +200,7 @@
         }
     ],
     "wof:id":890487925,
-    "wof:lastmodified":1690860095,
+    "wof:lastmodified":1695886482,
     "wof:name":"Kazbekovskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

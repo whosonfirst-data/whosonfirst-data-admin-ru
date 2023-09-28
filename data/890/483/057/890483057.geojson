@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.173472,
-    "geom:area_square_m":1500751231.482019,
+    "geom:area_square_m":1500751466.182324,
     "geom:bbox":"38.561883,45.362795,39.397221,45.774807",
     "geom:latitude":45.601459,
     "geom:longitude":38.95272,
@@ -151,16 +151,22 @@
     "wof:concordances":{
         "gp:id":12597817,
         "hasc:id":"RU.KD.TI",
+        "meso:okato_code":"03253000",
+        "meso:oktmo_code":"03653000",
         "qs_pg:id":506292,
         "wd:id":"Q918600",
         "wk:page":"Timashyovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054447,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"30f23598f9568fca04c8c1f45f022b77",
+    "wof:geomhash":"1a76565e9dd0307b795ab48f47454918",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":890483057,
-    "wof:lastmodified":1690859920,
+    "wof:lastmodified":1695886457,
     "wof:name":"Timashevskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KG.ZZ",
+        "meso:okato_code":"29212000",
+        "meso:oktmo_code":"29612000",
         "wd:id":"Q1658389"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903888,
     "wof:geomhash":"0ea5ab178daeb8bd7039c50b5b39d886",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108738141,
-    "wof:lastmodified":1694639796,
+    "wof:lastmodified":1695886440,
     "wof:name":"Zhizdrinskiy",
     "wof:parent_id":85688131,
     "wof:placetype":"county",

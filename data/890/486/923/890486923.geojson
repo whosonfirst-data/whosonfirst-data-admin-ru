@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.310051,
-    "geom:area_square_m":2545539900.762218,
+    "geom:area_square_m":2545539975.697255,
     "geom:bbox":"39.847279,48.098277,40.861922,48.646785",
     "geom:latitude":48.396759,
     "geom:longitude":40.345208,
@@ -145,16 +145,22 @@
     "wof:concordances":{
         "gp:id":12599110,
         "hasc:id":"RU.RO.KR",
+        "meso:okato_code":"60223000",
+        "meso:oktmo_code":"60623000",
         "qs_pg:id":911339,
         "wd:id":"Q3812681",
         "wk:page":"Kamensky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054644,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2dff05aaefb41aea9beccf309d6f9897",
+    "wof:geomhash":"e5775633b0213d303d1518fe487a00bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":890486923,
-    "wof:lastmodified":1690860049,
+    "wof:lastmodified":1695886476,
     "wof:name":"Kamenskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

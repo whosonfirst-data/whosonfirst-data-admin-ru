@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.337377,
-    "geom:area_square_m":7865710843.091382,
+    "geom:area_square_m":7865711908.353192,
     "geom:bbox":"49.364542,60.917873,51.577002,62.228695",
     "geom:latitude":61.598203,
     "geom:longitude":50.583627,
@@ -160,16 +160,22 @@
     "wof:concordances":{
         "gp:id":12597454,
         "hasc:id":"RU.KO.SK",
+        "meso:okato_code":"87228000",
+        "meso:oktmo_code":"87628000",
         "qs_pg:id":985929,
         "wd:id":"Q971478",
         "wk:page":"Syktyvdinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054466,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c931cf8b25d14f6b9475f0b9358daccf",
+    "wof:geomhash":"62f5ea69374a70bf324011255211563f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":890483449,
-    "wof:lastmodified":1690859896,
+    "wof:lastmodified":1695886451,
     "wof:name":"Syktyvdinskiy",
     "wof:parent_id":85688077,
     "wof:placetype":"county",

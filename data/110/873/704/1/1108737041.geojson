@@ -176,8 +176,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.DA.TL",
+        "meso:okato_code":"82251000",
+        "meso:oktmo_code":"82651000",
         "wd:id":"Q1438410"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903459,
     "wof:geomhash":"2bd66dd7be7a64a58f576c748b139e7a",
@@ -191,7 +197,7 @@
         }
     ],
     "wof:id":1108737041,
-    "wof:lastmodified":1694639686,
+    "wof:lastmodified":1695886238,
     "wof:name":"Tljaratinskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

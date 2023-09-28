@@ -154,10 +154,16 @@
     "wof:concordances":{
         "gp:id":12598124,
         "hasc:id":"RU.CL.KI",
+        "meso:okato_code":"75424000",
+        "meso:oktmo_code":"75629000",
         "qs_pg:id":1209257,
         "wd:id":"Q649172",
         "wk:page":"Katav-Ivanovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054280,
     "wof:geom_alt":[
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":890480033,
-    "wof:lastmodified":1694639808,
+    "wof:lastmodified":1695886493,
     "wof:name":"Katav-Ivanovskiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

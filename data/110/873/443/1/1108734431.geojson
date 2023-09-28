@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TL.KI",
+        "meso:okato_code":"70228000",
+        "meso:oktmo_code":"70628000",
         "wd:id":"Q3815582"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901353,
     "wof:geomhash":"54b5d0b5b2ecedaadb63363363fd47d3",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108734431,
-    "wof:lastmodified":1694639746,
+    "wof:lastmodified":1695886268,
     "wof:name":"Kireevskiy",
     "wof:parent_id":85688203,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000173,
-    "geom:area_square_m":1201777.548497,
+    "geom:area_square_m":1201714.732956,
     "geom:bbox":"37.578935,55.825248,37.598448,55.840962",
     "geom:latitude":55.832032,
     "geom:longitude":37.587948,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45280567",
+        "meso:oktmo_code":"45356000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902737,
-    "wof:geomhash":"4b6a8c2bd54dffb6f3051b2e2a06fcad",
+    "wof:geomhash":"035d9da48ff6440cf4e4e2b1fc91ff9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736151,
-    "wof:lastmodified":1627522625,
+    "wof:lastmodified":1695886300,
     "wof:name":"Marfino",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

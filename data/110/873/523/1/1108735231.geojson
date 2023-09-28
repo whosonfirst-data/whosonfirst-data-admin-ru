@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TB.MU",
+        "meso:okato_code":"68218000",
+        "meso:oktmo_code":"68618000",
         "wd:id":"Q1654876"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902035,
     "wof:geomhash":"285c53de428c76e5686d62ab2652adec",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108735231,
-    "wof:lastmodified":1694639759,
+    "wof:lastmodified":1695886307,
     "wof:name":"Muchkapskiy",
     "wof:parent_id":85687829,
     "wof:placetype":"county",

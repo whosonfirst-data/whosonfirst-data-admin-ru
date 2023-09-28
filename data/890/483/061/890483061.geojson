@@ -142,10 +142,16 @@
     "wof:concordances":{
         "gp:id":12597855,
         "hasc:id":"RU.KY.KR",
+        "meso:okato_code":"04221000",
+        "meso:oktmo_code":"04621000",
         "qs_pg:id":506294,
         "wd:id":"Q2109878",
         "wk:page":"Kansky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054448,
     "wof:geom_alt":[
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":890483061,
-    "wof:lastmodified":1694493016,
+    "wof:lastmodified":1695886457,
     "wof:name":"Kanskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

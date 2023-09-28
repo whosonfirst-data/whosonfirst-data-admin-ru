@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SA.EL",
+        "meso:okato_code":"36215000",
+        "meso:oktmo_code":"36615000",
         "wd:id":"Q1971998"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900515,
     "wof:geomhash":"274e4b96b651e4cfcfb8f15042d7e3bc",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108733491,
-    "wof:lastmodified":1694639738,
+    "wof:lastmodified":1695886232,
     "wof:name":"Elkhovskiy",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

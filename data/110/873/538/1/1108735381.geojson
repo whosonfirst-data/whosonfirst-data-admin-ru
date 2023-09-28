@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VR.NI",
+        "meso:okato_code":"20223000",
+        "meso:oktmo_code":"20623000",
         "wd:id":"Q1653589"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902151,
     "wof:geomhash":"10bae92f7e480c517823e20d1d5d8346",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108735381,
-    "wof:lastmodified":1694639761,
+    "wof:lastmodified":1695886314,
     "wof:name":"Nizhnedevickij",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

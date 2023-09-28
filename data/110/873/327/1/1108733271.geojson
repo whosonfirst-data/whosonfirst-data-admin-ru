@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RO.CH",
+        "meso:okato_code":"60258000",
+        "meso:oktmo_code":"60658000",
         "wd:id":"Q2217395"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900327,
     "wof:geomhash":"1c4b5abdc612b4588f8c915df6ce7e1e",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108733271,
-    "wof:lastmodified":1694639687,
+    "wof:lastmodified":1695886264,
     "wof:name":"Chertkovskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

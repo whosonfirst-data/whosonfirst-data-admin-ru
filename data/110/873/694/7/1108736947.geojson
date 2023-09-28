@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OB.TA",
+        "meso:okato_code":"53251000",
+        "meso:oktmo_code":"53651000",
         "wd:id":"Q1656149"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903366,
     "wof:geomhash":"e9abf297f29e5dffaaa966ef257c415b",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108736947,
-    "wof:lastmodified":1694639785,
+    "wof:lastmodified":1695886398,
     "wof:name":"Tashlinskiy",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

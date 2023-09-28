@@ -174,8 +174,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.RZ.SR"
+        "hasc:id":"RU.RZ.SR",
+        "meso:okato_code":"61415000",
+        "meso:oktmo_code":"61715000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903112,
     "wof:geomhash":"d03778dbf96264793f9d05cb7a09804a",
@@ -189,7 +195,7 @@
         }
     ],
     "wof:id":1108736635,
-    "wof:lastmodified":1694639687,
+    "wof:lastmodified":1695886261,
     "wof:name":"Skopin",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

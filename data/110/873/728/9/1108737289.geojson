@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TY.VA",
+        "meso:okato_code":"71213000",
+        "meso:oktmo_code":"71613000",
         "wd:id":"Q1753880"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903659,
     "wof:geomhash":"d33e1ca2323333260561f0e693c5011c",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108737289,
-    "wof:lastmodified":1694639791,
+    "wof:lastmodified":1695886420,
     "wof:name":"Vagajskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",

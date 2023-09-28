@@ -149,8 +149,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.MR.CH",
+        "meso:okato_code":"89257000",
+        "meso:oktmo_code":"89657000",
         "wd:id":"Q857481"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900250,
     "wof:geomhash":"dfd5c20a23057c2618e9a8ffcea9dbad",
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":1108733179,
-    "wof:lastmodified":1694639733,
+    "wof:lastmodified":1695886211,
     "wof:name":"Chamzinskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",

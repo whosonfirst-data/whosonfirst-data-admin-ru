@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KD.LR",
+        "meso:okato_code":"03230000",
+        "meso:oktmo_code":"03630000",
         "wd:id":"Q918262"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901747,
     "wof:geomhash":"e63e7d0f693a6830924888c50e1b7f25",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108734879,
-    "wof:lastmodified":1694639753,
+    "wof:lastmodified":1695886291,
     "wof:name":"Labinskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

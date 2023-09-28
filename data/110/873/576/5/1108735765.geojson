@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KT.PF",
+        "meso:okato_code":"34234000",
+        "meso:oktmo_code":"34634000",
         "wd:id":"Q3895824"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902438,
     "wof:geomhash":"2cf53adf5ba4a9304ddc67f46b875458",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108735765,
-    "wof:lastmodified":1694639768,
+    "wof:lastmodified":1695886338,
     "wof:name":"Parfen'evskiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",

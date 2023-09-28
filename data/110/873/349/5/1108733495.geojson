@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013516,
-    "geom:area_square_m":96521264.508486,
+    "geom:area_square_m":96521451.538666,
     "geom:bbox":"61.205449,54.55631,61.413645,54.810215",
     "geom:latitude":54.722286,
     "geom:longitude":61.302531,
@@ -121,11 +121,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"75219000",
+        "meso:oktmo_code":"75619000",
         "wd:id":"Q2019937"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900518,
-    "wof:geomhash":"1347ddc0bb44dd69fa49146ebe620e21",
+    "wof:geomhash":"08d8b1d8f3b034b7dc1dc3f67fff37a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1108733495,
-    "wof:lastmodified":1690859513,
+    "wof:lastmodified":1695886234,
     "wof:name":"Emanzhelinskiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SA.SE",
+        "meso:okato_code":"36238000",
+        "meso:oktmo_code":"36638000",
         "wd:id":"Q1973886"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902959,
     "wof:geomhash":"ebf4161467d6eaceccb8f7ff0004c4c1",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108736445,
-    "wof:lastmodified":1694639776,
+    "wof:lastmodified":1695886365,
     "wof:name":"Sergievskiy",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.900804,
-    "geom:area_square_m":83483057925.383499,
+    "geom:area_square_m":83483055838.691742,
     "geom:bbox":"119.651212,53.850103,128.034504,57.07847",
     "geom:latitude":55.433913,
     "geom:longitude":123.711155,
@@ -124,11 +124,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"10254000",
+        "meso:oktmo_code":"10654000",
         "wd:id":"Q2218142"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903530,
-    "wof:geomhash":"20e03a949251b4b5e8c948fc52355a48",
+    "wof:geomhash":"ac0c2d1157c37b56d485286837e4cf31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":1108737129,
-    "wof:lastmodified":1690859511,
+    "wof:lastmodified":1695886413,
     "wof:name":"Tyndinskiy",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

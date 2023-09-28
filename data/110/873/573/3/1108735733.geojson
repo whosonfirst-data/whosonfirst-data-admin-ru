@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.277046,
-    "geom:area_square_m":2451542680.515872,
+    "geom:area_square_m":2451542721.147815,
     "geom:bbox":"41.050432,43.973618,41.743159,44.640116",
     "geom:latitude":44.305187,
     "geom:longitude":41.413542,
@@ -127,11 +127,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"03237000",
+        "meso:oktmo_code":"03637000",
         "wd:id":"Q925845"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902409,
-    "wof:geomhash":"7bdea378eede23090d2888317b70f606",
+    "wof:geomhash":"d25872686aed86c9eb8444af8be79943",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":1108735733,
-    "wof:lastmodified":1690859528,
+    "wof:lastmodified":1695886333,
     "wof:name":"Otradnenskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

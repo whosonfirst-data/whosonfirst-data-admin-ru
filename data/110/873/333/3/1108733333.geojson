@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.83321,
-    "geom:area_square_m":7224495428.643959,
+    "geom:area_square_m":7224496352.163062,
     "geom:bbox":"133.46218,44.957235,135.155553,46.228017",
     "geom:latitude":45.474583,
     "geom:longitude":134.32444,
@@ -124,11 +124,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"05207000",
+        "meso:oktmo_code":"05607000",
         "wd:id":"Q832110"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900379,
-    "wof:geomhash":"0e49699202bf4a9b1c2aa60df2a9efdd",
+    "wof:geomhash":"344ee9f5ac10c9651e29b2895c341310",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":1108733333,
-    "wof:lastmodified":1690859574,
+    "wof:lastmodified":1695886220,
     "wof:name":"Dal'nerechenskiy",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

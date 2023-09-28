@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064243,
-    "geom:area_square_m":579528522.664812,
+    "geom:area_square_m":579528645.201668,
     "geom:bbox":"131.578896,42.825333,132.235391,43.318597",
     "geom:latitude":43.15241,
     "geom:longitude":131.929326,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"05401000",
+        "meso:oktmo_code":"05701000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903752,
-    "wof:geomhash":"8e77efbfa24785b1284a386e48a316f7",
+    "wof:geomhash":"61a251b61d04c53cc6957ca7f0bf0c56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108737535,
-    "wof:lastmodified":1627522727,
+    "wof:lastmodified":1695886426,
     "wof:name":"Vladivostokskiy",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

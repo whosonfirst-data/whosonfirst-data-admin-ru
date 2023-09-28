@@ -133,10 +133,16 @@
     "wof:concordances":{
         "gp:id":12598289,
         "hasc:id":"RU.IR.UT",
+        "meso:okato_code":"25242000",
+        "meso:oktmo_code":"25642000",
         "qs_pg:id":1209266,
         "wd:id":"Q1658299",
         "wk:page":"Ust-Ilimsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054281,
     "wof:geom_alt":[
@@ -153,7 +159,7 @@
         }
     ],
     "wof:id":890480045,
-    "wof:lastmodified":1694493017,
+    "wof:lastmodified":1695886491,
     "wof:name":"Ust'-Ilimskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

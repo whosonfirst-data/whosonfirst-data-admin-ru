@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001235,
-    "geom:area_square_m":8618276.810473,
+    "geom:area_square_m":8618263.865382,
     "geom:bbox":"37.621848,55.630395,37.709544,55.658872",
     "geom:latitude":55.644489,
     "geom:longitude":37.662588,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45296569",
+        "meso:oktmo_code":"45917000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902743,
-    "wof:geomhash":"36c0e417cfa68d7266e8191a4a248025",
+    "wof:geomhash":"0c11ebd8d54c5b4e61edba3d54f94d90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736159,
-    "wof:lastmodified":1627522631,
+    "wof:lastmodified":1695886307,
     "wof:name":"Moskvorech'e-Saburovo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

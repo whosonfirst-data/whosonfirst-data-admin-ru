@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001534,
-    "geom:area_square_m":10687299.316628,
+    "geom:area_square_m":10687235.698654,
     "geom:bbox":"37.378963,55.697914,37.453242,55.730647",
     "geom:latitude":55.716303,
     "geom:longitude":37.415657,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45268569",
+        "meso:oktmo_code":"45321000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902031,
-    "wof:geomhash":"6b93061735e8f9f48e359cadaf07343c",
+    "wof:geomhash":"8048531fe3580c3a5c2d954c08675067",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108735223,
-    "wof:lastmodified":1627522632,
+    "wof:lastmodified":1695886307,
     "wof:name":"Mozhajskiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

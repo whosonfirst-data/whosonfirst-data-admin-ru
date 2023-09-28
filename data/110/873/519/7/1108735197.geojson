@@ -155,8 +155,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CV.MO",
+        "meso:okato_code":"97232000",
+        "meso:oktmo_code":"97632000",
         "wd:id":"Q2421128"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902006,
     "wof:geomhash":"86d72284bd4557358dc33e8b99558811",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1108735197,
-    "wof:lastmodified":1694639758,
+    "wof:lastmodified":1695886306,
     "wof:name":"Morgaushskiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",

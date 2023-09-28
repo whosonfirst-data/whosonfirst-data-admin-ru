@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.UD.YB",
+        "meso:okato_code":"94250000",
+        "meso:oktmo_code":"94650000",
         "wd:id":"Q1068326"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901039,
     "wof:geomhash":"ccc69a9b387fe3813400133f1738ace1",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108734073,
-    "wof:lastmodified":1694639794,
+    "wof:lastmodified":1695886430,
     "wof:name":"Jakshur-Bod'inskiy",
     "wof:parent_id":85687787,
     "wof:placetype":"county",

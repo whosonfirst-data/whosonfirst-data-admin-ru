@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000657,
-    "geom:area_square_m":4563463.201759,
+    "geom:area_square_m":4563463.201761,
     "geom:bbox":"37.626415269,55.8413450639,37.6710256292,55.8649939633",
     "geom:latitude":55.851847,
     "geom:longitude":37.648216,
@@ -89,10 +89,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45280580",
+        "meso:oktmo_code":"45361000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902795,
-    "wof:geomhash":"0ee50c03b367d2c940a96461a9f78302",
+    "wof:geomhash":"13d3c3450c880c47526c2a9a3a485dd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +110,7 @@
         }
     ],
     "wof:id":1108736233,
-    "wof:lastmodified":1566627202,
+    "wof:lastmodified":1695886259,
     "wof:name":"Sviblovo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

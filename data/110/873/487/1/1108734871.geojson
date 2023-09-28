@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AL.KY",
+        "meso:okato_code":"01224000",
+        "meso:oktmo_code":"01624000",
         "wd:id":"Q1654152"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901737,
     "wof:geomhash":"8544342641623d279b1435e3f918f4b2",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108734871,
-    "wof:lastmodified":1694639753,
+    "wof:lastmodified":1695886291,
     "wof:name":"Kytmanovskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

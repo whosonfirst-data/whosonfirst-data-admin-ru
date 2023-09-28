@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.289503,
-    "geom:area_square_m":2173929721.146627,
+    "geom:area_square_m":2173929585.335557,
     "geom:bbox":"85.090756,52.359957,86.094732,52.853011",
     "geom:latitude":52.606563,
     "geom:longitude":85.641883,
@@ -127,11 +127,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"01405000",
+        "meso:oktmo_code":"01604000",
         "wd:id":"Q1654216"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900081,
-    "wof:geomhash":"49ed732af0647a69cefa1919afdd66cb",
+    "wof:geomhash":"4d768994db032e8f9f2174934410e2d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":1108732997,
-    "wof:lastmodified":1690859686,
+    "wof:lastmodified":1695886199,
     "wof:name":"Bijskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

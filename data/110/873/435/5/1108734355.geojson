@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.457465,
-    "geom:area_square_m":4142156932.821319,
+    "geom:area_square_m":4142156858.619893,
     "geom:bbox":"130.39465,42.293312,131.772949,43.455762",
     "geom:latitude":42.922801,
     "geom:longitude":131.143576,
@@ -148,11 +148,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"05248000",
+        "meso:oktmo_code":"05648000",
         "wd:id":"Q1336217"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901287,
-    "wof:geomhash":"44024d9485cc66f18b63f1f5922aee6b",
+    "wof:geomhash":"b605b020bf76631fcbbb105ee7fc82d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":1108734355,
-    "wof:lastmodified":1690859679,
+    "wof:lastmodified":1695886264,
     "wof:name":"Khasanskiy",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

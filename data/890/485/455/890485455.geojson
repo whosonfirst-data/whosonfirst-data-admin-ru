@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.398441,
-    "geom:area_square_m":2729716260.675764,
+    "geom:area_square_m":2729716205.985463,
     "geom:bbox":"33.625559,55.993865,34.836966,56.665835",
     "geom:latitude":56.354224,
     "geom:longitude":34.153202,
@@ -144,16 +144,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598373,
+        "meso:okato_code":"28445000",
+        "meso:oktmo_code":"28648000",
         "qs_pg:id":989706,
         "wd:id":"Q45605",
         "wk:page":"Rzhevsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054561,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fd839b296dc9478fe8d529d3968bc2e6",
+    "wof:geomhash":"1922d43f0501790d61f1006c66460864",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":890485455,
-    "wof:lastmodified":1690859824,
+    "wof:lastmodified":1695886442,
     "wof:name":"Rzhevskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

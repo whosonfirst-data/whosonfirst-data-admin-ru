@@ -87,8 +87,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.PZ.KG"
+        "hasc:id":"RU.PZ.KG",
+        "meso:okato_code":"56405000",
+        "meso:oktmo_code":"56705000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900813,
     "wof:geomhash":"1929d2f727ec708d61eabb127d0a086a",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108733803,
-    "wof:lastmodified":1694639749,
+    "wof:lastmodified":1695886278,
     "wof:name":"Kuzneck",
     "wof:parent_id":85687999,
     "wof:placetype":"county",

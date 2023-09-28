@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SA.KO",
+        "meso:okato_code":"36224000",
+        "meso:oktmo_code":"36624000",
         "wd:id":"Q1976917"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901497,
     "wof:geomhash":"ee75ed4fb29230b9f8ad5b4231d83467",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108734605,
-    "wof:lastmodified":1694639749,
+    "wof:lastmodified":1695886276,
     "wof:name":"Koshkinskiy",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

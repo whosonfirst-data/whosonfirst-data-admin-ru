@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007379,
-    "geom:area_square_m":52884676.861795,
+    "geom:area_square_m":52884742.190726,
     "geom:bbox":"86.196455,54.51253,86.333923,54.626431",
     "geom:latitude":54.577198,
     "geom:longitude":86.263275,
@@ -74,10 +74,13 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:oktmo_code":"32732000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
     "wof:country":"RU",
     "wof:created":1478902562,
-    "wof:geomhash":"00ed0932ed1083050fdf0775e4884e2d",
+    "wof:geomhash":"5ddb7dc6502130b9c7789f95a46eb6c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108735931,
-    "wof:lastmodified":1627522665,
+    "wof:lastmodified":1695886347,
     "wof:name":"Polysaevo",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

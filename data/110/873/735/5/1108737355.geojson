@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CL.VE",
+        "meso:okato_code":"75217000",
+        "meso:oktmo_code":"75617000",
         "wd:id":"Q2219108"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903713,
     "wof:geomhash":"d83121bd3fbd8cd8d461f8d74105abf6",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108737355,
-    "wof:lastmodified":1694639686,
+    "wof:lastmodified":1695886237,
     "wof:name":"Verkhneural'skiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

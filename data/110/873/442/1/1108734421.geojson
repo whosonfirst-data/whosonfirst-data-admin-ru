@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TL.KR",
+        "meso:okato_code":"70226000",
+        "meso:oktmo_code":"70626000",
         "wd:id":"Q4175869"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901346,
     "wof:geomhash":"26c6878221f76453b95aff41459a74b9",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108734421,
-    "wof:lastmodified":1694639746,
+    "wof:lastmodified":1695886267,
     "wof:name":"Kimovskiy",
     "wof:parent_id":85688203,
     "wof:placetype":"county",

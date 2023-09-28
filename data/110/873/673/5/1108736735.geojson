@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002389,
-    "geom:area_square_m":16463945.151472,
+    "geom:area_square_m":16464004.454668,
     "geom:bbox":"93.318206,56.102223,93.397746,56.157811",
     "geom:latitude":56.126897,
     "geom:longitude":93.356498,
@@ -86,10 +86,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"04433000",
+        "meso:oktmo_code":"04733000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903180,
-    "wof:geomhash":"b57a4edee5cfca116d17c389b124df0c",
+    "wof:geomhash":"54d76d9668fdfed4295bbbab0e5a764c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +107,7 @@
         }
     ],
     "wof:id":1108736735,
-    "wof:lastmodified":1627522691,
+    "wof:lastmodified":1695886382,
     "wof:name":"Sosnovoborsk",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

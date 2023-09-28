@@ -155,8 +155,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RO.AK",
+        "meso:okato_code":"60202000",
+        "meso:oktmo_code":"60602000",
         "wd:id":"Q2217097"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899746,
     "wof:geomhash":"c3389a9cef2d685cbe6ce427419639ea",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1108732643,
-    "wof:lastmodified":1694639687,
+    "wof:lastmodified":1695886263,
     "wof:name":"Aksajskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

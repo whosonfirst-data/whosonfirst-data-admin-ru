@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000899,
-    "geom:area_square_m":6631529.10384,
+    "geom:area_square_m":6631526.177649,
     "geom:bbox":"34.076855,53.354548,34.123181,53.381814",
     "geom:latitude":53.368117,
     "geom:longitude":34.100248,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"15425000",
+        "meso:oktmo_code":"15725000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902934,
-    "wof:geomhash":"f7676f308726b611cf6a606bf9f48967",
+    "wof:geomhash":"05f3bb979bdc3ed8118eff25a1096655",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736417,
-    "wof:lastmodified":1627522678,
+    "wof:lastmodified":1695886363,
     "wof:name":"Sel'co",
     "wof:parent_id":85688121,
     "wof:placetype":"county",

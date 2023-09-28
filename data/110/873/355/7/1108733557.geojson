@@ -126,8 +126,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.OB.GR"
+        "hasc:id":"RU.OB.GR",
+        "meso:okato_code":"53413000",
+        "meso:oktmo_code":"53713000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900576,
     "wof:geomhash":"48171d5dca7c038db4cc33fbe4afe8b1",
@@ -141,7 +147,7 @@
         }
     ],
     "wof:id":1108733557,
-    "wof:lastmodified":1694639683,
+    "wof:lastmodified":1695886219,
     "wof:name":"Gaj",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

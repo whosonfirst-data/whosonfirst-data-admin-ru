@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.LP.KR",
+        "meso:okato_code":"42230000",
+        "meso:oktmo_code":"42630000",
         "wd:id":"Q1759532"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901538,
     "wof:geomhash":"e7fcd1362c20e9cea485d52e8155cfb8",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108734657,
-    "wof:lastmodified":1694639751,
+    "wof:lastmodified":1695886285,
     "wof:name":"Krasninskiy",
     "wof:parent_id":85687917,
     "wof:placetype":"county",

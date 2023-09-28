@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.UL.ME",
+        "meso:okato_code":"73222000",
+        "meso:oktmo_code":"73622000",
         "wd:id":"Q2575351"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901917,
     "wof:geomhash":"8be72f37c3dbb59689e2c83a9a9ce654",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108735097,
-    "wof:lastmodified":1694639757,
+    "wof:lastmodified":1695886301,
     "wof:name":"Melekesskiy",
     "wof:parent_id":85687907,
     "wof:placetype":"county",

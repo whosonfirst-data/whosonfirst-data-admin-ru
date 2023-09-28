@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001125,
-    "geom:area_square_m":7821629.198243,
+    "geom:area_square_m":7821662.726914,
     "geom:bbox":"37.582978,55.747964,37.630369,55.795121",
     "geom:latitude":55.770243,
     "geom:longitude":37.606453,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45286585",
+        "meso:oktmo_code":"45382000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903525,
-    "wof:geomhash":"b1f04940545794d1f2eee3b7f46aae4f",
+    "wof:geomhash":"5e84224a3b701d204ef39de39044be6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108737123,
-    "wof:lastmodified":1627522716,
+    "wof:lastmodified":1695886413,
     "wof:name":"Tverskoj",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

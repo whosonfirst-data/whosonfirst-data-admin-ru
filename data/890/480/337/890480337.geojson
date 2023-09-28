@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.492619,
-    "geom:area_square_m":3215855115.730003,
+    "geom:area_square_m":3215855229.550296,
     "geom:bbox":"38.175771,57.813789,39.414675,58.400705",
     "geom:latitude":58.133553,
     "geom:longitude":38.795973,
@@ -144,16 +144,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12599674,
+        "meso:okato_code":"78240000",
+        "meso:oktmo_code":"78640000",
         "qs_pg:id":221452,
         "wd:id":"Q1957575",
         "wk:page":"Rybinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054301,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a6d8715ba43bbef77df0d40905f62d44",
+    "wof:geomhash":"933e16122f3c581e42a7c637b0aa45f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":890480337,
-    "wof:lastmodified":1690860117,
+    "wof:lastmodified":1695886486,
     "wof:name":"Rybinskiy",
     "wof:parent_id":85687959,
     "wof:placetype":"county",

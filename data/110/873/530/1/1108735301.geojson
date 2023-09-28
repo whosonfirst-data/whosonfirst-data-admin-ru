@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KV.NA",
+        "meso:okato_code":"33225000",
+        "meso:oktmo_code":"33625000",
         "wd:id":"Q2217368"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902093,
     "wof:geomhash":"f1864e5db86fc4a5b934f600ba75f57b",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108735301,
-    "wof:lastmodified":1694639759,
+    "wof:lastmodified":1695886308,
     "wof:name":"Nagorskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",

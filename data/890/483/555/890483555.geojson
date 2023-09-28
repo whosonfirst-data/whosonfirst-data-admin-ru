@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.396626,
-    "geom:area_square_m":27700049944.230141,
+    "geom:area_square_m":27700049558.084682,
     "geom:bbox":"-177.255204,64.236191,-172.067505,66.916204",
     "geom:latitude":65.472473,
     "geom:longitude":-174.68062,
@@ -156,16 +156,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598702,
+        "meso:okato_code":"77220000",
+        "meso:oktmo_code":"77620000",
         "qs_pg:id":1002282,
         "wd:id":"Q740303",
         "wk:page":"Providensky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054471,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3e6efbc49e35bf8994288190b6f173c4",
+    "wof:geomhash":"25773a52012da2ce18d9239f522f5324",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":890483555,
-    "wof:lastmodified":1690859910,
+    "wof:lastmodified":1695886455,
     "wof:name":"Providenskiy",
     "wof:parent_id":85687795,
     "wof:placetype":"county",

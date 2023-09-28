@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000455,
-    "geom:area_square_m":3168803.314772,
+    "geom:area_square_m":3168812.756088,
     "geom:bbox":"37.840176,55.730628,37.879068,55.746285",
     "geom:latitude":55.738611,
     "geom:longitude":37.858526,
@@ -80,10 +80,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45263579",
+        "meso:oktmo_code":"45310000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902752,
-    "wof:geomhash":"daba846a03a58cf9f8f725683a10b3b6",
+    "wof:geomhash":"5c3d2ab99d9fa5041e7178b112da5533",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +101,7 @@
         }
     ],
     "wof:id":1108736173,
-    "wof:lastmodified":1627522642,
+    "wof:lastmodified":1695886321,
     "wof:name":"Novokosino",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

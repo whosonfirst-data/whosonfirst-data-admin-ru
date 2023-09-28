@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.652277,
-    "geom:area_square_m":4336004856.445962,
+    "geom:area_square_m":4336004278.043838,
     "geom:bbox":"55.851555,57.036791,57.260973,58.033254",
     "geom:latitude":57.479521,
     "geom:longitude":56.604923,
@@ -130,11 +130,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"57230000",
+        "meso:oktmo_code":"57630000",
         "wd:id":"Q890389"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901673,
-    "wof:geomhash":"01f82b0fb9db14134ea41afa655da829",
+    "wof:geomhash":"41049e8f0dcc790f01985d49543be8d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":1108734807,
-    "wof:lastmodified":1690859621,
+    "wof:lastmodified":1695886288,
     "wof:name":"Kungurskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

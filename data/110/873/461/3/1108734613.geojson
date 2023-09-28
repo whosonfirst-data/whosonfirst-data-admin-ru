@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02321,
-    "geom:area_square_m":153026568.349141,
+    "geom:area_square_m":153026568.349165,
     "geom:bbox":"40.7467008465,57.7059671293,41.0521604854,57.8863665933",
     "geom:latitude":57.778694,
     "geom:longitude":40.927648,
@@ -275,10 +275,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"34401000",
+        "meso:oktmo_code":"34701000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901504,
-    "wof:geomhash":"31635ee98013ef302ba5567c7233428f",
+    "wof:geomhash":"f33c4a88bb5e105891d64ce4b29e7ef3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -289,7 +296,7 @@
         }
     ],
     "wof:id":1108734613,
-    "wof:lastmodified":1566627297,
+    "wof:lastmodified":1695886262,
     "wof:name":"Kostroma",
     "wof:parent_id":85688115,
     "wof:placetype":"county",

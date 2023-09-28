@@ -142,10 +142,16 @@
     "wof:concordances":{
         "gp:id":12598155,
         "hasc:id":"RU.AB.AG",
+        "meso:okato_code":"76122000",
+        "meso:oktmo_code":"76822000",
         "qs_pg:id":1323756,
         "wd:id":"Q516878",
         "wk:page":"Aginsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054329,
     "wof:geom_alt":[
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":890480879,
-    "wof:lastmodified":1694493017,
+    "wof:lastmodified":1695886492,
     "wof:name":"Aginskiy",
     "wof:parent_id":85688005,
     "wof:placetype":"county",

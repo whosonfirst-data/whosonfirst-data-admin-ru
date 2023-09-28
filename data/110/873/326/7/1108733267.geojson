@@ -125,8 +125,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CT.CN",
+        "meso:okato_code":"76248000",
+        "meso:oktmo_code":"76648000",
         "wd:id":"Q1655210"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900324,
     "wof:geomhash":"993af4f9ce0cf97c1a7a4a8139a5fe68",
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":1108733267,
-    "wof:lastmodified":1694492928,
+    "wof:lastmodified":1695886734,
     "wof:name":"Chernyshevskiy",
     "wof:parent_id":85688005,
     "wof:placetype":"county",

@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NG.MO",
+        "meso:okato_code":"49224000",
+        "meso:oktmo_code":"49624000",
         "wd:id":"Q2373743"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902017,
     "wof:geomhash":"86bb60053392a6594dfb03dca5feebe8",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108735211,
-    "wof:lastmodified":1694639758,
+    "wof:lastmodified":1695886306,
     "wof:name":"Moshenskoj",
     "wof:parent_id":85688095,
     "wof:placetype":"county",

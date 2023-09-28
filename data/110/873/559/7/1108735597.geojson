@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OM.OD",
+        "meso:okato_code":"52242000",
+        "meso:oktmo_code":"52642000",
         "wd:id":"Q1654424"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902302,
     "wof:geomhash":"eb069627ba37ddb0b09467f5bc93d313",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108735597,
-    "wof:lastmodified":1694639763,
+    "wof:lastmodified":1695886324,
     "wof:name":"Odesskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

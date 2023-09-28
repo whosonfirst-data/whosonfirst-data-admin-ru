@@ -155,8 +155,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TT.AP",
+        "meso:okato_code":"92210000",
+        "meso:oktmo_code":"92610000",
         "wd:id":"Q2220531"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899833,
     "wof:geomhash":"875ed566a73c9b6b2e0086117254eb25",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1108732749,
-    "wof:lastmodified":1694639727,
+    "wof:lastmodified":1695886186,
     "wof:name":"Apastovskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

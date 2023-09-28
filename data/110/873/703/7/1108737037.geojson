@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AL.TY",
+        "meso:okato_code":"01252000",
+        "meso:oktmo_code":"01652000",
         "wd:id":"Q1822589"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903451,
     "wof:geomhash":"0fc877729d7b94dac634981e7bb83628",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108737037,
-    "wof:lastmodified":1694639789,
+    "wof:lastmodified":1695886413,
     "wof:name":"Tjumencevskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

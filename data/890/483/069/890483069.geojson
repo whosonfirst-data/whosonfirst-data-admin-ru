@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.128372,
-    "geom:area_square_m":7004479458.274477,
+    "geom:area_square_m":7004479875.932211,
     "geom:bbox":"32.66172,59.313572,35.216362,60.29555",
     "geom:latitude":59.865878,
     "geom:longitude":33.823321,
@@ -175,16 +175,22 @@
     "wof:concordances":{
         "gp:id":12598659,
         "hasc:id":"RU.LN.TV",
+        "meso:okato_code":"41245000",
+        "meso:oktmo_code":"41645000",
         "qs_pg:id":506351,
         "wd:id":"Q506440",
         "wk:page":"Tikhvinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054448,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a7d651892e9647f99e0ab4690bf99780",
+    "wof:geomhash":"82a25665cc694869106245d64f1d5e29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -195,7 +201,7 @@
         }
     ],
     "wof:id":890483069,
-    "wof:lastmodified":1690859923,
+    "wof:lastmodified":1695886459,
     "wof:name":"Tikhvinskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",

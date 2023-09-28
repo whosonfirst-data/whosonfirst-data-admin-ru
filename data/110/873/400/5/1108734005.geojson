@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.466018,
-    "geom:area_square_m":4018710507.24562,
+    "geom:area_square_m":4018709814.943242,
     "geom:bbox":"41.945539,45.523233,43.35864,46.139369",
     "geom:latitude":45.780895,
     "geom:longitude":42.658385,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"07222000",
+        "meso:oktmo_code":"07622000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900984,
-    "wof:geomhash":"74e162bf9074bd65790028b17122bc54",
+    "wof:geomhash":"7bbd180ef75cec99db54f7320d600b2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108734005,
-    "wof:lastmodified":1627522579,
+    "wof:lastmodified":1695886249,
     "wof:name":"Ipatovskiy",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

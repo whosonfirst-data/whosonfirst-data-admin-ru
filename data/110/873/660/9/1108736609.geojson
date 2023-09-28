@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CV.SR",
+        "meso:okato_code":"97250000",
+        "meso:oktmo_code":"97650000",
         "wd:id":"Q2997192"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903092,
     "wof:geomhash":"3debf1816bfaadda3c8799b150fd8d5a",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108736609,
-    "wof:lastmodified":1694639779,
+    "wof:lastmodified":1695886376,
     "wof:name":"Shumerlinskiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",

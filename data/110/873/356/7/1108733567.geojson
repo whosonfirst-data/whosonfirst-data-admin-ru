@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.IV.GA",
+        "meso:okato_code":"24203000",
+        "meso:oktmo_code":"24603000",
         "wd:id":"Q529936"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900583,
     "wof:geomhash":"a3f69fa08a4dac5c4d720afd71159fce",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108733567,
-    "wof:lastmodified":1694639739,
+    "wof:lastmodified":1695886235,
     "wof:name":"Gavrilovo-Posadskiy",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

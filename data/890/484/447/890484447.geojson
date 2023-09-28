@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157882,
-    "geom:area_square_m":1063243864.732754,
+    "geom:area_square_m":1063244005.244268,
     "geom:bbox":"28.396077,56.79157,29.108999,57.172477",
     "geom:latitude":57.000703,
     "geom:longitude":28.796777,
@@ -163,16 +163,22 @@
     "wof:concordances":{
         "gp:id":12599088,
         "hasc:id":"RU.PS.PU",
+        "meso:okato_code":"58251000",
+        "meso:oktmo_code":"58651000",
         "qs_pg:id":1119192,
         "wd:id":"Q1146500",
         "wk:page":"Pushkinogorsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054513,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d1d22f0516f0e5af0ac79094d2f7d044",
+    "wof:geomhash":"b4e4b41493042c64fe6920d5d20e7e79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":890484447,
-    "wof:lastmodified":1690859930,
+    "wof:lastmodified":1695886460,
     "wof:name":"Pushkinogorskiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",

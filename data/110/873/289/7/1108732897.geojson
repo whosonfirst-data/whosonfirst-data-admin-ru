@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.UL.BR",
+        "meso:okato_code":"73204000",
+        "meso:oktmo_code":"73604000",
         "wd:id":"Q2640131"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899978,
     "wof:geomhash":"af88387806f0b8363ab169fba6dc48df",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108732897,
-    "wof:lastmodified":1694639729,
+    "wof:lastmodified":1695886193,
     "wof:name":"Baryshskiy",
     "wof:parent_id":85687907,
     "wof:placetype":"county",

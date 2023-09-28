@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.176288,
-    "geom:area_square_m":1217146742.318,
+    "geom:area_square_m":1217146443.608688,
     "geom:bbox":"43.87781,55.837722,44.764679,56.336592",
     "geom:latitude":56.057043,
     "geom:longitude":44.314665,
@@ -154,15 +154,21 @@
     "wof:concordances":{
         "gn:id":540102,
         "hasc:id":"RU.NZ.KR",
+        "meso:okato_code":"22237000",
+        "meso:oktmo_code":"22637000",
         "qs_pg:id":369496,
         "wd:id":"Q1652869"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054232,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6e50ec139aec267ade52909fb6031ff4",
+    "wof:geomhash":"8c76aea6dd500341b6fa0f51c4ebe010",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":890479255,
-    "wof:lastmodified":1690859990,
+    "wof:lastmodified":1695886470,
     "wof:name":"Kstovskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

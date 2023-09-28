@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001577,
-    "geom:area_square_m":11638478.209968,
+    "geom:area_square_m":11638411.410966,
     "geom:bbox":"49.377308,53.145633,50.010987,53.579552",
     "geom:latitude":53.360711,
     "geom:longitude":49.688739,
@@ -72,10 +72,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"NO DATA",
+        "meso:oktmo_code":"NO DATA"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902190,
-    "wof:geomhash":"1be41ab48872d9ccc9bc014b787613ea",
+    "wof:geomhash":"3e0bc7fad34783c26bc2602476e4f1b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,7 +93,7 @@
         }
     ],
     "wof:id":1108735455,
-    "wof:lastmodified":1627522695,
+    "wof:lastmodified":1695886386,
     "wof:name":"Stavropol'skiy",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.UD.BA",
+        "meso:okato_code":"94204000",
+        "meso:oktmo_code":"94604000",
         "wd:id":"Q639917"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899957,
     "wof:geomhash":"1f1154ca94d4e3576df9094d777fa44b",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108732875,
-    "wof:lastmodified":1694639729,
+    "wof:lastmodified":1695886192,
     "wof:name":"Balezinskiy",
     "wof:parent_id":85687787,
     "wof:placetype":"county",

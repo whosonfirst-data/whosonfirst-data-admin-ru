@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KD.SR",
+        "meso:okato_code":"03245000",
+        "meso:oktmo_code":"03645000",
         "wd:id":"Q594261"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903123,
     "wof:geomhash":"b2810d6f778ca78c03661fdb833d85de",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108736647,
-    "wof:lastmodified":1694639780,
+    "wof:lastmodified":1695886378,
     "wof:name":"Slavjanskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

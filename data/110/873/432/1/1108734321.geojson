@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TV.KE",
+        "meso:okato_code":"28226000",
+        "meso:oktmo_code":"28626000",
         "wd:id":"Q394711"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901258,
     "wof:geomhash":"5067a81927d8bd7fbf7794fefcdc32ab",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108734321,
-    "wof:lastmodified":1694639744,
+    "wof:lastmodified":1695886261,
     "wof:name":"Kesovogorskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

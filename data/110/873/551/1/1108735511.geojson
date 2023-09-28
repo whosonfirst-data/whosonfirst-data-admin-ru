@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SV.NL"
+        "hasc:id":"RU.SV.NL",
+        "meso:okato_code":"65229000",
+        "meso:oktmo_code":"65716000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902233,
     "wof:geomhash":"ea0ac5383326832ee60c7a6cfb6b231e",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735511,
-    "wof:lastmodified":1694639762,
+    "wof:lastmodified":1695886321,
     "wof:name":"Novoljalinskiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

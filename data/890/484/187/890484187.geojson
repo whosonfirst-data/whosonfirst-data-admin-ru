@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.416764,
-    "geom:area_square_m":3697705795.169755,
+    "geom:area_square_m":3697705869.265541,
     "geom:bbox":"40.338757,43.53106,40.933002,44.763481",
     "geom:latitude":44.148214,
     "geom:longitude":40.61283,
@@ -163,16 +163,22 @@
     "wof:concordances":{
         "gp:id":12597797,
         "hasc:id":"RU.KD.MO",
+        "meso:okato_code":"03233000",
+        "meso:oktmo_code":"03633000",
         "qs_pg:id":1087078,
         "wd:id":"Q1035834",
         "wk:page":"Mostovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054501,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3e6857f98cf134310a810853dd904298",
+    "wof:geomhash":"ded98e3fb325ea4be3cce204a3763422",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":890484187,
-    "wof:lastmodified":1690859937,
+    "wof:lastmodified":1695886461,
     "wof:name":"Mostovskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

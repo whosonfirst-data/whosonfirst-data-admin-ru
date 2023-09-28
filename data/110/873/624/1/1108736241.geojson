@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001703,
-    "geom:area_square_m":11879943.371033,
+    "geom:area_square_m":11879926.652476,
     "geom:bbox":"37.438478,55.63769,37.505094,55.682531",
     "geom:latitude":55.659154,
     "geom:longitude":37.46803,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45268592",
+        "meso:oktmo_code":"45327000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902799,
-    "wof:geomhash":"e7f5739a9b48f08e05eb3d2cfa800be8",
+    "wof:geomhash":"b0d0bca0218011f0a8200d7f9d38fe63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736241,
-    "wof:lastmodified":1627522713,
+    "wof:lastmodified":1695886409,
     "wof:name":"Troparjovo-Nikulino",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

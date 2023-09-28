@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VL.KC",
+        "meso:okato_code":"17240000",
+        "meso:oktmo_code":"17640000",
         "wd:id":"Q1652854"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901431,
     "wof:geomhash":"5f2cef954bb14819e297d687c17e3cb7",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108734527,
-    "wof:lastmodified":1694639748,
+    "wof:lastmodified":1695886272,
     "wof:name":"Kol'chuginskiy",
     "wof:parent_id":85687981,
     "wof:placetype":"county",

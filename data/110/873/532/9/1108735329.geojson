@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KT.NR",
+        "meso:okato_code":"34224000",
+        "meso:oktmo_code":"34624000",
         "wd:id":"Q401753"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902116,
     "wof:geomhash":"8ac45252fea68136909223620e1b7095",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108735329,
-    "wof:lastmodified":1694639760,
+    "wof:lastmodified":1695886310,
     "wof:name":"Nejskiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",

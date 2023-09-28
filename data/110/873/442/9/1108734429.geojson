@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008532,
-    "geom:area_square_m":56780860.422496,
+    "geom:area_square_m":56780874.192319,
     "geom:bbox":"42.066692,57.399107,42.247407,57.486372",
     "geom:latitude":57.438301,
     "geom:longitude":42.142037,
@@ -215,10 +215,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"24405000",
+        "meso:oktmo_code":"24705000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901352,
-    "wof:geomhash":"c0d295addbd8f130eec1c5c486ba9558",
+    "wof:geomhash":"a3b2ec74b75896ebd17581ec8d814691",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -229,7 +236,7 @@
         }
     ],
     "wof:id":1108734429,
-    "wof:lastmodified":1636497197,
+    "wof:lastmodified":1695886733,
     "wof:name":"Kineshma",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

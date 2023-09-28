@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OM.TR",
+        "meso:okato_code":"52254000",
+        "meso:oktmo_code":"52654000",
         "wd:id":"Q1125020"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903360,
     "wof:geomhash":"3603ec83d4b807a535eee1e4207d04fe",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108736941,
-    "wof:lastmodified":1694639785,
+    "wof:lastmodified":1695886398,
     "wof:name":"Tarskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

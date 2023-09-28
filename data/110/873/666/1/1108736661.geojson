@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008007,
-    "geom:area_square_m":51405453.550729,
+    "geom:area_square_m":51405567.651363,
     "geom:bbox":"50.099766,58.660024,50.263207,58.765023",
     "geom:latitude":58.719719,
     "geom:longitude":50.187915,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"33413000",
+        "meso:oktmo_code":"33713000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903132,
-    "wof:geomhash":"99d8c3755fdf42c8e33b3ea456e9dc76",
+    "wof:geomhash":"04eff539d0e118097a785957789be3d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736661,
-    "wof:lastmodified":1627522688,
+    "wof:lastmodified":1695886379,
     "wof:name":"Slobodskoj",
     "wof:parent_id":85687903,
     "wof:placetype":"county",

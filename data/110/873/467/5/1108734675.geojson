@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NZ.KB",
+        "meso:okato_code":"22235000",
+        "meso:oktmo_code":"22635000",
         "wd:id":"Q1652558"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901553,
     "wof:geomhash":"d7a86a5f5264df54b292adc4953975e4",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108734675,
-    "wof:lastmodified":1694639750,
+    "wof:lastmodified":1695886280,
     "wof:name":"Krasnobakovskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

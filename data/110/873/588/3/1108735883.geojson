@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.ST.PY"
+        "hasc:id":"RU.ST.PY",
+        "meso:okato_code":"07427000",
+        "meso:oktmo_code":"07727000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902530,
     "wof:geomhash":"7d0ff06d658ecbfea55169bb07b363f0",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735883,
-    "wof:lastmodified":1694639770,
+    "wof:lastmodified":1695886344,
     "wof:name":"Pjatigorsk",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001672,
-    "geom:area_square_m":12316249.261658,
+    "geom:area_square_m":12316249.261661,
     "geom:bbox":"34.3613485585,53.4091259738,34.4364372411,53.4798234016",
     "geom:latitude":53.44856,
     "geom:longitude":34.407421,
@@ -128,10 +128,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"15216000",
+        "meso:oktmo_code":"15710000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900554,
-    "wof:geomhash":"e5045e943d222b76f702d84066402ecd",
+    "wof:geomhash":"d96b83cff29c44fcf0a9a955c556e8d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +149,7 @@
         }
     ],
     "wof:id":1108733537,
-    "wof:lastmodified":1566626868,
+    "wof:lastmodified":1695886216,
     "wof:name":"Fokino",
     "wof:parent_id":85688121,
     "wof:placetype":"county",

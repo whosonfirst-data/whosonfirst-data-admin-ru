@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":25.473093,
-    "geom:area_square_m":103865420274.894058,
+    "geom:area_square_m":103865422278.645599,
     "geom:bbox":"140.738922,69.216583,152.525727,72.581276",
     "geom:latitude":70.744444,
     "geom:longitude":146.803606,
@@ -148,11 +148,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"98206000",
+        "meso:oktmo_code":"98606000",
         "wd:id":"Q654548"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899808,
-    "wof:geomhash":"f8c8f20af656ab5a88df948f74e89084",
+    "wof:geomhash":"49072941750c06f640ee366ba07540c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":1108732713,
-    "wof:lastmodified":1690859615,
+    "wof:lastmodified":1695886182,
     "wof:name":"Allaikhovskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",

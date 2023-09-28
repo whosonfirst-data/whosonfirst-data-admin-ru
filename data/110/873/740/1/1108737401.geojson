@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.UL.VE",
+        "meso:okato_code":"73207000",
+        "meso:oktmo_code":"73607000",
         "wd:id":"Q2719797"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903725,
     "wof:geomhash":"f3bcc1f22e999a936b498a0fe964733a",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108737401,
-    "wof:lastmodified":1694639792,
+    "wof:lastmodified":1695886424,
     "wof:name":"Veshkajmskiy",
     "wof:parent_id":85687907,
     "wof:placetype":"county",

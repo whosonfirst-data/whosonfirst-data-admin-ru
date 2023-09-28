@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TT.MD",
+        "meso:okato_code":"92239000",
+        "meso:oktmo_code":"92639000",
         "wd:id":"Q620746"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901924,
     "wof:geomhash":"270299018931cf91e360f1c36d3da962",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108735105,
-    "wof:lastmodified":1694639757,
+    "wof:lastmodified":1695886302,
     "wof:name":"Mendeleevskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

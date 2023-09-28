@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.174748,
-    "geom:area_square_m":1254171630.942601,
+    "geom:area_square_m":1254171568.48512,
     "geom:bbox":"36.329332,54.26924,36.982838,54.740058",
     "geom:latitude":54.519621,
     "geom:longitude":36.677253,
@@ -151,16 +151,22 @@
     "wof:concordances":{
         "gp:id":12598395,
         "hasc:id":"RU.KG.FE",
+        "meso:okato_code":"29244000",
+        "meso:oktmo_code":"29644000",
         "qs_pg:id":506339,
         "wd:id":"Q1651594",
         "wk:page":"Ferzikovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054448,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"78d2eaf0bc537dc094bb9d8d336c0d0b",
+    "wof:geomhash":"2523377dc49236deaf885e66baeacbc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":890483063,
-    "wof:lastmodified":1690859902,
+    "wof:lastmodified":1695886452,
     "wof:name":"Ferzikovskiy",
     "wof:parent_id":85688131,
     "wof:placetype":"county",

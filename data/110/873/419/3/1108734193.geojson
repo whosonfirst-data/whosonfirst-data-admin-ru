@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VR.KL",
+        "meso:okato_code":"20215000",
+        "meso:oktmo_code":"20615000",
         "wd:id":"Q3812567"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901158,
     "wof:geomhash":"2e20c42db1d7acca9699e15b31f2fdad",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108734193,
-    "wof:lastmodified":1694639743,
+    "wof:lastmodified":1695886255,
     "wof:name":"Kalacheevskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

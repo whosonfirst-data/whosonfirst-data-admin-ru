@@ -384,8 +384,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SA.SA"
+        "hasc:id":"RU.SA.SA",
+        "meso:okato_code":"36401000",
+        "meso:oktmo_code":"36701000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902904,
     "wof:geomhash":"b96866450ea5e36e4700315e2ef5845c",
@@ -399,7 +405,7 @@
         }
     ],
     "wof:id":1108736371,
-    "wof:lastmodified":1694639687,
+    "wof:lastmodified":1695886261,
     "wof:name":"Samara",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

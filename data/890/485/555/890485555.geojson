@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.249254,
-    "geom:area_square_m":1675025679.772831,
+    "geom:area_square_m":1675025351.274402,
     "geom:bbox":"57.017513,56.855526,58.125134,57.261946",
     "geom:latitude":57.079614,
     "geom:longitude":57.501564,
@@ -160,16 +160,22 @@
     "wof:concordances":{
         "gp:id":12599062,
         "hasc:id":"RU.PE.SU",
+        "meso:okato_code":"57251000",
+        "meso:oktmo_code":"57651000",
         "qs_pg:id":911335,
         "wd:id":"Q1030653",
         "wk:page":"Suksunsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054565,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eafeb872138598cca563c38bb9f52a9b",
+    "wof:geomhash":"ce953d2b7837f5dd28d5fa083d5d3a57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":890485555,
-    "wof:lastmodified":1690859834,
+    "wof:lastmodified":1695886443,
     "wof:name":"Suksunskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

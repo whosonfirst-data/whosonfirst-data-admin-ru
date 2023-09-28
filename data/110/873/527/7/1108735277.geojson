@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OM.MU",
+        "meso:okato_code":"52234000",
+        "meso:oktmo_code":"52634000",
         "wd:id":"Q1653576"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902079,
     "wof:geomhash":"33d07ecdb48815010053665c132ad89b",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108735277,
-    "wof:lastmodified":1694639759,
+    "wof:lastmodified":1695886308,
     "wof:name":"Muromcevskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

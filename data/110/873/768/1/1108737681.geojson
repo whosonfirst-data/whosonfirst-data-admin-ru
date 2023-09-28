@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NZ.VT",
+        "meso:okato_code":"22221000",
+        "meso:oktmo_code":"22621000",
         "wd:id":"Q2217438"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903786,
     "wof:geomhash":"3b882da7393863e4d2a2c3f2646cd445",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108737681,
-    "wof:lastmodified":1694639793,
+    "wof:lastmodified":1695886428,
     "wof:name":"Vorotynskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

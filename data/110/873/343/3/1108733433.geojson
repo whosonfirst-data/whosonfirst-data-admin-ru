@@ -167,8 +167,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BK.DU",
+        "meso:okato_code":"80223000",
+        "meso:oktmo_code":"80623000",
         "wd:id":"Q911811"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900466,
     "wof:geomhash":"8379a8b76b461cfe8b9fc884c20c3f1c",
@@ -182,7 +188,7 @@
         }
     ],
     "wof:id":1108733433,
-    "wof:lastmodified":1694639737,
+    "wof:lastmodified":1695886227,
     "wof:name":"Duvanskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

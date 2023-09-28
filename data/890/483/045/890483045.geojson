@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.448268,
-    "geom:area_square_m":3040489090.930436,
+    "geom:area_square_m":3040489065.94114,
     "geom:bbox":"31.39308,56.419001,32.939632,57.129767",
     "geom:latitude":56.733283,
     "geom:longitude":32.117165,
@@ -166,16 +166,22 @@
     "wof:concordances":{
         "gp:id":12598344,
         "hasc:id":"RU.TV.AN",
+        "meso:okato_code":"28202000",
+        "meso:oktmo_code":"28602000",
         "qs_pg:id":506322,
         "wd:id":"Q2711843",
         "wk:page":"Andreapolsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054447,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"88c9b51659b4ccb114d425e5ea2b923c",
+    "wof:geomhash":"426988e07578b2977b423ee58fc63cb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,7 +192,7 @@
         }
     ],
     "wof:id":890483045,
-    "wof:lastmodified":1690859914,
+    "wof:lastmodified":1695886456,
     "wof:name":"Andreapol'skiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.156613,
-    "geom:area_square_m":1079486822.548588,
+    "geom:area_square_m":1079486731.164665,
     "geom:bbox":"36.723623,55.885754,37.426279,56.365003",
     "geom:latitude":56.121793,
     "geom:longitude":37.060707,
@@ -162,16 +162,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598783,
+        "meso:okato_code":"46252000",
+        "meso:oktmo_code":"46652000",
         "qs_pg:id":1087104,
         "wd:id":"Q2537742",
         "wk:page":"Solnechnogorsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054503,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6b7cf591708a061361c4c824940a63a0",
+    "wof:geomhash":"933720844848c37247a799ef8dc69a20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,7 +188,7 @@
         }
     ],
     "wof:id":890484217,
-    "wof:lastmodified":1690859931,
+    "wof:lastmodified":1695886460,
     "wof:name":"Solnechnogorskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

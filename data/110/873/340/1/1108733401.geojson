@@ -182,8 +182,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OB.DO",
+        "meso:okato_code":"53217000",
+        "meso:oktmo_code":"53617000",
         "wd:id":"Q1651664"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900433,
     "wof:geomhash":"979a17f8916d09a7d9a71d35dc4a4b19",
@@ -197,7 +203,7 @@
         }
     ],
     "wof:id":1108733401,
-    "wof:lastmodified":1694639805,
+    "wof:lastmodified":1695886732,
     "wof:name":"Dombarovskiy",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

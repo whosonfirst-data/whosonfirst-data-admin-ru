@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.204954,
-    "geom:area_square_m":1276936778.583167,
+    "geom:area_square_m":1276936899.956743,
     "geom:bbox":"150.506965,59.431221,151.157416,60.013146",
     "geom:latitude":59.744002,
     "geom:longitude":150.846033,
@@ -156,15 +156,21 @@
     "wof:concordances":{
         "gp:id":12598699,
         "hasc:id":"RU.MG.MA",
+        "meso:okato_code":"44401000",
+        "meso:oktmo_code":"44701000",
         "qs_pg:id":1312516,
         "wk:page":"Oymyakonsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054308,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ab17fb23f1e3ffcbde8ecd0ca218d688",
+    "wof:geomhash":"966a9c30b7fe0bd7649893992ce9563c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,7 +181,7 @@
         }
     ],
     "wof:id":890480471,
-    "wof:lastmodified":1642541525,
+    "wof:lastmodified":1695886487,
     "wof:name":"Magadan",
     "wof:parent_id":85687881,
     "wof:placetype":"county",

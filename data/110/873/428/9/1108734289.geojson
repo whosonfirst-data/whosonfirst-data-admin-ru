@@ -122,8 +122,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CT.KM",
+        "meso:okato_code":"76220000",
+        "meso:oktmo_code":"76620000",
         "wd:id":"Q1655156"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901237,
     "wof:geomhash":"20450d80c8649a69185e33fa92d042ff",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1108734289,
-    "wof:lastmodified":1694492737,
+    "wof:lastmodified":1695886259,
     "wof:name":"Karymskiy",
     "wof:parent_id":85688005,
     "wof:placetype":"county",

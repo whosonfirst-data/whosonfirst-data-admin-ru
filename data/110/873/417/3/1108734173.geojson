@@ -113,8 +113,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.IR.KC",
+        "meso:okato_code":"25218000",
+        "meso:oktmo_code":"25618000",
         "wd:id":"Q1652525"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901142,
     "wof:geomhash":"592f4417b0963658f37b2919d6730fa9",
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":1108734173,
-    "wof:lastmodified":1694492735,
+    "wof:lastmodified":1695886254,
     "wof:name":"Kachugskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

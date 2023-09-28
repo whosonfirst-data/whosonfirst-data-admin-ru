@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NG.PE",
+        "meso:okato_code":"49232000",
+        "meso:oktmo_code":"49632000",
         "wd:id":"Q636384"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902485,
     "wof:geomhash":"9dce84b10c74cad192577374b41b54fd",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108735829,
-    "wof:lastmodified":1694639769,
+    "wof:lastmodified":1695886341,
     "wof:name":"Pestovskiy",
     "wof:parent_id":85688095,
     "wof:placetype":"county",

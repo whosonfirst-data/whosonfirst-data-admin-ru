@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OL.SV",
+        "meso:okato_code":"54252000",
+        "meso:oktmo_code":"54652000",
         "wd:id":"Q1770293"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903297,
     "wof:geomhash":"64cdb7dba40f05e683d7d240fbf15a3e",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108736869,
-    "wof:lastmodified":1694639784,
+    "wof:lastmodified":1695886389,
     "wof:name":"Sverdlovskiy",
     "wof:parent_id":85687849,
     "wof:placetype":"county",

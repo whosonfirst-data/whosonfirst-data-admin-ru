@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044695,
-    "geom:area_square_m":270028812.025957,
+    "geom:area_square_m":270028801.464578,
     "geom:bbox":"77.207849,60.63467,77.770476,60.856817",
     "geom:latitude":60.751616,
     "geom:longitude":77.545228,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"69410000",
+        "meso:oktmo_code":"69710000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903261,
-    "wof:geomhash":"8faed36f8740c56d7298d49a37353e35",
+    "wof:geomhash":"6a081bdef82fe7ec4387ee02c6a8ac28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736821,
-    "wof:lastmodified":1627522696,
+    "wof:lastmodified":1695886387,
     "wof:name":"Strezhevoj",
     "wof:parent_id":85687809,
     "wof:placetype":"county",

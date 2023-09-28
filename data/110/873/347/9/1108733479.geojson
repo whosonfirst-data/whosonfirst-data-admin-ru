@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.202971,
-    "geom:area_square_m":1411118725.711175,
+    "geom:area_square_m":1411118771.567098,
     "geom:bbox":"51.436966,55.586126,52.333092,55.983252",
     "geom:latitude":55.788466,
     "geom:longitude":51.804229,
@@ -145,11 +145,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"92226000",
+        "meso:oktmo_code":"92626000",
         "wd:id":"Q2220404"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900507,
-    "wof:geomhash":"760b42ce335d2823c0dc91f70223a9fa",
+    "wof:geomhash":"e839fd6daf7ae6ef2e2a182662026144",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,7 +166,7 @@
         }
     ],
     "wof:id":1108733479,
-    "wof:lastmodified":1690859516,
+    "wof:lastmodified":1695886432,
     "wof:name":"Elabuzhskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

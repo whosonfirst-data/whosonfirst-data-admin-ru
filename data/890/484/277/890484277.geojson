@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015737,
-    "geom:area_square_m":141210308.413736,
+    "geom:area_square_m":141210353.097627,
     "geom:bbox":"43.492247,43.38407,43.695878,43.544057",
     "geom:latitude":43.474106,
     "geom:longitude":43.598882,
@@ -91,14 +91,20 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12597400,
+        "meso:okato_code":"83401000",
+        "meso:oktmo_code":"83701000",
         "qs_pg:id":1105823
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054506,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a360c69edaa6428715746b2d6856e67a",
+    "wof:geomhash":"c652bc8638a5a1526e4bfdeceaa98393",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":890484277,
-    "wof:lastmodified":1642541501,
+    "wof:lastmodified":1695886465,
     "wof:name":"Nal'chik",
     "wof:parent_id":85688089,
     "wof:placetype":"county",

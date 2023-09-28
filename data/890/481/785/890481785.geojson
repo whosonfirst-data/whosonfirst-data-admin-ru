@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142454,
-    "geom:area_square_m":1012474807.910615,
+    "geom:area_square_m":1012474658.393132,
     "geom:bbox":"37.08801,54.715523,37.899497,55.066086",
     "geom:latitude":54.91496,
     "geom:longitude":37.506402,
@@ -148,15 +148,21 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":496526,
+        "meso:okato_code":"46251000",
+        "meso:oktmo_code":"46651000",
         "qs_pg:id":1026727,
         "wd:id":"Q2709592"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054374,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"db0de671362c0bf86fd027605f40f360",
+    "wof:geomhash":"b2eed5ed530ca46087f12dc4ee994479",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":890481785,
-    "wof:lastmodified":1690860016,
+    "wof:lastmodified":1695886473,
     "wof:name":"Serpukhovskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

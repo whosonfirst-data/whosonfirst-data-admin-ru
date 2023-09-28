@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036338,
-    "geom:area_square_m":217329055.53048,
+    "geom:area_square_m":217329228.73439,
     "geom:bbox":"75.932315,60.960059,76.290843,61.205085",
     "geom:latitude":61.074093,
     "geom:longitude":76.088523,
@@ -194,10 +194,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"71133000",
+        "meso:oktmo_code":"71873000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900665,
-    "wof:geomhash":"35e42faa9cf0a176383bdee75d0e49d5",
+    "wof:geomhash":"b440f57f040377f0456451540557aece",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -208,7 +215,7 @@
         }
     ],
     "wof:id":1108733649,
-    "wof:lastmodified":1636497190,
+    "wof:lastmodified":1695886731,
     "wof:name":"Megion",
     "wof:parent_id":85687919,
     "wof:placetype":"county",

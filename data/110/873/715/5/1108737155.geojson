@@ -125,8 +125,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KY.UY",
+        "meso:okato_code":"04257000",
+        "meso:oktmo_code":"04657000",
         "wd:id":"Q918951"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903550,
     "wof:geomhash":"ec854c11dce79f44d1d6ed9f0df58774",
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":1108737155,
-    "wof:lastmodified":1694492782,
+    "wof:lastmodified":1695886414,
     "wof:name":"Ujarskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

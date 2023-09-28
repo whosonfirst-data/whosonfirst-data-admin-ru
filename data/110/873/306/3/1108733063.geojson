@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SA.BG",
+        "meso:okato_code":"36208000",
+        "meso:oktmo_code":"36608000",
         "wd:id":"Q1973892"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900143,
     "wof:geomhash":"ebf79561a8117a1a242236273577ab3b",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108733063,
-    "wof:lastmodified":1694639731,
+    "wof:lastmodified":1695886202,
     "wof:name":"Bol'sheglushickij",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KE.PM",
+        "meso:okato_code":"32225000",
+        "meso:oktmo_code":"32625000",
         "wd:id":"Q1654462"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902640,
     "wof:geomhash":"44e679e9c8a9694312ffd918fd6a456f",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108736015,
-    "wof:lastmodified":1694639772,
+    "wof:lastmodified":1695886352,
     "wof:name":"Promyshlennovskiy",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

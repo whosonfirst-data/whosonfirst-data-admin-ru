@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.AM.SV"
+        "hasc:id":"RU.AM.SV",
+        "meso:okato_code":"10430000",
+        "meso:oktmo_code":"10730000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903312,
     "wof:geomhash":"8c5755411a2cec27e4963a0ad15049cb",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108736889,
-    "wof:lastmodified":1694639784,
+    "wof:lastmodified":1695886390,
     "wof:name":"Svobodnyj",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005414,
-    "geom:area_square_m":37885843.495214,
+    "geom:area_square_m":37885825.383675,
     "geom:bbox":"88.882912,55.375922,89.223638,55.637881",
     "geom:latitude":55.5345,
     "geom:longitude":89.105431,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"04440000",
+        "meso:oktmo_code":"04740000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903021,
-    "wof:geomhash":"6f705637e8b405aeb493ab74f77a42b2",
+    "wof:geomhash":"fe6f74505b383d78126ef7fd2675ef4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108736519,
-    "wof:lastmodified":1627522555,
+    "wof:lastmodified":1695886213,
     "wof:name":"Sharypovo",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

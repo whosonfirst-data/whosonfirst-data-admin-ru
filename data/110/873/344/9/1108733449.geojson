@@ -119,8 +119,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.UB.EK",
+        "meso:okato_code":"25137000",
+        "meso:oktmo_code":"25837000",
         "wd:id":"Q1651989"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900479,
     "wof:geomhash":"431f716009d69f5525b117179e664fc6",
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":1108733449,
-    "wof:lastmodified":1694492729,
+    "wof:lastmodified":1695886228,
     "wof:name":"Ehkhirit-Bulagatskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

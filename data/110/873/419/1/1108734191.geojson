@@ -164,8 +164,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.DA.KA",
+        "meso:okato_code":"82223000",
+        "meso:oktmo_code":"82623000",
         "wd:id":"Q1438967"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901157,
     "wof:geomhash":"833b7baf3fe077caa55c544f74c38a5f",
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":1108734191,
-    "wof:lastmodified":1694639686,
+    "wof:lastmodified":1695886242,
     "wof:name":"Kajtagskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

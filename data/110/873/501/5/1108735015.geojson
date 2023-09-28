@@ -149,8 +149,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KB.MA",
+        "meso:okato_code":"83220000",
+        "meso:oktmo_code":"83620000",
         "wd:id":"Q26007"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901849,
     "wof:geomhash":"abfc0b2da86b5be54f4a938afcec5232",
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":1108735015,
-    "wof:lastmodified":1694639685,
+    "wof:lastmodified":1695886236,
     "wof:name":"Majskiy",
     "wof:parent_id":85688089,
     "wof:placetype":"county",

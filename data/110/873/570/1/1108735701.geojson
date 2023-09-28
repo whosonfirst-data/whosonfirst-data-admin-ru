@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.992596,
-    "geom:area_square_m":7059345778.083111,
+    "geom:area_square_m":7059345704.319317,
     "geom:bbox":"88.362926,54.279799,90.532495,55.438209",
     "geom:latitude":54.888626,
     "geom:longitude":89.259414,
@@ -130,11 +130,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"95220000",
+        "meso:oktmo_code":"95620000",
         "wd:id":"Q921926"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902384,
-    "wof:geomhash":"ce63f4ca5458700e2bf597f14d691047",
+    "wof:geomhash":"20983000deaa3b64573e7d8a3c64669f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":1108735701,
-    "wof:lastmodified":1690859721,
+    "wof:lastmodified":1695886332,
     "wof:name":"Ordzhonikidzevskiy",
     "wof:parent_id":85688061,
     "wof:placetype":"county",

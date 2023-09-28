@@ -149,8 +149,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BL.VR",
+        "meso:okato_code":"14220000",
+        "meso:oktmo_code":"14620000",
         "wd:id":"Q918963"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903662,
     "wof:geomhash":"321aceb3d5b26572b75d5e6ac5477272",
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":1108737293,
-    "wof:lastmodified":1694639791,
+    "wof:lastmodified":1695886420,
     "wof:name":"Valujskiy",
     "wof:parent_id":85687813,
     "wof:placetype":"county",

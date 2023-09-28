@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.328904,
-    "geom:area_square_m":2351597671.865522,
+    "geom:area_square_m":2351597677.917227,
     "geom:bbox":"85.20034,54.350495,86.57013,54.971722",
     "geom:latitude":54.674478,
     "geom:longitude":85.946028,
@@ -117,11 +117,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"32213000",
+        "meso:oktmo_code":"32613000",
         "wd:id":"Q1652683"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901765,
-    "wof:geomhash":"a4c4e0013da677f87cc36080d3d51704",
+    "wof:geomhash":"4a2d1ba0ce3ef407daa99b1189bebf02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":1108734905,
-    "wof:lastmodified":1690859447,
+    "wof:lastmodified":1695886293,
     "wof:name":"Leninsk-Kuzneckij",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

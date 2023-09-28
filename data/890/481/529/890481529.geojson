@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140815,
-    "geom:area_square_m":947941919.562995,
+    "geom:area_square_m":947941823.536059,
     "geom:bbox":"42.026854,56.875599,42.780441,57.185373",
     "geom:latitude":57.015018,
     "geom:longitude":42.421531,
@@ -149,15 +149,21 @@
         "gn:id":533539,
         "gp:id":12598305,
         "hasc:id":"RU.IV.LU",
+        "meso:okato_code":"24215000",
+        "meso:oktmo_code":"24615000",
         "qs_pg:id":369442,
         "wd:id":"Q2218581"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054362,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f8bc68e3900aeb304634b2ca1a191740",
+    "wof:geomhash":"d3fd26631a74ae26fc5418064f40ef7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":890481529,
-    "wof:lastmodified":1690860017,
+    "wof:lastmodified":1695886472,
     "wof:name":"Lukhskiy",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

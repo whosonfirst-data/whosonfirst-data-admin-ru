@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KS.CH",
+        "meso:okato_code":"38248000",
+        "meso:oktmo_code":"38648000",
         "wd:id":"Q2629911"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900294,
     "wof:geomhash":"f82a01e9ab5cce2412eeba6efa815e57",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108733231,
-    "wof:lastmodified":1694639734,
+    "wof:lastmodified":1695886215,
     "wof:name":"Cheremisinovskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

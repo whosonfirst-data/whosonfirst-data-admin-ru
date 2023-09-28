@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RZ.ST",
+        "meso:okato_code":"61256000",
+        "meso:oktmo_code":"61656000",
         "wd:id":"Q2218533"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902998,
     "wof:geomhash":"8f19d4d6d0422ce20676ebfefd2bd6b7",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108736491,
-    "wof:lastmodified":1694639778,
+    "wof:lastmodified":1695886371,
     "wof:name":"Shatskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

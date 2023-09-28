@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.BU.ZK"
+        "hasc:id":"RU.BU.ZK",
+        "meso:okato_code":"81221000",
+        "meso:oktmo_code":"81621000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903821,
     "wof:geomhash":"fc621eed67869b616248b0574f31b70f",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108737831,
-    "wof:lastmodified":1694639795,
+    "wof:lastmodified":1695886435,
     "wof:name":"Zakamenskiy",
     "wof:parent_id":85688207,
     "wof:placetype":"county",

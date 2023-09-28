@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.607066,
-    "geom:area_square_m":4348522997.384795,
+    "geom:area_square_m":4348522270.925838,
     "geom:bbox":"82.374012,54.247358,84.099015,54.997696",
     "geom:latitude":54.598393,
     "geom:longitude":83.292759,
@@ -136,15 +136,21 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1505424,
+        "meso:okato_code":"50215000",
+        "meso:oktmo_code":"50615000",
         "qs_pg:id":1151767,
         "wd:id":"Q240158"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054246,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0793a4778e0475d15f049290a9dce6c3",
+    "wof:geomhash":"072f781ae5a7c94551706b44cff2d903",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":890479469,
-    "wof:lastmodified":1690859988,
+    "wof:lastmodified":1695886470,
     "wof:name":"Iskitimskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",

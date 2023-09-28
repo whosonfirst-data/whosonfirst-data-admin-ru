@@ -84,8 +84,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.BK.UR"
+        "hasc:id":"RU.BK.UR",
+        "meso:okato_code":"NO DATA",
+        "meso:oktmo_code":"NO DATA"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902179,
     "wof:geomhash":"4d922e0bfd59f2d395e9363f2af606a5",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1108735419,
-    "wof:lastmodified":1694639790,
+    "wof:lastmodified":1695886413,
     "wof:name":"Ufimskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

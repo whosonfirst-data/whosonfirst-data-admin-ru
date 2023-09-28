@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.LP.EG"
+        "hasc:id":"RU.LP.EG",
+        "meso:okato_code":"42415000",
+        "meso:oktmo_code":"42715000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900512,
     "wof:geomhash":"de9d7d28e72c992546c668c0865217c8",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733487,
-    "wof:lastmodified":1694639738,
+    "wof:lastmodified":1695886232,
     "wof:name":"Elec",
     "wof:parent_id":85687917,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002787,
-    "geom:area_square_m":18541965.67099,
+    "geom:area_square_m":18541965.670996,
     "geom:bbox":"41.1248668917,57.4170113928,41.201383117,57.4714385832",
     "geom:latitude":57.445129,
     "geom:longitude":41.162891,
@@ -161,10 +161,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"34406000",
+        "meso:oktmo_code":"34706000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900898,
-    "wof:geomhash":"d746746c3878505083ef5fe14e3d8899",
+    "wof:geomhash":"0d96eca193c4911230b4f0a914018766",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,7 +182,7 @@
         }
     ],
     "wof:id":1108733901,
-    "wof:lastmodified":1566626905,
+    "wof:lastmodified":1695886219,
     "wof:name":"Volgorechensk",
     "wof:parent_id":85688115,
     "wof:placetype":"county",

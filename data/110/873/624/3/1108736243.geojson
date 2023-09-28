@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001549,
-    "geom:area_square_m":10787177.64562,
+    "geom:area_square_m":10787225.248834,
     "geom:bbox":"37.777814,55.709164,37.843624,55.748639",
     "geom:latitude":55.730561,
     "geom:longitude":37.815971,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45263555",
+        "meso:oktmo_code":"45302000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902801,
-    "wof:geomhash":"7bdb0075a33945a0f2611ea8bd9518c2",
+    "wof:geomhash":"c0ebe804efecd3b599255af25e293abf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736243,
-    "wof:lastmodified":1627522722,
+    "wof:lastmodified":1695886420,
     "wof:name":"Veshnjaki",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

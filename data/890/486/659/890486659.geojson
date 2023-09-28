@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.284315,
-    "geom:area_square_m":2018965284.293466,
+    "geom:area_square_m":2018965180.204765,
     "geom:bbox":"48.856659,54.554839,49.84125,55.251365",
     "geom:latitude":54.950223,
     "geom:longitude":49.382021,
@@ -172,16 +172,22 @@
     "wof:concordances":{
         "gp:id":12597560,
         "hasc:id":"RU.TT.KB",
+        "meso:okato_code":"92232000",
+        "meso:oktmo_code":"92632000",
         "qs_pg:id":506270,
         "wd:id":"Q2631562",
         "wk:page":"Spassky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054628,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"374c6d8a168cfd666186b51dd40bb347",
+    "wof:geomhash":"0161edc04a692c8f9de2ebb6b80fe4db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -192,7 +198,7 @@
         }
     ],
     "wof:id":890486659,
-    "wof:lastmodified":1690860046,
+    "wof:lastmodified":1695886476,
     "wof:name":"Spasskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

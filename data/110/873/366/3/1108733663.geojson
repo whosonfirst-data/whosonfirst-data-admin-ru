@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007183,
-    "geom:area_square_m":49542720.116503,
+    "geom:area_square_m":49542720.116499,
     "geom:bbox":"47.4267672467,56.0441108352,47.5647636002,56.1400794272",
     "geom:latitude":56.097255,
     "geom:longitude":47.50287,
@@ -218,10 +218,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"97410000",
+        "meso:oktmo_code":"97710000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900689,
-    "wof:geomhash":"b37a31de165969fb66bfa4d4e402b600",
+    "wof:geomhash":"e1ce0c3ad649b5f8cccd5664fcbd0ad5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -232,7 +239,7 @@
         }
     ],
     "wof:id":1108733663,
-    "wof:lastmodified":1566627119,
+    "wof:lastmodified":1695886236,
     "wof:name":"Novocheboksarsk",
     "wof:parent_id":85688111,
     "wof:placetype":"county",

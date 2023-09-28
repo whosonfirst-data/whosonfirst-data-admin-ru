@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.131502,
-    "geom:area_square_m":972964302.493483,
+    "geom:area_square_m":972963857.568737,
     "geom:bbox":"39.215727,53.041572,39.836866,53.435944",
     "geom:latitude":53.247406,
     "geom:longitude":39.532007,
@@ -124,11 +124,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"42236000",
+        "meso:oktmo_code":"42636000",
         "wd:id":"Q2217246"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901785,
-    "wof:geomhash":"0c188f251aa00037185967c78b98d69f",
+    "wof:geomhash":"27e20d231519d44b4c25c7a6cb7f5373",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":1108734933,
-    "wof:lastmodified":1690859632,
+    "wof:lastmodified":1695886295,
     "wof:name":"Lev-Tolstovskiy",
     "wof:parent_id":85687917,
     "wof:placetype":"county",

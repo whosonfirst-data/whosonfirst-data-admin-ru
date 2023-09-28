@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.33307,
-    "geom:area_square_m":2473687489.996548,
+    "geom:area_square_m":2473687631.406484,
     "geom:bbox":"49.635423,52.696075,50.687634,53.545733",
     "geom:latitude":53.084602,
     "geom:longitude":50.231752,
@@ -117,16 +117,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598631,
+        "meso:okato_code":"36214000",
+        "meso:oktmo_code":"36614000",
         "qs_pg:id":1119186,
         "wd:id":"Q4016415",
         "wk:page":"Volzhsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054513,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"40087bee27aea5504ae5cade6577fd86",
+    "wof:geomhash":"e1e19ad7243ea6541fb9f9737ab7792a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":890484437,
-    "wof:lastmodified":1642541498,
+    "wof:lastmodified":1695886461,
     "wof:name":"Volzhskiy",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

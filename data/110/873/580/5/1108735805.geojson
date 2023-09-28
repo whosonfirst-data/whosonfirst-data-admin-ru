@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OB.PT",
+        "meso:okato_code":"53237000",
+        "meso:oktmo_code":"53637000",
         "wd:id":"Q670139"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902468,
     "wof:geomhash":"b87df78d5143b4cd7f08cd151327abcd",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108735805,
-    "wof:lastmodified":1694639769,
+    "wof:lastmodified":1695886340,
     "wof:name":"Perevolockij",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

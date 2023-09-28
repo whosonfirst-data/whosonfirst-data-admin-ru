@@ -155,8 +155,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.MS.MR",
+        "meso:okato_code":"46233000",
+        "meso:oktmo_code":"46633000",
         "wd:id":"Q2627638"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902029,
     "wof:geomhash":"bf8d2e9dbd409eec2123afb41f8c7fa1",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1108735221,
-    "wof:lastmodified":1694639759,
+    "wof:lastmodified":1695886307,
     "wof:name":"Mozhajskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

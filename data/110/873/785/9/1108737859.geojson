@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117797,
-    "geom:area_square_m":512383994.737153,
+    "geom:area_square_m":512383739.560906,
     "geom:bbox":"32.061695,69.257993,32.776758,69.564583",
     "geom:latitude":69.404295,
     "geom:longitude":32.428121,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"47533000",
+        "meso:oktmo_code":"47733000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903834,
-    "wof:geomhash":"dd04cfb039c7b8a43124e081c75821af",
+    "wof:geomhash":"acad491af75633779aae4f53347a08ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108737859,
-    "wof:lastmodified":1627522734,
+    "wof:lastmodified":1695886435,
     "wof:name":"Zaozersk",
     "wof:parent_id":85687869,
     "wof:placetype":"county",

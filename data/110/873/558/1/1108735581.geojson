@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.251575,
-    "geom:area_square_m":1643204086.865806,
+    "geom:area_square_m":1643203616.486697,
     "geom:bbox":"54.995142,57.805112,55.769917,58.411181",
     "geom:latitude":58.114012,
     "geom:longitude":55.36423,
@@ -127,11 +127,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"57234000",
+        "meso:oktmo_code":"57634000",
         "wd:id":"Q890400"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902290,
-    "wof:geomhash":"35fa4ccc7abea38625a3f9e39abb2cb9",
+    "wof:geomhash":"e779092109c8f820e79017780e20133c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":1108735581,
-    "wof:lastmodified":1690859339,
+    "wof:lastmodified":1695886324,
     "wof:name":"Nytvenskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

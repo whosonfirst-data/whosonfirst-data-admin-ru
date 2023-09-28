@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CV.YL",
+        "meso:okato_code":"97255000",
+        "meso:oktmo_code":"97655000",
         "wd:id":"Q2626785"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901045,
     "wof:geomhash":"098e20e95ed42b269278a86a8734c66c",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108734079,
-    "wof:lastmodified":1694639794,
+    "wof:lastmodified":1695886430,
     "wof:name":"Jal'chikskiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",

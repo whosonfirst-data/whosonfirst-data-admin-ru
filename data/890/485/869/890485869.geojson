@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112912,
-    "geom:area_square_m":987216757.729444,
+    "geom:area_square_m":987216991.41319,
     "geom:bbox":"36.887063,44.69984,37.631452,45.204273",
     "geom:latitude":45.001787,
     "geom:longitude":37.360614,
@@ -143,16 +143,22 @@
     "wof:concordances":{
         "gp:id":12597766,
         "hasc:id":"RU.KD.AR",
+        "meso:okato_code":"03203000",
+        "meso:oktmo_code":"03703000",
         "qs_pg:id":1209192,
         "wd:id":"Q853212",
         "wk:page":"Anapsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054581,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b33413f1029096f29884c475e3198481",
+    "wof:geomhash":"38665734abe2910efbc78f5bb18c4f5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":890485869,
-    "wof:lastmodified":1690859825,
+    "wof:lastmodified":1695886442,
     "wof:name":"Anapa",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

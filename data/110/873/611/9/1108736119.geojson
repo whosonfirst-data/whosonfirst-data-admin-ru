@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002405,
-    "geom:area_square_m":16750941.660244,
+    "geom:area_square_m":16750887.577913,
     "geom:bbox":"37.836917,55.695705,37.942152,55.733419",
     "geom:latitude":55.71648,
     "geom:longitude":37.884126,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45263573",
+        "meso:oktmo_code":"45308000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902713,
-    "wof:geomhash":"eb19e8d356e0d5958850b3948df81f90",
+    "wof:geomhash":"82fb3500daff46a9893ac8f15ff9a9f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108736119,
-    "wof:lastmodified":1627522604,
+    "wof:lastmodified":1695886277,
     "wof:name":"Kosino-Ukhtomskiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

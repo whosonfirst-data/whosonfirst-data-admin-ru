@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.LP.ST",
+        "meso:okato_code":"42242000",
+        "meso:oktmo_code":"42642000",
         "wd:id":"Q1655834"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903224,
     "wof:geomhash":"bc7d0fb0d9f45008847bf4134d654e8b",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108736785,
-    "wof:lastmodified":1694639782,
+    "wof:lastmodified":1695886386,
     "wof:name":"Stanovljanskiy",
     "wof:parent_id":85687917,
     "wof:placetype":"county",

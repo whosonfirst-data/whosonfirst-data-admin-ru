@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.265809,
-    "geom:area_square_m":2033757923.36131,
+    "geom:area_square_m":2033757379.964664,
     "geom:bbox":"45.18843,51.513046,46.037534,52.063333",
     "geom:latitude":51.773649,
     "geom:longitude":45.607724,
@@ -121,11 +121,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"63246000",
+        "meso:oktmo_code":"63646000",
         "wd:id":"Q1109302"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903367,
-    "wof:geomhash":"49b0ad796cf22f3a8dd2eff43711ed47",
+    "wof:geomhash":"3ef44a785408db11a18eff3589fb5b95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1108736949,
-    "wof:lastmodified":1690859451,
+    "wof:lastmodified":1695886399,
     "wof:name":"Tatishhevskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

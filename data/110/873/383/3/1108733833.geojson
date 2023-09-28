@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036258,
-    "geom:area_square_m":269421018.572473,
+    "geom:area_square_m":269420950.740647,
     "geom:bbox":"49.587172,52.940429,50.023,53.181641",
     "geom:latitude":53.062814,
     "geom:longitude":49.819289,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"36413000",
+        "meso:oktmo_code":"36713000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900843,
-    "wof:geomhash":"fa64b8c47d4a31e29b4fdb2e97d37033",
+    "wof:geomhash":"eb6baec385eb052bfa6ab6e0d6541838",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108733833,
-    "wof:lastmodified":1627522642,
+    "wof:lastmodified":1695886320,
     "wof:name":"Novokujbyshevsk",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

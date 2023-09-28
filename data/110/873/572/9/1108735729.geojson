@@ -158,8 +158,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PS.OR",
+        "meso:okato_code":"58233000",
+        "meso:oktmo_code":"58633000",
         "wd:id":"Q2628853"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902407,
     "wof:geomhash":"84c538bcb41aae05a8f04b8cd5bf96d6",
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":1108735729,
-    "wof:lastmodified":1694639766,
+    "wof:lastmodified":1695886333,
     "wof:name":"Ostrovskiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",

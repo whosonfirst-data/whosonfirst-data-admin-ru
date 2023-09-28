@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VL.GG",
+        "meso:okato_code":"17420000",
+        "meso:oktmo_code":"17720000",
         "wd:id":"Q1651606"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900774,
     "wof:geomhash":"a9c1d0f0388e4e90a1bd05b38f4ec992",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108733749,
-    "wof:lastmodified":1694639739,
+    "wof:lastmodified":1695886238,
     "wof:name":"Gus'-Khrustal'nyj",
     "wof:parent_id":85687981,
     "wof:placetype":"county",

@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.RZ.RG"
+        "hasc:id":"RU.RZ.RG",
+        "meso:okato_code":"61401000",
+        "meso:oktmo_code":"61701000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900861,
     "wof:geomhash":"5e018f5ed0fe35fc022e993b0f08b046",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733853,
-    "wof:lastmodified":1694639773,
+    "wof:lastmodified":1695886356,
     "wof:name":"Rjazan'",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

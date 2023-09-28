@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.677751,
-    "geom:area_square_m":4369698106.572256,
+    "geom:area_square_m":4369697863.290619,
     "geom:bbox":"38.044043,58.198038,39.723695,58.955659",
     "geom:latitude":58.572884,
     "geom:longitude":38.967341,
@@ -151,16 +151,22 @@
     "wof:concordances":{
         "gp:id":12599671,
         "hasc:id":"RU.YS.PO",
+        "meso:okato_code":"78234000",
+        "meso:oktmo_code":"78634000",
         "qs_pg:id":911348,
         "wd:id":"Q2623513",
         "wk:page":"Poshekhonsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054459,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e8ec8e303d2c45e26c62d3bcf931582b",
+    "wof:geomhash":"dcd9c775d8f68973b5d3a0a1213aef73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":890483297,
-    "wof:lastmodified":1690859923,
+    "wof:lastmodified":1695886459,
     "wof:name":"Poshekhonskiy",
     "wof:parent_id":85687959,
     "wof:placetype":"county",

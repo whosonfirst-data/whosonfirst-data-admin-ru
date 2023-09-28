@@ -185,8 +185,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BK.AU",
+        "meso:okato_code":"80205000",
+        "meso:oktmo_code":"80605000",
         "wd:id":"Q781569"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899901,
     "wof:geomhash":"95372a2b76a300d819f731065799ca9b",
@@ -200,7 +206,7 @@
         }
     ],
     "wof:id":1108732817,
-    "wof:lastmodified":1694639728,
+    "wof:lastmodified":1695886190,
     "wof:name":"Aurgazinskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",
