@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AL.SU",
+        "meso:okato_code":"01241000",
+        "meso:oktmo_code":"01641000",
         "wd:id":"Q1822708"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903266,
     "wof:geomhash":"49baa23f2695cd4a501697b626718d58",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108736827,
-    "wof:lastmodified":1694639783,
+    "wof:lastmodified":1695886388,
     "wof:name":"Suetskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

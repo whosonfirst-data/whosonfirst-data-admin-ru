@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KS.KO",
+        "meso:okato_code":"38218000",
+        "meso:oktmo_code":"38618000",
         "wd:id":"Q2629945"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901484,
     "wof:geomhash":"ec4105b78c463e96a75bcde24fdd165b",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108734585,
-    "wof:lastmodified":1694639748,
+    "wof:lastmodified":1695886275,
     "wof:name":"Korenevskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

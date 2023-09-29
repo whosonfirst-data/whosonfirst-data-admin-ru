@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08272,
-    "geom:area_square_m":724393258.934593,
+    "geom:area_square_m":724393499.50943,
     "geom:bbox":"39.067878,44.80373,39.645115,45.033713",
     "geom:latitude":44.910614,
     "geom:longitude":39.352406,
@@ -148,11 +148,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"79233000",
+        "meso:oktmo_code":"79633000",
         "wd:id":"Q717359"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903428,
-    "wof:geomhash":"588e117f1765802d0134a1472252343d",
+    "wof:geomhash":"c4949e0b7383607ac81247e4183c3b8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":1108737005,
-    "wof:lastmodified":1690859378,
+    "wof:lastmodified":1695886406,
     "wof:name":"Teuchezhskiy",
     "wof:parent_id":85688135,
     "wof:placetype":"county",

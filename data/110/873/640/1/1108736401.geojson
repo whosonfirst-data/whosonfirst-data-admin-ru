@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003868,
-    "geom:area_square_m":27876396.664576,
+    "geom:area_square_m":27876382.511404,
     "geom:bbox":"41.878333,54.321357,42.015941,54.384299",
     "geom:latitude":54.354264,
     "geom:longitude":41.941932,
@@ -101,10 +101,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"61410000",
+        "meso:oktmo_code":"61710000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902924,
-    "wof:geomhash":"f407258eb4d65c8dc817fe7ffd9f5a5e",
+    "wof:geomhash":"cde88f4aaabe770f7987dc438fda466c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,7 +122,7 @@
         }
     ],
     "wof:id":1108736401,
-    "wof:lastmodified":1636497197,
+    "wof:lastmodified":1695886734,
     "wof:name":"Sasovo",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.019125,
-    "geom:area_square_m":21112271864.57003,
+    "geom:area_square_m":21112271747.877026,
     "geom:bbox":"35.502224,63.848535,42.135314,65.961337",
     "geom:latitude":64.860071,
     "geom:longitude":39.874306,
@@ -162,16 +162,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598029,
+        "meso:okato_code":"11252000",
+        "meso:oktmo_code":"11652000",
         "qs_pg:id":1087086,
         "wd:id":"Q2607262",
         "wk:page":"Primorsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054502,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0e8f70f3d9ab0082712c3af03134f253",
+    "wof:geomhash":"7b95c3de75cf11b051d5b892cd42d0a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,7 +188,7 @@
         }
     ],
     "wof:id":890484197,
-    "wof:lastmodified":1690859943,
+    "wof:lastmodified":1695886464,
     "wof:name":"Primorskiy",
     "wof:parent_id":85687971,
     "wof:placetype":"county",

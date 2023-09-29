@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.439435,
-    "geom:area_square_m":3432734735.843488,
+    "geom:area_square_m":3432735169.618347,
     "geom:bbox":"41.181819,50.392619,42.414536,51.198195",
     "geom:latitude":50.820558,
     "geom:longitude":41.882123,
@@ -124,11 +124,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"18254000",
+        "meso:oktmo_code":"18654000",
         "wd:id":"Q1658344"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903577,
-    "wof:geomhash":"1baa5998b2939882a3fa4ecefdcacc9b",
+    "wof:geomhash":"4fc2be47609f20ffd0c08af364323390",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":1108737191,
-    "wof:lastmodified":1690859705,
+    "wof:lastmodified":1695886334,
     "wof:name":"Urjupinskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

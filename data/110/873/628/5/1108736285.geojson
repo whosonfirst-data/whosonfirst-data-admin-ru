@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SV.RR"
+        "hasc:id":"RU.SV.RR",
+        "meso:okato_code":"65236000",
+        "meso:oktmo_code":"65720000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902836,
     "wof:geomhash":"2e14b1c6a3329a8716bc965164d28b40",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108736285,
-    "wof:lastmodified":1694639773,
+    "wof:lastmodified":1695886355,
     "wof:name":"Rezhevskoj",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

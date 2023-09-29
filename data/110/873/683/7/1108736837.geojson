@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KV.SU",
+        "meso:okato_code":"33237000",
+        "meso:oktmo_code":"33637000",
         "wd:id":"Q1655810"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903273,
     "wof:geomhash":"92c88d3ad81e82e11d9ea761e13d848e",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108736837,
-    "wof:lastmodified":1694639783,
+    "wof:lastmodified":1695886388,
     "wof:name":"Sunskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",

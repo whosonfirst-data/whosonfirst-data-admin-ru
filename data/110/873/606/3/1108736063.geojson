@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001208,
-    "geom:area_square_m":8439010.270179,
+    "geom:area_square_m":8439023.242479,
     "geom:bbox":"37.612164,55.571855,37.661322,55.609694",
     "geom:latitude":55.586785,
     "geom:longitude":37.636336,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45296555",
+        "meso:oktmo_code":"45912000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902671,
-    "wof:geomhash":"173563110ea781c4e105431f4d8865ad",
+    "wof:geomhash":"5a48fde5a3685c2e2cdd25a1d015695e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736063,
-    "wof:lastmodified":1627522546,
+    "wof:lastmodified":1695886200,
     "wof:name":"Birjuljovo Zapadnoe",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.197394,
-    "geom:area_square_m":1487832721.24193,
+    "geom:area_square_m":1487832799.590636,
     "geom:bbox":"38.635992,52.136494,39.240791,52.799625",
     "geom:latitude":52.441836,
     "geom:longitude":38.921439,
@@ -151,16 +151,22 @@
     "wof:concordances":{
         "gp:id":12598690,
         "hasc:id":"RU.LP.ZA",
+        "meso:okato_code":"42224000",
+        "meso:oktmo_code":"42624000",
         "qs_pg:id":989707,
         "wd:id":"Q2217766",
         "wk:page":"Zadonsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054561,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"414ebb35ba807a3fb35b2e3a53c16e54",
+    "wof:geomhash":"ce2821bb95a0abefbf7e1d90a25e33f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":890485457,
-    "wof:lastmodified":1690859845,
+    "wof:lastmodified":1695886444,
     "wof:name":"Zadonskiy",
     "wof:parent_id":85687917,
     "wof:placetype":"county",

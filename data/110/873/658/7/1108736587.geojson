@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AM.SR",
+        "meso:okato_code":"10255000",
+        "meso:oktmo_code":"10655000",
         "wd:id":"Q2218125"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903069,
     "wof:geomhash":"43acaee89799b30f65361c27186f56b3",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108736587,
-    "wof:lastmodified":1694639778,
+    "wof:lastmodified":1695886374,
     "wof:name":"Shimanovskiy",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

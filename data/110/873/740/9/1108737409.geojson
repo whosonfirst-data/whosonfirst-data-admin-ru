@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NZ.VE",
+        "meso:okato_code":"22218000",
+        "meso:oktmo_code":"22618000",
         "wd:id":"Q1658660"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903726,
     "wof:geomhash":"722a66a31b06a1fcd743e54634063f0e",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108737409,
-    "wof:lastmodified":1694639793,
+    "wof:lastmodified":1695886424,
     "wof:name":"Vetluzhskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

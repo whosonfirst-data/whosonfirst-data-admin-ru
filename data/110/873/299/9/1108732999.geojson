@@ -155,8 +155,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CK.BI",
+        "meso:okato_code":"77209000",
+        "meso:oktmo_code":"77609000",
         "wd:id":"Q794977"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900082,
     "wof:geomhash":"0fc46cf033c07679c57222a2d85dd4df",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1108732999,
-    "wof:lastmodified":1694639687,
+    "wof:lastmodified":1695886264,
     "wof:name":"Bilibinskiy",
     "wof:parent_id":85687795,
     "wof:placetype":"county",

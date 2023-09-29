@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009075,
-    "geom:area_square_m":62714670.078879,
+    "geom:area_square_m":62714670.078874,
     "geom:bbox":"38.2626228677,55.9762476297,38.462440705,56.0896409076",
     "geom:latitude":56.02225,
     "geom:longitude":38.378519,
@@ -179,10 +179,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"46239000",
+        "meso:oktmo_code":"46781000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900754,
-    "wof:geomhash":"05c8ab28859013dabd8229ed8f896032",
+    "wof:geomhash":"5df79727be3186efc3ac2effd5276231",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -193,7 +200,7 @@
         }
     ],
     "wof:id":1108733719,
-    "wof:lastmodified":1566627078,
+    "wof:lastmodified":1695886234,
     "wof:name":"Chernogolovka",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SR.TU",
+        "meso:okato_code":"63247000",
+        "meso:oktmo_code":"63647000",
         "wd:id":"Q1656198"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903521,
     "wof:geomhash":"e4e3480d0ffb81b3d5cbc0f1994b9f76",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108737115,
-    "wof:lastmodified":1694639789,
+    "wof:lastmodified":1695886412,
     "wof:name":"Turkovskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

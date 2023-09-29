@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AL.BL",
+        "meso:okato_code":"01205000",
+        "meso:oktmo_code":"01605000",
         "wd:id":"Q1822340"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900105,
     "wof:geomhash":"26b3f07a54fa0097fe84029b0e840587",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108733019,
-    "wof:lastmodified":1694639731,
+    "wof:lastmodified":1695886201,
     "wof:name":"Blagoveshhenskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

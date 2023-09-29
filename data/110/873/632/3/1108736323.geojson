@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.426842,
-    "geom:area_square_m":3286558171.612173,
+    "geom:area_square_m":3286557379.2299,
     "geom:bbox":"80.346358,51.180093,81.84097,51.960377",
     "geom:latitude":51.48688,
     "geom:longitude":81.203946,
@@ -121,11 +121,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"01238000",
+        "meso:oktmo_code":"01638000",
         "wd:id":"Q1822641"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902864,
-    "wof:geomhash":"8f944b8610b6e9248d05b1ed21363311",
+    "wof:geomhash":"65b4a62538e5a968fa89e496caef4c61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1108736323,
-    "wof:lastmodified":1690859468,
+    "wof:lastmodified":1695886359,
     "wof:name":"Rubcovskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

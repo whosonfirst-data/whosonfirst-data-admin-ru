@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012634,
-    "geom:area_square_m":90254616.478391,
+    "geom:area_square_m":90254499.112995,
     "geom:bbox":"20.060786,54.645416,20.32427,54.769355",
     "geom:latitude":54.707983,
     "geom:longitude":20.199842,
@@ -90,11 +90,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"27425000",
+        "meso:oktmo_code":"27725000",
         "wd:id":"Q2327545"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903307,
-    "wof:geomhash":"6d0b11b69d7902be934a73fb5d6fa396",
+    "wof:geomhash":"2d5f3f423524bd422ec66410b1681b0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108736879,
-    "wof:lastmodified":1690859418,
+    "wof:lastmodified":1695886223,
     "wof:name":"Svetlovskiy",
     "wof:parent_id":85688215,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.188547,
-    "geom:area_square_m":1332743575.318898,
+    "geom:area_square_m":1332743587.22031,
     "geom:bbox":"34.609165,54.891169,35.342638,55.335942",
     "geom:latitude":55.135023,
     "geom:longitude":34.980207,
@@ -157,16 +157,22 @@
     "wof:concordances":{
         "gp:id":12599286,
         "hasc:id":"RU.SM.TE",
+        "meso:okato_code":"66248000",
+        "meso:oktmo_code":"66648000",
         "qs_pg:id":1105895,
         "wd:id":"Q1992399",
         "wk:page":"Tyomkinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054510,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"11a9f4f8f87a80b5b75612d7cf020e99",
+    "wof:geomhash":"b25e4b7b7ee67e16997e1935cb9507e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":890484359,
-    "wof:lastmodified":1690859940,
+    "wof:lastmodified":1695886463,
     "wof:name":"Temkinskiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",

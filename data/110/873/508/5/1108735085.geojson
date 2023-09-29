@@ -167,8 +167,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BK.ME",
+        "meso:okato_code":"80242000",
+        "meso:oktmo_code":"80642000",
         "wd:id":"Q730998"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901905,
     "wof:geomhash":"3bff17674f9a51fbe6a329dd827bb2aa",
@@ -182,7 +188,7 @@
         }
     ],
     "wof:id":1108735085,
-    "wof:lastmodified":1694639756,
+    "wof:lastmodified":1695886301,
     "wof:name":"Mechetlinskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

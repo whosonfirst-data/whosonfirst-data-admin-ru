@@ -151,10 +151,16 @@
     "wof:concordances":{
         "gp:id":12597897,
         "hasc:id":"RU.KY.EK",
+        "meso:okato_code":"04216000",
+        "meso:oktmo_code":"04616000",
         "qs_pg:id":484614,
         "wd:id":"Q2109898",
         "wk:page":"Yermakovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054428,
     "wof:geom_alt":[
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":890482623,
-    "wof:lastmodified":1694493015,
+    "wof:lastmodified":1695886449,
     "wof:name":"Ermakovskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

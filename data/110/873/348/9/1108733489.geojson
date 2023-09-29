@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.502619,
-    "geom:area_square_m":40332647552.601746,
+    "geom:area_square_m":40332646470.139427,
     "geom:bbox":"156.660812,50.862057,162.160812,55.153851",
     "geom:latitude":53.640416,
     "geom:longitude":159.050904,
@@ -127,11 +127,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"30207000",
+        "meso:oktmo_code":"30607000",
         "wd:id":"Q1042558"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900514,
-    "wof:geomhash":"7d7417421736db23eadbf050e91a5f6b",
+    "wof:geomhash":"291a35bfe2100be08db8c134b5b6c344",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":1108733489,
-    "wof:lastmodified":1690859493,
+    "wof:lastmodified":1695886232,
     "wof:name":"Elizovskiy",
     "wof:parent_id":85687955,
     "wof:placetype":"county",

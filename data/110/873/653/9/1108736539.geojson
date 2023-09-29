@@ -149,8 +149,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VO.SH",
+        "meso:okato_code":"19258000",
+        "meso:oktmo_code":"19658000",
         "wd:id":"Q513890"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903035,
     "wof:geomhash":"ba90783f1a9f839b6480dc5798c28ee7",
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":1108736539,
-    "wof:lastmodified":1694639778,
+    "wof:lastmodified":1695886372,
     "wof:name":"Sheksninskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",

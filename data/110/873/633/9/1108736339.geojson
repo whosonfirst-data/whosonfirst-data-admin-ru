@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.515117,
-    "geom:area_square_m":3562629007.821348,
+    "geom:area_square_m":3562628933.418656,
     "geom:bbox":"94.116669,55.512219,95.465003,56.425304",
     "geom:latitude":55.990644,
     "geom:longitude":94.770361,
@@ -118,11 +118,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"04247000",
+        "meso:oktmo_code":"04647000",
         "wd:id":"Q2156876"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902878,
-    "wof:geomhash":"45cfc6b610e11f0474c8218fc7d1904e",
+    "wof:geomhash":"7f1214cf17c71101791a48305ae2330b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":1108736339,
-    "wof:lastmodified":1690859429,
+    "wof:lastmodified":1695886359,
     "wof:name":"Rybinskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

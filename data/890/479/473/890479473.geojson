@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082333,
-    "geom:area_square_m":572722983.851391,
+    "geom:area_square_m":572722813.944432,
     "geom:bbox":"38.480132,55.599786,38.850698,55.990232",
     "geom:latitude":55.767012,
     "geom:longitude":38.677549,
@@ -154,15 +154,21 @@
     "wof:concordances":{
         "gn:id":512055,
         "hasc:id":"RU.MS.PV",
+        "meso:okato_code":"46245000",
+        "meso:oktmo_code":"46645000",
         "qs_pg:id":1151694,
         "wd:id":"Q2627343"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054246,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"959cae91f772afb00fdaee98db0a6a89",
+    "wof:geomhash":"a42d9d78f1107ed0c30a7c16097aba97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":890479473,
-    "wof:lastmodified":1690859985,
+    "wof:lastmodified":1695886470,
     "wof:name":"Pavlovo-Posadskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

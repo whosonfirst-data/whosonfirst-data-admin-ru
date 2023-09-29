@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.266184,
-    "geom:area_square_m":1857195679.189274,
+    "geom:area_square_m":1857195573.791183,
     "geom:bbox":"52.626479,55.391743,53.522471,55.912274",
     "geom:latitude":55.649419,
     "geom:longitude":53.118353,
@@ -169,16 +169,22 @@
     "wof:concordances":{
         "gp:id":12597548,
         "hasc:id":"RU.TT.MZ",
+        "meso:okato_code":"92240000",
+        "meso:oktmo_code":"92640000",
         "qs_pg:id":281793,
         "wd:id":"Q2220351",
         "wk:page":"Menzelinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054314,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"78300c4d4759ff73b8a55b14c11da002",
+    "wof:geomhash":"b7a2bc443067f6f566d5bdfa9816a640",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -189,7 +195,7 @@
         }
     ],
     "wof:id":890480593,
-    "wof:lastmodified":1690860115,
+    "wof:lastmodified":1695886485,
     "wof:name":"Menzelinskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

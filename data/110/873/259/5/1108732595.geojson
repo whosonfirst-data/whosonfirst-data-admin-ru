@@ -153,8 +153,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.KK.TA"
+        "hasc:id":"RU.KK.TA",
+        "meso:okato_code":"95402000",
+        "meso:oktmo_code":"95702000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899709,
     "wof:geomhash":"81fb45e3b61f8dd345110b838e4b5c01",
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":1108732595,
-    "wof:lastmodified":1694639805,
+    "wof:lastmodified":1695886731,
     "wof:name":"Abaza",
     "wof:parent_id":85688061,
     "wof:placetype":"county",

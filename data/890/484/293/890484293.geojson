@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022613,
-    "geom:area_square_m":184262729.93677,
+    "geom:area_square_m":184262681.252132,
     "geom:bbox":"132.78123,48.698108,133.079611,48.868146",
     "geom:latitude":48.778104,
     "geom:longitude":132.912787,
@@ -153,16 +153,22 @@
     "wof:concordances":{
         "gp:id":12597740,
         "hasc:id":"RU.YV.BG",
+        "meso:okato_code":"99401000",
+        "meso:oktmo_code":"99701000",
         "qs_pg:id":1105830,
         "wd:id":"Q804001",
         "wk:page":"Birobidzhansky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054507,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"73a08f45d7d939ba6fe0bbcd3dbf0c58",
+    "wof:geomhash":"6300ccfa4ed77ff8ae1705c82119e073",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":890484293,
-    "wof:lastmodified":1690859935,
+    "wof:lastmodified":1695886461,
     "wof:name":"Birobidzhan",
     "wof:parent_id":85687991,
     "wof:placetype":"county",

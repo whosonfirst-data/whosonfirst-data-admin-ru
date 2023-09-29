@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CL.AP",
+        "meso:okato_code":"75203000",
+        "meso:oktmo_code":"75603000",
         "wd:id":"Q1634057"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899730,
     "wof:geomhash":"f8726e99fc42f1cfa4b3f8f8fc0c28c8",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108732625,
-    "wof:lastmodified":1694639687,
+    "wof:lastmodified":1695886262,
     "wof:name":"Agapovskiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

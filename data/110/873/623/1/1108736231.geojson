@@ -93,8 +93,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.MS.KN"
+        "hasc:id":"RU.MS.KN",
+        "meso:okato_code":"45283577",
+        "meso:oktmo_code":"45370000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902793,
     "wof:geomhash":"154e6b6d5d9c69f51279ccf9d7696940",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108736231,
-    "wof:lastmodified":1694639783,
+    "wof:lastmodified":1695886387,
     "wof:name":"Strogino",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.248404,
-    "geom:area_square_m":1743376948.899315,
+    "geom:area_square_m":1743377029.02296,
     "geom:bbox":"51.023974,55.119942,52.060097,55.721487",
     "geom:latitude":55.417828,
     "geom:longitude":51.591185,
@@ -136,11 +136,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"92244000",
+        "meso:oktmo_code":"92644000",
         "wd:id":"Q2220488"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902154,
-    "wof:geomhash":"ef1fee0625bd72295e61fbe1b658f112",
+    "wof:geomhash":"60c13474f4bd80e6dfa23fb0096cc37a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":1108735385,
-    "wof:lastmodified":1690859560,
+    "wof:lastmodified":1695886313,
     "wof:name":"Nizhnekamskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.NZ.KU"
+        "hasc:id":"RU.NZ.KU",
+        "meso:okato_code":"22238000",
+        "meso:oktmo_code":"22638000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901658,
     "wof:geomhash":"ed775a1fff8905c759009b4cdee81dbb",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108734789,
-    "wof:lastmodified":1694639749,
+    "wof:lastmodified":1695886277,
     "wof:name":"Kulebakskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

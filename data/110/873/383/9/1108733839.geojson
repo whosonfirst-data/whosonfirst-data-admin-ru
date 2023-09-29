@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SA.KC"
+        "hasc:id":"RU.SA.KC",
+        "meso:okato_code":"36424000",
+        "meso:oktmo_code":"36724000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900851,
     "wof:geomhash":"a22d4a5a46e381441a8938df0c5614b8",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733839,
-    "wof:lastmodified":1694639766,
+    "wof:lastmodified":1695886332,
     "wof:name":"Otradnyj",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

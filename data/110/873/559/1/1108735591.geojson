@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000774,
-    "geom:area_square_m":5400728.983428,
+    "geom:area_square_m":5400735.688186,
     "geom:bbox":"37.487651,55.643218,37.545156,55.674564",
     "geom:latitude":55.658504,
     "geom:longitude":37.516508,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45293578",
+        "meso:oktmo_code":"45905000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902297,
-    "wof:geomhash":"34681b70584ef3c4ce3fb2c2d36ce763",
+    "wof:geomhash":"f160c6f1f3afab345c3d99d699780eed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108735591,
-    "wof:lastmodified":1627522646,
+    "wof:lastmodified":1695886324,
     "wof:name":"Obruchevskiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

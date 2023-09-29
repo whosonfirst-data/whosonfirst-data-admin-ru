@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KO.KR",
+        "meso:okato_code":"87216000",
+        "meso:oktmo_code":"87616000",
         "wd:id":"Q1089804"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901494,
     "wof:geomhash":"dea68fda6572e729454fa98e19b10f88",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108734601,
-    "wof:lastmodified":1694639749,
+    "wof:lastmodified":1695886276,
     "wof:name":"Kortkerosskiy",
     "wof:parent_id":85688077,
     "wof:placetype":"county",

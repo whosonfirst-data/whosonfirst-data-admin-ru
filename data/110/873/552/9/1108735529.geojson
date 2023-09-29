@@ -149,8 +149,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PS.NR",
+        "meso:okato_code":"58223000",
+        "meso:oktmo_code":"58623000",
         "wd:id":"Q2706889"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902245,
     "wof:geomhash":"7023d9e459eb470254f71a2f908f9004",
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":1108735529,
-    "wof:lastmodified":1694639762,
+    "wof:lastmodified":1695886322,
     "wof:name":"Novorzhevskiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",

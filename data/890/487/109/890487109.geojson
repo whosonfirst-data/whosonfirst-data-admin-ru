@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.210205,
-    "geom:area_square_m":1426019184.589633,
+    "geom:area_square_m":1426019533.168684,
     "geom:bbox":"37.181933,56.501824,38.06496,56.959911",
     "geom:latitude":56.726688,
     "geom:longitude":37.635176,
@@ -163,16 +163,22 @@
     "wof:concordances":{
         "gp:id":12598786,
         "hasc:id":"RU.MS.TA",
+        "meso:okato_code":"46254000",
+        "meso:oktmo_code":"46654000",
         "qs_pg:id":231653,
         "wd:id":"Q464505",
         "wk:page":"Taldomsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054656,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4095e707661587260589ffb5070bbb7d",
+    "wof:geomhash":"b3f0c753b71d9baaa1a5daff9133980c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":890487109,
-    "wof:lastmodified":1690860097,
+    "wof:lastmodified":1695886482,
     "wof:name":"Taldomskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

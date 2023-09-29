@@ -130,8 +130,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KO.VU",
+        "meso:okato_code":"87412000",
+        "meso:oktmo_code":"87602000",
         "wd:id":"Q1075082"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902811,
     "wof:geomhash":"606102c870a79323c1ae1bcb0f0406b5",
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":1108736257,
-    "wof:lastmodified":1694639793,
+    "wof:lastmodified":1695886429,
     "wof:name":"Vuktyl",
     "wof:parent_id":85688077,
     "wof:placetype":"county",

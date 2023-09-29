@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.AL.SR"
+        "hasc:id":"RU.AL.SR",
+        "meso:okato_code":"01430000",
+        "meso:oktmo_code":"01730000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901078,
     "wof:geomhash":"fd052347ed1db3a0da6395b7d7c14f27",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108734105,
-    "wof:lastmodified":1694639740,
+    "wof:lastmodified":1695886242,
     "wof:name":"Jarovoe",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

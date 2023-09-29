@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.313481,
-    "geom:area_square_m":2131060358.540457,
+    "geom:area_square_m":2131060367.728724,
     "geom:bbox":"35.982082,56.334082,37.164754,56.923751",
     "geom:latitude":56.648506,
     "geom:longitude":36.595877,
@@ -160,16 +160,22 @@
     "wof:concordances":{
         "gp:id":12598359,
         "hasc:id":"RU.TV.KR",
+        "meso:okato_code":"28230000",
+        "meso:oktmo_code":"28630000",
         "qs_pg:id":1209277,
         "wd:id":"Q394616",
         "wk:page":"Konakovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054281,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ee17b3ff7281b2bf1cedbf983f185bff",
+    "wof:geomhash":"31480d4d25d5342f7a3c115d2e98c246",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":890480051,
-    "wof:lastmodified":1690860149,
+    "wof:lastmodified":1695886494,
     "wof:name":"Konakovskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

@@ -170,8 +170,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.DA.AG",
+        "meso:okato_code":"82201000",
+        "meso:oktmo_code":"82601000",
         "wd:id":"Q619726"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899733,
     "wof:geomhash":"bbcae08efd8e48776dfdf081e1116588",
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":1108732629,
-    "wof:lastmodified":1694639726,
+    "wof:lastmodified":1695886176,
     "wof:name":"Agul'skiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

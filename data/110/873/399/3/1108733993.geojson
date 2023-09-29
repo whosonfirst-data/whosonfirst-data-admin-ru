@@ -139,8 +139,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KH.IL",
+        "meso:okato_code":"08224000",
+        "meso:oktmo_code":"08624000",
         "wd:id":"Q853510"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900974,
     "wof:geomhash":"72b6749ccff98b47ec6f00079b2d5ad2",
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":1108733993,
-    "wof:lastmodified":1694639741,
+    "wof:lastmodified":1695886248,
     "wof:name":"Imeni Lazo",
     "wof:parent_id":85687937,
     "wof:placetype":"county",

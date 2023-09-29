@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.283979,
-    "geom:area_square_m":1990601484.480831,
+    "geom:area_square_m":1990601718.716637,
     "geom:bbox":"43.29358,55.159955,44.247821,55.734183",
     "geom:latitude":55.466446,
     "geom:longitude":43.724789,
@@ -144,16 +144,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598194,
+        "meso:okato_code":"22203000",
+        "meso:oktmo_code":"22603000",
         "qs_pg:id":1105846,
         "wd:id":"Q1650986",
         "wk:page":"Arzamassky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054508,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d010bb6faaa8b29e0f8562ddc72abe16",
+    "wof:geomhash":"9ab35cd36814630bda713a43195076bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":890484307,
-    "wof:lastmodified":1690859926,
+    "wof:lastmodified":1695886460,
     "wof:name":"Arzamasskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.471699,
-    "geom:area_square_m":3426268981.28031,
+    "geom:area_square_m":3426268377.815237,
     "geom:bbox":"86.021579,53.568012,87.439333,54.388904",
     "geom:latitude":54.024968,
     "geom:longitude":86.68223,
@@ -121,11 +121,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"32222000",
+        "meso:oktmo_code":"32622000",
         "wd:id":"Q840914"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902633,
-    "wof:geomhash":"2bf1804444808e9a258dfcaa0a18b1ab",
+    "wof:geomhash":"e0df2c5bcce9c977655cf97922b72d11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1108736007,
-    "wof:lastmodified":1690859676,
+    "wof:lastmodified":1695886352,
     "wof:name":"Prokop'evskiy",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

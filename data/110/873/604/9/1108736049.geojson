@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.AM.RA"
+        "hasc:id":"RU.AM.RA",
+        "meso:okato_code":"10420000",
+        "meso:oktmo_code":"10720000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902663,
     "wof:geomhash":"3cb696c2767b19f6218693d4d9e70275",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108736049,
-    "wof:lastmodified":1694639773,
+    "wof:lastmodified":1695886354,
     "wof:name":"Rajchikhinsk",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

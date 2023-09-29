@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039823,
-    "geom:area_square_m":279791294.801899,
+    "geom:area_square_m":279791185.999787,
     "geom:bbox":"37.381362,55.25542,37.71513,55.521363",
     "geom:latitude":55.375871,
     "geom:longitude":37.550571,
@@ -141,16 +141,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598765,
+        "meso:okato_code":"46246000",
+        "meso:oktmo_code":"46646000",
         "qs_pg:id":220118,
         "wd:id":"Q1695256",
         "wk:page":"Podolsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054649,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ffb90bc6be7e7746b0893b9d48af5262",
+    "wof:geomhash":"816dfb4459da763299ffd231e95a46c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":890486993,
-    "wof:lastmodified":1690860052,
+    "wof:lastmodified":1695886477,
     "wof:name":"Podol'skiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

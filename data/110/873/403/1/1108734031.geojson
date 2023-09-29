@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PZ.IS",
+        "meso:okato_code":"56226000",
+        "meso:oktmo_code":"56626000",
         "wd:id":"Q1653265"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901008,
     "wof:geomhash":"76feee65abd5a00ccc0b5ed14f72ebfc",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108734031,
-    "wof:lastmodified":1694639742,
+    "wof:lastmodified":1695886250,
     "wof:name":"Issinskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",

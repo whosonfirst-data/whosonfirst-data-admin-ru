@@ -122,8 +122,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CT.KH",
+        "meso:okato_code":"76247000",
+        "meso:oktmo_code":"76647000",
         "wd:id":"Q2217530"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901291,
     "wof:geomhash":"00264761bd05a5c5b099f370d12bf739",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1108734361,
-    "wof:lastmodified":1694492382,
+    "wof:lastmodified":1695886228,
     "wof:name":"Khilokskiy",
     "wof:parent_id":85688005,
     "wof:placetype":"county",

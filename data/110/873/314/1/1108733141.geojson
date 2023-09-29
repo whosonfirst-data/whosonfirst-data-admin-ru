@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VR.BU",
+        "meso:okato_code":"20208000",
+        "meso:oktmo_code":"20608000",
         "wd:id":"Q1651081"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900214,
     "wof:geomhash":"47c5568337300bb440647f262753c0e0",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108733141,
-    "wof:lastmodified":1694639732,
+    "wof:lastmodified":1695886206,
     "wof:name":"Buturlinovskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

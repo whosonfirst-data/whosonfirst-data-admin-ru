@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.625581,
-    "geom:area_square_m":19903928749.104614,
+    "geom:area_square_m":19903928698.279091,
     "geom:bbox":"87.884121,51.281775,90.895374,53.164324",
     "geom:latitude":52.18674,
     "geom:longitude":89.344804,
@@ -144,16 +144,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12597887,
+        "meso:okato_code":"95225000",
+        "meso:oktmo_code":"95625000",
         "qs_pg:id":268767,
         "wd:id":"Q1043141",
         "wk:page":"Tashtypsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054153,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f4d8def02ee4767b09fff0c3a2f5329b",
+    "wof:geomhash":"50b96dc9845ca6b8574f44c63f3c8d6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":890478179,
-    "wof:lastmodified":1690859810,
+    "wof:lastmodified":1695886439,
     "wof:name":"Tashtypskiy",
     "wof:parent_id":85688061,
     "wof:placetype":"county",

@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.VG.NI"
+        "hasc:id":"RU.VG.NI",
+        "meso:okato_code":"18236000",
+        "meso:oktmo_code":"18636000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902148,
     "wof:geomhash":"2920556e58ba506faf38a075aa2e4a22",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735377,
-    "wof:lastmodified":1694639761,
+    "wof:lastmodified":1695886314,
     "wof:name":"Nikolaevskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077855,
-    "geom:area_square_m":597043058.181538,
+    "geom:area_square_m":597042996.991183,
     "geom:bbox":"39.022183,51.484349,39.45475,51.870082",
     "geom:latitude":51.670813,
     "geom:longitude":39.229251,
@@ -146,16 +146,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12599658,
+        "meso:okato_code":"20401000",
+        "meso:oktmo_code":"20701000",
         "qs_pg:id":1105900,
         "wd:id":"Q1970230",
         "wk:page":"Khokholsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054510,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b976c0fcdbe6ede8c0c2da8b70ef12a8",
+    "wof:geomhash":"d90a9c21d0a12547d6d3bdd90c6ae215",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,7 +172,7 @@
         }
     ],
     "wof:id":890484369,
-    "wof:lastmodified":1690859942,
+    "wof:lastmodified":1695886464,
     "wof:name":"Voronezh",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

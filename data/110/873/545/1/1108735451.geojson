@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.599482,
-    "geom:area_square_m":36909017986.906815,
+    "geom:area_square_m":36909019982.84005,
     "geom:bbox":"135.441086,73.184555,158.024887,77.127892",
     "geom:latitude":75.087004,
     "geom:longitude":142.122023,
@@ -72,10 +72,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"NO DATA",
+        "meso:oktmo_code":"NO DATA"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902189,
-    "wof:geomhash":"d494bea47e151c75826056606143d921",
+    "wof:geomhash":"85ce526b5a791c2f9b0ab3718266e32d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,7 +93,7 @@
         }
     ],
     "wof:id":1108735451,
-    "wof:lastmodified":1627522577,
+    "wof:lastmodified":1695886247,
     "wof:name":"New Siberia Islands",
     "wof:parent_id":85687843,
     "wof:placetype":"county",

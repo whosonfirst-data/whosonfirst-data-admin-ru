@@ -119,8 +119,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.MM.PO",
+        "meso:okato_code":"47525000",
+        "meso:oktmo_code":"47737000",
         "wd:id":"Q4354708"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903844,
     "wof:geomhash":"39cfa187d203e7ec42e303d1da243998",
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":1108737905,
-    "wof:lastmodified":1694639795,
+    "wof:lastmodified":1695886437,
     "wof:name":"ZATO Aleksandrovsk",
     "wof:parent_id":85687869,
     "wof:placetype":"county",

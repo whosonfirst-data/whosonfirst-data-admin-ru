@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.TB.UR"
+        "hasc:id":"RU.TB.UR",
+        "meso:okato_code":"68430000",
+        "meso:oktmo_code":"68730000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900886,
     "wof:geomhash":"993e3d624b0c20a4ca55202f95a3e0c6",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733883,
-    "wof:lastmodified":1694639791,
+    "wof:lastmodified":1695886419,
     "wof:name":"Uvarovo",
     "wof:parent_id":85687829,
     "wof:placetype":"county",

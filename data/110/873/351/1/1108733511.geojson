@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RZ.ER",
+        "meso:okato_code":"61202000",
+        "meso:oktmo_code":"61602000",
         "wd:id":"Q3732068"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900535,
     "wof:geomhash":"991a2a6129480e3e440d5312eb5c5e31",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108733511,
-    "wof:lastmodified":1694639686,
+    "wof:lastmodified":1695886237,
     "wof:name":"Ermishinskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

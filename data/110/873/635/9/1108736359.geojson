@@ -122,8 +122,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KY.SA",
+        "meso:okato_code":"04248000",
+        "meso:oktmo_code":"04648000",
         "wd:id":"Q918200"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902892,
     "wof:geomhash":"15888d3b6edb3c3a3032dd4064fb1b0d",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1108736359,
-    "wof:lastmodified":1694492767,
+    "wof:lastmodified":1695886362,
     "wof:name":"Sajanskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

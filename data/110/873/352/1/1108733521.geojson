@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CL.ET",
+        "meso:okato_code":"75220000",
+        "meso:oktmo_code":"75620000",
         "wd:id":"Q1651585"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900541,
     "wof:geomhash":"59f8154f45120444d2861d7c8a5fbe3e",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108733521,
-    "wof:lastmodified":1694639683,
+    "wof:lastmodified":1695886218,
     "wof:name":"Etkul'skiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

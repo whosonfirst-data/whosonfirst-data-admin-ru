@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RZ.SZ",
+        "meso:okato_code":"61248000",
+        "meso:oktmo_code":"61648000",
         "wd:id":"Q1655670"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903243,
     "wof:geomhash":"a276b93f614dd9d629093f740fd36b4f",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108736807,
-    "wof:lastmodified":1694639683,
+    "wof:lastmodified":1695886222,
     "wof:name":"Starozhilovskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

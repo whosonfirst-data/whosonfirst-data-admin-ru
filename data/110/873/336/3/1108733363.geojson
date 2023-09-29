@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SR.DE"
+        "hasc:id":"RU.SR.DE",
+        "meso:okato_code":"63213000",
+        "meso:oktmo_code":"63613000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900402,
     "wof:geomhash":"392da6a6fb5a182629fd8892e2282307",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733363,
-    "wof:lastmodified":1694639736,
+    "wof:lastmodified":1695886223,
     "wof:name":"Dergachevskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

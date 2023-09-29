@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.141137,
-    "geom:area_square_m":1244268800.623976,
+    "geom:area_square_m":1244268586.434856,
     "geom:bbox":"37.862497,44.33338,38.687002,44.759264",
     "geom:latitude":44.522567,
     "geom:longitude":38.308972,
@@ -266,14 +266,20 @@
     "wof:concordances":{
         "gp:id":12597775,
         "hasc:id":"RU.KD.GE",
+        "meso:okato_code":"03408000",
+        "meso:oktmo_code":"03708000",
         "qs_pg:id":221448
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054649,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"864ae478bd86be69375e6959dba5bcd4",
+    "wof:geomhash":"1d5e3e3be06c59ef7504ee914e9ebf07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -284,7 +290,7 @@
         }
     ],
     "wof:id":890486999,
-    "wof:lastmodified":1642541513,
+    "wof:lastmodified":1695886475,
     "wof:name":"Gelendzhik",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

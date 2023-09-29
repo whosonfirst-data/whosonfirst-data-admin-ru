@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.26655,
-    "geom:area_square_m":2027818746.407836,
+    "geom:area_square_m":2027818489.102752,
     "geom:bbox":"103.422841,51.802986,104.216119,52.301531",
     "geom:latitude":52.030003,
     "geom:longitude":103.835091,
@@ -118,11 +118,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"25255000",
+        "meso:oktmo_code":"25655000",
         "wd:id":"Q1655476"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903038,
-    "wof:geomhash":"b9975e0799ed0222cf1a82a72eb6d08e",
+    "wof:geomhash":"0714b5d72487e6fb68cf01fa3ada636d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":1108736545,
-    "wof:lastmodified":1690859674,
+    "wof:lastmodified":1695886215,
     "wof:name":"Shelekhovskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

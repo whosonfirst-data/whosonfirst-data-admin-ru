@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NG.PO",
+        "meso:okato_code":"49234000",
+        "meso:oktmo_code":"49634000",
         "wd:id":"Q2627842"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902543,
     "wof:geomhash":"8d1bf80da781c50b2c9263b662e63af7",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108735901,
-    "wof:lastmodified":1694639771,
+    "wof:lastmodified":1695886345,
     "wof:name":"Poddorskiy",
     "wof:parent_id":85688095,
     "wof:placetype":"county",

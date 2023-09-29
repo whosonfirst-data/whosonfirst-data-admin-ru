@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.340356,
-    "geom:area_square_m":2660545546.699246,
+    "geom:area_square_m":2660545806.699469,
     "geom:bbox":"127.770514,50.576809,129.182635,51.020327",
     "geom:latitude":50.789229,
     "geom:longitude":128.462888,
@@ -154,15 +154,21 @@
     "wof:concordances":{
         "gn:id":2026893,
         "hasc:id":"RU.AM.BR",
+        "meso:okato_code":"10208000",
+        "meso:oktmo_code":"10608000",
         "qs_pg:id":570973,
         "wd:id":"Q731716"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054327,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"64c6550617e9fc860cfaa76bb4b0847f",
+    "wof:geomhash":"3cfe225b34c60b3b4ffc05b3d34f6023",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":890480843,
-    "wof:lastmodified":1690860125,
+    "wof:lastmodified":1695886488,
     "wof:name":"Belogorskiy",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

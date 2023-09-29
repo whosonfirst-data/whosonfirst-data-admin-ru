@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OM.PA",
+        "meso:okato_code":"52246000",
+        "meso:oktmo_code":"52646000",
         "wd:id":"Q1654008"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902448,
     "wof:geomhash":"35e142c897a647d2af361106c1c6c190",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108735781,
-    "wof:lastmodified":1694639768,
+    "wof:lastmodified":1695886339,
     "wof:name":"Pavlogradskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

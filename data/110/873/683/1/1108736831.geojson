@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KG.SU",
+        "meso:okato_code":"29236000",
+        "meso:oktmo_code":"29636000",
         "wd:id":"Q1656160"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903268,
     "wof:geomhash":"e18669c3fb56f787c6df8537b91a93ce",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108736831,
-    "wof:lastmodified":1694639781,
+    "wof:lastmodified":1695886382,
     "wof:name":"Sukhinichskiy",
     "wof:parent_id":85688131,
     "wof:placetype":"county",

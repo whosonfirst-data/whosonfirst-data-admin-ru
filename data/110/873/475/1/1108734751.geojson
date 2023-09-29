@@ -149,8 +149,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NG.KR",
+        "meso:okato_code":"49214000",
+        "meso:oktmo_code":"49614000",
         "wd:id":"Q1141765"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901625,
     "wof:geomhash":"0df898f9fdb8c521355d1c4f9d62e1e7",
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":1108734751,
-    "wof:lastmodified":1694639751,
+    "wof:lastmodified":1695886286,
     "wof:name":"Kresteckij",
     "wof:parent_id":85688095,
     "wof:placetype":"county",

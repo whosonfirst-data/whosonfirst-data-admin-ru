@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.IV.KO",
+        "meso:okato_code":"24213000",
+        "meso:oktmo_code":"24613000",
         "wd:id":"Q3816332"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901465,
     "wof:geomhash":"ab5ea98d959407ea9ede6ff9550ec688",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108734565,
-    "wof:lastmodified":1694639748,
+    "wof:lastmodified":1695886274,
     "wof:name":"Komsomol'skiy",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.BU.UL"
+        "hasc:id":"RU.BU.UL",
+        "meso:okato_code":"81401000",
+        "meso:oktmo_code":"81701000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900724,
     "wof:geomhash":"813c6323da05e099a4f685795c5f92a9",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733683,
-    "wof:lastmodified":1694639790,
+    "wof:lastmodified":1695886413,
     "wof:name":"Ulan-Udeh",
     "wof:parent_id":85688207,
     "wof:placetype":"county",

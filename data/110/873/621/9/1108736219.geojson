@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001596,
-    "geom:area_square_m":11090098.680417,
+    "geom:area_square_m":11090030.956637,
     "geom:bbox":"37.647593,55.780206,37.704066,55.823932",
     "geom:latitude":55.799123,
     "geom:longitude":37.678067,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45263591",
+        "meso:oktmo_code":"45315000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902783,
-    "wof:geomhash":"c4087222e415a6a597d30831ee914069",
+    "wof:geomhash":"28082d4185f10ee50550c457f7e07d2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736219,
-    "wof:lastmodified":1627522689,
+    "wof:lastmodified":1695886380,
     "wof:name":"Sokol'niki",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

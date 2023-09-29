@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.802001,
-    "geom:area_square_m":6212829089.892143,
+    "geom:area_square_m":6212829667.814338,
     "geom:bbox":"89.657003,50.535489,91.12301,51.816873",
     "geom:latitude":51.207658,
     "geom:longitude":90.416284,
@@ -136,11 +136,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"93210000",
+        "meso:oktmo_code":"93610000",
         "wd:id":"Q791054"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899976,
-    "wof:geomhash":"fad4a7cdc1aff1b24a167bb2690e2b8d",
+    "wof:geomhash":"9b14930466db7fd67c0b975d8d150f7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":1108732895,
-    "wof:lastmodified":1690859404,
+    "wof:lastmodified":1695886222,
     "wof:name":"Barun-KHemchikskiy",
     "wof:parent_id":85688039,
     "wof:placetype":"county",

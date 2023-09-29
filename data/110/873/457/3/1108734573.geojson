@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RO.KO",
+        "meso:okato_code":"60225000",
+        "meso:oktmo_code":"60625000",
         "wd:id":"Q1767232"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901474,
     "wof:geomhash":"0bdd39165d64f6b2a4c65760f8bd2fe8",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108734573,
-    "wof:lastmodified":1694639748,
+    "wof:lastmodified":1695886274,
     "wof:name":"Konstantinovskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

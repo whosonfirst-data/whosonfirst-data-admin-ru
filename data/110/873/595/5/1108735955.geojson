@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VR.PR",
+        "meso:okato_code":"20239000",
+        "meso:oktmo_code":"20639000",
         "wd:id":"Q1654021"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902586,
     "wof:geomhash":"415dff53ed886095f716ae1f059aed98",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108735955,
-    "wof:lastmodified":1694639772,
+    "wof:lastmodified":1695886348,
     "wof:name":"Povorinskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

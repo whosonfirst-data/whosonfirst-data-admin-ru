@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.MR.DU"
+        "hasc:id":"RU.MR.DU",
+        "meso:okato_code":"89216000",
+        "meso:oktmo_code":"89616000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900452,
     "wof:geomhash":"8a844310434b2628ea5a5cc2e630767e",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733417,
-    "wof:lastmodified":1694639736,
+    "wof:lastmodified":1695886226,
     "wof:name":"Dubenskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",

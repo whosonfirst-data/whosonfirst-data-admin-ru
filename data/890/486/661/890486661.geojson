@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.302656,
-    "geom:area_square_m":2039521278.359138,
+    "geom:area_square_m":2039521552.947359,
     "geom:bbox":"59.23445,56.740822,60.332301,57.326588",
     "geom:latitude":56.976848,
     "geom:longitude":59.742249,
@@ -91,14 +91,20 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12599330,
+        "meso:okato_code":"65480000",
+        "meso:oktmo_code":"65753000",
         "qs_pg:id":506390
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054628,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"40a8df0ef9df1ec044327eff4cbb7b45",
+    "wof:geomhash":"0e5a22c98305c6e762b18a05d2bf29cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":890486661,
-    "wof:lastmodified":1642541514,
+    "wof:lastmodified":1695886476,
     "wof:name":"Pervoural'sk",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

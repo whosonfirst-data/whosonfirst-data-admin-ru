@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CV.CR",
+        "meso:okato_code":"97244000",
+        "meso:oktmo_code":"97644000",
         "wd:id":"Q2626776"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900270,
     "wof:geomhash":"4803aab0ec2d2e98dd78f3cd635e022e",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108733203,
-    "wof:lastmodified":1694639785,
+    "wof:lastmodified":1695886400,
     "wof:name":"Cheboksarskiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",

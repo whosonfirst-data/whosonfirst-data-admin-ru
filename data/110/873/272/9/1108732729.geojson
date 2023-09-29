@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000193,
-    "geom:area_square_m":670117.744377,
+    "geom:area_square_m":670075.095899,
     "geom:bbox":"110.966479,73.67837,110.990047,73.694879",
     "geom:latitude":73.68916,
     "geom:longitude":110.976146,
@@ -77,10 +77,13 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:oktmo_code":"98610000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
     "wof:country":"RU",
     "wof:created":1478899819,
-    "wof:geomhash":"cae03e441d6c1dd04502aec2ccb56c3a",
+    "wof:geomhash":"3abba60481b291aa6c297fb28bb54baa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108732729,
-    "wof:lastmodified":1627522534,
+    "wof:lastmodified":1695886184,
     "wof:name":"Anabarskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",

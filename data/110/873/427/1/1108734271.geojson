@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NS.KS",
+        "meso:okato_code":"50217000",
+        "meso:oktmo_code":"50617000",
         "wd:id":"Q630968"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901222,
     "wof:geomhash":"fb9bd2afa07bf372e0b0953837350f9d",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108734271,
-    "wof:lastmodified":1694639744,
+    "wof:lastmodified":1695886258,
     "wof:name":"Karasukskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",

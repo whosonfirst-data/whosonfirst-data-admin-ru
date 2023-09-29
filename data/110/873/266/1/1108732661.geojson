@@ -182,8 +182,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BK.AL",
+        "meso:okato_code":"80202000",
+        "meso:oktmo_code":"80602000",
         "wd:id":"Q1378418"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899765,
     "wof:geomhash":"fffb2ea6cadde2f52eeb5c56b2245c1c",
@@ -197,7 +203,7 @@
         }
     ],
     "wof:id":1108732661,
-    "wof:lastmodified":1694639727,
+    "wof:lastmodified":1695886183,
     "wof:name":"Al'sheevskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

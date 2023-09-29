@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TB.NI",
+        "meso:okato_code":"68220000",
+        "meso:oktmo_code":"68620000",
         "wd:id":"Q1653247"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902142,
     "wof:geomhash":"1f92ff00f99d4f61efa7069adda0765d",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108735367,
-    "wof:lastmodified":1694639686,
+    "wof:lastmodified":1695886238,
     "wof:name":"Nikiforovskiy",
     "wof:parent_id":85687829,
     "wof:placetype":"county",

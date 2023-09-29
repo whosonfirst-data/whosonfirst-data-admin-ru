@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TO.ZY",
+        "meso:okato_code":"69220000",
+        "meso:oktmo_code":"69620000",
         "wd:id":"Q607052"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903942,
     "wof:geomhash":"03ca083c12e60a85bcac808a9218520a",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108738473,
-    "wof:lastmodified":1694639797,
+    "wof:lastmodified":1695886445,
     "wof:name":"Zyrjanskiy",
     "wof:parent_id":85687809,
     "wof:placetype":"county",

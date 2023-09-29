@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043506,
-    "geom:area_square_m":334482455.962186,
+    "geom:area_square_m":334482489.758998,
     "geom:bbox":"45.816803,51.407684,46.154482,51.687688",
     "geom:latitude":51.555043,
     "geom:longitude":45.954002,
@@ -138,15 +138,21 @@
     "wof:concordances":{
         "gp:id":12599251,
         "hasc:id":"RU.SR.SR",
+        "meso:okato_code":"63401000",
+        "meso:oktmo_code":"63701000",
         "qs_pg:id":224480,
         "wk:page":"Dukhovnitsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054653,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b10397f30cdb5f997bf40eeaa9cf59db",
+    "wof:geomhash":"07e050139748321c61974aa27f0a936d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":890487049,
-    "wof:lastmodified":1642541518,
+    "wof:lastmodified":1695886479,
     "wof:name":"Saratov",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

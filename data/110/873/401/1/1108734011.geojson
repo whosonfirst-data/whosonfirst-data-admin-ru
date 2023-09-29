@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SV.IR"
+        "hasc:id":"RU.SV.IR",
+        "meso:okato_code":"65218000",
+        "meso:oktmo_code":"65711000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900991,
     "wof:geomhash":"2b9be10cdc2d3a8a423ab74ffe08f49d",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108734011,
-    "wof:lastmodified":1694639741,
+    "wof:lastmodified":1695886249,
     "wof:name":"Irbitskoe municipal'noe obrazovanie",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

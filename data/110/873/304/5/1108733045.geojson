@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VR.BO",
+        "meso:okato_code":"20205000",
+        "meso:oktmo_code":"20605000",
         "wd:id":"Q686486"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900127,
     "wof:geomhash":"b7c3e8c5e800671e5edd94d2fdf2a379",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108733045,
-    "wof:lastmodified":1694639731,
+    "wof:lastmodified":1695886202,
     "wof:name":"Bogucharskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

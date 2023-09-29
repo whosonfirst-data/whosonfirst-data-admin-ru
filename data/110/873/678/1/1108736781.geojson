@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.MG.SR"
+        "hasc:id":"RU.MG.SR",
+        "meso:okato_code":"44210000",
+        "meso:oktmo_code":"44610000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903221,
     "wof:geomhash":"044d94967bce7f4181a1b387a206eacb",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108736781,
-    "wof:lastmodified":1694639782,
+    "wof:lastmodified":1695886385,
     "wof:name":"Srednekanskiy",
     "wof:parent_id":85687881,
     "wof:placetype":"county",

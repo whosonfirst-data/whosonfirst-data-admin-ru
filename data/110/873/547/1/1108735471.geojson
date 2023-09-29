@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041716,
-    "geom:area_square_m":193058242.44799,
+    "geom:area_square_m":193057977.688452,
     "geom:bbox":"87.58912,67.820006,88.424238,69.478847",
     "geom:latitude":68.021113,
     "geom:longitude":87.722297,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"04429000",
+        "meso:oktmo_code":"04729000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902204,
-    "wof:geomhash":"acd3a2ff9b4cb573c11862684c9ae678",
+    "wof:geomhash":"119c28843c8211bdf32d9aa9baafd9a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108735471,
-    "wof:lastmodified":1627522640,
+    "wof:lastmodified":1695886316,
     "wof:name":"Noril'sk",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

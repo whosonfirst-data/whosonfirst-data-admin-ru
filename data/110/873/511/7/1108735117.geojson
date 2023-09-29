@@ -87,8 +87,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.KE.MD"
+        "hasc:id":"RU.KE.MD",
+        "meso:okato_code":"32425000",
+        "meso:oktmo_code":"32725000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901934,
     "wof:geomhash":"3de0df9ee8c3f3cf6e988912d8ec4e10",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108735117,
-    "wof:lastmodified":1694639757,
+    "wof:lastmodified":1695886302,
     "wof:name":"Mezhdurechensk",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

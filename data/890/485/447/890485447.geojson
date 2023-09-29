@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.150626,
-    "geom:area_square_m":1321404381.842705,
+    "geom:area_square_m":1321404485.151703,
     "geom:bbox":"39.4713,44.509139,40.026079,45.051062",
     "geom:latitude":44.808015,
     "geom:longitude":39.753629,
@@ -160,16 +160,22 @@
     "wof:concordances":{
         "gp:id":12597771,
         "hasc:id":"RU.KD.BR",
+        "meso:okato_code":"03208000",
+        "meso:oktmo_code":"03608000",
         "qs_pg:id":57508,
         "wd:id":"Q792508",
         "wk:page":"Belorechensky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054561,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7a3594a4751cc2daf23aba7526909a15",
+    "wof:geomhash":"425632b7a3655160cea0625af6138a7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":890485447,
-    "wof:lastmodified":1690859818,
+    "wof:lastmodified":1695886196,
     "wof:name":"Belorechenskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

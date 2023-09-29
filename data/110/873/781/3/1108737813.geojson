@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TT.ZA",
+        "meso:okato_code":"92227000",
+        "meso:oktmo_code":"92627000",
         "wd:id":"Q2719249"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903817,
     "wof:geomhash":"287bf8944ffb3b1f56121d19f13b0add",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108737813,
-    "wof:lastmodified":1694639795,
+    "wof:lastmodified":1695886434,
     "wof:name":"Zainskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

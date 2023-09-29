@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OB.NS",
+        "meso:okato_code":"53231000",
+        "meso:oktmo_code":"53631000",
         "wd:id":"Q3879100"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902250,
     "wof:geomhash":"86652951c2c1a9b954894c982f41dff2",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108735537,
-    "wof:lastmodified":1694639762,
+    "wof:lastmodified":1695886322,
     "wof:name":"Novosergievskiy",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

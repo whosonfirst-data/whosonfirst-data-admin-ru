@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.517718,
-    "geom:area_square_m":3411453298.296092,
+    "geom:area_square_m":3411453107.73517,
     "geom:bbox":"58.961028,57.465796,61.239416,58.179242",
     "geom:latitude":57.798282,
     "geom:longitude":60.281893,
@@ -97,11 +97,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"65232000",
+        "meso:oktmo_code":"65717000",
         "wd:id":"Q2766771"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900618,
-    "wof:geomhash":"45cf1eec687cf8458093170ba4f151b0",
+    "wof:geomhash":"37721b566010e10e6c49fad976c0baab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1108733615,
-    "wof:lastmodified":1627522570,
+    "wof:lastmodified":1695886237,
     "wof:name":"Gornoural'skiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

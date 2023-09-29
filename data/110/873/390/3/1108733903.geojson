@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045531,
-    "geom:area_square_m":308076169.283244,
+    "geom:area_square_m":308076450.485252,
     "geom:bbox":"61.124628,56.701467,61.425324,56.949564",
     "geom:latitude":56.824365,
     "geom:longitude":61.270021,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"65426000",
+        "meso:oktmo_code":"65737000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900899,
-    "wof:geomhash":"cc2a8809b1c800ba1ec590aea489d708",
+    "wof:geomhash":"4046c9d566ef7e46db8d654ebefaf4bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108733903,
-    "wof:lastmodified":1627522735,
+    "wof:lastmodified":1695886436,
     "wof:name":"Zarechnyj",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.498439,
-    "geom:area_square_m":3451670329.674981,
+    "geom:area_square_m":3451670110.59695,
     "geom:bbox":"84.885796,55.603895,86.116904,56.23822",
     "geom:latitude":55.941523,
     "geom:longitude":85.453677,
@@ -118,11 +118,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"32246000",
+        "meso:oktmo_code":"32646000",
         "wd:id":"Q923712"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901082,
-    "wof:geomhash":"f1186438d3d1e6b67ae6cb13b386d63b",
+    "wof:geomhash":"2779a2e8e2e1ab976b19ea4d20567a1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":1108734113,
-    "wof:lastmodified":1690859607,
+    "wof:lastmodified":1695886252,
     "wof:name":"Jashkinskiy",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

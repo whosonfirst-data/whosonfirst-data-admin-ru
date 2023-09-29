@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.136358,
-    "geom:area_square_m":1028755834.827106,
+    "geom:area_square_m":1028755825.763956,
     "geom:bbox":"40.916042,52.231453,41.695074,52.571205",
     "geom:latitude":52.400311,
     "geom:longitude":41.312893,
@@ -145,15 +145,21 @@
     "wof:concordances":{
         "gn:id":462315,
         "hasc:id":"RU.TB.ZN",
+        "meso:okato_code":"68206000",
+        "meso:oktmo_code":"68606000",
         "qs_pg:id":548840,
         "wd:id":"Q1658424"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054317,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1b2f203be71e70cab7f06c5ad3a678e1",
+    "wof:geomhash":"fc7398d7a5242c2e181ae94bf68909ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":890480665,
-    "wof:lastmodified":1690860147,
+    "wof:lastmodified":1695886493,
     "wof:name":"Znamenskiy",
     "wof:parent_id":85687829,
     "wof:placetype":"county",

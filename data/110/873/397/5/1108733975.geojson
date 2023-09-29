@@ -149,8 +149,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KL.IK",
+        "meso:okato_code":"85210000",
+        "meso:oktmo_code":"85610000",
         "wd:id":"Q717142"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900958,
     "wof:geomhash":"620fee2c99b7617705220cf4337aacee",
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":1108733975,
-    "wof:lastmodified":1694639741,
+    "wof:lastmodified":1695886244,
     "wof:name":"Iki-Burul'skiy",
     "wof:parent_id":85687953,
     "wof:placetype":"county",

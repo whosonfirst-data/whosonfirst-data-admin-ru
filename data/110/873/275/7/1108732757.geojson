@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KV.AR",
+        "meso:okato_code":"33202000",
+        "meso:oktmo_code":"33602000",
         "wd:id":"Q2640717"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899838,
     "wof:geomhash":"5aad656472b4b789f28dfc72bf5ec079",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108732757,
-    "wof:lastmodified":1694639727,
+    "wof:lastmodified":1695886186,
     "wof:name":"Arbazhskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",

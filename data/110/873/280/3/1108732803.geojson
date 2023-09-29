@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.373575,
-    "geom:area_square_m":2575084059.511906,
+    "geom:area_square_m":2575084441.442007,
     "geom:bbox":"56.133257,55.876463,57.587344,56.404644",
     "geom:latitude":56.119731,
     "geom:longitude":56.768858,
@@ -172,11 +172,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"80204000",
+        "meso:oktmo_code":"80604000",
         "wd:id":"Q390284"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899882,
-    "wof:geomhash":"a5c846282846bb9cd5a9c2f0353cbc31",
+    "wof:geomhash":"b06d7f86ccd6f056c966720d58213f12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,7 +193,7 @@
         }
     ],
     "wof:id":1108732803,
-    "wof:lastmodified":1690859396,
+    "wof:lastmodified":1695886189,
     "wof:name":"Askinskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

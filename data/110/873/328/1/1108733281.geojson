@@ -125,8 +125,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CT.CR",
+        "meso:okato_code":"76250000",
+        "meso:oktmo_code":"76650000",
         "wd:id":"Q1655251"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900338,
     "wof:geomhash":"71c2f1c0c0c92b7bc99a12d4bfc73a0d",
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":1108733281,
-    "wof:lastmodified":1694492726,
+    "wof:lastmodified":1695886217,
     "wof:name":"Chitinskiy",
     "wof:parent_id":85688005,
     "wof:placetype":"county",

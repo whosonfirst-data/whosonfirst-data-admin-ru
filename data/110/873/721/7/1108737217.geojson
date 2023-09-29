@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.PR.UR"
+        "hasc:id":"RU.PR.UR",
+        "meso:okato_code":"05423000",
+        "meso:oktmo_code":"05723000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903604,
     "wof:geomhash":"58e7dc4c6a412b196375958304e9a920",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108737217,
-    "wof:lastmodified":1694639766,
+    "wof:lastmodified":1695886334,
     "wof:name":"Ussurijskiy okrug",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

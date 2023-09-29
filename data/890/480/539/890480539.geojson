@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.312298,
-    "geom:area_square_m":2162303696.084836,
+    "geom:area_square_m":2162303866.816177,
     "geom:bbox":"40.249625,55.69094,41.438983,56.166861",
     "geom:latitude":55.947788,
     "geom:longitude":40.921375,
@@ -151,15 +151,21 @@
     "wof:concordances":{
         "gn:id":486831,
         "hasc:id":"RU.VL.SU",
+        "meso:okato_code":"17252000",
+        "meso:oktmo_code":"17652000",
         "qs_pg:id":275896,
         "wd:id":"Q1655452"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054312,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"017048c5521f8b326c8fbd6e3414930e",
+    "wof:geomhash":"cadd7e5f09c1d2e803a50e75336a5e43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":890480539,
-    "wof:lastmodified":1690860136,
+    "wof:lastmodified":1695886491,
     "wof:name":"Sudogodskiy",
     "wof:parent_id":85687981,
     "wof:placetype":"county",

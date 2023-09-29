@@ -170,8 +170,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BK.DR",
+        "meso:okato_code":"80222000",
+        "meso:oktmo_code":"80622000",
         "wd:id":"Q1703468"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900393,
     "wof:geomhash":"eb6008ee66427ef1ed43c96fe5cd3dfb",
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":1108733349,
-    "wof:lastmodified":1694639735,
+    "wof:lastmodified":1695886221,
     "wof:name":"Davlekanovskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

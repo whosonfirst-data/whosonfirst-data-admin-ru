@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.221676,
-    "geom:area_square_m":1454811300.044165,
+    "geom:area_square_m":1454811516.414246,
     "geom:bbox":"39.191598,57.658251,39.925148,58.219532",
     "geom:latitude":57.944056,
     "geom:longitude":39.565923,
@@ -151,16 +151,22 @@
     "wof:concordances":{
         "gp:id":12599676,
         "hasc:id":"RU.YS.TG",
+        "meso:okato_code":"78243000",
+        "meso:oktmo_code":"78643000",
         "qs_pg:id":965960,
         "wd:id":"Q2359347",
         "wk:page":"Tutayevsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054464,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7d354e224eef4126413a62b14a850c0c",
+    "wof:geomhash":"6cc12d3a860efb0f17a2236d4014c7e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":890483411,
-    "wof:lastmodified":1690859915,
+    "wof:lastmodified":1695886457,
     "wof:name":"Tutaevskiy",
     "wof:parent_id":85687959,
     "wof:placetype":"county",

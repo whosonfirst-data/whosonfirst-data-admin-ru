@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081494,
-    "geom:area_square_m":578406197.331995,
+    "geom:area_square_m":578406106.084325,
     "geom:bbox":"73.122326,54.821422,73.656256,55.142499",
     "geom:latitude":54.971033,
     "geom:longitude":73.372649,
@@ -129,16 +129,22 @@
     "wof:concordances":{
         "gp:id":12598898,
         "hasc:id":"RU.OM.OG",
+        "meso:okato_code":"52401000",
+        "meso:oktmo_code":"52701000",
         "qs_pg:id":1312533,
         "wd:id":"Q766317",
         "wk:page":"Azovsky Nemetsky National District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054309,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b9b309e86bedb6339e4dd3c697259ac7",
+    "wof:geomhash":"ca21d3388cd33ba532170b642311c4d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":890480487,
-    "wof:lastmodified":1690860145,
+    "wof:lastmodified":1695886492,
     "wof:name":"Omsk",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

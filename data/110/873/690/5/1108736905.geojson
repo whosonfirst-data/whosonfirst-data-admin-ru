@@ -303,8 +303,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.RO.NE"
+        "hasc:id":"RU.RO.NE",
+        "meso:okato_code":"60437000",
+        "meso:oktmo_code":"60737000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903322,
     "wof:geomhash":"0c070e522ce21e0e78456c4ab936c69c",
@@ -318,7 +324,7 @@
         }
     ],
     "wof:id":1108736905,
-    "wof:lastmodified":1694639687,
+    "wof:lastmodified":1695886261,
     "wof:name":"Taganrog",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

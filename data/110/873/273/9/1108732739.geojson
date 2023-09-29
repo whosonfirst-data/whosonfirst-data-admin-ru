@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KT.AN",
+        "meso:okato_code":"34202000",
+        "meso:oktmo_code":"34602000",
         "wd:id":"Q1651069"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899827,
     "wof:geomhash":"daf67af6bf494807735f05334c4b4df1",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108732739,
-    "wof:lastmodified":1694639727,
+    "wof:lastmodified":1695886185,
     "wof:name":"Antropovskiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",

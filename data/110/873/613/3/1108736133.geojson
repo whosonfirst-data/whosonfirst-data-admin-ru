@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001066,
-    "geom:area_square_m":7389304.011891,
+    "geom:area_square_m":7389427.184597,
     "geom:bbox":"37.365834,55.874902,37.409664,55.913394",
     "geom:latitude":55.892925,
     "geom:longitude":37.386721,
@@ -83,10 +83,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45283555",
+        "meso:oktmo_code":"45366000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902722,
-    "wof:geomhash":"bdfde11e114f9ebd9eb1be5036001e91",
+    "wof:geomhash":"f18f08e9a5d0c2b734291095e9052c49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +104,7 @@
         }
     ],
     "wof:id":1108736133,
-    "wof:lastmodified":1627522605,
+    "wof:lastmodified":1695886277,
     "wof:name":"Kurkino",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

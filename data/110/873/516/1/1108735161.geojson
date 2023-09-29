@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.289231,
-    "geom:area_square_m":1627875986.769719,
+    "geom:area_square_m":1627875959.041779,
     "geom:bbox":"40.28412,62.651541,41.870837,63.092488",
     "geom:latitude":62.923979,
     "geom:longitude":40.973872,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"11525000",
+        "meso:oktmo_code":"11725000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901971,
-    "wof:geomhash":"547b9b7ac21529f4ac026e2ec326e044",
+    "wof:geomhash":"67ac5da33d56fea26bcd6706b95e7859",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108735161,
-    "wof:lastmodified":1627522629,
+    "wof:lastmodified":1695886304,
     "wof:name":"Mirnyj",
     "wof:parent_id":85687971,
     "wof:placetype":"county",

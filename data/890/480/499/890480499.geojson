@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.244319,
-    "geom:area_square_m":1690877582.43888,
+    "geom:area_square_m":1690877264.043446,
     "geom:bbox":"38.825253,55.741955,39.83075,56.170259",
     "geom:latitude":55.964966,
     "geom:longitude":39.419264,
@@ -157,16 +157,22 @@
     "wof:concordances":{
         "gp:id":12599538,
         "hasc:id":"RU.VL.PE",
+        "meso:okato_code":"17246000",
+        "meso:oktmo_code":"17646000",
         "qs_pg:id":1312555,
         "wd:id":"Q1654411",
         "wk:page":"Petushinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054310,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5ff46ae1304902b8733fd579d1dcada6",
+    "wof:geomhash":"616d990c30ca0f6523dc21cd089e7e92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":890480499,
-    "wof:lastmodified":1690860127,
+    "wof:lastmodified":1695886489,
     "wof:name":"Petushinskiy",
     "wof:parent_id":85687981,
     "wof:placetype":"county",

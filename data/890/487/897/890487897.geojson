@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049909,
-    "geom:area_square_m":460857285.048923,
+    "geom:area_square_m":460857229.313617,
     "geom:bbox":"48.066736,41.492146,48.592868,41.89155",
     "geom:latitude":41.688697,
     "geom:longitude":48.377434,
@@ -181,15 +181,21 @@
     "wof:concordances":{
         "gn:id":532306,
         "hasc:id":"RU.DA.MG",
+        "meso:okato_code":"82237000",
+        "meso:oktmo_code":"82637000",
         "qs_pg:id":549549,
         "wd:id":"Q1439173"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054694,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c8ca97e59eb0536bd514828b216163fe",
+    "wof:geomhash":"ee4e364cb8f7e0c475360f6e1c216ffe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,7 +206,7 @@
         }
     ],
     "wof:id":890487897,
-    "wof:lastmodified":1690860109,
+    "wof:lastmodified":1695886485,
     "wof:name":"Magaramkentskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

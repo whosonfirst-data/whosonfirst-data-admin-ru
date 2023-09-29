@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KY.MR",
+        "meso:okato_code":"04233000",
+        "meso:oktmo_code":"04633000",
         "wd:id":"Q2157152"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901967,
     "wof:geomhash":"3e292387a55bd7d5717d22163ec57c4a",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108735153,
-    "wof:lastmodified":1694492751,
+    "wof:lastmodified":1695886304,
     "wof:name":"Minusinskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

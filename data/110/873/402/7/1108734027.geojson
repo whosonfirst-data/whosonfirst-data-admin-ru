@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OM.IR",
+        "meso:okato_code":"52215000",
+        "meso:oktmo_code":"52615000",
         "wd:id":"Q1230636"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901005,
     "wof:geomhash":"77f46930125c395711a555d0d8e598c6",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108734027,
-    "wof:lastmodified":1694639742,
+    "wof:lastmodified":1695886250,
     "wof:name":"Isil'kul'skiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

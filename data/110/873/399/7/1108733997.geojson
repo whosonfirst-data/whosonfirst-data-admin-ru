@@ -155,8 +155,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.MR.IN",
+        "meso:okato_code":"89224000",
+        "meso:oktmo_code":"89624000",
         "wd:id":"Q1049536"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900980,
     "wof:geomhash":"2da6ea0dee5677da91c935f3224793c8",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1108733997,
-    "wof:lastmodified":1694639741,
+    "wof:lastmodified":1695886248,
     "wof:name":"Insarskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",

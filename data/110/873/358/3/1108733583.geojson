@@ -161,8 +161,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.DA.GE",
+        "meso:okato_code":"82213000",
+        "meso:oktmo_code":"82613000",
         "wd:id":"Q1438443"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900593,
     "wof:geomhash":"0f84089c52da6bb2c52f944decc77f10",
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":1108733583,
-    "wof:lastmodified":1694639739,
+    "wof:lastmodified":1695886236,
     "wof:name":"Gergebil'skiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

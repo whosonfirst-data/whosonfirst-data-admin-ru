@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.TV.VR"
+        "hasc:id":"RU.TV.VR",
+        "meso:okato_code":"28414000",
+        "meso:oktmo_code":"28714000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903808,
     "wof:geomhash":"8296729c327c142b85b298cfecaac542",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108737773,
-    "wof:lastmodified":1694639748,
+    "wof:lastmodified":1695886273,
     "wof:name":"Vyshnij Volochek",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

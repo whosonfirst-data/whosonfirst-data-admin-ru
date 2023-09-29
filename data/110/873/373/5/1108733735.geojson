@@ -108,8 +108,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.MS.DD"
+        "hasc:id":"RU.MS.DD",
+        "meso:okato_code":"46209000",
+        "meso:oktmo_code":"46709000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900764,
     "wof:geomhash":"2cbc1fcc734f751967fc110f88e622e2",
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":1108733735,
-    "wof:lastmodified":1694639688,
+    "wof:lastmodified":1695886265,
     "wof:name":"Domodedovo",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

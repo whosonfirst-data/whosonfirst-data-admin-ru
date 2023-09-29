@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.MR.BI",
+        "meso:okato_code":"89213000",
+        "meso:oktmo_code":"89613000",
         "wd:id":"Q673928"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900148,
     "wof:geomhash":"998605b2c94c2d8dfe7a8452758ff31a",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108733065,
-    "wof:lastmodified":1694639732,
+    "wof:lastmodified":1695886204,
     "wof:name":"Bol'sheignatovskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",

@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.MS.LU",
+        "meso:okato_code":"46230000",
+        "meso:oktmo_code":"46630000",
         "wd:id":"Q2627627"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901832,
     "wof:geomhash":"7962da38cbd5858048b44dff742dae6f",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108734991,
-    "wof:lastmodified":1694639755,
+    "wof:lastmodified":1695886297,
     "wof:name":"Lukhovickij",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

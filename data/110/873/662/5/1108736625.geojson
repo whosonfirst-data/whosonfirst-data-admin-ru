@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.AL.PE"
+        "hasc:id":"RU.AL.PE",
+        "meso:okato_code":"01555000",
+        "meso:oktmo_code":"01755000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903106,
     "wof:geomhash":"89f3ba665e0764abde858570100c2e7f",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108736625,
-    "wof:lastmodified":1694639779,
+    "wof:lastmodified":1695886377,
     "wof:name":"Sibirskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

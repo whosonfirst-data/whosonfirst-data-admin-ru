@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":13.074172,
-    "geom:area_square_m":63631915715.554352,
+    "geom:area_square_m":63631916649.466339,
     "geom:bbox":"64.517375,64.296645,70.720546,69.263725",
     "geom:latitude":66.81541,
     "geom:longitude":67.698389,
@@ -121,11 +121,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"71158000",
+        "meso:oktmo_code":"71918000",
         "wd:id":"Q2217991"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902621,
-    "wof:geomhash":"9716b23e182a6244743e13f2e82f899d",
+    "wof:geomhash":"dccbd6d187b01b836795334062185cb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1108735989,
-    "wof:lastmodified":1690859577,
+    "wof:lastmodified":1695886351,
     "wof:name":"Priural'skiy",
     "wof:parent_id":85687931,
     "wof:placetype":"county",

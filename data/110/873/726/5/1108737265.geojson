@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AR.US",
+        "meso:okato_code":"11254000",
+        "meso:oktmo_code":"11654000",
         "wd:id":"Q2607218"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903641,
     "wof:geomhash":"c05e74ce5530abe0a3d233f9d8db4592",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108737265,
-    "wof:lastmodified":1694639791,
+    "wof:lastmodified":1695886418,
     "wof:name":"Ust'janskiy",
     "wof:parent_id":85687971,
     "wof:placetype":"county",

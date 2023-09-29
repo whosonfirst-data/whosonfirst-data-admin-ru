@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.131214,
-    "geom:area_square_m":896277270.897454,
+    "geom:area_square_m":896277375.264674,
     "geom:bbox":"43.034107,56.33464,43.797214,56.64068",
     "geom:latitude":56.467563,
     "geom:longitude":43.400128,
@@ -157,16 +157,22 @@
     "wof:concordances":{
         "gp:id":12598196,
         "hasc:id":"RU.NZ.BA",
+        "meso:okato_code":"22205000",
+        "meso:oktmo_code":"22605000",
         "qs_pg:id":1024424,
         "wd:id":"Q1651511",
         "wk:page":"Balakhninsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054479,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a20ac902259015137ea9d177b88edf59",
+    "wof:geomhash":"a501219e60089a054ffed37bada925ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":890483737,
-    "wof:lastmodified":1690859893,
+    "wof:lastmodified":1695886451,
     "wof:name":"Balakhninskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

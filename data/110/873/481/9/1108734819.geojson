@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043291,
-    "geom:area_square_m":390313759.213769,
+    "geom:area_square_m":390313713.711456,
     "geom:bbox":"45.951117,43.043364,46.335419,43.299791",
     "geom:latitude":43.185568,
     "geom:longitude":46.147651,
@@ -77,10 +77,13 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:oktmo_code":"96612000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
     "wof:country":"RU",
     "wof:created":1478901684,
-    "wof:geomhash":"ee2932c7889cd4e9c8893c93a5bf5ec0",
+    "wof:geomhash":"71f1bc19ac415dc74b35c32b74c9e39b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108734819,
-    "wof:lastmodified":1627522615,
+    "wof:lastmodified":1695886289,
     "wof:name":"Kurchaloevskiy",
     "wof:parent_id":85688015,
     "wof:placetype":"county",

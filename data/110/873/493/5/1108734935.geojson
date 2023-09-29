@@ -161,8 +161,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.DA.LE",
+        "meso:okato_code":"82234000",
+        "meso:oktmo_code":"82634000",
         "wd:id":"Q1438994"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901786,
     "wof:geomhash":"f4ac3bd83b6b2cebc88c1c76165cf53d",
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":1108734935,
-    "wof:lastmodified":1694639808,
+    "wof:lastmodified":1695886505,
     "wof:name":"Levashinskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

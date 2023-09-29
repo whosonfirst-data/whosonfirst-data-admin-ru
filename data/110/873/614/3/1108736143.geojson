@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00257,
-    "geom:area_square_m":17921171.354627,
+    "geom:area_square_m":17921171.833212,
     "geom:bbox":"37.72219,55.653186,37.840045,55.691838",
     "geom:latitude":55.67252,
     "geom:longitude":37.780812,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45290568",
+        "meso:oktmo_code":"45389000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902729,
-    "wof:geomhash":"243d977ac24a8dd3f6587d9914a60d6b",
+    "wof:geomhash":"370079c80d20830e26e9916f06f1396e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736143,
-    "wof:lastmodified":1627522620,
+    "wof:lastmodified":1695886296,
     "wof:name":"Ljublino",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

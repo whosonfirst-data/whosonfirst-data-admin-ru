@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RZ.ZA",
+        "meso:okato_code":"61204000",
+        "meso:oktmo_code":"61604000",
         "wd:id":"Q1658627"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903824,
     "wof:geomhash":"d96e8ff917ef497de3311259258dcfae",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108737841,
-    "wof:lastmodified":1694639795,
+    "wof:lastmodified":1695886435,
     "wof:name":"Zakharovskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

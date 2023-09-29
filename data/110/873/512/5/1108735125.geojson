@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.CL.MI"
+        "hasc:id":"RU.CL.MI",
+        "meso:okato_code":"75442000",
+        "meso:oktmo_code":"75742000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901939,
     "wof:geomhash":"50db0385bc5da3a2b0e7d21e129b2af2",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735125,
-    "wof:lastmodified":1694639757,
+    "wof:lastmodified":1695886303,
     "wof:name":"Miasskiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

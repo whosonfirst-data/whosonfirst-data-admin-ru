@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080715,
-    "geom:area_square_m":559878907.768511,
+    "geom:area_square_m":559878907.768401,
     "geom:bbox":"91.9427424342,55.7004867758,92.6654812273,56.0252515358",
     "geom:latitude":55.877356,
     "geom:longitude":92.316587,
@@ -161,10 +161,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"04409000",
+        "meso:oktmo_code":"04709000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900411,
-    "wof:geomhash":"c02a50be874699206a56fa0e75057c89",
+    "wof:geomhash":"8ffb067b0f938eb2cd71e1b982e3917c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,7 +182,7 @@
         }
     ],
     "wof:id":1108733371,
-    "wof:lastmodified":1566626878,
+    "wof:lastmodified":1695886217,
     "wof:name":"Divnogorsk",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

@@ -144,8 +144,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.AM.BG"
+        "hasc:id":"RU.AM.BG",
+        "meso:okato_code":"10410000",
+        "meso:oktmo_code":"10710000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900017,
     "wof:geomhash":"bb5e6cabcf0e27afd2fd678021aa4ab2",
@@ -159,7 +165,7 @@
         }
     ],
     "wof:id":1108732939,
-    "wof:lastmodified":1694639805,
+    "wof:lastmodified":1695886731,
     "wof:name":"Belogorsk",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

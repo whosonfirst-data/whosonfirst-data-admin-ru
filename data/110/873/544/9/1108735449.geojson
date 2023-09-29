@@ -84,8 +84,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.MR.TM"
+        "hasc:id":"RU.MR.TM",
+        "meso:okato_code":"NO DATA",
+        "meso:oktmo_code":"NO DATA"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902188,
     "wof:geomhash":"96bc7ee24571ce9069866a9178702f3b",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1108735449,
-    "wof:lastmodified":1694639786,
+    "wof:lastmodified":1695886404,
     "wof:name":"Temnikovskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",

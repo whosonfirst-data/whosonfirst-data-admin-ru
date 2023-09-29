@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.515778,
-    "geom:area_square_m":13115114984.11952,
+    "geom:area_square_m":13115115299.874399,
     "geom:bbox":"29.601557,64.363764,33.017945,65.68174",
     "geom:latitude":65.064034,
     "geom:longitude":31.453632,
@@ -172,16 +172,22 @@
     "wof:concordances":{
         "gp:id":12597423,
         "hasc:id":"RU.KI.KA",
+        "meso:okato_code":"86209000",
+        "meso:oktmo_code":"86609000",
         "qs_pg:id":1240363,
         "wd:id":"Q1036077",
         "wk:page":"Kalevalsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054287,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"37c1d1110152fbd295f83762ea434f06",
+    "wof:geomhash":"781e19df9a085d952d4345b1851e9dd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -192,7 +198,7 @@
         }
     ],
     "wof:id":890480165,
-    "wof:lastmodified":1690860137,
+    "wof:lastmodified":1695886491,
     "wof:name":"Kaleval'skiy",
     "wof:parent_id":85688193,
     "wof:placetype":"county",

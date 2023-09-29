@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000732,
-    "geom:area_square_m":5083309.88454,
+    "geom:area_square_m":5083345.775447,
     "geom:bbox":"37.57388,55.79262,37.608643,55.834852",
     "geom:latitude":55.813687,
     "geom:longitude":37.589712,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45280561",
+        "meso:oktmo_code":"45353000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900217,
-    "wof:geomhash":"c60680fb79eed0b44d68bfdbd56266f8",
+    "wof:geomhash":"80b2e35a403a47274fd9b63ef557c99e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108733145,
-    "wof:lastmodified":1627522554,
+    "wof:lastmodified":1695886210,
     "wof:name":"Butyrskiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.TV.FI"
+        "hasc:id":"RU.TV.FI",
+        "meso:okato_code":"28553000",
+        "meso:oktmo_code":"28753000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902419,
     "wof:geomhash":"b674b2c7cccad5fad6a4c731b67c91a3",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735741,
-    "wof:lastmodified":1694639767,
+    "wof:lastmodified":1695886336,
     "wof:name":"Ozjornyj",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

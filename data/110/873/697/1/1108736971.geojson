@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189471,
-    "geom:area_square_m":1283286061.816703,
+    "geom:area_square_m":1283287059.277455,
     "geom:bbox":"40.093649,56.525351,40.794669,57.035528",
     "geom:latitude":56.78729,
     "geom:longitude":40.469112,
@@ -124,11 +124,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"24229000",
+        "meso:oktmo_code":"24629000",
         "wd:id":"Q2219087"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903392,
-    "wof:geomhash":"dc916b133f451fd5e9ad11f06a57afb7",
+    "wof:geomhash":"2d8dcae1d9709ef0f6bc80e9c7822c4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":1108736971,
-    "wof:lastmodified":1690859643,
+    "wof:lastmodified":1695886403,
     "wof:name":"Tejkovskiy",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

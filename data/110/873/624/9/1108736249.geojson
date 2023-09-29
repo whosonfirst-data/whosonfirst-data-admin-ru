@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000671,
-    "geom:area_square_m":4665284.831365,
+    "geom:area_square_m":4665284.793013,
     "geom:bbox":"37.802615,55.787825,37.841855,55.809028",
     "geom:latitude":55.797971,
     "geom:longitude":37.822894,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45263558",
+        "meso:oktmo_code":"45303000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902806,
-    "wof:geomhash":"7289ac93bca73f0704891a8cfa94e39b",
+    "wof:geomhash":"8ee4100b73ff219718d1bb43c1d14fbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736249,
-    "wof:lastmodified":1627522729,
+    "wof:lastmodified":1695886427,
     "wof:name":"Vostochnoe Izmajlovo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001149,
-    "geom:area_square_m":8016171.215711,
+    "geom:area_square_m":8016225.177619,
     "geom:bbox":"37.782747,55.62204,37.83594,55.658516",
     "geom:latitude":55.644555,
     "geom:longitude":37.805052,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45290558",
+        "meso:oktmo_code":"45386000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902699,
-    "wof:geomhash":"cbbf95006483afd3364c89e5a42ec485",
+    "wof:geomhash":"da2388088fa6ce99a000112f72ea5bb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736105,
-    "wof:lastmodified":1627522588,
+    "wof:lastmodified":1695886258,
     "wof:name":"Kapotnja",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

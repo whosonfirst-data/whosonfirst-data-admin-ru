@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000649,
-    "geom:area_square_m":4502052.352071,
+    "geom:area_square_m":4502114.332614,
     "geom:bbox":"37.633518,55.873744,37.682528,55.896213",
     "geom:latitude":55.887433,
     "geom:longitude":37.656548,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45280583",
+        "meso:oktmo_code":"45362000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902774,
-    "wof:geomhash":"0defec224654723deff5e1768bc15e41",
+    "wof:geomhash":"eb3ff453080f4fa2f28c5144132c7f07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736207,
-    "wof:lastmodified":1627522680,
+    "wof:lastmodified":1695886366,
     "wof:name":"Severnoe Medvedkovo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

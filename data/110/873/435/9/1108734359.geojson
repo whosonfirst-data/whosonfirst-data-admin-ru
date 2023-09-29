@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.MG.KH"
+        "hasc:id":"RU.MG.KH",
+        "meso:okato_code":"44219000",
+        "meso:oktmo_code":"44619000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901290,
     "wof:geomhash":"e1a8d8cb5f3850c5ef4c732c0b8ea476",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108734359,
-    "wof:lastmodified":1694639745,
+    "wof:lastmodified":1695886265,
     "wof:name":"Khasynskiy",
     "wof:parent_id":85687881,
     "wof:placetype":"county",

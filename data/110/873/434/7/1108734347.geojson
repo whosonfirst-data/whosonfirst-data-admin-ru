@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PR.KK",
+        "meso:okato_code":"05246000",
+        "meso:oktmo_code":"05646000",
         "wd:id":"Q904381"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901277,
     "wof:geomhash":"724738dde1aa232a62b65f3cd6fdc742",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108734347,
-    "wof:lastmodified":1694639745,
+    "wof:lastmodified":1695886263,
     "wof:name":"Khankajskiy",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

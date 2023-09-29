@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NG.VO",
+        "meso:okato_code":"49210000",
+        "meso:oktmo_code":"49610000",
         "wd:id":"Q2627879"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903769,
     "wof:geomhash":"0f93e060a7ef9068f1504412b0c45ae0",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108737613,
-    "wof:lastmodified":1694639793,
+    "wof:lastmodified":1695886427,
     "wof:name":"Volotovskiy",
     "wof:parent_id":85688095,
     "wof:placetype":"county",

@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OM.KR",
+        "meso:okato_code":"52218000",
+        "meso:oktmo_code":"52618000",
         "wd:id":"Q853173"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901160,
     "wof:geomhash":"77067ad0e331aa9f2dc9fbda442703f5",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108734195,
-    "wof:lastmodified":1694639743,
+    "wof:lastmodified":1695886255,
     "wof:name":"Kalachinskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

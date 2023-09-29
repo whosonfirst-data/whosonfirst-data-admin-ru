@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.337764,
-    "geom:area_square_m":2396895001.707827,
+    "geom:area_square_m":2396895323.068281,
     "geom:bbox":"58.5807,54.594718,59.339341,55.330541",
     "geom:latitude":54.977283,
     "geom:longitude":58.995931,
@@ -157,15 +157,21 @@
     "wof:concordances":{
         "gn:id":498416,
         "hasc:id":"RU.CL.SR",
+        "meso:okato_code":"75249000",
+        "meso:oktmo_code":"75649000",
         "qs_pg:id":1029597,
         "wd:id":"Q2218605"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054255,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3818e0244de863a70d618e0cdb0b5e09",
+    "wof:geomhash":"29573485d60875f3ace8036be55fdf86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":890479651,
-    "wof:lastmodified":1690859965,
+    "wof:lastmodified":1695886468,
     "wof:name":"Satkinskiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

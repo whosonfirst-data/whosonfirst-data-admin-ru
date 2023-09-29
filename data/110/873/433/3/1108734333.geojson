@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.669742,
-    "geom:area_square_m":29503618780.721897,
+    "geom:area_square_m":29503618275.110085,
     "geom:bbox":"132.752993,48.065688,136.238514,50.58069",
     "geom:latitude":49.441261,
     "geom:longitude":134.374488,
@@ -124,11 +124,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"08255000",
+        "meso:oktmo_code":"08655000",
         "wd:id":"Q826690"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901265,
-    "wof:geomhash":"b9ac9f464fccea531b6bb4f3a71fd1d1",
+    "wof:geomhash":"31380d474a1cf9e8bbaf08ab4f2b0e31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":1108734333,
-    "wof:lastmodified":1690859657,
+    "wof:lastmodified":1695886262,
     "wof:name":"Khabarovskiy",
     "wof:parent_id":85687937,
     "wof:placetype":"county",

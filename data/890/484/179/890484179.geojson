@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135921,
-    "geom:area_square_m":1004206346.271313,
+    "geom:area_square_m":1004206885.225779,
     "geom:bbox":"83.350172,53.087783,83.902513,53.506794",
     "geom:latitude":53.309019,
     "geom:longitude":83.646777,
@@ -326,14 +326,20 @@
     "wof:concordances":{
         "gp:id":12597660,
         "hasc:id":"RU.AL.BA",
+        "meso:okato_code":"01401000",
+        "meso:oktmo_code":"01701000",
         "qs_pg:id":1087075
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054501,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8c412f8d4ed730dcc2273405c7c48549",
+    "wof:geomhash":"d5a3b640873ae0eddd76a2b69b0c340e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -344,7 +350,7 @@
         }
     ],
     "wof:id":890484179,
-    "wof:lastmodified":1642541503,
+    "wof:lastmodified":1695886466,
     "wof:name":"Barnaul",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

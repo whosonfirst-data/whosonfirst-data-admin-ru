@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SV.KV"
+        "hasc:id":"RU.SV.KV",
+        "meso:okato_code":"65470000",
+        "meso:oktmo_code":"65734000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900895,
     "wof:geomhash":"08f85b8420041a827235554dd7698963",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733897,
-    "wof:lastmodified":1694639792,
+    "wof:lastmodified":1695886423,
     "wof:name":"Verkhnjaja Tura",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

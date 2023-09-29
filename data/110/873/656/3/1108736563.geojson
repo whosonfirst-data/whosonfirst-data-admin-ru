@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KD.SH",
+        "meso:okato_code":"03259000",
+        "meso:oktmo_code":"03659000",
         "wd:id":"Q918981"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903053,
     "wof:geomhash":"48e43dac511f5d8ad6bbd64578eb67d9",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108736563,
-    "wof:lastmodified":1694639778,
+    "wof:lastmodified":1695886372,
     "wof:name":"Shcherbinovskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

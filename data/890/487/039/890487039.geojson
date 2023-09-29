@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.291888,
-    "geom:area_square_m":2000972505.232985,
+    "geom:area_square_m":2000972130.971932,
     "geom:bbox":"36.091137,56.065227,37.101847,56.596457",
     "geom:latitude":56.33045,
     "geom:longitude":36.594716,
@@ -169,16 +169,22 @@
     "wof:concordances":{
         "gp:id":12598736,
         "hasc:id":"RU.MS.KR",
+        "meso:okato_code":"46221000",
+        "meso:oktmo_code":"46621000",
         "qs_pg:id":224473,
         "wd:id":"Q2710109",
         "wk:page":"Klinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054653,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"27631bfff7f569001d4b447ece4540b5",
+    "wof:geomhash":"89d9a370c03d7fcaef6ef5c029d441c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -189,7 +195,7 @@
         }
     ],
     "wof:id":890487039,
-    "wof:lastmodified":1690860091,
+    "wof:lastmodified":1695886480,
     "wof:name":"Klinskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

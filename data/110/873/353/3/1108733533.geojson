@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SR.FE",
+        "meso:okato_code":"63248000",
+        "meso:oktmo_code":"63648000",
         "wd:id":"Q578654"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900552,
     "wof:geomhash":"14d678ad67a47d903e8c565a2489326b",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108733533,
-    "wof:lastmodified":1694639738,
+    "wof:lastmodified":1695886233,
     "wof:name":"Fjodorovskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

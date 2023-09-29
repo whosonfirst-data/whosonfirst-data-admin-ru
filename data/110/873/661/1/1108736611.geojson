@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KU.SM",
+        "meso:okato_code":"37242000",
+        "meso:oktmo_code":"37642000",
         "wd:id":"Q1753770"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903094,
     "wof:geomhash":"b199de7608a1a9684d0b0cf4186c482f",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108736611,
-    "wof:lastmodified":1694639779,
+    "wof:lastmodified":1695886376,
     "wof:name":"Shumikhinskiy",
     "wof:parent_id":85688157,
     "wof:placetype":"county",

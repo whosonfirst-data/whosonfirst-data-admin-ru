@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SK.NA"
+        "hasc:id":"RU.SK.NA",
+        "meso:okato_code":"98235000",
+        "meso:oktmo_code":"98635000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902096,
     "wof:geomhash":"dfcb84cf45f32d8e7fdd4e24bedc1f82",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735305,
-    "wof:lastmodified":1694639759,
+    "wof:lastmodified":1695886309,
     "wof:name":"Namskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",

@@ -149,8 +149,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KC.US",
+        "meso:okato_code":"91235000",
+        "meso:oktmo_code":"91635000",
         "wd:id":"Q40335"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903612,
     "wof:geomhash":"f99d000e063c00a36260ebe53b9d7731",
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":1108737229,
-    "wof:lastmodified":1694639790,
+    "wof:lastmodified":1695886417,
     "wof:name":"Ust'-Dzhegutinskiy",
     "wof:parent_id":85687913,
     "wof:placetype":"county",

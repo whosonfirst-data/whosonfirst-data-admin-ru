@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.NZ.PO"
+        "hasc:id":"RU.NZ.PO",
+        "meso:okato_code":"22246000",
+        "meso:oktmo_code":"22646000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902539,
     "wof:geomhash":"f39d6b3e899d5ad530ebed9d90ac0d80",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735897,
-    "wof:lastmodified":1694639770,
+    "wof:lastmodified":1695886345,
     "wof:name":"Pochinkovskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

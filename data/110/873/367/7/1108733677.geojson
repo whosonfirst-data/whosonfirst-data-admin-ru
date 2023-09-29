@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072958,
-    "geom:area_square_m":433241045.451598,
+    "geom:area_square_m":433241045.451577,
     "geom:bbox":"73.2212825842,61.1981081387,73.7832096383,61.4142839611",
     "geom:latitude":61.299263,
     "geom:longitude":73.487733,
@@ -239,10 +239,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"71136000",
+        "meso:oktmo_code":"71876000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900718,
-    "wof:geomhash":"55b35b4f44660eb56bb2b11f10c37b68",
+    "wof:geomhash":"7515587cb3c90676d288f71e46f103b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -253,7 +260,7 @@
         }
     ],
     "wof:id":1108733677,
-    "wof:lastmodified":1566627152,
+    "wof:lastmodified":1695886237,
     "wof:name":"Surgut",
     "wof:parent_id":85687919,
     "wof:placetype":"county",

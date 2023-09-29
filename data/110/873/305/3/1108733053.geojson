@@ -173,8 +173,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.LN.BR",
+        "meso:okato_code":"41203000",
+        "meso:oktmo_code":"41603000",
         "wd:id":"Q7657"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900132,
     "wof:geomhash":"5ac30562dac14a32925a0334fdfa15b0",
@@ -188,7 +194,7 @@
         }
     ],
     "wof:id":1108733053,
-    "wof:lastmodified":1694639686,
+    "wof:lastmodified":1695886239,
     "wof:name":"Boksitogorskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",

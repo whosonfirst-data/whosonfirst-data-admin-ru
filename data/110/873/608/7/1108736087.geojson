@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002335,
-    "geom:area_square_m":16217422.918198,
+    "geom:area_square_m":16217443.402857,
     "geom:bbox":"37.752717,55.802668,37.840284,55.853766",
     "geom:latitude":55.824144,
     "geom:longitude":37.799803,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45263564",
+        "meso:oktmo_code":"45305000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902687,
-    "wof:geomhash":"a6920c5b7181be19a87b7cd7e92020a3",
+    "wof:geomhash":"e5ced6c91de5e159bb3e8c4b011fc9f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736087,
-    "wof:lastmodified":1627522569,
+    "wof:lastmodified":1695886237,
     "wof:name":"Gol'janovo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VG.NN",
+        "meso:okato_code":"18240000",
+        "meso:oktmo_code":"18640000",
         "wd:id":"Q1653219"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902237,
     "wof:geomhash":"c8bae4fc335c0e94b0456a73110d4bcd",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108735519,
-    "wof:lastmodified":1694639762,
+    "wof:lastmodified":1695886321,
     "wof:name":"Novonikolaevskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

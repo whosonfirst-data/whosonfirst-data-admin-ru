@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.244925,
-    "geom:area_square_m":1838999510.484343,
+    "geom:area_square_m":1838999496.367178,
     "geom:bbox":"41.552186,52.344366,42.376018,52.88208",
     "geom:latitude":52.610918,
     "geom:longitude":41.966955,
@@ -148,15 +148,21 @@
     "wof:concordances":{
         "gn:id":502790,
         "hasc:id":"RU.TB.RR",
+        "meso:okato_code":"68228000",
+        "meso:oktmo_code":"68628000",
         "qs_pg:id":80618,
         "wd:id":"Q1654396"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054545,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"96fffc9bbfb4e1bf3d0359d5b1e015b7",
+    "wof:geomhash":"454ab326f9b0fe963190573fdc56000f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":890485147,
-    "wof:lastmodified":1690859851,
+    "wof:lastmodified":1695886445,
     "wof:name":"Rasskazovskiy",
     "wof:parent_id":85687829,
     "wof:placetype":"county",

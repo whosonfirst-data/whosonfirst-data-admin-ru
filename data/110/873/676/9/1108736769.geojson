@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.NZ.SP"
+        "hasc:id":"RU.NZ.SP",
+        "meso:okato_code":"22251000",
+        "meso:oktmo_code":"22651000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903214,
     "wof:geomhash":"af2f0414285b4228a4247fb72926eefa",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108736769,
-    "wof:lastmodified":1694639782,
+    "wof:lastmodified":1695886384,
     "wof:name":"Spasskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

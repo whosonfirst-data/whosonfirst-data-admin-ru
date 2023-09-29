@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.1278,
-    "geom:area_square_m":593667192.795492,
+    "geom:area_square_m":593666841.320443,
     "geom:bbox":"38.361985,66.979421,41.35611,68.395058",
     "geom:latitude":67.9339,
     "geom:longitude":39.860488,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"47531000",
+        "meso:oktmo_code":"47731000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902406,
-    "wof:geomhash":"9465c4afb7ce362227f8761814e82150",
+    "wof:geomhash":"c1f240d9e1a2fe1373b7928d536d7309",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108735727,
-    "wof:lastmodified":1627522653,
+    "wof:lastmodified":1695886333,
     "wof:name":"Ostrovnoj",
     "wof:parent_id":85687869,
     "wof:placetype":"county",

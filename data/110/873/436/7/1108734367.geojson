@@ -158,8 +158,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.DA.KV",
+        "meso:okato_code":"82255000",
+        "meso:oktmo_code":"82655000",
         "wd:id":"Q1439224"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901294,
     "wof:geomhash":"7a76507c82619be261e2fd7cf6e399cf",
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":1108734367,
-    "wof:lastmodified":1694639745,
+    "wof:lastmodified":1695886265,
     "wof:name":"Khivskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

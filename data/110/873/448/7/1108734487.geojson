@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.203766,
-    "geom:area_square_m":1541406527.451218,
+    "geom:area_square_m":1541406417.86027,
     "geom:bbox":"31.780078,52.033741,32.574381,52.52695",
     "geom:latitude":52.282644,
     "geom:longitude":32.181077,
@@ -130,11 +130,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"15228000",
+        "meso:oktmo_code":"15628000",
         "wd:id":"Q2708316"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901400,
-    "wof:geomhash":"58b812133aac726e3e61307cc313b045",
+    "wof:geomhash":"f4f8840fe6d5cc2509597c46719c4bcb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":1108734487,
-    "wof:lastmodified":1690859408,
+    "wof:lastmodified":1695886271,
     "wof:name":"Klimovskiy",
     "wof:parent_id":85688121,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.475883,
-    "geom:area_square_m":2256037152.827644,
+    "geom:area_square_m":2256037012.908502,
     "geom:bbox":"31.948063,67.087966,33.723061,67.820151",
     "geom:latitude":67.455845,
     "geom:longitude":33.142161,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"47405000",
+        "meso:oktmo_code":"47705000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899834,
-    "wof:geomhash":"e888dbf9f480327aa4b48f50d0c89079",
+    "wof:geomhash":"d1d193d33a30518f5853c033d56d52dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108732751,
-    "wof:lastmodified":1627522536,
+    "wof:lastmodified":1695886186,
     "wof:name":"Apatitskiy",
     "wof:parent_id":85687869,
     "wof:placetype":"county",

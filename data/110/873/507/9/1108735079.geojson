@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AM.MZ",
+        "meso:okato_code":"10232000",
+        "meso:oktmo_code":"10632000",
         "wd:id":"Q2216750"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901899,
     "wof:geomhash":"a560ec36f894e478a3f1369dbbb5e0ad",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108735079,
-    "wof:lastmodified":1694639756,
+    "wof:lastmodified":1695886301,
     "wof:name":"Mazanovskiy",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OL.KZ",
+        "meso:okato_code":"54224000",
+        "meso:oktmo_code":"54624000",
         "wd:id":"Q2216517"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901623,
     "wof:geomhash":"75d393af37086a82999db54ef365d5ef",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108734749,
-    "wof:lastmodified":1694639751,
+    "wof:lastmodified":1695886286,
     "wof:name":"Krasnozorenskiy",
     "wof:parent_id":85687849,
     "wof:placetype":"county",

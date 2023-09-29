@@ -195,8 +195,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.BR.ST"
+        "hasc:id":"RU.BR.ST",
+        "meso:okato_code":"15250000",
+        "meso:oktmo_code":"15750000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900877,
     "wof:geomhash":"e1183e4b4deb43a256678b3182475d7b",
@@ -210,7 +216,7 @@
         }
     ],
     "wof:id":1108733869,
-    "wof:lastmodified":1694639688,
+    "wof:lastmodified":1695886270,
     "wof:name":"Starodub",
     "wof:parent_id":85688121,
     "wof:placetype":"county",

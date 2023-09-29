@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NZ.VV",
+        "meso:okato_code":"22215000",
+        "meso:oktmo_code":"22615000",
         "wd:id":"Q1656102"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903669,
     "wof:geomhash":"198a6bb6b87ecc4b81d39139d052b581",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108737301,
-    "wof:lastmodified":1694639791,
+    "wof:lastmodified":1695886420,
     "wof:name":"Varnavinskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

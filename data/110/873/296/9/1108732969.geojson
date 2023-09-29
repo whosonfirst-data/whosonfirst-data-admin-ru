@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012004,
-    "geom:area_square_m":85669536.439503,
+    "geom:area_square_m":85669536.439508,
     "geom:bbox":"83.0137355742,54.6762781497,83.1688637319,54.8098338001",
     "geom:latitude":54.749795,
     "geom:longitude":83.077444,
@@ -194,10 +194,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"50408000",
+        "meso:oktmo_code":"50708000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900048,
-    "wof:geomhash":"3dee823105cf29c4f461bf2de227b94d",
+    "wof:geomhash":"1bc73264648015fd9eba4b6b3e2d5481",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -208,7 +215,7 @@
         }
     ],
     "wof:id":1108732969,
-    "wof:lastmodified":1566627263,
+    "wof:lastmodified":1695886262,
     "wof:name":"Berdsk",
     "wof:parent_id":85687925,
     "wof:placetype":"county",

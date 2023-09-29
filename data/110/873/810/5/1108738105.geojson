@@ -113,8 +113,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.IR.ZH",
+        "meso:okato_code":"25206000",
+        "meso:oktmo_code":"25606000",
         "wd:id":"Q1658434"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903881,
     "wof:geomhash":"485af66dd7132678e2e5f8d4ab35bb23",
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":1108738105,
-    "wof:lastmodified":1694492788,
+    "wof:lastmodified":1695886440,
     "wof:name":"Zhigalovskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

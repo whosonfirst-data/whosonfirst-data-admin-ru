@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.411816,
-    "geom:area_square_m":10791341225.951054,
+    "geom:area_square_m":10791341415.404917,
     "geom:bbox":"142.222972,50.726745,143.680832,52.965151",
     "geom:latitude":51.816658,
     "geom:longitude":142.914299,
@@ -127,16 +127,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12599199,
+        "meso:okato_code":"64232000",
+        "meso:oktmo_code":"64732000",
         "qs_pg:id":264152,
         "wd:id":"Q1653200",
         "wk:page":"Nogliksky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054688,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4caa7654badaa8832091d5d4ceb59756",
+    "wof:geomhash":"11256421c58c88b168d2a83659e01bb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,7 +153,7 @@
         }
     ],
     "wof:id":890487719,
-    "wof:lastmodified":1690860110,
+    "wof:lastmodified":1695886484,
     "wof:name":"Noglikskiy",
     "wof:parent_id":85688125,
     "wof:placetype":"county",

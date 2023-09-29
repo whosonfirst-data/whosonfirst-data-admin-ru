@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018736,
-    "geom:area_square_m":137165327.020589,
+    "geom:area_square_m":137165327.020574,
     "geom:bbox":"91.2880595058,53.6080416153,91.5719514959,53.7557406551",
     "geom:latitude":53.695577,
     "geom:longitude":91.429636,
@@ -302,10 +302,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"95401000",
+        "meso:oktmo_code":"95701000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899704,
-    "wof:geomhash":"4e7c541c29b9818c867dc921e71db181",
+    "wof:geomhash":"2d07267ff2879e89d2be942a92232b38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -316,7 +323,7 @@
         }
     ],
     "wof:id":1108732589,
-    "wof:lastmodified":1566627014,
+    "wof:lastmodified":1695886228,
     "wof:name":"Abakan",
     "wof:parent_id":85688061,
     "wof:placetype":"county",

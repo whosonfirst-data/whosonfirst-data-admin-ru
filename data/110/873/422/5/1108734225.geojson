@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.488904,
-    "geom:area_square_m":3580802685.395644,
+    "geom:area_square_m":3580802086.78892,
     "geom:bbox":"80.517872,53.384308,82.05909,54.079602",
     "geom:latitude":53.67807,
     "geom:longitude":81.309306,
@@ -124,11 +124,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"01216000",
+        "meso:oktmo_code":"01616000",
         "wd:id":"Q1822298"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901182,
-    "wof:geomhash":"89ab159610e3b8dac167bc47057cd240",
+    "wof:geomhash":"fe365917c6ead4c63650db238f6c6485",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":1108734225,
-    "wof:lastmodified":1690859397,
+    "wof:lastmodified":1695886256,
     "wof:name":"Kamenskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.200241,
-    "geom:area_square_m":1390813395.609791,
+    "geom:area_square_m":1390813459.543444,
     "geom:bbox":"41.266946,55.586012,42.067804,56.030822",
     "geom:latitude":55.825475,
     "geom:longitude":41.647817,
@@ -151,16 +151,22 @@
     "wof:concordances":{
         "gp:id":12599540,
         "hasc:id":"RU.VL.SE",
+        "meso:okato_code":"17248000",
+        "meso:oktmo_code":"17648000",
         "qs_pg:id":989724,
         "wd:id":"Q1654438",
         "wk:page":"Selivanovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054470,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d15f5ab739a4097d30ddaed7c164d82c",
+    "wof:geomhash":"9c24f2af509cd518538b8b03d5d9bff5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":890483519,
-    "wof:lastmodified":1690859904,
+    "wof:lastmodified":1695886454,
     "wof:name":"Selivanovskiy",
     "wof:parent_id":85687981,
     "wof:placetype":"county",

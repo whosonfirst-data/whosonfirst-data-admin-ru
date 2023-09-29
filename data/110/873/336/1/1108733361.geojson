@@ -161,8 +161,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.DA.DR",
+        "meso:okato_code":"82220000",
+        "meso:oktmo_code":"82620000",
         "wd:id":"Q2282190"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900400,
     "wof:geomhash":"274b9d589cfd2e4c567c0dbe07c0fb9c",
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":1108733361,
-    "wof:lastmodified":1694639735,
+    "wof:lastmodified":1695886222,
     "wof:name":"Derbentskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

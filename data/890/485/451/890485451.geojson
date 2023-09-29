@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142549,
-    "geom:area_square_m":944855262.615002,
+    "geom:area_square_m":944855467.121958,
     "geom:bbox":"41.067389,57.400779,41.627211,57.768505",
     "geom:latitude":57.585361,
     "geom:longitude":41.33229,
@@ -151,16 +151,22 @@
     "wof:concordances":{
         "gp:id":12598521,
         "hasc:id":"RU.KT.KS",
+        "meso:okato_code":"34216000",
+        "meso:oktmo_code":"34616000",
         "qs_pg:id":57602,
         "wd:id":"Q3816831",
         "wk:page":"Krasnoselsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054561,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7b60d8f6e9f465814e22fbe96c74ca67",
+    "wof:geomhash":"fa0156b57d9923eb7c9d83d4dc61e136",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":890485451,
-    "wof:lastmodified":1690859843,
+    "wof:lastmodified":1695886444,
     "wof:name":"Krasnosel'skiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",

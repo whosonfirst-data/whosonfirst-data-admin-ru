@@ -155,8 +155,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PS.US",
+        "meso:okato_code":"58258000",
+        "meso:oktmo_code":"58658000",
         "wd:id":"Q2533385"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903644,
     "wof:geomhash":"0c820bb4f770683d923fddd82d9aee04",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1108737269,
-    "wof:lastmodified":1694639791,
+    "wof:lastmodified":1695886419,
     "wof:name":"Usvjatskiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",

@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OB.BE",
+        "meso:okato_code":"53210000",
+        "meso:oktmo_code":"53610000",
         "wd:id":"Q780976"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900014,
     "wof:geomhash":"d2a18f12ed49b7eb384fbb8616fa1325",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108732935,
-    "wof:lastmodified":1694639730,
+    "wof:lastmodified":1695886195,
     "wof:name":"Beljaevskiy",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

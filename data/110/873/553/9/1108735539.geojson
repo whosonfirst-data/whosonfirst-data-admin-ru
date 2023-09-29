@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017147,
-    "geom:area_square_m":142470896.520054,
+    "geom:area_square_m":142470910.664875,
     "geom:bbox":"39.812772,47.699466,40.028497,47.855582",
     "geom:latitude":47.782216,
     "geom:longitude":39.922368,
@@ -203,10 +203,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"60430000",
+        "meso:oktmo_code":"60730000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902251,
-    "wof:geomhash":"1858e8c37dbb502aa35b1567ad83a99b",
+    "wof:geomhash":"685233d496bfdc113dfe00e4f4e6b642",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -217,7 +224,7 @@
         }
     ],
     "wof:id":1108735539,
-    "wof:lastmodified":1636497196,
+    "wof:lastmodified":1695886733,
     "wof:name":"Novoshakhtinsk",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

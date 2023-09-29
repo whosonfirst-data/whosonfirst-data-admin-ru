@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.410832,
-    "geom:area_square_m":2697752515.1057,
+    "geom:area_square_m":2697753081.060085,
     "geom:bbox":"32.458484,57.654426,33.692914,58.189586",
     "geom:latitude":57.923379,
     "geom:longitude":33.128799,
@@ -133,11 +133,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"49208000",
+        "meso:oktmo_code":"49608000",
         "wd:id":"Q2604949"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903661,
-    "wof:geomhash":"feb96d6ae431dcf64475f67890946b50",
+    "wof:geomhash":"55b5ef755477a001ac37b7b5221f0c4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":1108737291,
-    "wof:lastmodified":1690859728,
+    "wof:lastmodified":1695886420,
     "wof:name":"Valdajskiy",
     "wof:parent_id":85688095,
     "wof:placetype":"county",

@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PS.PO",
+        "meso:okato_code":"58247000",
+        "meso:oktmo_code":"58647000",
         "wd:id":"Q2629904"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902579,
     "wof:geomhash":"3e31bd63acc1684f1362ae40301db3b1",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108735943,
-    "wof:lastmodified":1694639771,
+    "wof:lastmodified":1695886348,
     "wof:name":"Porkhovskiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",

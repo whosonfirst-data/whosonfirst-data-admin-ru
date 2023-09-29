@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001055,
-    "geom:area_square_m":7362850.405873,
+    "geom:area_square_m":7362877.509559,
     "geom:bbox":"37.503338,55.623616,37.5564,55.658323",
     "geom:latitude":55.642044,
     "geom:longitude":37.529718,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45293566",
+        "meso:oktmo_code":"45902000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902710,
-    "wof:geomhash":"39991f860dacac564201dd91ad1743b7",
+    "wof:geomhash":"532b451c76a5e5122040ecd797fc5198",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736115,
-    "wof:lastmodified":1627522602,
+    "wof:lastmodified":1695886274,
     "wof:name":"Kon'kovo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

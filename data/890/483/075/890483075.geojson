@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.155156,
-    "geom:area_square_m":1103734908.535344,
+    "geom:area_square_m":1103734870.713732,
     "geom:bbox":"32.134321,54.65386,32.791494,55.07954",
     "geom:latitude":54.879141,
     "geom:longitude":32.441644,
@@ -157,16 +157,22 @@
     "wof:concordances":{
         "gp:id":12599269,
         "hasc:id":"RU.SM.KA",
+        "meso:okato_code":"66223000",
+        "meso:oktmo_code":"66623000",
         "qs_pg:id":506370,
         "wd:id":"Q2638827",
         "wk:page":"Kardymovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054449,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cbab0722f0b090aedf49a8e507b78b06",
+    "wof:geomhash":"0cff8d7f93d6715d39d2510eb36e1ffc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":890483075,
-    "wof:lastmodified":1690859916,
+    "wof:lastmodified":1695886456,
     "wof:name":"Kardymovskiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",

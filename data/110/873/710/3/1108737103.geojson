@@ -173,8 +173,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BK.TR",
+        "meso:okato_code":"80251000",
+        "meso:oktmo_code":"80651000",
         "wd:id":"Q972685"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903512,
     "wof:geomhash":"f44bf033ec460fe4e2ca9e56bf7922d5",
@@ -188,7 +194,7 @@
         }
     ],
     "wof:id":1108737103,
-    "wof:lastmodified":1694639789,
+    "wof:lastmodified":1695886411,
     "wof:name":"Tujmazinskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

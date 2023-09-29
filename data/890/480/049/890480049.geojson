@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090479,
-    "geom:area_square_m":647652004.428179,
+    "geom:area_square_m":647652056.490603,
     "geom:bbox":"21.996294,54.475795,22.394037,54.822782",
     "geom:latitude":54.62761,
     "geom:longitude":22.182574,
@@ -148,16 +148,22 @@
     "wof:concordances":{
         "gp:id":12598329,
         "hasc:id":"RU.KN.GR",
+        "meso:okato_code":"27212000",
+        "meso:oktmo_code":"27709000",
         "qs_pg:id":1209276,
         "wd:id":"Q80295",
         "wk:page":"Gusevsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054281,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e3c3bb726765572ab0187974e71967b8",
+    "wof:geomhash":"cd37c8c77a212e4d5d85ef4065aaeec7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":890480049,
-    "wof:lastmodified":1690860124,
+    "wof:lastmodified":1695886487,
     "wof:name":"Gusevskiy",
     "wof:parent_id":85688215,
     "wof:placetype":"county",

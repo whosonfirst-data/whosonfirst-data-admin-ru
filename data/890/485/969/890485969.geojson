@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037108,
-    "geom:area_square_m":255651003.990681,
+    "geom:area_square_m":255650971.332139,
     "geom:bbox":"47.053549,56.052685,47.469913,56.210803",
     "geom:latitude":56.14057,
     "geom:longitude":47.253503,
@@ -181,16 +181,22 @@
     "wof:concordances":{
         "gp:id":12597330,
         "hasc:id":"RU.CV.CG",
+        "meso:okato_code":"97401000",
+        "meso:oktmo_code":"97701000",
         "qs_pg:id":1312477,
         "wd:id":"Q2341068",
         "wk:page":"Alikovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054585,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f8d1d97d9b7967e35dc15933eee52330",
+    "wof:geomhash":"18d3974b7fe755d6550deece91c01c89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,7 +207,7 @@
         }
     ],
     "wof:id":890485969,
-    "wof:lastmodified":1690859836,
+    "wof:lastmodified":1695886713,
     "wof:name":"Cheboksary",
     "wof:parent_id":85688111,
     "wof:placetype":"county",

@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KE.TY",
+        "meso:okato_code":"32234000",
+        "meso:oktmo_code":"32634000",
         "wd:id":"Q1655843"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903441,
     "wof:geomhash":"cb1295031f4b9842dd37ac074b615465",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108737023,
-    "wof:lastmodified":1694639787,
+    "wof:lastmodified":1695886407,
     "wof:name":"Tjazhinskiy",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

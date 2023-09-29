@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BR.PG",
+        "meso:okato_code":"15242000",
+        "meso:oktmo_code":"15642000",
         "wd:id":"Q2717125"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902547,
     "wof:geomhash":"9719c5bf1160f5ce31657719972e0ddb",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108735907,
-    "wof:lastmodified":1694639771,
+    "wof:lastmodified":1695886346,
     "wof:name":"Pogarskiy",
     "wof:parent_id":85688121,
     "wof:placetype":"county",

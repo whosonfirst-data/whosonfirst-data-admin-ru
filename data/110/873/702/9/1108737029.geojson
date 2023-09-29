@@ -122,8 +122,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KY.TY",
+        "meso:okato_code":"04255000",
+        "meso:oktmo_code":"04655000",
         "wd:id":"Q1614814"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903444,
     "wof:geomhash":"c9fa40c4c26dd30f04f8a72b2473e89f",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1108737029,
-    "wof:lastmodified":1694492781,
+    "wof:lastmodified":1695886412,
     "wof:name":"Tjukhtetskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

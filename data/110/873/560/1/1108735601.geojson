@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TL.OD",
+        "meso:okato_code":"70236000",
+        "meso:oktmo_code":"70636000",
         "wd:id":"Q3880947"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902305,
     "wof:geomhash":"82b1fe43fdca40be70397c267b1b59e0",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108735601,
-    "wof:lastmodified":1694639763,
+    "wof:lastmodified":1695886325,
     "wof:name":"Odoevskiy",
     "wof:parent_id":85688203,
     "wof:placetype":"county",

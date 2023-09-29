@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.CK.AR"
+        "hasc:id":"RU.CK.AR",
+        "meso:okato_code":"77401000",
+        "meso:oktmo_code":"77701000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900744,
     "wof:geomhash":"fe0f534c7f77d06413e08662cc0c3f65",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733703,
-    "wof:lastmodified":1694639727,
+    "wof:lastmodified":1695886184,
     "wof:name":"Anadyr'",
     "wof:parent_id":85687795,
     "wof:placetype":"county",

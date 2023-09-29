@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00237,
-    "geom:area_square_m":16495923.116203,
+    "geom:area_square_m":16495823.064117,
     "geom:bbox":"37.336189,55.725153,37.444543,55.793005",
     "geom:latitude":55.748475,
     "geom:longitude":37.393249,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45268562",
+        "meso:oktmo_code":"45320000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902721,
-    "wof:geomhash":"7f9285fb373af1a5df73d94833786dda",
+    "wof:geomhash":"cc80f739b367382e7284d18f059f7553",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736131,
-    "wof:lastmodified":1627522613,
+    "wof:lastmodified":1695886287,
     "wof:name":"Kuncevo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.414556,
-    "geom:area_square_m":2944556494.521526,
+    "geom:area_square_m":2944555811.693687,
     "geom:bbox":"40.679751,54.601566,42.066495,55.236688",
     "geom:latitude":54.940306,
     "geom:longitude":41.406401,
@@ -150,16 +150,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12599160,
+        "meso:okato_code":"61208000",
+        "meso:oktmo_code":"61608000",
         "qs_pg:id":506362,
         "wd:id":"Q2628828",
         "wk:page":"Kasimovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054449,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c05808f2d4433e1533e47640f2dcec1a",
+    "wof:geomhash":"14e718f5578c333cd338de36a2f7701e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":890483071,
-    "wof:lastmodified":1690859898,
+    "wof:lastmodified":1695886452,
     "wof:name":"Kasimovskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

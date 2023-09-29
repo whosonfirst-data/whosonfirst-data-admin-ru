@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.MG.YA"
+        "hasc:id":"RU.MG.YA",
+        "meso:okato_code":"44222000",
+        "meso:oktmo_code":"44622000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901033,
     "wof:geomhash":"35ea9c934f6e04376353eb3d0067d1a7",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108734065,
-    "wof:lastmodified":1694639793,
+    "wof:lastmodified":1695886428,
     "wof:name":"Jagodninskiy",
     "wof:parent_id":85687881,
     "wof:placetype":"county",

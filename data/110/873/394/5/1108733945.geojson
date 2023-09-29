@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.BL.GB"
+        "hasc:id":"RU.BL.GB",
+        "meso:okato_code":"14235000",
+        "meso:oktmo_code":"14730000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900929,
     "wof:geomhash":"b79b5d1794fce70bb31c263353b92992",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733945,
-    "wof:lastmodified":1694639740,
+    "wof:lastmodified":1695886238,
     "wof:name":"Gubkinskiy",
     "wof:parent_id":85687813,
     "wof:placetype":"county",

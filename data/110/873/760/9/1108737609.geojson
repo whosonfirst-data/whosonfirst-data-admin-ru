@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151841,
-    "geom:area_square_m":1041127949.100494,
+    "geom:area_square_m":1041127937.32151,
     "geom:bbox":"42.614112,56.154395,43.379508,56.520114",
     "geom:latitude":56.322579,
     "geom:longitude":42.988398,
@@ -124,11 +124,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"22231000",
+        "meso:oktmo_code":"22631000",
         "wd:id":"Q4016262"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903767,
-    "wof:geomhash":"edfdb2b2730ef763bd3b85d9ff8aec1c",
+    "wof:geomhash":"b51c8edf4e71ca4cd311f3261b226d61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":1108737609,
-    "wof:lastmodified":1690859547,
+    "wof:lastmodified":1695886427,
     "wof:name":"Volodarskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

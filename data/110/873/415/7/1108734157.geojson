@@ -155,8 +155,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TT.YU",
+        "meso:okato_code":"92254000",
+        "meso:oktmo_code":"92654000",
         "wd:id":"Q2988024"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901118,
     "wof:geomhash":"585b1d6964d3a155f260d7bfc5da3f82",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1108734157,
-    "wof:lastmodified":1694639742,
+    "wof:lastmodified":1695886253,
     "wof:name":"Jutazinskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

@@ -176,8 +176,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BK.BZ",
+        "meso:okato_code":"80212000",
+        "meso:oktmo_code":"80612000",
         "wd:id":"Q1702957"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900096,
     "wof:geomhash":"be4136314433cbae7c0601f6f1c79413",
@@ -191,7 +197,7 @@
         }
     ],
     "wof:id":1108733009,
-    "wof:lastmodified":1694639731,
+    "wof:lastmodified":1695886200,
     "wof:name":"Bizhbuljakskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.26654,
-    "geom:area_square_m":1781483087.467424,
+    "geom:area_square_m":1781483092.28205,
     "geom:bbox":"35.113311,56.985874,35.97993,57.573874",
     "geom:latitude":57.280275,
     "geom:longitude":35.564341,
@@ -160,16 +160,22 @@
     "wof:concordances":{
         "gp:id":12598363,
         "hasc:id":"RU.TV.LI",
+        "meso:okato_code":"28238000",
+        "meso:oktmo_code":"28638000",
         "qs_pg:id":989705,
         "wd:id":"Q394722",
         "wk:page":"Likhoslavlsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054561,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d4cc4bfc96752ff1dc35e68473166e08",
+    "wof:geomhash":"90be5921a540b11467df5228fe348c26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":890485453,
-    "wof:lastmodified":1690859826,
+    "wof:lastmodified":1695886442,
     "wof:name":"Likhoslavl'skiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

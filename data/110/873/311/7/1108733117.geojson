@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.ST.BG"
+        "hasc:id":"RU.ST.BG",
+        "meso:okato_code":"07402000",
+        "meso:oktmo_code":"07702000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900184,
     "wof:geomhash":"3dd18a87dac8a80e7973e6efa8672e2d",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733117,
-    "wof:lastmodified":1694639732,
+    "wof:lastmodified":1695886205,
     "wof:name":"Budjonnovsk",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

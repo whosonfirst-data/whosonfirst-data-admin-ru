@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":23.635959,
-    "geom:area_square_m":80447748597.550659,
+    "geom:area_square_m":80447748427.519333,
     "geom:bbox":"51.406139,70.467056,69.171638,77.063721",
     "geom:latitude":74.01408,
     "geom:longitude":58.260161,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"11243000",
+        "meso:oktmo_code":"11712000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902205,
-    "wof:geomhash":"40fcf295ab9e283cce01b576cfd4cbbf",
+    "wof:geomhash":"73321b9804848723632f4f07175585e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108735473,
-    "wof:lastmodified":1627522641,
+    "wof:lastmodified":1695886317,
     "wof:name":"Novaja Zemlja",
     "wof:parent_id":85687971,
     "wof:placetype":"county",

@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AS.NA",
+        "meso:okato_code":"12240000",
+        "meso:oktmo_code":"12640000",
         "wd:id":"Q1654640"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902101,
     "wof:geomhash":"b7b2d3a3cc39c819f91b82fffe510f9c",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108735311,
-    "wof:lastmodified":1694639759,
+    "wof:lastmodified":1695886309,
     "wof:name":"Narimanovskiy",
     "wof:parent_id":85687985,
     "wof:placetype":"county",

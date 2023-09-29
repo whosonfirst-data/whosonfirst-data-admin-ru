@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KE.TP",
+        "meso:okato_code":"32231000",
+        "meso:oktmo_code":"32631000",
         "wd:id":"Q1656190"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903481,
     "wof:geomhash":"64ebf4cca8376bd6fc423fa3fc6cdf53",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108737069,
-    "wof:lastmodified":1694639788,
+    "wof:lastmodified":1695886409,
     "wof:name":"Topkinskiy",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

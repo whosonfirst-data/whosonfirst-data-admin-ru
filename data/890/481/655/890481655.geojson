@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.704224,
-    "geom:area_square_m":5769110434.880286,
+    "geom:area_square_m":5769110871.672834,
     "geom:bbox":"133.093046,48.070034,134.995226,48.960318",
     "geom:latitude":48.50765,
     "geom:longitude":133.87147,
@@ -148,15 +148,21 @@
     "wof:concordances":{
         "gn:id":2016411,
         "hasc:id":"RU.YV.SM",
+        "meso:okato_code":"99230000",
+        "meso:oktmo_code":"99630000",
         "qs_pg:id":372645,
         "wd:id":"Q617041"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054368,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4158859f53df3f94bd7b7027a696e63e",
+    "wof:geomhash":"283f7cc0e24cb4088fc6bf32baea10ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":890481655,
-    "wof:lastmodified":1642541512,
+    "wof:lastmodified":1695886475,
     "wof:name":"Smidovichskiy",
     "wof:parent_id":85687991,
     "wof:placetype":"county",

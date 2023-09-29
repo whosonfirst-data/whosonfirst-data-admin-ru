@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.TL.BE"
+        "hasc:id":"RU.TL.BE",
+        "meso:okato_code":"70206000",
+        "meso:oktmo_code":"70606000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900009,
     "wof:geomhash":"f6fb8bd312a558f7e5e65acf1da4bfc1",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108732929,
-    "wof:lastmodified":1694639730,
+    "wof:lastmodified":1695886195,
     "wof:name":"Belevskiy",
     "wof:parent_id":85688203,
     "wof:placetype":"county",

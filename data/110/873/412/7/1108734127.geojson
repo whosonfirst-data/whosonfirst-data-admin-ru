@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KG.YU",
+        "meso:okato_code":"29250000",
+        "meso:oktmo_code":"29650000",
         "wd:id":"Q1658322"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901096,
     "wof:geomhash":"92f72727eeb9eff4eeebc1a6d5c5bdfa",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108734127,
-    "wof:lastmodified":1694639742,
+    "wof:lastmodified":1695886250,
     "wof:name":"Jukhnovskiy",
     "wof:parent_id":85688131,
     "wof:placetype":"county",

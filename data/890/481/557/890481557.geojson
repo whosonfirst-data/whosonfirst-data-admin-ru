@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.466369,
-    "geom:area_square_m":2925986465.520975,
+    "geom:area_square_m":2925986331.606423,
     "geom:bbox":"26.895805,59.107632,29.122423,60.040359",
     "geom:latitude":59.509713,
     "geom:longitude":28.551106,
@@ -203,15 +203,21 @@
         "gn:id":548601,
         "gp:id":12598639,
         "hasc:id":"RU.LN.KP",
+        "meso:okato_code":"41221000",
+        "meso:oktmo_code":"41621000",
         "qs_pg:id":369572,
         "wd:id":"Q7681"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054363,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fd9aabcda9e47c6346ce33446fe1e5b0",
+    "wof:geomhash":"47422fef29d5da94e5be8d41dc90eeac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -222,7 +228,7 @@
         }
     ],
     "wof:id":890481557,
-    "wof:lastmodified":1690860004,
+    "wof:lastmodified":1695886472,
     "wof:name":"Kingiseppskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",

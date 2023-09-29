@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.LP.DV",
+        "meso:okato_code":"42215000",
+        "meso:oktmo_code":"42615000",
         "wd:id":"Q2216948"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900427,
     "wof:geomhash":"7f20870c63ef86a7ae90a9828058f926",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108733393,
-    "wof:lastmodified":1694639736,
+    "wof:lastmodified":1695886224,
     "wof:name":"Dobrovskiy",
     "wof:parent_id":85687917,
     "wof:placetype":"county",

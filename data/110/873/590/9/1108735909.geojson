@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PR.PN",
+        "meso:okato_code":"05232000",
+        "meso:oktmo_code":"05632000",
         "wd:id":"Q1884643"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902549,
     "wof:geomhash":"b70c721cdba3f22e45636ed8ccb77970",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108735909,
-    "wof:lastmodified":1694639771,
+    "wof:lastmodified":1695886346,
     "wof:name":"Pogranichnyj",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SR.DU",
+        "meso:okato_code":"63214000",
+        "meso:oktmo_code":"63614000",
         "wd:id":"Q1651588"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900458,
     "wof:geomhash":"a9d2cefb828993fa2df1b2081c89038c",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108733425,
-    "wof:lastmodified":1694639737,
+    "wof:lastmodified":1695886227,
     "wof:name":"Dukhovnickij",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CV.YN",
+        "meso:okato_code":"97258000",
+        "meso:oktmo_code":"97658000",
         "wd:id":"Q2626827"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901064,
     "wof:geomhash":"967c8c14a7c8b5f489637540e4b1da87",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108734091,
-    "wof:lastmodified":1694639794,
+    "wof:lastmodified":1695886431,
     "wof:name":"Jantikovskiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",

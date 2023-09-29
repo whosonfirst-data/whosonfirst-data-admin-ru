@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BL.PR",
+        "meso:okato_code":"14246000",
+        "meso:oktmo_code":"14646000",
         "wd:id":"Q2218569"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902632,
     "wof:geomhash":"233c72af3fdcb168626b354a9a7ee26f",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108736005,
-    "wof:lastmodified":1694639772,
+    "wof:lastmodified":1695886351,
     "wof:name":"Prokhorovskiy",
     "wof:parent_id":85687813,
     "wof:placetype":"county",

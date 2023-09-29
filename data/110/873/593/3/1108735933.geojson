@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KT.PO",
+        "meso:okato_code":"34236000",
+        "meso:oktmo_code":"34636000",
         "wd:id":"Q1653957"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902564,
     "wof:geomhash":"f0abd14f344d829100649de2c3047bba",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108735933,
-    "wof:lastmodified":1694639771,
+    "wof:lastmodified":1695886347,
     "wof:name":"Ponazyrevskiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",

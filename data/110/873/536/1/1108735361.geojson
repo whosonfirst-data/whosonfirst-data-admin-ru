@@ -210,8 +210,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.ST.NV"
+        "hasc:id":"RU.ST.NV",
+        "meso:okato_code":"07424000",
+        "meso:oktmo_code":"07724000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902137,
     "wof:geomhash":"4748013705af3ca9efcc3d3053cf5374",
@@ -225,7 +231,7 @@
         }
     ],
     "wof:id":1108735361,
-    "wof:lastmodified":1694639805,
+    "wof:lastmodified":1695886733,
     "wof:name":"Nevinnomyssk",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

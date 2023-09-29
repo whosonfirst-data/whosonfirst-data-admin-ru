@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NZ.VZ",
+        "meso:okato_code":"22219000",
+        "meso:oktmo_code":"22619000",
         "wd:id":"Q1658625"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903795,
     "wof:geomhash":"f414cc3ce1158caf5b18f6845bc08b6a",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108737725,
-    "wof:lastmodified":1694639794,
+    "wof:lastmodified":1695886429,
     "wof:name":"Voznesenskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

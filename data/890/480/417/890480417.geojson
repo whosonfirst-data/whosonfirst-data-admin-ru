@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.484186,
-    "geom:area_square_m":18115605567.457207,
+    "geom:area_square_m":18115606657.984303,
     "geom:bbox":"121.625787,53.194496,125.389016,54.548001",
     "geom:latitude":53.86029,
     "geom:longitude":123.36308,
@@ -157,15 +157,21 @@
     "wof:concordances":{
         "gn:id":2016442,
         "hasc:id":"RU.AM.SK",
+        "meso:okato_code":"10249000",
+        "meso:oktmo_code":"10649000",
         "qs_pg:id":372640,
         "wd:id":"Q2218597"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054306,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8bd0cfc81f932142ff660c76a0e89d0b",
+    "wof:geomhash":"8ca1e14a98352b531db121443b0423e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":890480417,
-    "wof:lastmodified":1690860143,
+    "wof:lastmodified":1695886492,
     "wof:name":"Skovorodinskiy",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

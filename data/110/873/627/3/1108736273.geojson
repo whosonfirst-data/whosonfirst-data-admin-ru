@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TV.RA",
+        "meso:okato_code":"28247000",
+        "meso:oktmo_code":"28647000",
         "wd:id":"Q394718"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902822,
     "wof:geomhash":"0f66f15c2565c3dc06dbc1faa4fed7a6",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108736273,
-    "wof:lastmodified":1694639773,
+    "wof:lastmodified":1695886355,
     "wof:name":"Rameshkovskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

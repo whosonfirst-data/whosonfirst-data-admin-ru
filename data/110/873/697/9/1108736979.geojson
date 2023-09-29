@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.MR.TN",
+        "meso:okato_code":"89251000",
+        "meso:oktmo_code":"89651000",
         "wd:id":"Q671903"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903402,
     "wof:geomhash":"6e23f35cc22eae2bd31cd87fa0e70959",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108736979,
-    "wof:lastmodified":1694639786,
+    "wof:lastmodified":1695886404,
     "wof:name":"Ten'gushevskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",

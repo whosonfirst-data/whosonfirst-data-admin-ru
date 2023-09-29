@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023109,
-    "geom:area_square_m":169184721.701325,
+    "geom:area_square_m":169184721.701283,
     "geom:bbox":"87.5653455154,53.3968454292,87.8959142613,53.8149640509",
     "geom:latitude":53.696189,
     "geom:longitude":87.765965,
@@ -143,10 +143,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"32428000",
+        "meso:oktmo_code":"32728000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902085,
-    "wof:geomhash":"7d74f8a5a9de4804e745f615c9fe92f7",
+    "wof:geomhash":"0d9c23ebd17d15d3cd7a2f1bc2f11f75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,7 +164,7 @@
         }
     ],
     "wof:id":1108735287,
-    "wof:lastmodified":1566627046,
+    "wof:lastmodified":1695886231,
     "wof:name":"Myski",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

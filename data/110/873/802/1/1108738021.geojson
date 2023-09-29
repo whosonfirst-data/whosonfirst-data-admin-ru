@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023524,
-    "geom:area_square_m":162242890.03897,
+    "geom:area_square_m":162242890.038988,
     "geom:bbox":"94.4203532107,56.0304235605,94.7404835789,56.1736804381",
     "geom:latitude":56.099205,
     "geom:longitude":94.573789,
@@ -125,10 +125,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"04537000",
+        "meso:oktmo_code":"04737000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903866,
-    "wof:geomhash":"3bda91ad1871ee636574b4a54cb94968",
+    "wof:geomhash":"ce0ae481ba69815a9493644522b10b8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +146,7 @@
         }
     ],
     "wof:id":1108738021,
-    "wof:lastmodified":1566627032,
+    "wof:lastmodified":1695886230,
     "wof:name":"Zelenogorsk",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

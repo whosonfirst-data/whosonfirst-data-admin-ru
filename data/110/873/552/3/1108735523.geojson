@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BL.NO",
+        "meso:okato_code":"14244000",
+        "meso:oktmo_code":"14644000",
         "wd:id":"Q2217141"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902240,
     "wof:geomhash":"2012342bbcbd160682e53dd58431aa8e",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108735523,
-    "wof:lastmodified":1694639762,
+    "wof:lastmodified":1695886321,
     "wof:name":"Novooskol'skiy",
     "wof:parent_id":85687813,
     "wof:placetype":"county",

@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KT.NK",
+        "meso:okato_code":"34226000",
+        "meso:oktmo_code":"34626000",
         "wd:id":"Q1653230"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902128,
     "wof:geomhash":"f1c3841c4b223c260f27a7336aba42ee",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108735347,
-    "wof:lastmodified":1694639760,
+    "wof:lastmodified":1695886312,
     "wof:name":"Nerekhtskiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",

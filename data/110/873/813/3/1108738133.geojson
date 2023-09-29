@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VG.ZH",
+        "meso:okato_code":"18212000",
+        "meso:oktmo_code":"18612000",
         "wd:id":"Q1658689"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903886,
     "wof:geomhash":"999a7893285998ede9052a54d5b27f87",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108738133,
-    "wof:lastmodified":1694639796,
+    "wof:lastmodified":1695886440,
     "wof:name":"Zhirnovskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

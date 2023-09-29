@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NS.BA",
+        "meso:okato_code":"50203000",
+        "meso:oktmo_code":"50603000",
         "wd:id":"Q788425"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899920,
     "wof:geomhash":"fa434e547dadb7aa5dfc1c5c4588d23e",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108732843,
-    "wof:lastmodified":1694639728,
+    "wof:lastmodified":1695886190,
     "wof:name":"Baganskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",

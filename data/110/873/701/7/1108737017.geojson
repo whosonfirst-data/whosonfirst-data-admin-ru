@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KS.TI",
+        "meso:okato_code":"38242000",
+        "meso:oktmo_code":"38642000",
         "wd:id":"Q2629954"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903435,
     "wof:geomhash":"087bebad2c59a50c869c735d6535eaf6",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108737017,
-    "wof:lastmodified":1694639787,
+    "wof:lastmodified":1695886407,
     "wof:name":"Timskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

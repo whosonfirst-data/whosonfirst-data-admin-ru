@@ -149,8 +149,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CV.KR",
+        "meso:okato_code":"97216000",
+        "meso:oktmo_code":"97616000",
         "wd:id":"Q2626554"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901206,
     "wof:geomhash":"2fdc0c0895f3ecaa4955e51df4e1de35",
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":1108734249,
-    "wof:lastmodified":1694639744,
+    "wof:lastmodified":1695886258,
     "wof:name":"Kanashskiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",

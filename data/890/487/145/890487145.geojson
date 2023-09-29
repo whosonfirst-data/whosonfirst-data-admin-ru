@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119002,
-    "geom:area_square_m":766792919.345714,
+    "geom:area_square_m":766792536.627246,
     "geom:bbox":"49.116489,58.439018,49.817439,58.732732",
     "geom:latitude":58.593785,
     "geom:longitude":49.490459,
@@ -125,15 +125,21 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598475,
+        "meso:okato_code":"33401000",
+        "meso:oktmo_code":"33701000",
         "qs_pg:id":237328,
         "wk:page":"Kirov Raion"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054659,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4220f44a11e5dab4b65612a0411a261a",
+    "wof:geomhash":"0f38e76232f9346767c3e9f7784b42fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,7 +150,7 @@
         }
     ],
     "wof:id":890487145,
-    "wof:lastmodified":1642541520,
+    "wof:lastmodified":1695886481,
     "wof:name":"Kirov",
     "wof:parent_id":85687903,
     "wof:placetype":"county",

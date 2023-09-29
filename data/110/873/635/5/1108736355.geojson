@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KU.SA",
+        "meso:okato_code":"37232000",
+        "meso:oktmo_code":"37632000",
         "wd:id":"Q830314"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902889,
     "wof:geomhash":"3ae55af54a10bf251d099e3bc62fbb45",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108736355,
-    "wof:lastmodified":1694639775,
+    "wof:lastmodified":1695886360,
     "wof:name":"Safakulevskiy",
     "wof:parent_id":85688157,
     "wof:placetype":"county",

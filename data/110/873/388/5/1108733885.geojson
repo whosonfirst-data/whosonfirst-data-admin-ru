@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012401,
-    "geom:area_square_m":100646071.242987,
+    "geom:area_square_m":100645939.628907,
     "geom:bbox":"142.725999,48.916001,142.912218,49.027649",
     "geom:latitude":48.978483,
     "geom:longitude":142.817694,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"64240000",
+        "meso:oktmo_code":"64709000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900887,
-    "wof:geomhash":"f46df963c1a8ed5310438098d219562c",
+    "wof:geomhash":"f769da0b1ae8f66cb5bdb98292941e7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108733885,
-    "wof:lastmodified":1627522722,
+    "wof:lastmodified":1695886420,
     "wof:name":"Vakhrushev",
     "wof:parent_id":85688125,
     "wof:placetype":"county",

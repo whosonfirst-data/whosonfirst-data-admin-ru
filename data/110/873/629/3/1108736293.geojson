@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RZ.RZ",
+        "meso:okato_code":"61230000",
+        "meso:oktmo_code":"61630000",
         "wd:id":"Q1654474"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902841,
     "wof:geomhash":"40e073026ab67d22d5dc05a7f27127b9",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108736293,
-    "wof:lastmodified":1694639773,
+    "wof:lastmodified":1695886356,
     "wof:name":"Rjazhskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KU.VA",
+        "meso:okato_code":"37206000",
+        "meso:oktmo_code":"37606000",
         "wd:id":"Q1753244"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903667,
     "wof:geomhash":"f0179c06717d266e5ac6b6f29b3eb41e",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108737299,
-    "wof:lastmodified":1694639791,
+    "wof:lastmodified":1695886420,
     "wof:name":"Vargashinskiy",
     "wof:parent_id":85688157,
     "wof:placetype":"county",

@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.MR.ZU",
+        "meso:okato_code":"89221000",
+        "meso:oktmo_code":"89621000",
         "wd:id":"Q1049529"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903927,
     "wof:geomhash":"129136c9b4819651a636e5b04d671e48",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108738373,
-    "wof:lastmodified":1694639797,
+    "wof:lastmodified":1695886443,
     "wof:name":"Zubovo-Poljanskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",

@@ -240,8 +240,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.UD.VR"
+        "hasc:id":"RU.UD.VR",
+        "meso:okato_code":"94410000",
+        "meso:oktmo_code":"94710000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900731,
     "wof:geomhash":"829e5f476708eef986589b2ac3a9c8e6",
@@ -255,7 +261,7 @@
         }
     ],
     "wof:id":1108733687,
-    "wof:lastmodified":1694639685,
+    "wof:lastmodified":1695886236,
     "wof:name":"Votkinsk",
     "wof:parent_id":85687787,
     "wof:placetype":"county",

@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VL.YP",
+        "meso:okato_code":"17256000",
+        "meso:oktmo_code":"17656000",
         "wd:id":"Q3811360"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901099,
     "wof:geomhash":"03c7a37715088d8b74bf644d34668d32",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108734133,
-    "wof:lastmodified":1694639742,
+    "wof:lastmodified":1695886250,
     "wof:name":"Jur'ev-Pol'skiy",
     "wof:parent_id":85687981,
     "wof:placetype":"county",

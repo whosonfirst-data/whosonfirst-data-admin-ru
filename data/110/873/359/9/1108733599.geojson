@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TY.GO",
+        "meso:okato_code":"71218000",
+        "meso:oktmo_code":"71618000",
         "wd:id":"Q1753793"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900604,
     "wof:geomhash":"25602544ef48bc88f69358de6faf52b9",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108733599,
-    "wof:lastmodified":1694639739,
+    "wof:lastmodified":1695886237,
     "wof:name":"Golyshmanovskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.801315,
-    "geom:area_square_m":13554220211.847813,
+    "geom:area_square_m":13554219812.792845,
     "geom:bbox":"29.03372,66.324373,33.525944,67.674629",
     "geom:latitude":66.964261,
     "geom:longitude":31.11506,
@@ -136,11 +136,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"47408000",
+        "meso:oktmo_code":"47608000",
         "wd:id":"Q2425066"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901207,
-    "wof:geomhash":"ec714a81e9f37fdbe614c572eb74bdb8",
+    "wof:geomhash":"0f48321237158f5f7e05aa3c29dfd45f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":1108734251,
-    "wof:lastmodified":1690859401,
+    "wof:lastmodified":1695886221,
     "wof:name":"Kandalakshskiy",
     "wof:parent_id":85687869,
     "wof:placetype":"county",

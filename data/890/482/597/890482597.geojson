@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.658154,
-    "geom:area_square_m":3901243794.54445,
+    "geom:area_square_m":3901243210.43466,
     "geom:bbox":"29.305789,61.020146,30.946508,61.75806",
     "geom:latitude":61.355363,
     "geom:longitude":30.179905,
@@ -181,16 +181,22 @@
     "wof:concordances":{
         "gp:id":12597429,
         "hasc:id":"RU.KI.LA",
+        "meso:okato_code":"86218000",
+        "meso:oktmo_code":"86618000",
         "qs_pg:id":363001,
         "wd:id":"Q934100",
         "wk:page":"Lakhdenpokhsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054426,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"43c800c745b315bfd33b563aae63144c",
+    "wof:geomhash":"301a8041788d395afb81ced0686dadbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,7 +207,7 @@
         }
     ],
     "wof:id":890482597,
-    "wof:lastmodified":1690859874,
+    "wof:lastmodified":1695886448,
     "wof:name":"Lakhdenpokhskiy",
     "wof:parent_id":85688193,
     "wof:placetype":"county",

@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OB.BU",
+        "meso:okato_code":"53211000",
+        "meso:oktmo_code":"53611000",
         "wd:id":"Q1651395"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900187,
     "wof:geomhash":"0d43fec2e81cf91ed5bf84fbb4acc67f",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108733123,
-    "wof:lastmodified":1694639732,
+    "wof:lastmodified":1695886207,
     "wof:name":"Buguruslanskiy",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

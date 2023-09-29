@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.489771,
-    "geom:area_square_m":19874103307.636475,
+    "geom:area_square_m":19874102901.493462,
     "geom:bbox":"86.592853,49.071318,89.723051,50.375617",
     "geom:latitude":49.792802,
     "geom:longitude":87.989522,
@@ -162,16 +162,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12597676,
+        "meso:okato_code":"84210000",
+        "meso:oktmo_code":"84610000",
         "qs_pg:id":1087077,
         "wd:id":"Q663124",
         "wk:page":"Kosh-Agachsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054501,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"15134ee04b2e3ac53faf03e7c9364919",
+    "wof:geomhash":"9a0402e9f3099faed6b7a9df350305c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -182,7 +188,7 @@
         }
     ],
     "wof:id":890484185,
-    "wof:lastmodified":1690859953,
+    "wof:lastmodified":1695886467,
     "wof:name":"Kosh-Agachskiy",
     "wof:parent_id":85687949,
     "wof:placetype":"county",

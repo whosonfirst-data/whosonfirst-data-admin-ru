@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.6928,
-    "geom:area_square_m":5256652919.790985,
+    "geom:area_square_m":5256652847.855894,
     "geom:bbox":"58.618632,51.767084,60.199893,52.489573",
     "geom:latitude":52.148018,
     "geom:longitude":59.416309,
@@ -130,11 +130,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"53222000",
+        "meso:oktmo_code":"53622000",
         "wd:id":"Q1119754"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901731,
-    "wof:geomhash":"ec9f560ab2fc2e7b9ce00574531d5d8e",
+    "wof:geomhash":"43d8b83b5bd3b700d6880f785b9b6394",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":1108734861,
-    "wof:lastmodified":1690859606,
+    "wof:lastmodified":1695886290,
     "wof:name":"Kvarkenskiy",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

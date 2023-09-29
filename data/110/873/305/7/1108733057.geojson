@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.MR.BB",
+        "meso:okato_code":"89210000",
+        "meso:oktmo_code":"89610000",
         "wd:id":"Q778760"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900138,
     "wof:geomhash":"e39186fe8ece8e1d70629e7ae9362248",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108733057,
-    "wof:lastmodified":1694639732,
+    "wof:lastmodified":1695886203,
     "wof:name":"Bol'shebereznikovskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",

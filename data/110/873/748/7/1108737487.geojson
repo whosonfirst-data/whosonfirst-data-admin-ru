@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.132535,
-    "geom:area_square_m":910469874.559153,
+    "geom:area_square_m":910469344.880297,
     "geom:bbox":"50.834533,56.061941,51.497525,56.446866",
     "geom:latitude":56.250493,
     "geom:longitude":51.16728,
@@ -128,11 +128,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"33210000",
+        "meso:oktmo_code":"33610000",
         "wd:id":"Q2632849"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903740,
-    "wof:geomhash":"e274a1a021b5fce74a9478659f52382b",
+    "wof:geomhash":"eb8903146c85c13b24838af5e548a763",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108737487,
-    "wof:lastmodified":1690859519,
+    "wof:lastmodified":1695886429,
     "wof:name":"Vjatskopoljanskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",

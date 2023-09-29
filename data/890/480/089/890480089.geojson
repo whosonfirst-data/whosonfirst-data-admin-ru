@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.500774,
-    "geom:area_square_m":3547904246.756187,
+    "geom:area_square_m":3547903677.891207,
     "geom:bbox":"72.905565,54.538053,74.349059,55.478989",
     "geom:latitude":55.042328,
     "geom:longitude":73.54596,
@@ -141,16 +141,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598899,
+        "meso:okato_code":"52244000",
+        "meso:oktmo_code":"52644000",
         "qs_pg:id":1209314,
         "wd:id":"Q429506",
         "wk:page":"Omsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054283,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bae7fe3339cdcc10a60ebdf32288689a",
+    "wof:geomhash":"078177d385af77c45810391f9e2d0ee6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":890480089,
-    "wof:lastmodified":1690860142,
+    "wof:lastmodified":1695886492,
     "wof:name":"Omskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

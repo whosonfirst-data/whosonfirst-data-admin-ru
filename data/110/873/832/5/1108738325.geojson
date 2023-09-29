@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KS.ZO",
+        "meso:okato_code":"38212000",
+        "meso:oktmo_code":"38612000",
         "wd:id":"Q2629977"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903919,
     "wof:geomhash":"1b22b9fcf9b60507e356655f6ffb9057",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108738325,
-    "wof:lastmodified":1694639796,
+    "wof:lastmodified":1695886443,
     "wof:name":"Zolotukhinskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

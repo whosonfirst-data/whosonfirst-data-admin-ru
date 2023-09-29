@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000403,
-    "geom:area_square_m":2798337.491093,
+    "geom:area_square_m":2798359.479836,
     "geom:bbox":"38.102722,55.86759,38.131882,55.888071",
     "geom:latitude":55.87813,
     "geom:longitude":38.117638,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"46574000",
+        "meso:oktmo_code":"46774000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903940,
-    "wof:geomhash":"d0264ced24163df9d52cd859272dfc1e",
+    "wof:geomhash":"304db68fbc97ccca69795e230d6f19cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108738463,
-    "wof:lastmodified":1627522740,
+    "wof:lastmodified":1695886445,
     "wof:name":"Zvjozdnyj ok",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

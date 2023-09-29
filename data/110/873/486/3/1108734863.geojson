@@ -122,8 +122,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CT.KY",
+        "meso:okato_code":"76224000",
+        "meso:oktmo_code":"76624000",
         "wd:id":"Q2217493"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901732,
     "wof:geomhash":"51493f29fabb174fb32461e0badc6e32",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1108734863,
-    "wof:lastmodified":1694492746,
+    "wof:lastmodified":1695886291,
     "wof:name":"Kyrinskiy",
     "wof:parent_id":85688005,
     "wof:placetype":"county",

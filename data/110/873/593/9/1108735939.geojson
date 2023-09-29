@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KS.PO",
+        "meso:okato_code":"38230000",
+        "meso:oktmo_code":"38630000",
         "wd:id":"Q590723"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902568,
     "wof:geomhash":"9c81bbd6052a613da3d859f6fc9a8b7d",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108735939,
-    "wof:lastmodified":1694639771,
+    "wof:lastmodified":1695886347,
     "wof:name":"Ponyrovskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

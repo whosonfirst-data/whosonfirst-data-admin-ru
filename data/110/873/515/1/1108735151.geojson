@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.17024,
-    "geom:area_square_m":1505597607.394905,
+    "geom:area_square_m":1505597468.577377,
     "geom:bbox":"42.649089,44.089325,43.246531,44.568322",
     "geom:latitude":44.337831,
     "geom:longitude":42.970837,
@@ -115,11 +115,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"07239000",
+        "meso:oktmo_code":"07639000",
         "wd:id":"Q1254847"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901965,
-    "wof:geomhash":"bf1d766c58ed5af14778ec72f22c7231",
+    "wof:geomhash":"29af639a2b6102bf6ca6b050b6c7baad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":1108735151,
-    "wof:lastmodified":1690859733,
+    "wof:lastmodified":1695886304,
     "wof:name":"Mineralovodskiy",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

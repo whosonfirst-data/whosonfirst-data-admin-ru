@@ -176,8 +176,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BK.YE",
+        "meso:okato_code":"80225000",
+        "meso:oktmo_code":"80625000",
         "wd:id":"Q1092746"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900533,
     "wof:geomhash":"560b496d3688a7f71b9c8850f5dc1a3a",
@@ -191,7 +197,7 @@
         }
     ],
     "wof:id":1108733509,
-    "wof:lastmodified":1694639795,
+    "wof:lastmodified":1695886433,
     "wof:name":"Ermekeevskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

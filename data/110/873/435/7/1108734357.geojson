@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.158471,
-    "geom:area_square_m":1424966943.941926,
+    "geom:area_square_m":1424967428.71198,
     "geom:bbox":"46.328033,43.101424,47.001008,43.533714",
     "geom:latitude":43.347894,
     "geom:longitude":46.642255,
@@ -160,11 +160,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"82254000",
+        "meso:oktmo_code":"82654000",
         "wd:id":"Q1438662"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901288,
-    "wof:geomhash":"06452cdd3dcd40692af9af8f5b354f27",
+    "wof:geomhash":"1bd96fa35340903f279ddf872f271697",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,7 +181,7 @@
         }
     ],
     "wof:id":1108734357,
-    "wof:lastmodified":1690859679,
+    "wof:lastmodified":1695886263,
     "wof:name":"Khasavjurtovskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

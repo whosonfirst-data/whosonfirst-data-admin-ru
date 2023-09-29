@@ -161,8 +161,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.LN.LR",
+        "meso:okato_code":"41233000",
+        "meso:oktmo_code":"41633000",
         "wd:id":"Q7959"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901836,
     "wof:geomhash":"b1d5c4cfa92c4e9b4fd67a20cf912d65",
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":1108734999,
-    "wof:lastmodified":1694639684,
+    "wof:lastmodified":1695886227,
     "wof:name":"Luzhskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",

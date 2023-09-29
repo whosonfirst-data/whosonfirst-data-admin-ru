@@ -255,8 +255,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.VL.MG"
+        "hasc:id":"RU.VL.MG",
+        "meso:okato_code":"17435000",
+        "meso:oktmo_code":"17735000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902082,
     "wof:geomhash":"69c667c3e254c1741bdd9a92fbb6e4c8",
@@ -270,7 +276,7 @@
         }
     ],
     "wof:id":1108735283,
-    "wof:lastmodified":1694639805,
+    "wof:lastmodified":1695886732,
     "wof:name":"Murom",
     "wof:parent_id":85687981,
     "wof:placetype":"county",

@@ -149,8 +149,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PS.LO",
+        "meso:okato_code":"58218000",
+        "meso:oktmo_code":"58618000",
         "wd:id":"Q2706899"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901815,
     "wof:geomhash":"5d82b4b7d2b2ef8dc9b5c10f070a7381",
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":1108734973,
-    "wof:lastmodified":1694639684,
+    "wof:lastmodified":1695886226,
     "wof:name":"Loknjanskiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",

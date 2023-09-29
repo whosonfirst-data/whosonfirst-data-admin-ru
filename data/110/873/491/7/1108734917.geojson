@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SK.LE"
+        "hasc:id":"RU.SK.LE",
+        "meso:okato_code":"98227000",
+        "meso:oktmo_code":"98627000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901773,
     "wof:geomhash":"12768c63fdfb75faebddbe8556a04062",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108734917,
-    "wof:lastmodified":1694639754,
+    "wof:lastmodified":1695886294,
     "wof:name":"Lenskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",

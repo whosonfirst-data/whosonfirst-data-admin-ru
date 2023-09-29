@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01235,
-    "geom:area_square_m":89585534.655165,
+    "geom:area_square_m":89585627.321101,
     "geom:bbox":"101.966519,53.974275,102.239003,54.170041",
     "geom:latitude":54.080685,
     "geom:longitude":102.133183,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"25426000",
+        "meso:oktmo_code":"25726000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902893,
-    "wof:geomhash":"d5c288362d18a92a94838015a712b716",
+    "wof:geomhash":"e8fe4b6d755e0620cce18286faef74f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736363,
-    "wof:lastmodified":1627522675,
+    "wof:lastmodified":1695886361,
     "wof:name":"Sajansk",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

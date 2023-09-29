@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007798,
-    "geom:area_square_m":63851139.091959,
+    "geom:area_square_m":63851080.254738,
     "geom:bbox":"45.202615,48.470902,45.36485,48.574425",
     "geom:latitude":48.532362,
     "geom:longitude":45.292229,
@@ -72,10 +72,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"NO DATA",
+        "meso:oktmo_code":"NO DATA"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902178,
-    "wof:geomhash":"21a9ba98b0753fdd16ec9961ab8370aa",
+    "wof:geomhash":"64577505db799a1f4ea3d55f3f68215f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,7 +93,7 @@
         }
     ],
     "wof:id":1108735417,
-    "wof:lastmodified":1627522530,
+    "wof:lastmodified":1695886177,
     "wof:name":"Akhtubinskiy",
     "wof:parent_id":85687985,
     "wof:placetype":"county",

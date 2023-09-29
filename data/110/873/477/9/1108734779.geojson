@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.214086,
-    "geom:area_square_m":8453149186.499974,
+    "geom:area_square_m":8453148668.598953,
     "geom:bbox":"77.401083,55.298257,79.735428,56.202095",
     "geom:latitude":55.730876,
     "geom:longitude":78.493705,
@@ -124,11 +124,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"50230000",
+        "meso:oktmo_code":"50630000",
         "wd:id":"Q554039"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901647,
-    "wof:geomhash":"8e0f4d8da1e3a39993e1b4bcc54159c1",
+    "wof:geomhash":"47e6a3629d1a0f40929b7f3821c55fab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":1108734779,
-    "wof:lastmodified":1690859405,
+    "wof:lastmodified":1695886290,
     "wof:name":"Kujbyshevskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",

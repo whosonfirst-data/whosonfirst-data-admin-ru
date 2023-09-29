@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.585117,
-    "geom:area_square_m":4033818945.908251,
+    "geom:area_square_m":4033818606.608632,
     "geom:bbox":"63.172818,55.69782,64.396754,56.530902",
     "geom:latitude":56.114227,
     "geom:longitude":63.752385,
@@ -124,11 +124,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"37238000",
+        "meso:oktmo_code":"37638000",
         "wd:id":"Q1653963"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903000,
-    "wof:geomhash":"5d2f1f7efd1a8bbb7d3852886460de8d",
+    "wof:geomhash":"0515a34322806a2358fd45fab446fb3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":1108736493,
-    "wof:lastmodified":1690859595,
+    "wof:lastmodified":1695886211,
     "wof:name":"Shadrinskiy",
     "wof:parent_id":85688157,
     "wof:placetype":"county",

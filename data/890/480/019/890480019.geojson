@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.445732,
-    "geom:area_square_m":11000351527.445454,
+    "geom:area_square_m":11000352042.735485,
     "geom:bbox":"86.621783,51.21627,88.459058,52.662074",
     "geom:latitude":52.022283,
     "geom:longitude":87.484344,
@@ -172,16 +172,22 @@
     "wof:concordances":{
         "gp:id":12597718,
         "hasc:id":"RU.GA.TU",
+        "meso:okato_code":"84225000",
+        "meso:oktmo_code":"84625000",
         "qs_pg:id":1209242,
         "wd:id":"Q1043231",
         "wk:page":"Turochaksky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054279,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"73d0f52dcff65ceb1d045f0e1476bec6",
+    "wof:geomhash":"dd0044aca8dc021884ac6e7a859e0939",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -192,7 +198,7 @@
         }
     ],
     "wof:id":890480019,
-    "wof:lastmodified":1690860145,
+    "wof:lastmodified":1695886492,
     "wof:name":"Turochakskiy",
     "wof:parent_id":85687949,
     "wof:placetype":"county",

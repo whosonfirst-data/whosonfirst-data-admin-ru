@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PR.PZ",
+        "meso:okato_code":"05234000",
+        "meso:oktmo_code":"05634000",
         "wd:id":"Q3698903"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902588,
     "wof:geomhash":"430086c361b1ffa80dd66d8ff6fff928",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108735957,
-    "wof:lastmodified":1694639772,
+    "wof:lastmodified":1695886348,
     "wof:name":"Pozharskiy",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

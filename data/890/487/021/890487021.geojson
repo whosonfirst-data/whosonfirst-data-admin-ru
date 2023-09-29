@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.420172,
-    "geom:area_square_m":17728018741.869606,
+    "geom:area_square_m":17728018943.350723,
     "geom:bbox":"108.017487,53.031303,111.291094,54.425103",
     "geom:latitude":53.672176,
     "geom:longitude":109.563354,
@@ -166,16 +166,22 @@
     "wof:concordances":{
         "gp:id":12597280,
         "hasc:id":"RU.BU.BA",
+        "meso:okato_code":"81203000",
+        "meso:oktmo_code":"81603000",
         "qs_pg:id":224458,
         "wd:id":"Q790417",
         "wk:page":"Barguzinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054650,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"93eaf2e19de3853549629b495eb20f11",
+    "wof:geomhash":"2c3035cfcbef761547b324c7aced5aea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,7 +192,7 @@
         }
     ],
     "wof:id":890487021,
-    "wof:lastmodified":1690860104,
+    "wof:lastmodified":1695886483,
     "wof:name":"Barguzinskiy",
     "wof:parent_id":85688207,
     "wof:placetype":"county",

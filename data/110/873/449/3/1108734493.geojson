@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.173067,
-    "geom:area_square_m":1295794540.424691,
+    "geom:area_square_m":1295794398.602224,
     "geom:bbox":"31.756037,52.48433,32.55504,52.941908",
     "geom:latitude":52.734445,
     "geom:longitude":32.194623,
@@ -127,11 +127,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"15230000",
+        "meso:oktmo_code":"15630000",
         "wd:id":"Q2737400"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901403,
-    "wof:geomhash":"eb65670686d0863a7b6e8b730a0029a7",
+    "wof:geomhash":"8cd18cb81b6d4b732af14d05b129f74f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":1108734493,
-    "wof:lastmodified":1690859394,
+    "wof:lastmodified":1695886271,
     "wof:name":"Klincovskiy",
     "wof:parent_id":85688121,
     "wof:placetype":"county",

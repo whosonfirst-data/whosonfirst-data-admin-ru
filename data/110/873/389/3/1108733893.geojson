@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SV.VP"
+        "hasc:id":"RU.SV.VP",
+        "meso:okato_code":"65420000",
+        "meso:oktmo_code":"65732000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900893,
     "wof:geomhash":"977d9b74c90cf43ada1bee0f6f1ffa3d",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733893,
-    "wof:lastmodified":1694639792,
+    "wof:lastmodified":1695886423,
     "wof:name":"Verkhnjaja Pyshma",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

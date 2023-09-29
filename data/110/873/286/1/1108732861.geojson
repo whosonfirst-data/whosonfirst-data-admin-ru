@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112252,
-    "geom:area_square_m":1003540362.687498,
+    "geom:area_square_m":1003539964.175272,
     "geom:bbox":"43.173574,43.522583,43.838411,43.866165",
     "geom:latitude":43.697229,
     "geom:longitude":43.473367,
@@ -130,11 +130,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"83210000",
+        "meso:oktmo_code":"83610000",
         "wd:id":"Q789075"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899948,
-    "wof:geomhash":"62558e294f02132e414cb11b53f14279",
+    "wof:geomhash":"970500e39d6ea0f5472ffcebe5c69806",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":1108732861,
-    "wof:lastmodified":1690859424,
+    "wof:lastmodified":1695886191,
     "wof:name":"Baksanskiy",
     "wof:parent_id":85688089,
     "wof:placetype":"county",

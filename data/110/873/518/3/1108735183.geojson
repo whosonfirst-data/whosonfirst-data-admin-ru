@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TV.MO",
+        "meso:okato_code":"28242000",
+        "meso:oktmo_code":"28642000",
         "wd:id":"Q394896"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901989,
     "wof:geomhash":"8ea253bdd2a2286a1a56c026e93f86cf",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108735183,
-    "wof:lastmodified":1694639685,
+    "wof:lastmodified":1695886234,
     "wof:name":"Molokovskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

@@ -186,8 +186,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.UL.ME"
+        "hasc:id":"RU.UL.ME",
+        "meso:okato_code":"73405000",
+        "meso:oktmo_code":"73705000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900408,
     "wof:geomhash":"a14d135b6e82554f75b53eda8cc78ece",
@@ -201,7 +207,7 @@
         }
     ],
     "wof:id":1108733367,
-    "wof:lastmodified":1694639682,
+    "wof:lastmodified":1695886213,
     "wof:name":"Dimitrovgrad",
     "wof:parent_id":85687907,
     "wof:placetype":"county",

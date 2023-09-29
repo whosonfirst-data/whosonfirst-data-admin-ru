@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00646,
-    "geom:area_square_m":47471434.246584,
+    "geom:area_square_m":47471434.246568,
     "geom:bbox":"87.1824228079,53.4957027863,87.3154698495,53.5827570372",
     "geom:latitude":53.534885,
     "geom:longitude":87.25246,
@@ -149,10 +149,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"32415000",
+        "meso:oktmo_code":"32715000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901170,
-    "wof:geomhash":"110a35426cb1d0851a73e61bee8be1aa",
+    "wof:geomhash":"c36be26c493095af2506f7ec8852aff6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,7 +170,7 @@
         }
     ],
     "wof:id":1108734211,
-    "wof:lastmodified":1566627177,
+    "wof:lastmodified":1695886247,
     "wof:name":"Kaltan",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

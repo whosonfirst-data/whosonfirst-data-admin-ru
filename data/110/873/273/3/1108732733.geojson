@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":54.108173,
-    "geom:area_square_m":283584922413.692017,
+    "geom:area_square_m":283584921667.985352,
     "geom:bbox":"165.291363,61.806194,179.923936,68.191989",
     "geom:latitude":64.913291,
     "geom:longitude":173.163562,
@@ -148,11 +148,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"77203000",
+        "meso:oktmo_code":"77603000",
         "wd:id":"Q698395"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899822,
-    "wof:geomhash":"994bf5a72422399e09b61f0c4303cf2e",
+    "wof:geomhash":"e89f9ae90ffe5f619827e10a983ca9de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":1108732733,
-    "wof:lastmodified":1690859400,
+    "wof:lastmodified":1695886184,
     "wof:name":"Anadyrskiy",
     "wof:parent_id":85687795,
     "wof:placetype":"county",

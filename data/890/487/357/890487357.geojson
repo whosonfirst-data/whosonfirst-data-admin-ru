@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.127576,
-    "geom:area_square_m":912368240.876904,
+    "geom:area_square_m":912368354.851547,
     "geom:bbox":"37.196869,54.490325,37.768606,54.851529",
     "geom:latitude":54.664379,
     "geom:longitude":37.462352,
@@ -142,15 +142,21 @@
     "wof:concordances":{
         "gn:id":464992,
         "hasc:id":"RU.TL.ZA",
+        "meso:okato_code":"70222000",
+        "meso:oktmo_code":"70622000",
         "qs_pg:id":244925,
         "wd:id":"Q2218580"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054669,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4831b2008e187b559c42616c553d8684",
+    "wof:geomhash":"5c58ec4ecf0a0bdd0e84de3e33d99885",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":890487357,
-    "wof:lastmodified":1690860096,
+    "wof:lastmodified":1695886481,
     "wof:name":"Zaokskiy",
     "wof:parent_id":85688203,
     "wof:placetype":"county",

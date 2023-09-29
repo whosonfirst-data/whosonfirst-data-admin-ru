@@ -213,8 +213,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.RO.SH"
+        "hasc:id":"RU.RO.SH",
+        "meso:okato_code":"60440000",
+        "meso:oktmo_code":"60740000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903003,
     "wof:geomhash":"35aefbb3ec4cbcc3101e17cc3dc17880",
@@ -228,7 +234,7 @@
         }
     ],
     "wof:id":1108736497,
-    "wof:lastmodified":1694639686,
+    "wof:lastmodified":1695886255,
     "wof:name":"Shakhty",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

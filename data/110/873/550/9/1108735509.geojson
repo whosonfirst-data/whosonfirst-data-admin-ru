@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062749,
-    "geom:area_square_m":458286776.634733,
+    "geom:area_square_m":458286801.486639,
     "geom:bbox":"86.860195,53.622194,87.452363,53.953407",
     "geom:latitude":53.797229,
     "geom:longitude":87.190717,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"32431000",
+        "meso:oktmo_code":"32731000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902231,
-    "wof:geomhash":"bdeeea709235576374adf17609cfa319",
+    "wof:geomhash":"853d007c3abb458161bde2ef45994ff5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108735509,
-    "wof:lastmodified":1627522643,
+    "wof:lastmodified":1695886321,
     "wof:name":"Novokuzneck",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

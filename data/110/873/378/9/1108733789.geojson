@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002084,
-    "geom:area_square_m":14539053.763329,
+    "geom:area_square_m":14539035.659641,
     "geom:bbox":"37.832879,55.632361,37.901038,55.682758",
     "geom:latitude":55.654727,
     "geom:longitude":37.864668,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"46444000",
+        "meso:oktmo_code":"46739000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900800,
-    "wof:geomhash":"47cf6071a8bde3b05938776a260cffa7",
+    "wof:geomhash":"9d35a573de3b6bd5b7386d04aaebcbb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108733789,
-    "wof:lastmodified":1627522604,
+    "wof:lastmodified":1695886275,
     "wof:name":"Kotel'niki",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

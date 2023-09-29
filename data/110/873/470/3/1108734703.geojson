@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.ST.KR"
+        "hasc:id":"RU.ST.KR",
+        "meso:okato_code":"07230000",
+        "meso:oktmo_code":"07630000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901581,
     "wof:geomhash":"cb8776df7a7c1934deb5352f72dd66ee",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108734703,
-    "wof:lastmodified":1694639750,
+    "wof:lastmodified":1695886281,
     "wof:name":"Krasnogvardejskiy",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

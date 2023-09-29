@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.RZ.SK"
+        "hasc:id":"RU.RZ.SK",
+        "meso:okato_code":"61237000",
+        "meso:oktmo_code":"61637000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902913,
     "wof:geomhash":"d448c3ec55b7f6d241658349532273e9",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108736385,
-    "wof:lastmodified":1694639775,
+    "wof:lastmodified":1695886362,
     "wof:name":"Sapozhkovskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

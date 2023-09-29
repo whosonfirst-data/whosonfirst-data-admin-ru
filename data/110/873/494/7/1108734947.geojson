@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.597668,
-    "geom:area_square_m":5147860639.681877,
+    "geom:area_square_m":5147861137.234797,
     "geom:bbox":"46.282375,45.40097,47.68152,46.282552",
     "geom:latitude":45.847166,
     "geom:longitude":46.980609,
@@ -124,11 +124,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"12235000",
+        "meso:oktmo_code":"12635000",
         "wd:id":"Q890394"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901794,
-    "wof:geomhash":"2ae808fae3acb80aba816106201ad54e",
+    "wof:geomhash":"609c6663b2df9066a99f54ea9fe0b702",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":1108734947,
-    "wof:lastmodified":1690859638,
+    "wof:lastmodified":1695886295,
     "wof:name":"Limanskiy",
     "wof:parent_id":85687985,
     "wof:placetype":"county",

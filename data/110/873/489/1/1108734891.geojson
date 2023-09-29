@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.519401,
-    "geom:area_square_m":4682927473.877897,
+    "geom:area_square_m":4682927620.556378,
     "geom:bbox":"133.188569,42.76289,134.502436,43.657289",
     "geom:latitude":43.184809,
     "geom:longitude":133.857779,
@@ -124,11 +124,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"05217000",
+        "meso:oktmo_code":"05617000",
         "wd:id":"Q749233"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901756,
-    "wof:geomhash":"5dcbb501e89d1e15ec9b41a59f84e962",
+    "wof:geomhash":"1a55bcb3e6844e317f18d151c56c200e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":1108734891,
-    "wof:lastmodified":1690859626,
+    "wof:lastmodified":1695886292,
     "wof:name":"Lazovskiy",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

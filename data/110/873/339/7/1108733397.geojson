@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.LP.DL"
+        "hasc:id":"RU.LP.DL",
+        "meso:okato_code":"42218000",
+        "meso:oktmo_code":"42618000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900430,
     "wof:geomhash":"7ac4cbd57ef54cfe941f60de104549b5",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733397,
-    "wof:lastmodified":1694639736,
+    "wof:lastmodified":1695886225,
     "wof:name":"Dolgorukovskiy",
     "wof:parent_id":85687917,
     "wof:placetype":"county",

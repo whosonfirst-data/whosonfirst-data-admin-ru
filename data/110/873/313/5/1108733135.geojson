@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AL.BU",
+        "meso:okato_code":"01206000",
+        "meso:oktmo_code":"01606000",
         "wd:id":"Q780044"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900206,
     "wof:geomhash":"47321aa33b05e8d1978bc75557d97508",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108733135,
-    "wof:lastmodified":1694639685,
+    "wof:lastmodified":1695886235,
     "wof:name":"Burlinskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

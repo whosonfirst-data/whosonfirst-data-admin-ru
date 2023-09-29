@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012462,
-    "geom:area_square_m":80650846.216931,
+    "geom:area_square_m":80650948.003609,
     "geom:bbox":"92.088038,58.387059,92.278264,58.496711",
     "geom:latitude":58.440361,
     "geom:longitude":92.177307,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"04412000",
+        "meso:oktmo_code":"04712000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900523,
-    "wof:geomhash":"ed8d9cb630d5679e0eca90f621a93211",
+    "wof:geomhash":"a54c5ee078f9482f8f58cddf1feaea47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108733503,
-    "wof:lastmodified":1627522575,
+    "wof:lastmodified":1695886243,
     "wof:name":"Enisejsk",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

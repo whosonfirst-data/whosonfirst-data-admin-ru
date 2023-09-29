@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001125,
-    "geom:area_square_m":7866666.291393,
+    "geom:area_square_m":7866660.9067,
     "geom:bbox":"37.544582,55.550219,37.600006,55.584721",
     "geom:latitude":55.567781,
     "geom:longitude":37.571512,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45293582",
+        "meso:oktmo_code":"45906000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902771,
-    "wof:geomhash":"25b6716c533704c46613b64561b44cca",
+    "wof:geomhash":"708d7bd02117bf1a2046784e6bdf36e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736203,
-    "wof:lastmodified":1627522680,
+    "wof:lastmodified":1695886366,
     "wof:name":"Severnoe Butovo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

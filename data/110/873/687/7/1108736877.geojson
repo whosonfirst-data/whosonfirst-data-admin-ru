@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VG.SV",
+        "meso:okato_code":"18249000",
+        "meso:oktmo_code":"18649000",
         "wd:id":"Q1655512"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903304,
     "wof:geomhash":"de72481cd2312556d5a3440fa944cc6d",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108736877,
-    "wof:lastmodified":1694639784,
+    "wof:lastmodified":1695886390,
     "wof:name":"Svetlojarskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

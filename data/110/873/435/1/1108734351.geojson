@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AS.KH",
+        "meso:okato_code":"12245000",
+        "meso:oktmo_code":"12645000",
         "wd:id":"Q2216721"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901284,
     "wof:geomhash":"610ae7eb09454d3ad9537ebe62bf9e1d",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108734351,
-    "wof:lastmodified":1694639745,
+    "wof:lastmodified":1695886264,
     "wof:name":"Kharabalinskiy",
     "wof:parent_id":85687985,
     "wof:placetype":"county",

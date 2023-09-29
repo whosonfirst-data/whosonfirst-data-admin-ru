@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KM.BE",
+        "meso:okato_code":"71112000",
+        "meso:oktmo_code":"71812000",
         "wd:id":"Q558713"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900059,
     "wof:geomhash":"68a36ad9015b0acf0e834fee288900e6",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108732981,
-    "wof:lastmodified":1694639730,
+    "wof:lastmodified":1695886198,
     "wof:name":"Berjozovskiy",
     "wof:parent_id":85687919,
     "wof:placetype":"county",

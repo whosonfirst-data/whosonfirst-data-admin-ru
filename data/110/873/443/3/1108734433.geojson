@@ -113,8 +113,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.IR.KI",
+        "meso:okato_code":"25220000",
+        "meso:oktmo_code":"25620000",
         "wd:id":"Q1653013"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901355,
     "wof:geomhash":"e3c0278843a83bd6d33f808ea6a6be83",
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":1108734433,
-    "wof:lastmodified":1694492746,
+    "wof:lastmodified":1695886290,
     "wof:name":"Kirenskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

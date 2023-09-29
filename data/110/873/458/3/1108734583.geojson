@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RZ.KO",
+        "meso:okato_code":"61212000",
+        "meso:oktmo_code":"61612000",
         "wd:id":"Q1652706"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901482,
     "wof:geomhash":"051b2d27a1e3ba0c8407c1917df09f84",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108734583,
-    "wof:lastmodified":1694639748,
+    "wof:lastmodified":1695886275,
     "wof:name":"Korablinskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

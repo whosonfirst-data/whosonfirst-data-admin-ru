@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009009,
-    "geom:area_square_m":62171554.964204,
+    "geom:area_square_m":62171389.260251,
     "geom:bbox":"85.412445,56.022576,85.85233,56.184654",
     "geom:latitude":56.07567,
     "geom:longitude":85.610547,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"32246000",
+        "meso:oktmo_code":"32740000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903325,
-    "wof:geomhash":"d2c70ddee8d91b89b69af40ed24b5f93",
+    "wof:geomhash":"0f39150be989212c122d201af8071e98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736909,
-    "wof:lastmodified":1627522700,
+    "wof:lastmodified":1695886391,
     "wof:name":"Tajga",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

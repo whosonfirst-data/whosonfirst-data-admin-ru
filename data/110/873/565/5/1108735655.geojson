@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.278517,
-    "geom:area_square_m":75614394365.389709,
+    "geom:area_square_m":75614391067.821823,
     "geom:bbox":"145.509654,58.834526,156.037284,61.305418",
     "geom:latitude":60.128632,
     "geom:longitude":151.032958,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"44201000",
+        "meso:oktmo_code":"44601000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902353,
-    "wof:geomhash":"4b1e06363652d5bc50a7b7483c0cd1e7",
+    "wof:geomhash":"2c64af1ebf494769caa5f6b852e6bcdb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108735655,
-    "wof:lastmodified":1627522650,
+    "wof:lastmodified":1695886329,
     "wof:name":"Ol'skiy",
     "wof:parent_id":85687881,
     "wof:placetype":"county",

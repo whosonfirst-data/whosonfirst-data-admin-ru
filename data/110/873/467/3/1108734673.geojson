@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SR.KR",
+        "meso:okato_code":"63222000",
+        "meso:oktmo_code":"63622000",
         "wd:id":"Q3816810"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901551,
     "wof:geomhash":"11fc53b1ce4133c640d28288825a61aa",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108734673,
-    "wof:lastmodified":1694639750,
+    "wof:lastmodified":1695886279,
     "wof:name":"Krasnoarmejskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00753,
-    "geom:area_square_m":56056204.223816,
+    "geom:area_square_m":56056215.093816,
     "geom:bbox":"78.564289,52.937979,78.707403,53.026922",
     "geom:latitude":52.983071,
     "geom:longitude":78.643807,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"01419000",
+        "meso:oktmo_code":"01719000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903118,
-    "wof:geomhash":"407dfc9531b9bc4c10a5acde4863519c",
+    "wof:geomhash":"0c33185638d74a28a5d45f2a15e02e2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736643,
-    "wof:lastmodified":1627522687,
+    "wof:lastmodified":1695886378,
     "wof:name":"Slav",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

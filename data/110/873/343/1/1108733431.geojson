@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KG.DU",
+        "meso:okato_code":"29210000",
+        "meso:oktmo_code":"29610000",
         "wd:id":"Q1651591"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900461,
     "wof:geomhash":"3283e2d847ae4e5f4fc4df2750921d53",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108733431,
-    "wof:lastmodified":1694639737,
+    "wof:lastmodified":1695886227,
     "wof:name":"Duminichskiy",
     "wof:parent_id":85688131,
     "wof:placetype":"county",

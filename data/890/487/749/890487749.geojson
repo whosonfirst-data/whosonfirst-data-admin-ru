@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.162855,
-    "geom:area_square_m":1281789954.647509,
+    "geom:area_square_m":1281790150.220177,
     "geom:bbox":"37.46549,50.263223,38.167549,50.636311",
     "geom:latitude":50.466787,
     "geom:longitude":37.799596,
@@ -154,15 +154,21 @@
     "wof:concordances":{
         "gn:id":472424,
         "hasc:id":"RU.BL.VO",
+        "meso:okato_code":"14230000",
+        "meso:oktmo_code":"14630000",
         "qs_pg:id":548931,
         "wd:id":"Q2218638"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054689,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"79c9dc82d4c3a19fd74cc99c01a547b2",
+    "wof:geomhash":"017f8a5e3d929a19213417bf347e823b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":890487749,
-    "wof:lastmodified":1690860093,
+    "wof:lastmodified":1695886481,
     "wof:name":"Volokonovskiy",
     "wof:parent_id":85687813,
     "wof:placetype":"county",

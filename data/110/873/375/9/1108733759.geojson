@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000354,
-    "geom:area_square_m":2449282.804934,
+    "geom:area_square_m":2449295.893916,
     "geom:bbox":"37.826014,55.927861,37.856572,55.950003",
     "geom:latitude":55.937598,
     "geom:longitude":37.84322,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"46493000",
+        "meso:oktmo_code":"46793000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900780,
-    "wof:geomhash":"c57a37f0e9eb7fc12cad3d5fe213fba3",
+    "wof:geomhash":"f1742bf4f0bd0d95255926c10e7e6efb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108733759,
-    "wof:lastmodified":1627522578,
+    "wof:lastmodified":1695886248,
     "wof:name":"Jubilejnyj",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

@@ -119,8 +119,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CT.NE",
+        "meso:okato_code":"76228000",
+        "meso:oktmo_code":"76628000",
         "wd:id":"Q1655236"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902125,
     "wof:geomhash":"e8844a078d5771e46b96ecfcd5af694f",
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":1108735343,
-    "wof:lastmodified":1694492753,
+    "wof:lastmodified":1695886311,
     "wof:name":"Nerchinskiy",
     "wof:parent_id":85688005,
     "wof:placetype":"county",

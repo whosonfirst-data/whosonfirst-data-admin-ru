@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.444259,
-    "geom:area_square_m":3044133826.214814,
+    "geom:area_square_m":3044133691.314153,
     "geom:bbox":"30.178523,55.910221,31.081553,56.865389",
     "geom:latitude":56.347522,
     "geom:longitude":30.589283,
@@ -163,16 +163,22 @@
     "wof:concordances":{
         "gp:id":12599095,
         "hasc:id":"RU.PS.VR",
+        "meso:okato_code":"58206000",
+        "meso:oktmo_code":"58606000",
         "qs_pg:id":57719,
         "wd:id":"Q2573291",
         "wk:page":"Velikoluksky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054522,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"32b47162baa917cc8ff361f19add5005",
+    "wof:geomhash":"aad0bdd45941828ac1b2c7cd717810e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":890484635,
-    "wof:lastmodified":1690859935,
+    "wof:lastmodified":1695886461,
     "wof:name":"Velikolukskiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",

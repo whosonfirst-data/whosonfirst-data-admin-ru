@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.MS.SA"
+        "hasc:id":"RU.MS.SA",
+        "meso:okato_code":"46465000",
+        "meso:oktmo_code":"46765000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900862,
     "wof:geomhash":"8a8cd0b695bfc2cdc905565f3755c1e9",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733855,
-    "wof:lastmodified":1694639773,
+    "wof:lastmodified":1695886356,
     "wof:name":"Roshal'",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

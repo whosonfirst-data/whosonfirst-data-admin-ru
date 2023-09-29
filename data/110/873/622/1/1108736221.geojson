@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001122,
-    "geom:area_square_m":7806408.145947,
+    "geom:area_square_m":7806406.7616,
     "geom:bbox":"37.704759,55.750515,37.751924,55.794001",
     "geom:latitude":55.772535,
     "geom:longitude":37.730402,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45263588",
+        "meso:oktmo_code":"45314000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902784,
-    "wof:geomhash":"91a28a74e06a138f621c5e3b53e62224",
+    "wof:geomhash":"060e6a2e6f7b7272c9ed80f55e8c469a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736221,
-    "wof:lastmodified":1627522689,
+    "wof:lastmodified":1695886380,
     "wof:name":"Sokolinaja Gora",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

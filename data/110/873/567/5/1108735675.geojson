@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.MG.OM"
+        "hasc:id":"RU.MG.OM",
+        "meso:okato_code":"44204000",
+        "meso:oktmo_code":"44604000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902367,
     "wof:geomhash":"abc0fb56c1a2d8b6b23341f1834a8791",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735675,
-    "wof:lastmodified":1694639765,
+    "wof:lastmodified":1695886330,
     "wof:name":"Omsukchanskiy",
     "wof:parent_id":85687881,
     "wof:placetype":"county",

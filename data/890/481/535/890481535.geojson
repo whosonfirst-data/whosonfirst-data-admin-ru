@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.296924,
-    "geom:area_square_m":2081467690.900936,
+    "geom:area_square_m":2081467587.141307,
     "geom:bbox":"48.957853,55.200955,49.914884,55.726288",
     "geom:latitude":55.464108,
     "geom:longitude":49.421847,
@@ -169,15 +169,21 @@
     "wof:concordances":{
         "gn:id":537156,
         "hasc:id":"RU.TT.LA",
+        "meso:okato_code":"92234000",
+        "meso:oktmo_code":"92634000",
         "qs_pg:id":369459,
         "wd:id":"Q2219922"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054363,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e00e98d425e8d283e6bd81eb1b5d0bc1",
+    "wof:geomhash":"4afb310d3104fb2ba1c8c36c570e17d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -188,7 +194,7 @@
         }
     ],
     "wof:id":890481535,
-    "wof:lastmodified":1690860005,
+    "wof:lastmodified":1695886472,
     "wof:name":"Laishevskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.16565,
-    "geom:area_square_m":1141271971.156009,
+    "geom:area_square_m":1141272066.111891,
     "geom:bbox":"38.507274,55.930454,39.218926,56.341392",
     "geom:latitude":56.138776,
     "geom:longitude":38.871615,
@@ -153,16 +153,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12599530,
+        "meso:okato_code":"17230000",
+        "meso:oktmo_code":"17630000",
         "qs_pg:id":1209334,
         "wd:id":"Q266987",
         "wk:page":"Kirzhachsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054284,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"032235dc6fb9daf5e322df1bee907af6",
+    "wof:geomhash":"66b3bb5b5f2c65ae4261e200d86f6c97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":890480119,
-    "wof:lastmodified":1690860134,
+    "wof:lastmodified":1695886489,
     "wof:name":"Kirzhachskiy",
     "wof:parent_id":85687981,
     "wof:placetype":"county",

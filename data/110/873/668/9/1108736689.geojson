@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KT.SO",
+        "meso:okato_code":"34240000",
+        "meso:oktmo_code":"34640000",
         "wd:id":"Q1655463"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903150,
     "wof:geomhash":"35d4c449adc4ac9b142b30ad8cfb653e",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108736689,
-    "wof:lastmodified":1694639780,
+    "wof:lastmodified":1695886380,
     "wof:name":"Soligalichskiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",

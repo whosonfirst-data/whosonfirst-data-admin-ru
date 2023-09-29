@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.622609,
-    "geom:area_square_m":13184668373.597672,
+    "geom:area_square_m":13184668327.358791,
     "geom:bbox":"130.521244,48.403397,133.281182,49.510779",
     "geom:latitude":48.91788,
     "geom:longitude":131.845276,
@@ -149,15 +149,21 @@
         "gn:id":2018720,
         "gp:id":12597751,
         "hasc:id":"RU.YV.OB",
+        "meso:okato_code":"99220000",
+        "meso:oktmo_code":"99620000",
         "qs_pg:id":1028289,
         "wd:id":"Q1070137"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054382,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"84d7d70547e72c19eba645a5471242d0",
+    "wof:geomhash":"67c4a8f9bc48f5ab5fa42d06a8fc625f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":890481869,
-    "wof:lastmodified":1690860012,
+    "wof:lastmodified":1695886473,
     "wof:name":"Obluchenskiy",
     "wof:parent_id":85687991,
     "wof:placetype":"county",

@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NZ.SG",
+        "meso:okato_code":"22248000",
+        "meso:oktmo_code":"22648000",
         "wd:id":"Q1654853"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902957,
     "wof:geomhash":"8e3c9904f6799b6bdadd082c4166a5a9",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108736443,
-    "wof:lastmodified":1694639776,
+    "wof:lastmodified":1695886365,
     "wof:name":"Sergachskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

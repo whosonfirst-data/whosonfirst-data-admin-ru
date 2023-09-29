@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.159964,
-    "geom:area_square_m":1076527956.165189,
+    "geom:area_square_m":1076528029.452114,
     "geom:bbox":"40.58573,56.819836,41.433909,57.203607",
     "geom:latitude":57.026203,
     "geom:longitude":41.005518,
@@ -139,15 +139,21 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":555207,
+        "meso:okato_code":"24207000",
+        "meso:oktmo_code":"24607000",
         "qs_pg:id":1029865,
         "wd:id":"Q2389520"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054388,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aa53df6ffa70ce33f8d8519b6028c0ba",
+    "wof:geomhash":"9bb41d1a24e340fb9689b676ccdfc0eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":890481975,
-    "wof:lastmodified":1690860032,
+    "wof:lastmodified":1695886475,
     "wof:name":"Ivanovskiy",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

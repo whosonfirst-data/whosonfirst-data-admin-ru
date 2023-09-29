@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.193798,
-    "geom:area_square_m":1443767734.009504,
+    "geom:area_square_m":1443767820.38635,
     "geom:bbox":"48.312539,52.658415,49.107488,53.240665",
     "geom:latitude":52.951609,
     "geom:longitude":48.697213,
@@ -151,16 +151,22 @@
     "wof:concordances":{
         "gp:id":12598622,
         "hasc:id":"RU.SA.PV",
+        "meso:okato_code":"36236000",
+        "meso:oktmo_code":"36636000",
         "qs_pg:id":1017277,
         "wd:id":"Q1774555",
         "wk:page":"Privolzhsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054478,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e47927499b6adf5871e46560350595b1",
+    "wof:geomhash":"792e2733d017f75eb849b13032a91a70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":890483687,
-    "wof:lastmodified":1690859898,
+    "wof:lastmodified":1695886453,
     "wof:name":"Privolzhskiy",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

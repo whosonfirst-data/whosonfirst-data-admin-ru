@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.CL.CL"
+        "hasc:id":"RU.CL.CL",
+        "meso:okato_code":"75401000",
+        "meso:oktmo_code":"75701000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900285,
     "wof:geomhash":"077fe9f62f96026797ae3f62fd1f8d9e",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733217,
-    "wof:lastmodified":1694639785,
+    "wof:lastmodified":1695886401,
     "wof:name":"Cheljabinskiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

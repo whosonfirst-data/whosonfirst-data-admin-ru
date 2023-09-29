@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046086,
-    "geom:area_square_m":300789372.279225,
+    "geom:area_square_m":300789612.54842,
     "geom:bbox":"60.216441,58.0186,60.746163,58.262484",
     "geom:latitude":58.14088,
     "geom:longitude":60.4811,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"65572000",
+        "meso:oktmo_code":"65765000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900901,
-    "wof:geomhash":"9bfbd96e41c3ce5c4b19a9533c8133b7",
+    "wof:geomhash":"9df8d70406862305f31815f53c504f79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108733905,
-    "wof:lastmodified":1627522736,
+    "wof:lastmodified":1695886438,
     "wof:name":"ZATO Svobodnyj",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

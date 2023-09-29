@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009221,
-    "geom:area_square_m":65547109.190099,
+    "geom:area_square_m":65547007.830372,
     "geom:bbox":"61.153252,54.848862,61.501522,54.957242",
     "geom:latitude":54.907066,
     "geom:longitude":61.377173,
@@ -118,11 +118,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"75233000",
+        "meso:oktmo_code":"75633000",
         "wd:id":"Q3816490"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901488,
-    "wof:geomhash":"9cd46809cca6fe24c879dfce2f54f023",
+    "wof:geomhash":"3c3f25e3020e00b6c91c3ccff428082c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":1108734591,
-    "wof:lastmodified":1690859670,
+    "wof:lastmodified":1695886262,
     "wof:name":"Korkinskiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

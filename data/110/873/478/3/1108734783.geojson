@@ -116,8 +116,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.IR.KU",
+        "meso:okato_code":"25222000",
+        "meso:oktmo_code":"25622000",
         "wd:id":"Q1652798"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901650,
     "wof:geomhash":"dbbabce796b6435a4c096195405fc06b",
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":1108734783,
-    "wof:lastmodified":1694492745,
+    "wof:lastmodified":1695886287,
     "wof:name":"Kujtunskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

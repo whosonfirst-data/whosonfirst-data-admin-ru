@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.AD.TE"
+        "hasc:id":"RU.AD.TE",
+        "meso:okato_code":"79403000",
+        "meso:oktmo_code":"79703000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899727,
     "wof:geomhash":"1e774d50dd027d2b601fd9725dac4226",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108732621,
-    "wof:lastmodified":1694639725,
+    "wof:lastmodified":1695886176,
     "wof:name":"Adygejsk",
     "wof:parent_id":85688135,
     "wof:placetype":"county",

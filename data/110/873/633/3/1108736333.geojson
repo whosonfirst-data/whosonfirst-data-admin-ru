@@ -161,8 +161,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.DA.RU",
+        "meso:okato_code":"82242000",
+        "meso:oktmo_code":"82642000",
         "wd:id":"Q1439184"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902871,
     "wof:geomhash":"2402e6b85d5b9c0620641733ba71cbc0",
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":1108736333,
-    "wof:lastmodified":1694639683,
+    "wof:lastmodified":1695886223,
     "wof:name":"Rutul'skiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

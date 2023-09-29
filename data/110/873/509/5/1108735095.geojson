@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SK.ME",
+        "meso:okato_code":"98229000",
+        "meso:oktmo_code":"98629000",
         "wd:id":"Q1094910"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901915,
     "wof:geomhash":"8bf8ddb6a08e7f0c8411df444d91a50a",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108735095,
-    "wof:lastmodified":1694639756,
+    "wof:lastmodified":1695886301,
     "wof:name":"Megino-Kangalasskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",

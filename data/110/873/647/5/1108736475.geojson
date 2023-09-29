@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01403,
-    "geom:area_square_m":97906668.966479,
+    "geom:area_square_m":97906725.251033,
     "geom:bbox":"109.211699,55.566264,109.426871,55.71889",
     "geom:latitude":55.64303,
     "geom:longitude":109.31833,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"81420000",
+        "meso:oktmo_code":"81720000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902988,
-    "wof:geomhash":"83ff670cf9c64f8455d398a4163b5d9f",
+    "wof:geomhash":"880f8fa7c9791179b5d662fca703528e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736475,
-    "wof:lastmodified":1627522681,
+    "wof:lastmodified":1695886368,
     "wof:name":"Severobajkal'sk",
     "wof:parent_id":85688207,
     "wof:placetype":"county",

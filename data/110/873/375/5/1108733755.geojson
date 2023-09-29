@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001635,
-    "geom:area_square_m":14894119.356899,
+    "geom:area_square_m":14894119.356894,
     "geom:bbox":"47.8448323607,42.5241012679,47.9079798995,42.5853816417",
     "geom:latitude":42.553377,
     "geom:longitude":47.873094,
@@ -200,10 +200,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"82415000",
+        "meso:oktmo_code":"82715000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900777,
-    "wof:geomhash":"e7cb323e3ed3230269a1ef7fbe31463a",
+    "wof:geomhash":"7321a614bc0d144512c547f292236af6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -214,7 +221,7 @@
         }
     ],
     "wof:id":1108733755,
-    "wof:lastmodified":1566627381,
+    "wof:lastmodified":1695886270,
     "wof:name":"Izberbash",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

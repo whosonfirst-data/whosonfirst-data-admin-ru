@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.633287,
-    "geom:area_square_m":4226488492.189517,
+    "geom:area_square_m":4226488440.823071,
     "geom:bbox":"57.940537,57.011523,59.399134,57.696396",
     "geom:latitude":57.334453,
     "geom:longitude":58.586184,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"65257000",
+        "meso:oktmo_code":"65727000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903004,
-    "wof:geomhash":"9db7e9bec09af70585f8e57bed3cbd5e",
+    "wof:geomhash":"e877ed30c230df1248484561a3b5fca4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108736499,
-    "wof:lastmodified":1627522682,
+    "wof:lastmodified":1695886370,
     "wof:name":"Shalinskiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

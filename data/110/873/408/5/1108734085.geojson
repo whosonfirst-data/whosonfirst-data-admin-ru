@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":27.720932,
-    "geom:area_square_m":117337829125.2323,
+    "geom:area_square_m":117337828724.034683,
     "geom:bbox":"66.386192,66.434586,73.629059,73.489586",
     "geom:latitude":69.972719,
     "geom:longitude":70.346902,
@@ -127,11 +127,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"71168000",
+        "meso:oktmo_code":"71928000",
         "wd:id":"Q2703611"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901053,
-    "wof:geomhash":"e7dbbc76ba2e180f1c59c3ae59232eb3",
+    "wof:geomhash":"2652aa07acaccae9bad897ee6d890bc5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":1108734085,
-    "wof:lastmodified":1690859442,
+    "wof:lastmodified":1695886225,
     "wof:name":"Jamal'skiy",
     "wof:parent_id":85687931,
     "wof:placetype":"county",

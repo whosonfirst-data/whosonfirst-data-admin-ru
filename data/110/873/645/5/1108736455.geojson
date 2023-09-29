@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.088397,
-    "geom:area_square_m":6786612088.768541,
+    "geom:area_square_m":6786611576.615702,
     "geom:bbox":"60.186981,59.149571,61.790862,60.24832",
     "geom:latitude":59.716627,
     "geom:longitude":60.975074,
@@ -91,11 +91,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"65492000",
+        "meso:oktmo_code":"65756000",
         "wd:id":"Q4417741"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902969,
-    "wof:geomhash":"8f59d65fc17c3a8f6210656de1690b10",
+    "wof:geomhash":"92d65bdb29f1522edd132bed6a8102e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1108736455,
-    "wof:lastmodified":1627522679,
+    "wof:lastmodified":1695886365,
     "wof:name":"Serovskiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

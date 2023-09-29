@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VO.CH",
+        "meso:okato_code":"19254000",
+        "meso:oktmo_code":"19654000",
         "wd:id":"Q2722310"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900243,
     "wof:geomhash":"223c8ff3b1b66724c2dc207eb56ffb92",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108733171,
-    "wof:lastmodified":1694639733,
+    "wof:lastmodified":1695886211,
     "wof:name":"Chagodoshhenskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",

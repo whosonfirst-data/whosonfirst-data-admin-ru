@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.DA.NG"
+        "hasc:id":"RU.DA.NG",
+        "meso:okato_code":"82438000",
+        "meso:oktmo_code":"82738000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900781,
     "wof:geomhash":"f8ce10b97227cd8fe12274ea90e79acb",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733761,
-    "wof:lastmodified":1694639741,
+    "wof:lastmodified":1695886249,
     "wof:name":"Juzhno-Sukhokumsk",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

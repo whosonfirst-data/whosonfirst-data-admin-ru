@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003419,
-    "geom:area_square_m":24250694.224407,
+    "geom:area_square_m":24250686.940675,
     "geom:bbox":"82.610829,54.977142,82.731619,55.024645",
     "geom:latitude":55.001623,
     "geom:longitude":82.67152,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"50417000",
+        "meso:oktmo_code":"50717000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902292,
-    "wof:geomhash":"1e58b68b7b2b80b01846da192e5212d5",
+    "wof:geomhash":"e41f9186d754b3b3bceacca8bd9db634",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108735583,
-    "wof:lastmodified":1627522646,
+    "wof:lastmodified":1695886324,
     "wof:name":"Ob'",
     "wof:parent_id":85687925,
     "wof:placetype":"county",

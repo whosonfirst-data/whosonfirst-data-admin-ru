@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.173805,
-    "geom:area_square_m":1520342636.878486,
+    "geom:area_square_m":1520342710.155396,
     "geom:bbox":"40.090913,44.695083,41.021623,45.220266",
     "geom:latitude":44.974243,
     "geom:longitude":40.611364,
@@ -121,11 +121,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"03227000",
+        "meso:oktmo_code":"03627000",
         "wd:id":"Q918134"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901691,
-    "wof:geomhash":"6a840e21eb29073bb14d13b4c7b3b0b9",
+    "wof:geomhash":"d89e54cbcaa4be3a6aca013e1dbdaa27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1108734825,
-    "wof:lastmodified":1690859391,
+    "wof:lastmodified":1695886289,
     "wof:name":"Kurganinskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

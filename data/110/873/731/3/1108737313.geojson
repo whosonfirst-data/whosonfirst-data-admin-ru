@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BL.VE",
+        "meso:okato_code":"14225000",
+        "meso:oktmo_code":"14625000",
         "wd:id":"Q246832"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903678,
     "wof:geomhash":"e59da562b483513296e3ce1f8797bd52",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108737313,
-    "wof:lastmodified":1694639792,
+    "wof:lastmodified":1695886424,
     "wof:name":"Vejdelevskiy",
     "wof:parent_id":85687813,
     "wof:placetype":"county",

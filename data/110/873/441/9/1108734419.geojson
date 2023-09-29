@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.ME.KI",
+        "meso:okato_code":"88216000",
+        "meso:oktmo_code":"88616000",
         "wd:id":"Q394362"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901344,
     "wof:geomhash":"3767b65425614feb08bb4820ef4705ba",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108734419,
-    "wof:lastmodified":1694639746,
+    "wof:lastmodified":1695886267,
     "wof:name":"Kilemarskiy",
     "wof:parent_id":85688043,
     "wof:placetype":"county",

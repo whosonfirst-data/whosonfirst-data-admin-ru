@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VR.KH",
+        "meso:okato_code":"20256000",
+        "meso:oktmo_code":"20656000",
         "wd:id":"Q1970230"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901297,
     "wof:geomhash":"336ae7092fa15778d5719bc649788aab",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108734371,
-    "wof:lastmodified":1694639745,
+    "wof:lastmodified":1695886265,
     "wof:name":"Khokhol'skiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

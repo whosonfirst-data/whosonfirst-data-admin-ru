@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PZ.ZE",
+        "meso:okato_code":"56223000",
+        "meso:oktmo_code":"56623000",
         "wd:id":"Q659270"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903869,
     "wof:geomhash":"8c6059cf9e097968a4220d845263b38a",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108738039,
-    "wof:lastmodified":1694639796,
+    "wof:lastmodified":1695886439,
     "wof:name":"Zemetchinskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",

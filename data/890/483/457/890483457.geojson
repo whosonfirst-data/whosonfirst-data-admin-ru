@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.259345,
-    "geom:area_square_m":1808796465.494123,
+    "geom:area_square_m":1808795830.681682,
     "geom:bbox":"38.591634,55.386198,39.523829,55.94883",
     "geom:latitude":55.664175,
     "geom:longitude":39.052427,
@@ -175,16 +175,22 @@
     "wof:concordances":{
         "gp:id":12598759,
         "hasc:id":"RU.MS.OZ",
+        "meso:okato_code":"46243000",
+        "meso:oktmo_code":"46643000",
         "qs_pg:id":985937,
         "wd:id":"Q2709587",
         "wk:page":"Orekhovo-Zuyevsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054467,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c6725a7089ad67b18b5c250302cee81a",
+    "wof:geomhash":"0a112330763d42394f934a89b8ef6774",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -195,7 +201,7 @@
         }
     ],
     "wof:id":890483457,
-    "wof:lastmodified":1690859922,
+    "wof:lastmodified":1695886458,
     "wof:name":"Orekhovo-Zuevskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

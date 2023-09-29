@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.336683,
-    "geom:area_square_m":2748385008.488008,
+    "geom:area_square_m":2748385200.062444,
     "geom:bbox":"39.661894,48.503739,41.276348,48.859188",
     "geom:latitude":48.687202,
     "geom:longitude":40.419845,
@@ -152,16 +152,22 @@
     "wof:concordances":{
         "gp:id":12599143,
         "hasc:id":"RU.RO.TR",
+        "meso:okato_code":"60253000",
+        "meso:oktmo_code":"60653000",
         "qs_pg:id":1119194,
         "wd:id":"Q2220885",
         "wk:page":"Tarasovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054514,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"274e0c8909256cdd7542e66b47620331",
+    "wof:geomhash":"9435f7bbe759057672588e10d2e08564",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,7 +178,7 @@
         }
     ],
     "wof:id":890484451,
-    "wof:lastmodified":1690859947,
+    "wof:lastmodified":1695886466,
     "wof:name":"Tarasovskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

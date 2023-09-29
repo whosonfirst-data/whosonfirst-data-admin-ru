@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.496699,
-    "geom:area_square_m":62918864048.460068,
+    "geom:area_square_m":62918863169.217834,
     "geom:bbox":"155.649109,55.664624,162.284335,60.052134",
     "geom:latitude":57.595447,
     "geom:longitude":158.821954,
@@ -124,11 +124,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"30132000",
+        "meso:oktmo_code":"30832000",
         "wd:id":"Q1042950"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903431,
-    "wof:geomhash":"ebf090c0d3ae5bb367be89d0fbd6acd8",
+    "wof:geomhash":"61cfcbca7386ba4e74e2cdbccd2906d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":1108737011,
-    "wof:lastmodified":1690859342,
+    "wof:lastmodified":1695886214,
     "wof:name":"Tigil'skiy",
     "wof:parent_id":85687955,
     "wof:placetype":"county",

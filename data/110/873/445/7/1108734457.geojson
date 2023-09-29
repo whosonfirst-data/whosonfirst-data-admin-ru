@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TB.KR",
+        "meso:okato_code":"68405000",
+        "meso:oktmo_code":"68610000",
         "wd:id":"Q645518"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901373,
     "wof:geomhash":"aac5116baf5d758c66e1ba966c46d109",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108734457,
-    "wof:lastmodified":1694639747,
+    "wof:lastmodified":1695886269,
     "wof:name":"Kirsanovskiy",
     "wof:parent_id":85687829,
     "wof:placetype":"county",

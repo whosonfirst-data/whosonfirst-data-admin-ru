@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.PE.KZ"
+        "hasc:id":"RU.PE.KZ",
+        "meso:okato_code":"57418000",
+        "meso:oktmo_code":"57623000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901379,
     "wof:geomhash":"00d529286dac33b493eec9bc5d7f715e",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108734465,
-    "wof:lastmodified":1694639747,
+    "wof:lastmodified":1695886269,
     "wof:name":"Kizelovskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

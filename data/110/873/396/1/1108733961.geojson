@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.KN.GV"
+        "hasc:id":"RU.KN.GV",
+        "meso:okato_code":"27206000",
+        "meso:oktmo_code":"27606000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900940,
     "wof:geomhash":"844561bf3f607eea81276d993b7a44a3",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733961,
-    "wof:lastmodified":1694639740,
+    "wof:lastmodified":1695886241,
     "wof:name":"Gvardejskiy",
     "wof:parent_id":85688215,
     "wof:placetype":"county",

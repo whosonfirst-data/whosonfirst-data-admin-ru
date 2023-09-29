@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001336,
-    "geom:area_square_m":7912276.06197,
+    "geom:area_square_m":7912335.427561,
     "geom:bbox":"61.938782,61.370838,61.984803,61.417199",
     "geom:latitude":61.392961,
     "geom:longitude":61.963163,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"65428000",
+        "meso:oktmo_code":"65738000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901017,
-    "wof:geomhash":"9542d5c08d126eb4635f65d8c4f55941",
+    "wof:geomhash":"2cb9c22ce742279166ecb3d614de8265",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108734045,
-    "wof:lastmodified":1627522581,
+    "wof:lastmodified":1695886251,
     "wof:name":"Ivdel'skiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

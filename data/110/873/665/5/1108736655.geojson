@@ -122,8 +122,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.IR.SL",
+        "meso:okato_code":"25234000",
+        "meso:oktmo_code":"25634000",
         "wd:id":"Q2217090"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903127,
     "wof:geomhash":"e3a6935c55ffa655c717fae0ac83081f",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1108736655,
-    "wof:lastmodified":1694492772,
+    "wof:lastmodified":1695886379,
     "wof:name":"Sljudjanskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

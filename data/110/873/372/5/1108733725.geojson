@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SV.RE"
+        "hasc:id":"RU.SV.RE",
+        "meso:okato_code":"65484000",
+        "meso:oktmo_code":"65736000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900758,
     "wof:geomhash":"b94568fd6bdeb55c0b9b530a901fccd6",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733725,
-    "wof:lastmodified":1694639736,
+    "wof:lastmodified":1695886222,
     "wof:name":"Degtjarsk",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

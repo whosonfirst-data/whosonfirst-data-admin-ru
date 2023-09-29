@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043478,
-    "geom:area_square_m":251047560.36875,
+    "geom:area_square_m":251047490.236231,
     "geom:bbox":"77.240572,62.047147,77.613815,62.297941",
     "geom:latitude":62.162327,
     "geom:longitude":77.433756,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"71137000",
+        "meso:oktmo_code":"71877000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900703,
-    "wof:geomhash":"0a83c9e8507e8b79ed9bba4d9714fa47",
+    "wof:geomhash":"0d61a38806b0c2b79e9793d1fe439421",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108733669,
-    "wof:lastmodified":1627522670,
+    "wof:lastmodified":1695886353,
     "wof:name":"Raduzhnyj",
     "wof:parent_id":85687919,
     "wof:placetype":"county",

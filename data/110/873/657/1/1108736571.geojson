@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101789,
-    "geom:area_square_m":703614028.557965,
+    "geom:area_square_m":703613996.498247,
     "geom:bbox":"37.89759,55.815925,38.53709,56.22474",
     "geom:latitude":56.011285,
     "geom:longitude":38.212568,
@@ -133,11 +133,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"46259000",
+        "meso:oktmo_code":"46659000",
         "wd:id":"Q2624366"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903059,
-    "wof:geomhash":"3071977926f7d7f321c7b791f665a97d",
+    "wof:geomhash":"54cc6d25a889823ff12f69125c59fb39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":1108736571,
-    "wof:lastmodified":1690859478,
+    "wof:lastmodified":1695886374,
     "wof:name":"Shhjolkovskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

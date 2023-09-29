@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.MR.ST",
+        "meso:okato_code":"89246000",
+        "meso:oktmo_code":"89646000",
         "wd:id":"Q940925"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903241,
     "wof:geomhash":"3eb6e36401d17356acc1edc15efcf051",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108736805,
-    "wof:lastmodified":1694639783,
+    "wof:lastmodified":1695886387,
     "wof:name":"Staroshajgovskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00143,
-    "geom:area_square_m":9611208.786238,
+    "geom:area_square_m":9611170.873421,
     "geom:bbox":"61.640622,57.063277,61.691729,57.104617",
     "geom:latitude":57.084207,
     "geom:longitude":61.668192,
@@ -77,10 +77,13 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:oktmo_code":"65763000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
     "wof:country":"RU",
     "wof:created":1478902830,
-    "wof:geomhash":"5bef843069b51a42baa073dc963551ff",
+    "wof:geomhash":"c2adc251e2bbbcb43e103a51e3adc80a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108736277,
-    "wof:lastmodified":1627522671,
+    "wof:lastmodified":1695886355,
     "wof:name":"Reftinskiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.254732,
-    "geom:area_square_m":1746897692.932519,
+    "geom:area_square_m":1746897830.27058,
     "geom:bbox":"45.86871,56.029848,46.831617,56.644276",
     "geom:latitude":56.316407,
     "geom:longitude":46.430866,
@@ -139,11 +139,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"88415000",
+        "meso:oktmo_code":"88608000",
         "wd:id":"Q312438"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900616,
-    "wof:geomhash":"2a51476a3a83b2975516368f8a6da9a4",
+    "wof:geomhash":"67f2b4b5fd05e0b0a07af82de38db3f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":1108733613,
-    "wof:lastmodified":1690859531,
+    "wof:lastmodified":1695886237,
     "wof:name":"Gornomarijskiy",
     "wof:parent_id":85688043,
     "wof:placetype":"county",

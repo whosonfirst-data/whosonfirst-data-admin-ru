@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.185253,
-    "geom:area_square_m":1431609589.566432,
+    "geom:area_square_m":1431609790.292133,
     "geom:bbox":"58.351527,51.010764,59.091304,52.048188",
     "geom:latitude":51.319472,
     "geom:longitude":58.702829,
@@ -247,14 +247,20 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598943,
+        "meso:okato_code":"53423000",
+        "meso:oktmo_code":"53723000",
         "qs_pg:id":911327
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054459,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8273b5acdb2900e9e4970547212b9726",
+    "wof:geomhash":"5f2e1858f8b0c809612bf5c6fee0aa6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -265,7 +271,7 @@
         }
     ],
     "wof:id":890483303,
-    "wof:lastmodified":1642541493,
+    "wof:lastmodified":1695886454,
     "wof:name":"Orsk",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

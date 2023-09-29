@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.281625,
-    "geom:area_square_m":9993479621.87812,
+    "geom:area_square_m":9993479906.357754,
     "geom:bbox":"128.490779,50.346539,131.196887,51.399398",
     "geom:latitude":50.905102,
     "geom:longitude":130.012343,
@@ -154,15 +154,21 @@
     "wof:concordances":{
         "gn:id":2017411,
         "hasc:id":"RU.AM.RO",
+        "meso:okato_code":"10240000",
+        "meso:oktmo_code":"10640000",
         "qs_pg:id":90396,
         "wd:id":"Q955346"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054684,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ed22018bc2e4e6d2eb5f3d87fe3e25f4",
+    "wof:geomhash":"d095b032acc96fb8c3b544eb99f273ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":890487649,
-    "wof:lastmodified":1690860101,
+    "wof:lastmodified":1695886482,
     "wof:name":"Romnenskiy",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OM.ZN",
+        "meso:okato_code":"52212000",
+        "meso:oktmo_code":"52612000",
         "wd:id":"Q4024612"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903914,
     "wof:geomhash":"7caf125e7307bf48f4de56cab1dc6fa9",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108738293,
-    "wof:lastmodified":1694639796,
+    "wof:lastmodified":1695886442,
     "wof:name":"Znamenskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

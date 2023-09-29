@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KG.MA",
+        "meso:okato_code":"29223000",
+        "meso:oktmo_code":"29623000",
         "wd:id":"Q12226786"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901863,
     "wof:geomhash":"0e485256e75a8f6e3b6d6190a173cd9a",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108735035,
-    "wof:lastmodified":1694639755,
+    "wof:lastmodified":1695886299,
     "wof:name":"Malojaroslaveckij",
     "wof:parent_id":85688131,
     "wof:placetype":"county",

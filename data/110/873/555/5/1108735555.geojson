@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033648,
-    "geom:area_square_m":243702276.960149,
+    "geom:area_square_m":243702377.731485,
     "geom:bbox":"48.287583,54.047779,48.63078,54.242113",
     "geom:latitude":54.144808,
     "geom:longitude":48.457863,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"73415000",
+        "meso:oktmo_code":"73715000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902265,
-    "wof:geomhash":"c1c3cda37da127f39517b77dcfc5819a",
+    "wof:geomhash":"6dffe6a60bfa8994d55192c0591a5f7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108735555,
-    "wof:lastmodified":1627522643,
+    "wof:lastmodified":1695886322,
     "wof:name":"Novoul'janovsk",
     "wof:parent_id":85687907,
     "wof:placetype":"county",

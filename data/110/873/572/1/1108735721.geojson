@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001771,
-    "geom:area_square_m":12299569.144119,
+    "geom:area_square_m":12299662.020088,
     "geom:bbox":"37.582947,55.796924,37.646211,55.854881",
     "geom:latitude":55.828832,
     "geom:longitude":37.618351,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45280572",
+        "meso:oktmo_code":"45358000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902401,
-    "wof:geomhash":"1803501fc8bf1ff8caf82f9a387562c2",
+    "wof:geomhash":"931f0a50c6ed03e2998533bea964f1d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108735721,
-    "wof:lastmodified":1627522653,
+    "wof:lastmodified":1695886333,
     "wof:name":"Ostankinskiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KS.BO",
+        "meso:okato_code":"38203000",
+        "meso:oktmo_code":"38603000",
         "wd:id":"Q2629994"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900157,
     "wof:geomhash":"7f82f7ff6342afa5a0079794f7aefe8f",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108733077,
-    "wof:lastmodified":1694639732,
+    "wof:lastmodified":1695886204,
     "wof:name":"Bol'shesoldatskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

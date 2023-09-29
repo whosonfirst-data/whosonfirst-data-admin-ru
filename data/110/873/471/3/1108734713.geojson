@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BL.KY",
+        "meso:okato_code":"14243000",
+        "meso:oktmo_code":"14643000",
         "wd:id":"Q2217171"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901587,
     "wof:geomhash":"658261b08105e1bf54b25f37d09327fc",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108734713,
-    "wof:lastmodified":1694639750,
+    "wof:lastmodified":1695886282,
     "wof:name":"Krasnojaruzhskiy",
     "wof:parent_id":85687813,
     "wof:placetype":"county",

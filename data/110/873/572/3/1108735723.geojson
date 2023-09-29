@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VR.OG",
+        "meso:okato_code":"20231000",
+        "meso:oktmo_code":"20631000",
         "wd:id":"Q1653925"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902403,
     "wof:geomhash":"5a762d2049e44c45b11e83fd663f69f1",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108735723,
-    "wof:lastmodified":1694639766,
+    "wof:lastmodified":1695886333,
     "wof:name":"Ostrogozhskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

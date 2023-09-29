@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.196605,
-    "geom:area_square_m":1406899520.038431,
+    "geom:area_square_m":1406899578.455131,
     "geom:bbox":"72.707009,54.316478,73.502581,54.922761",
     "geom:latitude":54.639378,
     "geom:longitude":73.027229,
@@ -129,11 +129,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"52201000",
+        "meso:oktmo_code":"52601000",
         "wd:id":"Q766317"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899907,
-    "wof:geomhash":"b94e0987c441157c39010c046c708eb7",
+    "wof:geomhash":"c1f6b9da1c01ff8b1eddfd6a2a88a8ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,7 +150,7 @@
         }
     ],
     "wof:id":1108732825,
-    "wof:lastmodified":1690859611,
+    "wof:lastmodified":1695886240,
     "wof:name":"Azovskiy Nemeckij Nacional'nyj",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

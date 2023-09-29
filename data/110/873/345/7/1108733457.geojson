@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VR.ER",
+        "meso:okato_code":"20258000",
+        "meso:oktmo_code":"20658000",
         "wd:id":"Q4025627"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900485,
     "wof:geomhash":"40f9118cb4a8a4da2c6bb732b819145f",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108733457,
-    "wof:lastmodified":1694639738,
+    "wof:lastmodified":1695886231,
     "wof:name":"EHrtil'skiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

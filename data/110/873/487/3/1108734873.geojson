@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.023326,
-    "geom:area_square_m":7815424407.141287,
+    "geom:area_square_m":7815423685.3302,
     "geom:bbox":"93.338078,51.129749,95.964553,52.476634",
     "geom:latitude":51.855186,
     "geom:longitude":94.684923,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"93222000",
+        "meso:oktmo_code":"93622000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901741,
-    "wof:geomhash":"7f17974148ce440f2a262c1055c57c64",
+    "wof:geomhash":"a08c3671ae54ced0cca92c6f9dc28a1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108734873,
-    "wof:lastmodified":1627522617,
+    "wof:lastmodified":1695886291,
     "wof:name":"Kyzylskiy",
     "wof:parent_id":85688039,
     "wof:placetype":"county",

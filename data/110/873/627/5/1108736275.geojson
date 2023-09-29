@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AL.RE",
+        "meso:okato_code":"01235000",
+        "meso:oktmo_code":"01635000",
         "wd:id":"Q1822738"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902824,
     "wof:geomhash":"af3cdf08e4457c9c46b4e83bf45dea73",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108736275,
-    "wof:lastmodified":1694639773,
+    "wof:lastmodified":1695886355,
     "wof:name":"Rebrikhinskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

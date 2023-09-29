@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005674,
-    "geom:area_square_m":39421256.138808,
+    "geom:area_square_m":39421140.231629,
     "geom:bbox":"38.9145,55.778815,39.048787,55.850309",
     "geom:latitude":55.811783,
     "geom:longitude":38.986432,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"46457000",
+        "meso:oktmo_code":"46757000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900849,
-    "wof:geomhash":"ee4498c88f6b749f29529573a6b7ec5a",
+    "wof:geomhash":"dfebbfbb2dd6804e3c7c5becb0c6b261",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108733837,
-    "wof:lastmodified":1636497192,
+    "wof:lastmodified":1695886732,
     "wof:name":"Orekhovo-Zuevo",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

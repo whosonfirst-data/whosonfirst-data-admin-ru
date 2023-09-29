@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.49267,
-    "geom:area_square_m":3029903295.512212,
+    "geom:area_square_m":3029903317.692877,
     "geom:bbox":"29.920739,59.765504,31.114847,60.52402",
     "geom:latitude":60.174285,
     "geom:longitude":30.577545,
@@ -181,16 +181,22 @@
     "wof:concordances":{
         "gp:id":12598666,
         "hasc:id":"RU.LN.VV",
+        "meso:okato_code":"41212000",
+        "meso:oktmo_code":"41612000",
         "qs_pg:id":1209299,
         "wd:id":"Q1036323",
         "wk:page":"Vsevolozhsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054282,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"063b5bd71aaa837a08de3577eb0a644d",
+    "wof:geomhash":"b9d8c60d309ff49f4ace92334c48644f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,7 +207,7 @@
         }
     ],
     "wof:id":890480071,
-    "wof:lastmodified":1690860124,
+    "wof:lastmodified":1695886488,
     "wof:name":"Vsevolozhskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",

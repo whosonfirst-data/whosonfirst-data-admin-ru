@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041143,
-    "geom:area_square_m":304650797.324345,
+    "geom:area_square_m":304650770.14807,
     "geom:bbox":"44.834885,53.101282,45.230863,53.288911",
     "geom:latitude":53.214118,
     "geom:longitude":45.030663,
@@ -146,16 +146,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12599011,
+        "meso:okato_code":"56401000",
+        "meso:oktmo_code":"56701000",
         "qs_pg:id":1105866,
         "wd:id":"Q2217255",
         "wk:page":"Kolyshleysky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054509,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a231dfe4632b60b1a53d86863842c9b9",
+    "wof:geomhash":"2bd8a97b04c82b2dc322f2555ef19ad5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,7 +172,7 @@
         }
     ],
     "wof:id":890484333,
-    "wof:lastmodified":1690859943,
+    "wof:lastmodified":1695886465,
     "wof:name":"Penza",
     "wof:parent_id":85687999,
     "wof:placetype":"county",

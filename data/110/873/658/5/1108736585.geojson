@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007137,
-    "geom:area_square_m":54331291.863654,
+    "geom:area_square_m":54331261.849654,
     "geom:bbox":"127.629706,51.966677,127.785271,52.040141",
     "geom:latitude":52.003569,
     "geom:longitude":127.701923,
@@ -194,10 +194,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"10440000",
+        "meso:oktmo_code":"10740000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903068,
-    "wof:geomhash":"1e924ab03f4812e1404f15305502b930",
+    "wof:geomhash":"43e318b83f78333c43ef03d41632fa4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -208,7 +215,7 @@
         }
     ],
     "wof:id":1108736585,
-    "wof:lastmodified":1636497191,
+    "wof:lastmodified":1695886731,
     "wof:name":"Shimanovsk",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

@@ -179,8 +179,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.DA.TM",
+        "meso:okato_code":"82257000",
+        "meso:oktmo_code":"82657000",
         "wd:id":"Q2556844"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900368,
     "wof:geomhash":"d948e44dc1f9cd63420744b52ba712f6",
@@ -194,7 +200,7 @@
         }
     ],
     "wof:id":1108733317,
-    "wof:lastmodified":1694639789,
+    "wof:lastmodified":1695886411,
     "wof:name":"Cumadinskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.295435,
-    "geom:area_square_m":53022134872.44529,
+    "geom:area_square_m":53022134646.056831,
     "geom:bbox":"33.468982,66.373802,41.412083,69.058308",
     "geom:latitude":67.688399,
     "geom:longitude":37.504328,
@@ -136,11 +136,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"47210000",
+        "meso:oktmo_code":"47610000",
         "wd:id":"Q388429"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901830,
-    "wof:geomhash":"5d66a1ce89838409419910e4543864ea",
+    "wof:geomhash":"0a51cd42fb0f010577260b19b5ae577d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":1108734989,
-    "wof:lastmodified":1690859474,
+    "wof:lastmodified":1695886229,
     "wof:name":"Lovozerskiy",
     "wof:parent_id":85687869,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.388226,
-    "geom:area_square_m":2513888081.264745,
+    "geom:area_square_m":2513887957.560228,
     "geom:bbox":"32.55017,58.05816,33.723684,58.75844",
     "geom:latitude":58.420944,
     "geom:longitude":33.176494,
@@ -163,16 +163,22 @@
     "wof:concordances":{
         "gp:id":12598828,
         "hasc:id":"RU.NG.OK",
+        "meso:okato_code":"49228000",
+        "meso:oktmo_code":"49628000",
         "qs_pg:id":989715,
         "wd:id":"Q2624583",
         "wk:page":"Okulovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054468,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3360f32ac56bcb54c0b12655ec2ab312",
+    "wof:geomhash":"d22563033fde58c1639ba844a4acf33e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":890483473,
-    "wof:lastmodified":1690859917,
+    "wof:lastmodified":1695886457,
     "wof:name":"Okulovskiy",
     "wof:parent_id":85688095,
     "wof:placetype":"county",

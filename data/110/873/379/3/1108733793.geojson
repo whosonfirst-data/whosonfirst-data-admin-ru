@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023465,
-    "geom:area_square_m":161532908.30234,
+    "geom:area_square_m":161532810.372715,
     "geom:bbox":"38.074456,56.071082,38.436249,56.270675",
     "geom:latitude":56.169775,
     "geom:longitude":38.25889,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"46443000",
+        "meso:oktmo_code":"46743000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900802,
-    "wof:geomhash":"90c5082c7d981e2b7cc0465295d19739",
+    "wof:geomhash":"43ca5a39276c9058bccf9d0686dc6a0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108733793,
-    "wof:lastmodified":1627522607,
+    "wof:lastmodified":1695886279,
     "wof:name":"Krasnoarmejsk",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

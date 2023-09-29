@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.291562,
-    "geom:area_square_m":2459064898.533474,
+    "geom:area_square_m":2459064971.767265,
     "geom:bbox":"134.005629,46.633686,134.867988,47.30011",
     "geom:latitude":46.992913,
     "geom:longitude":134.363683,
@@ -148,15 +148,21 @@
     "wof:concordances":{
         "gn:id":2026693,
         "hasc:id":"RU.KH.BR",
+        "meso:okato_code":"08209000",
+        "meso:oktmo_code":"08609000",
         "qs_pg:id":1028361,
         "wd:id":"Q794911"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054254,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7fb8cc8eab936a6e14fa08c9988bd9f5",
+    "wof:geomhash":"23dde094878c3b3aa06c90a302dddaee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":890479631,
-    "wof:lastmodified":1690859991,
+    "wof:lastmodified":1695886471,
     "wof:name":"Bikinskiy",
     "wof:parent_id":85687937,
     "wof:placetype":"county",

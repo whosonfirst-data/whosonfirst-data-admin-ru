@@ -122,8 +122,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KY.KE",
+        "meso:okato_code":"04224000",
+        "meso:oktmo_code":"04624000",
         "wd:id":"Q285506"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901262,
     "wof:geomhash":"65f2c1d4155074649795ef230e5363d3",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1108734329,
-    "wof:lastmodified":1694492737,
+    "wof:lastmodified":1695886261,
     "wof:name":"Kezhemskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

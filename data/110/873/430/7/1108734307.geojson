@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KD.KV",
+        "meso:okato_code":"03218000",
+        "meso:oktmo_code":"03618000",
         "wd:id":"Q773858"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901249,
     "wof:geomhash":"94ae04e7b3a3bbddf5233f336cfba642",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108734307,
-    "wof:lastmodified":1694639744,
+    "wof:lastmodified":1695886260,
     "wof:name":"Kavkazskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

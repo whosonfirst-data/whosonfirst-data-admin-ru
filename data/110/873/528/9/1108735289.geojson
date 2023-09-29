@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06237,
-    "geom:area_square_m":431139196.279356,
+    "geom:area_square_m":431139146.71845,
     "geom:bbox":"37.44392,55.859747,37.85643,56.165362",
     "geom:latitude":56.010962,
     "geom:longitude":37.644998,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"46234000",
+        "meso:oktmo_code":"46634000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902086,
-    "wof:geomhash":"a2c2b65b529551ba34a8e27c09f1123d",
+    "wof:geomhash":"f4ff59bf102432156c6cbe710bcd02f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108735289,
-    "wof:lastmodified":1627522633,
+    "wof:lastmodified":1695886308,
     "wof:name":"Mytishhinskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SA.SI",
+        "meso:okato_code":"36250000",
+        "meso:oktmo_code":"36650000",
         "wd:id":"Q946998"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903062,
     "wof:geomhash":"692100eda56b1f15d5be33f69d44c746",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108736575,
-    "wof:lastmodified":1694639778,
+    "wof:lastmodified":1695886374,
     "wof:name":"Shigonskiy",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

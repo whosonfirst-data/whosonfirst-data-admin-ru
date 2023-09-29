@@ -147,8 +147,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.TY.IR"
+        "hasc:id":"RU.TY.IR",
+        "meso:okato_code":"71405000",
+        "meso:oktmo_code":"71705000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901003,
     "wof:geomhash":"f22f4780939ab46c2e035fdb79ddc7d1",
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":1108734025,
-    "wof:lastmodified":1694639806,
+    "wof:lastmodified":1695886734,
     "wof:name":"Ishim",
     "wof:parent_id":85687831,
     "wof:placetype":"county",

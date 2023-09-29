@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.256628,
-    "geom:area_square_m":2124654827.801478,
+    "geom:area_square_m":2124655192.666344,
     "geom:bbox":"39.711662,47.726187,40.617135,48.197345",
     "geom:latitude":47.967581,
     "geom:longitude":40.197344,
@@ -118,11 +118,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"60226000",
+        "meso:oktmo_code":"60626000",
         "wd:id":"Q2217449"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901615,
-    "wof:geomhash":"2169c76c08feebcc36794d6c19381f3e",
+    "wof:geomhash":"8d1f2feb8b989abfeeec09109c04bb3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":1108734737,
-    "wof:lastmodified":1690859618,
+    "wof:lastmodified":1695886260,
     "wof:name":"Krasnosulinskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

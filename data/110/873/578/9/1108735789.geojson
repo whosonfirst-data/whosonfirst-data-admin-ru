@@ -155,8 +155,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NZ.PR",
+        "meso:okato_code":"22242000",
+        "meso:oktmo_code":"22642000",
         "wd:id":"Q905450"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902457,
     "wof:geomhash":"9ba6dd5fd2e660a345a67d747de0d981",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1108735789,
-    "wof:lastmodified":1694639768,
+    "wof:lastmodified":1695886339,
     "wof:name":"Pavlovskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

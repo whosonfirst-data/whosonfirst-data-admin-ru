@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.196968,
-    "geom:area_square_m":1404914707.22709,
+    "geom:area_square_m":1404914530.21806,
     "geom:bbox":"38.797403,54.468081,40.025343,55.036128",
     "geom:latitude":54.771434,
     "geom:longitude":39.471165,
@@ -166,16 +166,22 @@
     "wof:concordances":{
         "gp:id":12599172,
         "hasc:id":"RU.RZ.RB",
+        "meso:okato_code":"61227000",
+        "meso:oktmo_code":"61627000",
         "qs_pg:id":1209319,
         "wd:id":"Q1654543",
         "wk:page":"Rybnovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054283,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8f8ad0c8eee9f74a081fb53d116bda14",
+    "wof:geomhash":"e28c11600e10ccd08ee045dee851e7ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,7 +192,7 @@
         }
     ],
     "wof:id":890480101,
-    "wof:lastmodified":1690860140,
+    "wof:lastmodified":1695886490,
     "wof:name":"Rybnovskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

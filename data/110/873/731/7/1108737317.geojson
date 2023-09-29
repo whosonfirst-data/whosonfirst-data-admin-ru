@@ -87,8 +87,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.PS.VG"
+        "hasc:id":"RU.PS.VG",
+        "meso:okato_code":"58410000",
+        "meso:oktmo_code":"58710000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903680,
     "wof:geomhash":"54484e5cf8b299dcc59fa6846c0528b8",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108737317,
-    "wof:lastmodified":1694639791,
+    "wof:lastmodified":1695886421,
     "wof:name":"Velikie Luki",
     "wof:parent_id":85688167,
     "wof:placetype":"county",

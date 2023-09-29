@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009958,
-    "geom:area_square_m":83789285.509505,
+    "geom:area_square_m":83789211.790952,
     "geom:bbox":"39.668501,47.036812,39.815853,47.17521",
     "geom:latitude":47.117462,
     "geom:longitude":39.754852,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"60407000",
+        "meso:oktmo_code":"60707000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899982,
-    "wof:geomhash":"088b7e6d545887d8e81daf2517df348e",
+    "wof:geomhash":"c25d3da3eb757556dd7787cc3935891a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108732903,
-    "wof:lastmodified":1627522541,
+    "wof:lastmodified":1695886193,
     "wof:name":"Batajsk",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

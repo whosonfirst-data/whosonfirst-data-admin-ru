@@ -155,8 +155,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TT.AN",
+        "meso:okato_code":"92213000",
+        "meso:oktmo_code":"92613000",
         "wd:id":"Q2220478"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899896,
     "wof:geomhash":"444759f2e549d5a04ab3c6973908d4a0",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1108732813,
-    "wof:lastmodified":1694639728,
+    "wof:lastmodified":1695886190,
     "wof:name":"Atninskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006868,
-    "geom:area_square_m":61040594.625949,
+    "geom:area_square_m":61040593.456357,
     "geom:bbox":"42.775848,43.998946,42.952771,44.075915",
     "geom:latitude":44.045414,
     "geom:longitude":42.86383,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"07410000",
+        "meso:oktmo_code":"07710000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900539,
-    "wof:geomhash":"12030d5990b66c6d554551dc4b0bb68d",
+    "wof:geomhash":"f784bd3f6a534023eb9938ef6a0e3f24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108733519,
-    "wof:lastmodified":1627522575,
+    "wof:lastmodified":1695886244,
     "wof:name":"Essentuki",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

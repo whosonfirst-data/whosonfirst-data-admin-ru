@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.ME.PA"
+        "hasc:id":"RU.ME.PA",
+        "meso:okato_code":"88244000",
+        "meso:oktmo_code":"88644000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902436,
     "wof:geomhash":"13afdc831e55a3c1762c55e8cc39d58a",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735763,
-    "wof:lastmodified":1694639768,
+    "wof:lastmodified":1695886338,
     "wof:name":"Paran'ginskiy",
     "wof:parent_id":85688043,
     "wof:placetype":"county",

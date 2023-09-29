@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.TL.AR"
+        "hasc:id":"RU.TL.AR",
+        "meso:okato_code":"70202000",
+        "meso:oktmo_code":"70702000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902658,
     "wof:geomhash":"ce6db97745dfb00eaac2ea26bd5f48ea",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108736043,
-    "wof:lastmodified":1694639773,
+    "wof:lastmodified":1695886354,
     "wof:name":"Rabochij Poselok Novogurovskiy",
     "wof:parent_id":85688203,
     "wof:placetype":"county",

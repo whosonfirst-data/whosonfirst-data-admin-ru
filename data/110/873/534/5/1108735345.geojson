@@ -122,8 +122,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CT.NE",
+        "meso:okato_code":"76230000",
+        "meso:oktmo_code":"76630000",
         "wd:id":"Q2216891"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902126,
     "wof:geomhash":"f173c755b5747c84e324722bfe720e46",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1108735345,
-    "wof:lastmodified":1694492753,
+    "wof:lastmodified":1695886311,
     "wof:name":"Nerchinsko-Zavodskiy",
     "wof:parent_id":85688005,
     "wof:placetype":"county",

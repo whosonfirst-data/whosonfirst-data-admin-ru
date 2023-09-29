@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.MR.RR",
+        "meso:okato_code":"89243000",
+        "meso:oktmo_code":"89643000",
         "wd:id":"Q264302"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902875,
     "wof:geomhash":"44694f743a56e362516c509143b3402f",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108736335,
-    "wof:lastmodified":1694639774,
+    "wof:lastmodified":1695886359,
     "wof:name":"Ruzaevskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",

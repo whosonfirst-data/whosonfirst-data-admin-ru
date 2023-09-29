@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062932,
-    "geom:area_square_m":377978300.466357,
+    "geom:area_square_m":377978300.466371,
     "geom:bbox":"76.3364688094,60.8233372358,76.7805180075,61.0585419422",
     "geom:latitude":60.939957,
     "geom:longitude":76.555093,
@@ -218,10 +218,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"71135000",
+        "meso:oktmo_code":"71875000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900679,
-    "wof:geomhash":"ea2e5ddde73e3d2c060db980a9dd0d1c",
+    "wof:geomhash":"e5cfd486651dc9b83c18284c93860feb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -232,7 +239,7 @@
         }
     ],
     "wof:id":1108733655,
-    "wof:lastmodified":1566626857,
+    "wof:lastmodified":1695886214,
     "wof:name":"Nizhnevartovsk",
     "wof:parent_id":85687919,
     "wof:placetype":"county",

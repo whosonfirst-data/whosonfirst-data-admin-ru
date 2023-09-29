@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071708,
-    "geom:area_square_m":659253315.6683,
+    "geom:area_square_m":659253366.95382,
     "geom:bbox":"47.072433,41.792369,47.407819,42.153723",
     "geom:latitude":41.968773,
     "geom:longitude":47.23726,
@@ -175,15 +175,21 @@
     "wof:concordances":{
         "gn:id":539432,
         "hasc:id":"RU.DA.KU",
+        "meso:okato_code":"82229000",
+        "meso:oktmo_code":"82629000",
         "qs_pg:id":549650,
         "wd:id":"Q1438456"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054695,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"778410bfa73dbd4c3c47b2fdfe5a6758",
+    "wof:geomhash":"3798b810c21264ff52fa4873699064c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,7 +200,7 @@
         }
     ],
     "wof:id":890487907,
-    "wof:lastmodified":1690860074,
+    "wof:lastmodified":1695886478,
     "wof:name":"Kulinskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

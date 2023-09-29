@@ -119,8 +119,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.IR.NI",
+        "meso:okato_code":"25226000",
+        "meso:oktmo_code":"25626000",
         "wd:id":"Q1653255"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902153,
     "wof:geomhash":"8e8e1aac5f30d03701013808c2737c6e",
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":1108735383,
-    "wof:lastmodified":1694492754,
+    "wof:lastmodified":1695886315,
     "wof:name":"Nizhneilimskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

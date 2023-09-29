@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VO.VA",
+        "meso:okato_code":"19212000",
+        "meso:oktmo_code":"19612000",
         "wd:id":"Q2218428"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903672,
     "wof:geomhash":"7883869365e625ea58c540ae82a7c01d",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108737305,
-    "wof:lastmodified":1694639791,
+    "wof:lastmodified":1695886420,
     "wof:name":"Vashkinskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",

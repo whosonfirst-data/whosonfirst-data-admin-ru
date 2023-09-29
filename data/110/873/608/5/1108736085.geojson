@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00125,
-    "geom:area_square_m":8700525.517899,
+    "geom:area_square_m":8700540.371769,
     "geom:bbox":"37.466799,55.728823,37.520179,55.768261",
     "geom:latitude":55.74961,
     "geom:longitude":37.494644,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45268595",
+        "meso:oktmo_code":"45328000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902686,
-    "wof:geomhash":"cb5179b79be84b992b7c364eabdd9556",
+    "wof:geomhash":"625d0d6f953821d2b481fbd0504b75ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108736085,
-    "wof:lastmodified":1627522568,
+    "wof:lastmodified":1695886235,
     "wof:name":"Filjovskiy Park",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

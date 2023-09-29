@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AS.YE",
+        "meso:okato_code":"12215000",
+        "meso:oktmo_code":"12615000",
         "wd:id":"Q2218187"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900524,
     "wof:geomhash":"6113a2ebd0ecff9e16bc96f24b15d7fc",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108733505,
-    "wof:lastmodified":1694639794,
+    "wof:lastmodified":1695886432,
     "wof:name":"Enotaevskiy",
     "wof:parent_id":85687985,
     "wof:placetype":"county",

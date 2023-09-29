@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.457993,
-    "geom:area_square_m":3241844228.74191,
+    "geom:area_square_m":3241844617.946525,
     "geom:bbox":"39.709437,54.793503,41.11113,55.361517",
     "geom:latitude":55.079178,
     "geom:longitude":40.440635,
@@ -154,16 +154,22 @@
     "wof:concordances":{
         "gp:id":12599161,
         "hasc:id":"RU.RZ.KL",
+        "meso:okato_code":"61210000",
+        "meso:oktmo_code":"61610000",
         "qs_pg:id":995607,
         "wd:id":"Q1652999",
         "wk:page":"Klepikovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054471,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7387366cc5a7bcf743b3417abb2881ae",
+    "wof:geomhash":"4847205651073e6437924fc567b8bef5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":890483545,
-    "wof:lastmodified":1690859907,
+    "wof:lastmodified":1695886454,
     "wof:name":"Klepikovskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

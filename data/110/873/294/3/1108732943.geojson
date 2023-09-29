@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SV.BY"
+        "hasc:id":"RU.SV.BY",
+        "meso:okato_code":"65209000",
+        "meso:oktmo_code":"65706000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900019,
     "wof:geomhash":"e37d64d9509847b9fdaa53dea1717f3d",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108732943,
-    "wof:lastmodified":1694639730,
+    "wof:lastmodified":1695886196,
     "wof:name":"Belojarskiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

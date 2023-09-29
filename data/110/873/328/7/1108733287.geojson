@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.NZ.CH"
+        "hasc:id":"RU.NZ.CH",
+        "meso:okato_code":"22255000",
+        "meso:oktmo_code":"22655000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900341,
     "wof:geomhash":"7f6c76cc3463890df9f8a9c16be7e57f",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733287,
-    "wof:lastmodified":1694639786,
+    "wof:lastmodified":1695886402,
     "wof:name":"Chkalovskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

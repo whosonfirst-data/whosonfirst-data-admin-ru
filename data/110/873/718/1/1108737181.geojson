@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TY.UP",
+        "meso:okato_code":"71250000",
+        "meso:oktmo_code":"71650000",
         "wd:id":"Q1753818"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903571,
     "wof:geomhash":"0343f0eb5e07e27b2200dffe3a8511bd",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108737181,
-    "wof:lastmodified":1694639790,
+    "wof:lastmodified":1695886415,
     "wof:name":"Uporovskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",

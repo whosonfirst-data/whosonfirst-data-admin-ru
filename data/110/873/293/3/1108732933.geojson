@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PZ.BL",
+        "meso:okato_code":"56212000",
+        "meso:oktmo_code":"56612000",
         "wd:id":"Q19086"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900012,
     "wof:geomhash":"b3b65f488f61b7bb5c414307f454b795",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108732933,
-    "wof:lastmodified":1694639684,
+    "wof:lastmodified":1695886229,
     "wof:name":"Belinskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",

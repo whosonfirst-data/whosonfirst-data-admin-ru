@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.AL.NA"
+        "hasc:id":"RU.AL.NA",
+        "meso:okato_code":"01413000",
+        "meso:oktmo_code":"01713000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902212,
     "wof:geomhash":"dcbb59a0d9199711302aef4d60837a68",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735483,
-    "wof:lastmodified":1694639761,
+    "wof:lastmodified":1695886320,
     "wof:name":"Novoaltajsk",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

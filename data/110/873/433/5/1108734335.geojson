@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049347,
-    "geom:area_square_m":404517967.944835,
+    "geom:area_square_m":404517967.944901,
     "geom:bbox":"134.897045325,48.33495383,135.223365234,48.6013369625",
     "geom:latitude":48.474834,
     "geom:longitude":135.06318,
@@ -317,10 +317,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"08401000",
+        "meso:oktmo_code":"08701000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901267,
-    "wof:geomhash":"9fa54c36163292ae21f0ffd0cb36ada4",
+    "wof:geomhash":"430adccb7faa5daf2f6292acd629dbea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -331,7 +338,7 @@
         }
     ],
     "wof:id":1108734335,
-    "wof:lastmodified":1566627272,
+    "wof:lastmodified":1695886262,
     "wof:name":"Khabarovsk",
     "wof:parent_id":85687937,
     "wof:placetype":"county",

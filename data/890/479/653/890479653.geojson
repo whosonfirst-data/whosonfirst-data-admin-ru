@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037121,
-    "geom:area_square_m":258703572.279584,
+    "geom:area_square_m":258703558.411291,
     "geom:bbox":"60.6177,55.588134,60.921278,55.794963",
     "geom:latitude":55.69347,
     "geom:longitude":60.752082,
@@ -97,14 +97,20 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":513394,
+        "meso:okato_code":"75543000",
+        "meso:oktmo_code":"75743000",
         "qs_pg:id":1029644
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054255,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e4d28a618897baab41afc7d89e2c334a",
+    "wof:geomhash":"7088953304e4a83953489c478aeef265",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":890479653,
-    "wof:lastmodified":1642541507,
+    "wof:lastmodified":1695886470,
     "wof:name":"Ozerskiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

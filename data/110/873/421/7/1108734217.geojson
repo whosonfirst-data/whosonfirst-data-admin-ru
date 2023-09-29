@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.AL.KM"
+        "hasc:id":"RU.AL.KM",
+        "meso:okato_code":"01410000",
+        "meso:oktmo_code":"01710000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901178,
     "wof:geomhash":"47852577f549c2d1776535bb1c85fa63",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108734217,
-    "wof:lastmodified":1694639743,
+    "wof:lastmodified":1695886256,
     "wof:name":"Kamen'-na-Obi",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

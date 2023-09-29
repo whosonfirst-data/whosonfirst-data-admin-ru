@@ -120,8 +120,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.KT.GR"
+        "hasc:id":"RU.KT.GR",
+        "meso:okato_code":"34408000",
+        "meso:oktmo_code":"34708000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900771,
     "wof:geomhash":"4b234484c8d8332d2aafab0c9b02873a",
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":1108733745,
-    "wof:lastmodified":1694639688,
+    "wof:lastmodified":1695886265,
     "wof:name":"Galich",
     "wof:parent_id":85688115,
     "wof:placetype":"county",

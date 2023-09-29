@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VR.GR",
+        "meso:okato_code":"20213000",
+        "meso:oktmo_code":"20613000",
         "wd:id":"Q264578"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900920,
     "wof:geomhash":"ee6a4d73a2ba3dedce6fb4f4a3617c7c",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108733933,
-    "wof:lastmodified":1694639740,
+    "wof:lastmodified":1695886240,
     "wof:name":"Gribanovskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

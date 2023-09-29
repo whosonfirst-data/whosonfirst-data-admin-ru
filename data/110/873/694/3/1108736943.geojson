@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.345889,
-    "geom:area_square_m":3055252736.053682,
+    "geom:area_square_m":3055252436.025495,
     "geom:bbox":"46.309822,43.879063,47.023193,44.945231",
     "geom:latitude":44.409633,
     "geom:longitude":46.593695,
@@ -145,11 +145,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"82249000",
+        "meso:oktmo_code":"82649000",
         "wd:id":"Q1075061"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903362,
-    "wof:geomhash":"ed0c93369b2a62517ef436e6d45d5389",
+    "wof:geomhash":"596e59771070a43eca6b944d9a9a1dc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,7 +166,7 @@
         }
     ],
     "wof:id":1108736943,
-    "wof:lastmodified":1690859452,
+    "wof:lastmodified":1695886227,
     "wof:name":"Tarumovskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

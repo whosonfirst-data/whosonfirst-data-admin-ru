@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016131,
-    "geom:area_square_m":116054360.774342,
+    "geom:area_square_m":116054200.918897,
     "geom:bbox":"61.022271,54.349514,61.312979,54.5231",
     "geom:latitude":54.421505,
     "geom:longitude":61.180527,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"75464000",
+        "meso:oktmo_code":"75764000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901122,
-    "wof:geomhash":"45f7d851480b3a24b2e43be70886411d",
+    "wof:geomhash":"500a640fbbcb052bb3a449b70e2bbb18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108734163,
-    "wof:lastmodified":1627522579,
+    "wof:lastmodified":1695886250,
     "wof:name":"Juzhnoural'skiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

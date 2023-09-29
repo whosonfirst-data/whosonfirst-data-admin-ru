@@ -125,8 +125,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KT.SR",
+        "meso:okato_code":"34248000",
+        "meso:oktmo_code":"34648000",
         "wd:id":"Q4025695"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903008,
     "wof:geomhash":"ee65388bb15aef320af1397f69ce5c81",
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":1108736507,
-    "wof:lastmodified":1694639777,
+    "wof:lastmodified":1695886370,
     "wof:name":"Shar'inskiy",
     "wof:parent_id":85688115,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.49623,
-    "geom:area_square_m":47827049270.096367,
+    "geom:area_square_m":47827049775.450005,
     "geom:bbox":"67.659972,57.99096,75.196173,60.006367",
     "geom:latitude":58.936153,
     "geom:longitude":71.145614,
@@ -157,16 +157,22 @@
     "wof:concordances":{
         "gp:id":12599491,
         "hasc:id":"RU.TY.UV",
+        "meso:okato_code":"71248000",
+        "meso:oktmo_code":"71648000",
         "qs_pg:id":1105911,
         "wd:id":"Q1753232",
         "wk:page":"Uvatsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054510,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6aae520e99babf9c7ab6a4b2c9a5fb42",
+    "wof:geomhash":"7965d5dbce924644e2afa91fc6393328",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":890484375,
-    "wof:lastmodified":1690859952,
+    "wof:lastmodified":1695886467,
     "wof:name":"Uvatskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",

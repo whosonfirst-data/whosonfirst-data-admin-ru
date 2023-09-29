@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.419909,
-    "geom:area_square_m":2609894177.516429,
+    "geom:area_square_m":2609894332.105748,
     "geom:bbox":"30.735425,59.498022,32.040584,60.206451",
     "geom:latitude":59.824295,
     "geom:longitude":31.48391,
@@ -181,16 +181,22 @@
     "wof:concordances":{
         "gp:id":12598643,
         "hasc:id":"RU.LN.KR",
+        "meso:okato_code":"41225000",
+        "meso:oktmo_code":"41625000",
         "qs_pg:id":1119189,
         "wd:id":"Q7941",
         "wk:page":"Kirovske Raion"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054513,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c616f93d9c2ba330d878778b25782552",
+    "wof:geomhash":"f3bb82b908a1fe024f20e91dfb86a3e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,7 +207,7 @@
         }
     ],
     "wof:id":890484443,
-    "wof:lastmodified":1690859946,
+    "wof:lastmodified":1695886465,
     "wof:name":"Kirovskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",

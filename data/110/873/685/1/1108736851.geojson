@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.235191,
-    "geom:area_square_m":1686730334.97529,
+    "geom:area_square_m":1686730060.692454,
     "geom:bbox":"46.408948,54.377154,47.396533,54.767259",
     "geom:latitude":54.54976,
     "geom:longitude":46.905838,
@@ -133,11 +133,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"73244000",
+        "meso:oktmo_code":"73644000",
         "wd:id":"Q2719761"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903282,
-    "wof:geomhash":"5df775701101b55f9df543290cceda6b",
+    "wof:geomhash":"2f83ee4042d05bcc1ea4a8e7803dd1e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":1108736851,
-    "wof:lastmodified":1690859596,
+    "wof:lastmodified":1695886389,
     "wof:name":"Surskiy",
     "wof:parent_id":85687907,
     "wof:placetype":"county",

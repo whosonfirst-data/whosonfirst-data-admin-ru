@@ -177,8 +177,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.AL.SM"
+        "hasc:id":"RU.AL.SM",
+        "meso:okato_code":"01404000",
+        "meso:oktmo_code":"01704000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900033,
     "wof:geomhash":"0c22c52935f66ec1395bf68c36574abb",
@@ -192,7 +198,7 @@
         }
     ],
     "wof:id":1108732953,
-    "wof:lastmodified":1694639684,
+    "wof:lastmodified":1695886224,
     "wof:name":"Belokurikha",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

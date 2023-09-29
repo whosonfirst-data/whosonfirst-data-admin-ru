@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.494373,
-    "geom:area_square_m":3740903223.359482,
+    "geom:area_square_m":3740903666.561647,
     "geom:bbox":"46.70497,51.911621,47.990366,52.638187",
     "geom:latitude":52.268689,
     "geom:longitude":47.283997,
@@ -154,16 +154,22 @@
     "wof:concordances":{
         "gp:id":12599257,
         "hasc:id":"RU.SR.VR",
+        "meso:okato_code":"63211000",
+        "meso:oktmo_code":"63611000",
         "qs_pg:id":506368,
         "wd:id":"Q1504900",
         "wk:page":"Volsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054182,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d1c5af10a0d326cca1286d4003dc2edd",
+    "wof:geomhash":"6a47fc1c906cb34b1dcd43e83e21522e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":890478413,
-    "wof:lastmodified":1690859778,
+    "wof:lastmodified":1695886438,
     "wof:name":"Vol'skiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

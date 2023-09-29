@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KB.CG",
+        "meso:okato_code":"83240000",
+        "meso:oktmo_code":"83640000",
         "wd:id":"Q1049112"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903591,
     "wof:geomhash":"bf3619d82451dfb8769edf32fb22e3c1",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108737199,
-    "wof:lastmodified":1694639790,
+    "wof:lastmodified":1695886416,
     "wof:name":"Urvanskiy",
     "wof:parent_id":85688089,
     "wof:placetype":"county",

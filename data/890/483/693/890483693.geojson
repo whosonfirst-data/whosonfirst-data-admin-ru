@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.257843,
-    "geom:area_square_m":2005396177.28952,
+    "geom:area_square_m":2005395953.928082,
     "geom:bbox":"39.137654,50.763378,39.975538,51.28463",
     "geom:latitude":51.02427,
     "geom:longitude":39.554281,
@@ -160,16 +160,22 @@
     "wof:concordances":{
         "gp:id":12599635,
         "hasc:id":"RU.VR.LG",
+        "meso:okato_code":"20221000",
+        "meso:oktmo_code":"20621000",
         "qs_pg:id":1017281,
         "wd:id":"Q1652789",
         "wk:page":"Liskinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054478,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b36115fa69bda39687e2d47da4256c1c",
+    "wof:geomhash":"614a9ddbf380186c00ac1cd89155fa5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":890483693,
-    "wof:lastmodified":1690859901,
+    "wof:lastmodified":1695886453,
     "wof:name":"Liskinskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

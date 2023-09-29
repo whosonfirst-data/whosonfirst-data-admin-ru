@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.373294,
-    "geom:area_square_m":2616623271.260221,
+    "geom:area_square_m":2616623386.111051,
     "geom:bbox":"39.3335,55.000221,40.207116,55.845446",
     "geom:latitude":55.466983,
     "geom:longitude":39.788563,
@@ -127,11 +127,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"46257000",
+        "meso:oktmo_code":"46657000",
         "wd:id":"Q2709597"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903029,
-    "wof:geomhash":"6892e9c901a9ea642606a2cfb0079668",
+    "wof:geomhash":"f748fd062f9c8f1510e30bc184f7c8bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":1108736531,
-    "wof:lastmodified":1690859669,
+    "wof:lastmodified":1695886371,
     "wof:name":"Shaturskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

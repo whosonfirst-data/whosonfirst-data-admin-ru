@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.YV.LE",
+        "meso:okato_code":"99210000",
+        "meso:oktmo_code":"99610000",
         "wd:id":"Q1045010"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901767,
     "wof:geomhash":"990a2d0817ac14909bbc9c5bf429fe09",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108734909,
-    "wof:lastmodified":1694639684,
+    "wof:lastmodified":1695886226,
     "wof:name":"Leninskiy",
     "wof:parent_id":85687991,
     "wof:placetype":"county",

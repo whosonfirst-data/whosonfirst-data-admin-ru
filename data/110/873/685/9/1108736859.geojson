@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TL.SU",
+        "meso:okato_code":"70240000",
+        "meso:oktmo_code":"70640000",
         "wd:id":"Q1655678"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903291,
     "wof:geomhash":"6433d5837ad86296db826faad688bfa6",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108736859,
-    "wof:lastmodified":1694639784,
+    "wof:lastmodified":1695886389,
     "wof:name":"Suvorovskiy",
     "wof:parent_id":85688203,
     "wof:placetype":"county",

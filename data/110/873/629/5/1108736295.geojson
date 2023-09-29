@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AL.RD",
+        "meso:okato_code":"01236000",
+        "meso:oktmo_code":"01636000",
         "wd:id":"Q1822718"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902842,
     "wof:geomhash":"77b9dbffa88bd09ef0d90d86b65c659a",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108736295,
-    "wof:lastmodified":1694639773,
+    "wof:lastmodified":1695886356,
     "wof:name":"Rodinskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.381322,
-    "geom:area_square_m":2618913166.793014,
+    "geom:area_square_m":2618912994.828567,
     "geom:bbox":"32.264782,55.945418,33.236531,56.573761",
     "geom:latitude":56.259587,
     "geom:longitude":32.748702,
@@ -160,16 +160,22 @@
     "wof:concordances":{
         "gp:id":12598367,
         "hasc:id":"RU.TV.NR",
+        "meso:okato_code":"28243000",
+        "meso:oktmo_code":"28643000",
         "qs_pg:id":1209278,
         "wd:id":"Q394724",
         "wk:page":"Nelidovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054281,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c4f7eedeae3012ca547c0eca8a5aa5c7",
+    "wof:geomhash":"015c846c3c9ccab7b8aeb347d01cc186",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":890480053,
-    "wof:lastmodified":1690860126,
+    "wof:lastmodified":1695886487,
     "wof:name":"Nelidovskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

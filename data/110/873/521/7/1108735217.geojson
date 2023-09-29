@@ -122,8 +122,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KY.MO",
+        "meso:okato_code":"04235000",
+        "meso:oktmo_code":"04635000",
         "wd:id":"Q2156595"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902023,
     "wof:geomhash":"37ee14b5b6d2efd0e7dedd51545457f7",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1108735217,
-    "wof:lastmodified":1694492752,
+    "wof:lastmodified":1695886306,
     "wof:name":"Motyginskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

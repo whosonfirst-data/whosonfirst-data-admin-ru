@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000333,
-    "geom:area_square_m":1248334.834999,
+    "geom:area_square_m":1248325.38902,
     "geom:bbox":"78.428802,72.320601,78.485354,72.350458",
     "geom:latitude":72.342278,
     "geom:longitude":78.465816,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"71163000",
+        "meso:oktmo_code":"71923000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903386,
-    "wof:geomhash":"01d8e53b83dc560a7356e7cf65ddc9ec",
+    "wof:geomhash":"06fec8df2ebc1501c253d149a4ce31ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108736963,
-    "wof:lastmodified":1627522705,
+    "wof:lastmodified":1695886401,
     "wof:name":"Tazovskiy",
     "wof:parent_id":85687931,
     "wof:placetype":"county",

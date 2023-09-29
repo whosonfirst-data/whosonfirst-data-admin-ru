@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079379,
-    "geom:area_square_m":546070079.396071,
+    "geom:area_square_m":546070257.381587,
     "geom:bbox":"101.360309,56.004733,102.003596,56.355472",
     "geom:latitude":56.196602,
     "geom:longitude":101.669005,
@@ -242,10 +242,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"25414000",
+        "meso:oktmo_code":"25714000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900172,
-    "wof:geomhash":"8ebf414fde791c3eee916c6141dfbe9a",
+    "wof:geomhash":"193293df1bb0106a47b50c0c4b81a61b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -256,7 +263,7 @@
         }
     ],
     "wof:id":1108733099,
-    "wof:lastmodified":1636497189,
+    "wof:lastmodified":1695886730,
     "wof:name":"Bratsk",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

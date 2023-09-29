@@ -149,8 +149,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PZ.BK",
+        "meso:okato_code":"56209000",
+        "meso:oktmo_code":"56609000",
         "wd:id":"Q2706920"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900001,
     "wof:geomhash":"564b3e06d391544f0f5abba6c1974344",
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":1108732921,
-    "wof:lastmodified":1694639729,
+    "wof:lastmodified":1695886195,
     "wof:name":"Bekovskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",

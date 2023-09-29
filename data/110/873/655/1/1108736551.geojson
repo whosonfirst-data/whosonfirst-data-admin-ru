@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114681,
-    "geom:area_square_m":816628355.097201,
+    "geom:area_square_m":816628365.513751,
     "geom:bbox":"47.034259,54.624402,47.840419,54.989004",
     "geom:latitude":54.838523,
     "geom:longitude":47.375742,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"97247000",
+        "meso:oktmo_code":"97647000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903045,
-    "wof:geomhash":"ef38b31e0738977271ce5a8f4cf9f097",
+    "wof:geomhash":"386d52391ebafd74651d74ea83e630d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108736551,
-    "wof:lastmodified":1627522684,
+    "wof:lastmodified":1695886373,
     "wof:name":"Shemurshinskiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.345173,
-    "geom:area_square_m":2583815907.427365,
+    "geom:area_square_m":2583815975.298044,
     "geom:bbox":"40.766035,52.470719,41.857484,53.102989",
     "geom:latitude":52.744135,
     "geom:longitude":41.336193,
@@ -121,11 +121,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"68240000",
+        "meso:oktmo_code":"68640000",
         "wd:id":"Q3980593"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903348,
-    "wof:geomhash":"b41798391cfc8805225330aebc8cee10",
+    "wof:geomhash":"53eddbcd2d51abeae3a7b1dfe636f016",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1108736931,
-    "wof:lastmodified":1690859456,
+    "wof:lastmodified":1695886398,
     "wof:name":"Tambovskiy",
     "wof:parent_id":85687829,
     "wof:placetype":"county",

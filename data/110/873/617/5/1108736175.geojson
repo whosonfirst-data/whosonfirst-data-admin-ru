@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002604,
-    "geom:area_square_m":18148108.320608,
+    "geom:area_square_m":18148101.86389,
     "geom:bbox":"37.403705,55.660031,37.491341,55.725378",
     "geom:latitude":55.692347,
     "geom:longitude":37.446861,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45268579",
+        "meso:oktmo_code":"45323000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902754,
-    "wof:geomhash":"74ea487912205cd5dd40cf1b659091e0",
+    "wof:geomhash":"443c2d583f38af60dc3ec7aaac4215b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736175,
-    "wof:lastmodified":1627522653,
+    "wof:lastmodified":1695886333,
     "wof:name":"Ochakovo-Matveevskoe",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.370116,
-    "geom:area_square_m":2950343940.595912,
+    "geom:area_square_m":2950343743.052027,
     "geom:bbox":"41.833133,49.57765,42.983055,50.137675",
     "geom:latitude":49.859376,
     "geom:longitude":42.433894,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"18246000",
+        "meso:oktmo_code":"18646000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901665,
-    "wof:geomhash":"a087eda14bbf33076550bf9bf3763a7c",
+    "wof:geomhash":"2019bc79106c4199cb219355bdf5ed3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108734799,
-    "wof:lastmodified":1627522614,
+    "wof:lastmodified":1695886288,
     "wof:name":"Kumylzhenskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

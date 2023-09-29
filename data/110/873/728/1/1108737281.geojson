@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087055,
-    "geom:area_square_m":634133283.452585,
+    "geom:area_square_m":634133287.930729,
     "geom:bbox":"37.997876,53.73519,38.537718,54.079225",
     "geom:latitude":53.907025,
     "geom:longitude":38.255549,
@@ -118,11 +118,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"70244000",
+        "meso:oktmo_code":"70644000",
         "wd:id":"Q1658293"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903652,
-    "wof:geomhash":"7ac37ff00e436b5d9f72ccec2d4e9d58",
+    "wof:geomhash":"c9a902f68348a8696e5d0700dff6f2a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":1108737281,
-    "wof:lastmodified":1690859710,
+    "wof:lastmodified":1695886419,
     "wof:name":"Uzlovskiy",
     "wof:parent_id":85688203,
     "wof:placetype":"county",

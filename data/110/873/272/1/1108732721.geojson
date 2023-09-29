@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00046,
-    "geom:area_square_m":3189319.450287,
+    "geom:area_square_m":3189314.943703,
     "geom:bbox":"37.564227,55.867541,37.597801,55.889091",
     "geom:latitude":55.87919,
     "geom:longitude":37.57923,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45280554",
+        "meso:oktmo_code":"45350000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899814,
-    "wof:geomhash":"500a603f108045e351157bed904902ce",
+    "wof:geomhash":"a8a05feb6afdb745a4bc718dda054e3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108732721,
-    "wof:lastmodified":1627522534,
+    "wof:lastmodified":1695886183,
     "wof:name":"Altuf'evskiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

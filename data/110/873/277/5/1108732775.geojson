@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TY.AZ",
+        "meso:okato_code":"71205000",
+        "meso:oktmo_code":"71605000",
         "wd:id":"Q1753237"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899861,
     "wof:geomhash":"edb0b6f31c1f28ef30ded6dbfe18c1e2",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108732775,
-    "wof:lastmodified":1694639727,
+    "wof:lastmodified":1695886187,
     "wof:name":"Armizonskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",

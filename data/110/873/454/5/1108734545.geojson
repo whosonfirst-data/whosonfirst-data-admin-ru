@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OL.KL",
+        "meso:okato_code":"54223000",
+        "meso:oktmo_code":"54623000",
         "wd:id":"Q2216503"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901443,
     "wof:geomhash":"1d01a61b9423de04fdcb68a4e6d766dd",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108734545,
-    "wof:lastmodified":1694639748,
+    "wof:lastmodified":1695886273,
     "wof:name":"Kolpnjanskiy",
     "wof:parent_id":85687849,
     "wof:placetype":"county",

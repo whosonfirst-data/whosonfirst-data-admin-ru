@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.IR.TR",
+        "meso:okato_code":"25236000",
+        "meso:oktmo_code":"25636000",
         "wd:id":"Q1655792"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903339,
     "wof:geomhash":"fd86d7e7061335a35087169576311eb2",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108736917,
-    "wof:lastmodified":1694492776,
+    "wof:lastmodified":1695886391,
     "wof:name":"Tajshetskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

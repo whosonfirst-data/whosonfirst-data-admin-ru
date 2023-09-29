@@ -161,8 +161,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.DA.KK",
+        "meso:okato_code":"82224000",
+        "meso:oktmo_code":"82624000",
         "wd:id":"Q1438473"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901154,
     "wof:geomhash":"e84c39431d201e74b9cc103d4a5cb3a2",
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":1108734187,
-    "wof:lastmodified":1694639744,
+    "wof:lastmodified":1695886260,
     "wof:name":"Kajakentskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

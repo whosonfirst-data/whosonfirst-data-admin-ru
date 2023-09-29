@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.1254,
-    "geom:area_square_m":820857447.660443,
+    "geom:area_square_m":820857758.024221,
     "geom:bbox":"55.804214,57.865091,56.655049,58.181839",
     "geom:latitude":58.036239,
     "geom:longitude":56.263702,
@@ -138,15 +138,21 @@
     "wof:concordances":{
         "gp:id":12599057,
         "hasc:id":"RU.PE.PG",
+        "meso:okato_code":"57401000",
+        "meso:oktmo_code":"57701000",
         "qs_pg:id":1119190,
         "wk:page":"Yusvinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054513,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"44cbae0a705124682f0d2d73c93ce84c",
+    "wof:geomhash":"44f98f17d641155d96290f0ca0545b0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":890484445,
-    "wof:lastmodified":1642541502,
+    "wof:lastmodified":1695886466,
     "wof:name":"Perm'",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

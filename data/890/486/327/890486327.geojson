@@ -154,10 +154,16 @@
     "wof:concordances":{
         "gp:id":12597924,
         "hasc:id":"RU.PR.PG",
+        "meso:okato_code":"05230000",
+        "meso:oktmo_code":"05630000",
         "qs_pg:id":1209249,
         "wd:id":"Q3831527",
         "wk:page":"Partizansky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054604,
     "wof:geom_alt":[
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":890486327,
-    "wof:lastmodified":1694639808,
+    "wof:lastmodified":1695886478,
     "wof:name":"Partizanskiy",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

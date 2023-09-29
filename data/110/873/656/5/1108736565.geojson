@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.164111,
-    "geom:area_square_m":1252048337.449401,
+    "geom:area_square_m":1252048454.441399,
     "geom:bbox":"36.556116,51.650301,37.107776,52.178159",
     "geom:latitude":51.902909,
     "geom:longitude":36.802836,
@@ -121,11 +121,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"38250000",
+        "meso:oktmo_code":"38650000",
         "wd:id":"Q2629594"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903054,
-    "wof:geomhash":"102ae003f4e6a1f951091f1e91eb3029",
+    "wof:geomhash":"a6d09d9a48e14db9a18fbdc84dd08fad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1108736565,
-    "wof:lastmodified":1690859450,
+    "wof:lastmodified":1695886373,
     "wof:name":"Shhigrovskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

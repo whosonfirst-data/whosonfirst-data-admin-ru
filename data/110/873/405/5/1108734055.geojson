@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.LP.IZ",
+        "meso:okato_code":"42227000",
+        "meso:oktmo_code":"42627000",
         "wd:id":"Q2217597"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901024,
     "wof:geomhash":"dc47ce1dae8c3e3cff516deb150f3b85",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108734055,
-    "wof:lastmodified":1694639742,
+    "wof:lastmodified":1695886251,
     "wof:name":"Izmalkovskiy",
     "wof:parent_id":85687917,
     "wof:placetype":"county",

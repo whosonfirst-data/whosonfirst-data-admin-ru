@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.075917,
-    "geom:area_square_m":9092738819.575941,
+    "geom:area_square_m":9092738681.445446,
     "geom:bbox":"28.416468,68.68819,33.130806,69.955414",
     "geom:latitude":69.253482,
     "geom:longitude":30.567097,
@@ -171,16 +171,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598809,
+        "meso:okato_code":"47215000",
+        "meso:oktmo_code":"47615000",
         "qs_pg:id":425121,
         "wd:id":"Q2367345",
         "wk:page":"Pechengsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054433,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1de3d47f2265f667372fa20cdc77f2e9",
+    "wof:geomhash":"eebf7874ad83f439263b572bbbac0636",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,7 +197,7 @@
         }
     ],
     "wof:id":890482745,
-    "wof:lastmodified":1690859890,
+    "wof:lastmodified":1695886449,
     "wof:name":"Pechengskiy",
     "wof:parent_id":85687869,
     "wof:placetype":"county",

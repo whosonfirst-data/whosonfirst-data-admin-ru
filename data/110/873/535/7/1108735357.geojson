@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PS.NE",
+        "meso:okato_code":"58220000",
+        "meso:oktmo_code":"58620000",
         "wd:id":"Q2723504"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902134,
     "wof:geomhash":"6487e442185b965f048c88d6c6d56304",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108735357,
-    "wof:lastmodified":1694639760,
+    "wof:lastmodified":1695886312,
     "wof:name":"Nevel'skiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",

@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SV.BG"
+        "hasc:id":"RU.SV.BG",
+        "meso:okato_code":"65210000",
+        "meso:oktmo_code":"65707000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900748,
     "wof:geomhash":"dee2d198d6b8145f65d0665c786f80d4",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733709,
-    "wof:lastmodified":1694639731,
+    "wof:lastmodified":1695886202,
     "wof:name":"Bogdanovich",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.UL.UG"
+        "hasc:id":"RU.UL.UG",
+        "meso:okato_code":"73401000",
+        "meso:oktmo_code":"73701000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900720,
     "wof:geomhash":"284040af043536090e1dee674629aa8c",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733681,
-    "wof:lastmodified":1694639766,
+    "wof:lastmodified":1695886333,
     "wof:name":"Ul'janovsk",
     "wof:parent_id":85687907,
     "wof:placetype":"county",

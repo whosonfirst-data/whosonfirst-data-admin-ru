@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00097,
-    "geom:area_square_m":6731841.134482,
+    "geom:area_square_m":6731865.896077,
     "geom:bbox":"37.441368,55.842586,37.488344,55.883821",
     "geom:latitude":55.864338,
     "geom:longitude":37.46554,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45277583",
+        "meso:oktmo_code":"45342000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902726,
-    "wof:geomhash":"a17f94c0f5fad728c0d90aab5506523b",
+    "wof:geomhash":"bc1573c0eff29531a8e6c4f286b279ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736139,
-    "wof:lastmodified":1627522620,
+    "wof:lastmodified":1695886296,
     "wof:name":"Levoberezhnyj",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

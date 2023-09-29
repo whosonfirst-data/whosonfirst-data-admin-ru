@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TY.SL",
+        "meso:okato_code":"71236000",
+        "meso:oktmo_code":"71636000",
         "wd:id":"Q1753823"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903115,
     "wof:geomhash":"9ce9d727acc546f4b62a2b4f68bc487c",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108736639,
-    "wof:lastmodified":1694639780,
+    "wof:lastmodified":1695886378,
     "wof:name":"Sladkovskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001566,
-    "geom:area_square_m":10894481.461054,
+    "geom:area_square_m":10894544.228625,
     "geom:bbox":"37.387016,55.745539,37.464542,55.781502",
     "geom:latitude":55.763563,
     "geom:longitude":37.426094,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45268560",
+        "meso:oktmo_code":"45319000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902718,
-    "wof:geomhash":"7bd8909748e16230946b699e11af92ed",
+    "wof:geomhash":"ec44739f50ceca9fccf975e7236987ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736125,
-    "wof:lastmodified":1627522613,
+    "wof:lastmodified":1695886287,
     "wof:name":"Krylatskoe",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

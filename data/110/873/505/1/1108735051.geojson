@@ -122,8 +122,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KY.MA",
+        "meso:okato_code":"04231000",
+        "meso:oktmo_code":"04631000",
         "wd:id":"Q2156434"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901873,
     "wof:geomhash":"a7b384ead27fa39fc51aae63f22fffdc",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1108735051,
-    "wof:lastmodified":1694492749,
+    "wof:lastmodified":1695886299,
     "wof:name":"Manskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.357072,
-    "geom:area_square_m":2407844500.598123,
+    "geom:area_square_m":2407844460.171695,
     "geom:bbox":"31.927484,56.612796,32.980153,57.263766",
     "geom:latitude":56.951627,
     "geom:longitude":32.488181,
@@ -160,16 +160,22 @@
     "wof:concordances":{
         "gp:id":12598371,
         "hasc:id":"RU.TV.PE",
+        "meso:okato_code":"28246000",
+        "meso:oktmo_code":"28646000",
         "qs_pg:id":1209279,
         "wd:id":"Q394876",
         "wk:page":"Penovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054282,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b148b856837e85a636147926d32b6c03",
+    "wof:geomhash":"09a97ba41cf04df494459e68de7e8ca1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":890480055,
-    "wof:lastmodified":1690860128,
+    "wof:lastmodified":1695886488,
     "wof:name":"Penovskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

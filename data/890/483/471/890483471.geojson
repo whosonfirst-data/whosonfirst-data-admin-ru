@@ -142,10 +142,16 @@
     "wof:concordances":{
         "gp:id":12598273,
         "hasc:id":"RU.IR.NR",
+        "meso:okato_code":"25228000",
+        "meso:oktmo_code":"25628000",
         "qs_pg:id":989704,
         "wd:id":"Q2217289",
         "wk:page":"Nizhneudinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054467,
     "wof:geom_alt":[
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":890483471,
-    "wof:lastmodified":1694493015,
+    "wof:lastmodified":1695886451,
     "wof:name":"Nizhneudinskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

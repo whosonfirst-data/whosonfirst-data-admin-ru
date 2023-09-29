@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024347,
-    "geom:area_square_m":173586135.180611,
+    "geom:area_square_m":173586005.094159,
     "geom:bbox":"58.325202,54.737965,58.683926,54.838582",
     "geom:latitude":54.788568,
     "geom:longitude":58.49781,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"75507000",
+        "meso:oktmo_code":"75707000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903491,
-    "wof:geomhash":"42145cd84c2409adeb279fcf76de2c46",
+    "wof:geomhash":"03aa2bd1c9c6096d686a8c2a11e5ffc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108737077,
-    "wof:lastmodified":1627522713,
+    "wof:lastmodified":1695886409,
     "wof:name":"Trekhgornyj",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015414,
-    "geom:area_square_m":112970482.763088,
+    "geom:area_square_m":112970482.763091,
     "geom:bbox":"55.881318244,53.5745801902,56.0558613661,53.7287428386",
     "geom:latitude":53.649779,
     "geom:longitude":55.967103,
@@ -230,10 +230,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"80445000",
+        "meso:oktmo_code":"80745000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903254,
-    "wof:geomhash":"3dbbb64bb3b6d1e866cc7c1e2098500a",
+    "wof:geomhash":"0c2c6960465cd1a5800fe451f3ad8143",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -244,7 +251,7 @@
         }
     ],
     "wof:id":1108736815,
-    "wof:lastmodified":1566626912,
+    "wof:lastmodified":1695886220,
     "wof:name":"Sterlitamak",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

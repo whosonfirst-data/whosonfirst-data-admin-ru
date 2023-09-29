@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.382933,
-    "geom:area_square_m":2548007136.131666,
+    "geom:area_square_m":2548006901.462618,
     "geom:bbox":"37.805371,57.081648,38.847367,57.72604",
     "geom:latitude":57.444306,
     "geom:longitude":38.348941,
@@ -151,16 +151,22 @@
     "wof:concordances":{
         "gp:id":12599678,
         "hasc:id":"RU.YS.UR",
+        "meso:okato_code":"78246000",
+        "meso:oktmo_code":"78646000",
         "qs_pg:id":1105913,
         "wd:id":"Q2218114",
         "wk:page":"Uglichsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054511,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"717bb2bf6578f85d412a5f7e6d9cffa1",
+    "wof:geomhash":"032af895c6ff6e27f26b511b0ccf980b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":890484379,
-    "wof:lastmodified":1690859936,
+    "wof:lastmodified":1695886462,
     "wof:name":"Uglichskiy",
     "wof:parent_id":85687959,
     "wof:placetype":"county",

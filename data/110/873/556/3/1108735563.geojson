@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006643,
-    "geom:area_square_m":51351529.439319,
+    "geom:area_square_m":51351529.439325,
     "geom:bbox":"39.1714988684,51.225711376,39.2759455273,51.3620972952",
     "geom:latitude":51.304319,
     "geom:longitude":39.218338,
@@ -170,10 +170,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"20427000",
+        "meso:oktmo_code":"20727000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902272,
-    "wof:geomhash":"97db198c3467ad46ce0f0169ebf42875",
+    "wof:geomhash":"05ff4f43a506de3f6ebdbcb7bbcd9042",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -184,7 +191,7 @@
         }
     ],
     "wof:id":1108735563,
-    "wof:lastmodified":1566626840,
+    "wof:lastmodified":1695886212,
     "wof:name":"Novovoronezh",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

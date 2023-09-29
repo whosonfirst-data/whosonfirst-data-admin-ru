@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012867,
-    "geom:area_square_m":88902627.86507,
+    "geom:area_square_m":88902658.190131,
     "geom:bbox":"90.269211,55.961309,90.503197,56.078184",
     "geom:latitude":56.02793,
     "geom:longitude":90.387715,
@@ -80,10 +80,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"04426000",
+        "meso:oktmo_code":"04726000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902105,
-    "wof:geomhash":"1193126360c43aeb568a5dedb8fe90f7",
+    "wof:geomhash":"a6a175433e0fc28dfa413f664a555d31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +101,7 @@
         }
     ],
     "wof:id":1108735319,
-    "wof:lastmodified":1627522635,
+    "wof:lastmodified":1695886310,
     "wof:name":"Nazarovo",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

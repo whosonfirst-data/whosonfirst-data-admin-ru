@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CV.TS",
+        "meso:okato_code":"97241000",
+        "meso:oktmo_code":"97641000",
         "wd:id":"Q2626804"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900366,
     "wof:geomhash":"bdfd94ce0e23338ac89e515872272d98",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108733315,
-    "wof:lastmodified":1694639789,
+    "wof:lastmodified":1695886411,
     "wof:name":"Civil'skiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",

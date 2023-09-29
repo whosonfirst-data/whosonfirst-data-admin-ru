@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.286315,
-    "geom:area_square_m":1895383141.314995,
+    "geom:area_square_m":1895383547.868901,
     "geom:bbox":"39.229399,57.390832,40.405145,57.942514",
     "geom:latitude":57.631014,
     "geom:longitude":39.81859,
@@ -121,11 +121,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"78250000",
+        "meso:oktmo_code":"78650000",
         "wd:id":"Q528249"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901075,
-    "wof:geomhash":"1c327dd9412af401793d1e00b72fe57e",
+    "wof:geomhash":"242c35d2d807b74463f21f0431bcec43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1108734101,
-    "wof:lastmodified":1690859592,
+    "wof:lastmodified":1695886242,
     "wof:name":"Jaroslavskiy",
     "wof:parent_id":85687959,
     "wof:placetype":"county",

@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TO.AR",
+        "meso:okato_code":"69208000",
+        "meso:oktmo_code":"69608000",
         "wd:id":"Q1651060"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899878,
     "wof:geomhash":"d39726385b9d2e1256e1c637d6178074",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108732801,
-    "wof:lastmodified":1694639728,
+    "wof:lastmodified":1695886188,
     "wof:name":"Asinovskiy",
     "wof:parent_id":85687809,
     "wof:placetype":"county",

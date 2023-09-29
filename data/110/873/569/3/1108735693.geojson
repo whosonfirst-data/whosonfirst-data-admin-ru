@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PS.OP",
+        "meso:okato_code":"58229000",
+        "meso:oktmo_code":"58629000",
         "wd:id":"Q1122648"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902379,
     "wof:geomhash":"ffa01a107798f2df09445bb5812e34af",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108735693,
-    "wof:lastmodified":1694639766,
+    "wof:lastmodified":1695886331,
     "wof:name":"Opocheckij",
     "wof:parent_id":85688167,
     "wof:placetype":"county",

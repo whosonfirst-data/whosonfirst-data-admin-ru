@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.479969,
-    "geom:area_square_m":3725596281.171834,
+    "geom:area_square_m":3725596341.085463,
     "geom:bbox":"127.863583,50.875729,129.39788,51.443515",
     "geom:latitude":51.116087,
     "geom:longitude":128.641069,
@@ -151,15 +151,21 @@
     "wof:concordances":{
         "gn:id":2016941,
         "hasc:id":"RU.AM.SE",
+        "meso:okato_code":"10247000",
+        "meso:oktmo_code":"10647000",
         "qs_pg:id":570877,
         "wd:id":"Q2218588"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054326,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0b4b42e7ce07e1a4afa8822ae54a872c",
+    "wof:geomhash":"9363aeb74226bb53e1547fe33c652822",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":890480831,
-    "wof:lastmodified":1690860146,
+    "wof:lastmodified":1695886493,
     "wof:name":"Seryshevskiy",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

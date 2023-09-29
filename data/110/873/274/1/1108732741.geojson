@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PR.AN",
+        "meso:okato_code":"05202000",
+        "meso:oktmo_code":"05602000",
         "wd:id":"Q772911"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899828,
     "wof:geomhash":"60d1fe700f3db8b182af8a877dd8825a",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108732741,
-    "wof:lastmodified":1694639727,
+    "wof:lastmodified":1695886186,
     "wof:name":"Anuchinskiy",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

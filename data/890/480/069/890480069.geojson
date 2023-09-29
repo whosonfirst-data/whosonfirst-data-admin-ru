@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.575014,
-    "geom:area_square_m":3622178041.579635,
+    "geom:area_square_m":3622178621.735496,
     "geom:bbox":"30.434333,58.98506,31.608109,59.748844",
     "geom:latitude":59.373481,
     "geom:longitude":31.019666,
@@ -175,16 +175,22 @@
     "wof:concordances":{
         "gp:id":12598660,
         "hasc:id":"RU.LN.TR",
+        "meso:okato_code":"41248000",
+        "meso:oktmo_code":"41648000",
         "qs_pg:id":1209297,
         "wd:id":"Q2573353",
         "wk:page":"Tosnensky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054282,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d69b54a08252c41b4b416877aeacd554",
+    "wof:geomhash":"a339f7837a22ca2e1bbe883bed6a0015",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -195,7 +201,7 @@
         }
     ],
     "wof:id":890480069,
-    "wof:lastmodified":1690860148,
+    "wof:lastmodified":1695886493,
     "wof:name":"Tosnenskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",

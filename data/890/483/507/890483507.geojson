@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.181435,
-    "geom:area_square_m":1268025508.955843,
+    "geom:area_square_m":1268025393.020144,
     "geom:bbox":"42.062649,55.420039,43.005411,55.784295",
     "geom:latitude":55.583519,
     "geom:longitude":42.50351,
@@ -145,16 +145,22 @@
     "wof:concordances":{
         "gp:id":12598221,
         "hasc:id":"RU.NZ.NA",
+        "meso:okato_code":"22241000",
+        "meso:oktmo_code":"22641000",
         "qs_pg:id":989703,
         "wd:id":"Q655793",
         "wk:page":"Navashinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054469,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"81be4beedd5a2ec6c49ece05bc225c6f",
+    "wof:geomhash":"bf0be0ff40225d5207deb97204ea6070",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":890483507,
-    "wof:lastmodified":1690859911,
+    "wof:lastmodified":1695886455,
     "wof:name":"Navashinskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

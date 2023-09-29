@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001681,
-    "geom:area_square_m":11645145.385241,
+    "geom:area_square_m":11645113.041898,
     "geom:bbox":"37.521202,55.903587,37.571653,55.955702",
     "geom:latitude":55.932464,
     "geom:longitude":37.545823,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45280585",
+        "meso:oktmo_code":"45363000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902778,
-    "wof:geomhash":"7c031d8adf4a080a0a45f4722d366379",
+    "wof:geomhash":"77b4b782bfb9fa0fabd369aa8d387525",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736211,
-    "wof:lastmodified":1627522680,
+    "wof:lastmodified":1695886366,
     "wof:name":"Severnyj",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

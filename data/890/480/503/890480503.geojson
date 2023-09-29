@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048413,
-    "geom:area_square_m":333726462.757802,
+    "geom:area_square_m":333726333.216676,
     "geom:bbox":"40.187199,56.045835,40.661612,56.232538",
     "geom:latitude":56.118374,
     "geom:longitude":40.434356,
@@ -159,16 +159,22 @@
     "wof:concordances":{
         "gp:id":12599546,
         "hasc:id":"RU.VL.VL",
+        "meso:okato_code":"17401000",
+        "meso:oktmo_code":"17701000",
         "qs_pg:id":1312557,
         "wd:id":"Q3811360",
         "wk:page":"Yuryev-Polsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054310,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ca606b1797d709e837c055d26fa64984",
+    "wof:geomhash":"7dda17b074f0a91eeac8079e1f6ef7cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":890480503,
-    "wof:lastmodified":1690860118,
+    "wof:lastmodified":1695886487,
     "wof:name":"Vladimir",
     "wof:parent_id":85687981,
     "wof:placetype":"county",

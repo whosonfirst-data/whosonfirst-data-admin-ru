@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045876,
-    "geom:area_square_m":306268860.949353,
+    "geom:area_square_m":306268770.497684,
     "geom:bbox":"59.725583,57.194292,60.073068,57.432932",
     "geom:latitude":57.323271,
     "geom:longitude":59.907773,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"65453000",
+        "meso:oktmo_code":"65733000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900892,
-    "wof:geomhash":"8c8f73e4a1a13502eb26eb71facd1db1",
+    "wof:geomhash":"e0664cfdbb73bbc9aa5f2ca9924a07d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108733891,
-    "wof:lastmodified":1627522724,
+    "wof:lastmodified":1695886422,
     "wof:name":"Verkhnij Tagil",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

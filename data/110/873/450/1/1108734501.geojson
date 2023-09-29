@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NZ.KN",
+        "meso:okato_code":"22233000",
+        "meso:oktmo_code":"22633000",
         "wd:id":"Q1653045"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901409,
     "wof:geomhash":"21e290e29a37a809936fbdc2e0819bea",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108734501,
-    "wof:lastmodified":1694639747,
+    "wof:lastmodified":1695886271,
     "wof:name":"Knjagininskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.MS.ZV"
+        "hasc:id":"RU.MS.ZV",
+        "meso:okato_code":"46430000",
+        "meso:oktmo_code":"46730000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900906,
     "wof:geomhash":"fb52b6a1facf225e9c1d66d7a99028a7",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733911,
-    "wof:lastmodified":1694639796,
+    "wof:lastmodified":1695886442,
     "wof:name":"Zveni",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

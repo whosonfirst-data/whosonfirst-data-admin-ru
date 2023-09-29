@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TY.VI",
+        "meso:okato_code":"71215000",
+        "meso:oktmo_code":"71615000",
         "wd:id":"Q1753812"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903733,
     "wof:geomhash":"5db5fc1435d7c0fd28f16ba178d1c059",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108737437,
-    "wof:lastmodified":1694639793,
+    "wof:lastmodified":1695886425,
     "wof:name":"Vikulovskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",

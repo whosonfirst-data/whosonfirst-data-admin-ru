@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.266474,
-    "geom:area_square_m":2344682798.696576,
+    "geom:area_square_m":2344683056.872859,
     "geom:bbox":"41.426678,44.328318,42.332248,44.990073",
     "geom:latitude":44.635702,
     "geom:longitude":41.887815,
@@ -115,11 +115,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"07228000",
+        "meso:oktmo_code":"07628000",
         "wd:id":"Q1254794"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901422,
-    "wof:geomhash":"d1004fd2ad791c195ec2fbb99bb5eb0b",
+    "wof:geomhash":"65621dc4e5ee1a7c75308c3848aafe33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":1108734517,
-    "wof:lastmodified":1690859644,
+    "wof:lastmodified":1695886272,
     "wof:name":"Kochubeevskiy",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

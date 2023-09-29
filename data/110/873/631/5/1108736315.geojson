@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.BL.RO"
+        "hasc:id":"RU.BL.RO",
+        "meso:okato_code":"14250000",
+        "meso:oktmo_code":"14650000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902858,
     "wof:geomhash":"d209a56bccdceb7a4c6786bc5161cdbe",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108736315,
-    "wof:lastmodified":1694639774,
+    "wof:lastmodified":1695886357,
     "wof:name":"Roven'skoj",
     "wof:parent_id":85687813,
     "wof:placetype":"county",

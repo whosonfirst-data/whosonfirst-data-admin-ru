@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.VG.MG"
+        "hasc:id":"RU.VG.MG",
+        "meso:okato_code":"18420000",
+        "meso:oktmo_code":"18720000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901946,
     "wof:geomhash":"2d3c789294735267c8d9bc5d09bfd87b",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735131,
-    "wof:lastmodified":1694639743,
+    "wof:lastmodified":1695886255,
     "wof:name":"Mikhajlovka",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

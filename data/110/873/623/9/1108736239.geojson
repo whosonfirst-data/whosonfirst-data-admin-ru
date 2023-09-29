@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001138,
-    "geom:area_square_m":7941469.336139,
+    "geom:area_square_m":7941545.86496,
     "geom:bbox":"37.463065,55.609165,37.517552,55.649332",
     "geom:latitude":55.631718,
     "geom:longitude":37.490407,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45293586",
+        "meso:oktmo_code":"45907000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902798,
-    "wof:geomhash":"d4056cec99d651e25099ccad1aa5d87a",
+    "wof:geomhash":"9f5d87e35f1fdaab702759cf6e45685d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736239,
-    "wof:lastmodified":1627522710,
+    "wof:lastmodified":1695886407,
     "wof:name":"Tjoplyj Stan",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

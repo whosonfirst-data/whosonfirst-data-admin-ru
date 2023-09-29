@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.242216,
-    "geom:area_square_m":1674385407.388023,
+    "geom:area_square_m":1674385465.799661,
     "geom:bbox":"35.61466,55.705512,36.353333,56.317779",
     "geom:latitude":56.009661,
     "geom:longitude":35.970527,
@@ -182,15 +182,21 @@
     "wof:concordances":{
         "gn:id":472430,
         "hasc:id":"RU.MS.VL",
+        "meso:okato_code":"46205000",
+        "meso:oktmo_code":"46605000",
         "qs_pg:id":207786,
         "wd:id":"Q940875"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054635,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c197c75d493134f090205853e7ccbcf7",
+    "wof:geomhash":"f00ab04559b0257d73a0c57c1d5c4952",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -201,7 +207,7 @@
         }
     ],
     "wof:id":890486787,
-    "wof:lastmodified":1690860072,
+    "wof:lastmodified":1695886478,
     "wof:name":"Volokolamskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

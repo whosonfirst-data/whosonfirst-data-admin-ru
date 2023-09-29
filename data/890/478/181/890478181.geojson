@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.162504,
-    "geom:area_square_m":1156145995.432286,
+    "geom:area_square_m":1156146332.550047,
     "geom:bbox":"20.870162,54.686905,21.627955,55.07687",
     "geom:latitude":54.87425,
     "geom:longitude":21.192971,
@@ -154,16 +154,22 @@
     "wof:concordances":{
         "gp:id":12598337,
         "hasc:id":"RU.KN.PO",
+        "meso:okato_code":"27230000",
+        "meso:oktmo_code":"27718000",
         "qs_pg:id":268770,
         "wd:id":"Q126425",
         "wk:page":"Polessky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054154,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7cf4969bc29a8e4f1118767c9b110bcd",
+    "wof:geomhash":"ecf6a4a6104c081adb40c65803e08dbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":890478181,
-    "wof:lastmodified":1690859792,
+    "wof:lastmodified":1695886438,
     "wof:name":"Polesskiy",
     "wof:parent_id":85688215,
     "wof:placetype":"county",

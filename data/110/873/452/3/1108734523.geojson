@@ -171,8 +171,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.IV.IG"
+        "hasc:id":"RU.IV.IG",
+        "meso:okato_code":"24207000",
+        "meso:oktmo_code":"24706000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901430,
     "wof:geomhash":"4b90fce7b2c5609de8dda1dc83f301c1",
@@ -186,7 +192,7 @@
         }
     ],
     "wof:id":1108734523,
-    "wof:lastmodified":1694639684,
+    "wof:lastmodified":1695886227,
     "wof:name":"Kokhma",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

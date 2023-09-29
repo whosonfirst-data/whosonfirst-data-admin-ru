@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KV.PI",
+        "meso:okato_code":"33231000",
+        "meso:oktmo_code":"33631000",
         "wd:id":"Q2218676"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902529,
     "wof:geomhash":"4f0db0b773b08abc82920d1f38464d66",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108735881,
-    "wof:lastmodified":1694639770,
+    "wof:lastmodified":1695886344,
     "wof:name":"Pizhanskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",

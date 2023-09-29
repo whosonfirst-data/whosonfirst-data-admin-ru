@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015728,
-    "geom:area_square_m":106934271.587254,
+    "geom:area_square_m":106934111.462723,
     "geom:bbox":"47.798042,56.567637,48.096762,56.709199",
     "geom:latitude":56.64288,
     "geom:longitude":47.94206,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"88401000",
+        "meso:oktmo_code":"88701000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901091,
-    "wof:geomhash":"4919809f48619c4d0bd9ad6fa2479f98",
+    "wof:geomhash":"460f3864db0af802f3996c71a4d8d8ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108734121,
-    "wof:lastmodified":1627522578,
+    "wof:lastmodified":1695886249,
     "wof:name":"Joshkar-Ola",
     "wof:parent_id":85688043,
     "wof:placetype":"county",

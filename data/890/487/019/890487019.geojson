@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.220719,
-    "geom:area_square_m":1574828907.650593,
+    "geom:area_square_m":1574828606.058436,
     "geom:bbox":"55.321514,54.443146,56.389021,54.982137",
     "geom:latitude":54.75852,
     "geom:longitude":55.826827,
@@ -186,16 +186,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12597274,
+        "meso:okato_code":"80252000",
+        "meso:oktmo_code":"80652000",
         "qs_pg:id":224457,
         "wd:id":"Q1092754",
         "wk:page":"Ufimsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054650,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f205ddd87c44636c7eedfeba8ee2dcdd",
+    "wof:geomhash":"8cf62a75e575e6731f4aea9d56174eb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,7 +212,7 @@
         }
     ],
     "wof:id":890487019,
-    "wof:lastmodified":1690860103,
+    "wof:lastmodified":1695886483,
     "wof:name":"Ufimskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

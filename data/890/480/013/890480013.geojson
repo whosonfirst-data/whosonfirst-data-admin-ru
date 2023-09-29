@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.19241,
-    "geom:area_square_m":7017671457.589146,
+    "geom:area_square_m":7017671337.213202,
     "geom:bbox":"33.707093,61.135362,35.704649,62.072883",
     "geom:latitude":61.578196,
     "geom:longitude":34.712169,
@@ -172,16 +172,22 @@
     "wof:concordances":{
         "gp:id":12597436,
         "hasc:id":"RU.KI.PN",
+        "meso:okato_code":"86236000",
+        "meso:oktmo_code":"86636000",
         "qs_pg:id":1209230,
         "wd:id":"Q1036155",
         "wk:page":"Prionezhsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054279,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f8fd97859fefa8310173bb5f5df40e7a",
+    "wof:geomhash":"d4d9aaa908d0f7153f73998325fd1483",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -192,7 +198,7 @@
         }
     ],
     "wof:id":890480013,
-    "wof:lastmodified":1690860123,
+    "wof:lastmodified":1695886487,
     "wof:name":"Prionezhskiy",
     "wof:parent_id":85688193,
     "wof:placetype":"county",

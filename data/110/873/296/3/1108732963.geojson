@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KS.BE",
+        "meso:okato_code":"38202000",
+        "meso:oktmo_code":"38602000",
         "wd:id":"Q2628834"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900044,
     "wof:geomhash":"c93661275a04d9e129fd02fef42b0809",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108732963,
-    "wof:lastmodified":1694639730,
+    "wof:lastmodified":1695886196,
     "wof:name":"Belovskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

@@ -103,8 +103,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KN.BG",
+        "meso:okato_code":"27203000",
+        "meso:oktmo_code":"27711000",
         "wd:id":"Q2327532"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901749,
     "wof:geomhash":"bfcfab5529941298ecdf79d3aca46e79",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1108734881,
-    "wof:lastmodified":1694639753,
+    "wof:lastmodified":1695886291,
     "wof:name":"Ladushkinskiy",
     "wof:parent_id":85688215,
     "wof:placetype":"county",

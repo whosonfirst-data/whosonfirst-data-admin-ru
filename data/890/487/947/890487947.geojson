@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075688,
-    "geom:area_square_m":687590383.914665,
+    "geom:area_square_m":687590145.364466,
     "geom:bbox":"46.00327,42.568775,46.505303,42.907526",
     "geom:latitude":42.719626,
     "geom:longitude":46.240019,
@@ -181,15 +181,21 @@
     "wof:concordances":{
         "gn:id":571887,
         "hasc:id":"RU.DA.BO",
+        "meso:okato_code":"82209000",
+        "meso:oktmo_code":"82609000",
         "qs_pg:id":549960,
         "wd:id":"Q1439001"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054696,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1acdd86971c7f52b4ea387bca02cc911",
+    "wof:geomhash":"147dd1b07cbc0592d7c66b0858571252",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -200,7 +206,7 @@
         }
     ],
     "wof:id":890487947,
-    "wof:lastmodified":1690860095,
+    "wof:lastmodified":1695886482,
     "wof:name":"Botlikhskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

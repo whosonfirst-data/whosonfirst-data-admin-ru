@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000999,
-    "geom:area_square_m":6978487.979438,
+    "geom:area_square_m":6978449.984349,
     "geom:bbox":"37.574836,55.603298,37.637756,55.627956",
     "geom:latitude":55.61443,
     "geom:longitude":37.603632,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45296595",
+        "meso:oktmo_code":"45925000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902679,
-    "wof:geomhash":"e3eec4dadd36dc18e3559440a41cc91d",
+    "wof:geomhash":"1d40fccde474d14a9317ba270cc4a6b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108736075,
-    "wof:lastmodified":1627522557,
+    "wof:lastmodified":1695886217,
     "wof:name":"Chertanovo Central'noe",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

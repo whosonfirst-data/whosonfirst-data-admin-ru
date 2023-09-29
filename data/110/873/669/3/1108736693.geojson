@@ -222,8 +222,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.PE.SR"
+        "hasc:id":"RU.PE.SR",
+        "meso:okato_code":"57430000",
+        "meso:oktmo_code":"57730000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903152,
     "wof:geomhash":"9e78cdc0a4e2264106921c64582cf1cc",
@@ -237,7 +243,7 @@
         }
     ],
     "wof:id":1108736693,
-    "wof:lastmodified":1694639805,
+    "wof:lastmodified":1695886731,
     "wof:name":"Solikamsk",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

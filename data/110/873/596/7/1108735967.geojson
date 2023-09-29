@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001628,
-    "geom:area_square_m":11327859.173559,
+    "geom:area_square_m":11327937.898434,
     "geom:bbox":"37.518824,55.744762,37.601719,55.776493",
     "geom:latitude":55.761013,
     "geom:longitude":37.558267,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45286575",
+        "meso:oktmo_code":"45380000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902597,
-    "wof:geomhash":"6bee7e501b5734eb7d765bfbecd45a65",
+    "wof:geomhash":"09b2875d9899ce7922f42ee0b081ae9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108735967,
-    "wof:lastmodified":1627522666,
+    "wof:lastmodified":1695886349,
     "wof:name":"Presnenskiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SL.AR",
+        "meso:okato_code":"64204000",
+        "meso:oktmo_code":"64704000",
         "wd:id":"Q3609566"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899782,
     "wof:geomhash":"30e458481b44f0a062e47f6088110fad",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108732681,
-    "wof:lastmodified":1694639683,
+    "wof:lastmodified":1695886224,
     "wof:name":"Aleksandrovsk-Sakhalinskiy",
     "wof:parent_id":85688125,
     "wof:placetype":"county",

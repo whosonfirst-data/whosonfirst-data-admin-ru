@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001712,
-    "geom:area_square_m":11943985.068367,
+    "geom:area_square_m":11944026.710286,
     "geom:bbox":"37.372907,55.624029,37.428792,55.680846",
     "geom:latitude":55.650557,
     "geom:longitude":37.399196,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45268588",
+        "meso:oktmo_code":"45326000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902788,
-    "wof:geomhash":"49386465a4b1ec1a73aa62a7eaaa752e",
+    "wof:geomhash":"c56bb5548b241d3a0566495b24fed520",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736225,
-    "wof:lastmodified":1627522690,
+    "wof:lastmodified":1695886381,
     "wof:name":"Solncevo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.926718,
-    "geom:area_square_m":10570875524.163052,
+    "geom:area_square_m":10570874796.52676,
     "geom:bbox":"32.953147,63.142624,36.266558,64.247207",
     "geom:latitude":63.659327,
     "geom:longitude":34.503058,
@@ -145,11 +145,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"86245000",
+        "meso:oktmo_code":"86645000",
         "wd:id":"Q1036167"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902933,
-    "wof:geomhash":"6ce91593be9d6db41ea79c3fb6e63b50",
+    "wof:geomhash":"893a7740086078533885c22e59aa0717",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,7 +166,7 @@
         }
     ],
     "wof:id":1108736413,
-    "wof:lastmodified":1690859619,
+    "wof:lastmodified":1695886260,
     "wof:name":"Segezhskiy",
     "wof:parent_id":85688193,
     "wof:placetype":"county",

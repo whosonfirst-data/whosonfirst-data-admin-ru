@@ -258,8 +258,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.MS.BR"
+        "hasc:id":"RU.MS.BR",
+        "meso:okato_code":"46204000",
+        "meso:oktmo_code":"46704000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900746,
     "wof:geomhash":"7992e05ea96d56ae8e60e29ce0692f0f",
@@ -273,7 +279,7 @@
         }
     ],
     "wof:id":1108733705,
-    "wof:lastmodified":1694639684,
+    "wof:lastmodified":1695886232,
     "wof:name":"Balashikha",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

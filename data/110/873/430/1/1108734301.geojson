@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KS.KA",
+        "meso:okato_code":"38214000",
+        "meso:oktmo_code":"38614000",
         "wd:id":"Q2629918"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901245,
     "wof:geomhash":"9f51163f3af27c89dbd2935dc7dc0a6d",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108734301,
-    "wof:lastmodified":1694639744,
+    "wof:lastmodified":1695886260,
     "wof:name":"Kastorenskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

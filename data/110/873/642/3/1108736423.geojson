@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RO.SE",
+        "meso:okato_code":"60251000",
+        "meso:oktmo_code":"60651000",
         "wd:id":"Q2220337"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902939,
     "wof:geomhash":"e5cadcfef0940d25b451b484e05c1395",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108736423,
-    "wof:lastmodified":1694639776,
+    "wof:lastmodified":1695886364,
     "wof:name":"Semikarakorskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

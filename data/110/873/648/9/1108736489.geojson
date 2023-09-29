@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OL.SH",
+        "meso:okato_code":"54259000",
+        "meso:oktmo_code":"54659000",
         "wd:id":"Q2217663"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902997,
     "wof:geomhash":"8321e4543547204cc42ea9c4339344c6",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108736489,
-    "wof:lastmodified":1694639777,
+    "wof:lastmodified":1695886369,
     "wof:name":"Shablykinskiy",
     "wof:parent_id":85687849,
     "wof:placetype":"county",

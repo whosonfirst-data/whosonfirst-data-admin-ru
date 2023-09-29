@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.435002,
-    "geom:area_square_m":3901929726.581357,
+    "geom:area_square_m":3901929692.945959,
     "geom:bbox":"41.506098,43.187403,42.431963,43.913031",
     "geom:latitude":43.496206,
     "geom:longitude":42.000709,
@@ -169,16 +169,22 @@
     "wof:concordances":{
         "gp:id":12597949,
         "hasc:id":"RU.KC.KR",
+        "meso:okato_code":"91215000",
+        "meso:oktmo_code":"91615000",
         "qs_pg:id":221449,
         "wd:id":"Q1049128",
         "wk:page":"Karachayevsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054649,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6c1bc63b9637b171d4d7a18cdcc702d2",
+    "wof:geomhash":"82e949e68713b7d8c197233ed2c28e47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -189,7 +195,7 @@
         }
     ],
     "wof:id":890487001,
-    "wof:lastmodified":1690860091,
+    "wof:lastmodified":1695886480,
     "wof:name":"Karachaevskiy",
     "wof:parent_id":85687913,
     "wof:placetype":"county",

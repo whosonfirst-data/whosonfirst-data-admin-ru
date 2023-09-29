@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117656,
-    "geom:area_square_m":832695482.31718,
+    "geom:area_square_m":832695200.037534,
     "geom:bbox":"42.961589,54.909058,43.74694,55.271581",
     "geom:latitude":55.084867,
     "geom:longitude":43.384219,
@@ -135,16 +135,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598206,
+        "meso:okato_code":"22232000",
+        "meso:oktmo_code":"22632000",
         "qs_pg:id":1183201,
         "wd:id":"Q961410",
         "wk:page":"Diveyevsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054557,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fdf82d9f8147659a71042b66c79a86aa",
+    "wof:geomhash":"e01d056d6c8218440b7d3aeda4361ebe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":890485359,
-    "wof:lastmodified":1690859833,
+    "wof:lastmodified":1695886443,
     "wof:name":"Diveevskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

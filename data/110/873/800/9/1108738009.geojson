@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01011,
-    "geom:area_square_m":73935680.713812,
+    "geom:area_square_m":73935664.934344,
     "geom:bbox":"127.144741,53.666744,127.315084,53.797203",
     "geom:latitude":53.741697,
     "geom:longitude":127.227392,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"10412000",
+        "meso:oktmo_code":"10712000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903863,
-    "wof:geomhash":"ec99f70b012e0958741398b945f1634f",
+    "wof:geomhash":"a4a19106754fb1a2d9200f12bc71b0ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108738009,
-    "wof:lastmodified":1627522736,
+    "wof:lastmodified":1695886439,
     "wof:name":"Zeja",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

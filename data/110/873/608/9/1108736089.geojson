@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001479,
-    "geom:area_square_m":10286981.061841,
+    "geom:area_square_m":10286993.048755,
     "geom:bbox":"37.799384,55.747525,37.845145,55.79026",
     "geom:latitude":55.771275,
     "geom:longitude":37.823578,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45263567",
+        "meso:oktmo_code":"45306000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902689,
-    "wof:geomhash":"2028ad3241a374c6b327cfa5370cf9b6",
+    "wof:geomhash":"62421d556a5485d9a2946474f061428e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736089,
-    "wof:lastmodified":1627522581,
+    "wof:lastmodified":1695886252,
     "wof:name":"Ivanovskoe",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

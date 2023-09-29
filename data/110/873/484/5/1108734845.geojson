@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.330658,
-    "geom:area_square_m":2152181294.811848,
+    "geom:area_square_m":2152181386.037133,
     "geom:bbox":"58.909714,57.959129,59.952788,58.550109",
     "geom:latitude":58.238776,
     "geom:longitude":59.475313,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"65470000",
+        "meso:oktmo_code":"65748000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901717,
-    "wof:geomhash":"41a8510c9b952988f6925bc67b4c2862",
+    "wof:geomhash":"d3308a45fac175fd3b1789879eaaa5a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108734845,
-    "wof:lastmodified":1627522615,
+    "wof:lastmodified":1695886289,
     "wof:name":"Kushvinskiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

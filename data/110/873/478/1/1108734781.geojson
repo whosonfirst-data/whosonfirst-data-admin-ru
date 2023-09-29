@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RO.KU",
+        "meso:okato_code":"60227000",
+        "meso:oktmo_code":"60627000",
         "wd:id":"Q1767244"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901648,
     "wof:geomhash":"b32742efd2e6099941862792488e6d04",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108734781,
-    "wof:lastmodified":1694639752,
+    "wof:lastmodified":1695886290,
     "wof:name":"Kujbyshevskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

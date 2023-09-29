@@ -210,8 +210,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.IR.CR"
+        "hasc:id":"RU.IR.CR",
+        "meso:okato_code":"25445000",
+        "meso:oktmo_code":"25745000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900295,
     "wof:geomhash":"416be1936156b1690f2618fe68bf2ebc",
@@ -225,7 +231,7 @@
         }
     ],
     "wof:id":1108733233,
-    "wof:lastmodified":1694492927,
+    "wof:lastmodified":1695886731,
     "wof:name":"Cheremkhovo",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

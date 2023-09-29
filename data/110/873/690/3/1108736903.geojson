@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RO.TT",
+        "meso:okato_code":"60254000",
+        "meso:oktmo_code":"60654000",
         "wd:id":"Q576974"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903321,
     "wof:geomhash":"30c6e9b7a1ccd2034fc3c926c0e8b5aa",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108736903,
-    "wof:lastmodified":1694639785,
+    "wof:lastmodified":1695886398,
     "wof:name":"Tacinskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

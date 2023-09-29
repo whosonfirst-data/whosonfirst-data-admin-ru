@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005533,
-    "geom:area_square_m":48725717.781794,
+    "geom:area_square_m":48725786.867587,
     "geom:bbox":"132.754088,44.549044,132.870149,44.642601",
     "geom:latitude":44.59155,
     "geom:longitude":132.81647,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"05420000",
+        "meso:oktmo_code":"05720000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903212,
-    "wof:geomhash":"32b2e201248ccd3ccd3507bbea3fc00b",
+    "wof:geomhash":"d4088d0ce326106b05efc3783f0e258c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736767,
-    "wof:lastmodified":1627522693,
+    "wof:lastmodified":1695886384,
     "wof:name":"Spassk-Dal'nij",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

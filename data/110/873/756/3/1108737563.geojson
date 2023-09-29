@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SV.KP"
+        "hasc:id":"RU.SV.KP",
+        "meso:okato_code":"65445000",
+        "meso:oktmo_code":"65735000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903758,
     "wof:geomhash":"66db61a57d0e6e13fc5b6bbfb16cd5f8",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108737563,
-    "wof:lastmodified":1694639793,
+    "wof:lastmodified":1695886426,
     "wof:name":"Volchanskiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

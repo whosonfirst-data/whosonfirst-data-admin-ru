@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120591,
-    "geom:area_square_m":870533155.122131,
+    "geom:area_square_m":870533253.976068,
     "geom:bbox":"44.828098,54.1245,45.643227,54.494807",
     "geom:latitude":54.281033,
     "geom:longitude":45.206042,
@@ -139,11 +139,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"89237000",
+        "meso:oktmo_code":"89637000",
         "wd:id":"Q629421"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901806,
-    "wof:geomhash":"494dce277a4d32120d0293da51a0fa5e",
+    "wof:geomhash":"7e258dd3f64edb49704345420060c085",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":1108734961,
-    "wof:lastmodified":1690859481,
+    "wof:lastmodified":1695886297,
     "wof:name":"Ljambirskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",

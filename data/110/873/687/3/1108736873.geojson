@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OB.SV",
+        "meso:okato_code":"53242000",
+        "meso:oktmo_code":"53642000",
         "wd:id":"Q1884271"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903300,
     "wof:geomhash":"bb5c69a03b8379fdaf2254a402a805cf",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108736873,
-    "wof:lastmodified":1694639784,
+    "wof:lastmodified":1695886390,
     "wof:name":"Svetlinskiy",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

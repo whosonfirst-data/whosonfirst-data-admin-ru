@@ -122,8 +122,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KY.BG",
+        "meso:okato_code":"04208000",
+        "meso:oktmo_code":"04608000",
         "wd:id":"Q833435"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900121,
     "wof:geomhash":"3891e6f757894739d08199cf5a34ffb8",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1108733037,
-    "wof:lastmodified":1694492723,
+    "wof:lastmodified":1695886201,
     "wof:name":"Bogotol'skiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

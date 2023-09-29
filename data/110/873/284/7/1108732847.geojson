@@ -116,8 +116,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.UB.BA",
+        "meso:okato_code":"25125000",
+        "meso:oktmo_code":"25825000",
         "wd:id":"Q1651119"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899927,
     "wof:geomhash":"3fa370c2e47a3668bd4d4b3dd4fce932",
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":1108732847,
-    "wof:lastmodified":1694492720,
+    "wof:lastmodified":1695886193,
     "wof:name":"Bajandaevskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CT.ZA",
+        "meso:okato_code":"76212000",
+        "meso:oktmo_code":"76612000",
         "wd:id":"Q2217944"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903811,
     "wof:geomhash":"4a7b968abdfd870cd783f618ffce633a",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108737787,
-    "wof:lastmodified":1694492787,
+    "wof:lastmodified":1695886434,
     "wof:name":"Zabajkal'skiy",
     "wof:parent_id":85688005,
     "wof:placetype":"county",

@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AM.IV",
+        "meso:okato_code":"10228000",
+        "meso:oktmo_code":"10628000",
         "wd:id":"Q1763275"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901012,
     "wof:geomhash":"995faaa440d9bacb0c8d460cf23d2c0b",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108734037,
-    "wof:lastmodified":1694639742,
+    "wof:lastmodified":1695886251,
     "wof:name":"Ivanovskiy",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

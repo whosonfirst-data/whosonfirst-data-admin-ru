@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.NG.SR"
+        "hasc:id":"RU.NG.SR",
+        "meso:okato_code":"49239000",
+        "meso:oktmo_code":"49639000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903237,
     "wof:geomhash":"f0fe904c7f71ffbecdf888b732fa6459",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108736803,
-    "wof:lastmodified":1694639783,
+    "wof:lastmodified":1695886387,
     "wof:name":"Starorusskiy",
     "wof:parent_id":85688095,
     "wof:placetype":"county",

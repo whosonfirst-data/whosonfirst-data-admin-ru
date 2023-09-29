@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014532,
-    "geom:area_square_m":107186003.516008,
+    "geom:area_square_m":107186010.927578,
     "geom:bbox":"55.827328,53.31528,56.006306,53.450316",
     "geom:latitude":53.379875,
     "geom:longitude":55.914037,
@@ -110,10 +110,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"80439000",
+        "meso:oktmo_code":"80739000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900707,
-    "wof:geomhash":"139365be1d5bbff5348ed8345fc5cced",
+    "wof:geomhash":"fb915f025808053a72f57950dc81f97d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,7 +131,7 @@
         }
     ],
     "wof:id":1108733671,
-    "wof:lastmodified":1636497196,
+    "wof:lastmodified":1695886733,
     "wof:name":"Salavat",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

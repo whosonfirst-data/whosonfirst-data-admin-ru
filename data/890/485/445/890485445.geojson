@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.094858,
-    "geom:area_square_m":63000373408.667694,
+    "geom:area_square_m":63000371387.434052,
     "geom:bbox":"130.641636,49.206648,135.090077,52.68545",
     "geom:latitude":50.989266,
     "geom:longitude":132.891154,
@@ -154,16 +154,22 @@
     "wof:concordances":{
         "gp:id":12597762,
         "hasc:id":"RU.KH.VE",
+        "meso:okato_code":"08214000",
+        "meso:oktmo_code":"08614000",
         "qs_pg:id":57507,
         "wd:id":"Q826648",
         "wk:page":"Verkhnebureinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054561,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"65abfc2af0ed55ab6a28423d93036101",
+    "wof:geomhash":"5913fc57e84a0011e6d8c2ec6b90314e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":890485445,
-    "wof:lastmodified":1690859842,
+    "wof:lastmodified":1695886444,
     "wof:name":"Verkhnebureinskiy",
     "wof:parent_id":85687937,
     "wof:placetype":"county",

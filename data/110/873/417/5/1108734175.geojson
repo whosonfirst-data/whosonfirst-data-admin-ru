@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138205,
-    "geom:area_square_m":991635925.005198,
+    "geom:area_square_m":991635883.27276,
     "geom:bbox":"41.972076,54.318706,42.688313,54.712627",
     "geom:latitude":54.530609,
     "geom:longitude":42.389135,
@@ -118,11 +118,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"61206000",
+        "meso:oktmo_code":"61606000",
         "wd:id":"Q2219005"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901143,
-    "wof:geomhash":"6dfc8ab2e530aba1eab05da1ba7e7ecc",
+    "wof:geomhash":"bd298c711634da6bb20e08414c673857",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":1108734175,
-    "wof:lastmodified":1690859590,
+    "wof:lastmodified":1695886254,
     "wof:name":"Kadomskiy",
     "wof:parent_id":85687963,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.504489,
-    "geom:area_square_m":3761936139.343949,
+    "geom:area_square_m":3761935692.456984,
     "geom:bbox":"51.695163,52.513968,52.82346,53.326332",
     "geom:latitude":52.910555,
     "geom:longitude":52.301833,
@@ -127,11 +127,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"53212000",
+        "meso:oktmo_code":"53612000",
         "wd:id":"Q1651507"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900225,
-    "wof:geomhash":"d31b0844d669d44640c4674dc0ae6a14",
+    "wof:geomhash":"d6eb3920868ead3543cc329f552a803a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":1108733151,
-    "wof:lastmodified":1690859504,
+    "wof:lastmodified":1695886206,
     "wof:name":"Buzulukskiy",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

@@ -116,8 +116,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.UB.NU",
+        "meso:okato_code":"25132000",
+        "meso:oktmo_code":"25832000",
         "wd:id":"Q1653934"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902282,
     "wof:geomhash":"9e90106e267bcff1bdb2390545161c08",
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":1108735575,
-    "wof:lastmodified":1694492756,
+    "wof:lastmodified":1695886323,
     "wof:name":"Nukutskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

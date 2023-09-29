@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.ST.SH",
+        "meso:okato_code":"07258000",
+        "meso:oktmo_code":"07658000",
         "wd:id":"Q1253510"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903085,
     "wof:geomhash":"f3823eb2f93389446c4c659874ddaf14",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108736603,
-    "wof:lastmodified":1694639779,
+    "wof:lastmodified":1695886375,
     "wof:name":"Shpakovskiy",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

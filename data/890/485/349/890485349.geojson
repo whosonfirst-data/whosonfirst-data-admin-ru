@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.309662,
-    "geom:area_square_m":2132557678.22049,
+    "geom:area_square_m":2132557217.010955,
     "geom:bbox":"44.712519,55.856934,45.655567,56.470834",
     "geom:latitude":56.155084,
     "geom:longitude":45.15745,
@@ -154,16 +154,22 @@
     "wof:concordances":{
         "gp:id":12598220,
         "hasc:id":"RU.NZ.LY",
+        "meso:okato_code":"22240000",
+        "meso:oktmo_code":"22640000",
         "qs_pg:id":1183196,
         "wd:id":"Q1653020",
         "wk:page":"Lyskovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054557,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bd90e5316fc51c1ec1a6bc7bf6b41d13",
+    "wof:geomhash":"f87ee50e499f065b7be31fc8ff8c6bb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":890485349,
-    "wof:lastmodified":1690859830,
+    "wof:lastmodified":1695886442,
     "wof:name":"Lyskovskiy",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

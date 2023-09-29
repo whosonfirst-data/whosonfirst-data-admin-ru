@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06888,
-    "geom:area_square_m":408968665.717109,
+    "geom:area_square_m":408968810.712116,
     "geom:bbox":"63.06576,61.163826,63.51942,61.458985",
     "geom:latitude":61.303249,
     "geom:longitude":63.31735,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"71187000",
+        "meso:oktmo_code":"71887000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900641,
-    "wof:geomhash":"251db0cce0140bbca7ed8813c98b6db7",
+    "wof:geomhash":"34c389360e5d9aa46a94e61cce6995d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108733635,
-    "wof:lastmodified":1627522578,
+    "wof:lastmodified":1695886248,
     "wof:name":"Jugorsk",
     "wof:parent_id":85687919,
     "wof:placetype":"county",

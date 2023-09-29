@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KG.MS",
+        "meso:okato_code":"29227000",
+        "meso:oktmo_code":"29627000",
         "wd:id":"Q378847"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901928,
     "wof:geomhash":"52c0be3e403cdc8f1bce27ca7ba53b10",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108735109,
-    "wof:lastmodified":1694639757,
+    "wof:lastmodified":1695886302,
     "wof:name":"Meshhovskiy",
     "wof:parent_id":85688131,
     "wof:placetype":"county",

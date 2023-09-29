@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":17.565306,
-    "geom:area_square_m":103719409266.561279,
+    "geom:area_square_m":103719411029.929321,
     "geom:bbox":"68.73293,58.663601,76.681267,63.442968",
     "geom:latitude":61.467388,
     "geom:longitude":73.287363,
@@ -144,16 +144,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12599483,
+        "meso:okato_code":"71126000",
+        "meso:oktmo_code":"71826000",
         "qs_pg:id":1209330,
         "wd:id":"Q557574",
         "wk:page":"Surgutsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054284,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cf325a7ac7c3c28e47f76453e7350527",
+    "wof:geomhash":"bac9cdd5a6ca4083ae50545692101172",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":890480111,
-    "wof:lastmodified":1690860131,
+    "wof:lastmodified":1695886488,
     "wof:name":"Surgutskiy",
     "wof:parent_id":85687919,
     "wof:placetype":"county",

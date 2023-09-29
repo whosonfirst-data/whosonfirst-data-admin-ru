@@ -114,8 +114,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SV.SH"
+        "hasc:id":"RU.SV.SH",
+        "meso:okato_code":"65257000",
+        "meso:oktmo_code":"65766000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900878,
     "wof:geomhash":"226f279c1e8eb75ec84c47f4c4cce4d7",
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":1108733871,
-    "wof:lastmodified":1694639782,
+    "wof:lastmodified":1695886386,
     "wof:name":"Staroutkinsk",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

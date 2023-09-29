@@ -160,8 +160,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KO.SO",
+        "meso:okato_code":"87422000",
+        "meso:oktmo_code":"87626000",
         "wd:id":"Q1075102"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902790,
     "wof:geomhash":"ac8bce989015f2dbcf20e47cba52ad7b",
@@ -175,7 +181,7 @@
         }
     ],
     "wof:id":1108736227,
-    "wof:lastmodified":1694639805,
+    "wof:lastmodified":1695886733,
     "wof:name":"Sosnogorsk",
     "wof:parent_id":85688077,
     "wof:placetype":"county",

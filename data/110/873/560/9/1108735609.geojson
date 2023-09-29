@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KH.OK",
+        "meso:okato_code":"08234000",
+        "meso:oktmo_code":"08634000",
         "wd:id":"Q642994"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902310,
     "wof:geomhash":"2b2b6532b6cde2b812c98b7ae4fd8f07",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108735609,
-    "wof:lastmodified":1694639763,
+    "wof:lastmodified":1695886326,
     "wof:name":"Okhotskiy",
     "wof:parent_id":85687937,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083342,
-    "geom:area_square_m":654266330.130586,
+    "geom:area_square_m":654266421.285476,
     "geom:bbox":"35.736815,50.432158,36.220762,50.756025",
     "geom:latitude":50.589318,
     "geom:longitude":35.988255,
@@ -151,15 +151,21 @@
     "wof:concordances":{
         "gn:id":572391,
         "hasc:id":"RU.BL.BO",
+        "meso:okato_code":"14215000",
+        "meso:oktmo_code":"14615000",
         "qs_pg:id":549968,
         "wd:id":"Q2216168"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054168,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ef29dfa1cfd5e89f5e57a25736e5f661",
+    "wof:geomhash":"5f41bb0ae2f7f4eda3785a03914e89d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":890478353,
-    "wof:lastmodified":1690859771,
+    "wof:lastmodified":1695886438,
     "wof:name":"Borisovskiy",
     "wof:parent_id":85687813,
     "wof:placetype":"county",

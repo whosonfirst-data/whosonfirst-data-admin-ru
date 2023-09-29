@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043243,
-    "geom:area_square_m":322547756.376914,
+    "geom:area_square_m":322547598.12066,
     "geom:bbox":"158.238969,52.762001,158.642441,53.04156",
     "geom:latitude":52.898516,
     "geom:longitude":158.431857,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"30535000",
+        "meso:oktmo_code":"30735000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903736,
-    "wof:geomhash":"a74c72322abd0cc4ebc2634de46f840a",
+    "wof:geomhash":"73dc42c0790848934cc49aacde69e6a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108737457,
-    "wof:lastmodified":1627522726,
+    "wof:lastmodified":1695886425,
     "wof:name":"Viljuchinskiy",
     "wof:parent_id":85687955,
     "wof:placetype":"county",

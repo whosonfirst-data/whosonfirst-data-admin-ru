@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108255,
-    "geom:area_square_m":764265673.4694,
+    "geom:area_square_m":764265625.508495,
     "geom:bbox":"36.022295,55.061246,36.810168,55.350053",
     "geom:latitude":55.18355,
     "geom:longitude":36.423313,
@@ -135,16 +135,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598392,
+        "meso:okato_code":"29206000",
+        "meso:oktmo_code":"29606000",
         "qs_pg:id":1087090,
         "wd:id":"Q12015831",
         "wk:page":"Borovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054503,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1cd1b9c7cd24debe929ecf1bc7d1ecdb",
+    "wof:geomhash":"181e1418bf0ccda5a199d8cf89793aa1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":890484205,
-    "wof:lastmodified":1690859936,
+    "wof:lastmodified":1695886462,
     "wof:name":"Borovskiy",
     "wof:parent_id":85688131,
     "wof:placetype":"county",

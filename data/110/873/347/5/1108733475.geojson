@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.MR.YE",
+        "meso:okato_code":"89218000",
+        "meso:oktmo_code":"89618000",
         "wd:id":"Q408606"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900504,
     "wof:geomhash":"072845e75ab825c6f87cd76237ca2cf3",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108733475,
-    "wof:lastmodified":1694639738,
+    "wof:lastmodified":1695886231,
     "wof:name":"El'nikovskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",

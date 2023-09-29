@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.022012,
-    "geom:area_square_m":8003008577.624378,
+    "geom:area_square_m":8003008255.722773,
     "geom:bbox":"103.996074,50.301292,106.230026,51.264037",
     "geom:latitude":50.707119,
     "geom:longitude":105.099444,
@@ -172,16 +172,22 @@
     "wof:concordances":{
         "gp:id":12597282,
         "hasc:id":"RU.BU.DZ",
+        "meso:okato_code":"81212000",
+        "meso:oktmo_code":"81612000",
         "qs_pg:id":1105798,
         "wd:id":"Q674607",
         "wk:page":"Dzhidinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054505,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d35f5113802e4832f830b4afe3c20007",
+    "wof:geomhash":"38128005c8f74e2fd8fea7d22787414a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -192,7 +198,7 @@
         }
     ],
     "wof:id":890484265,
-    "wof:lastmodified":1690859948,
+    "wof:lastmodified":1695886466,
     "wof:name":"Dzhidinskiy",
     "wof:parent_id":85688207,
     "wof:placetype":"county",

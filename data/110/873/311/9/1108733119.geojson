@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011824,
-    "geom:area_square_m":86681962.856975,
+    "geom:area_square_m":86682072.332649,
     "geom:bbox":"52.257696,53.572449,52.504129,53.701974",
     "geom:latitude":53.639387,
     "geom:longitude":52.395973,
@@ -203,10 +203,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"53408000",
+        "meso:oktmo_code":"53708000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900186,
-    "wof:geomhash":"e74c923aa10958699c98f8868a681fd7",
+    "wof:geomhash":"99454e88ccf03aec94a96cd4137174c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -217,7 +224,7 @@
         }
     ],
     "wof:id":1108733119,
-    "wof:lastmodified":1636497199,
+    "wof:lastmodified":1695886734,
     "wof:name":"Buguruslan",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

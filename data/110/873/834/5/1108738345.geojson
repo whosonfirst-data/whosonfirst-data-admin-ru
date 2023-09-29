@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TV.ZU",
+        "meso:okato_code":"28218000",
+        "meso:oktmo_code":"28618000",
         "wd:id":"Q2218003"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903922,
     "wof:geomhash":"3243009f55e78d93a3ee754206a306e6",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108738345,
-    "wof:lastmodified":1694639796,
+    "wof:lastmodified":1695886443,
     "wof:name":"Zubcovskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

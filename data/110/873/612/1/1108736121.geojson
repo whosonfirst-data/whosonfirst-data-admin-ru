@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000588,
-    "geom:area_square_m":4096530.636301,
+    "geom:area_square_m":4096495.214647,
     "geom:bbox":"37.580631,55.665011,37.613643,55.691611",
     "geom:latitude":55.677591,
     "geom:longitude":37.597304,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45293570",
+        "meso:oktmo_code":"45903000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902714,
-    "wof:geomhash":"a7a45fb097dce84d05a867340628af92",
+    "wof:geomhash":"db29a3f4e694cb86966f8c7ed013f0bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736121,
-    "wof:lastmodified":1627522605,
+    "wof:lastmodified":1695886277,
     "wof:name":"Kotlovka",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

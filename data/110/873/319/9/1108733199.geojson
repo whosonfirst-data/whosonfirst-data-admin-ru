@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.CL.CR"
+        "hasc:id":"RU.CL.CR",
+        "meso:okato_code":"75458000",
+        "meso:oktmo_code":"75758000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900264,
     "wof:geomhash":"895c0e5ea3aeaf0d9a7d033a71f0b56a",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733199,
-    "wof:lastmodified":1694639785,
+    "wof:lastmodified":1695886399,
     "wof:name":"Chebarkul'skiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

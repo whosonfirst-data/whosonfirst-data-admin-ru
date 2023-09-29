@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.IV.YR",
+        "meso:okato_code":"24237000",
+        "meso:oktmo_code":"24637000",
         "wd:id":"Q1568615"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901100,
     "wof:geomhash":"e6e592995a6ad682a4336010fc265a43",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108734135,
-    "wof:lastmodified":1694639795,
+    "wof:lastmodified":1695886433,
     "wof:name":"Jur'eveckij",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

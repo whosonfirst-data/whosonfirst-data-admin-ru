@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NZ.GR",
+        "meso:okato_code":"22228000",
+        "meso:oktmo_code":"22628000",
         "wd:id":"Q1642240"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900734,
     "wof:geomhash":"e2c29f371d80a5a76f7f34a4d86f12e1",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108733691,
-    "wof:lastmodified":1694639737,
+    "wof:lastmodified":1695886229,
     "wof:name":"eckij",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

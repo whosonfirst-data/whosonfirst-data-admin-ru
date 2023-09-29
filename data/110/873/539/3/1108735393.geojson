@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PZ.NR",
+        "meso:okato_code":"56251000",
+        "meso:oktmo_code":"56651000",
         "wd:id":"Q371105"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902159,
     "wof:geomhash":"ef2a43eefe8c1671721a51538ed22f5f",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108735393,
-    "wof:lastmodified":1694639760,
+    "wof:lastmodified":1695886313,
     "wof:name":"Nizhnelomovskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",

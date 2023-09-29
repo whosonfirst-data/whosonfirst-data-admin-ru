@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000796,
-    "geom:area_square_m":5333986.107577,
+    "geom:area_square_m":5334079.113849,
     "geom:bbox":"33.041752,57.191149,33.091155,57.216235",
     "geom:latitude":57.203424,
     "geom:longitude":33.066857,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"28556000",
+        "meso:oktmo_code":"28756000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903160,
-    "wof:geomhash":"6f0fa8e57318b45c6443e5b316026dc7",
+    "wof:geomhash":"4e46fd21bfaffb10016f244c998071d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736705,
-    "wof:lastmodified":1627522690,
+    "wof:lastmodified":1695886381,
     "wof:name":"Solnechnyj",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005945,
-    "geom:area_square_m":40369090.832034,
+    "geom:area_square_m":40369153.022551,
     "geom:bbox":"60.804724,56.657916,60.965002,56.726433",
     "geom:latitude":56.691629,
     "geom:longitude":60.867611,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"65241000",
+        "meso:oktmo_code":"65729000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899837,
-    "wof:geomhash":"f4bdb98285f81d7eb88d9f71eba29d92",
+    "wof:geomhash":"503c709eb3cf2b04ebde809d9a73a977",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108732755,
-    "wof:lastmodified":1627522536,
+    "wof:lastmodified":1695886186,
     "wof:name":"Aramil'skiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

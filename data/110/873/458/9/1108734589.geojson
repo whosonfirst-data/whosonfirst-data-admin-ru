@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008647,
-    "geom:area_square_m":51362321.745457,
+    "geom:area_square_m":51362256.139736,
     "geom:bbox":"47.033024,61.248091,47.231221,61.332968",
     "geom:latitude":61.291376,
     "geom:longitude":47.119346,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"11408000",
+        "meso:oktmo_code":"11708000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901487,
-    "wof:geomhash":"e3f9dd77fe2fcdba6a4b89f182cded77",
+    "wof:geomhash":"92e722070845c14120b580873f3ba8eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108734589,
-    "wof:lastmodified":1627522603,
+    "wof:lastmodified":1695886275,
     "wof:name":"Korjazhma",
     "wof:parent_id":85687971,
     "wof:placetype":"county",

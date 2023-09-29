@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001403,
-    "geom:area_square_m":9781067.702054,
+    "geom:area_square_m":9781077.924666,
     "geom:bbox":"37.651696,55.650848,37.712459,55.702913",
     "geom:latitude":55.679456,
     "geom:longitude":37.680005,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45296573",
+        "meso:oktmo_code":"45919000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902746,
-    "wof:geomhash":"7a5913015dc641ed3d3b2fb6984f7046",
+    "wof:geomhash":"5f363a93e491c6890bbceb41ffe53c30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108736165,
-    "wof:lastmodified":1627522633,
+    "wof:lastmodified":1695886309,
     "wof:name":"Nagatinskiy Zaton",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

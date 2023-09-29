@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007663,
-    "geom:area_square_m":53109515.502065,
+    "geom:area_square_m":53109493.46977,
     "geom:bbox":"37.788159,55.86308,37.924035,55.956491",
     "geom:latitude":55.911029,
     "geom:longitude":37.862249,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"46434000",
+        "meso:oktmo_code":"46734000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900798,
-    "wof:geomhash":"ba183f47a77cb6ef1c797eb14996cd91",
+    "wof:geomhash":"32786cba0e11c1b04f17aa7f005757f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108733785,
-    "wof:lastmodified":1627522603,
+    "wof:lastmodified":1695886274,
     "wof:name":"Koroljov",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055027,
-    "geom:area_square_m":269368603.103073,
+    "geom:area_square_m":269368603.103041,
     "geom:bbox":"66.0920934121,66.5786357521,66.6070282312,66.7743580009",
     "geom:latitude":66.678699,
     "geom:longitude":66.349902,
@@ -167,10 +167,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"71173000",
+        "meso:oktmo_code":"71953000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900656,
-    "wof:geomhash":"402341098f286b74132517d966822d20",
+    "wof:geomhash":"9939976e1e9e40d8fab36b97d6f68b32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -181,7 +188,7 @@
         }
     ],
     "wof:id":1108733645,
-    "wof:lastmodified":1566626904,
+    "wof:lastmodified":1695886219,
     "wof:name":"Labytnangi",
     "wof:parent_id":85687931,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.711495,
-    "geom:area_square_m":45763648367.561958,
+    "geom:area_square_m":45763648166.206734,
     "geom:bbox":"66.156037,59.83343,71.046607,62.98857",
     "geom:latitude":61.316549,
     "geom:longitude":68.729597,
@@ -127,11 +127,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"71129000",
+        "meso:oktmo_code":"71829000",
         "wd:id":"Q557518"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901282,
-    "wof:geomhash":"9e76ce6b744cc46078eb651fb2cee2cf",
+    "wof:geomhash":"2c8d5ebd26cf9933f8db1b49851fa49a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":1108734349,
-    "wof:lastmodified":1690859650,
+    "wof:lastmodified":1695886263,
     "wof:name":"Khanty-Mansijskiy",
     "wof:parent_id":85687919,
     "wof:placetype":"county",

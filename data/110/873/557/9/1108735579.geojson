@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.319869,
-    "geom:area_square_m":2291633874.699593,
+    "geom:area_square_m":2291633316.78458,
     "geom:bbox":"49.986013,54.324463,51.174924,54.894121",
     "geom:latitude":54.592205,
     "geom:longitude":50.562521,
@@ -145,11 +145,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"92246000",
+        "meso:oktmo_code":"92646000",
         "wd:id":"Q2990363"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902289,
-    "wof:geomhash":"bdb55c589b6a93fe9f0a7f374637cabd",
+    "wof:geomhash":"1d376d18230924007b0c67226f2afc30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,7 +166,7 @@
         }
     ],
     "wof:id":1108735579,
-    "wof:lastmodified":1690859360,
+    "wof:lastmodified":1695886324,
     "wof:name":"Nurlatskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

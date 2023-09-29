@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.400942,
-    "geom:area_square_m":14408047746.460133,
+    "geom:area_square_m":14408048435.718283,
     "geom:bbox":"35.175715,60.401892,38.41256,61.618343",
     "geom:latitude":60.966592,
     "geom:longitude":36.797901,
@@ -160,16 +160,22 @@
     "wof:concordances":{
         "gp:id":12599620,
         "hasc:id":"RU.VO.VY",
+        "meso:okato_code":"19222000",
+        "meso:oktmo_code":"19622000",
         "qs_pg:id":995608,
         "wd:id":"Q540999",
         "wk:page":"Vytegorsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054471,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0ab01dcb57d2961096b12f575cbc0c6b",
+    "wof:geomhash":"c8cd79df5fe7817b3b3120812f82756c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":890483547,
-    "wof:lastmodified":1690859924,
+    "wof:lastmodified":1695886459,
     "wof:name":"Vytegorskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",

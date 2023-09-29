@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OL.DO",
+        "meso:okato_code":"54215000",
+        "meso:oktmo_code":"54615000",
         "wd:id":"Q2216957"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900432,
     "wof:geomhash":"b14cccd50d2bb064341cbefcf376ab60",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108733399,
-    "wof:lastmodified":1694639736,
+    "wof:lastmodified":1695886225,
     "wof:name":"Dolzhanskiy",
     "wof:parent_id":85687849,
     "wof:placetype":"county",

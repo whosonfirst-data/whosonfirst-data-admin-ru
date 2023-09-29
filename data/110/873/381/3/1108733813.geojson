@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.AD.MR"
+        "hasc:id":"RU.AD.MR",
+        "meso:okato_code":"79401000",
+        "meso:oktmo_code":"79701000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900823,
     "wof:geomhash":"5897ddfbc2b491621b17ba59fff45c00",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733813,
-    "wof:lastmodified":1694639755,
+    "wof:lastmodified":1695886297,
     "wof:name":"Majkop",
     "wof:parent_id":85688135,
     "wof:placetype":"county",

@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OM.SE",
+        "meso:okato_code":"52252000",
+        "meso:oktmo_code":"52652000",
         "wd:id":"Q2217421"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902931,
     "wof:geomhash":"91c138828a4aee82676b130febbc5201",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108736411,
-    "wof:lastmodified":1694639775,
+    "wof:lastmodified":1695886363,
     "wof:name":"Sedel'nikovskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.186281,
-    "geom:area_square_m":17415710780.287327,
+    "geom:area_square_m":17415710745.54026,
     "geom:bbox":"29.971588,62.886025,33.290864,64.480148",
     "geom:latitude":63.765585,
     "geom:longitude":31.705702,
@@ -169,16 +169,22 @@
     "wof:concordances":{
         "gp:id":12597432,
         "hasc:id":"RU.KI.MU",
+        "meso:okato_code":"86227000",
+        "meso:oktmo_code":"86627000",
         "qs_pg:id":965675,
         "wd:id":"Q368265",
         "wk:page":"Muyezersky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054463,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fde70e824e58c581cafbdfa1a596ad66",
+    "wof:geomhash":"b8bc02d6386cd3e36318e9fba29409c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -189,7 +195,7 @@
         }
     ],
     "wof:id":890483395,
-    "wof:lastmodified":1690859908,
+    "wof:lastmodified":1695886453,
     "wof:name":"Muezerskiy",
     "wof:parent_id":85688193,
     "wof:placetype":"county",

@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.UL.TE",
+        "meso:okato_code":"73248000",
+        "meso:oktmo_code":"73648000",
         "wd:id":"Q2719740"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903413,
     "wof:geomhash":"70162612bcc8337c039e65f61dece2b9",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108736989,
-    "wof:lastmodified":1694639787,
+    "wof:lastmodified":1695886405,
     "wof:name":"Teren'gul'skiy",
     "wof:parent_id":85687907,
     "wof:placetype":"county",

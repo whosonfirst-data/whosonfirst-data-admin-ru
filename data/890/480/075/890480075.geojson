@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.294543,
-    "geom:area_square_m":2012448391.471291,
+    "geom:area_square_m":2012448004.931468,
     "geom:bbox":"37.742369,56.165964,38.444943,56.787733",
     "geom:latitude":56.457457,
     "geom:longitude":38.092092,
@@ -166,16 +166,22 @@
     "wof:concordances":{
         "gp:id":12598774,
         "hasc:id":"RU.MS.SR",
+        "meso:okato_code":"46215000",
+        "meso:oktmo_code":"46615000",
         "qs_pg:id":1209307,
         "wd:id":"Q432620",
         "wk:page":"Sergiyevo-Posadsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054282,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"45b4f77d0e2dd615c4591404f5b170ef",
+    "wof:geomhash":"c649ef05edcd921d203d090bbdb0fc78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,7 +192,7 @@
         }
     ],
     "wof:id":890480075,
-    "wof:lastmodified":1690860144,
+    "wof:lastmodified":1695886492,
     "wof:name":"Sergievo-Posadskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

@@ -122,8 +122,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CT.BR",
+        "meso:okato_code":"76206000",
+        "meso:oktmo_code":"76606000",
         "wd:id":"Q2217519"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899955,
     "wof:geomhash":"e22d6e2e94cdfbdda01f1a2e9956a78c",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1108732873,
-    "wof:lastmodified":1694492720,
+    "wof:lastmodified":1695886192,
     "wof:name":"Balejskiy",
     "wof:parent_id":85688005,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033519,
-    "geom:area_square_m":297688004.336822,
+    "geom:area_square_m":297688052.69509,
     "geom:bbox":"41.758672,43.944262,42.04885,44.30053",
     "geom:latitude":44.089837,
     "geom:longitude":41.895855,
@@ -148,11 +148,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"91201000",
+        "meso:oktmo_code":"91601000",
         "wd:id":"Q479354"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899711,
-    "wof:geomhash":"c232082363b0899af148abc923610a4e",
+    "wof:geomhash":"f650d960b2798e0880b0cf5c7cf544a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":1108732597,
-    "wof:lastmodified":1690859438,
+    "wof:lastmodified":1695886175,
     "wof:name":"Abazinskiy",
     "wof:parent_id":85687913,
     "wof:placetype":"county",

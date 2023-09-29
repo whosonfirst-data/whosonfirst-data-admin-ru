@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002696,
-    "geom:area_square_m":18791881.39297,
+    "geom:area_square_m":18791821.740434,
     "geom:bbox":"37.670653,55.641653,37.735505,55.723711",
     "geom:latitude":55.683494,
     "geom:longitude":37.705754,
@@ -80,10 +80,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45290582",
+        "meso:oktmo_code":"45393000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902759,
-    "wof:geomhash":"190eab3c3f6aa4348ca7b7374981c78b",
+    "wof:geomhash":"d919692673f215dcbf91fac0d64ff422",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +101,7 @@
         }
     ],
     "wof:id":1108736185,
-    "wof:lastmodified":1627522658,
+    "wof:lastmodified":1695886339,
     "wof:name":"Pechatniki",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

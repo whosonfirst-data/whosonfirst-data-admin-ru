@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058462,
-    "geom:area_square_m":526904365.27429,
+    "geom:area_square_m":526904248.079353,
     "geom:bbox":"46.726997,43.062066,47.106382,43.405934",
     "geom:latitude":43.206889,
     "geom:longitude":46.925755,
@@ -148,11 +148,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"82226000",
+        "meso:oktmo_code":"82626000",
         "wd:id":"Q2426300"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901386,
-    "wof:geomhash":"0e7e70812f95f367394f506b18a8f840",
+    "wof:geomhash":"15c65d3dd57e45fa9c74df7f24cad3c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":1108734473,
-    "wof:lastmodified":1690859384,
+    "wof:lastmodified":1695886220,
     "wof:name":"Kiziljurtovskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

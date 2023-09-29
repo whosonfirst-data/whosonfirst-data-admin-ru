@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PR.MI",
+        "meso:okato_code":"05220000",
+        "meso:oktmo_code":"05620000",
         "wd:id":"Q716435"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901956,
     "wof:geomhash":"0bb64142c22d9964aa5d17b73feccbf8",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108735139,
-    "wof:lastmodified":1694639757,
+    "wof:lastmodified":1695886303,
     "wof:name":"Mikhajlovskiy",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

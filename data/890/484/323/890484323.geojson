@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010196,
-    "geom:area_square_m":69139426.641832,
+    "geom:area_square_m":69139446.602109,
     "geom:bbox":"37.07299,56.695123,37.256985,56.788263",
     "geom:latitude":56.742998,
     "geom:longitude":37.168541,
@@ -128,15 +128,21 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598722,
+        "meso:okato_code":"46418000",
+        "meso:oktmo_code":"46718000",
         "qs_pg:id":1105862,
         "wk:page":"Orekhovo-Zuyevsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054508,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3435d796afa251de3f4ea37342de8717",
+    "wof:geomhash":"0656edd02c5313f53479ecc2663df572",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,7 +153,7 @@
         }
     ],
     "wof:id":890484323,
-    "wof:lastmodified":1642541499,
+    "wof:lastmodified":1695886462,
     "wof:name":"Dubna",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

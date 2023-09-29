@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KD.BK",
+        "meso:okato_code":"03210000",
+        "meso:oktmo_code":"03610000",
         "wd:id":"Q849924"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900180,
     "wof:geomhash":"28c83f98fd819a9c774eaaf33a2dcfca",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108733111,
-    "wof:lastmodified":1694639732,
+    "wof:lastmodified":1695886206,
     "wof:name":"Brjukhoveckij",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OM.MA",
+        "meso:okato_code":"52230000",
+        "meso:oktmo_code":"52630000",
         "wd:id":"Q1652484"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901878,
     "wof:geomhash":"3f941e96630483ce4d8214507e6695ba",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108735057,
-    "wof:lastmodified":1694639756,
+    "wof:lastmodified":1695886300,
     "wof:name":"Mar'janovskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

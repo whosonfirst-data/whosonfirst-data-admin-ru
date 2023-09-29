@@ -122,8 +122,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CT.OL",
+        "meso:okato_code":"76232000",
+        "meso:oktmo_code":"76632000",
         "wd:id":"Q1655176"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902365,
     "wof:geomhash":"a851c4b541df8f3bf041f15588a95995",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1108735673,
-    "wof:lastmodified":1694492758,
+    "wof:lastmodified":1695886330,
     "wof:name":"Olovjanninskiy",
     "wof:parent_id":85688005,
     "wof:placetype":"county",

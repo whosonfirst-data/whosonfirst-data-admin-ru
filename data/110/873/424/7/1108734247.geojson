@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AS.KA",
+        "meso:okato_code":"12225000",
+        "meso:oktmo_code":"12625000",
         "wd:id":"Q2216922"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901201,
     "wof:geomhash":"964da1458cb77b7ee123cf4c6dc2365e",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108734247,
-    "wof:lastmodified":1694639744,
+    "wof:lastmodified":1695886257,
     "wof:name":"Kamyzjakskiy",
     "wof:parent_id":85687985,
     "wof:placetype":"county",

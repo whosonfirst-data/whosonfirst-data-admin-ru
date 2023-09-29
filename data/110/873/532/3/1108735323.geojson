@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OM.NR",
+        "meso:okato_code":"52236000",
+        "meso:oktmo_code":"52636000",
         "wd:id":"Q3874045"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902108,
     "wof:geomhash":"b6a3ecd0e3ffc7b12ed6d3a571b135bc",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108735323,
-    "wof:lastmodified":1694639759,
+    "wof:lastmodified":1695886310,
     "wof:name":"Nazyvaevskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

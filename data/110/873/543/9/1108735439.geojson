@@ -132,8 +132,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.NS.KR"
+        "hasc:id":"RU.NS.KR",
+        "meso:okato_code":"NO DATA",
+        "meso:oktmo_code":"NO DATA"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902185,
     "wof:geomhash":"da049eb6108cfc1e86a2116c6320aa62",
@@ -147,7 +153,7 @@
         }
     ],
     "wof:id":1108735439,
-    "wof:lastmodified":1694639805,
+    "wof:lastmodified":1695886732,
     "wof:name":"Kuybyshevskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",

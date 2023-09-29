@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TL.PL",
+        "meso:okato_code":"70238000",
+        "meso:oktmo_code":"70638000",
         "wd:id":"Q1654029"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902533,
     "wof:geomhash":"c33e73ca66eb1e1a0919afc4c58e5291",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108735887,
-    "wof:lastmodified":1694639770,
+    "wof:lastmodified":1695886344,
     "wof:name":"Plavskiy",
     "wof:parent_id":85688203,
     "wof:placetype":"county",

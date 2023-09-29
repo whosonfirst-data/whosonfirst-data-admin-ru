@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KY.UZ",
+        "meso:okato_code":"04256000",
+        "meso:oktmo_code":"04656000",
         "wd:id":"Q744791"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903651,
     "wof:geomhash":"5677c9f5b4ebb91350f94dc094ad397e",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108737277,
-    "wof:lastmodified":1694492759,
+    "wof:lastmodified":1695886334,
     "wof:name":"Uzhurskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.328085,
-    "geom:area_square_m":7999392121.521062,
+    "geom:area_square_m":7999392082.322096,
     "geom:bbox":"33.452178,60.226811,35.708669,61.319121",
     "geom:latitude":60.848629,
     "geom:longitude":34.696648,
@@ -175,16 +175,22 @@
     "wof:concordances":{
         "gp:id":12598650,
         "hasc:id":"RU.LN.PP",
+        "meso:okato_code":"41236000",
+        "meso:oktmo_code":"41636000",
         "qs_pg:id":985935,
         "wd:id":"Q7969",
         "wk:page":"Podporozhsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054467,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"58e397af40bbd4d4b1551b2bb4ca6db7",
+    "wof:geomhash":"45492727ea0480f5c6e00dc5980567b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -195,7 +201,7 @@
         }
     ],
     "wof:id":890483453,
-    "wof:lastmodified":1690859903,
+    "wof:lastmodified":1695886453,
     "wof:name":"Podporozhskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",

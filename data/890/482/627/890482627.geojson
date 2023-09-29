@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.477936,
-    "geom:area_square_m":4228669705.615742,
+    "geom:area_square_m":4228670115.746955,
     "geom:bbox":"134.426399,43.944404,135.701218,44.681656",
     "geom:latitude":44.312396,
     "geom:longitude":135.054783,
@@ -160,16 +160,22 @@
     "wof:concordances":{
         "gp:id":12597909,
         "hasc:id":"RU.PR.KA",
+        "meso:okato_code":"05210000",
+        "meso:oktmo_code":"05610000",
         "qs_pg:id":484616,
         "wd:id":"Q571049",
         "wk:page":"Kavalerovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054428,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5f23a1fb91aac02ce2cd5b72a2389a89",
+    "wof:geomhash":"2c0ad3d2c9fb43a563e9c89c00e87fb8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":890482627,
-    "wof:lastmodified":1690859861,
+    "wof:lastmodified":1695886446,
     "wof:name":"Kavalerovskiy",
     "wof:parent_id":85688023,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.317288,
-    "geom:area_square_m":2238663644.931022,
+    "geom:area_square_m":2238663746.84522,
     "geom:bbox":"32.924197,54.971068,33.921607,55.430247",
     "geom:latitude":55.207681,
     "geom:longitude":33.432908,
@@ -163,16 +163,22 @@
     "wof:concordances":{
         "gp:id":12599281,
         "hasc:id":"RU.SM.SF",
+        "meso:okato_code":"66241000",
+        "meso:oktmo_code":"66641000",
         "qs_pg:id":506371,
         "wd:id":"Q2218153",
         "wk:page":"Safonovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054449,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d711fd5a90f050a9311bf4c29d3155eb",
+    "wof:geomhash":"5c020a641943683a743cc3c8a1b2d21b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":890483077,
-    "wof:lastmodified":1690859897,
+    "wof:lastmodified":1695886451,
     "wof:name":"Safonovskiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",

@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VO.TO",
+        "meso:okato_code":"19246000",
+        "meso:oktmo_code":"19646000",
         "wd:id":"Q1655824"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903490,
     "wof:geomhash":"f10b3ae1034eeb0c49a07d29ea613bde",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108737075,
-    "wof:lastmodified":1694639788,
+    "wof:lastmodified":1695886409,
     "wof:name":"Totemskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",

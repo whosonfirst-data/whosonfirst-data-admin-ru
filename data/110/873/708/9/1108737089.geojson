@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KO.TR",
+        "meso:okato_code":"87236000",
+        "meso:oktmo_code":"87636000",
         "wd:id":"Q924672"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903500,
     "wof:geomhash":"41376b593ee9378a35ea77b5654c3295",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108737089,
-    "wof:lastmodified":1694639788,
+    "wof:lastmodified":1695886410,
     "wof:name":"Troicko-Pechorskiy",
     "wof:parent_id":85688077,
     "wof:placetype":"county",

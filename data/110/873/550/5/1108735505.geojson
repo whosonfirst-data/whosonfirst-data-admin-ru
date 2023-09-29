@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KD.KU",
+        "meso:okato_code":"03234000",
+        "meso:oktmo_code":"03634000",
         "wd:id":"Q569794"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902228,
     "wof:geomhash":"28c6dd3c21ce7b6b9da76fb9fe793a7a",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108735505,
-    "wof:lastmodified":1694639762,
+    "wof:lastmodified":1695886320,
     "wof:name":"Novokubanskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

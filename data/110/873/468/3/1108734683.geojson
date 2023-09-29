@@ -116,8 +116,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CT.KC",
+        "meso:okato_code":"76222000",
+        "meso:oktmo_code":"76622000",
         "wd:id":"Q1655260"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901563,
     "wof:geomhash":"cf9f5b1dfeb55d907f82fa80d6200fbd",
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":1108734683,
-    "wof:lastmodified":1694492743,
+    "wof:lastmodified":1695886280,
     "wof:name":"Krasnochikojskiy",
     "wof:parent_id":85688005,
     "wof:placetype":"county",

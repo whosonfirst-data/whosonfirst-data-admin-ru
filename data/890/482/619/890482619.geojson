@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.276867,
-    "geom:area_square_m":2448987999.589824,
+    "geom:area_square_m":2448988168.67326,
     "geom:bbox":"39.270737,43.932818,40.090682,44.669231",
     "geom:latitude":44.328451,
     "geom:longitude":39.699386,
@@ -157,16 +157,22 @@
     "wof:concordances":{
         "gp:id":12597768,
         "hasc:id":"RU.KD.AP",
+        "meso:okato_code":"03205000",
+        "meso:oktmo_code":"03605000",
         "qs_pg:id":429420,
         "wd:id":"Q516643",
         "wk:page":"Apsheronsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054427,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a841add230a9fd98a74dc5a5e5f8664b",
+    "wof:geomhash":"35f957cf7e54374b086161a4824a093e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":890482619,
-    "wof:lastmodified":1690859859,
+    "wof:lastmodified":1695886446,
     "wof:name":"Apsheronskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

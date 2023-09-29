@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OM.BR",
+        "meso:okato_code":"52203000",
+        "meso:oktmo_code":"52603000",
         "wd:id":"Q1972280"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900153,
     "wof:geomhash":"b9d28c7a74dca0247f86822fca67a3ef",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108733073,
-    "wof:lastmodified":1694639731,
+    "wof:lastmodified":1695886203,
     "wof:name":"Bol'sherechenskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

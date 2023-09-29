@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.200139,
-    "geom:area_square_m":1436095821.72275,
+    "geom:area_square_m":1436096168.63387,
     "geom:bbox":"52.475949,54.26587,53.1401,54.804607",
     "geom:latitude":54.528436,
     "geom:longitude":52.831773,
@@ -172,16 +172,22 @@
     "wof:concordances":{
         "gp:id":12597531,
         "hasc:id":"RU.TT.BR",
+        "meso:okato_code":"92217000",
+        "meso:oktmo_code":"92617000",
         "qs_pg:id":911315,
         "wd:id":"Q2220427",
         "wk:page":"Bugulminsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054242,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"12a44946969b552839e7ddfb42aaa15d",
+    "wof:geomhash":"98e9519cfef7f6aa63bbcaa127b59e0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -192,7 +198,7 @@
         }
     ],
     "wof:id":890479383,
-    "wof:lastmodified":1690859970,
+    "wof:lastmodified":1695886469,
     "wof:name":"Bugul'minskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

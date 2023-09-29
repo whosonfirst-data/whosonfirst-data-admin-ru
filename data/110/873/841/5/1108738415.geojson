@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.ME.ZV",
+        "meso:okato_code":"88212000",
+        "meso:oktmo_code":"88612000",
         "wd:id":"Q138958"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903933,
     "wof:geomhash":"abb6e52ed2f8bae9ed5b4b71e0dc7873",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108738415,
-    "wof:lastmodified":1694639797,
+    "wof:lastmodified":1695886443,
     "wof:name":"Zvenigovskiy",
     "wof:parent_id":85688043,
     "wof:placetype":"county",

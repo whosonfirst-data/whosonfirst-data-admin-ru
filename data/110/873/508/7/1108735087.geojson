@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048422,
-    "geom:area_square_m":373584781.459452,
+    "geom:area_square_m":373584834.499861,
     "geom:bbox":"57.473567,51.243737,57.783362,51.539277",
     "geom:latitude":51.395617,
     "geom:longitude":57.600451,
@@ -191,10 +191,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"53415000",
+        "meso:oktmo_code":"53715000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901906,
-    "wof:geomhash":"16f928616886efdac1742b637db934a5",
+    "wof:geomhash":"575d6bb7c5400b3fb998efeba4246835",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -205,7 +212,7 @@
         }
     ],
     "wof:id":1108735087,
-    "wof:lastmodified":1636497195,
+    "wof:lastmodified":1695886732,
     "wof:name":"Mednogorsk",
     "wof:parent_id":85688081,
     "wof:placetype":"county",

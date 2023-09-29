@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VG.ST",
+        "meso:okato_code":"18252000",
+        "meso:oktmo_code":"18652000",
         "wd:id":"Q1655762"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903235,
     "wof:geomhash":"69a8e845ce8179bb93079c47c28b2aa4",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108736801,
-    "wof:lastmodified":1694639783,
+    "wof:lastmodified":1695886386,
     "wof:name":"Staropoltavskiy",
     "wof:parent_id":85688101,
     "wof:placetype":"county",

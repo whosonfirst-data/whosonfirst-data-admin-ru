@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.428757,
-    "geom:area_square_m":3391387713.848895,
+    "geom:area_square_m":3391387568.897446,
     "geom:bbox":"129.012273,49.769672,130.178878,50.665295",
     "geom:latitude":50.231406,
     "geom:longitude":129.56548,
@@ -151,15 +151,21 @@
     "wof:concordances":{
         "gn:id":2012624,
         "hasc:id":"RU.AM.ZA",
+        "meso:okato_code":"10221000",
+        "meso:oktmo_code":"10621000",
         "qs_pg:id":90349,
         "wd:id":"Q602096"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054250,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f47551c45d0727c73bd062bc181569fe",
+    "wof:geomhash":"23942267e1236a1093b8d9ab2435d366",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":890479549,
-    "wof:lastmodified":1690859992,
+    "wof:lastmodified":1695886471,
     "wof:name":"Zavitinskiy",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

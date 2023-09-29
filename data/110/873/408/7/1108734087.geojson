@@ -170,8 +170,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BK.YR",
+        "meso:okato_code":"80460000",
+        "meso:oktmo_code":"80659000",
         "wd:id":"Q339367"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901058,
     "wof:geomhash":"5d7ec8fe5876c82da04170b16745efe8",
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":1108734087,
-    "wof:lastmodified":1694639740,
+    "wof:lastmodified":1695886241,
     "wof:name":"Janaul'skiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

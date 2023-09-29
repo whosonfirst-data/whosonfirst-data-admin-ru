@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021629,
-    "geom:area_square_m":136854631.921177,
+    "geom:area_square_m":136854645.334844,
     "geom:bbox":"39.665513,59.163792,40.02266,59.295975",
     "geom:latitude":59.22241,
     "geom:longitude":39.894576,
@@ -154,16 +154,22 @@
     "wof:concordances":{
         "gp:id":12599617,
         "hasc:id":"RU.VO.VR",
+        "meso:okato_code":"19401000",
+        "meso:oktmo_code":"19701000",
         "qs_pg:id":597657,
         "wd:id":"Q1652017",
         "wk:page":"Gryazovetsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054557,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0d7306689e83ee633532a8ea663b708e",
+    "wof:geomhash":"3aca2b7301099a6c46da39b0398267ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":890485369,
-    "wof:lastmodified":1690859836,
+    "wof:lastmodified":1695886443,
     "wof:name":"Vologda",
     "wof:parent_id":85687853,
     "wof:placetype":"county",

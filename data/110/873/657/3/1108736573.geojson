@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KU.SC",
+        "meso:okato_code":"37244000",
+        "meso:oktmo_code":"37644000",
         "wd:id":"Q1753886"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903060,
     "wof:geomhash":"fce306a66af243edc5839a24d076949f",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108736573,
-    "wof:lastmodified":1694639778,
+    "wof:lastmodified":1695886372,
     "wof:name":"Shchuchanskiy",
     "wof:parent_id":85688157,
     "wof:placetype":"county",

@@ -170,8 +170,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BK.IL",
+        "meso:okato_code":"80230000",
+        "meso:oktmo_code":"80630000",
         "wd:id":"Q1092770"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900971,
     "wof:geomhash":"6df07cf3ce40cf946164fdb3ace4120d",
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":1108733989,
-    "wof:lastmodified":1694639741,
+    "wof:lastmodified":1695886246,
     "wof:name":"Ilishevskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

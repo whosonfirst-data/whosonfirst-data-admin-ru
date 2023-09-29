@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TU.KA",
+        "meso:okato_code":"93220000",
+        "meso:oktmo_code":"93620000",
         "wd:id":"Q918386"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901128,
     "wof:geomhash":"8f3f5edf29fd922f818ccc2d9d595703",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108734169,
-    "wof:lastmodified":1694639742,
+    "wof:lastmodified":1695886253,
     "wof:name":"Kaa-Khemskiy",
     "wof:parent_id":85688039,
     "wof:placetype":"county",

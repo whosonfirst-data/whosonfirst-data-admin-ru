@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.998555,
-    "geom:area_square_m":7297467281.774378,
+    "geom:area_square_m":7297467605.894662,
     "geom:bbox":"89.16691,53.374384,91.506759,54.08461",
     "geom:latitude":53.770738,
     "geom:longitude":90.380543,
@@ -144,16 +144,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12597891,
+        "meso:okato_code":"95230000",
+        "meso:oktmo_code":"95630000",
         "qs_pg:id":484613,
         "wd:id":"Q1043106",
         "wk:page":"Ust-Abakansky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054427,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"09b71777f03269947b9290baa069209f",
+    "wof:geomhash":"9b6b8e1c3454fa296ea027414ae10ae3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":890482621,
-    "wof:lastmodified":1690859859,
+    "wof:lastmodified":1695886446,
     "wof:name":"Ust'-Abakanskiy",
     "wof:parent_id":85688061,
     "wof:placetype":"county",

@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.OL.OG"
+        "hasc:id":"RU.OL.OG",
+        "meso:okato_code":"54401000",
+        "meso:oktmo_code":"54701000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902387,
     "wof:geomhash":"2fd41097629b3081c4077d929991467f",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735705,
-    "wof:lastmodified":1694639766,
+    "wof:lastmodified":1695886332,
     "wof:name":"Orjol",
     "wof:parent_id":85687849,
     "wof:placetype":"county",

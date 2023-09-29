@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.BK.SM"
+        "hasc:id":"RU.BK.SM",
+        "meso:okato_code":"80249000",
+        "meso:oktmo_code":"80649000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903258,
     "wof:geomhash":"bf298ea1758fc526aec84c70d2ab3510",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108736817,
-    "wof:lastmodified":1694639783,
+    "wof:lastmodified":1695886387,
     "wof:name":"Sterlitamakskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

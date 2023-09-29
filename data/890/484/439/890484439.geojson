@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.463163,
-    "geom:area_square_m":2917531402.706104,
+    "geom:area_square_m":2917531336.781634,
     "geom:bbox":"29.571708,59.012774,30.704068,59.689445",
     "geom:latitude":59.374269,
     "geom:longitude":30.180438,
@@ -193,16 +193,22 @@
     "wof:concordances":{
         "gp:id":12598636,
         "hasc:id":"RU.LN.GR",
+        "meso:okato_code":"41218000",
+        "meso:oktmo_code":"41618000",
         "qs_pg:id":1119187,
         "wd:id":"Q7455",
         "wk:page":"Gatchinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054513,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e735e47e382785ee68e31365f8a6e449",
+    "wof:geomhash":"6040526c93c0d8be525e7a15d6b1ac61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -213,7 +219,7 @@
         }
     ],
     "wof:id":890484439,
-    "wof:lastmodified":1690859932,
+    "wof:lastmodified":1695886461,
     "wof:name":"Gatchinskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",

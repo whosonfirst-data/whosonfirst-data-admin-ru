@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OM.RU",
+        "meso:okato_code":"52250000",
+        "meso:oktmo_code":"52650000",
         "wd:id":"Q766565"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902869,
     "wof:geomhash":"8ec3465364354ff9204b9895476b5b05",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108736331,
-    "wof:lastmodified":1694639774,
+    "wof:lastmodified":1695886359,
     "wof:name":"Russko-Poljanskiy",
     "wof:parent_id":85688189,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.344384,
-    "geom:area_square_m":2187877670.930954,
+    "geom:area_square_m":2187878148.327941,
     "geom:bbox":"27.740038,58.822503,29.024347,59.323739",
     "geom:latitude":59.083838,
     "geom:longitude":28.358606,
@@ -145,11 +145,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"41242000",
+        "meso:oktmo_code":"41642000",
         "wd:id":"Q8001"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903116,
-    "wof:geomhash":"62e67599ebf043e03f2a5fb811691b84",
+    "wof:geomhash":"048202a0f2d2d9e930a1d4ea597e7e82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,7 +166,7 @@
         }
     ],
     "wof:id":1108736641,
-    "wof:lastmodified":1690859642,
+    "wof:lastmodified":1695886261,
     "wof:name":"Slancevskiy",
     "wof:parent_id":85687861,
     "wof:placetype":"county",

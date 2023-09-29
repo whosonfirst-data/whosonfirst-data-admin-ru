@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028957,
-    "geom:area_square_m":206847503.935943,
+    "geom:area_square_m":206847474.427723,
     "geom:bbox":"20.292773,54.629446,20.636537,54.78239",
     "geom:latitude":54.712177,
     "geom:longitude":20.461163,
@@ -146,16 +146,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598331,
+        "meso:okato_code":"27401000",
+        "meso:oktmo_code":"27701000",
         "qs_pg:id":896823,
         "wd:id":"Q127117",
         "wk:page":"Chernyakhovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054570,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6273fd9b6e8efa6b704077a0d899d503",
+    "wof:geomhash":"5544aeadb7d328fa7d45d15925edf092",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,7 +172,7 @@
         }
     ],
     "wof:id":890485683,
-    "wof:lastmodified":1690859841,
+    "wof:lastmodified":1695886444,
     "wof:name":"Kaliningrad",
     "wof:parent_id":85688215,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.838632,
-    "geom:area_square_m":13677959715.094849,
+    "geom:area_square_m":13677960729.149185,
     "geom:bbox":"141.625748,51.893496,143.497452,56.4175",
     "geom:latitude":53.011479,
     "geom:longitude":142.442584,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"64236000",
+        "meso:oktmo_code":"64736000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902308,
-    "wof:geomhash":"4be6fb4370ca2b227c7a1e35e2624641",
+    "wof:geomhash":"fcebb4a34184c1776b18bfeabe335be2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108735607,
-    "wof:lastmodified":1627522647,
+    "wof:lastmodified":1695886325,
     "wof:name":"Okhinskiy",
     "wof:parent_id":85688125,
     "wof:placetype":"county",

@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SR.AL",
+        "meso:okato_code":"63202000",
+        "meso:oktmo_code":"63602000",
         "wd:id":"Q3609562"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899779,
     "wof:geomhash":"bc789ea14900e9cfdc31d4c9d2ea7870",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108732677,
-    "wof:lastmodified":1694639726,
+    "wof:lastmodified":1695886181,
     "wof:name":"Aleksandrovo-Gajskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

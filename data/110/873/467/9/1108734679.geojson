@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003179,
-    "geom:area_square_m":23023538.444598,
+    "geom:area_square_m":23023458.675203,
     "geom:bbox":"86.217354,54.107715,86.472203,54.17679",
     "geom:latitude":54.148821,
     "geom:longitude":86.319897,
@@ -77,10 +77,13 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:oktmo_code":"32751000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
     "wof:country":"RU",
     "wof:created":1478901556,
-    "wof:geomhash":"c23b387065da514e2445ecafb8655348",
+    "wof:geomhash":"7b224ff97a5775828db6431a91d46785",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108734679,
-    "wof:lastmodified":1627522608,
+    "wof:lastmodified":1695886280,
     "wof:name":"Krasnobrodskiy",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

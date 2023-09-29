@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.143906,
-    "geom:area_square_m":1070361570.777681,
+    "geom:area_square_m":1070361366.191225,
     "geom:bbox":"31.242124,52.756217,31.809533,53.230867",
     "geom:latitude":53.021176,
     "geom:longitude":31.562236,
@@ -145,15 +145,21 @@
     "wof:concordances":{
         "gn:id":542364,
         "hasc:id":"RU.BR.KS",
+        "meso:okato_code":"15234000",
+        "meso:oktmo_code":"15634000",
         "qs_pg:id":1026750,
         "wd:id":"Q2628244"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054378,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"79a20678b342a7f128fc412e5f2727cb",
+    "wof:geomhash":"98a0f1473c648b2bf76eff33356dc352",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":890481805,
-    "wof:lastmodified":1690860014,
+    "wof:lastmodified":1695886473,
     "wof:name":"Krasnogorskiy",
     "wof:parent_id":85688121,
     "wof:placetype":"county",

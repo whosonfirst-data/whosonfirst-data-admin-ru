@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001402,
-    "geom:area_square_m":9753889.004235,
+    "geom:area_square_m":9753914.749442,
     "geom:bbox":"37.841699,55.741182,37.887053,55.781906",
     "geom:latitude":55.761356,
     "geom:longitude":37.863744,
@@ -208,14 +208,20 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598711,
+        "meso:okato_code":"46464000",
+        "meso:oktmo_code":"46764000",
         "qs_pg:id":965833
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054464,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c8375bf6ee35a21225c45d098bda2286",
+    "wof:geomhash":"1f876df7c156d999a9b17182050f8575",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -226,7 +232,7 @@
         }
     ],
     "wof:id":890483407,
-    "wof:lastmodified":1642541491,
+    "wof:lastmodified":1695886453,
     "wof:name":"Reutov",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

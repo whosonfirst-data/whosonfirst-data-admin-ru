@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.UL.UR",
+        "meso:okato_code":"73252000",
+        "meso:oktmo_code":"73652000",
         "wd:id":"Q2632241"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903558,
     "wof:geomhash":"d627d733c5c1fa1fd950df7566f39548",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108737165,
-    "wof:lastmodified":1694639766,
+    "wof:lastmodified":1695886334,
     "wof:name":"Ul'janovskiy",
     "wof:parent_id":85687907,
     "wof:placetype":"county",

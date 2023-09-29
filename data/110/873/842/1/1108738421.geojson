@@ -174,8 +174,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.RO.KN"
+        "hasc:id":"RU.RO.KN",
+        "meso:okato_code":"60418000",
+        "meso:oktmo_code":"60718000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903934,
     "wof:geomhash":"39d56d4a52ced61fb58cc2f5f55118ab",
@@ -189,7 +195,7 @@
         }
     ],
     "wof:id":1108738421,
-    "wof:lastmodified":1694639683,
+    "wof:lastmodified":1695886221,
     "wof:name":"Zverevo",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

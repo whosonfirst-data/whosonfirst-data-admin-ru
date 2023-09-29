@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.267494,
-    "geom:area_square_m":2368144843.881435,
+    "geom:area_square_m":2368144853.652807,
     "geom:bbox":"38.603607,44.026377,39.583635,44.5135",
     "geom:latitude":44.277456,
     "geom:longitude":39.123316,
@@ -164,16 +164,22 @@
     "wof:concordances":{
         "gp:id":12597819,
         "hasc:id":"RU.KD.TU",
+        "meso:okato_code":"03255000",
+        "meso:oktmo_code":"03655000",
         "qs_pg:id":965719,
         "wd:id":"Q261493",
         "wk:page":"Tuapsinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054464,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"00b57411565779b25d19ac003b51ea28",
+    "wof:geomhash":"2f0cf950ce4b6aa6427a1591131229a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -184,7 +190,7 @@
         }
     ],
     "wof:id":890483401,
-    "wof:lastmodified":1690859899,
+    "wof:lastmodified":1695886452,
     "wof:name":"Tuapsinskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

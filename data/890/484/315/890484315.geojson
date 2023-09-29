@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025064,
-    "geom:area_square_m":191972139.532828,
+    "geom:area_square_m":191972085.141234,
     "geom:bbox":"36.059212,51.622648,36.304089,51.814424",
     "geom:latitude":51.726219,
     "geom:longitude":36.158885,
@@ -150,16 +150,22 @@
     "wof:concordances":{
         "gp:id":12598579,
         "hasc:id":"RU.KS.KG",
+        "meso:okato_code":"38401000",
+        "meso:oktmo_code":"38701000",
         "qs_pg:id":1105849,
         "wd:id":"Q2629637",
         "wk:page":"Rylsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054508,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2be697a79bd76e7f55ea810d9c64975b",
+    "wof:geomhash":"6b0c89fe2cbd5987110a28fc04c13c07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":890484315,
-    "wof:lastmodified":1690859938,
+    "wof:lastmodified":1695886462,
     "wof:name":"Kursk",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

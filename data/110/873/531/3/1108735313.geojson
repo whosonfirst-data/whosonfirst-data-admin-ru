@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PZ.NA",
+        "meso:okato_code":"56247000",
+        "meso:oktmo_code":"56647000",
         "wd:id":"Q917837"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902102,
     "wof:geomhash":"0a980d3591dfddcaf6c29b1eea843408",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108735313,
-    "wof:lastmodified":1694639759,
+    "wof:lastmodified":1695886309,
     "wof:name":"Narovchatskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",

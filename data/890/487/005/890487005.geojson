@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003779,
-    "geom:area_square_m":25630229.054397,
+    "geom:area_square_m":25630292.016994,
     "geom:bbox":"38.793781,56.702525,38.909894,56.77085",
     "geom:latitude":56.735974,
     "geom:longitude":38.856106,
@@ -154,16 +154,22 @@
     "wof:concordances":{
         "gp:id":12599669,
         "hasc:id":"RU.YS.PR",
+        "meso:okato_code":"78232000",
+        "meso:oktmo_code":"78632000",
         "qs_pg:id":221451,
         "wd:id":"Q2218646",
         "wk:page":"Pereslavsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054649,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"03bb1ba027b1a7ed19dff3634529781f",
+    "wof:geomhash":"b751f1228c5d6ba9ed62431502855bc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":890487005,
-    "wof:lastmodified":1690860107,
+    "wof:lastmodified":1695886484,
     "wof:name":"Pereslavskiy",
     "wof:parent_id":85687959,
     "wof:placetype":"county",

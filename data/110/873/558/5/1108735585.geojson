@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.RO.OB",
+        "meso:okato_code":"60240000",
+        "meso:oktmo_code":"60640000",
         "wd:id":"Q2220838"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902294,
     "wof:geomhash":"ec67eb3bc746d75c48f4a6e6a39f9b73",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108735585,
-    "wof:lastmodified":1694639682,
+    "wof:lastmodified":1695886213,
     "wof:name":"Oblivskiy",
     "wof:parent_id":85688033,
     "wof:placetype":"county",

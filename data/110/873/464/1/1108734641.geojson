@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.ME.GO"
+        "hasc:id":"RU.ME.GO",
+        "meso:okato_code":"88415000",
+        "meso:oktmo_code":"88715000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901527,
     "wof:geomhash":"b8dfd46c71be1c627437478e16bebf94",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108734641,
-    "wof:lastmodified":1694639749,
+    "wof:lastmodified":1695886279,
     "wof:name":"Koz'modem'jansk",
     "wof:parent_id":85688043,
     "wof:placetype":"county",

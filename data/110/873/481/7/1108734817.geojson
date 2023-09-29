@@ -122,8 +122,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KY.KU",
+        "meso:okato_code":"04230000",
+        "meso:oktmo_code":"04630000",
         "wd:id":"Q2110368"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901682,
     "wof:geomhash":"3d518b4dfe5702f42f153f5a1da11d26",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1108734817,
-    "wof:lastmodified":1694492746,
+    "wof:lastmodified":1695886288,
     "wof:name":"Kuraginskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

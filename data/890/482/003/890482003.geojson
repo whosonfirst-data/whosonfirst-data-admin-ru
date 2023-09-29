@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.365592,
-    "geom:area_square_m":2570566444.379106,
+    "geom:area_square_m":2570566301.288485,
     "geom:bbox":"82.985393,55.100329,84.163429,55.608646",
     "geom:latitude":55.345016,
     "geom:longitude":83.568667,
@@ -148,15 +148,21 @@
     "wof:concordances":{
         "gn:id":1498386,
         "hasc:id":"RU.NS.MO",
+        "meso:okato_code":"50238000",
+        "meso:oktmo_code":"50638000",
         "qs_pg:id":1030471,
         "wd:id":"Q554407"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054390,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8ca173756204d261c81a78f780c35990",
+    "wof:geomhash":"2b7f62741fd5ecae32de08e40cd4f079",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":890482003,
-    "wof:lastmodified":1690859881,
+    "wof:lastmodified":1695886449,
     "wof:name":"Moshkovskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",

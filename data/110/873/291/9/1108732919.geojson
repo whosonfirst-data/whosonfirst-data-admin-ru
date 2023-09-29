@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KK.BE",
+        "meso:okato_code":"95212000",
+        "meso:oktmo_code":"95612000",
         "wd:id":"Q528469"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899999,
     "wof:geomhash":"6d249e2b438d8263b55c45973797120e",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108732919,
-    "wof:lastmodified":1694639729,
+    "wof:lastmodified":1695886195,
     "wof:name":"Bejskiy",
     "wof:parent_id":85688061,
     "wof:placetype":"county",

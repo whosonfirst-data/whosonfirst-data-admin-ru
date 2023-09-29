@@ -170,8 +170,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SK.OY",
+        "meso:okato_code":"98239000",
+        "meso:oktmo_code":"98639000",
         "wd:id":"Q569987"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902306,
     "wof:geomhash":"99dcf54ba2efc58525fa427ba1182591",
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":1108735603,
-    "wof:lastmodified":1694639763,
+    "wof:lastmodified":1695886325,
     "wof:name":"Ojmjakonskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",

@@ -122,8 +122,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.UB.AL",
+        "meso:okato_code":"25123000",
+        "meso:oktmo_code":"25823000",
         "wd:id":"Q940996"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899768,
     "wof:geomhash":"8105f4ef2626f71047d462bc9993a372",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1108732665,
-    "wof:lastmodified":1694492717,
+    "wof:lastmodified":1695886178,
     "wof:name":"Alarskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

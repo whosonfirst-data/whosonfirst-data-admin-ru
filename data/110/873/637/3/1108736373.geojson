@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SR.SA",
+        "meso:okato_code":"63242000",
+        "meso:oktmo_code":"63642000",
         "wd:id":"Q924167"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902905,
     "wof:geomhash":"b4f92e9c8f0324c6a6094f66c706693c",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108736373,
-    "wof:lastmodified":1694639775,
+    "wof:lastmodified":1695886361,
     "wof:name":"Samojlovskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

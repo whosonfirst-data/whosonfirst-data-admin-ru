@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.609171,
-    "geom:area_square_m":4260581115.644532,
+    "geom:area_square_m":4260581093.489172,
     "geom:bbox":"39.959254,55.201767,41.377258,55.894729",
     "geom:latitude":55.554122,
     "geom:longitude":40.688852,
@@ -126,11 +126,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"17220000",
+        "meso:oktmo_code":"17620000",
         "wd:id":"Q1651606"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900938,
-    "wof:geomhash":"849f3e7078436986d99bca1e109b89bd",
+    "wof:geomhash":"5ea9769c747f4ce53d59c46789e43040",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,7 +147,7 @@
         }
     ],
     "wof:id":1108733959,
-    "wof:lastmodified":1690859533,
+    "wof:lastmodified":1695886239,
     "wof:name":"Gus'-KHrustal'nyj",
     "wof:parent_id":85687981,
     "wof:placetype":"county",

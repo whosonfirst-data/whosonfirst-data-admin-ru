@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01625,
-    "geom:area_square_m":111623644.534753,
+    "geom:area_square_m":111623644.534783,
     "geom:bbox":"90.3067128653,56.1890259498,90.5614456735,56.3267508784",
     "geom:latitude":56.25254,
     "geom:longitude":90.45084,
@@ -224,10 +224,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"04403000",
+        "meso:oktmo_code":"04703000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899717,
-    "wof:geomhash":"82ddb3e1426e6b1592922e1de88c88fd",
+    "wof:geomhash":"baee1bfa417020ff1f68288231ad31f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -238,7 +245,7 @@
         }
     ],
     "wof:id":1108732607,
-    "wof:lastmodified":1566627009,
+    "wof:lastmodified":1695886228,
     "wof:name":"Achinsk",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

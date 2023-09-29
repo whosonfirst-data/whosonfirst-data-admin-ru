@@ -119,8 +119,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.IR.UU",
+        "meso:okato_code":"25246000",
+        "meso:oktmo_code":"25646000",
         "wd:id":"Q2219403"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903637,
     "wof:geomhash":"198d19dc0b3ab5ae5f26df0388fd2e6e",
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":1108737259,
-    "wof:lastmodified":1694492783,
+    "wof:lastmodified":1695886418,
     "wof:name":"Ust'-Udinskiy",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

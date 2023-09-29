@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NS.KO",
+        "meso:okato_code":"50225000",
+        "meso:oktmo_code":"50625000",
         "wd:id":"Q304987"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901416,
     "wof:geomhash":"4dd9b89b1d480526f51f6dd1f2dc9e01",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108734513,
-    "wof:lastmodified":1694639747,
+    "wof:lastmodified":1695886272,
     "wof:name":"Kochkovskiy",
     "wof:parent_id":85687925,
     "wof:placetype":"county",

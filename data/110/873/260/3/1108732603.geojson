@@ -155,8 +155,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KD.AB",
+        "meso:okato_code":"03201000",
+        "meso:oktmo_code":"03601000",
         "wd:id":"Q480284"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899714,
     "wof:geomhash":"5d6ff113b1ca1ed866a2304d4008416b",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1108732603,
-    "wof:lastmodified":1694639725,
+    "wof:lastmodified":1695886175,
     "wof:name":"Abinskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

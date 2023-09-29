@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0505,
-    "geom:area_square_m":329219053.032299,
+    "geom:area_square_m":329219053.243709,
     "geom:bbox":"92.275277,58.010906,93.081367,58.339148",
     "geom:latitude":58.18189,
     "geom:longitude":92.496181,
@@ -194,10 +194,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"04422000",
+        "meso:oktmo_code":"04722000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901781,
-    "wof:geomhash":"83332c0143269912b3d5579af47f1067",
+    "wof:geomhash":"548371a8b47d68acf8ae4d4fe282feea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -208,7 +215,7 @@
         }
     ],
     "wof:id":1108734929,
-    "wof:lastmodified":1636497198,
+    "wof:lastmodified":1695886734,
     "wof:name":"Lesosibirsk",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

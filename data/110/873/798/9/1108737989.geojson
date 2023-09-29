@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.IV.ZA",
+        "meso:okato_code":"24205000",
+        "meso:oktmo_code":"24605000",
         "wd:id":"Q4023913"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903860,
     "wof:geomhash":"6c91ebdea7de4a5de93eeb0e940d7380",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108737989,
-    "wof:lastmodified":1694639795,
+    "wof:lastmodified":1695886439,
     "wof:name":"Zavolzhskiy",
     "wof:parent_id":85688153,
     "wof:placetype":"county",

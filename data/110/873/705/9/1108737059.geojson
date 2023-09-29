@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SK.TO"
+        "hasc:id":"RU.SK.TO",
+        "meso:okato_code":"98250000",
+        "meso:oktmo_code":"98650000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903474,
     "wof:geomhash":"d02dfd0bb15270b88b51f779b55eb521",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108737059,
-    "wof:lastmodified":1694639788,
+    "wof:lastmodified":1695886408,
     "wof:name":"Tomponskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",

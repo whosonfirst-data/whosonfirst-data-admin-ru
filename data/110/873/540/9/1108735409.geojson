@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CL.NY",
+        "meso:okato_code":"75244000",
+        "meso:oktmo_code":"75644000",
         "wd:id":"Q1654052"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902173,
     "wof:geomhash":"c7055c21e6fd2933faa736695e9faa05",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108735409,
-    "wof:lastmodified":1694639688,
+    "wof:lastmodified":1695886265,
     "wof:name":"Njazepetrovskiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

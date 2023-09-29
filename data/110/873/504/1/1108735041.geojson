@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.370165,
-    "geom:area_square_m":2577308700.725729,
+    "geom:area_square_m":2577308548.214524,
     "geom:bbox":"50.611962,55.441507,51.585245,56.080895",
     "geom:latitude":55.730842,
     "geom:longitude":51.143489,
@@ -142,11 +142,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"92238000",
+        "meso:oktmo_code":"92638000",
         "wd:id":"Q158071"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901867,
-    "wof:geomhash":"991626737f1cd9da397c31f825a1f260",
+    "wof:geomhash":"ad1bff51a6c395143a4004e4e26a8149",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":1108735041,
-    "wof:lastmodified":1690859370,
+    "wof:lastmodified":1695886218,
     "wof:name":"Mamadyshskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

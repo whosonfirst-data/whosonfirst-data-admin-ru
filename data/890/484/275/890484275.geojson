@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070963,
-    "geom:area_square_m":638556158.028451,
+    "geom:area_square_m":638555212.794656,
     "geom:bbox":"47.269808,42.843058,47.875389,44.002029",
     "geom:latitude":43.3029,
     "geom:longitude":47.523228,
@@ -189,16 +189,22 @@
     "wof:concordances":{
         "gp:id":12597384,
         "hasc:id":"RU.DA.MK",
+        "meso:okato_code":"82401000",
+        "meso:oktmo_code":"82701000",
         "qs_pg:id":1105822,
         "wd:id":"Q1438662",
         "wk:page":"Khasavyurtovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054506,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"64e832d63236468baae98382eb9ebb6c",
+    "wof:geomhash":"796cd2bcfeed825eab1dcba99e27b4e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -209,7 +215,7 @@
         }
     ],
     "wof:id":890484275,
-    "wof:lastmodified":1690859931,
+    "wof:lastmodified":1695886461,
     "wof:name":"Makhachkala",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

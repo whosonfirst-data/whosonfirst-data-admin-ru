@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001276,
-    "geom:area_square_m":8913567.45861,
+    "geom:area_square_m":8913507.218198,
     "geom:bbox":"37.573925,55.57139,37.629911,55.611787",
     "geom:latitude":55.59165,
     "geom:longitude":37.59921,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45296597",
+        "meso:oktmo_code":"45926000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902680,
-    "wof:geomhash":"ca45a2d495e9b29329d24dc277d67dc7",
+    "wof:geomhash":"12ba93a73853f0f75f91f2e7f084dd02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108736077,
-    "wof:lastmodified":1627522706,
+    "wof:lastmodified":1695886402,
     "wof:name":"Chertanovo JUzhnoe",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

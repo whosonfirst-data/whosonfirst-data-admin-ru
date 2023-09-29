@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TY.AS",
+        "meso:okato_code":"71207000",
+        "meso:oktmo_code":"71607000",
         "wd:id":"Q1753800"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899863,
     "wof:geomhash":"66ca7ac7515c41137923f642c0060bdc",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108732777,
-    "wof:lastmodified":1694639727,
+    "wof:lastmodified":1695886187,
     "wof:name":"Aromashevskiy",
     "wof:parent_id":85687831,
     "wof:placetype":"county",

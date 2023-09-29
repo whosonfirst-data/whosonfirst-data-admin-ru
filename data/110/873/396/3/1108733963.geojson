@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.CV.IB",
+        "meso:okato_code":"97213000",
+        "meso:oktmo_code":"97613000",
         "wd:id":"Q2534930"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900944,
     "wof:geomhash":"ff3c4586d7e7d5d3fc3ce68324cc20c1",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108733963,
-    "wof:lastmodified":1694639682,
+    "wof:lastmodified":1695886214,
     "wof:name":"Ibresinskiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",

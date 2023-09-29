@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.NG.SO",
+        "meso:okato_code":"49238000",
+        "meso:oktmo_code":"49638000",
         "wd:id":"Q2627886"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903148,
     "wof:geomhash":"2faa579a783dbbe7ba09dd43b872e1f7",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108736687,
-    "wof:lastmodified":1694639780,
+    "wof:lastmodified":1695886380,
     "wof:name":"Soleckij",
     "wof:parent_id":85688095,
     "wof:placetype":"county",

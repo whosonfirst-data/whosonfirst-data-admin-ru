@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.UD.SH",
+        "meso:okato_code":"94246000",
+        "meso:oktmo_code":"94646000",
         "wd:id":"Q1093987"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903016,
     "wof:geomhash":"ce97b652ccef7223afbb173b0648a69c",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108736513,
-    "wof:lastmodified":1694639778,
+    "wof:lastmodified":1695886370,
     "wof:name":"Sharkanskiy",
     "wof:parent_id":85687787,
     "wof:placetype":"county",

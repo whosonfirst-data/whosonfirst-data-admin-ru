@@ -161,8 +161,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SK.AB",
+        "meso:okato_code":"98201000",
+        "meso:oktmo_code":"98601000",
         "wd:id":"Q480278"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899716,
     "wof:geomhash":"1dfa97da5a5771cdba3abd8f23a11ce6",
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":1108732605,
-    "wof:lastmodified":1694639725,
+    "wof:lastmodified":1695886175,
     "wof:name":"Abyjskiy",
     "wof:parent_id":85687843,
     "wof:placetype":"county",

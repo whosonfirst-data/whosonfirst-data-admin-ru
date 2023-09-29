@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KU.PE",
+        "meso:okato_code":"37226000",
+        "meso:oktmo_code":"37626000",
         "wd:id":"Q1654536"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902504,
     "wof:geomhash":"cbe09c407f7e7deb3a2531e398adbe59",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108735855,
-    "wof:lastmodified":1694639770,
+    "wof:lastmodified":1695886343,
     "wof:name":"Petukhovskiy",
     "wof:parent_id":85688157,
     "wof:placetype":"county",

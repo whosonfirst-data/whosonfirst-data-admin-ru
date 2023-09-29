@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.358268,
-    "geom:area_square_m":2328280087.699934,
+    "geom:area_square_m":2328280260.142704,
     "geom:bbox":"48.3656,58.00293,49.639207,58.62444",
     "geom:latitude":58.293671,
     "geom:longitude":48.963879,
@@ -157,15 +157,21 @@
     "wof:concordances":{
         "gn:id":514967,
         "hasc:id":"RU.KV.OR",
+        "meso:okato_code":"33230000",
+        "meso:oktmo_code":"33630000",
         "qs_pg:id":275958,
         "wd:id":"Q1654452"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054208,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c72a6032f11983fddfee639b3982117d",
+    "wof:geomhash":"d3a278ed330e24ffc579e4e061b3dd47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":890478851,
-    "wof:lastmodified":1690859784,
+    "wof:lastmodified":1695886438,
     "wof:name":"Orichevskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",

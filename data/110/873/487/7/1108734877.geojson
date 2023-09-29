@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.133889,
-    "geom:area_square_m":1027574659.577206,
+    "geom:area_square_m":1027574471.10881,
     "geom:bbox":"34.933716,51.419714,35.50954,51.817921",
     "geom:latitude":51.634245,
     "geom:longitude":35.26014,
@@ -121,11 +121,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"38222000",
+        "meso:oktmo_code":"38622000",
         "wd:id":"Q2629625"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901746,
-    "wof:geomhash":"ccc8882977b60e4f7aad54084ec5316e",
+    "wof:geomhash":"df4b9a42e6696081a7bf56c80aaf858a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1108734877,
-    "wof:lastmodified":1690859617,
+    "wof:lastmodified":1695886295,
     "wof:name":"L'govskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

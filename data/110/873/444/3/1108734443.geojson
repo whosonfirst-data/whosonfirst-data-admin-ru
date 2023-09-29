@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009701,
-    "geom:area_square_m":62595954.676106,
+    "geom:area_square_m":62596099.647613,
     "geom:bbox":"49.923426,58.495276,50.288364,58.620107",
     "geom:latitude":58.543546,
     "geom:longitude":50.031524,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"33407000",
+        "meso:oktmo_code":"33707000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901360,
-    "wof:geomhash":"29bf9b565640b83ccb818591f859fd88",
+    "wof:geomhash":"8d3664cac769b141a5c8bd8fce334e47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108734443,
-    "wof:lastmodified":1627522598,
+    "wof:lastmodified":1695886269,
     "wof:name":"Kirovo-CHepeck",
     "wof:parent_id":85687903,
     "wof:placetype":"county",

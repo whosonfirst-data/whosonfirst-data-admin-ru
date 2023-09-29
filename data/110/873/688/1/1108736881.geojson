@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SR.TA"
+        "hasc:id":"RU.SR.TA",
+        "meso:okato_code":"63575000",
+        "meso:oktmo_code":"63775000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903308,
     "wof:geomhash":"5fac74271c6cf696b08b2d402f0194ea",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108736881,
-    "wof:lastmodified":1694639784,
+    "wof:lastmodified":1695886390,
     "wof:name":"Svetlyj",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

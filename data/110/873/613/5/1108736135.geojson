@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00103,
-    "geom:area_square_m":7176425.365631,
+    "geom:area_square_m":7176409.89951,
     "geom:bbox":"37.747223,55.683951,37.793841,55.715827",
     "geom:latitude":55.700159,
     "geom:longitude":37.771643,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45290562",
+        "meso:oktmo_code":"45387000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902723,
-    "wof:geomhash":"f285e0ffc8dd624f6ce07be4ea568489",
+    "wof:geomhash":"384125fadd3ca5eaf0818df40778ff15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736135,
-    "wof:lastmodified":1627522606,
+    "wof:lastmodified":1695886279,
     "wof:name":"Kuz'minki",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

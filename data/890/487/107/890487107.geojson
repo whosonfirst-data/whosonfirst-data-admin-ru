@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.167785,
-    "geom:area_square_m":1278966408.955901,
+    "geom:area_square_m":1278966805.29663,
     "geom:bbox":"38.736895,51.718915,39.626393,52.104603",
     "geom:latitude":51.941942,
     "geom:longitude":39.166677,
@@ -151,16 +151,22 @@
     "wof:concordances":{
         "gp:id":12598685,
         "hasc:id":"RU.VR.RA",
+        "meso:okato_code":"20243000",
+        "meso:oktmo_code":"20643000",
         "qs_pg:id":231652,
         "wd:id":"Q1654556",
         "wk:page":"Ramonsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054656,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"67b25b52c837f2b346ee303b9189bc15",
+    "wof:geomhash":"a9b9590a052165187e9be102d02851bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":890487107,
-    "wof:lastmodified":1690860098,
+    "wof:lastmodified":1695886482,
     "wof:name":"Ramonskiy",
     "wof:parent_id":85688051,
     "wof:placetype":"county",

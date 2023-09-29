@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054891,
-    "geom:area_square_m":404579345.113643,
+    "geom:area_square_m":404579633.434799,
     "geom:bbox":"58.887148,53.294737,59.230638,53.546011",
     "geom:latitude":53.410586,
     "geom:longitude":59.037666,
@@ -109,15 +109,21 @@
     "wof:concordances":{
         "gp:id":12598132,
         "hasc:id":"RU.CL.MA",
+        "meso:okato_code":"75438000",
+        "meso:oktmo_code":"75738000",
         "qs_pg:id":1209262,
         "wk:page":"Pravoberezhny District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054273,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8fc19d0b7c4a15590d95924939916a45",
+    "wof:geomhash":"be3a035e970081e09d0cb1643becf3b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":890479889,
-    "wof:lastmodified":1627522623,
+    "wof:lastmodified":1695886297,
     "wof:name":"Magnitogorskiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

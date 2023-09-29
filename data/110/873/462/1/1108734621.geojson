@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.605949,
-    "geom:area_square_m":3940064796.070035,
+    "geom:area_square_m":3940064538.618385,
     "geom:bbox":"47.411904,57.803555,48.680328,58.802439",
     "geom:latitude":58.273821,
     "geom:longitude":48.105424,
@@ -136,11 +136,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"33219000",
+        "meso:oktmo_code":"33619000",
         "wd:id":"Q2632833"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901508,
-    "wof:geomhash":"4f384fd4bb91416c903c341da35b00ab",
+    "wof:geomhash":"9127d812dcae999ae2b501f2452b77a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":1108734621,
-    "wof:lastmodified":1690859482,
+    "wof:lastmodified":1695886277,
     "wof:name":"Kotel'nichskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",

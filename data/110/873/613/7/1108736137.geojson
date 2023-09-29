@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00133,
-    "geom:area_square_m":9253735.985008,
+    "geom:area_square_m":9253750.704423,
     "geom:bbox":"37.675203,55.733169,37.734558,55.778195",
     "geom:latitude":55.75422,
     "geom:longitude":37.706716,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45290564",
+        "meso:oktmo_code":"45388000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902725,
-    "wof:geomhash":"8abe9ad1085003fa402c21eff776947a",
+    "wof:geomhash":"cb634d2698b5362b7aa903e5da7c7838",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108736137,
-    "wof:lastmodified":1627522618,
+    "wof:lastmodified":1695886293,
     "wof:name":"Lefortovo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

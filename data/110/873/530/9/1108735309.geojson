@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006474,
-    "geom:area_square_m":30451725.665921,
+    "geom:area_square_m":30451829.999336,
     "geom:bbox":"52.972938,67.573892,53.116046,67.695471",
     "geom:latitude":67.641751,
     "geom:longitude":53.032069,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"11111000",
+        "meso:oktmo_code":"11851000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902099,
-    "wof:geomhash":"6412bf55c06e1e31524ba0289b43f9f8",
+    "wof:geomhash":"e312078f52576573814b0195272f720d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108735309,
-    "wof:lastmodified":1627522634,
+    "wof:lastmodified":1695886309,
     "wof:name":"Nar'jan-Mar",
     "wof:parent_id":85688211,
     "wof:placetype":"county",

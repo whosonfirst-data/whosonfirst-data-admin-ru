@@ -149,8 +149,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TT.TY",
+        "meso:okato_code":"92256000",
+        "meso:oktmo_code":"92656000",
         "wd:id":"Q2220375"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903448,
     "wof:geomhash":"cd6b33b9ea59f993c31a7fd01c64dae0",
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":1108737033,
-    "wof:lastmodified":1694639787,
+    "wof:lastmodified":1695886407,
     "wof:name":"Tjuljachinskiy",
     "wof:parent_id":85688065,
     "wof:placetype":"county",

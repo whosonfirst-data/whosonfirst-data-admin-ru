@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.AL.TS"
+        "hasc:id":"RU.AL.TS",
+        "meso:okato_code":"01257000",
+        "meso:oktmo_code":"01657000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900231,
     "wof:geomhash":"acccd41987e1afd8672351d7a5603963",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733161,
-    "wof:lastmodified":1694639788,
+    "wof:lastmodified":1695886410,
     "wof:name":"Celinnyj",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014166,
-    "geom:area_square_m":96763562.023196,
+    "geom:area_square_m":96763728.685039,
     "geom:bbox":"53.658625,56.422847,53.878233,56.533402",
     "geom:latitude":56.468317,
     "geom:longitude":53.776557,
@@ -152,16 +152,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12597608,
+        "meso:okato_code":"94440000",
+        "meso:oktmo_code":"94740000",
         "qs_pg:id":125627,
         "wd:id":"Q589335",
         "wk:page":"Sarapulsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054589,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3f4e8e2a81a002534e433469a7ff24ed",
+    "wof:geomhash":"27cdbc3d127831a8f110b02b3afdea45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -172,7 +178,7 @@
         }
     ],
     "wof:id":890486053,
-    "wof:lastmodified":1690860042,
+    "wof:lastmodified":1695886475,
     "wof:name":"Sarapul",
     "wof:parent_id":85687787,
     "wof:placetype":"county",

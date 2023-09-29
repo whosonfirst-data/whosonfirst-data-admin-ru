@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000549,
-    "geom:area_square_m":3817838.372323,
+    "geom:area_square_m":3817741.312241,
     "geom:bbox":"37.784724,55.739365,37.826537,55.759192",
     "geom:latitude":55.749107,
     "geom:longitude":37.806314,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45263576",
+        "meso:oktmo_code":"45309000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902751,
-    "wof:geomhash":"d4b9c7e5a8be4992d173bd2dd0368a32",
+    "wof:geomhash":"12c2b621a77b3403ccc3041e3a2c77b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736171,
-    "wof:lastmodified":1627522642,
+    "wof:lastmodified":1695886321,
     "wof:name":"Novogireevo",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

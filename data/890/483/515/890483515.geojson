@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.257306,
-    "geom:area_square_m":1278082485.240362,
+    "geom:area_square_m":1278082172.223619,
     "geom:bbox":"66.003136,66.027233,66.916708,66.672853",
     "geom:latitude":66.315055,
     "geom:longitude":66.496431,
@@ -268,14 +268,20 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12599476,
+        "meso:okato_code":"71171000",
+        "meso:oktmo_code":"71951000",
         "qs_pg:id":989723
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054470,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"795a6140725803bce1218ac2cacfa3cb",
+    "wof:geomhash":"d810b4ab21903210eb11ebb0194585bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -286,7 +292,7 @@
         }
     ],
     "wof:id":890483515,
-    "wof:lastmodified":1642541497,
+    "wof:lastmodified":1695886460,
     "wof:name":"Salekhard",
     "wof:parent_id":85687931,
     "wof:placetype":"county",

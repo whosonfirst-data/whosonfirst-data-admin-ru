@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BR.KA",
+        "meso:okato_code":"15224000",
+        "meso:oktmo_code":"15624000",
         "wd:id":"Q2708362"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901217,
     "wof:geomhash":"28d34ac70234f513cb5cb2d6eb3c0944",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108734265,
-    "wof:lastmodified":1694639744,
+    "wof:lastmodified":1695886258,
     "wof:name":"Karachevskiy",
     "wof:parent_id":85688121,
     "wof:placetype":"county",

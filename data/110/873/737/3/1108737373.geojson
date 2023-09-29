@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.KV.VS"
+        "hasc:id":"RU.KV.VS",
+        "meso:okato_code":"33208000",
+        "meso:oktmo_code":"33608000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903718,
     "wof:geomhash":"685471f4fa4328c0c8b0f229bc0c3e15",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108737373,
-    "wof:lastmodified":1694639792,
+    "wof:lastmodified":1695886423,
     "wof:name":"Verkhoshizhemskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",

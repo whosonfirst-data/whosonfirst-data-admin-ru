@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.LP.VO"
+        "hasc:id":"RU.LP.VO",
+        "meso:okato_code":"42203000",
+        "meso:oktmo_code":"42603000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903770,
     "wof:geomhash":"f7dcbd98ae48059d40df1ab361340032",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108737619,
-    "wof:lastmodified":1694639793,
+    "wof:lastmodified":1695886427,
     "wof:name":"Volovskiy",
     "wof:parent_id":85687917,
     "wof:placetype":"county",

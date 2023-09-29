@@ -237,8 +237,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.NZ.AR"
+        "hasc:id":"RU.NZ.AR",
+        "meso:okato_code":"22403000",
+        "meso:oktmo_code":"22703000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900626,
     "wof:geomhash":"f0ba0ba590751b85bb2b9dd348fd54eb",
@@ -252,7 +258,7 @@
         }
     ],
     "wof:id":1108733623,
-    "wof:lastmodified":1694639682,
+    "wof:lastmodified":1695886214,
     "wof:name":"Arzamas",
     "wof:parent_id":85688057,
     "wof:placetype":"county",

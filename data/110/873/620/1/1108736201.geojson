@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001348,
-    "geom:area_square_m":9326487.564087,
+    "geom:area_square_m":9326414.071127,
     "geom:bbox":"37.207748,55.960701,37.266478,56.004991",
     "geom:latitude":55.98673,
     "geom:longitude":37.240671,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45272568",
+        "meso:oktmo_code":"45377000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902770,
-    "wof:geomhash":"6bbd73b839abb04290551a6becd8d4ed",
+    "wof:geomhash":"17631625c7cd54597edbb53b3da56a33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736201,
-    "wof:lastmodified":1627522677,
+    "wof:lastmodified":1695886362,
     "wof:name":"Savjolki",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

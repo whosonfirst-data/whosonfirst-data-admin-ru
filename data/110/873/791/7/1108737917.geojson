@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.281374,
-    "geom:area_square_m":2298130329.807282,
+    "geom:area_square_m":2298130079.891096,
     "geom:bbox":"45.647986,48.432791,46.6264,48.910298",
     "geom:latitude":48.65994,
     "geom:longitude":46.184437,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"12519000",
+        "meso:oktmo_code":"12719000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903845,
-    "wof:geomhash":"8f813f860f0d315b13327dbeb383744c",
+    "wof:geomhash":"99fedf209a68c1916e61dacbd524b6d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108737917,
-    "wof:lastmodified":1627522736,
+    "wof:lastmodified":1695886438,
     "wof:name":"ZATO Znamensk",
     "wof:parent_id":85687985,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015161,
-    "geom:area_square_m":99873377.084324,
+    "geom:area_square_m":99873647.459175,
     "geom:bbox":"28.261461,57.743725,28.470676,57.868521",
     "geom:latitude":57.807935,
     "geom:longitude":28.367532,
@@ -141,15 +141,21 @@
     "wof:concordances":{
         "gp:id":12599086,
         "hasc:id":"RU.PS.PG",
+        "meso:okato_code":"58401000",
+        "meso:oktmo_code":"58701000",
         "qs_pg:id":1105869,
         "wk:page":"Kunyinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054509,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"676171d0d86a29e434fb4dab21eac503",
+    "wof:geomhash":"eb6edf8dff3d26a5a4d95c8069b73d5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -160,7 +166,7 @@
         }
     ],
     "wof:id":890484337,
-    "wof:lastmodified":1642541497,
+    "wof:lastmodified":1695886460,
     "wof:name":"Pskov",
     "wof:parent_id":85688167,
     "wof:placetype":"county",

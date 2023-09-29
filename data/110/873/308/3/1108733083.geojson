@@ -122,8 +122,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KY.BL",
+        "meso:okato_code":"04211000",
+        "meso:oktmo_code":"04611000",
         "wd:id":"Q40243"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900162,
     "wof:geomhash":"e561a0c6232d22790d355bea9f0c2608",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1108733083,
-    "wof:lastmodified":1694492723,
+    "wof:lastmodified":1695886203,
     "wof:name":"Bol'sheulujskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.ME.MA",
+        "meso:okato_code":"88224000",
+        "meso:oktmo_code":"88624000",
         "wd:id":"Q1094946"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901882,
     "wof:geomhash":"507f9e38233e2597518a79778ee639cc",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108735059,
-    "wof:lastmodified":1694639756,
+    "wof:lastmodified":1695886300,
     "wof:name":"Mari-Turekskiy",
     "wof:parent_id":85688043,
     "wof:placetype":"county",

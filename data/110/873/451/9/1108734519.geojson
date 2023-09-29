@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.KM.SR"
+        "hasc:id":"RU.KM.SR",
+        "meso:okato_code":"71183000",
+        "meso:oktmo_code":"71883000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901427,
     "wof:geomhash":"587b50340ad5741f9eb98d6779e1e680",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108734519,
-    "wof:lastmodified":1694639747,
+    "wof:lastmodified":1695886272,
     "wof:name":"Kogalymskiy",
     "wof:parent_id":85687919,
     "wof:placetype":"county",

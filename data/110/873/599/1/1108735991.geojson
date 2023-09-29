@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094127,
-    "geom:area_square_m":804249512.797634,
+    "geom:area_square_m":804249405.400719,
     "geom:bbox":"47.908179,46.118834,48.446622,46.518562",
     "geom:latitude":46.290912,
     "geom:longitude":48.172872,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"12242000",
+        "meso:oktmo_code":"12642000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902623,
-    "wof:geomhash":"8088fbddabf91f3ef4fc259e4c39fd04",
+    "wof:geomhash":"0fd35f4469cc09eabc47b2b47bbd3faa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108735991,
-    "wof:lastmodified":1627522668,
+    "wof:lastmodified":1695886351,
     "wof:name":"Privolzhskiy",
     "wof:parent_id":85687985,
     "wof:placetype":"county",

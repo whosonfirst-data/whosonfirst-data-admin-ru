@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KS.ME",
+        "meso:okato_code":"38224000",
+        "meso:oktmo_code":"38624000",
         "wd:id":"Q2629589"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901912,
     "wof:geomhash":"8f76f09efb8486209f1552c02a30a5eb",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108735091,
-    "wof:lastmodified":1694639756,
+    "wof:lastmodified":1695886301,
     "wof:name":"Medvenskiy",
     "wof:parent_id":85688011,
     "wof:placetype":"county",

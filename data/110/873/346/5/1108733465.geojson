@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.KX.IM"
+        "hasc:id":"RU.KX.IM",
+        "meso:okato_code":"04143000",
+        "meso:oktmo_code":"04911000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900493,
     "wof:geomhash":"4f4df825775698fb77a7e0b85db1b35a",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108733465,
-    "wof:lastmodified":1694639738,
+    "wof:lastmodified":1695886232,
     "wof:name":"Ehvenkijskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

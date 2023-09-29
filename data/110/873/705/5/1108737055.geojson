@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SA.ST"
+        "hasc:id":"RU.SA.ST",
+        "meso:okato_code":"36440000",
+        "meso:oktmo_code":"36740000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903472,
     "wof:geomhash":"09309f646e4844fa4d65314e556ab2e5",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108737055,
-    "wof:lastmodified":1694639788,
+    "wof:lastmodified":1695886408,
     "wof:name":"Tol'jatti",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

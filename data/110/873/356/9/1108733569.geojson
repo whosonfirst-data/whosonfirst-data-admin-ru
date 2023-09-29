@@ -128,8 +128,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TB.GA",
+        "meso:okato_code":"68203000",
+        "meso:oktmo_code":"68603000",
         "wd:id":"Q1652011"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900585,
     "wof:geomhash":"9515a40c5458020d7f767d5849f4fa4e",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1108733569,
-    "wof:lastmodified":1694639739,
+    "wof:lastmodified":1695886236,
     "wof:name":"Gavrilovskiy",
     "wof:parent_id":85687829,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000278,
-    "geom:area_square_m":1925314.597845,
+    "geom:area_square_m":1925301.090526,
     "geom:bbox":"37.548005,55.874414,37.569613,55.893833",
     "geom:latitude":55.885186,
     "geom:longitude":37.559629,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45277568",
+        "meso:oktmo_code":"45337000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902804,
-    "wof:geomhash":"f63a0b1926cf50e700b6640dbb7f1769",
+    "wof:geomhash":"a37fce2aac19b01c423cec2b20f9b813",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736247,
-    "wof:lastmodified":1627522729,
+    "wof:lastmodified":1695886427,
     "wof:name":"Vostochnoe Degunino",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

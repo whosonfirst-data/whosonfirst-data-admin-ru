@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.PZ.PA",
+        "meso:okato_code":"56254000",
+        "meso:oktmo_code":"56654000",
         "wd:id":"Q850764"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902423,
     "wof:geomhash":"128e87cc60d6f72985ed3a6659e90c61",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108735747,
-    "wof:lastmodified":1694639767,
+    "wof:lastmodified":1695886337,
     "wof:name":"Pachelmskiy",
     "wof:parent_id":85687999,
     "wof:placetype":"county",

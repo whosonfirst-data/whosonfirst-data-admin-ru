@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.MS.LR",
+        "meso:okato_code":"46231000",
+        "meso:oktmo_code":"46631000",
         "wd:id":"Q2426262"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901808,
     "wof:geomhash":"05be6eb6d86f95b8b964fefeb88a7e59",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108734963,
-    "wof:lastmodified":1694639755,
+    "wof:lastmodified":1695886297,
     "wof:name":"Ljubereckij",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

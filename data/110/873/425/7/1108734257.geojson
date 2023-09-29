@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016041,
-    "geom:area_square_m":110305355.590676,
+    "geom:area_square_m":110305212.583716,
     "geom:bbox":"95.609046,56.146239,95.799368,56.275604",
     "geom:latitude":56.211815,
     "geom:longitude":95.705597,
@@ -191,10 +191,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"04420000",
+        "meso:oktmo_code":"04720000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901210,
-    "wof:geomhash":"72e443ef4fa9711eef14a73c07259038",
+    "wof:geomhash":"c3feb4d80e208f5379101f0cc4a6151b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -205,7 +212,7 @@
         }
     ],
     "wof:id":1108734257,
-    "wof:lastmodified":1636497190,
+    "wof:lastmodified":1695886731,
     "wof:name":"Kansk",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

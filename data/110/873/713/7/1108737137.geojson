@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.375125,
-    "geom:area_square_m":2460627947.811098,
+    "geom:area_square_m":2460627547.984223,
     "geom:bbox":"34.36945,57.663682,35.523356,58.245643",
     "geom:latitude":57.962028,
     "geom:longitude":34.995376,
@@ -130,11 +130,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"28256000",
+        "meso:oktmo_code":"28656000",
         "wd:id":"Q257810"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903538,
-    "wof:geomhash":"ceecfb1920e09e6a95d62f05dc20861d",
+    "wof:geomhash":"09d309a9c649cb0862480d6ab4645593",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":1108737137,
-    "wof:lastmodified":1690859491,
+    "wof:lastmodified":1695886413,
     "wof:name":"Udomel'skiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

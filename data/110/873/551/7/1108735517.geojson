@@ -153,8 +153,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.TL.VE"
+        "hasc:id":"RU.TL.VE",
+        "meso:okato_code":"70234000",
+        "meso:oktmo_code":"70724000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902236,
     "wof:geomhash":"e7ce57c2d623fcfef92c66018fbbae69",
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":1108735517,
-    "wof:lastmodified":1694639804,
+    "wof:lastmodified":1695886730,
     "wof:name":"Novomoskovsk",
     "wof:parent_id":85688203,
     "wof:placetype":"county",

@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.CL.KY"
+        "hasc:id":"RU.CL.KY",
+        "meso:okato_code":"75434000",
+        "meso:oktmo_code":"75734000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901735,
     "wof:geomhash":"f8d31082bb404f4f0e467db72f6f5d1a",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108734869,
-    "wof:lastmodified":1694639753,
+    "wof:lastmodified":1695886291,
     "wof:name":"Kyshtymskiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

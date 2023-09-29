@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03236,
-    "geom:area_square_m":235078953.95,
+    "geom:area_square_m":235079131.37287,
     "geom:bbox":"86.354291,53.933438,86.792491,54.165084",
     "geom:latitude":54.020865,
     "geom:longitude":86.607519,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"32416000",
+        "meso:oktmo_code":"32716000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901375,
-    "wof:geomhash":"b1f8a61a0857ba47286f4120fbc92099",
+    "wof:geomhash":"3eb36278a2b857b0a3cafb38b5778775",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108734459,
-    "wof:lastmodified":1627522598,
+    "wof:lastmodified":1695886269,
     "wof:name":"Kiseljovsk",
     "wof:parent_id":85688105,
     "wof:placetype":"county",

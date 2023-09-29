@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.417441,
-    "geom:area_square_m":3030745488.278141,
+    "geom:area_square_m":3030745856.765676,
     "geom:bbox":"32.565964,53.687508,33.689415,54.397704",
     "geom:latitude":54.044435,
     "geom:longitude":33.114046,
@@ -150,16 +150,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12599278,
+        "meso:okato_code":"66236000",
+        "meso:oktmo_code":"66636000",
         "qs_pg:id":57734,
         "wd:id":"Q2638901",
         "wk:page":"Roslavlsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054573,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"73b0c47ecf8dd17460675d27644a952e",
+    "wof:geomhash":"3bc70025606001a18b4fede7b6ca6ce4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":890485717,
-    "wof:lastmodified":1690859849,
+    "wof:lastmodified":1695886445,
     "wof:name":"Roslavl'skiy",
     "wof:parent_id":85687819,
     "wof:placetype":"county",

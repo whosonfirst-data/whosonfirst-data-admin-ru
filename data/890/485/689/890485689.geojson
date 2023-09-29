@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.295965,
-    "geom:area_square_m":1974385063.991486,
+    "geom:area_square_m":1974385018.966796,
     "geom:bbox":"36.75385,57.111885,38.003691,57.606443",
     "geom:latitude":57.350453,
     "geom:longitude":37.435974,
@@ -157,16 +157,22 @@
     "wof:concordances":{
         "gp:id":12598354,
         "hasc:id":"RU.TV.KS",
+        "meso:okato_code":"28224000",
+        "meso:oktmo_code":"28624000",
         "qs_pg:id":896826,
         "wd:id":"Q368518",
         "wk:page":"Kashinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054571,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e6fa2e85a12b2b3d016a1539a1e57cbd",
+    "wof:geomhash":"f3f739ff18e9435310f1aefb97178b64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":890485689,
-    "wof:lastmodified":1690859821,
+    "wof:lastmodified":1695886442,
     "wof:name":"Kashinskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

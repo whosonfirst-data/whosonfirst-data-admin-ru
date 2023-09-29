@@ -137,8 +137,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AL.LO",
+        "meso:okato_code":"01225000",
+        "meso:oktmo_code":"01625000",
         "wd:id":"Q1654185"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901818,
     "wof:geomhash":"5a231966cc12ebc43dd08351681cbad7",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":1108734979,
-    "wof:lastmodified":1694639755,
+    "wof:lastmodified":1695886296,
     "wof:name":"Loktevskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

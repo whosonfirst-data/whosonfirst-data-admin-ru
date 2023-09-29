@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024248,
-    "geom:area_square_m":163960619.417507,
+    "geom:area_square_m":163960627.838563,
     "geom:bbox":"35.721919,56.77805,36.064735,56.933184",
     "geom:latitude":56.84972,
     "geom:longitude":35.898858,
@@ -144,15 +144,21 @@
     "wof:concordances":{
         "gp:id":12598382,
         "hasc:id":"RU.TV.TV",
+        "meso:okato_code":"28401000",
+        "meso:oktmo_code":"28701000",
         "qs_pg:id":902774,
         "wk:page":"Vesyegonsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054559,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c12fa6b8783abb0683085cd08b807a48",
+    "wof:geomhash":"4a44db0456758055c3367455b1012aed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":890485421,
-    "wof:lastmodified":1642541483,
+    "wof:lastmodified":1695886444,
     "wof:name":"Tver'",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.479231,
-    "geom:area_square_m":3520277387.671994,
+    "geom:area_square_m":3520277363.424603,
     "geom:bbox":"48.991665,53.113193,50.050426,53.890338",
     "geom:latitude":53.554013,
     "geom:longitude":49.503509,
@@ -156,16 +156,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12598627,
+        "meso:okato_code":"36240000",
+        "meso:oktmo_code":"36640000",
         "qs_pg:id":1119185,
         "wd:id":"Q52242",
         "wk:page":"Stavropolsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054513,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6d0c3d62c4adc52f3c35953095b5b3cd",
+    "wof:geomhash":"5993f6c95e924b347f1297e5ab46c73d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":890484433,
-    "wof:lastmodified":1690859949,
+    "wof:lastmodified":1695886466,
     "wof:name":"Stavropol'skiy",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

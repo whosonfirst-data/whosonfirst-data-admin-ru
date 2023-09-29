@@ -152,8 +152,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KI.PZ",
+        "meso:okato_code":"86239000",
+        "meso:oktmo_code":"86639000",
         "wd:id":"Q1036164"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902626,
     "wof:geomhash":"0a0f92e3798a043f0d2aa7e94c24034e",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1108735995,
-    "wof:lastmodified":1694639685,
+    "wof:lastmodified":1695886236,
     "wof:name":"Prjazhinskiy",
     "wof:parent_id":85688193,
     "wof:placetype":"county",

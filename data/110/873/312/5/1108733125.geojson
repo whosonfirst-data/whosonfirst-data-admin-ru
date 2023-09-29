@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.201742,
-    "geom:area_square_m":1829149427.780298,
+    "geom:area_square_m":1829149326.52864,
     "geom:bbox":"46.626489,42.567021,47.527202,43.111684",
     "geom:latitude":42.840262,
     "geom:longitude":47.081416,
@@ -148,11 +148,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"82211000",
+        "meso:oktmo_code":"82611000",
         "wd:id":"Q851694"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900189,
-    "wof:geomhash":"4c597c58d7e00d43f991939163abe17a",
+    "wof:geomhash":"67dce6d43be064254217b050a795ce7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":1108733125,
-    "wof:lastmodified":1690859507,
+    "wof:lastmodified":1695886205,
     "wof:name":"Bujnakskiy",
     "wof:parent_id":85688197,
     "wof:placetype":"county",

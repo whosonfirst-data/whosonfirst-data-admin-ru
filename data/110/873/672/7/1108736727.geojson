@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.OL.SO",
+        "meso:okato_code":"54253000",
+        "meso:oktmo_code":"54653000",
         "wd:id":"Q2217610"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903174,
     "wof:geomhash":"67eb7f4cc8c0d5627be310baf4e021a8",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108736727,
-    "wof:lastmodified":1694639781,
+    "wof:lastmodified":1695886382,
     "wof:name":"Soskovskiy",
     "wof:parent_id":85687849,
     "wof:placetype":"county",

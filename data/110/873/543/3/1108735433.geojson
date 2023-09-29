@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000119,
-    "geom:area_square_m":832693.671455,
+    "geom:area_square_m":832702.435001,
     "geom:bbox":"37.27975,55.646282,37.297143,55.657519",
     "geom:latitude":55.652269,
     "geom:longitude":37.289864,
@@ -72,10 +72,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"NO DATA",
+        "meso:oktmo_code":"NO DATA"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902183,
-    "wof:geomhash":"66a2dc9e23f4b98a2f107d7ec3994312",
+    "wof:geomhash":"427383c0bc56c0bd5c68daa27b4297a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,7 +93,7 @@
         }
     ],
     "wof:id":1108735433,
-    "wof:lastmodified":1627522647,
+    "wof:lastmodified":1695886325,
     "wof:name":"Odintsovskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

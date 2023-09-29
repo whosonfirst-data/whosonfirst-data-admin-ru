@@ -333,8 +333,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.MR.SA"
+        "hasc:id":"RU.MR.SA",
+        "meso:okato_code":"89401000",
+        "meso:oktmo_code":"89701000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900866,
     "wof:geomhash":"73a1aaf2e4634af19c3eb6562ebd1140",
@@ -348,7 +354,7 @@
         }
     ],
     "wof:id":1108733857,
-    "wof:lastmodified":1694639685,
+    "wof:lastmodified":1695886234,
     "wof:name":"Saransk",
     "wof:parent_id":85687873,
     "wof:placetype":"county",

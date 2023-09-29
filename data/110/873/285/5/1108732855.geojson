@@ -185,8 +185,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BK.BN",
+        "meso:okato_code":"80207000",
+        "meso:oktmo_code":"80607000",
         "wd:id":"Q788939"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899938,
     "wof:geomhash":"7cd1edb7c3ac820fff657ea0cf5454bb",
@@ -200,7 +206,7 @@
         }
     ],
     "wof:id":1108732855,
-    "wof:lastmodified":1694639728,
+    "wof:lastmodified":1695886191,
     "wof:name":"Bakalinskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

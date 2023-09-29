@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.283078,
-    "geom:area_square_m":2435371170.769341,
+    "geom:area_square_m":2435371013.982652,
     "geom:bbox":"37.768155,45.669896,38.769424,46.260123",
     "geom:latitude":45.912277,
     "geom:longitude":38.292992,
@@ -121,11 +121,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"03241000",
+        "meso:oktmo_code":"03641000",
         "wd:id":"Q918583"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902614,
-    "wof:geomhash":"941caa672d601d5bc66284eed2d943a8",
+    "wof:geomhash":"f2b21a46401dee5cb848d9dede5cce36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1108735981,
-    "wof:lastmodified":1690859578,
+    "wof:lastmodified":1695886350,
     "wof:name":"Primorsko-Akhtarskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

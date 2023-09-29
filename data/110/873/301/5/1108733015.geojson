@@ -173,8 +173,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.BK.BL",
+        "meso:okato_code":"80214000",
+        "meso:oktmo_code":"80614000",
         "wd:id":"Q804279"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900102,
     "wof:geomhash":"fc633cec19c162e3b3844df5d880ba07",
@@ -188,7 +194,7 @@
         }
     ],
     "wof:id":1108733015,
-    "wof:lastmodified":1694639731,
+    "wof:lastmodified":1695886200,
     "wof:name":"Blagovarskiy",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

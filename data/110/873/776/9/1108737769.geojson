@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.507951,
-    "geom:area_square_m":3370534352.801258,
+    "geom:area_square_m":3370534350.648405,
     "geom:bbox":"33.915608,57.214271,35.417458,57.894437",
     "geom:latitude":57.545277,
     "geom:longitude":34.502191,
@@ -120,11 +120,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"28212000",
+        "meso:oktmo_code":"28612000",
         "wd:id":"Q2218449"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903805,
-    "wof:geomhash":"1695d3a1c86954d95fd8fdd9624ac1b8",
+    "wof:geomhash":"474869f3cea03b92b1e5b38f412eb03d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":1108737769,
-    "wof:lastmodified":1690859507,
+    "wof:lastmodified":1695886430,
     "wof:name":"Vyshnevolockij",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

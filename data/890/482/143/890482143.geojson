@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.561069,
-    "geom:area_square_m":8084721825.718455,
+    "geom:area_square_m":8084722371.682924,
     "geom:bbox":"32.420403,64.770991,35.277889,66.047531",
     "geom:latitude":65.238699,
     "geom:longitude":33.807923,
@@ -159,16 +159,22 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12597425,
+        "meso:okato_code":"86212000",
+        "meso:oktmo_code":"86612000",
         "qs_pg:id":1063278,
         "wd:id":"Q1036089",
         "wk:page":"Kemsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054399,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"81f3e37d952ac6eaac55cd767c8f0c3e",
+    "wof:geomhash":"c25d53049efd780dbbad9b99e737b6c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":890482143,
-    "wof:lastmodified":1690859869,
+    "wof:lastmodified":1695886447,
     "wof:name":"Kemskiy",
     "wof:parent_id":85688193,
     "wof:placetype":"county",

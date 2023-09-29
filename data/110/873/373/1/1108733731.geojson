@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004273,
-    "geom:area_square_m":29586183.650031,
+    "geom:area_square_m":29586138.368851,
     "geom:bbox":"37.462891,55.897439,37.53528,55.998934",
     "geom:latitude":55.951241,
     "geom:longitude":37.502273,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"46416000",
+        "meso:oktmo_code":"46716000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900763,
-    "wof:geomhash":"473ff355b85089b24da0734b3e81d991",
+    "wof:geomhash":"39e6d69065d38669f1d0af6601d6031e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108733731,
-    "wof:lastmodified":1627522562,
+    "wof:lastmodified":1695886225,
     "wof:name":"Dolgoprudnyj",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

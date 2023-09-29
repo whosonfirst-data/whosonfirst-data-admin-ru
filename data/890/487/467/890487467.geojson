@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.159843,
-    "geom:area_square_m":1196118409.747438,
+    "geom:area_square_m":1196118309.892185,
     "geom:bbox":"47.235632,52.5699,48.086321,52.965028",
     "geom:latitude":52.758558,
     "geom:longitude":47.587941,
@@ -161,15 +161,21 @@
         "gn:id":488775,
         "gp:id":12599516,
         "hasc:id":"RU.UL.SK",
+        "meso:okato_code":"73239000",
+        "meso:oktmo_code":"73639000",
         "qs_pg:id":80547,
         "wd:id":"Q2426240"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054675,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"76d1df92d530c00ee09078db03fa3e1f",
+    "wof:geomhash":"a618474b399515548773426ed5864b45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":890487467,
-    "wof:lastmodified":1690860104,
+    "wof:lastmodified":1695886483,
     "wof:name":"Starokulatkinskiy",
     "wof:parent_id":85687907,
     "wof:placetype":"county",

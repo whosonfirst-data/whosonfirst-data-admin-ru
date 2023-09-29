@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.MS.CR",
+        "meso:okato_code":"46256000",
+        "meso:oktmo_code":"46656000",
         "wd:id":"Q1117025"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900279,
     "wof:geomhash":"d6ecf75dd794a4f4e96205ad90822248",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108733213,
-    "wof:lastmodified":1694639785,
+    "wof:lastmodified":1695886401,
     "wof:name":"Chekhovskiy",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

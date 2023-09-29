@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.230859,
-    "geom:area_square_m":1522682162.88696,
+    "geom:area_square_m":1522682101.728604,
     "geom:bbox":"27.323294,57.40737,28.048037,58.113672",
     "geom:latitude":57.763747,
     "geom:longitude":27.722298,
@@ -151,11 +151,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"58240000",
+        "meso:oktmo_code":"58640000",
         "wd:id":"Q2534084"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902462,
-    "wof:geomhash":"e223ad3f6f94ab6731e9eca66398c9e0",
+    "wof:geomhash":"7da57559697b1e34441498c58a9873ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,7 +172,7 @@
         }
     ],
     "wof:id":1108735795,
-    "wof:lastmodified":1690859716,
+    "wof:lastmodified":1695886268,
     "wof:name":"Pechorskiy",
     "wof:parent_id":85688167,
     "wof:placetype":"county",

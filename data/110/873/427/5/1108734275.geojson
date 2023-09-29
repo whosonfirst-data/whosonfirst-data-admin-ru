@@ -122,8 +122,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KY.KA",
+        "meso:okato_code":"04222000",
+        "meso:oktmo_code":"04622000",
         "wd:id":"Q262624"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901224,
     "wof:geomhash":"842a22ba7f38ac7b72a831c48106cd23",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1108734275,
-    "wof:lastmodified":1694492736,
+    "wof:lastmodified":1695886258,
     "wof:name":"Karatuzskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

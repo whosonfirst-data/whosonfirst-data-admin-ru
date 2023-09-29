@@ -146,8 +146,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KD.ER",
+        "meso:okato_code":"03216000",
+        "meso:oktmo_code":"03616000",
         "wd:id":"Q282886"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900496,
     "wof:geomhash":"cd497a2f22b573e99effc2c38bc3e996",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1108733469,
-    "wof:lastmodified":1694639741,
+    "wof:lastmodified":1695886243,
     "wof:name":"Ejskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

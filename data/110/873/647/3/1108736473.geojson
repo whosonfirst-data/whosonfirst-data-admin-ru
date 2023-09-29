@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.443973,
-    "geom:area_square_m":3523184846.78645,
+    "geom:area_square_m":3523184336.428341,
     "geom:bbox":"152.410355,47.293751,156.517502,50.92289",
     "geom:latitude":50.071804,
     "geom:longitude":155.393826,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"64243000",
+        "meso:oktmo_code":"64743000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902984,
-    "wof:geomhash":"a4980ad42af9be3ee1a5e4a4223258fd",
+    "wof:geomhash":"985da1039c5bb9f33b011d45bee8eee5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108736473,
-    "wof:lastmodified":1627522681,
+    "wof:lastmodified":1695886368,
     "wof:name":"Severo-Kuril'skiy",
     "wof:parent_id":85688125,
     "wof:placetype":"county",

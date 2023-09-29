@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027441,
-    "geom:area_square_m":204474365.435361,
+    "geom:area_square_m":204474388.424709,
     "geom:bbox":"49.627844,52.807956,50.008258,53.04991",
     "geom:latitude":52.942904,
     "geom:longitude":49.797146,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"36450000",
+        "meso:oktmo_code":"36750000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900253,
-    "wof:geomhash":"b11a65077b1d473c0e56e059dcf543da",
+    "wof:geomhash":"c591652e28f09cecbf16717590e766ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108733183,
-    "wof:lastmodified":1627522705,
+    "wof:lastmodified":1695886399,
     "wof:name":"Chapaevsk",
     "wof:parent_id":85687781,
     "wof:placetype":"county",

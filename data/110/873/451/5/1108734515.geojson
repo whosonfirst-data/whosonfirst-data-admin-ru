@@ -149,8 +149,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.MR.KO",
+        "meso:okato_code":"89231000",
+        "meso:oktmo_code":"89631000",
         "wd:id":"Q536663"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901421,
     "wof:geomhash":"1bef62b4ac3e9d0bb5a513bb7a0b8a1a",
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":1108734515,
-    "wof:lastmodified":1694639747,
+    "wof:lastmodified":1695886272,
     "wof:name":"Kochkurovskiy",
     "wof:parent_id":85687873,
     "wof:placetype":"county",

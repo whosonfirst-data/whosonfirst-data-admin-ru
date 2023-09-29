@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SV.SR"
+        "hasc:id":"RU.SV.SR",
+        "meso:okato_code":"65238000",
+        "meso:oktmo_code":"65721000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903173,
     "wof:geomhash":"0c2a2b01be2de8c3f91df99f11910d87",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108736725,
-    "wof:lastmodified":1694639781,
+    "wof:lastmodified":1695886382,
     "wof:name":"Sos'vinskiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

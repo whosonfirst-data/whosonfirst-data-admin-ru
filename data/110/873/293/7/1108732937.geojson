@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KD.BE",
+        "meso:okato_code":"03207000",
+        "meso:oktmo_code":"03607000",
         "wd:id":"Q554485"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900016,
     "wof:geomhash":"22d87e28401c45eb1480b72a39bcf075",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108732937,
-    "wof:lastmodified":1694639730,
+    "wof:lastmodified":1695886195,
     "wof:name":"Beloglinskiy",
     "wof:parent_id":85688029,
     "wof:placetype":"county",

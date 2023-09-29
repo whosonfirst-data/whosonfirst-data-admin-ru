@@ -131,8 +131,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.ST.BL",
+        "meso:okato_code":"07210000",
+        "meso:oktmo_code":"07610000",
         "wd:id":"Q1255247"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900098,
     "wof:geomhash":"a4ee83468c839dd027e4e6c3fb55bb69",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1108733011,
-    "wof:lastmodified":1694639683,
+    "wof:lastmodified":1695886218,
     "wof:name":"Blagodarnenskiy",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

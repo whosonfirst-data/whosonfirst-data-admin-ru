@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.408176,
-    "geom:area_square_m":2813420398.35159,
+    "geom:area_square_m":2813420605.83877,
     "geom:bbox":"31.348462,55.718336,32.387388,56.487212",
     "geom:latitude":56.121958,
     "geom:longitude":31.828896,
@@ -130,11 +130,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "meso:okato_code":"28216000",
+        "meso:oktmo_code":"28616000",
         "wd:id":"Q2627820"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903835,
-    "wof:geomhash":"d29e3e06952c52445f92952641f47fda",
+    "wof:geomhash":"e2c1b6d24e36585237223004181e5009",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":1108737863,
-    "wof:lastmodified":1690859699,
+    "wof:lastmodified":1695886435,
     "wof:name":"Zapadnodvinskiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

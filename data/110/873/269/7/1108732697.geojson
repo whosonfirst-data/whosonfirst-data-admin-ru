@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000788,
-    "geom:area_square_m":5473113.559649,
+    "geom:area_square_m":5473056.360027,
     "geom:bbox":"37.631922,55.790807,37.670536,55.830152",
     "geom:latitude":55.8124,
     "geom:longitude":37.649861,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45280552",
+        "meso:oktmo_code":"45349000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899793,
-    "wof:geomhash":"8d7b79fac5706d466a2a1d5963313f9f",
+    "wof:geomhash":"50340541c29ae3b306f116966d56406c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108732697,
-    "wof:lastmodified":1627522532,
+    "wof:lastmodified":1695886180,
     "wof:name":"Alekseevskiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

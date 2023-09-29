@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002231,
-    "geom:area_square_m":15591150.41756,
+    "geom:area_square_m":15591184.855206,
     "geom:bbox":"37.005499,55.567315,37.079902,55.613625",
     "geom:latitude":55.590684,
     "geom:longitude":37.047774,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"46505000",
+        "meso:oktmo_code":"46706000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901622,
-    "wof:geomhash":"c20cac38f4e7cc494714010ea01b87e8",
+    "wof:geomhash":"f0ff36bbf987c959d73005a1e92135db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108734747,
-    "wof:lastmodified":1627522612,
+    "wof:lastmodified":1695886286,
     "wof:name":"Krasnoznamensk",
     "wof:parent_id":85688161,
     "wof:placetype":"county",

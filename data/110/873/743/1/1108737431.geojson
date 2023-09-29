@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018978,
-    "geom:area_square_m":82775741.890017,
+    "geom:area_square_m":82775573.821483,
     "geom:bbox":"32.710816,69.246988,32.942807,69.41139",
     "geom:latitude":69.34532,
     "geom:longitude":32.825325,
@@ -74,10 +74,13 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:oktmo_code":"47735000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
     "wof:country":"RU",
     "wof:created":1478903732,
-    "wof:geomhash":"b2e0f2eedfae3462342ea7240c702eb8",
+    "wof:geomhash":"afb90c7dc3baba3b3feddf387f90c177",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108737431,
-    "wof:lastmodified":1627522726,
+    "wof:lastmodified":1695886425,
     "wof:name":"Vidjaevo",
     "wof:parent_id":85687869,
     "wof:placetype":"county",

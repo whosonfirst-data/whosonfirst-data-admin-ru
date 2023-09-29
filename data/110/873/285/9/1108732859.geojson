@@ -129,8 +129,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.KB.BA"
+        "hasc:id":"RU.KB.BA",
+        "meso:okato_code":"83403000",
+        "meso:oktmo_code":"83703000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478899946,
     "wof:geomhash":"cbc41fdf16dfd94935192adbdfcac423",
@@ -144,7 +150,7 @@
         }
     ],
     "wof:id":1108732859,
-    "wof:lastmodified":1694639729,
+    "wof:lastmodified":1695886191,
     "wof:name":"Baksan",
     "wof:parent_id":85688089,
     "wof:placetype":"county",

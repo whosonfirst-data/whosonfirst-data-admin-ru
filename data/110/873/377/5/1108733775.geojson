@@ -219,8 +219,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.TV.KM"
+        "hasc:id":"RU.TV.KM",
+        "meso:okato_code":"28426000",
+        "meso:oktmo_code":"28726000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900790,
     "wof:geomhash":"44c8ccb378dc113e137cfb449e695139",
@@ -234,7 +240,7 @@
         }
     ],
     "wof:id":1108733775,
-    "wof:lastmodified":1694639805,
+    "wof:lastmodified":1695886731,
     "wof:name":"Kimry",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

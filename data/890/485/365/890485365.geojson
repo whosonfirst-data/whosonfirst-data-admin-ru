@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008434,
-    "geom:area_square_m":57053271.033821,
+    "geom:area_square_m":57053144.886149,
     "geom:bbox":"62.630162,56.801782,62.810376,56.874098",
     "geom:latitude":56.832503,
     "geom:longitude":62.721527,
@@ -145,16 +145,22 @@
     "wof:concordances":{
         "gp:id":12599315,
         "hasc:id":"RU.SV.KA",
+        "meso:okato_code":"65440000",
+        "meso:oktmo_code":"65741000",
         "qs_pg:id":597428,
         "wd:id":"Q1654270",
         "wk:page":"Kamyshlovsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054557,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7d38ed85c50b734005c1b2875c9ca2b6",
+    "wof:geomhash":"c71b1f049040a1901b3307fb3ac668b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":890485365,
-    "wof:lastmodified":1690859814,
+    "wof:lastmodified":1695886440,
     "wof:name":"Kamyshlovskiy",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

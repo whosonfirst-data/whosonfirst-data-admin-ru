@@ -155,8 +155,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AR.KN",
+        "meso:okato_code":"11222000",
+        "meso:oktmo_code":"11622000",
         "wd:id":"Q257367"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901472,
     "wof:geomhash":"05cdd19847fedbb046a9a00d8653cf43",
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1108734569,
-    "wof:lastmodified":1694639748,
+    "wof:lastmodified":1695886274,
     "wof:name":"Konoshskiy",
     "wof:parent_id":85687971,
     "wof:placetype":"county",

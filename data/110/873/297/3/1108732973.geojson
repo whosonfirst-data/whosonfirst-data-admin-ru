@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.PE.BZ"
+        "hasc:id":"RU.PE.BZ",
+        "meso:okato_code":"57206000",
+        "meso:oktmo_code":"57606000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900051,
     "wof:geomhash":"bfe856676969ab9c5dab5d6e7289f878",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108732973,
-    "wof:lastmodified":1694639730,
+    "wof:lastmodified":1695886197,
     "wof:name":"Berezovskiy",
     "wof:parent_id":85687975,
     "wof:placetype":"county",

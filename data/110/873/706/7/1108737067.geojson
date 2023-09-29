@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.AL.TP",
+        "meso:okato_code":"01249000",
+        "meso:oktmo_code":"01649000",
         "wd:id":"Q1822666"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903480,
     "wof:geomhash":"bfbe648d2238f485bcaf25364b243047",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108737067,
-    "wof:lastmodified":1694639788,
+    "wof:lastmodified":1695886409,
     "wof:name":"Topchikhinskiy",
     "wof:parent_id":85687835,
     "wof:placetype":"county",

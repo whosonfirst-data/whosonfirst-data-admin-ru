@@ -87,8 +87,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.SV.KT"
+        "hasc:id":"RU.SV.KT",
+        "meso:okato_code":"65456000",
+        "meso:oktmo_code":"65745000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900804,
     "wof:geomhash":"4e9ea1253a2ede8e98b813a3d840e176",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108733795,
-    "wof:lastmodified":1694639751,
+    "wof:lastmodified":1695886283,
     "wof:name":"Krasnotur'insk",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

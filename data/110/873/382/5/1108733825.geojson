@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019339,
-    "geom:area_square_m":133517575.182466,
+    "geom:area_square_m":133517576.455576,
     "geom:bbox":"54.203451,55.971611,54.388219,56.130881",
     "geom:latitude":56.059296,
     "geom:longitude":54.296727,
@@ -233,10 +233,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"80427000",
+        "meso:oktmo_code":"80727000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900834,
-    "wof:geomhash":"2eae272bdf7e62ac78ed098370aae2b1",
+    "wof:geomhash":"363e22858f7ddc36aeef96249281dc95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -247,7 +254,7 @@
         }
     ],
     "wof:id":1108733825,
-    "wof:lastmodified":1636497194,
+    "wof:lastmodified":1695886732,
     "wof:name":"Neftekamsk",
     "wof:parent_id":85687801,
     "wof:placetype":"county",

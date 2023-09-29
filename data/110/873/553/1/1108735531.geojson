@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.ST.NS"
+        "hasc:id":"RU.ST.NS",
+        "meso:okato_code":"07244000",
+        "meso:oktmo_code":"07644000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902247,
     "wof:geomhash":"42a69975bfda41d5defe20c48ceca4ef",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108735531,
-    "wof:lastmodified":1694639762,
+    "wof:lastmodified":1695886322,
     "wof:name":"Novoselickij",
     "wof:parent_id":85687825,
     "wof:placetype":"county",

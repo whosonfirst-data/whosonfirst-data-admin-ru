@@ -143,8 +143,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.TV.BE",
+        "meso:okato_code":"28206000",
+        "meso:oktmo_code":"28606000",
         "wd:id":"Q394751"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900002,
     "wof:geomhash":"72119bc6b7ccbd27f3c29111486669a0",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1108732925,
-    "wof:lastmodified":1694639730,
+    "wof:lastmodified":1695886196,
     "wof:name":"Bel'skiy",
     "wof:parent_id":85688047,
     "wof:placetype":"county",

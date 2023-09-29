@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.783375,
-    "geom:area_square_m":14311956211.888153,
+    "geom:area_square_m":14311956501.841696,
     "geom:bbox":"129.481876,48.852265,131.527861,50.26659",
     "geom:latitude":49.531765,
     "geom:longitude":130.625423,
@@ -163,16 +163,22 @@
     "wof:concordances":{
         "gp:id":12597982,
         "hasc:id":"RU.AM.AR",
+        "meso:okato_code":"10205000",
+        "meso:oktmo_code":"10605000",
         "qs_pg:id":1002277,
         "wd:id":"Q2217182",
         "wk:page":"Arkharinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054472,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3c7f59a989e78ec09339f88ce376ff2d",
+    "wof:geomhash":"8dedfc8d38dcead7891510fc6359de54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":890483563,
-    "wof:lastmodified":1690859911,
+    "wof:lastmodified":1695886456,
     "wof:name":"Arkharinskiy",
     "wof:parent_id":85687951,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042311,
-    "geom:area_square_m":319809319.050755,
+    "geom:area_square_m":319809319.050738,
     "geom:bbox":"104.060994418,52.2027578456,104.520147981,52.4251655082",
     "geom:latitude":52.317961,
     "geom:longitude":104.29383,
@@ -332,10 +332,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"25401000",
+        "meso:oktmo_code":"25701000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900993,
-    "wof:geomhash":"7962691c51de54fe3314034d76f37959",
+    "wof:geomhash":"86aee08eb7a968a291b1ddcfc5b3fc5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -346,7 +353,7 @@
         }
     ],
     "wof:id":1108734013,
-    "wof:lastmodified":1566626967,
+    "wof:lastmodified":1695886223,
     "wof:name":"Irkutsk",
     "wof:parent_id":85688173,
     "wof:placetype":"county",

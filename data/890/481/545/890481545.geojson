@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073524,
-    "geom:area_square_m":510754244.565252,
+    "geom:area_square_m":510754222.114943,
     "geom:bbox":"47.787779,55.685948,48.419068,55.950894",
     "geom:latitude":55.819615,
     "geom:longitude":48.116048,
@@ -160,15 +160,21 @@
     "wof:concordances":{
         "gn:id":543055,
         "hasc:id":"RU.CV.KZ",
+        "meso:okato_code":"97219000",
+        "meso:oktmo_code":"97619000",
         "qs_pg:id":369524,
         "wd:id":"Q2627366"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054363,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2968e34c36618063033a3f0b0b28c39c",
+    "wof:geomhash":"6b97acae7f074e28dc2cba7a6a142521",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":890481545,
-    "wof:lastmodified":1690860018,
+    "wof:lastmodified":1695886474,
     "wof:name":"Kozlovskiy",
     "wof:parent_id":85688111,
     "wof:placetype":"county",

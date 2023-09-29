@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.SR.PI",
+        "meso:okato_code":"63236000",
+        "meso:oktmo_code":"63636000",
         "wd:id":"Q1653951"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902525,
     "wof:geomhash":"1b3d3d515535501cd1e8c6dad4edc847",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108735877,
-    "wof:lastmodified":1694639770,
+    "wof:lastmodified":1695886344,
     "wof:name":"Piterskiy",
     "wof:parent_id":85687995,
     "wof:placetype":"county",

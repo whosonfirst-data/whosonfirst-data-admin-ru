@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.65967,
-    "geom:area_square_m":4350501881.044649,
+    "geom:area_square_m":4350502044.066017,
     "geom:bbox":"58.584816,57.305647,60.293652,58.248682",
     "geom:latitude":57.767767,
     "geom:longitude":59.303385,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"65476000",
+        "meso:oktmo_code":"65751000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900836,
-    "wof:geomhash":"409ff28ab76034df7aae9fb761f0b195",
+    "wof:geomhash":"500d723caee5323dda45f059e64b5942",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108733827,
-    "wof:lastmodified":1627522637,
+    "wof:lastmodified":1695886313,
     "wof:name":"Nizhnij Tagil",
     "wof:parent_id":85688183,
     "wof:placetype":"county",

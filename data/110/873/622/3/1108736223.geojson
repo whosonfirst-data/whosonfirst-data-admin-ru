@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000543,
-    "geom:area_square_m":3774677.080229,
+    "geom:area_square_m":3774664.083201,
     "geom:bbox":"37.490342,55.789532,37.520938,55.81638",
     "geom:latitude":55.804072,
     "geom:longitude":37.50673,
@@ -141,10 +141,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45277589",
+        "meso:oktmo_code":"45345000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902786,
-    "wof:geomhash":"6bf48b31a93af6c70996cde6419da28f",
+    "wof:geomhash":"f8f15f596b5934980aaa59ef4b84c55b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -155,7 +162,7 @@
         }
     ],
     "wof:id":1108736223,
-    "wof:lastmodified":1636497197,
+    "wof:lastmodified":1695886734,
     "wof:name":"Sokol",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

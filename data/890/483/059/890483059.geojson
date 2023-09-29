@@ -145,10 +145,16 @@
     "wof:concordances":{
         "gp:id":12597828,
         "hasc:id":"RU.KY.AR",
+        "meso:okato_code":"04203000",
+        "meso:oktmo_code":"04603000",
         "qs_pg:id":506293,
         "wd:id":"Q251510",
         "wk:page":"Achinsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054448,
     "wof:geom_alt":[
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":890483059,
-    "wof:lastmodified":1694493016,
+    "wof:lastmodified":1695886457,
     "wof:name":"Achinskiy",
     "wof:parent_id":85688139,
     "wof:placetype":"county",

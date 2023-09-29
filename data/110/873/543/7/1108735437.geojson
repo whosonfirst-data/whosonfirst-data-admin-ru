@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.147098,
-    "geom:area_square_m":5058983469.994363,
+    "geom:area_square_m":5058983469.994507,
     "geom:bbox":"48.210751,68.656219,50.319168,69.506248",
     "geom:latitude":69.104289,
     "geom:longitude":49.128335,
@@ -60,15 +60,22 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        85688211,
         85632685,
-        874393555,
-        85688211
+        874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"NO DATA",
+        "meso:oktmo_code":"NO DATA"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902185,
-    "wof:geomhash":"ed268bd4f2377ff20403807d5b6cb141",
+    "wof:geomhash":"a19410ae386541a81bf222ac75b8d9a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +86,7 @@
         }
     ],
     "wof:id":1108735437,
-    "wof:lastmodified":1587163113,
+    "wof:lastmodified":1695886288,
     "wof:name":"",
     "wof:parent_id":85688211,
     "wof:placetype":"county",

@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KV.OM",
+        "meso:okato_code":"33228000",
+        "meso:oktmo_code":"33628000",
         "wd:id":"Q2219986"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902370,
     "wof:geomhash":"fbeeeb57703c932afeab716d546ac769",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108735681,
-    "wof:lastmodified":1694639765,
+    "wof:lastmodified":1695886330,
     "wof:name":"Omutninskiy",
     "wof:parent_id":85687903,
     "wof:placetype":"county",

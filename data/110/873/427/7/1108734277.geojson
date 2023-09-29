@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KU.KP",
+        "meso:okato_code":"37210000",
+        "meso:oktmo_code":"37610000",
         "wd:id":"Q1753266"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901225,
     "wof:geomhash":"1202081465332fd47573d9be9169e5a3",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108734277,
-    "wof:lastmodified":1694639744,
+    "wof:lastmodified":1695886259,
     "wof:name":"Kargapol'skiy",
     "wof:parent_id":85688157,
     "wof:placetype":"county",

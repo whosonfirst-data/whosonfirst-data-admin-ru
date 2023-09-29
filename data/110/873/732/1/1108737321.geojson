@@ -140,8 +140,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.VO.VL",
+        "meso:okato_code":"19214000",
+        "meso:oktmo_code":"19614000",
         "wd:id":"Q1658607"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478903683,
     "wof:geomhash":"74731e5d9a79b6f947f8336c9b2a6ab2",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":1108737321,
-    "wof:lastmodified":1694639791,
+    "wof:lastmodified":1695886421,
     "wof:name":"Velikoustjugskiy",
     "wof:parent_id":85687853,
     "wof:placetype":"county",

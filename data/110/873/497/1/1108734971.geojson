@@ -134,8 +134,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"RU.KG.LT",
+        "meso:okato_code":"29220000",
+        "meso:oktmo_code":"29620000",
         "wd:id":"Q1652627"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901814,
     "wof:geomhash":"5f16d0bd17e8281187f0ab909d547cc9",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1108734971,
-    "wof:lastmodified":1694639755,
+    "wof:lastmodified":1695886297,
     "wof:name":"Ljudinovskiy",
     "wof:parent_id":85688131,
     "wof:placetype":"county",

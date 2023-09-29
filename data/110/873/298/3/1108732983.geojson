@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000694,
-    "geom:area_square_m":4812073.581955,
+    "geom:area_square_m":4812024.044356,
     "geom:bbox":"37.535458,55.851029,37.569315,55.882597",
     "geom:latitude":55.867099,
     "geom:longitude":37.552684,
@@ -77,10 +77,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45277559",
+        "meso:oktmo_code":"45335000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478900063,
-    "wof:geomhash":"93c63c993df045185b6e25724ad05dcd",
+    "wof:geomhash":"939c8b370c015a4ec60535bedb2d846a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +98,7 @@
         }
     ],
     "wof:id":1108732983,
-    "wof:lastmodified":1627522545,
+    "wof:lastmodified":1695886198,
     "wof:name":"Beskudnikovskiy",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

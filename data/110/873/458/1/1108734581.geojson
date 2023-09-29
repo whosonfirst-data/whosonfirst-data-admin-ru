@@ -90,8 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"RU.CL.KP"
+        "hasc:id":"RU.CL.KP",
+        "meso:okato_code":"75428000",
+        "meso:oktmo_code":"75728000"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478901480,
     "wof:geomhash":"be488f09234a2a73423b464c55ed33ff",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108734581,
-    "wof:lastmodified":1694639748,
+    "wof:lastmodified":1695886275,
     "wof:name":"Kopejskiy",
     "wof:parent_id":85687791,
     "wof:placetype":"county",

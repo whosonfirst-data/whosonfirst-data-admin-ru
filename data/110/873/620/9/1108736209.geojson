@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00137,
-    "geom:area_square_m":9507931.517639,
+    "geom:area_square_m":9507981.187154,
     "geom:bbox":"37.394792,55.847634,37.459484,55.881861",
     "geom:latitude":55.86285,
     "geom:longitude":37.426952,
@@ -74,10 +74,17 @@
         874393555
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:okato_code":"45283573",
+        "meso:oktmo_code":"45369000"
+    },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1478902776,
-    "wof:geomhash":"6fca771dae2921cef0aab04c47c3f227",
+    "wof:geomhash":"8c51dd3889c7f648e77ff9f4beb1ab67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +95,7 @@
         }
     ],
     "wof:id":1108736209,
-    "wof:lastmodified":1627522680,
+    "wof:lastmodified":1695886366,
     "wof:name":"Severnoe Tushino",
     "wof:parent_id":85688085,
     "wof:placetype":"county",

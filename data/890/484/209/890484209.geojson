@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006233,
-    "geom:area_square_m":44092060.126459,
+    "geom:area_square_m":44092225.951275,
     "geom:bbox":"36.542919,55.051349,36.658275,55.146",
     "geom:latitude":55.105202,
     "geom:longitude":36.599284,
@@ -151,16 +151,22 @@
     "wof:concordances":{
         "gp:id":12598408,
         "hasc:id":"RU.KG.BO",
+        "meso:okato_code":"29415000",
+        "meso:oktmo_code":"29715000",
         "qs_pg:id":1087092,
         "wd:id":"Q12226786",
         "wk:page":"Maloyaroslavetsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054503,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"08b73b4b1d1b52b60828d73fbec27a3e",
+    "wof:geomhash":"8c6fb7543678ce8f4167f9631930d752",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":890484209,
-    "wof:lastmodified":1690859947,
+    "wof:lastmodified":1695886465,
     "wof:name":"Obninsk",
     "wof:parent_id":85688131,
     "wof:placetype":"county",

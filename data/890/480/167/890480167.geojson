@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.173982,
-    "geom:area_square_m":24973240961.969082,
+    "geom:area_square_m":24973242228.973434,
     "geom:bbox":"136.184344,49.389799,139.437381,51.455178",
     "geom:latitude":50.481002,
     "geom:longitude":138.011285,
@@ -154,16 +154,22 @@
     "wof:concordances":{
         "gp:id":12597745,
         "hasc:id":"RU.KH.KA",
+        "meso:okato_code":"08220000",
+        "meso:oktmo_code":"08620000",
         "qs_pg:id":506277,
         "wd:id":"Q851212",
         "wk:page":"Komsomolsky District"
     },
+    "wof:concordances_official":"meso:oktmo_code",
+    "wof:concordances_official_alt":[
+        "meso:okato_code"
+    ],
     "wof:country":"RU",
     "wof:created":1469054287,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"21db4f7a74b12537e974a32d2d73b65f",
+    "wof:geomhash":"13185842be9efe896238f856e407fc12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":890480167,
-    "wof:lastmodified":1690860119,
+    "wof:lastmodified":1695886486,
     "wof:name":"Komsomol'skiy",
     "wof:parent_id":85687937,
     "wof:placetype":"county",
