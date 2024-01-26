@@ -32,6 +32,9 @@
     "name:rus_x_preferred":[
         "\u0413\u043e\u0440\u0435\u0432\u0449\u0438\u043d\u0430"
     ],
+    "name:und_x_variant":[
+        "Gor\u00ebvshchina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85687903,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6265935
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6312537
+        ]
     },
     "wof:country":"RU",
     "wof:geomhash":"43ce2b26e4d89a79439860009e31b494",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1327071289,
-    "wof:lastmodified":1566613078,
+    "wof:lastmodified":1706240655,
     "wof:name":"Gorevshchina",
     "wof:parent_id":1108735275,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343502337
+    ],
     "wof:tags":[]
 },
   "bbox": [

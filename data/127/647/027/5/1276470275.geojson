@@ -11,6 +11,7 @@
     "geom:longitude":35.83083,
     "gn:admin1_code":"41",
     "gn:asciiname":"Kolychevo",
+    "gn:cc2":"RU",
     "gn:country_code":"RU",
     "gn:dem":235,
     "gn:feature_class":"P",
@@ -49,6 +50,11 @@
     "wof:concordances":{
         "gn:id":506599
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            807928
+        ]
+    },
     "wof:country":"RU",
     "wof:geomhash":"9d5d10fed52a41bd769340ab85da1270",
     "wof:hierarchy":[
@@ -62,13 +68,15 @@
         }
     ],
     "wof:id":1276470275,
-    "wof:lastmodified":1566622218,
+    "wof:lastmodified":1706240651,
     "wof:name":"Kolychevo",
     "wof:parent_id":1108733525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292930933
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -32,6 +32,11 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u043d\u043e\u043a\u043e\u0432\u043e"
     ],
+    "name:und_x_variant":[
+        "Kanakavo",
+        "Konakovo",
+        "Konokovo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688047,
@@ -43,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":452004
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            545672
+        ]
     },
     "wof:country":"RU",
     "wof:geomhash":"feddc774e7e8177222b9e9a3c8b02b3e",
@@ -57,13 +67,15 @@
         }
     ],
     "wof:id":1209832991,
-    "wof:lastmodified":1566623624,
+    "wof:lastmodified":1706240645,
     "wof:name":"Konokovo",
     "wof:parent_id":1108733531,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293026117
+    ],
     "wof:tags":[]
 },
   "bbox": [

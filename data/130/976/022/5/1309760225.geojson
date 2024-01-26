@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"48.1797,59.07667,48.1797,59.07667",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shubentsy"
@@ -54,7 +56,7 @@
         "gn:id":493648
     },
     "wof:country":"RU",
-    "wof:geomhash":"d6cbec3e1a20315740207eafff4e359f",
+    "wof:geomhash":"8f3a093c3a73f2ce21278ba6a2621b90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,20 +68,22 @@
         }
     ],
     "wof:id":1309760225,
-    "wof:lastmodified":1566630079,
+    "wof:lastmodified":1706240647,
     "wof:name":"Shubentsy",
     "wof:parent_id":1108733347,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226501547
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     48.1797,
-    59.07666999999999,
+    59.07667,
     48.1797,
-    59.07666999999999
+    59.07667
 ],
-  "geometry": {"coordinates":[48.1797,59.07666999999999],"type":"Point"}
+  "geometry": {"coordinates":[48.1797,59.07667],"type":"Point"}
 }

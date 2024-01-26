@@ -9,8 +9,22 @@
     "geom:bbox":"34.880974,51.368221,34.945805,51.425304",
     "geom:latitude":51.396542,
     "geom:longitude":34.908508,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Korenevo",
+    "gn:country_code":"RU",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":544907,
     "gn:id":"544906,544907",
+    "gn:latitude":51.3941,
+    "gn:longitude":34.9289,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"Koren\u00ebvo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"34.9089,51.3741,34.9489,51.4141",
     "lbl:latitude":51.390723,
     "lbl:longitude":34.900895,
     "lbl:max_zoom":18.0,
@@ -32,8 +46,14 @@
     "name:ido_x_preferred":[
         "Korenevo"
     ],
+    "name:nor_x_preferred":[
+        "Korenevo"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0440\u0435\u043d\u0435\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u0440\u0435\u043d\u0451\u0432\u043e"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u0435\u043d\u0435\u0432\u0435"
@@ -65,6 +85,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":544907,
         "gp:id":2121522,
         "wd:id":"Q6432144"
     },
@@ -81,13 +102,15 @@
         }
     ],
     "wof:id":102005657,
-    "wof:lastmodified":1690859131,
+    "wof:lastmodified":1706240634,
     "wof:name":"Korenevo",
     "wof:parent_id":1108734585,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226568457
+    ],
     "wof:tags":[]
 },
   "bbox": [

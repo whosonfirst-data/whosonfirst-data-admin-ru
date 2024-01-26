@@ -86,6 +86,9 @@
     "name:ukr_x_preferred":[
         "\u0406\u0432\u0430\u043d\u043e\u0432\u043a\u0430"
     ],
+    "name:und_x_variant":[
+        "Vanoka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85687917,
@@ -97,6 +100,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":555417
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            821919
+        ]
     },
     "wof:country":"RU",
     "wof:geomhash":"f9f099ecf1c0e6d130851951199000d2",
@@ -111,13 +119,15 @@
         }
     ],
     "wof:id":1225971809,
-    "wof:lastmodified":1566635762,
+    "wof:lastmodified":1706240645,
     "wof:name":"Ivanovka",
     "wof:parent_id":1108734055,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326857415
+    ],
     "wof:tags":[]
 },
   "bbox": [

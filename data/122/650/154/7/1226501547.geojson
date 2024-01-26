@@ -29,8 +29,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Shubentsy"
+    ],
+    "name:nor_x_preferred":[
+        "Sjubentsy"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u0443\u0431\u0435\u043d\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Karaul"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -44,8 +53,13 @@
     "wof:concordances":{
         "gn:id":6312345
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            493648
+        ]
+    },
     "wof:country":"RU",
-    "wof:geomhash":"d0d49d05bb2fb4df018450c80b345ec8",
+    "wof:geomhash":"4f8d36d3f848259dd82eac53c5725c79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,20 +71,22 @@
         }
     ],
     "wof:id":1226501547,
-    "wof:lastmodified":1566635507,
+    "wof:lastmodified":1706240647,
     "wof:name":"Shubentsy",
     "wof:parent_id":1108733347,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309760225
+    ],
     "wof:tags":[]
 },
   "bbox": [
     48.18028,
-    59.07528000000001,
+    59.07528,
     48.18028,
-    59.07528000000001
+    59.07528
 ],
-  "geometry": {"coordinates":[48.18028,59.07528000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.18028,59.07528],"type":"Point"}
 }

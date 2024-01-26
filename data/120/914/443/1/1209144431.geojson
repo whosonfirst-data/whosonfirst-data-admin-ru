@@ -35,6 +35,9 @@
     "name:ceb_x_preferred":[
         "Kalinovka"
     ],
+    "name:eng_x_preferred":[
+        "Kalinovka"
+    ],
     "name:fra_x_preferred":[
         "Kalinovka"
     ],
@@ -42,6 +45,9 @@
         "\u041a\u0430\u043b\u0438\u043d\u043e\u0432\u043a\u0430"
     ],
     "name:lit_x_preferred":[
+        "Kalinovka"
+    ],
+    "name:nor_x_preferred":[
         "Kalinovka"
     ],
     "name:rus_x_preferred":[
@@ -67,6 +73,11 @@
     "wof:concordances":{
         "gn:id":554086
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            554087
+        ]
+    },
     "wof:country":"RU",
     "wof:geomhash":"a9129271e3fb44a7e5f6b86a60f6fc64",
     "wof:hierarchy":[
@@ -76,13 +87,15 @@
         }
     ],
     "wof:id":1209144431,
-    "wof:lastmodified":1566624152,
+    "wof:lastmodified":1706240644,
     "wof:name":"Kalinovka",
     "wof:parent_id":85632685,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309948759
+    ],
     "wof:tags":[]
 },
   "bbox": [

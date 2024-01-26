@@ -9,9 +9,21 @@
     "geom:bbox":"38.71384,55.06196,38.71384,55.06196",
     "geom:latitude":55.06196,
     "geom:longitude":38.71384,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Sychevo",
     "gn:country":"RU",
+    "gn:country_code":"RU",
+    "gn:dem":145,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":485275,
+    "gn:latitude":55.06196,
+    "gn:longitude":38.71384,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Sych\u00ebvo",
     "gn:population":3000,
+    "gn:timezone":"Europe/Moscow",
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:bbox":"38.69384,55.04196,38.73384,55.08196",
@@ -57,7 +69,12 @@
         "qs_pg:id":454585
     },
     "wof:concordances_alt":{
-        "qs_pg:id":920953
+        "gn:id":[
+            485275
+        ],
+        "qs_pg:id":[
+            920953
+        ]
     },
     "wof:country":"RU",
     "wof:created":1469054440,
@@ -76,7 +93,7 @@
         }
     ],
     "wof:id":890482903,
-    "wof:lastmodified":1582330513,
+    "wof:lastmodified":1706240642,
     "wof:name":"Sychevo",
     "wof:parent_id":890487041,
     "wof:placetype":"locality",
@@ -84,7 +101,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209832601
+    ],
     "wof:tags":[]
 },
   "bbox": [

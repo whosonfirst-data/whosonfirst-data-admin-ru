@@ -47,6 +47,9 @@
     "name:deu_x_preferred":[
         "Kljutschi"
     ],
+    "name:eng_x_preferred":[
+        "Klyuchi"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0644\u06cc\u0648\u0686\u06cc"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud074\ub958\uce58"
+    ],
+    "name:nor_x_preferred":[
+        "Kljutsji"
     ],
     "name:por_x_preferred":[
         "Klyuchi"
@@ -107,6 +113,11 @@
     "wof:concordances":{
         "gn:id":1541176
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1503142
+        ]
+    },
     "wof:country":"RU",
     "wof:geomhash":"6baf07f591193da0d1804098fedd2b87",
     "wof:hierarchy":[
@@ -120,13 +131,15 @@
         }
     ],
     "wof:id":1293171935,
-    "wof:lastmodified":1636497068,
+    "wof:lastmodified":1706240653,
     "wof:name":"Klyuchi",
     "wof:parent_id":1108733495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343347801
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -38,6 +38,10 @@
     "name:rus_x_preferred":[
         "\u041f\u0430\u0440\u0447"
     ],
+    "name:und_x_variant":[
+        "Parchevskaya",
+        "Parch"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688077,
@@ -49,6 +53,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":512602
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            512603
+        ]
     },
     "wof:country":"RU",
     "wof:geomhash":"781242e504fe060d720e85db83ee6564",
@@ -63,13 +72,15 @@
         }
     ],
     "wof:id":1226187105,
-    "wof:lastmodified":1566634887,
+    "wof:lastmodified":1706240646,
     "wof:name":"Parch",
     "wof:parent_id":1108737249,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226694851
+    ],
     "wof:tags":[]
 },
   "bbox": [

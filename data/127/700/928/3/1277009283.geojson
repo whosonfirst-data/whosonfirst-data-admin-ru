@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7079084
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6641041
+        ]
+    },
     "wof:country":"RU",
-    "wof:geomhash":"13f32b42f9835e3f6d140ec8d2c63643",
+    "wof:geomhash":"7c427e95864bb338e2f6186522553e90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,20 +62,22 @@
         }
     ],
     "wof:id":1277009283,
-    "wof:lastmodified":1566621080,
+    "wof:lastmodified":1706240652,
     "wof:name":"Krasnyy Bor",
     "wof:parent_id":1108734101,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326460129
+    ],
     "wof:tags":[]
 },
   "bbox": [
     40.01687,
-    57.64771999999999,
+    57.64772,
     40.01687,
-    57.64771999999999
+    57.64772
 ],
-  "geometry": {"coordinates":[40.01687,57.64771999999999],"type":"Point"}
+  "geometry": {"coordinates":[40.01687,57.64772],"type":"Point"}
 }

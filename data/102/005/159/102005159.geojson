@@ -9,8 +9,22 @@
     "geom:bbox":"39.791168,51.974777,39.834694,52.003944",
     "geom:latitude":51.990506,
     "geom:longitude":39.812038,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Devitsa",
+    "gn:country_code":"RU",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":566318,
     "gn:id":"821314,566318",
+    "gn:latitude":51.99976,
+    "gn:longitude":39.80073,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Devitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"39.78073,51.97976,39.82073,52.01976",
     "lbl:latitude":51.993565,
     "lbl:longitude":39.808081,
     "lbl:max_zoom":18.0,
@@ -79,6 +93,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":566318,
         "gp:id":2120644,
         "wd:id":"Q4156372"
     },
@@ -95,13 +110,15 @@
         }
     ],
     "wof:id":102005159,
-    "wof:lastmodified":1690859125,
+    "wof:lastmodified":1706240634,
     "wof:name":"Devitsa",
     "wof:parent_id":1108737205,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259815217
+    ],
     "wof:tags":[]
 },
   "bbox": [

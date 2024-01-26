@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Frolovskaya"
+    ],
+    "name:nor_x_preferred":[
+        "Frolovskaja"
+    ],
     "name:rus_x_preferred":[
         "\u0424\u0440\u043e\u043b\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
@@ -44,6 +50,11 @@
     "wof:concordances":{
         "gn:id":828116
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            562365
+        ]
+    },
     "wof:country":"RU",
     "wof:geomhash":"0d58e029ab1f34062328188daae9a2ba",
     "wof:hierarchy":[
@@ -57,13 +68,15 @@
         }
     ],
     "wof:id":1260225779,
-    "wof:lastmodified":1566626082,
+    "wof:lastmodified":1706240650,
     "wof:name":"Frolovskaya",
     "wof:parent_id":1108732623,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326471563
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,9 +9,22 @@
     "geom:bbox":"49.654179,52.919994,49.792137,53.032585",
     "geom:latitude":52.98041,
     "geom:longitude":49.710347,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Chapayevsk",
+    "gn:country_code":"RU",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":482673,
     "gn:id":"569955,482673",
+    "gn:latitude":53.0117,
+    "gn:longitude":49.7513,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chapayevsk",
     "gn:population":70147,
+    "gn:timezone":"Europe/Samara",
     "iso:country":"RU",
+    "lbl:bbox":"49.7313,52.9917,49.7713,53.0317",
     "lbl:latitude":52.982905,
     "lbl:longitude":49.709362,
     "lbl:max_zoom":14.0,
@@ -168,6 +181,9 @@
     "name:ukr_x_preferred":[
         "\u0427\u0430\u043f\u0430\u0454\u0432\u0441\u044c\u043a"
     ],
+    "name:und_x_variant":[
+        "Titovka"
+    ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u067e\u06d2\u0648\u0633\u06a9"
     ],
@@ -312,6 +328,11 @@
         "wd:id":"Q197677",
         "wk:page":"Chapayevsk"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            482673
+        ]
+    },
     "wof:country":"RU",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -326,7 +347,7 @@
         }
     ],
     "wof:id":102010681,
-    "wof:lastmodified":1690859017,
+    "wof:lastmodified":1706240637,
     "wof:name":"Chapayevsk",
     "wof:parent_id":1108733183,
     "wof:placetype":"locality",
@@ -334,7 +355,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226270095
+    ],
     "wof:tags":[]
 },
   "bbox": [

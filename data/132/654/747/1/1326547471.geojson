@@ -35,6 +35,9 @@
     "name:deu_x_preferred":[
         "Sloboda"
     ],
+    "name:eng_x_preferred":[
+        "Sloboda"
+    ],
     "name:est_x_preferred":[
         "Sloboda"
     ],
@@ -104,8 +107,13 @@
     "wof:concordances":{
         "gn:id":483742
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            798540
+        ]
+    },
     "wof:country":"RU",
-    "wof:geomhash":"d5a1273df1959aa65a2987048a70af20",
+    "wof:geomhash":"0e646c69c25826ab0a6f5fa6715140ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,20 +125,22 @@
         }
     ],
     "wof:id":1326547471,
-    "wof:lastmodified":1566614580,
+    "wof:lastmodified":1706240655,
     "wof:name":"Sloboda",
     "wof:parent_id":1108735811,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343788621
+    ],
     "wof:tags":[]
 },
   "bbox": [
     40.36096,
-    58.51586999999999,
+    58.51587,
     40.36096,
-    58.51586999999999
+    58.51587
 ],
-  "geometry": {"coordinates":[40.36096,58.51586999999999],"type":"Point"}
+  "geometry": {"coordinates":[40.36096,58.51587],"type":"Point"}
 }

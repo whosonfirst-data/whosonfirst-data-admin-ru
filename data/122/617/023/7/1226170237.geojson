@@ -32,6 +32,9 @@
     "name:rus_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0430\u044f \u041d\u0430\u0434\u0435\u0436\u0434\u0430"
     ],
+    "name:und_x_variant":[
+        "\u0414\u043e\u0431\u0440\u0430\u044f \u041d\u0430\u0434\u0435\u0436\u0434\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85687963,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":565877
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            821855
+        ]
     },
     "wof:country":"RU",
     "wof:geomhash":"5748d11e3f8102f5dbc6b96783c41428",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1226170237,
-    "wof:lastmodified":1566634675,
+    "wof:lastmodified":1706240646,
     "wof:name":"Dobraya Nadezhda",
     "wof:parent_id":1108735493,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259407695
+    ],
     "wof:tags":[]
 },
   "bbox": [

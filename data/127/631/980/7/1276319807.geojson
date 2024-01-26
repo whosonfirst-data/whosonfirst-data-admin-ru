@@ -80,8 +80,13 @@
     "wof:concordances":{
         "gn:id":1508546
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1541382
+        ]
+    },
     "wof:country":"RU",
-    "wof:geomhash":"3411634745921a96eadbd1b8113f0cd9",
+    "wof:geomhash":"52baca2e9d1c67b0f3426cdbf21d36f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,20 +98,22 @@
         }
     ],
     "wof:id":1276319807,
-    "wof:lastmodified":1566622884,
+    "wof:lastmodified":1706240651,
     "wof:name":"Bykovo",
     "wof:parent_id":1108735619,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293770021
+    ],
     "wof:tags":[]
 },
   "bbox": [
     62.98528,
-    54.28528000000001,
+    54.28528,
     62.98528,
-    54.28528000000001
+    54.28528
 ],
-  "geometry": {"coordinates":[62.98528,54.28528000000001],"type":"Point"}
+  "geometry": {"coordinates":[62.98528,54.28528],"type":"Point"}
 }

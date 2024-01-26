@@ -56,8 +56,13 @@
     "wof:concordances":{
         "gn:id":490563
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            490597
+        ]
+    },
     "wof:country":"RU",
-    "wof:geomhash":"74142ecc984c10784880024bf4ab087e",
+    "wof:geomhash":"76efdf3d8c6d9949502b2b53af661df1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,20 +74,22 @@
         }
     ],
     "wof:id":1309831123,
-    "wof:lastmodified":1566629955,
+    "wof:lastmodified":1706240654,
     "wof:name":"Soroch'i Gory",
     "wof:parent_id":1108736341,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310432347
+    ],
     "wof:tags":[]
 },
   "bbox": [
     49.95604,
-    55.37526999999999,
+    55.37527,
     49.95604,
-    55.37526999999999
+    55.37527
 ],
-  "geometry": {"coordinates":[49.95604,55.37526999999999],"type":"Point"}
+  "geometry": {"coordinates":[49.95604,55.37527],"type":"Point"}
 }

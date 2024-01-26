@@ -6,15 +6,28 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000467,
     "geom:area_square_m":3308526.287204,
-    "geom:bbox":"52.0927772522,55.0256652832,52.1298904419,55.0437240601",
+    "geom:bbox":"52.092777,55.025665,52.12989,55.043724",
     "geom:latitude":55.034434,
     "geom:longitude":52.11086,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Russkiy Aktash",
     "gn:country":"RU",
+    "gn:country_code":"RU",
+    "gn:dem":88,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":500432,
     "gn:id":"500432,583573",
+    "gn:latitude":55.03957,
+    "gn:longitude":52.12162,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Russkiy Aktash",
     "gn:population":4195,
+    "gn:timezone":"Europe/Moscow",
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"52.10162,55.01957,52.14162,55.05957",
     "lbl:latitude":55.034959,
     "lbl:longitude":52.11086,
     "lbl:max_zoom":15.0,
@@ -24,6 +37,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "Russkiy Aktash"
+    ],
+    "name:nor_x_preferred":[
+        "Russkij Aktasj"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043a\u0442\u0430\u0448"
     ],
@@ -71,8 +90,13 @@
         "gp:id":2123204,
         "qs_pg:id":460285
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            500432
+        ]
+    },
     "wof:country":"RU",
-    "wof:geomhash":"8c8166f1a06ac49d419fe1e81a7f28d2",
+    "wof:geomhash":"1082045c88b90d875719cfa94cdcdd42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +108,7 @@
         }
     ],
     "wof:id":102009451,
-    "wof:lastmodified":1566615244,
+    "wof:lastmodified":1706240637,
     "wof:name":"Russkiy Aktash",
     "wof:parent_id":1108732659,
     "wof:placetype":"locality",
@@ -92,14 +116,16 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226068573
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    52.09277725219727,
-    55.02566528320312,
-    52.12989044189453,
-    55.04372406005859
+    52.092777,
+    55.025665,
+    52.12989,
+    55.043724
 ],
-  "geometry": {"coordinates":[[[52.10011291503906,55.04297256469727],[52.11063766479492,55.0434455871582],[52.11691665649414,55.04372406005859],[52.12989044189453,55.02811050415039],[52.12799835205078,55.02566528320312],[52.12430572509766,55.02583312988281],[52.10294342041016,55.02683258056641],[52.10066604614258,55.02694320678711],[52.10044479370117,55.02713775634766],[52.09277725219727,55.0406379699707],[52.09869384765625,55.04288864135742],[52.10011291503906,55.04297256469727]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[52.100113,55.042973],[52.110638,55.043446],[52.116917,55.043724],[52.12989,55.028111],[52.127998,55.025665],[52.124306,55.025833],[52.102943,55.026833],[52.100666,55.026943],[52.100445,55.027138],[52.092777,55.040638],[52.098694,55.042889],[52.100113,55.042973]]],"type":"Polygon"}
 }

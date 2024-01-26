@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"60.221,54.8375,60.221,54.8375",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041a\u0443\u043d\u0434\u0440\u0430\u0432\u044b"
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":1310184109,
-    "wof:lastmodified":1566628297,
+    "wof:lastmodified":1706240638,
     "wof:name":"Kundravy",
     "wof:parent_id":1108733201,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102012415
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

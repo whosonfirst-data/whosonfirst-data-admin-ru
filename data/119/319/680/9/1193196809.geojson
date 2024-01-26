@@ -50,8 +50,13 @@
     "wof:concordances":{
         "gn:id":6198296
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            538098
+        ]
+    },
     "wof:country":"RU",
-    "wof:geomhash":"c46b708abc2da7c3ace912e63277a0c3",
+    "wof:geomhash":"1b6dd975186737a8c0404811bc189c64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1193196809,
-    "wof:lastmodified":1566625961,
+    "wof:lastmodified":1706240643,
     "wof:name":"Kuvshinskoye",
     "wof:parent_id":1108736377,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226794693
+    ],
     "wof:tags":[]
 },
   "bbox": [
     47.15917,
-    57.02028000000001,
+    57.02028,
     47.15917,
-    57.02028000000001
+    57.02028
 ],
-  "geometry": {"coordinates":[47.15917,57.02028000000001],"type":"Point"}
+  "geometry": {"coordinates":[47.15917,57.02028],"type":"Point"}
 }

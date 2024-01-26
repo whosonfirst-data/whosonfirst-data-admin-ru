@@ -6,11 +6,25 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000237,
     "geom:area_square_m":1745383.009244,
-    "geom:bbox":"39.6912117004,53.4034118652,39.7172470093,53.4176025391",
+    "geom:bbox":"39.691212,53.403412,39.717247,53.417603",
     "geom:latitude":53.411809,
     "geom:longitude":39.704978,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Troyekurovo",
+    "gn:country_code":"RU",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":481372,
     "gn:id":"821179,481372",
+    "gn:latitude":53.41666,
+    "gn:longitude":39.71652,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Troyekurovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"39.69652,53.39666,39.73652,53.43666",
     "lbl:latitude":53.411919,
     "lbl:longitude":39.705226,
     "lbl:max_zoom":18.0,
@@ -20,6 +34,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Troyekurovo"
+    ],
+    "name:nor_x_preferred":[
+        "Trojekurovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u043e\u0435\u043a\u0443\u0440\u043e\u0432\u043e"
+    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041b\u0438\u043f\u0435\u0446\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"4801800009300",
@@ -46,10 +69,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":481372,
         "gp:id":2123972
     },
     "wof:country":"RU",
-    "wof:geomhash":"70268819c0f42128338983326f61b025",
+    "wof:geomhash":"de35687cd1e4a39e5fa68df6854cef1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,20 +85,22 @@
         }
     ],
     "wof:id":102004349,
-    "wof:lastmodified":1566615587,
+    "wof:lastmodified":1706240633,
     "wof:name":"Troyekurovo",
     "wof:parent_id":1108733185,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259618547
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    39.69121170043945,
-    53.40341186523438,
-    39.71724700927734,
-    53.4176025390625
+    39.691212,
+    53.403412,
+    39.717247,
+    53.417603
 ],
-  "geometry": {"coordinates":[[[39.69121170043945,53.41022109985352],[39.69376754760742,53.4176025390625],[39.70984649658203,53.41753387451172],[39.71322250366211,53.41536331176758],[39.71464538574219,53.41444778442383],[39.71724700927734,53.40993499755859],[39.71233367919922,53.40341186523438],[39.69738388061523,53.40945434570312],[39.69121170043945,53.41022109985352]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[39.691212,53.410221],[39.693768,53.417603],[39.709846,53.417534],[39.713223,53.415363],[39.714645,53.414448],[39.717247,53.409935],[39.712334,53.403412],[39.697384,53.409454],[39.691212,53.410221]]],"type":"Polygon"}
 }

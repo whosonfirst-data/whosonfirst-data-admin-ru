@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"48.65528,59.29083,48.65528,59.29083",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -42,7 +44,7 @@
         "gn:id":6312489
     },
     "wof:country":"RU",
-    "wof:geomhash":"fa8f4252e3b34dd35801725717da0b32",
+    "wof:geomhash":"6346b36beca03c7ecf0b43bd15e71df0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,20 +56,22 @@
         }
     ],
     "wof:id":1260025027,
-    "wof:lastmodified":1566626821,
+    "wof:lastmodified":1706240644,
     "wof:name":"Krysanovy",
     "wof:parent_id":1108735275,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209660521
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     48.65528,
-    59.29083000000001,
+    59.29083,
     48.65528,
-    59.29083000000001
+    59.29083
 ],
-  "geometry": {"coordinates":[48.65528,59.29083000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.65528,59.29083],"type":"Point"}
 }

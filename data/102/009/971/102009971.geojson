@@ -9,8 +9,12 @@
     "geom:bbox":"59.423584,54.28236,59.469334,54.314945",
     "geom:latitude":54.299553,
     "geom:longitude":59.445275,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:id":"479703,479704",
+    "gn:population":45687,
     "iso:country":"RU",
+    "lbl:bbox":"59.4321,54.2796,59.4721,54.3196",
     "lbl:latitude":54.303971,
     "lbl:longitude":59.447181,
     "lbl:max_zoom":18.0,
@@ -110,6 +114,9 @@
     "name:nob_x_preferred":[
         "Utsjaly"
     ],
+    "name:nor_x_preferred":[
+        "Utsjaly"
+    ],
     "name:oss_x_preferred":[
         "\u0423\u0447\u0430\u043b\u044b"
     ],
@@ -166,12 +173,17 @@
     "qs:level":"localadmin",
     "qs:loc":"UCHALY",
     "qs:loc_alt":"\u0423\u0447\u0430\u043b\u044b",
+    "qs:name":"Uchaly",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
     "qs:pop":0,
+    "qs:pop_sr":"7",
     "qs:source":"SUnknown",
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":43,
     "wof:belongsto":[
         85687801,
@@ -182,8 +194,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":479704,
         "gp:id":2124038,
-        "wd:id":"Q197345"
+        "qs_pg:id":201977,
+        "wd:id":"Q197345",
+        "wk:page":"Uchaly"
+    },
+    "wof:concordances_alt":{
+        "wd:id":[
+            "Q197345"
+        ]
     },
     "wof:country":"RU",
     "wof:geomhash":"b7146fe184554517faae33035894c56b",
@@ -198,13 +218,17 @@
         }
     ],
     "wof:id":102009971,
-    "wof:lastmodified":1690858847,
+    "wof:lastmodified":1706240637,
     "wof:name":"Uchaly",
     "wof:parent_id":1108737133,
     "wof:placetype":"locality",
+    "wof:population":45687,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890486665
+    ],
     "wof:tags":[]
 },
   "bbox": [

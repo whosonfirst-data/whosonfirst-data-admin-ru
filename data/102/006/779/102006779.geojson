@@ -6,11 +6,25 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
     "geom:area_square_m":2130204.995714,
-    "geom:bbox":"44.1988639832,48.9877586365,44.2299957275,49.0021362305",
+    "geom:bbox":"44.198864,48.987759,44.229996,49.002136",
     "geom:latitude":48.994896,
-    "geom:longitude":44.21378,
+    "geom:longitude":44.213781,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Kotluban'",
+    "gn:country_code":"RU",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":543682,
     "gn:id":"543682,543681",
+    "gn:latitude":48.98944,
+    "gn:longitude":44.22917,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kotluban\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Volgograd",
     "iso:country":"RU",
+    "lbl:bbox":"44.20917,48.96944,44.24917,49.00944",
     "lbl:latitude":48.994652,
     "lbl:longitude":44.213781,
     "lbl:max_zoom":18.0,
@@ -20,6 +34,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kotluban'"
+    ],
+    "name:nor_x_preferred":[
+        "Kotluban"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0442\u043b\u0443\u0431\u0430\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Kotlobanski",
+        "Kotluban\u2019"
+    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
     "qs:a1_lc":"3400400001400",
@@ -46,10 +73,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":543682,
         "gp:id":2027207
     },
     "wof:country":"RU",
-    "wof:geomhash":"28747937dab19558ce1c72a9ebfe44ff",
+    "wof:geomhash":"c4f0dbf615688f8c9afa3a9f265cb0a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,20 +89,22 @@
         }
     ],
     "wof:id":102006779,
-    "wof:lastmodified":1566615354,
+    "wof:lastmodified":1706240636,
     "wof:name":"Kotluban'",
     "wof:parent_id":1108733695,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1193179371
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    44.1988639831543,
-    48.98775863647461,
-    44.22999572753906,
-    49.00213623046875
+    44.198864,
+    48.987759,
+    44.229996,
+    49.002136
 ],
-  "geometry": {"coordinates":[[[44.21933364868164,48.98775863647461],[44.19942474365234,48.99443817138672],[44.1988639831543,48.99856185913086],[44.20174026489258,49.0017204284668],[44.20453262329102,49.00213623046875],[44.22999572753906,48.99537658691406],[44.22705459594727,48.99039077758789],[44.22351455688477,48.98815536499023],[44.21933364868164,48.98775863647461]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[44.219334,48.987759],[44.199425,48.994438],[44.198864,48.998562],[44.20174,49.00172],[44.204533,49.002136],[44.229996,48.995377],[44.227055,48.990391],[44.223515,48.988155],[44.219334,48.987759]]],"type":"Polygon"}
 }

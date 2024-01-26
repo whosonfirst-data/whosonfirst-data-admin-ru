@@ -9,9 +9,22 @@
     "geom:bbox":"118.120804,50.057026,118.146667,50.073776",
     "geom:latitude":50.064956,
     "geom:longitude":118.134437,
+    "gn:admin1_code":"93",
+    "gn:asciiname":"Krasnokamensk",
+    "gn:country_code":"RU",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7842508,
     "gn:id":"7842508,7842509,2021618",
+    "gn:latitude":50.0661,
+    "gn:longitude":118.1481,
+    "gn:modification_date":"2016-11-29",
+    "gn:name":"Krasnokamensk",
     "gn:population":54316,
+    "gn:timezone":"Asia/Chita",
     "iso:country":"RU",
+    "lbl:bbox":"118.1281,50.0461,118.1681,50.0861",
     "lbl:latitude":50.065575,
     "lbl:longitude":118.133555,
     "lbl:max_zoom":14.0,
@@ -321,6 +334,11 @@
         "wd:id":"Q155624",
         "wk:page":"Krasnokamensk, Zabaykalsky Krai"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7842508
+        ]
+    },
     "wof:country":"RU",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -335,7 +353,7 @@
         }
     ],
     "wof:id":102014941,
-    "wof:lastmodified":1690858785,
+    "wof:lastmodified":1706240640,
     "wof:name":"Krasnokamensk",
     "wof:parent_id":1108734715,
     "wof:placetype":"locality",
@@ -343,7 +361,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209732589
+    ],
     "wof:tags":[]
 },
   "bbox": [

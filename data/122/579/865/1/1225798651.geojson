@@ -53,8 +53,13 @@
     "wof:concordances":{
         "gn:id":473957
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            473958
+        ]
+    },
     "wof:country":"RU",
-    "wof:geomhash":"a2135c636c090420c623cc224e5b4a30",
+    "wof:geomhash":"1cfab22e4570b71f19e2e34fa93da619",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,20 +71,22 @@
         }
     ],
     "wof:id":1225798651,
-    "wof:lastmodified":1566636785,
+    "wof:lastmodified":1706240645,
     "wof:name":"Veslyana",
     "wof:parent_id":1108734503,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326870795
+    ],
     "wof:tags":[]
 },
   "bbox": [
     50.89158,
-    62.99786999999999,
+    62.99787,
     50.89158,
-    62.99786999999999
+    62.99787
 ],
-  "geometry": {"coordinates":[50.89158,62.99786999999999],"type":"Point"}
+  "geometry": {"coordinates":[50.89158,62.99787],"type":"Point"}
 }

@@ -9,11 +9,24 @@
     "geom:bbox":"48.375591,41.865028,48.400085,41.88311",
     "geom:latitude":41.874205,
     "geom:longitude":48.386716,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Belidzhi",
     "gn:country":"RU",
+    "gn:country_code":"RU",
+    "gn:dem":20,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":578060,
     "gn:id":"578060,828055",
+    "gn:latitude":41.87313,
+    "gn:longitude":48.38769,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Belidzhi",
     "gn:population":16078,
+    "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"48.36769,41.85313,48.40769,41.89313",
     "lbl:latitude":41.87472,
     "lbl:longitude":48.38653,
     "lbl:max_zoom":15.0,
@@ -60,6 +73,9 @@
         "\u0411\u0438\u043b\u0438\u0436"
     ],
     "name:nld_x_preferred":[
+        "Belidzji"
+    ],
+    "name:nor_x_preferred":[
         "Belidzji"
     ],
     "name:oss_x_preferred":[
@@ -118,6 +134,14 @@
         "wd:id":"Q1975641",
         "wk:page":"Belidzhi"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            578060
+        ],
+        "wk:page":[
+            "Belidzhi"
+        ]
+    },
     "wof:country":"RU",
     "wof:geomhash":"aab62ad53eb3bb111870732d2501d257",
     "wof:hierarchy":[
@@ -131,7 +155,7 @@
         }
     ],
     "wof:id":102016777,
-    "wof:lastmodified":1690859001,
+    "wof:lastmodified":1706240640,
     "wof:name":"Belidzhi",
     "wof:parent_id":1108733361,
     "wof:placetype":"locality",
@@ -139,7 +163,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277153047
+    ],
     "wof:tags":[]
 },
   "bbox": [

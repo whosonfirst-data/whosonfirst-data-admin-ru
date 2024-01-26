@@ -98,8 +98,13 @@
     "wof:concordances":{
         "gn:id":6312515
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6265938
+        ]
+    },
     "wof:country":"RU",
-    "wof:geomhash":"bfee67895f4805e54d6ef0029fc82d0a",
+    "wof:geomhash":"4e0f3560d573eb0c55f6b34e70c6817a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,20 +116,22 @@
         }
     ],
     "wof:id":1259528777,
-    "wof:lastmodified":1566633545,
+    "wof:lastmodified":1706240649,
     "wof:name":"Polomka",
     "wof:parent_id":1108735275,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292959985
+    ],
     "wof:tags":[]
 },
   "bbox": [
     48.42611,
-    59.17028000000001,
+    59.17028,
     48.42611,
-    59.17028000000001
+    59.17028
 ],
-  "geometry": {"coordinates":[48.42611,59.17028000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.42611,59.17028],"type":"Point"}
 }

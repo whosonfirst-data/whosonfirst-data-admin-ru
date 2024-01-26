@@ -41,8 +41,13 @@
     "wof:concordances":{
         "gn:id":6284755
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            856796
+        ]
+    },
     "wof:country":"RU",
-    "wof:geomhash":"759272fb8dc8f8d8ef67e91b252fe3be",
+    "wof:geomhash":"0786c7fd536b06c97a63abb071a4e77b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,20 +59,22 @@
         }
     ],
     "wof:id":1292894447,
-    "wof:lastmodified":1566619080,
+    "wof:lastmodified":1706240653,
     "wof:name":"Upologi",
     "wof:parent_id":1108737757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293280621
+    ],
     "wof:tags":[]
 },
   "bbox": [
     34.00528,
-    53.02916999999999,
+    53.02917,
     34.00528,
-    53.02916999999999
+    53.02917
 ],
-  "geometry": {"coordinates":[34.00528,53.02916999999999],"type":"Point"}
+  "geometry": {"coordinates":[34.00528,53.02917],"type":"Point"}
 }

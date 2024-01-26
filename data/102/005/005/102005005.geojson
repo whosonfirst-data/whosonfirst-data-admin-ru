@@ -9,8 +9,21 @@
     "geom:bbox":"43.749184,52.238632,43.826302,52.277233",
     "geom:latitude":52.260832,
     "geom:longitude":43.789714,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Rtishchevo",
+    "gn:country_code":"RU",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":500886,
+    "gn:latitude":52.26041,
+    "gn:longitude":43.78745,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rtishchevo",
     "gn:population":44013,
+    "gn:timezone":"Europe/Saratov",
     "iso:country":"RU",
+    "lbl:bbox":"43.76745,52.24041,43.80745,52.28041",
     "lbl:latitude":52.25612,
     "lbl:longitude":43.799938,
     "lbl:max_zoom":14.0,
@@ -128,6 +141,9 @@
     "name:por_x_preferred":[
         "Rtichtchevo"
     ],
+    "name:por_x_variant":[
+        "Rtishchevo"
+    ],
     "name:ron_x_preferred":[
         "Rti\u0219cevo"
     ],
@@ -211,7 +227,15 @@
         "wk:page":"Rtishchevo"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1152387
+        "gn:id":[
+            500886
+        ],
+        "qs_pg:id":[
+            1152387
+        ],
+        "wk:page":[
+            "Rtishchevo"
+        ]
     },
     "wof:country":"RU",
     "wof:geom_alt":[
@@ -227,7 +251,7 @@
         }
     ],
     "wof:id":102005005,
-    "wof:lastmodified":1690859142,
+    "wof:lastmodified":1706240634,
     "wof:name":"Rtishchevo",
     "wof:parent_id":1108736319,
     "wof:placetype":"locality",
@@ -235,7 +259,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276475077
+    ],
     "wof:tags":[]
 },
   "bbox": [

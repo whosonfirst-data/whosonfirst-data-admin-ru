@@ -10,6 +10,7 @@
     "geom:latitude":59.81598,
     "geom:longitude":33.42732,
     "gn:admin1_code":"42",
+    "gn:admin2_code":"11103388",
     "gn:asciiname":"Kryuchkovo",
     "gn:country_code":"RU",
     "gn:dem":70,
@@ -38,6 +39,9 @@
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0440\u044e\u0447\u043a\u0443\u0432"
     ],
+    "name:und_x_variant":[
+        "Kryukovo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85687861,
@@ -49,6 +53,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":540212
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            540213
+        ]
     },
     "wof:country":"RU",
     "wof:geomhash":"f4d00b112bf56d898fbb0d3a3c00066a",
@@ -63,13 +72,15 @@
         }
     ],
     "wof:id":1260107967,
-    "wof:lastmodified":1566626578,
+    "wof:lastmodified":1706240650,
     "wof:name":"Kryuchkovo",
     "wof:parent_id":890483069,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293126257
+    ],
     "wof:tags":[]
 },
   "bbox": [

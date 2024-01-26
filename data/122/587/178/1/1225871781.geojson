@@ -62,8 +62,13 @@
     "wof:concordances":{
         "gn:id":824189
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            506813
+        ]
+    },
     "wof:country":"RU",
-    "wof:geomhash":"a0040c1ca98360ac31e5c7b2b09b8805",
+    "wof:geomhash":"e42b42fc249a13e01ad8f73c1243f517",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,20 +80,22 @@
         }
     ],
     "wof:id":1225871781,
-    "wof:lastmodified":1566635701,
+    "wof:lastmodified":1706240645,
     "wof:name":"Polyanka",
     "wof:parent_id":1108736341,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326555325
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    50.10639000000001,
+    50.10639,
     55.46972,
-    50.10639000000001,
+    50.10639,
     55.46972
 ],
-  "geometry": {"coordinates":[50.10639000000001,55.46972],"type":"Point"}
+  "geometry": {"coordinates":[50.10639,55.46972],"type":"Point"}
 }

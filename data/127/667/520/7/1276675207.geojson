@@ -48,8 +48,13 @@
     "wof:concordances":{
         "gn:id":475291
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            504415
+        ]
+    },
     "wof:country":"RU",
-    "wof:geomhash":"45bab9fd2fd760046001f303dd778b07",
+    "wof:geomhash":"91f18126185ee39e58a7848741b971a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,20 +66,22 @@
         }
     ],
     "wof:id":1276675207,
-    "wof:lastmodified":1566621603,
+    "wof:lastmodified":1706240651,
     "wof:name":"Pryamoglyadovo",
     "wof:parent_id":1108735149,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360111535
+    ],
     "wof:tags":[]
 },
   "bbox": [
     38.99497,
-    53.58218000000001,
+    53.58218,
     38.99497,
-    53.58218000000001
+    53.58218
 ],
-  "geometry": {"coordinates":[38.99497,53.58218000000001],"type":"Point"}
+  "geometry": {"coordinates":[38.99497,53.58218],"type":"Point"}
 }

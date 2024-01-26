@@ -38,6 +38,10 @@
     "name:rus_x_preferred":[
         "\u0417\u0430\u043a\u0443\u043c\u0430\u0447\u043d\u043e\u0435"
     ],
+    "name:und_x_variant":[
+        "Zakumachskoye",
+        "Zakumachnoye"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688081,
@@ -49,6 +53,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":453643
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            465312
+        ]
     },
     "wof:country":"RU",
     "wof:geomhash":"d5dc54c92ecfadedead5d0674d5c8b44",
@@ -63,13 +72,15 @@
         }
     ],
     "wof:id":1293900919,
-    "wof:lastmodified":1566619045,
+    "wof:lastmodified":1706240653,
     "wof:name":"Zakumachnoye",
     "wof:parent_id":1108735521,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360102315
+    ],
     "wof:tags":[]
 },
   "bbox": [

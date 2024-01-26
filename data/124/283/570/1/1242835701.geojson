@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"30.01667,61.78333,30.01667,61.78333",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Uukuniemi"
@@ -74,7 +76,7 @@
         "gn:id":479312
     },
     "wof:country":"RU",
-    "wof:geomhash":"d5bcc3833e258cbb6eb701951fdc0435",
+    "wof:geomhash":"296e0b18de75568b255ca38164196275",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,20 +90,22 @@
         }
     ],
     "wof:id":1242835701,
-    "wof:lastmodified":1566632540,
+    "wof:lastmodified":1706239531,
     "wof:name":"Uukuniemi",
     "wof:parent_id":907198853,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125774615
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     30.01667,
-    61.78333000000001,
+    61.78333,
     30.01667,
-    61.78333000000001
+    61.78333
 ],
-  "geometry": {"coordinates":[30.01667,61.78333000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.01667,61.78333],"type":"Point"}
 }

@@ -9,12 +9,25 @@
     "geom:bbox":"35.983002,53.422279,36.03775,53.474998",
     "geom:latitude":53.448851,
     "geom:longitude":36.01164,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Bolkhov",
     "gn:country":"RU",
+    "gn:country_code":"RU",
+    "gn:dem":199,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":575365,
     "gn:id":"575365,575364",
+    "gn:latitude":53.44862,
+    "gn:longitude":36.00946,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bolkhov",
     "gn:population":11904,
+    "gn:timezone":"Europe/Moscow",
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"35.98946,53.42862,36.02946,53.46862",
     "lbl:latitude":53.449933,
     "lbl:longitude":36.004797,
     "lbl:max_zoom":15.0,
@@ -216,6 +229,11 @@
         "wd:id":"Q105323",
         "wk:page":"Bolkhov"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            575365
+        ]
+    },
     "wof:country":"RU",
     "wof:geomhash":"0a1fa35c09ecc99b85a04454b16a1a41",
     "wof:hierarchy":[
@@ -229,7 +247,7 @@
         }
     ],
     "wof:id":102004321,
-    "wof:lastmodified":1690859123,
+    "wof:lastmodified":1706240633,
     "wof:name":"Bolkhov",
     "wof:parent_id":1108733089,
     "wof:placetype":"locality",
@@ -237,7 +255,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310137787
+    ],
     "wof:tags":[]
 },
   "bbox": [

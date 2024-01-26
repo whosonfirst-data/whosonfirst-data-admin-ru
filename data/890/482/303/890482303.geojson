@@ -9,9 +9,21 @@
     "geom:bbox":"30.39,59.62056,30.39,59.62056",
     "geom:latitude":59.62056,
     "geom:longitude":30.39,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Kommunar",
     "gn:country":"RU",
+    "gn:country_code":"RU",
+    "gn:dem":64,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":545788,
+    "gn:latitude":59.62056,
+    "gn:longitude":30.39,
+    "gn:modification_date":"2016-12-18",
+    "gn:name":"Kommunar",
     "gn:population":17358,
+    "gn:timezone":"Europe/Moscow",
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:bbox":"30.37,59.60056,30.41,59.64056",
@@ -190,7 +202,15 @@
         "wk:page":"Kommunar"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":277112
+        "gn:id":[
+            545788
+        ],
+        "qs_pg:id":[
+            277112
+        ],
+        "wk:page":[
+            "Kommunar%2C_Gatchinsky_District%2C_Leningrad_Oblast"
+        ]
     },
     "wof:country":"RU",
     "wof:created":1469054412,
@@ -209,7 +229,7 @@
         }
     ],
     "wof:id":890482303,
-    "wof:lastmodified":1690859874,
+    "wof:lastmodified":1706240641,
     "wof:name":"Kommunar",
     "wof:parent_id":890484439,
     "wof:placetype":"locality",
@@ -217,7 +237,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209732591
+    ],
     "wof:tags":[]
 },
   "bbox": [

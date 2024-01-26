@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"54.69755,61.60868,54.69755,61.60868",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041f\u0430\u0440\u0447"
@@ -49,7 +51,7 @@
         "gn:id":512603
     },
     "wof:country":"RU",
-    "wof:geomhash":"6623a5abadd6c3a21237cdbe7201e53e",
+    "wof:geomhash":"54e21d99b63b176f3c29ad9a53b26cd0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,20 +63,22 @@
         }
     ],
     "wof:id":1226694851,
-    "wof:lastmodified":1566635110,
+    "wof:lastmodified":1706240646,
     "wof:name":"Parch",
     "wof:parent_id":1108737249,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226187105
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     54.69755,
-    61.60868000000001,
+    61.60868,
     54.69755,
-    61.60868000000001
+    61.60868
 ],
-  "geometry": {"coordinates":[54.69755,61.60868000000001],"type":"Point"}
+  "geometry": {"coordinates":[54.69755,61.60868],"type":"Point"}
 }

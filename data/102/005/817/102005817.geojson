@@ -6,10 +6,24 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000151,
     "geom:area_square_m":1168541.712469,
-    "geom:bbox":"42.8927230835,51.2492485046,42.9087219238,51.2666397095",
+    "geom:bbox":"42.892723,51.249249,42.908722,51.26664",
     "geom:latitude":51.255872,
     "geom:longitude":42.899749,
+    "gn:admin1_code":"86",
+    "gn:asciiname":"Verknyaya Yelan'",
+    "gn:country_code":"RU",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":474280,
+    "gn:latitude":51.2538,
+    "gn:longitude":42.892,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Verknyaya Yelan\u2019",
+    "gn:population":0,
+    "gn:timezone":"Europe/Volgograd",
     "iso:country":"RU",
+    "lbl:bbox":"42.872,51.2338,42.912,51.2738",
     "lbl:latitude":51.254669,
     "lbl:longitude":42.898295,
     "lbl:max_zoom":18.0,
@@ -54,8 +68,13 @@
         "gn:id":486673,
         "gp:id":2106556
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            474280
+        ]
+    },
     "wof:country":"RU",
-    "wof:geomhash":"6cbb1998c30c0fdcdf5b81fe2c1743dc",
+    "wof:geomhash":"6ed8644d87be4625238dcf33cb1d21be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,20 +86,22 @@
         }
     ],
     "wof:id":102005817,
-    "wof:lastmodified":1566615624,
+    "wof:lastmodified":1706240635,
     "wof:name":"Verknyaya Yelan'",
     "wof:parent_id":1108735955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343298991
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    42.89272308349609,
-    51.24924850463867,
-    42.90872192382812,
-    51.26663970947266
+    42.892723,
+    51.249249,
+    42.908722,
+    51.26664
 ],
-  "geometry": {"coordinates":[[[42.90019607543945,51.26630401611328],[42.89933395385742,51.26161193847656],[42.89930725097656,51.25886154174805],[42.90730667114258,51.25611114501953],[42.90872192382812,51.24924850463867],[42.89272308349609,51.25063705444336],[42.89400100708008,51.25727844238281],[42.89572143554688,51.26619338989258],[42.90008163452148,51.26663970947266],[42.90019607543945,51.26630401611328]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[42.900196,51.266304],[42.899334,51.261612],[42.899307,51.258862],[42.907307,51.256111],[42.908722,51.249249],[42.892723,51.250637],[42.894001,51.257278],[42.895721,51.266193],[42.900082,51.26664],[42.900196,51.266304]]],"type":"Polygon"}
 }

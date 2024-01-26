@@ -9,10 +9,21 @@
     "geom:bbox":"44.486252,47.753693,44.524918,47.782444",
     "geom:latitude":47.769067,
     "geom:longitude":44.506313,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Sadovoye",
+    "gn:country_code":"RU",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":499535,
     "gn:latitude":47.7772,
     "gn:longitude":44.5208,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sadovoye",
     "gn:population":6333,
+    "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"44.5008,47.7572,44.5408,47.7972",
     "lbl:latitude":47.768411,
     "lbl:longitude":44.504409,
     "lbl:max_zoom":15.0,
@@ -108,10 +119,16 @@
         "gn:id":499528,
         "gp:id":2077247,
         "qs_pg:id":194334,
-        "wd:id":"Q4404723"
+        "wd:id":"Q4404723",
+        "wk:page":"Sadovoye%2C_Republic_of_Kalmykia"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":549219
+        "gn:id":[
+            499535
+        ],
+        "qs_pg:id":[
+            549219
+        ]
     },
     "wof:country":"RU",
     "wof:geom_alt":[
@@ -127,7 +144,7 @@
         }
     ],
     "wof:id":102007091,
-    "wof:lastmodified":1690858812,
+    "wof:lastmodified":1706240636,
     "wof:name":"Sadovoye",
     "wof:parent_id":1108736399,
     "wof:placetype":"locality",
@@ -135,7 +152,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310360873
+    ],
     "wof:tags":[]
 },
   "bbox": [

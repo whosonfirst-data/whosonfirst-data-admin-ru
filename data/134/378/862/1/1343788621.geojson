@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"40.36083,58.51361,40.36083,58.51361",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u043b\u0430\u0431\u0430\u0434\u0430"
@@ -117,12 +119,14 @@
         }
     ],
     "wof:id":1343788621,
-    "wof:lastmodified":1566617279,
+    "wof:lastmodified":1706240655,
     "wof:name":"Sloboda",
     "wof:parent_id":1108735811,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1326547471
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

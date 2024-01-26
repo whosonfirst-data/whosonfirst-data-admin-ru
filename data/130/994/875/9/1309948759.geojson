@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"45.53482,59.0008,45.53482,59.0008",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u043b\u0456\u043d\u0430\u045e\u043a\u0430"
@@ -90,12 +92,14 @@
         }
     ],
     "wof:id":1309948759,
-    "wof:lastmodified":1566630246,
+    "wof:lastmodified":1706240644,
     "wof:name":"Kalinovka",
     "wof:parent_id":1108736035,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209144431
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

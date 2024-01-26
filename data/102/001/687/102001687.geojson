@@ -9,10 +9,21 @@
     "geom:bbox":"132.077637,44.308861,132.110062,44.32761",
     "geom:latitude":44.319235,
     "geom:longitude":132.094653,
+    "gn:admin1_code":"59",
+    "gn:asciiname":"Blagodatnoye",
+    "gn:country_code":"RU",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2026618,
     "gn:latitude":44.32285,
     "gn:longitude":132.0905,
+    "gn:modification_date":"2013-10-25",
+    "gn:name":"Blagodatnoye",
     "gn:population":2443,
+    "gn:timezone":"Asia/Vladivostok",
     "iso:country":"RU",
+    "lbl:bbox":"132.0705,44.30285,132.1105,44.34285",
     "lbl:latitude":44.320635,
     "lbl:longitude":132.094653,
     "lbl:max_zoom":15.0,
@@ -86,6 +97,11 @@
         "qs_pg:id":1305548,
         "wd:id":"Q15241488"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2026618
+        ]
+    },
     "wof:country":"RU",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -100,7 +116,7 @@
         }
     ],
     "wof:id":102001687,
-    "wof:lastmodified":1690858909,
+    "wof:lastmodified":1706240632,
     "wof:name":"Blagodatnoye",
     "wof:parent_id":1108734387,
     "wof:placetype":"locality",
@@ -108,7 +124,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209021685
+    ],
     "wof:tags":[]
 },
   "bbox": [
