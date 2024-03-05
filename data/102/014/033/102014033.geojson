@@ -9,12 +9,25 @@
     "geom:bbox":"100.508759,54.54385,100.602966,54.606281",
     "geom:latitude":54.574012,
     "geom:longitude":100.557979,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Tulun",
     "gn:country":"RU",
+    "gn:country_code":"RU",
+    "gn:dem":495,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2014926,
     "gn:id":"2014926,2014927",
+    "gn:latitude":54.6,
+    "gn:longitude":100.53333,
+    "gn:modification_date":"2014-06-26",
+    "gn:name":"Tulun",
     "gn:population":51330,
+    "gn:timezone":"Asia/Irkutsk",
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"100.51333,54.58,100.55333,54.62",
     "lbl:latitude":54.563069,
     "lbl:longitude":100.566543,
     "lbl:max_zoom":14.0,
@@ -322,6 +335,11 @@
         "wd:id":"Q196709",
         "wk:page":"Tulun"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2014926
+        ]
+    },
     "wof:country":"RU",
     "wof:geomhash":"30860e2ea831c6472bcb7232414e8c14",
     "wof:hierarchy":[
@@ -335,7 +353,7 @@
         }
     ],
     "wof:id":102014033,
-    "wof:lastmodified":1690858797,
+    "wof:lastmodified":1706240639,
     "wof:name":"Tulun",
     "wof:parent_id":1108737105,
     "wof:placetype":"locality",
@@ -343,7 +361,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309770599
+    ],
     "wof:tags":[]
 },
   "bbox": [

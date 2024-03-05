@@ -9,8 +9,12 @@
     "geom:bbox":"38.027084,50.05164,38.094444,50.109859",
     "geom:latitude":50.081808,
     "geom:longitude":38.058327,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:id":"478777,478781",
+    "gn:population":6966,
     "iso:country":"RU",
+    "lbl:bbox":"38.0195,50.0636,38.0595,50.1036",
     "lbl:latitude":50.085644,
     "lbl:longitude":38.058327,
     "lbl:max_zoom":18.0,
@@ -44,6 +48,9 @@
     "name:ita_x_preferred":[
         "Urazovo"
     ],
+    "name:nor_x_preferred":[
+        "Urazovo"
+    ],
     "name:pol_x_preferred":[
         "Urazowo"
     ],
@@ -59,6 +66,9 @@
     "name:ukr_x_preferred":[
         "\u0423\u0440\u0430\u0437\u043e\u0432\u043e"
     ],
+    "name:und_x_variant":[
+        "Urazova"
+    ],
     "name:zho_x_preferred":[
         "\u4e4c\u62c9\u4f50\u6c83"
     ],
@@ -73,12 +83,17 @@
     "qs:level":"localadmin",
     "qs:loc":"URAZOVO",
     "qs:loc_alt":"\u0423\u0440\u0430\u0437\u043e\u0432\u043e",
+    "qs:name":"Urazovo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
     "qs:pop":0,
+    "qs:pop_sr":"5",
     "qs:source":"SUnknown",
     "qs:type":"\u043f\u0433\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wof:belongsto":[
         85687813,
         102191581,
@@ -88,8 +103,18 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":478781,
         "gp:id":2100576,
+        "qs_pg:id":80487,
         "wd:id":"Q4006355"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2100576
+        ],
+        "wd:id":[
+            "Q4006355"
+        ]
     },
     "wof:country":"RU",
     "wof:geomhash":"300f33bbd60434ec0468a5bc11380280",
@@ -104,13 +129,17 @@
         }
     ],
     "wof:id":102006475,
-    "wof:lastmodified":1690858943,
+    "wof:lastmodified":1706240635,
     "wof:name":"Urazovo",
     "wof:parent_id":1108737293,
     "wof:placetype":"locality",
+    "wof:population":6966,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890478511
+    ],
     "wof:tags":[]
 },
   "bbox": [

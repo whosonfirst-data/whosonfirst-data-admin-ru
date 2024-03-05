@@ -9,9 +9,21 @@
     "geom:bbox":"56.31472,57.7325,56.31472,57.7325",
     "geom:latitude":57.7325,
     "geom:longitude":56.31472,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Zvezdnyy",
     "gn:country":"RU",
+    "gn:country_code":"RU",
+    "gn:dem":226,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":576744,
+    "gn:latitude":57.7343,
+    "gn:longitude":56.3173,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Zv\u00ebzdnyy",
     "gn:population":9800,
+    "gn:timezone":"Asia/Yekaterinburg",
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:bbox":"56.29472,57.7125,56.33472,57.7525",
@@ -159,6 +171,11 @@
         "qs_pg:id":59325,
         "wk:page":"Zvyozdny"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            576744
+        ]
+    },
     "wof:country":"RU",
     "wof:created":1469054519,
     "wof:geom_alt":[
@@ -176,7 +193,7 @@
         }
     ],
     "wof:id":890484569,
-    "wof:lastmodified":1582330520,
+    "wof:lastmodified":1706240642,
     "wof:name":"Zvezdnyy",
     "wof:parent_id":1108738441,
     "wof:placetype":"locality",
@@ -184,7 +201,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276263985
+    ],
     "wof:tags":[]
 },
   "bbox": [

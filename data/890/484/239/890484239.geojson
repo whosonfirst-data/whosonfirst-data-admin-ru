@@ -9,9 +9,21 @@
     "geom:bbox":"37.24777,53.99119,37.24777,53.99119",
     "geom:latitude":53.99119,
     "geom:longitude":37.24777,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Selivanovo",
     "gn:country":"RU",
+    "gn:country_code":"RU",
+    "gn:dem":163,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":819762,
+    "gn:latitude":53.99159,
+    "gn:longitude":37.25053,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Selivanovo",
     "gn:population":0,
+    "gn:timezone":"Europe/Moscow",
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:bbox":"37.22777,53.97119,37.26777,54.01119",
@@ -21,6 +33,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
+        "Selivanovo"
+    ],
+    "name:nor_x_preferred":[
         "Selivanovo"
     ],
     "name:pol_x_preferred":[
@@ -60,6 +75,11 @@
         "wd:id":"Q16882939",
         "wk:page":"Selivanovo"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            819762
+        ]
+    },
     "wof:country":"RU",
     "wof:created":1469054504,
     "wof:geomhash":"a5c94507ba0e7b94b39a007ccd3cc4e3",
@@ -74,14 +94,16 @@
         }
     ],
     "wof:id":890484239,
-    "wof:lastmodified":1690859949,
+    "wof:lastmodified":1706240642,
     "wof:name":"Selivanovo",
     "wof:parent_id":1108736569,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260215813
+    ],
     "wof:tags":[]
 },
   "bbox": [

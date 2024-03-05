@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"50.01244,52.9138,50.01244,52.9138",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kolyvan'"
@@ -54,7 +56,7 @@
         "gn:id":545968
     },
     "wof:country":"RU",
-    "wof:geomhash":"83bd8054f4e76aacc3903fb677f7c068",
+    "wof:geomhash":"09551446da316bfe0f60858a378d5d39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,20 +68,22 @@
         }
     ],
     "wof:id":1193048031,
-    "wof:lastmodified":1566625637,
+    "wof:lastmodified":1706240637,
     "wof:name":"Kolyvan'",
     "wof:parent_id":1108734671,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102010695
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    50.01244000000001,
+    50.01244,
     52.9138,
-    50.01244000000001,
+    50.01244,
     52.9138
 ],
-  "geometry": {"coordinates":[50.01244000000001,52.9138],"type":"Point"}
+  "geometry": {"coordinates":[50.01244,52.9138],"type":"Point"}
 }

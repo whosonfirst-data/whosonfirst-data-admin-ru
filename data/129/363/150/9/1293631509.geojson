@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"43.51713,47.99882,43.51713,47.99882",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041a\u043b\u044b\u043a\u043e\u0432"
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":1293631509,
-    "wof:lastmodified":1566619008,
+    "wof:lastmodified":1706240649,
     "wof:name":"Klykov",
     "wof:parent_id":1108735645,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1259725745
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

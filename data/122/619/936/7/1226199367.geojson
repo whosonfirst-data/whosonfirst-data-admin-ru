@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"38.00206,53.55932,38.00206,53.55932",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u0412\u043e\u043b\u043e\u0432\u043e"
@@ -60,7 +62,7 @@
         "gn:id":472305
     },
     "wof:country":"RU",
-    "wof:geomhash":"6cb03dd841ff89e90a8a29c29fe709c2",
+    "wof:geomhash":"be8a8d86f2a8da3237abfef765d13e06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,20 +74,22 @@
         }
     ],
     "wof:id":1226199367,
-    "wof:lastmodified":1566634736,
+    "wof:lastmodified":1706240633,
     "wof:name":"Volovo",
     "wof:parent_id":1108737629,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102004285
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     38.00206,
-    53.55931999999999,
+    53.55932,
     38.00206,
-    53.55931999999999
+    53.55932
 ],
-  "geometry": {"coordinates":[38.00206,53.55931999999999],"type":"Point"}
+  "geometry": {"coordinates":[38.00206,53.55932],"type":"Point"}
 }

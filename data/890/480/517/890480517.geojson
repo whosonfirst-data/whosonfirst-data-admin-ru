@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"102.0442,53.9202,102.0442,53.9202",
@@ -17,7 +19,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0632\u064a\u0645\u0627"
@@ -317,14 +319,16 @@
         }
     ],
     "wof:id":890480517,
-    "wof:lastmodified":1690860130,
+    "wof:lastmodified":1706240640,
     "wof:name":"Zima",
     "wof:parent_id":1108738229,
     "wof:placetype":"locality",
     "wof:population":33323,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102014133
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -50,8 +50,13 @@
     "wof:concordances":{
         "gn:id":534329
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            534330
+        ]
+    },
     "wof:country":"RU",
-    "wof:geomhash":"c2ca3ed66d18432408d0adce922c6a9c",
+    "wof:geomhash":"e06e6b2724885eaca8cf4f8ce4e3410c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1225862169,
-    "wof:lastmodified":1566635518,
+    "wof:lastmodified":1706240645,
     "wof:name":"Lomovatka",
     "wof:parent_id":1108737321,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226672819
+    ],
     "wof:tags":[]
 },
   "bbox": [
     45.52235,
-    61.13003000000001,
+    61.13003,
     45.52235,
-    61.13003000000001
+    61.13003
 ],
-  "geometry": {"coordinates":[45.52235,61.13003000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.52235,61.13003],"type":"Point"}
 }

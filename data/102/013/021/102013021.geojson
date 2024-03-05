@@ -6,12 +6,24 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000303,
     "geom:area_square_m":2163718.056726,
-    "geom:bbox":"82.4953918457,54.6505279541,82.5296630859,54.6653327942",
+    "geom:bbox":"82.495392,54.650528,82.529663,54.665333",
     "geom:latitude":54.657905,
     "geom:longitude":82.510083,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Beregovoye",
+    "gn:country_code":"RU",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1510330,
     "gn:latitude":54.6559,
     "gn:longitude":82.5081,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Beregovoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Novosibirsk",
     "iso:country":"RU",
+    "lbl:bbox":"82.4881,54.6359,82.5281,54.6759",
     "lbl:latitude":54.659072,
     "lbl:longitude":82.510409,
     "lbl:max_zoom":18.0,
@@ -71,11 +83,16 @@
         "qs_pg:id":886352,
         "wd:id":"Q4891209"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1510330
+        ]
+    },
     "wof:country":"RU",
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"e90fd30ff3b9e2835c055b9c9e56c6d2",
+    "wof:geomhash":"ad3ea0d86d633b13f4f92d8a19a7dfca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,20 +104,22 @@
         }
     ],
     "wof:id":102013021,
-    "wof:lastmodified":1582329762,
+    "wof:lastmodified":1706240639,
     "wof:name":"Beregovoye",
     "wof:parent_id":890478807,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242695011
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    82.49539184570312,
-    54.65052795410156,
-    82.5296630859375,
-    54.66533279418945
+    82.495392,
+    54.650528,
+    82.529663,
+    54.665333
 ],
-  "geometry": {"coordinates":[[[82.5296630859375,54.65397262573242],[82.507080078125,54.65291595458984],[82.4993896484375,54.65108489990234],[82.49705505371094,54.65052795410156],[82.49539184570312,54.6602783203125],[82.50905609130859,54.66500091552734],[82.51538848876953,54.66533279418945],[82.5296630859375,54.65397262573242]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[82.529663,54.653973],[82.50708,54.652916],[82.49939000000001,54.651085],[82.497055,54.650528],[82.495392,54.660278],[82.509056,54.665001],[82.515388,54.665333],[82.529663,54.653973]]],"type":"Polygon"}
 }

@@ -9,11 +9,24 @@
     "geom:bbox":"38.709641,54.452278,38.752556,54.48975",
     "geom:latitude":54.470756,
     "geom:longitude":38.730603,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Serebryanyye Prudy",
     "gn:country":"RU",
+    "gn:country_code":"RU",
+    "gn:dem":143,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":496880,
     "gn:id":"496879,496880",
+    "gn:latitude":54.46417,
+    "gn:longitude":38.71306,
+    "gn:modification_date":"1996-10-08",
+    "gn:name":"Serebryanyye Prudy",
     "gn:population":8953,
+    "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"38.69306,54.44417,38.73306,54.48417",
     "lbl:latitude":54.468288,
     "lbl:longitude":38.730928,
     "lbl:max_zoom":15.0,
@@ -137,6 +150,11 @@
         "qs_pg:id":369228,
         "wd:id":"Q1641810"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            496880
+        ]
+    },
     "wof:country":"RU",
     "wof:geomhash":"1e74e34c5998eab1ccbd2fcd70d6a1da",
     "wof:hierarchy":[
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":102003801,
-    "wof:lastmodified":1690859086,
+    "wof:lastmodified":1706240633,
     "wof:name":"Serebryanyye Prudy",
     "wof:parent_id":1108736441,
     "wof:placetype":"locality",
@@ -158,7 +176,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209031741
+    ],
     "wof:tags":[]
 },
   "bbox": [

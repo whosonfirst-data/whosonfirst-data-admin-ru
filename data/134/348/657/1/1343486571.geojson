@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"38.06132,52.49565,38.06132,52.49565",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0427\u0435\u0440\u043d\u0430\u0432\u0430"
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":1343486571,
-    "wof:lastmodified":1566616927,
+    "wof:lastmodified":1706240633,
     "wof:name":"Chernava",
     "wof:parent_id":1108734055,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102004819
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

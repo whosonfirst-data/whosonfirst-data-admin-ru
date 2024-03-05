@@ -32,6 +32,10 @@
     "name:rus_x_preferred":[
         "\u0421\u043a\u0443\u0442\u0438\u043d\u044b"
     ],
+    "name:und_x_variant":[
+        "Skutino",
+        "Skutiny"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85687903,
@@ -43,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6312333
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            492213
+        ]
     },
     "wof:country":"RU",
     "wof:geomhash":"79ace4cfab9d19336a6d632ad6f32a99",
@@ -57,13 +66,15 @@
         }
     ],
     "wof:id":1193223287,
-    "wof:lastmodified":1566625566,
+    "wof:lastmodified":1706240643,
     "wof:name":"Skutiny",
     "wof:parent_id":1108734137,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209769755
+    ],
     "wof:tags":[]
 },
   "bbox": [

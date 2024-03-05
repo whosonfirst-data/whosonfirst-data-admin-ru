@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"33.42722,59.81603,33.42722,59.81603",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0631\u06cc\u0648\u0686\u06a9\u0648\u0648"
@@ -55,7 +57,7 @@
         "gn:id":540213
     },
     "wof:country":"RU",
-    "wof:geomhash":"4df40caaab26ab328a186c95e6efdbca",
+    "wof:geomhash":"d47592f42d9890c106ec4e664d77ae30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,20 +69,22 @@
         }
     ],
     "wof:id":1293126257,
-    "wof:lastmodified":1566619502,
+    "wof:lastmodified":1706240650,
     "wof:name":"Kryuchkovo",
     "wof:parent_id":890483069,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1260107967
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     33.42722,
-    59.81603000000001,
+    59.81603,
     33.42722,
-    59.81603000000001
+    59.81603
 ],
-  "geometry": {"coordinates":[33.42722,59.81603000000001],"type":"Point"}
+  "geometry": {"coordinates":[33.42722,59.81603],"type":"Point"}
 }

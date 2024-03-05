@@ -9,10 +9,21 @@
     "geom:bbox":"40.078472,50.443527,40.182751,50.473083",
     "geom:latitude":50.458183,
     "geom:longitude":40.129824,
+    "gn:admin1_code":"86",
+    "gn:asciiname":"Pavlovsk",
+    "gn:country_code":"RU",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":512053,
     "gn:latitude":50.45778,
     "gn:longitude":40.10806,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Pavlovsk",
     "gn:population":26565,
+    "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"40.08806,50.43778,40.12806,50.47778",
     "lbl:latitude":50.45592,
     "lbl:longitude":40.130614,
     "lbl:max_zoom":14.0,
@@ -189,7 +200,15 @@
         "wk:page":"Pavlovsk, Voronezh Oblast"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":844945
+        "gn:id":[
+            512053
+        ],
+        "qs_pg:id":[
+            844945
+        ],
+        "wk:page":[
+            "Pavlovsk%2C_Voronezh_Oblast"
+        ]
     },
     "wof:country":"RU",
     "wof:geom_alt":[
@@ -205,7 +224,7 @@
         }
     ],
     "wof:id":102006311,
-    "wof:lastmodified":1690858947,
+    "wof:lastmodified":1706240635,
     "wof:name":"Pavlovsk",
     "wof:parent_id":1108735791,
     "wof:placetype":"locality",
@@ -213,7 +232,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276256213
+    ],
     "wof:tags":[]
 },
   "bbox": [

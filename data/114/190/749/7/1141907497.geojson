@@ -9,6 +9,19 @@
     "geom:bbox":"156.359386,52.438981,156.359386,52.438981",
     "geom:latitude":52.438981,
     "geom:longitude":156.359386,
+    "gn:admin1_code":"92",
+    "gn:asciiname":"Bol'sheretsk",
+    "gn:country_code":"RU",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2126577,
+    "gn:latitude":52.43818,
+    "gn:longitude":156.36026,
+    "gn:modification_date":"2012-10-06",
+    "gn:name":"Bol\u2019sheretsk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kamchatka",
     "iso:country":"RU",
     "lbl:bbox":"156.339385945,52.4189813427,156.379385945,52.4589813427",
     "lbl:latitude":52.438981,
@@ -32,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Bol\u2019sheretsk"
+    ],
+    "name:eng_x_variant":[
+        "Bol'sheretsk"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0648\u0644\u0631\u0634\u06cc\u0631\u062a\u0633\u06a9"
@@ -63,6 +79,9 @@
     "name:nld_x_preferred":[
         "Bol'sheretsk"
     ],
+    "name:nor_x_preferred":[
+        "Bolsjeretsk"
+    ],
     "name:pol_x_preferred":[
         "Ust\u00b4-Bolszerieck"
     ],
@@ -83,6 +102,10 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043b\u044c\u0448\u0435\u0440\u0435\u0446\u044c\u043a"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shertskiy Kombinat Nomer Tretiy",
+        "Bol\u2019sheretsk"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0644\u0634\u06cc\u0631\u06cc\u0633\u06a9"
@@ -200,7 +223,9 @@
         1108737221
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gn:id":2126577
+    },
     "wof:country":"RU",
     "wof:created":1499130734,
     "wof:geomhash":"e6774f914fb51bfee7784c83734214af",
@@ -215,13 +240,15 @@
         }
     ],
     "wof:id":1141907497,
-    "wof:lastmodified":1636497394,
+    "wof:lastmodified":1706240642,
     "wof:name":"Bol'sheretsk",
     "wof:parent_id":1108737221,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259615417
+    ],
     "wof:tags":[]
 },
   "bbox": [

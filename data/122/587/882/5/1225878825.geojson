@@ -29,7 +29,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Krushchevka"
+    ],
+    "name:nor_x_preferred":[
+        "Khrusjtsjevka"
+    ],
     "name:rus_x_preferred":[
+        "\u0425\u0440\u0443\u0449\u0451\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
         "\u0425\u0440\u0443\u0449\u0451\u0432\u043a\u0430"
     ],
     "name:und_x_variant":[
@@ -47,6 +56,11 @@
     "wof:concordances":{
         "gn:id":549218
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            540575
+        ]
+    },
     "wof:country":"RU",
     "wof:geomhash":"143a8b9a2e50aeffbd119b7fb7166c65",
     "wof:hierarchy":[
@@ -60,13 +74,15 @@
         }
     ],
     "wof:id":1225878825,
-    "wof:lastmodified":1566635675,
+    "wof:lastmodified":1706240645,
     "wof:name":"Khrushchevka",
     "wof:parent_id":1108736373,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276265589
+    ],
     "wof:tags":[]
 },
   "bbox": [

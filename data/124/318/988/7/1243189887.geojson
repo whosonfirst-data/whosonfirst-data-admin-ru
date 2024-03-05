@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"55.95604,59.56158,55.95604,59.56158",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0420\u0430\u0441\u0441\u043e\u0445\u0438"
@@ -54,7 +56,7 @@
         "gn:id":827891
     },
     "wof:country":"RU",
-    "wof:geomhash":"b4b83673e58a5c888d524fda26adf294",
+    "wof:geomhash":"57047cf5a9f67315f35b24cb8a52f69c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,20 +68,22 @@
         }
     ],
     "wof:id":1243189887,
-    "wof:lastmodified":1566632966,
+    "wof:lastmodified":1706240643,
     "wof:name":"Rassokhi",
     "wof:parent_id":1108737213,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209021567
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     55.95604,
-    59.56158000000001,
+    59.56158,
     55.95604,
-    59.56158000000001
+    59.56158
 ],
-  "geometry": {"coordinates":[55.95604,59.56158000000001],"type":"Point"}
+  "geometry": {"coordinates":[55.95604,59.56158],"type":"Point"}
 }

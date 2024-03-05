@@ -12,7 +12,9 @@
     "gn:latitude":54.7818,
     "gn:longitude":32.0401,
     "gn:population":320991,
+    "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"32.028149,54.766978,32.068149,54.806978",
     "lbl:latitude":54.791248,
     "lbl:longitude":32.056755,
     "lbl:max_zoom":13.0,
@@ -500,7 +502,18 @@
     "qs:level":"localadmin",
     "qs:loc":"SMOLENSK",
     "qs:loc_alt":"\u0421\u043c\u043e\u043b\u0435\u043d\u0441\u043a",
+    "qs:name":"Smolensk",
+    "qs:name_adm0":"Russia",
+    "qs:name_adm1":"Smolensk Oblast",
+    "qs:photos":907,
+    "qs:photos_1k":184,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":907,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"SUnknown",
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
@@ -526,6 +539,20 @@
         "wd:id":"Q2337",
         "wk:page":"Smolensk"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2123532
+        ],
+        "qs_pg:id":[
+            241710
+        ],
+        "wd:id":[
+            "Q2337"
+        ],
+        "wk:page":[
+            "Smolensk"
+        ]
+    },
     "wof:coterminous":[
         1108736671
     ],
@@ -545,7 +572,7 @@
         }
     ],
     "wof:id":102003657,
-    "wof:lastmodified":1690859064,
+    "wof:lastmodified":1706240632,
     "wof:name":"Smolensk",
     "wof:parent_id":1108736671,
     "wof:placetype":"locality",
@@ -553,7 +580,9 @@
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890487221
+    ],
     "wof:tags":[]
 },
   "bbox": [

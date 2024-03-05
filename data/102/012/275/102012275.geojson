@@ -9,12 +9,25 @@
     "geom:bbox":"73.075806,55.310417,73.114807,55.335361",
     "geom:latitude":55.324113,
     "geom:longitude":73.097047,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Krasnoyarka",
     "gn:country":"RU",
+    "gn:country_code":"RU",
+    "gn:dem":85,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1502042,
     "gn:id":"1502041,1502042",
+    "gn:latitude":55.3317,
+    "gn:longitude":73.0912,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Krasnoyarka",
     "gn:population":4006,
+    "gn:timezone":"Asia/Omsk",
     "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"73.0712,55.3117,73.1112,55.3517",
     "lbl:latitude":55.323706,
     "lbl:longitude":73.095127,
     "lbl:max_zoom":15.0,
@@ -97,6 +110,11 @@
         "wd:id":"Q6436308",
         "wk:page":"Krasnoyarka"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1502042
+        ]
+    },
     "wof:country":"RU",
     "wof:geomhash":"bf1855b67a2b80b02b4cea48c61742e3",
     "wof:hierarchy":[
@@ -110,7 +128,7 @@
         }
     ],
     "wof:id":102012275,
-    "wof:lastmodified":1690858718,
+    "wof:lastmodified":1706240638,
     "wof:name":"Krasnoyarka",
     "wof:parent_id":890480089,
     "wof:placetype":"locality",
@@ -118,7 +136,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326664769
+    ],
     "wof:tags":[]
 },
   "bbox": [

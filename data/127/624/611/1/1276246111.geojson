@@ -32,6 +32,13 @@
     "name:rus_x_preferred":[
         "\u041a\u0440\u0443\u0433\u043b\u044b\u0439"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u0440\u0443\u0433\u043b\u044b\u0439"
+    ],
+    "name:und_x_variant":[
+        "Krugloye",
+        "Kruglyy"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688051,
@@ -43,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7751730
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            807999
+        ]
     },
     "wof:country":"RU",
     "wof:geomhash":"dd7d4ed84224d8de3d2f78c3133ce43e",
@@ -57,13 +69,15 @@
         }
     ],
     "wof:id":1276246111,
-    "wof:lastmodified":1566622292,
+    "wof:lastmodified":1706240651,
     "wof:name":"Kruglyy",
     "wof:parent_id":1108735791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344184383
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,24 @@
     "geom:bbox":"59.980862,54.361332,60.018555,54.390556",
     "geom:latitude":54.375881,
     "geom:longitude":60.000787,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Uyskoye",
     "gn:country":"RU",
+    "gn:country_code":"RU",
+    "gn:dem":313,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":477572,
     "gn:id":"1544584,1544583,477572",
+    "gn:latitude":54.3791,
+    "gn:longitude":60.0012,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Uyskoye",
     "gn:population":7668,
+    "gn:timezone":"Asia/Yekaterinburg",
     "iso:country":"RU",
+    "lbl:bbox":"59.9812,54.3591,60.0212,54.3991",
     "lbl:latitude":54.37736,
     "lbl:longitude":59.995211,
     "lbl:max_zoom":15.0,
@@ -74,6 +87,10 @@
     "name:ukr_x_preferred":[
         "\u0423\u0439\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:und_x_variant":[
+        "Uyskiy",
+        "Uyskoye"
+    ],
     "name:vie_x_preferred":[
         "Uysky"
     ],
@@ -114,6 +131,11 @@
         "wd:id":"Q1658331",
         "wk:page":"Uysky District"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            477572
+        ]
+    },
     "wof:country":"RU",
     "wof:geomhash":"59158bb9570761e146a936290e5f8a64",
     "wof:hierarchy":[
@@ -127,7 +149,7 @@
         }
     ],
     "wof:id":1175613493,
-    "wof:lastmodified":1690859746,
+    "wof:lastmodified":1706240642,
     "wof:name":"Uyskoye",
     "wof:parent_id":1108737157,
     "wof:placetype":"locality",
@@ -137,7 +159,8 @@
     "wof:superseded_by":[],
     "wof:supersedes":[
         102012551,
-        102009923
+        102009923,
+        1326509165
     ],
     "wof:tags":[]
 },

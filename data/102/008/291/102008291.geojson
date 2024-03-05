@@ -10,7 +10,9 @@
     "geom:latitude":58.599404,
     "geom:longitude":49.651142,
     "gn:population":457383,
+    "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"49.6261435,58.56931,49.6661435,58.60931",
     "lbl:latitude":58.601171,
     "lbl:longitude":49.660563,
     "lbl:max_zoom":13.0,
@@ -27,6 +29,9 @@
         "Kirov"
     ],
     "name:ara_x_preferred":[
+        "\u0643\u064a\u0631\u0648\u0641"
+    ],
+    "name:ara_x_variant":[
         "\u0643\u064a\u0631\u0648\u0641"
     ],
     "name:ast_x_preferred":[
@@ -439,7 +444,18 @@
     "qs:level":"localadmin",
     "qs:loc":"KIROV",
     "qs:loc_alt":"\u041a\u0438\u0440\u043e\u0432",
+    "qs:name":"Kirov",
+    "qs:name_adm0":"Russia",
+    "qs:name_adm1":"Kirov Oblast",
+    "qs:photos":692,
+    "qs:photos_1k":140,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":692,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"SUnknown",
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
@@ -448,6 +464,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "wd:wordcount":132,
     "wof:belongsto":[
         85687903,
         102191581,
@@ -462,6 +479,20 @@
         "qs_pg:id":349647,
         "wd:id":"Q5384",
         "wk:page":"Kirov, Kirov Oblast"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2121384
+        ],
+        "qs_pg:id":[
+            1129248
+        ],
+        "wd:id":[
+            "Q5384"
+        ],
+        "wk:page":[
+            "Kirov"
+        ]
     },
     "wof:country":"RU",
     "wof:geom_alt":[
@@ -479,7 +510,7 @@
         }
     ],
     "wof:id":102008291,
-    "wof:lastmodified":1690858894,
+    "wof:lastmodified":1706240636,
     "wof:name":"Kirov",
     "wof:parent_id":890487145,
     "wof:placetype":"locality",
@@ -487,7 +518,9 @@
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890484533
+    ],
     "wof:tags":[]
 },
   "bbox": [

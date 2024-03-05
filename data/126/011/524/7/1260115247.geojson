@@ -53,8 +53,13 @@
     "wof:concordances":{
         "gn:id":486615
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            863933
+        ]
+    },
     "wof:country":"RU",
-    "wof:geomhash":"83bd3a474e3392d0b546f178370735e7",
+    "wof:geomhash":"ef92fd61b409c4020b0fee6a8c1fdfc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,20 +71,22 @@
         }
     ],
     "wof:id":1260115247,
-    "wof:lastmodified":1566626536,
+    "wof:lastmodified":1706240650,
     "wof:name":"Sukhodol'nyy",
     "wof:parent_id":1108733987,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276910061
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    54.32794000000001,
+    54.32794,
     51.42237,
-    54.32794000000001,
+    54.32794,
     51.42237
 ],
-  "geometry": {"coordinates":[54.32794000000001,51.42237],"type":"Point"}
+  "geometry": {"coordinates":[54.32794,51.42237],"type":"Point"}
 }

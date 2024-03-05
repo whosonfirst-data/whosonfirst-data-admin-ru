@@ -9,9 +9,21 @@
     "geom:bbox":"36.45878,50.51988,36.45878,50.51988",
     "geom:latitude":50.51988,
     "geom:longitude":36.45878,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mayskiy",
     "gn:country":"RU",
+    "gn:country_code":"RU",
+    "gn:dem":180,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6731703,
+    "gn:latitude":50.51988,
+    "gn:longitude":36.45878,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Mayskiy",
     "gn:population":7537,
+    "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
     "lbl:bbox":"36.43878,50.49988,36.47878,50.53988",
     "lbl:max_zoom":15.0,
@@ -76,6 +88,11 @@
         "wd:id":"Q4275082",
         "wk:page":"Maysky"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6731703
+        ]
+    },
     "wof:country":"RU",
     "wof:created":1469054167,
     "wof:geomhash":"6b7d9eb35dafcbf88d74a45106e1f25b",
@@ -90,7 +107,7 @@
         }
     ],
     "wof:id":890478345,
-    "wof:lastmodified":1690859809,
+    "wof:lastmodified":1706240641,
     "wof:name":"Mayskiy",
     "wof:parent_id":1108732931,
     "wof:placetype":"locality",
@@ -98,7 +115,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293573221
+    ],
     "wof:tags":[]
 },
   "bbox": [

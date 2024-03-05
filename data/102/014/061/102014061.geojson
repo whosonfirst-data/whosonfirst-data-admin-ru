@@ -12,6 +12,7 @@
     "gn:latitude":54.34833,
     "gn:longitude":93.43556,
     "iso:country":"RU",
+    "lbl:bbox":"93.4155264882,54.3287355745,93.4555264882,54.3687355745",
     "lbl:latitude":54.357485,
     "lbl:longitude":93.431853,
     "lbl:max_zoom":18.0,
@@ -281,6 +282,7 @@
     "ne:UN_LAT":0.0,
     "ne:UN_LONG":0.0,
     "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
     "qs:a1_lc":"2402400200000",
@@ -295,6 +297,8 @@
     "qs:pop":0,
     "qs:source":"SUnknown",
     "qs:type":"\u0433",
+    "reversegeo:latitude":54.348736,
+    "reversegeo:longitude":93.435526,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth"
@@ -330,13 +334,15 @@
         }
     ],
     "wof:id":102014061,
-    "wof:lastmodified":1690858796,
+    "wof:lastmodified":1706240640,
     "wof:name":"Artemovsk",
     "wof:parent_id":1108734817,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1141907291
+    ],
     "wof:tags":[]
 },
   "bbox": [

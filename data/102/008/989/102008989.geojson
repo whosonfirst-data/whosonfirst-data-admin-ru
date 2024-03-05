@@ -11,7 +11,9 @@
     "geom:longitude":47.259633,
     "gn:id":"6198442,569696",
     "gn:population":446781,
+    "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"47.22739,56.112015,47.26739,56.152015",
     "lbl:latitude":56.13028,
     "lbl:longitude":47.265148,
     "lbl:max_zoom":13.0,
@@ -454,7 +456,18 @@
     "qs:level":"localadmin",
     "qs:loc":"CHEBOKSARY",
     "qs:loc_alt":"\u0427\u0435\u0431\u043e\u043a\u0441\u0430\u0440\u044b",
+    "qs:name":"Cheboksary",
+    "qs:name_adm0":"Russia",
+    "qs:name_adm1":"Chuvashia Republic",
+    "qs:photos":819,
+    "qs:photos_1k":166,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":819,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"SUnknown",
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
@@ -476,9 +489,21 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":569696,
+        "gp:id":1997196,
         "qs_pg:id":349714,
         "wd:id":"Q5470",
         "wk:page":"Cheboksary"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":[
+            1121924
+        ],
+        "wd:id":[
+            "Q5470"
+        ],
+        "wk:page":[
+            "Cheboksary"
+        ]
     },
     "wof:country":"RU",
     "wof:geom_alt":[
@@ -496,7 +521,7 @@
         }
     ],
     "wof:id":102008989,
-    "wof:lastmodified":1690858900,
+    "wof:lastmodified":1706240637,
     "wof:name":"Cheboksary",
     "wof:parent_id":890485969,
     "wof:placetype":"locality",
@@ -504,7 +529,9 @@
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890484463
+    ],
     "wof:tags":[]
 },
   "bbox": [

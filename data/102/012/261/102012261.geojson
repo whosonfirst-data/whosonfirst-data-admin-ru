@@ -9,11 +9,24 @@
     "geom:bbox":"65.788223,55.358387,65.839363,55.381195",
     "geom:latitude":55.36975,
     "geom:longitude":65.813792,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Vargashi",
     "gn:country":"RU",
+    "gn:country_code":"RU",
+    "gn:dem":151,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1487783,
     "gn:id":"1487783,1487784",
+    "gn:latitude":55.37486,
+    "gn:longitude":65.81483,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Vargashi",
     "gn:population":9728,
+    "gn:timezone":"Asia/Yekaterinburg",
     "iso:country":"RU",
+    "lbl:bbox":"65.79483,55.35486,65.83483,55.39486",
     "lbl:latitude":55.370307,
     "lbl:longitude":65.805634,
     "lbl:max_zoom":15.0,
@@ -37,6 +50,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0440\u0433\u0430\u0448\u0456"
+    ],
+    "name:und_x_variant":[
+        "Vargasi"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -76,6 +92,11 @@
         "wd:id":"Q16885485",
         "wk:page":"Vargashi"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1487783
+        ]
+    },
     "wof:country":"RU",
     "wof:geomhash":"7598dc7de7d52abdf8e8bcfe6331439f",
     "wof:hierarchy":[
@@ -89,7 +110,7 @@
         }
     ],
     "wof:id":102012261,
-    "wof:lastmodified":1690858720,
+    "wof:lastmodified":1706240638,
     "wof:name":"Vargashi",
     "wof:parent_id":1108737299,
     "wof:placetype":"locality",
@@ -97,7 +118,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259931437
+    ],
     "wof:tags":[]
 },
   "bbox": [

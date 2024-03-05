@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Medvedevo"
+    ],
+    "name:nor_x_preferred":[
+        "Medvedevo"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0434\u0432\u0435\u0434\u0435\u0432\u043e"
     ],
@@ -44,8 +50,13 @@
     "wof:concordances":{
         "gn:id":528039
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            528040
+        ]
+    },
     "wof:country":"RU",
-    "wof:geomhash":"ea053407042423a78765508123955c94",
+    "wof:geomhash":"38cbf33bbdbd5021d7885e5b59f5ea80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,20 +68,22 @@
         }
     ],
     "wof:id":1326521975,
-    "wof:lastmodified":1566614378,
+    "wof:lastmodified":1706240655,
     "wof:name":"Medvedevo",
     "wof:parent_id":890482625,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326647519
+    ],
     "wof:tags":[]
 },
   "bbox": [
     38.55234,
-    60.99789000000001,
+    60.99789,
     38.55234,
-    60.99789000000001
+    60.99789
 ],
-  "geometry": {"coordinates":[38.55234,60.99789000000001],"type":"Point"}
+  "geometry": {"coordinates":[38.55234,60.99789],"type":"Point"}
 }

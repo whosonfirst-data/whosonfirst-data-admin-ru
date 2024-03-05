@@ -9,11 +9,24 @@
     "geom:bbox":"43.02589,55.93111,43.150112,56.000084",
     "geom:latitude":55.960027,
     "geom:longitude":43.092355,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Pavlovo",
     "gn:country":"RU",
+    "gn:country_code":"RU",
+    "gn:dem":128,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":827329,
     "gn:id":"512089,827329",
+    "gn:latitude":55.9686,
+    "gn:longitude":43.0912,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pavlovo",
     "gn:population":63338,
+    "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"43.0712,55.9486,43.1112,55.9886",
     "lbl:latitude":55.967742,
     "lbl:longitude":43.101766,
     "lbl:max_zoom":18.0,
@@ -216,7 +229,15 @@
         "wk:page":"Pavlovo"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1151695
+        "gn:id":[
+            827329
+        ],
+        "qs_pg:id":[
+            1151695
+        ],
+        "wk:page":[
+            "Pavlovo%2C_Pavlovsky_District%2C_Nizhny_Novgorod_Oblast"
+        ]
     },
     "wof:country":"RU",
     "wof:geom_alt":[
@@ -232,7 +253,7 @@
         }
     ],
     "wof:id":102003037,
-    "wof:lastmodified":1690859063,
+    "wof:lastmodified":1706240632,
     "wof:name":"Pavlovo",
     "wof:parent_id":1108735789,
     "wof:placetype":"locality",
@@ -240,7 +261,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260319091
+    ],
     "wof:tags":[]
 },
   "bbox": [

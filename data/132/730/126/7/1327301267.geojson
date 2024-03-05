@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"36.85508,54.87568,36.85508,54.87568",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:nor_x_preferred":[
         "Altukhovo"
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":1327301267,
-    "wof:lastmodified":1566612916,
+    "wof:lastmodified":1706240642,
     "wof:name":"Altukhovo",
     "wof:parent_id":1108738169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890483879
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

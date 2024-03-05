@@ -9,9 +9,21 @@
     "geom:bbox":"83.9048,53.4461,83.9048,53.4461",
     "geom:latitude":53.4461,
     "geom:longitude":83.9048,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Beloyarsk",
     "gn:country":"RU",
+    "gn:country_code":"RU",
+    "gn:dem":135,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1510454,
+    "gn:latitude":53.4461,
+    "gn:longitude":83.9048,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Beloyarsk",
     "gn:population":10733,
+    "gn:timezone":"Asia/Barnaul",
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:bbox":"83.8848,53.4261,83.9248,53.4661",
@@ -72,7 +84,12 @@
         "wk:page":"Beloyarsk"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":886354
+        "gn:id":[
+            1510454
+        ],
+        "qs_pg:id":[
+            886354
+        ]
     },
     "wof:country":"RU",
     "wof:created":1469054434,
@@ -91,7 +108,7 @@
         }
     ],
     "wof:id":890482769,
-    "wof:lastmodified":1582330513,
+    "wof:lastmodified":1706240641,
     "wof:name":"Beloyarsk",
     "wof:parent_id":1108735483,
     "wof:placetype":"locality",
@@ -99,7 +116,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293493565
+    ],
     "wof:tags":[]
 },
   "bbox": [

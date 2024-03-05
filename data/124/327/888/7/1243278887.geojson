@@ -9,6 +9,7 @@
     "geom:bbox":"44.06668,54.41294,44.06668,54.41294",
     "geom:latitude":54.41294,
     "geom:longitude":44.06668,
+    "gn:admin1_code":"46.0",
     "gn:asciiname":"Privol'ye",
     "gn:country_code":"RU",
     "gn:dem":123,
@@ -28,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0432\u043e\u043b\u044c\u0435"
+    ],
+    "name:und_x_variant":[
+        "Privol\u2019ye"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85687873,
@@ -39,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6544966
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6845973
+        ]
     },
     "wof:country":"RU",
     "wof:geomhash":"ce0c154ba193d7a9762dd11458bef443",
@@ -53,13 +65,15 @@
         }
     ],
     "wof:id":1243278887,
-    "wof:lastmodified":1566632970,
+    "wof:lastmodified":1706240648,
     "wof:name":"Privol'ye",
     "wof:parent_id":1108734735,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326757945
+    ],
     "wof:tags":[]
 },
   "bbox": [

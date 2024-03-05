@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"50.10816,55.46808,50.10816,55.46808",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041f\u0430\u043b\u044f\u043d\u043a\u0430"
@@ -63,7 +65,7 @@
         "gn:id":506813
     },
     "wof:country":"RU",
-    "wof:geomhash":"b998df7e796cc5d740d909402e89c460",
+    "wof:geomhash":"c5ded29c83ba5e6859315c33893b23fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,20 +77,22 @@
         }
     ],
     "wof:id":1326555325,
-    "wof:lastmodified":1566614312,
+    "wof:lastmodified":1706240645,
     "wof:name":"Polyanka",
     "wof:parent_id":1108736341,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1225871781
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     50.10816,
-    55.46808000000001,
+    55.46808,
     50.10816,
-    55.46808000000001
+    55.46808
 ],
-  "geometry": {"coordinates":[50.10816,55.46808000000001],"type":"Point"}
+  "geometry": {"coordinates":[50.10816,55.46808],"type":"Point"}
 }

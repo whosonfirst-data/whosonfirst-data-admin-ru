@@ -11,11 +11,16 @@
     "geom:longitude":40.545,
     "gn:country":"RU",
     "gn:fcode":"PPL",
+    "gn:id":"575457,809033",
     "gn:population":15048,
     "iso:country":"RU",
     "lbl:bbox":"40.525,49.91577,40.565,49.95577",
+    "lbl:latitude":49.946375,
+    "lbl:longitude":40.566673,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
+    "mps:latitude":49.946375,
+    "mps:longitude":40.566673,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
@@ -142,10 +147,25 @@
     "name:zho_x_preferred":[
         "\u535a\u53e4\u6070\u723e"
     ],
+    "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
+    "qs:a1":"*\u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+    "qs:a1_lc":"3600400100000",
+    "qs:a1r":"*",
+    "qs:a2":"\u0411\u043e\u0433\u0443\u0447\u0430\u0440\u0441\u043a\u0438\u0439",
+    "qs:adm0":"Russia",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"localadmin",
+    "qs:loc":"BOGUCHAR",
+    "qs:loc_alt":"\u0411\u043e\u0433\u0443\u0447\u0430\u0440",
     "qs:name":"Boguchar",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
+    "qs:pop":0,
     "qs:pop_sr":"6",
+    "qs:source":"SUnknown",
+    "qs:type":"\u0433",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":"49.933333333",
     "wd:longitude":"40.55",
@@ -165,6 +185,14 @@
         "wd:id":"Q105264",
         "wk:page":"Boguchar"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2115677
+        ],
+        "wd:id":[
+            "Q105264"
+        ]
+    },
     "wof:country":"RU",
     "wof:created":1469054255,
     "wof:geomhash":"ae7df4fc2702cc4530e256b28b4a1a6f",
@@ -179,7 +207,7 @@
         }
     ],
     "wof:id":890479671,
-    "wof:lastmodified":1690859984,
+    "wof:lastmodified":1706240641,
     "wof:name":"Boguchar",
     "wof:parent_id":1108733045,
     "wof:placetype":"locality",
@@ -187,7 +215,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1175613569
+    ],
     "wof:tags":[]
 },
   "bbox": [

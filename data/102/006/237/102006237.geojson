@@ -9,11 +9,24 @@
     "geom:bbox":"35.976105,50.583462,36.060856,50.620327",
     "geom:latitude":50.601005,
     "geom:longitude":36.018093,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Borisovka",
     "gn:country":"RU",
+    "gn:country_code":"RU",
+    "gn:dem":140,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":572500,
     "gn:id":"572500,805775",
+    "gn:latitude":50.60155,
+    "gn:longitude":36.01549,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Borisovka",
     "gn:population":14253,
+    "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"35.99549,50.58155,36.03549,50.62155",
     "lbl:latitude":50.601527,
     "lbl:longitude":36.018093,
     "lbl:max_zoom":15.0,
@@ -65,7 +78,13 @@
     "name:ita_x_preferred":[
         "Borisovka"
     ],
+    "name:lav_x_preferred":[
+        "Borisovka"
+    ],
     "name:nld_x_preferred":[
+        "Borisovka"
+    ],
+    "name:nor_x_preferred":[
         "Borisovka"
     ],
     "name:pol_x_preferred":[
@@ -85,6 +104,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bohsouka"
     ],
     "name:zho_x_preferred":[
         "\u9c8d\u91cc\u7d22\u592b\u5361"
@@ -130,7 +152,12 @@
         "wk:page":"Borisovka"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":870326
+        "gn:id":[
+            572500
+        ],
+        "qs_pg:id":[
+            870326
+        ]
     },
     "wof:country":"RU",
     "wof:geom_alt":[
@@ -148,7 +175,7 @@
         }
     ],
     "wof:id":102006237,
-    "wof:lastmodified":1690858946,
+    "wof:lastmodified":1706240635,
     "wof:name":"Borisovka",
     "wof:parent_id":890478353,
     "wof:placetype":"locality",
@@ -156,7 +183,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226326415
+    ],
     "wof:tags":[]
 },
   "bbox": [

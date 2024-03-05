@@ -38,6 +38,10 @@
     "name:rus_x_preferred":[
         "\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f"
     ],
+    "name:und_x_variant":[
+        "Ivanovskaya Pervaya",
+        "Ivanovskaya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632685
@@ -45,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":555264
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            555234
+        ]
     },
     "wof:country":"RU",
     "wof:geomhash":"f1f410be134c14ff790f4cedfa51a7fa",
@@ -55,13 +64,15 @@
         }
     ],
     "wof:id":1209168465,
-    "wof:lastmodified":1566624756,
+    "wof:lastmodified":1706240644,
     "wof:name":"Ivanovskaya",
     "wof:parent_id":85632685,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327179355
+    ],
     "wof:tags":[]
 },
   "bbox": [

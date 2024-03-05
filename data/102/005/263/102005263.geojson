@@ -9,8 +9,13 @@
     "geom:bbox":"41.427727,51.83226,41.494976,51.886547",
     "geom:latitude":51.860342,
     "geom:longitude":41.460278,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:id":"463217,463216",
+    "gn:population":16019,
+    "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"41.44056,51.82861,41.48056,51.86861",
     "lbl:latitude":51.857916,
     "lbl:longitude":41.451362,
     "lbl:max_zoom":18.0,
@@ -101,6 +106,9 @@
     "name:nob_x_preferred":[
         "Zjerdevka"
     ],
+    "name:nor_x_preferred":[
+        "Zjerdevka"
+    ],
     "name:oss_x_preferred":[
         "\u0416\u0435\u0440\u0434\u0435\u0432\u043a\u00e6"
     ],
@@ -128,6 +136,9 @@
     "name:ukr_x_preferred":[
         "\u0416\u0435\u0440\u0434\u0454\u0432\u043a\u0430"
     ],
+    "name:und_x_variant":[
+        "Chibisovka"
+    ],
     "name:vep_x_preferred":[
         "\u017derdevk"
     ],
@@ -151,12 +162,20 @@
     "qs:level":"localadmin",
     "qs:loc":"ZHERDEVKA",
     "qs:loc_alt":"\u0416\u0435\u0440\u0434\u0435\u0432\u043a\u0430",
+    "qs:name":"Zherdevka",
+    "qs:name_adm0":"Russia",
+    "qs:name_adm1":"Tambov Oblast",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"6",
     "qs:source":"SUnknown",
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":50,
     "wof:belongsto":[
         85687829,
@@ -167,8 +186,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":463217,
         "gp:id":1995918,
-        "wd:id":"Q136223"
+        "qs_pg:id":1306012,
+        "wd:id":"Q136223",
+        "wk:page":"Zherdevka"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2124602
+        ],
+        "wd:id":[
+            "Q136223"
+        ]
     },
     "wof:country":"RU",
     "wof:geomhash":"197db97e2f29f8bb96dd5f462ce698c7",
@@ -183,13 +213,17 @@
         }
     ],
     "wof:id":102005263,
-    "wof:lastmodified":1690859143,
+    "wof:lastmodified":1706240634,
     "wof:name":"Zherdevka",
     "wof:parent_id":1108738097,
     "wof:placetype":"locality",
+    "wof:population":16019,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890485861
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -11,6 +11,7 @@
     "geom:longitude":33.73567,
     "gn:admin1_code":"28",
     "gn:asciiname":"Mikhaylovskoye",
+    "gn:cc2":"RU",
     "gn:country_code":"RU",
     "gn:dem":98,
     "gn:feature_class":"P",
@@ -29,8 +30,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Mikhaylovskoye"
+    ],
     "name:fin_x_preferred":[
         "Kuuj\u00e4rvi"
+    ],
+    "name:nor_x_preferred":[
+        "Mikhajlovskoje"
     ],
     "name:olo_x_preferred":[
         "Kuuj\u00e4rvi"
@@ -55,6 +62,11 @@
     "wof:concordances":{
         "gn:id":477836
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            526808
+        ]
+    },
     "wof:country":"RU",
     "wof:geomhash":"36ec848986a23a9f6deb731f9243914e",
     "wof:hierarchy":[
@@ -68,13 +80,15 @@
         }
     ],
     "wof:id":1276723103,
-    "wof:lastmodified":1566621106,
+    "wof:lastmodified":1706240652,
     "wof:name":"Mikhaylovskoye",
     "wof:parent_id":1108735671,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343612333
+    ],
     "wof:tags":[]
 },
   "bbox": [

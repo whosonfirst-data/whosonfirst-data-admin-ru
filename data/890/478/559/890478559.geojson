@@ -9,9 +9,21 @@
     "geom:bbox":"59.86694,56.61556,59.86694,56.61556",
     "geom:latitude":56.61556,
     "geom:longitude":59.86694,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Mariinsk",
     "gn:country":"RU",
+    "gn:country_code":"RU",
+    "gn:dem":348,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":529349,
+    "gn:latitude":56.61556,
+    "gn:longitude":59.86694,
+    "gn:modification_date":"2012-07-26",
+    "gn:name":"Mariinsk",
     "gn:population":580,
+    "gn:timezone":"Asia/Yekaterinburg",
     "iso:country":"RU",
     "lbl:bbox":"59.84694,56.59556,59.88694,56.63556",
     "lbl:max_zoom":17.0,
@@ -177,7 +189,12 @@
         "wk:page":"Mariinsk"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1124644
+        "gn:id":[
+            529349
+        ],
+        "qs_pg:id":[
+            1124644
+        ]
     },
     "wof:country":"RU",
     "wof:created":1469054192,
@@ -196,7 +213,7 @@
         }
     ],
     "wof:id":890478559,
-    "wof:lastmodified":1636497258,
+    "wof:lastmodified":1706240641,
     "wof:name":"Mariinsk",
     "wof:parent_id":890482283,
     "wof:placetype":"locality",
@@ -204,7 +221,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276802025
+    ],
     "wof:tags":[]
 },
   "bbox": [

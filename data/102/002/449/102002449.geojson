@@ -9,8 +9,13 @@
     "geom:bbox":"19.888334,54.630527,19.963278,54.662445",
     "geom:latitude":54.644365,
     "geom:longitude":19.924412,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:id":"2609906,3233366",
+    "gn:population":34540,
+    "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"19.89104,54.63382,19.93104,54.67382",
     "lbl:latitude":54.645917,
     "lbl:longitude":19.921374,
     "lbl:max_zoom":18.0,
@@ -63,6 +68,9 @@
         "Baltijsk"
     ],
     "name:deu_x_preferred":[
+        "Baltijsk"
+    ],
+    "name:deu_x_variant":[
         "Baltijsk"
     ],
     "name:diq_x_preferred":[
@@ -128,8 +136,14 @@
     "name:lav_x_preferred":[
         "Baltijska"
     ],
+    "name:lit_x_historical":[
+        "Piliava"
+    ],
     "name:lit_x_preferred":[
         "Piliava"
+    ],
+    "name:lit_x_variant":[
+        "Baltijskas"
     ],
     "name:nan_x_preferred":[
         "Baltiysk"
@@ -217,12 +231,24 @@
     "qs:level":"localadmin",
     "qs:loc":"BALTIYSK",
     "qs:loc_alt":"\u0411\u0430\u043b\u0442\u0438\u0439\u0441\u043a",
+    "qs:name":"Baltiysk",
+    "qs:name_adm0":"Russia",
+    "qs:name_adm1":"Kaliningrad Oblast",
+    "qs:photos":640,
+    "qs:photos_1k":130,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":640,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"7",
     "qs:source":"SUnknown",
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:latitude":54.65,
     "wd:longitude":19.916667,
     "wd:wordcount":1649,
@@ -235,8 +261,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2609906,
         "gp:id":2126041,
-        "wd:id":"Q5660"
+        "qs_pg:id":461277,
+        "wd:id":"Q5660",
+        "wk:page":"Baltiysk"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2126041
+        ],
+        "wd:id":[
+            "Q5660"
+        ]
     },
     "wof:country":"RU",
     "wof:geomhash":"5f964f3d4d0d713a4cfed2a74a57d25f",
@@ -251,13 +288,17 @@
         }
     ],
     "wof:id":102002449,
-    "wof:lastmodified":1690859159,
+    "wof:lastmodified":1706240632,
     "wof:name":"Baltiysk",
     "wof:parent_id":1108732885,
     "wof:placetype":"locality",
+    "wof:population":34540,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890482975
+    ],
     "wof:tags":[]
 },
   "bbox": [

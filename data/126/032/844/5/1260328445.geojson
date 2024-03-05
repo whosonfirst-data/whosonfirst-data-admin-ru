@@ -50,8 +50,13 @@
     "wof:concordances":{
         "gn:id":568758
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6312371
+        ]
+    },
     "wof:country":"RU",
-    "wof:geomhash":"6e52a120885fa69e6685534d7700d4a5",
+    "wof:geomhash":"d1a6d6fb39c588a380a2d7c6e9ee7417",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1260328445,
-    "wof:lastmodified":1566626758,
+    "wof:lastmodified":1706240650,
     "wof:name":"Chernoretskiy",
     "wof:parent_id":1108733347,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326574883
+    ],
     "wof:tags":[]
 },
   "bbox": [
     48.11241,
-    59.18004000000001,
+    59.18004,
     48.11241,
-    59.18004000000001
+    59.18004
 ],
-  "geometry": {"coordinates":[48.11241,59.18004000000001],"type":"Point"}
+  "geometry": {"coordinates":[48.11241,59.18004],"type":"Point"}
 }

@@ -12,7 +12,9 @@
     "gn:latitude":54.5293,
     "gn:longitude":36.27542,
     "gn:population":338978,
+    "gp:adm0":23424936,
     "iso:country":"RU",
+    "lbl:bbox":"36.221743,54.497594,36.261743,54.537594",
     "lbl:latitude":54.524195,
     "lbl:longitude":36.281722,
     "lbl:max_zoom":13.0,
@@ -440,7 +442,18 @@
     "qs:level":"localadmin",
     "qs:loc":"KALUGA",
     "qs:loc_alt":"\u041a\u0430\u043b\u0443\u0433\u0430",
+    "qs:name":"Kaluga",
+    "qs:name_adm0":"Russia",
+    "qs:name_adm1":"Kaluga Oblast",
+    "qs:photos":1421,
+    "qs:photos_1k":288,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1421,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"SUnknown",
     "qs:type":"\u0433",
     "src:geom":"quattroshapes",
@@ -467,6 +480,20 @@
         "wd:id":"Q2837",
         "wk:page":"Kaluga"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2121137
+        ],
+        "qs_pg:id":[
+            1200037
+        ],
+        "wd:id":[
+            "Q2837"
+        ],
+        "wk:page":[
+            "Kaluga"
+        ]
+    },
     "wof:country":"RU",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -483,7 +510,7 @@
         }
     ],
     "wof:id":102003767,
-    "wof:lastmodified":1690859069,
+    "wof:lastmodified":1706240632,
     "wof:name":"Kaluga",
     "wof:parent_id":890485909,
     "wof:placetype":"locality",
@@ -491,7 +518,9 @@
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890479741
+    ],
     "wof:tags":[]
 },
   "bbox": [

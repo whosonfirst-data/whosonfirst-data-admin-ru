@@ -9,9 +9,22 @@
     "geom:bbox":"36.698528,55.35836,36.784416,55.413113",
     "geom:latitude":55.384687,
     "geom:longitude":36.736667,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Naro-Fominsk",
+    "gn:country_code":"RU",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":818537,
     "gn:id":"818537,523426",
+    "gn:latitude":55.39338,
+    "gn:longitude":36.73326,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naro-Fominsk",
     "gn:population":72632,
+    "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"36.71326,55.37338,36.75326,55.41338",
     "lbl:latitude":55.385498,
     "lbl:longitude":36.728899,
     "lbl:max_zoom":14.0,
@@ -221,6 +234,11 @@
         "wd:id":"Q164001",
         "wk:page":"Naro-Fominsk"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            818537
+        ]
+    },
     "wof:country":"RU",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -237,7 +255,7 @@
         }
     ],
     "wof:id":102003401,
-    "wof:lastmodified":1690859057,
+    "wof:lastmodified":1706240632,
     "wof:name":"Naro-Fominsk",
     "wof:parent_id":890487147,
     "wof:placetype":"locality",
@@ -245,7 +263,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226075503
+    ],
     "wof:tags":[]
 },
   "bbox": [

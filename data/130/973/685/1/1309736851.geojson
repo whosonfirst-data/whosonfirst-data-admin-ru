@@ -35,6 +35,9 @@
     "name:rus_x_preferred":[
         "\u0410\u0440\u044b\u043f-\u041c\u0443\u0440\u0437\u0430"
     ],
+    "name:und_x_variant":[
+        "Aryp-Murza"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85688043,
@@ -46,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6314934
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            580728
+        ]
     },
     "wof:country":"RU",
     "wof:geomhash":"a2124fc7b70260a69bfa3e17dad52325",
@@ -60,13 +68,15 @@
         }
     ],
     "wof:id":1309736851,
-    "wof:lastmodified":1566630331,
+    "wof:lastmodified":1706240654,
     "wof:name":"Aryp-Murza",
     "wof:parent_id":1108735059,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327259499
+    ],
     "wof:tags":[]
 },
   "bbox": [

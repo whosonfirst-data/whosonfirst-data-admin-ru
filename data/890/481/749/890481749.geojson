@@ -9,9 +9,21 @@
     "geom:bbox":"33.02288,60.99425,33.02288,60.99425",
     "geom:latitude":60.99425,
     "geom:longitude":33.02288,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Verkhov'ye",
     "gn:country":"RU",
+    "gn:country_code":"RU",
+    "gn:dem":21,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":828691,
+    "gn:latitude":60.99333,
+    "gn:longitude":33.02,
+    "gn:modification_date":"1998-02-11",
+    "gn:name":"Verkhov\u2019ye",
     "gn:population":0,
+    "gn:timezone":"Europe/Moscow",
     "gp:adm0":23424936,
     "iso:country":"RU",
     "lbl:bbox":"33.00288,60.97425,33.04288,61.01425",
@@ -56,6 +68,11 @@
         "gp:id":2105900,
         "qs_pg:id":384060
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            828691
+        ]
+    },
     "wof:country":"RU",
     "wof:created":1469054373,
     "wof:geomhash":"dacf2ea4dbde4c33ed33c142fba27b0c",
@@ -70,14 +87,16 @@
         }
     ],
     "wof:id":890481749,
-    "wof:lastmodified":1566630807,
+    "wof:lastmodified":1706240641,
     "wof:name":"Verkhov'ye",
     "wof:parent_id":1108735671,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310548495
+    ],
     "wof:tags":[]
 },
   "bbox": [

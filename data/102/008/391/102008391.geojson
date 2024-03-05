@@ -6,11 +6,25 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000254,
     "geom:area_square_m":1657484.354063,
-    "geom:bbox":"52.3423881531,58.1701660156,52.369972229,58.1837501526",
+    "geom:bbox":"52.342388,58.170166,52.369972,58.18375",
     "geom:latitude":58.177854,
     "geom:longitude":52.356144,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Dzyakino",
+    "gn:country_code":"RU",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":563573,
     "gn:id":"563573,563574",
+    "gn:latitude":58.18001,
+    "gn:longitude":52.35041,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dzyakino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Samara",
     "iso:country":"RU",
+    "lbl:bbox":"52.33041,58.16001,52.37041,58.20001",
     "lbl:latitude":58.176986,
     "lbl:longitude":52.356144,
     "lbl:max_zoom":18.0,
@@ -20,6 +34,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Dzyakino"
+    ],
+    "name:nor_x_preferred":[
+        "Dziakino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0437\u044f\u043a\u0438\u043d\u043e"
+    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0423\u0434\u043c\u0443\u0440\u0442\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
     "qs:a1_lc":"1802600001300",
@@ -46,10 +69,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":563573,
         "gp:id":2004285
     },
     "wof:country":"RU",
-    "wof:geomhash":"701087c50224a769c8e277ef62ba3206",
+    "wof:geomhash":"c0f0fa01ec8e167ea459c151eab1a2c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,20 +85,22 @@
         }
     ],
     "wof:id":102008391,
-    "wof:lastmodified":1566615257,
+    "wof:lastmodified":1706240636,
     "wof:name":"Dzyakino",
     "wof:parent_id":890480595,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209649659
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    52.34238815307617,
-    58.170166015625,
-    52.36997222900391,
-    58.18375015258789
+    52.342388,
+    58.170166,
+    52.369972,
+    58.18375
 ],
-  "geometry": {"coordinates":[[[52.34352874755859,58.17922210693359],[52.34238815307617,58.18050003051758],[52.34308242797852,58.18280410766602],[52.36897277832031,58.18375015258789],[52.36997222900391,58.18194580078125],[52.36430740356445,58.17636108398438],[52.36513900756836,58.17311096191406],[52.36547088623047,58.17180633544922],[52.35174942016602,58.170166015625],[52.34352874755859,58.17922210693359]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[52.343529,58.179222],[52.342388,58.1805],[52.343082,58.182804],[52.368973,58.18375],[52.369972,58.181946],[52.364307,58.176361],[52.365139,58.173111],[52.365471,58.171806],[52.351749,58.170166],[52.343529,58.179222]]],"type":"Polygon"}
 }

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"96.41934,57.19287,96.41934,57.19287",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041f\u043e\u0447\u0435\u0442"
@@ -51,7 +53,7 @@
         "gn:id":1494808
     },
     "wof:country":"RU",
-    "wof:geomhash":"6263fa5ed7dc37fb953c0d1328dfee4b",
+    "wof:geomhash":"2fb39466e2d76f2efb4dc3c2aebf045d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,20 +65,22 @@
         }
     ],
     "wof:id":1327468063,
-    "wof:lastmodified":1566613862,
+    "wof:lastmodified":1706240655,
     "wof:name":"Pochet",
     "wof:parent_id":1108732591,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1327064721
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     96.41934,
-    57.19286999999999,
+    57.19287,
     96.41934,
-    57.19286999999999
+    57.19287
 ],
-  "geometry": {"coordinates":[96.41934000000001,57.19286999999999],"type":"Point"}
+  "geometry": {"coordinates":[96.41934000000001,57.19287],"type":"Point"}
 }

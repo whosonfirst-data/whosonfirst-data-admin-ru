@@ -6,11 +6,15 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000466,
     "geom:area_square_m":3407271.216534,
-    "geom:bbox":"39.2367515564,53.7711677551,39.2685279846,53.7923622131",
+    "geom:bbox":"39.236752,53.771168,39.268528,53.792362",
     "geom:latitude":53.782069,
     "geom:longitude":39.252003,
+    "gn:country":"RU",
+    "gn:fcode":"PPL",
     "gn:id":"512255,512254",
+    "gn:population":2152,
     "iso:country":"RU",
+    "lbl:bbox":"39.22601,53.76833,39.26601,53.80833",
     "lbl:latitude":53.782007,
     "lbl:longitude":39.252003,
     "lbl:max_zoom":18.0,
@@ -26,11 +30,20 @@
     "name:che_x_preferred":[
         "\u041f\u0430\u0432\u0435\u043b\u0435\u0446"
     ],
+    "name:eng_x_preferred":[
+        "Pavelets"
+    ],
     "name:hye_x_preferred":[
         "\u054a\u0561\u057e\u0565\u056c\u0565\u0581"
     ],
+    "name:nor_x_preferred":[
+        "Pavelets"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0432\u0435\u043b\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Paveletskiy"
     ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
@@ -43,12 +56,17 @@
     "qs:level":"localadmin",
     "qs:loc":"PAVELETS",
     "qs:loc_alt":"\u041f\u0430\u0432\u0435\u043b\u0435\u0446",
+    "qs:name":"Pavelets",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
     "qs:pop":0,
+    "qs:pop_sr":"4",
     "qs:source":"SUnknown",
     "qs:type":"\u0441",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wof:belongsto":[
         85687963,
         102191581,
@@ -58,10 +76,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":2122766
+        "gn:id":512255,
+        "gp:id":2122766,
+        "qs_pg:id":549378
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2122766
+        ]
     },
     "wof:country":"RU",
-    "wof:geomhash":"b31970f964cd2b885cbb1a9d5fab1b51",
+    "wof:geomhash":"879b7bbdb2e0d01cc7711b2ce2908d8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,20 +98,24 @@
         }
     ],
     "wof:id":102004157,
-    "wof:lastmodified":1566615567,
+    "wof:lastmodified":1706240633,
     "wof:name":"Pavelets",
     "wof:parent_id":1108736637,
     "wof:placetype":"locality",
+    "wof:population":2152,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890487859
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    39.23675155639648,
-    53.77116775512695,
-    39.26852798461914,
-    53.79236221313477
+    39.236752,
+    53.771168,
+    39.268528,
+    53.792362
 ],
-  "geometry": {"coordinates":[[[39.24366760253906,53.79172134399414],[39.25569534301758,53.79236221313477],[39.2603874206543,53.79158401489258],[39.26852798461914,53.7767219543457],[39.25347137451172,53.77227783203125],[39.24966812133789,53.77116775512695],[39.23772048950195,53.77585983276367],[39.23675155639648,53.77813720703125],[39.2418327331543,53.78239059448242],[39.23877716064453,53.79144287109375],[39.24080657958984,53.79155731201172],[39.24366760253906,53.79172134399414]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[39.243668,53.791721],[39.255695,53.792362],[39.260387,53.791584],[39.268528,53.776722],[39.253471,53.772278],[39.249668,53.771168],[39.23772,53.77586],[39.236752,53.778137],[39.241833,53.782391],[39.238777,53.791443],[39.240807,53.791557],[39.243668,53.791721]]],"type":"Polygon"}
 }

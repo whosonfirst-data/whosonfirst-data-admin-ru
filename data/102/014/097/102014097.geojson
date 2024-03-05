@@ -9,8 +9,22 @@
     "geom:bbox":"102.018661,54.086098,102.053917,54.115208",
     "geom:latitude":54.100358,
     "geom:longitude":102.03729,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Perevoz",
+    "gn:country_code":"RU",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2050832,
     "gn:id":"2052155,2050832",
+    "gn:latitude":54.105,
+    "gn:longitude":102.0431,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Perevoz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Irkutsk",
     "iso:country":"RU",
+    "lbl:bbox":"102.0231,54.085,102.0631,54.125",
     "lbl:latitude":54.108006,
     "lbl:longitude":102.031414,
     "lbl:max_zoom":18.0,
@@ -28,6 +42,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054a\u0565\u0580\u0587\u0578\u0566"
+    ],
+    "name:nor_x_preferred":[
+        "Perevoz"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0440\u0435\u0432\u043e\u0437"
@@ -62,6 +79,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2050832,
         "gp:id":2064200,
         "wd:id":"Q7167906"
     },
@@ -78,13 +96,15 @@
         }
     ],
     "wof:id":102014097,
-    "wof:lastmodified":1690858783,
+    "wof:lastmodified":1706240640,
     "wof:name":"Perevoz",
     "wof:parent_id":1108738241,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310675421
+    ],
     "wof:tags":[]
 },
   "bbox": [

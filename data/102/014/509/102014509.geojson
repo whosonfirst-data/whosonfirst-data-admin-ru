@@ -9,11 +9,24 @@
     "geom:bbox":"115.16925,52.680611,115.197113,52.691639",
     "geom:latitude":52.686238,
     "geom:longitude":115.183365,
+    "gn:admin1_code":"93",
+    "gn:asciiname":"Verkh-Usugli",
     "gn:country":"RU",
+    "gn:country_code":"RU",
+    "gn:dem":665,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2013460,
     "gn:id":"2013459,2013460",
+    "gn:latitude":52.6864,
+    "gn:longitude":115.18607,
+    "gn:modification_date":"2017-03-11",
+    "gn:name":"Verkh-Usugli",
     "gn:population":2573,
+    "gn:timezone":"Asia/Chita",
     "iso:country":"RU",
+    "lbl:bbox":"115.16607,52.6664,115.20607,52.7064",
     "lbl:latitude":52.686038,
     "lbl:longitude":115.183365,
     "lbl:max_zoom":15.0,
@@ -23,6 +36,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0631\u0643-\u0648\u0633\u0648\u063a\u0644\u064a"
+    ],
     "name:bel_x_preferred":[
         "\u0422\u0443\u043d\u0433\u0430\u043a\u043e\u0447\u0430\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -59,11 +75,19 @@
     "name:nld_x_preferred":[
         "Toengokotsjenskiy rayon"
     ],
+    "name:nor_x_preferred":[
+        "Verkh.Usugli"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0443\u043d\u0433\u043e\u043a\u043e\u0447\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0443\u043d\u0433\u043e\u043a\u043e\u0447\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:und_x_variant":[
+        "Verkhnyaya Usugli",
+        "Verkhne-Usugli",
+        "Verkhniye Usugli"
     ],
     "name:vie_x_preferred":[
         "Tungokochensky"
@@ -108,6 +132,11 @@
         "wd:id":"Q2218440",
         "wk:page":"Tungokochensky District"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2013460
+        ]
+    },
     "wof:country":"RU",
     "wof:geomhash":"1c1bdcbb913b7e663a2953475168ca44",
     "wof:hierarchy":[
@@ -121,7 +150,7 @@
         }
     ],
     "wof:id":102014509,
-    "wof:lastmodified":1690858791,
+    "wof:lastmodified":1706240640,
     "wof:name":"Verkh-Usugli",
     "wof:parent_id":1108737109,
     "wof:placetype":"locality",
@@ -129,7 +158,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1193154065
+    ],
     "wof:tags":[]
 },
   "bbox": [

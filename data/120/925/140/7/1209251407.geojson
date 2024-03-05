@@ -43,8 +43,13 @@
     "wof:concordances":{
         "gn:id":6843123
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6842951
+        ]
+    },
     "wof:country":"RU",
-    "wof:geomhash":"9d2f167d4eb7aa82ec61bb749cfe2eac",
+    "wof:geomhash":"246053ed0e1f7d0cb47d3949c5e12e69",
     "wof:hierarchy":[
         {
             "country_id":85632685,
@@ -52,20 +57,22 @@
         }
     ],
     "wof:id":1209251407,
-    "wof:lastmodified":1566624035,
+    "wof:lastmodified":1706240644,
     "wof:name":"Pospelova",
     "wof:parent_id":85632685,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309742405
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    62.36281999999999,
+    62.36282,
     59.4321,
-    62.36281999999999,
+    62.36282,
     59.4321
 ],
-  "geometry": {"coordinates":[62.36281999999999,59.4321],"type":"Point"}
+  "geometry": {"coordinates":[62.36282,59.4321],"type":"Point"}
 }

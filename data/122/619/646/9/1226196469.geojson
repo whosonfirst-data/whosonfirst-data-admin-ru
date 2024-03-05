@@ -50,8 +50,13 @@
     "wof:concordances":{
         "gn:id":492258
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            492259
+        ]
+    },
     "wof:country":"RU",
-    "wof:geomhash":"ad954b411d117d095c9610ad48ab92ef",
+    "wof:geomhash":"8604f40a715332e7a09c2d88f99a262a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1226196469,
-    "wof:lastmodified":1566634746,
+    "wof:lastmodified":1706240646,
     "wof:name":"Skryabino",
     "wof:parent_id":1108735905,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293648413
+    ],
     "wof:tags":[]
 },
   "bbox": [
     47.89676,
-    60.13146999999999,
+    60.13147,
     47.89676,
-    60.13146999999999
+    60.13147
 ],
-  "geometry": {"coordinates":[47.89676,60.13146999999999],"type":"Point"}
+  "geometry": {"coordinates":[47.89676,60.13147],"type":"Point"}
 }

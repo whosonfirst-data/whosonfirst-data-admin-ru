@@ -9,11 +9,24 @@
     "geom:bbox":"36.972557,45.178612,37.021305,45.199085",
     "geom:latitude":45.18839,
     "geom:longitude":36.996825,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Vyshestebliyevskaya",
     "gn:country":"RU",
+    "gn:country_code":"RU",
+    "gn:dem":10,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":470291,
     "gn:id":"797083,470291",
+    "gn:latitude":45.1968,
+    "gn:longitude":37.0036,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Vyshestebliyevskaya",
     "gn:population":4312,
+    "gn:timezone":"Europe/Moscow",
     "iso:country":"RU",
+    "lbl:bbox":"36.9836,45.1768,37.0236,45.2168",
     "lbl:latitude":45.188316,
     "lbl:longitude":36.996825,
     "lbl:max_zoom":15.0,
@@ -71,6 +84,9 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0448\u0435\u0441\u0442\u0435\u0431\u043b\u0456\u0454\u0432\u0441\u044c\u043a\u0430"
     ],
+    "name:und_x_variant":[
+        "Wyschesteblijewskaja"
+    ],
     "qs:a0":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
     "qs:a1":"*\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
     "qs:a1_lc":"2303300001200",
@@ -109,6 +125,14 @@
         "wd:id":"Q1974379",
         "wk:page":"Vyshestebliyevskaya"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            470291
+        ],
+        "wk:page":[
+            "Vyshestebliyevskaya"
+        ]
+    },
     "wof:country":"RU",
     "wof:geomhash":"e80b9830a83a8f4d5c699b4ea8c2ac98",
     "wof:hierarchy":[
@@ -122,7 +146,7 @@
         }
     ],
     "wof:id":102007995,
-    "wof:lastmodified":1690858819,
+    "wof:lastmodified":1706240636,
     "wof:name":"Vyshestebliyevskaya",
     "wof:parent_id":1108736977,
     "wof:placetype":"locality",
@@ -130,7 +154,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326981313
+    ],
     "wof:tags":[]
 },
   "bbox": [

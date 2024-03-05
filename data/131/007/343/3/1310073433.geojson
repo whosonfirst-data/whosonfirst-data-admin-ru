@@ -36,6 +36,9 @@
         "\u0418\u043b\u044c\u043a\u043e\u0432",
         "Ll\u2019kov"
     ],
+    "name:und_x_variant":[
+        "Il\u2019kov"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85687953,
@@ -47,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":804056
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            557044
+        ]
     },
     "wof:country":"RU",
     "wof:geomhash":"92ad24472d3abf3214bac7b964bcea82",
@@ -61,13 +69,15 @@
         }
     ],
     "wof:id":1310073433,
-    "wof:lastmodified":1566628016,
+    "wof:lastmodified":1706240654,
     "wof:name":"Il'kov",
     "wof:parent_id":1108735033,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344015635
+    ],
     "wof:tags":[]
 },
   "bbox": [

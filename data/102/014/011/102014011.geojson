@@ -9,8 +9,22 @@
     "geom:bbox":"90.939323,54.978588,90.97876,55.015503",
     "geom:latitude":54.997336,
     "geom:longitude":90.958632,
+    "gn:admin1_code":"91",
+    "gn:asciiname":"Novoselovo",
+    "gn:country_code":"RU",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1496780,
     "gn:id":"1496770,1496780",
+    "gn:latitude":55.0025,
+    "gn:longitude":90.96639,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"Novos\u00eblovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Krasnoyarsk",
     "iso:country":"RU",
+    "lbl:bbox":"90.94639,54.9825,90.98639,55.0225",
     "lbl:latitude":54.995993,
     "lbl:longitude":90.953403,
     "lbl:max_zoom":18.0,
@@ -41,7 +55,13 @@
     "name:mhr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0451\u043b\u043e\u0432\u043e"
     ],
+    "name:nor_x_preferred":[
+        "Novoselovo"
+    ],
     "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0441\u0451\u043b\u043e\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
         "\u041d\u043e\u0432\u043e\u0441\u0451\u043b\u043e\u0432\u043e"
     ],
     "name:spa_x_preferred":[
@@ -73,6 +93,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1496780,
         "gp:id":2056696,
         "wd:id":"Q7065076"
     },
@@ -89,13 +110,15 @@
         }
     ],
     "wof:id":102014011,
-    "wof:lastmodified":1690858793,
+    "wof:lastmodified":1706240639,
     "wof:name":"Novoselovo",
     "wof:parent_id":1108735535,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242908309
+    ],
     "wof:tags":[]
 },
   "bbox": [

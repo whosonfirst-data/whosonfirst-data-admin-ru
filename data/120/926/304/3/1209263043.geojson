@@ -29,6 +29,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:rus_x_preferred":[
+        "\u0415\u0432\u043b\u0430\u043c\u043f\u0438\u0435\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Yelampiyevskiy",
+        "Yevlampiyevskiy"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632685
@@ -36,6 +43,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":796705
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            466941
+        ]
     },
     "wof:country":"RU",
     "wof:geomhash":"d2ecf6a773766c044c3fab90e416b2ea",
@@ -46,13 +58,15 @@
         }
     ],
     "wof:id":1209263043,
-    "wof:lastmodified":1566624989,
+    "wof:lastmodified":1706240644,
     "wof:name":"Yevlampiyevskiy",
     "wof:parent_id":85632685,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293138777
+    ],
     "wof:tags":[]
 },
   "bbox": [

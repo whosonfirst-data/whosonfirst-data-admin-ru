@@ -32,6 +32,9 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043f\u043a\u043e\u0432\u0441\u043a\u0438\u0435 \u0412\u044b\u0441\u0435\u043b\u043a\u0438"
     ],
+    "name:und_x_variant":[
+        "\u0421\u0430\u043f\u043a\u043e\u0432\u0441\u043a\u0438\u0435 \u0412\u044b\u0441\u0435\u043b\u043a\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85687963,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":498777
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            818507
+        ]
     },
     "wof:country":"RU",
     "wof:geomhash":"05073549625de8a2ea62fe0314e7a465",
@@ -57,13 +65,15 @@
         }
     ],
     "wof:id":1276691203,
-    "wof:lastmodified":1566621451,
+    "wof:lastmodified":1706240652,
     "wof:name":"Sapkovskiye Vyselki",
     "wof:parent_id":1108737841,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326855601
+    ],
     "wof:tags":[]
 },
   "bbox": [

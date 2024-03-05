@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"49.646144,58.58931,49.646144,58.58931",
@@ -15,7 +17,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kirof"
@@ -364,12 +366,14 @@
         }
     ],
     "wof:id":890484533,
-    "wof:lastmodified":1690859927,
+    "wof:lastmodified":1706240636,
     "wof:name":"Kirov",
     "wof:parent_id":890487145,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ru",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102008291
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
