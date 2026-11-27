@@ -1,0 +1,77 @@
+{
+  "id": 9895093092,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.40393,42.98556,47.40393,42.98556",
+    "geom:latitude":42.98556,
+    "geom:longitude":47.40393,
+    "gn:population":15691,
+    "iso:country":"RU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12750458: name \"Semender\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12750458"
+        },
+        {
+            "citation":"GeoNames populated place 12750458: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12750458"
+        },
+        {
+            "citation":"GeoNames populated place 12750458: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12750458"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890484275 (Makhachkala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632685,
+        85688197,
+        102191581,
+        874393555,
+        890484275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12750458
+    },
+    "wof:country":"RU",
+    "wof:geomhash":"c62761974cd30977ca8d7cbd60f2369d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":890484275,
+            "empire_id":874393555,
+            "locality_id":9895093092,
+            "region_id":85688197
+        }
+    ],
+    "wof:id":9895093092,
+    "wof:lastmodified":1795747277,
+    "wof:name":"Semender",
+    "wof:parent_id":890484275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ru",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.40393,
+    42.98556,
+    47.40393,
+    42.98556
+],
+  "geometry": {"coordinates":[47.40393,42.98556],"type":"Point"}
+}
